@@ -4,19 +4,26 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>OpenAudit Philippines - Corruption Risk Map</title>
+  <meta name="description" content="Interactive map showing audit recommendation non-implementation rates across Philippine regions. Track government accountability from COA data 2016-2024.">
   <link rel="stylesheet" href="css/map.css">
   <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
   <script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
 </head>
 <body>
   <header>
+    <nav>
+      <a href="index.html" class="nav-link active">Map</a>
+      <a href="about.html" class="nav-link">About</a>
+    </nav>
     <h1>OpenAudit Philippines</h1>
+    <p>Audit Recommendation Implementation Tracker (2016-2024)</p>
   </header>
 
-  <main id="map" role="img" aria-label="Philippines corruption risk choropleth map by region"></main>
+  <main id="map" role="img" aria-label="Interactive choropleth map showing corruption risk by Philippine region. Hover over regions for details."></main>
 
   <footer>
-    <p>Data: Commission on Audit (COA) 2016-2024</p>
+    <p>Data Source: Commission on Audit (COA) Annual Audit Reports 2016-2024</p>
+    <p>Hover over regions to see non-implementation rates. Darker colors indicate higher non-implementation.</p>
   </footer>
 
   <script src="js/map.js" defer></script>
