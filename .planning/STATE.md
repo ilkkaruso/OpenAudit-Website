@@ -9,29 +9,30 @@ See: .planning/PROJECT.md (updated 2026-03-15)
 
 ## Current Position
 
-Phase: 1 of 4 (Data Foundation) - COMPLETE
-Plan: 4 of 4 in current phase
-Status: Phase complete
-Last activity: 2026-03-16 - Completed 01-04-PLAN.md (Score calculation & JSON generation)
+Phase: 2 of 4 (Core Map) - IN PROGRESS
+Plan: 1 of 2 in current phase
+Status: In progress
+Last activity: 2026-03-16 - Completed 02-01-PLAN.md (Interactive map foundation)
 
-Progress: [######░░░░] 50% (4 of 8 total plans)
+Progress: [#####░░░░░] 50% (5 of 10 total plans)
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 4
-- Average duration: 7.75 min
-- Total execution time: 0.5 hours
+- Total plans completed: 5
+- Average duration: 6.8 min
+- Total execution time: 0.57 hours
 
 **By Phase:**
 
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
 | 01-data-foundation | 4/4 | 31 min | 7.75 min |
+| 02-core-map | 1/2 | 3 min | 3 min |
 
 **Recent Trend:**
-- Last 5 plans: 01-04 (7 min), 01-03 (3 min), 01-02 (11 min), 01-01 (10 min)
-- Trend: Fast execution
+- Last 5 plans: 02-01 (3 min), 01-04 (7 min), 01-03 (3 min), 01-02 (11 min), 01-01 (10 min)
+- Trend: Excellent execution speed
 
 *Updated after each plan completion*
 
@@ -56,6 +57,11 @@ Recent decisions affecting current work:
 - **[01-04] Streak scoring formula** - 1yr=1pt, 2yr=3pt, 3yr=6pt, 4+yr=6+(n-3)*10pt
 - **[01-04] Log dampening for normalization** - Prevents large cities dominating worst offenders list
 - **[01-04] 83.5% LGU coverage acceptable** - 267 LGUs have no observations; not a data error
+- **[02-01] D3.js v7 via CDN** - No build step required for static site; simplifies deployment
+- **[02-01] Mercator projection for Philippines** - Optimal for 5-21°N latitude with minimal distortion
+- **[02-01] Quantize color scale** - 7-level classification for proper choropleth interpretation
+- **[02-01] Pointer events for mobile** - Cross-device compatibility critical for Filipino mobile users
+- **[02-01] PSGC string conversion** - Prevents type mismatch in TopoJSON-to-JSON data join
 
 ### Pending Todos
 
@@ -88,8 +94,8 @@ Ready for Phase 2: Static Site Generation
 
 ## Session Continuity
 
-Last session: 2026-03-16 (plan 01-04 execution)
-Stopped at: Phase 1 complete, ready for Phase 2
+Last session: 2026-03-16 (plan 02-01 execution)
+Stopped at: Phase 2 in progress, 02-01 complete (Interactive map foundation)
 Resume file: None
 
 ---
