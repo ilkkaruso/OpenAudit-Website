@@ -1,0 +1,934 @@
+{
+  "lguCode": "1108210000",
+  "lguName": "New Bataan",
+  "province": "Davao de Oro",
+  "region": "Region X (Northern Mindanao)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "NewBataan_DdO_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended Management to adhere with the documentary and reporting requirements of LBC 111 dated June 10, 2016 in order for them to identify and assess whether the existing LEEs are financially self-sufficient and profitable and provide them better decision making relative to the LEEs operations.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed that the Local Chief Executive instruct the:\na. Inventory and Disposal Committee and the General Services Officer to\nimmediately cause the disposal of these unserviceable properties to prevent its\nfurther deterioration and for management to demand higher return if disposed of\nthru sale or negotiation.\nb. OIC-Accountant to make full disclosure in the Notes to Financial Statements the\ncomposition of the Property, Plant and Equipment which included the\nunserviceable properties.\nc. OIC-Accountant and the General Services Officer to consider the one-time\ncleansing of its PPE accounts by observing the guidelines prescribed in COA\nCircular No. 2020-006 dated January 31, 2020 to update the status of the\nMunicipality’s PPE and to fairly present the account in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended and the Local Chief Executive agreed to:\n1. Advise the OIC- Municipal Accountant to prepare an adjusting entry to take\nup the unidentified deposits by taking up the following suggested entry, viz:\nCash In Bank P28,548.76\nTrust Liabilities P28,548.76\n2. Require the OIC- Municipal Accountant to coordinate/communicate with the\nLand Bank Officials and know the whereabouts of the deposits made.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "We recommended and the Local Chief Executive agreed to instruct the Municipal\nAccountant the following:\na. review the composition of the Accounts Payable to determine the valid claims,\nensure that all recorded payables are duly supported with the required documents\nand drop from the books those accounts that were not supported with necessary\ndocuments.\nb. revert payables aged more than two years to be without valid claims, pursuant to\nSection 98 of PD 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended to Management to:\n1.Direct the concerned end-user to submit justification on non-preparation and submission of Project Requirement, otherwise these expenditures will be considered as unnecessary that will be subsequently disallowed in audit.\n2. Also, direct BAC to submit justification/explanation on processing the procurement of these items when these were not among the project requirement submitted by requisitioning Office.\nWe recommend that Management submit the lacking documentary requirements to verify the regularity and propriety of the procurement transactions prescribed by the guidelines during the state of public health emergency. Furthermore. Management is required to submit explanation on the regularity and propriety of the transactions totaling P15,519,999.00.",
+      "managementAction": "Management implemented the suggested recommendation",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended that Management to:\na. Execute an executive order to commence a one-time cleansing of the Municipality’s Property, Plant and Equipment account and to establish the itemized listing of properties that should be recorded therein, and;\nb. Derecognize unserviceable properties in the PPE accounts after complying to the disposal procedures provided under Section 267 of the Local Government Accounting Manual and Sections 7.0 and 8.0 of COA Circular No. 2020-006 dated January 31, 2020.\nb. Error in the accounting treatment of inventories with an aggregate amount of P10,371,429.00 affects the fair presentation of the financial statements. We recommended that Management strictly implement the perpetual inventory method in recording of supplies and materials and other items by coursing all purchases through the inventory account for each item purchased and recording all issuances therefrom as expenses or other asset account (e.g. CIP) using the moving average method of inventory costing, except however, in case of purchases made out of petty cash fund for immediate use which should be taken up as direct expenses. The ending balance of all supplies and materials inventory per books should then be reconciled with the physical count of such inventories.\nc. Physical existence and validity of Inventories amounting to P9,331,051.39 cannot be ascertained due to non-preparation and submission of the Physical Count of Inventories (RPCI). We recommend that the municipality conduct physical inventory count at least twice a year to establish the actual stock on hand as of the end of a given period and determine whether there were any losses or spoilage and submit to the Office of the Auditor the Report of the Physical Count of Inventories (RPCI) not later than July 31 and January 31 of each year for the first and second semesters, respectively.",
+      "managementAction": "Management implemented the suggested recommendation",
+      "status": "IMPLEMENTED",
+      "reason": "Reiterated in AOM No. 2022-007"
+    },
+    {
+      "id": "NewBataan_DdO_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended the following course of action:\na. require the Municipal SWMB undertake the following course of action:\n1. Prioritize the funding for acquisition of additional garbage compactor so that the delivery of social services in terms of collection and disposal of waste would not be hampered.",
+      "managementAction": "Management implemented the suggested recommendation",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended to the Local Chief Executive to:\n1. Advise the Municipal Planning and Development Officer (MPDO) to closely monitor the development projects during the year as reflected in the AIP.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": "Composition of Project Monitoring Committee"
+    },
+    {
+      "id": "NewBataan_DdO_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended the following course of action:\na. Intensify collection through sending follow-up letters/notices of delinquent stall/lot rentals to remind them of their obligations.\nb. Cause the immediate Cancellation of the business permit or licenses in order not to accumulate the interest and surcharges.\nc. For those lessees who are no longer in business, confiscate the stall/lots to award to another interested one.",
+      "managementAction": "Not Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__NewBataan_DdO-2020-PY12",
+      "year": 2020,
+      "recommendation": "We recommended management to adhere with the documentary and reporting requirements of LBC 111 dated June 10, 2016 in order for them to identify and assess whether the existing LEEs are financially self-sufficient and profitable and provide them better decision making relative to the LEEs operations.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Waiting for schedule seminar or guidelines by the concerned Agency."
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__NewBataan_DdO-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended to Management to:\n1. Direct the concerned end-user to submit justification on non-preparation\nand submission of Project Requirement, otherwise these expenditures will\nbe considered as unnecessary that will subsequently disallowed in audit.\n2. Also, direct BAC to submit justification/explanation on processing the\nprocurement of these items when these were not among the project\nrequirement submitted by Requisitioning\n\nRecommendations:\nWe recommended that Management submit the lacking documentary\nrequirements to verify the regularity and propriety of the procurement transactions\nunder the Bayanihan Act. Furthermore, Management is required to submit\nexplanation for the afore-cited deficiencies and courses of action to be taken to avoid\nrecurrence thereof.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__NewBataan_DdO-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommended the Management to require the Municipal Accountant make the necessary adjustments to present fairly the balances of the Operating Lease Receivable and Receipt from Market Operation accounts to reflect the true results of operation of the concerned economic enterprise and may assist in better management decisions.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__NewBataan_DdO-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended the Management to require the Municipal Accountant make the necessary adjustments to present fairly the balances of the Operating Lease Receivable and Receipt from Market Operation accounts to reflect the true results of operation of the concerned economic enterprise and may assist in better management decisions.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__NewBataan_DdO-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended the Municipal Mayor to:\n\ndirect the Municipal Engineering Office to submit disbursement vouchers together with copies of Certificate of Completion/Statement of Work Accomplished (SWA) on completed projects to the Municipal Accountant for processing and proper recording in the books of accounts;\n\nadvise the Municipal Accountant to reclassify completed projects into the appropriate asset account based on the submitted documents by the Municipal Engineering Office to its related PPE, and;\n\nRecognize the related depreciation expense and accumulated depreciation for the said projects from the time they were available for use.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__NewBataan_DdO-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended the  management to:\n\ndirect the offices concerned to develop strategies to expedite collections and to enforce loan payment per provisions of the MOA/Contract. \n\nexhaust all possible remedies to collect the Receivable accounts particularly those recipient who are still existing in the municipality; and\n\nif the circumstances warrant, request for write-off for receivables where settlement/collectability can no longer be ascertained as prescribed in COA Circular No. 2016-005 dated December 19, 2016.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__NewBataan_DdO-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended management to:\n\nRequire the Municipal Accountant to keep and maintain financial and accounting records of special accounts under the General Fund for the 20% Development Fund, Local Disaster Risk Reduction Management Fund (LDRRMF) and Economic Enterprises and,\n\nSubmit the related financial reports in order to facilitate immediate verification on the sources and uses of funds.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__NewBataan_DdO-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommended management to instruct the Municipal Accountant and the Local Disaster Risk Reduction and Management Officer (LDRRMO) to strictly comply with the accounting and reporting guidelines for the Disaster Risk Reduction Management Fund (LDRRMF) of the LGU  as set forth in COA Circular 2012-002 to properly provide management with accurate financial data on available resources of calamity fund and its utilization to facilitate monitoring on the status of the fund, to serve as guide in decision making and to prevent the incurrence of irregular, unnecessary and illegal disbursements of the fund.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__NewBataan_DdO-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended the Management to: \n\nrequire the Municipal SWMB undertake the following courses of action:\n\nPrepare and formulate the yearly plans and programs and provide appropriations from the Municipality’s annual budget to support the activities in the attainment of its targets as laid down in the Municipality’s 10-year SWMP;\n\nUtilize immediately the acquired parcel of land for the operation and management of sanitary landfill in accordance with the provisions of R.A. 9003; and\n\nPrioritize the funding for acquisition of additional garbage compactor so that the delivery of social services in terms of collection and disposal of waste would not be hampered.\n\nadvise the SWM-TWG to monitor/enforce the strict implementation of the ESWM Plan specifically on the proper maintenance of MRFs in the barangays, schools and other offices.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__NewBataan_DdO-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to secure at all times Sangguniang Bayan Resolution authorizing him to enter into contract with concerned contractors in behalf of the Municipality before contract perfection, for those projects under the lump-sum appropriation and fund transfers from various government agencies.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__NewBataan_DdO-2020-PY9",
+      "year": 2020,
+      "recommendation": "To achieve the objectives of RA 10121 and its IRR, we recommended the following courses of action:\n\nManagement must endeavor to implement disaster mitigation, preparedness and response capability programs and projects in accordance with its LDRRMF Investment Plan to effectively prevent the onslaught on lives and properties of the people of New Bataan in times of natural disaster.\n\nMaximization of available resources on the local DRRMF for disaster mitigation and preparedness in order to build the resilience of the Municipality of New Bataan against disasters including climate change impacts.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__NewBataan_DdO-2020-PY10",
+      "year": 2020,
+      "recommendation": "We recommended to the Local Chief Executive to:\n\nDirect the Municipal Engineering Office (MEO) to immediately address the causes of the delay and non-implementation in order to fast-track the implementation of development projects embodied under the Annual Investment Plan (AIP), in accordance with the time frame to accelerate socio-economic growth and environmental development in the municipality; and\n\nAdvise the Municipal Planning and Development Officer (MPDO) to closely monitor the development projects during the year as reflected in the AIP.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Composition of Project Monitoring Committee"
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__NewBataan_DdO-2020-PY11",
+      "year": 2020,
+      "recommendation": "We recommended Management to direct the MEO and other concerned departments to closely monitor and ensure economic and efficient implementation of all projects under the pertinent National Programs by virtue of the fund transfers received from the National Government agencies for implementation.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__NewBataan_DdO-2020-PY13",
+      "year": 2020,
+      "recommendation": "We recommended the Management to require the GAD Focal Person to submit the yearly Annual Accomplishment Report to the COA Team facilitate the review on municipality’s compliance with rules and regulations pertaining thereto, as well as to facilitate validation and evaluation of the projects, programs and activities implemented during the year in compliance with COA Circular No. 2014-001 dated March 18, 2014.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__NewBataan_DdO-2020-PY14",
+      "year": 2020,
+      "recommendation": "We recommended :\n\n\nEstablish/ and or prepare Council’s Annual Work and Financial Plan, Local Development Plan for Children (LDPC), Local Investment Plan for Children (LIPC) and prepare Municipal CPC Annual Report.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Lacks Local Development Plan for Children due to data gathering constraints."
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__NewBataan_DdO-2020-PY15",
+      "year": 2020,
+      "recommendation": "We recommended the following course of action:\n\na.\tIntensify collection through sending follow-up letters/notices of delinquent stall/lot rentals to remind them of their obligations.\n\nb.\tCause the immediate Cancellation of the business permit or licenses in order not to accumulate the interest and surcharges.\n\nFor those lessees who are no longer in business, confiscate the stall/lots to\naward to another interested one.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Out of P1,792,821.47, a total of P799,416.82 were collected as of December 31, 2018.   \n\nThe Local Chief Executive decided to defer the confiscation of the stall/lot to give ample time to the delinquent stall/lot leases to settle their delinquencies"
+    },
+    {
+      "id": "NewBataan_DdO-2019-PY20",
+      "year": 2019,
+      "recommendation": "Management should make a follow-up letter to require all Non-Government Organizations/People’s Organizations with unliquidated fund transfers and settle and/or liquidate their respective accountability, pursuant to COA Circular 2007-001 dated October 25, 2007, and COA Circular No. 2012-001 dated June 14, 2012.",
+      "managementAction": "CY 2016 AAR",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated audit finding"
+    },
+    {
+      "id": "NewBataan_DdO-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended Management to require the Municipal Accountant make the necessary adjustments to present fairly the balances of the Operating Lease Receivable and Receipt from Market Operation accounts to reflect the true results of operation of the concerned economic enterprise and may assist in better management decisions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended the Municipal Mayor to:\ndirect the Municipal Engineering Office to submit disbursement vouchers together with copies of Certificate of Completion/Statement of Work Accomplished (SWA) on completed projects to the Municipal Accountant for processing and proper recording in the books of accounts;\nadvise the Municipal Accountant to reclassify completed projects into the appropriate asset account based on the submitted documents by the Municipal Engineering Office to its related PPE, and;\nRecognize the related depreciation expense and accumulated depreciation for the said projects from the time they were available for use.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended management to:\ndirect the offices concerned to develop strategies to expedite collections and to enforce loan payment per provisions of the MOA/Contract.\nexhaust all possible remedies to collect the Receivable accounts particularly those recipient who are still existing in the municipality; and\nif the circumstances warrant, request for write-off for receivables where settlement/collectability can no longer be ascertained as prescribed in COA Circular No. 2016-005 dated December 19, 2016.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended management to:\nRequire the Municipal Accountant to keep and maintain financial and accounting records of special accounts under the General Fund for the 20% Development Fund, Local Disaster Risk Reduction Management Fund (LDRRMF) and Economic Enterprises and,\nSubmit the related financial reports in order to facilitate immediate verification on the sources and uses of funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended management to instruct the Municipal Accountant and the Local Disaster Risk Reduction and Management Officer (LDRRMO) to strictly comply with the accounting and reporting guidelines for the Disaster Risk Reduction Management Fund (LDRRMF) of the LGU  as set forth in COA Circular 2012-002 to properly provide management with accurate financial data on available resources of calamity fund and its utilization to facilitate monitoring on the status of the fund, to serve as guide in decision making and to prevent the incurrence of irregular, unnecessary and illegal disbursements of the fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended Management to:\nrequire the Municipal SWMB undertake the following courses of action:\nPrepare and formulate the yearly plans and programs and provide appropriations from the Municipality’s annual budget to support the activities in the attainment of its targets as laid down in the Municipality’s 10-year SWMP;\nUtilize immediately the acquired parcel of land for the operation and management of sanitary landfill in accordance with the provisions of R.A. 9003; and\nPrioritize the funding for acquisition of additional garbage compactor so that the delivery of social services in terms of collection and disposal of waste would not be hampered.\nadvise the SWM-TWG to monitor/enforce the strict implementation of the ESWM Plan specifically on the proper maintenance of MRFs in the barangays, schools and other offices.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We recommended to  the Municipal Mayor to secure at all times Sangguniang Bayan Resolution authorizing him to enter into contract with concerned contractors in behalf of the Municipality before contract perfection, for those projects under the lump-sum appropriation and fund transfers from various government agencies.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-OBS8",
+      "year": 2019,
+      "recommendation": "To achieve the objectives of RA 10121 and its IRR, we recommended the following courses of action:\nManagement must endeavor to implement disaster mitigation, preparedness and response capability programs and projects in accordance with its LDRRMF Investment Plan to effectively prevent the onslaught on lives and properties of the people of New Bataan in times of natural disaster.\nMaximization of available resources on the local DRRMF for disaster mitigation and preparedness in order to build the resilience of the Municipality of New Bataan against disasters including climate change impacts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-OBS9",
+      "year": 2019,
+      "recommendation": "We recommended to the Local Chief Executive to:\nDirect the Municipal Engineering Office (MEO) to immediately address the causes of the delay and non-implementation in order to fast-track the implementation of development projects embodied under the Annual Investment Plan (AIP), in accordance with the time frame to accelerate socio-economic growth and environmental development in the municipality; and\nAdvise the Municipal Planning and Development Officer (MPDO) to closely monitor the development projects during the year as reflected in the AIP.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-OBS10",
+      "year": 2019,
+      "recommendation": "We recommended Management to direct the MEO and other concerned departments to closely monitor and ensure economic and efficient implementation of all projects under the pertinent National Programs by virtue of the fund transfers received from the National Government agencies for implementation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-OBS11",
+      "year": 2019,
+      "recommendation": "We recommended management to adhere with the documentary and reporting requirements of LBC 111 dated June 10, 2016 in order for them to identify and assess whether the existing LEEs are financially self-sufficient and profitable and provide them better decision making relative to the LEEs operations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-OBS12",
+      "year": 2019,
+      "recommendation": "We recommended Management to require the GAD Focal Person to submit the yearly Annual Accomplishment Report to the COA Team facilitate the review on municipality’s compliance with rules and regulations pertaining thereto, as well as to facilitate validation and evaluation of the projects, programs and activities implemented during the year in compliance with COA Circular No. 2014-001 dated March 18, 2014.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-OBS13",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-OBS14",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-OBS15",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended the following courses of action:\n\na.\tRequire the Municipal Accountant to effect the necessary adjustment to correct the reported balances of the affected PPE and Financial Asset accounts in the Financial Statements.\n\nb. \tInstruct the Municipal Accountant to reconcile the discrepancy noted between the balances of Subsidy from Other Funds and Subsidy to Other Funds and effect the necessary adjusting entries. \n\nc. \tRequire the Municipal Accountant to make the necessary adjusting entries for the misclassified transactions to reflect the correct balances of the affected accounts.",
+      "managementAction": "CY 2018 AAR",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended the management to:\n\na.\tRequire the Municipal  Accountant to fully recognize the RPT/SET Receivable at the beginning of the year based on the certified list of tax payers’ amount due and collectible for the year prepared by the Municipal Treasurer in order to record in the books not the mere income estimates from real property taxes but actual receivables from said taxes and to fairly present the said accounts in the financial statements. \n\nb. \tRequire the Municipal Treasurer identify the actual uncollected Real Property and Special Education Fund Taxes, excluding the penalties, to establish the balance of RPT/SET receivable as at yearend. Consequently, the Municipal Accountant make necessary adjustments to present fairly in the financial statements the balance of the said receivable accounts. \n\nc. \tRequire the Municipal Accountant and the Municipal Treasurer to reconcile regularly the accounting and treasury records to verify the accuracy and validity of their records and immediately provide corrective action for discrepancies noted.\n\nd. \tAdvice the Municipal Treasurer’s Office to consider purchasing a computer software to automate the treasury processes, enhance operational quality, ensure regulatory compliance, minimize human errors, and realize on-demand reporting.",
+      "managementAction": "CY 2018 AAR",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accountant should submit the required authority from the SB for the Municipal Mayor to enter into a contract or incurred expense in behalf of the LGU to implement the projects totaling P3,422,963.49.\n\nWe also recommend that in the preparation of the Annual and Supplemental Budget, the Municipal Mayor should provide specific and sufficient details of the proposed projects/programs in compliance with COA Memorandum No. 2010-014 to avoid disallowance in audit.",
+      "managementAction": "CY 2018 AAR",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended management to adhere strictly to the provisions Section 5.1.10 and 5.1.11 of COA Circular 2012-002 in the transfer of unexpended/unspent LDRRM funds to the special trust funds.",
+      "managementAction": "CY 2018 AAR",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended management to accomplish the lacking minimum standards on disaster preparedness, and mitigation as prescribed in Disaster Preparedness Plan 2011-2028 Volume 2, most especially on the category on service delivery, and the procurement of lacking equipment be considered in the LDRRM planning to fully comply with the minimum requirements.",
+      "managementAction": "CY 2018 AAR",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended management to ensure that appropriation ordinances in generic terms are supported with an authorization from the Local Sanggunian approving the itemized appropriation of these funds to avoid audit disallowance.",
+      "managementAction": "CY 2018 AAR",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended to the management to submit a written explanation why LDRRM Fund was disbursed for the expenditures mentioned above, in as much as the fund has its specific purpose as provided in NDRRMC-DBM-DILG Joint Memorandum Circular No. 2013-1 dated March 25, 2013; and\n\nFurther, refrain from charging expenses which are not among those prioritized to be charged against the LDRRM Fund as stated in the above circular.",
+      "managementAction": "CY 2018 AAR",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommended the Municipal Accountant’s Office to strictly impose and deduct the liquidated damages from the claim of the suppliers/contractors.",
+      "managementAction": "CY 2018 AAR",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-PY9",
+      "year": 2019,
+      "recommendation": "We recommended to the management the following courses of actions:\n\na. \tReview current manpower requirements of the Municipality vis-à-vis unimplemented PPAs. If the in-house capability is not adequate to implement PPAs as scheduled, consider the mode of implementation by contract for projects of substantial estimated project costs especially those where the target completion dates and/or year of implementation, have already lapsed; and\n\nb. \tCreate a monitoring team and closely follow through the periodic progress implementation of development projects to ensure their completion within the programmed timelines; and\n\n\nc. \tStrengthen the conduct of proper planning and timely execution of PPAs as well as continuous monitoring and evaluation of PPAs to address issues that may be needed to be resolved during their implementation.",
+      "managementAction": "CY 2018 AAR",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-PY10",
+      "year": 2019,
+      "recommendation": "We recommended that the municipality’s development council headed by the Local Chief Executive shall ensure the optimum utilization of the Municipality’s 20% development fund. Likewise, we recommend that the management allocate properly the municipal budget to fully utilize the available resources to other important PPAs that are economically beneficial to its constituents.",
+      "managementAction": "CY 2018 AAR",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-PY11",
+      "year": 2019,
+      "recommendation": "To achieve the objectives of RA 10121 and its IRR, we recommended management to maximize the utilization of the LDRRMF from current year’s and continuing appropriations and prior years’ unexpended balance so that programs, projects and activities related to disaster prevention, mitigation, and preparedness program will be implemented within the scheduled timeframes. In such manner, the in-house capability to efficiently manage all types of emergencies and to achieve orderly transitions from response to a sustained recovery in case of disaster/calamity will be strengthened to improve the disaster resilience of communities in the Municipality.",
+      "managementAction": "CY 2018 AAR",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-PY12",
+      "year": 2019,
+      "recommendation": "We recommended management to ensure that the requisites for the bidding of infrastructure contracts provided in Section 17.4 of the Revised IRR of RA 9184 such as the detailed engineering investigations, surveys and designs, for the project have been sufficiently carried out and duly approved to ensure that all the undertakings are economically and efficiently carried out to protect the interest of the government; and:\n\na. \tRequire the Engineering Office key personnel to closely monitor the project implementation and ensure that the project is on schedule;\n\nb. \tEnsure the strict observance of the construction period as stipulated in the Contract and Notice to Proceed and strictly adhere to prescribed rules and regulations regarding a delay in completion of infrastructure projects;\n\nc. \tAct with dispatch in resolving the existing issue/problems that are currently hampering/delaying the implementation and/or completion of projects.",
+      "managementAction": "CY 2018 AAR",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-PY13",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Treasurer to:\n\na. \tCoordinate with the Municipal Assessor’s Office and devise a comprehensive strategy primarily focused on the collection of delinquent property taxes to reduce the outstanding amount of delinquencies substantially;\n\nb. \tRequest sufficient funding for the automation of the treasury process to enhance the quality of service and operation and plantilla position to facilitate effective property tax collection and assessment; and\n\nc. \tCoordinate with the Municipal Assessor and Treasurer of the Municipality of Compostela to settle the duplication of assessment of RPUs and avoid the incurrence of additional delinquent accounts.",
+      "managementAction": "CY 2018 AAR",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-PY14",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal SWMB undertake the following courses of action:\n\na. \tImmediately utilize the acquired parcel of land for the operation and management of sanitary landfill in accordance with the provisions of R.A. 9003.\n\nb. \tPrioritize the funding for the acquisition of additional garbage compactor so that the delivery of social services in terms of collection and disposal of waste would not be hampered.",
+      "managementAction": "CY 2017 AAR",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Not Implemented\n\nStill on-going construction of SLF."
+    },
+    {
+      "id": "NewBataan_DdO-2019-PY15",
+      "year": 2019,
+      "recommendation": "We recommended :\n\n\nEstablish/ and or prepare Council’s Annual Work and Financial Plan, Local Development Plan for Children (LDPC), Local Investment Plan for Children (LIPC) and prepare Municipal CPC Annual Report.",
+      "managementAction": "CY 2017 AAR",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Lacks Local Development Plan for Children due to data gathering constraints."
+    },
+    {
+      "id": "NewBataan_DdO-2019-PY16",
+      "year": 2019,
+      "recommendation": "We recommended that the management consider the following courses of action to improve the efficiency of project implementation:\n\nDirect the concerned implementing offices to address the issues/ concerns that caused the non-implementation and/or delay in the completion of projects;\n\n\n\nb. \tCreate a monitoring team and closely follow through the periodic progress implementation of development projects to ensure their completion within the programmed timelines for the attainment of the planned socio-economic developmental goals and provision of desired benefits without further delay to intended beneficiaries; and",
+      "managementAction": "CY 2017 AAR",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_DdO-2019-PY17",
+      "year": 2019,
+      "recommendation": "We recommended the following course of action:\n\na. \tIntensify collection through sending follow-up letters/notices of delinquent stall/lot rentals to remind them of their obligations.\n\nb. \tCause the immediate Cancellation of the business permit or licenses in order not to accumulate the interest and surcharges.\nFor those lessees who are no longer in business, confiscate the stall/lots to\naward to another interested one.",
+      "managementAction": "CY 2017 AAR",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Not\nImplemented\n\nOut of P1,792,821.47, a total of P799,416.82 were collected as of December 31, 2018.   \n\nThe Local Chief Executive decided to defer the confiscation of the stall/lot to give ample time to the delinquent stall/lot leases to settle their delinquencies"
+    },
+    {
+      "id": "NewBataan_DdO-2019-PY18",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipality’s Solid Waste Management Board find an efficient, effective and economical way to utilize the sanitary landfill as soon as possible to avoid the impending problem for waste disposal. \n\nb. We further recommended that the SWMB considers the proposal of the Municipal Engineer’s Office (MEO) to resolve the inaccessibility issue of the sanitary landfill. It is also recommended that the management appropriate enough funds to realize the MEO’s proposal of opening a new road for the immediate utilization of the sanitary landfill.",
+      "managementAction": "CY 2017 AAR",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Bad weather conditions during the construction affect the implementation of the project in the area.\n\n\nAlternate proposed road to SLF was not materialized due to some disapproval of the affected landowners.\n\nAn allotment for concreting of some critical road section to SLF was approved and for 2019 implementation. \n\nDPWH is also planning to construct an overflow box culvert across MAA River to SLF."
+    },
+    {
+      "id": "NewBataan_DdO-2019-PY19",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the responsible officials of the Municipality to make necessary actions to facilitate the implementation of the projects/programs/activities so that the targeted beneficiaries may enjoy the benefits to be derived therefrom.",
+      "managementAction": "CY 2017 AAR",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended the management to:\n\n\n      1. Require the Municipal Accountant to effect the necessary adjustment\n         to correct the reported balances of the affected PPE and  Financial\n         Asset accounts in the Financial Statements.\n\n\n      2. Instruct the Municipal  Accountant  to  reconcile  the  discrepancy\n         noted between the balances of Subsidy from Other Funds and  Subsidy\n         to Other Funds and effect the necessary adjusting entries.\n\n\n      3. Require the Municipal Accountant to make  the  necessary  adjusting\n         entries for the misclassified transactions to reflect  the  correct\n         balances of the affected accounts.\n\n\n\n\n      We recommended the management to:\n\n\n      1. Require the Municipal Accountant to  fully  recognize  the  RPT/SET\n         Receivable at the beginning of the year based on the certified list\n         of tax payers’ amount due and collectible for the year prepared  by\n         the Municipal Treasurer in order to record in  the  books  not  the\n         mere  income  estimates  from  real  property  taxes   but   actual\n         receivables from said taxes and to fairly present the said accounts\n         in the financial statements.\n\n\n      2. Require the Municipal Treasurer  identify  the  actual  uncollected\n         Real Property and  Special  Education  Fund  Taxes,  excluding  the\n         penalties, to establish the balance of  RPT/SET  receivable  as  at\n         yearend. Consequently,  the  Municipal  Accountant  make  necessary\n         adjustments to present  fairly  in  the  financial  statements  the\n         balance of the said receivable accounts.\n\n\n      3. Require the Municipal Accountant and  the  Municipal  Treasurer  to\n         reconcile regularly the accounting and treasury records  to  verify\n         the accuracy and validity of their records and immediately  provide\n         corrective action for discrepancies noted.\n\n\n      4. Advice the Municipal Treasurer’s Office to  consider  purchasing  a\n         computer software  to  automate  the  treasury  processes,  enhance\n         operational quality, ensure regulatory compliance,  minimize human\n         errors, and realize on-demand reporting.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommended the\nfollowing courses of\naction:\nRequire the Municipal\nAccountant to effect\nthe necessary\nadjustment on the\nomissions/errors to\ncorrect the reported\nbalances of the\naffected accounts in\nthe Financial\nStatements;\nPrepare a\nreconciliation\nstatement for the\ndiscrepancies noted\nin the balances of\nDue to other NGAs\naccount vis-a-vis\nNGAs records and\neffect the necessary\nadjusting entries, if\nany and coordinate or\nmake representation\nto NGAs Accountant to\nsettle the variance.;\nRequire the Municipal\nAccountant to compute\nand recognized\ndepreciation of the\nPPE account.\nObserve the\nadditional\ninformation required\nby PPSAS that is not\nshown on the face of\nthe financial\nstatements but\nrelevant to an\nunderstanding.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommended that\nthe Management to\nrequire the OIC -\nMunicipal\nAccountant to keep\nand maintain\nfinancial and\naccounting records of\nspecial accounts\nunder the General\nFund for the 20%\nDevelopment Fund and\nLocal Disaster Risk\nReduction Management\nFund (LDRRMF) and to\nsubmit the related\nfinancial reports in\norder to facilitate\nimmediate\nverification on the\nsources and uses of\nthese funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommended that\nthe Local School\nBoard should ensure\nthat the proposed\nbudget was properly\nbalanced, reasonably\ndistributed, and the\ntop priority among\nexpenses which is\nrepairs and\nmaintenance of\nschool buildings and\nother facilities of\npublic elementary\nand secondary\nschools as stated in\nSection 100 of RA\n7160 were greatly\nconsidered.\nWe also recommended\nthat whatever\nprojects, programs or\nactivities embodied\nin the budget should\nhave been seriously\nimplemented to\noptimize the\nutilization and\naccomplish the\npurpose for which the\nfund has been\ncreated.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2018-PY4",
+      "year": 2018,
+      "recommendation": "We recommended that\nthe Local School\nBoard should:\nEnsure that the\nproposed budget was\nproperly balanced,\nreasonably\ndistributed, and the\nmost priority\nexpenses which is\nrepairs and\nmaintenance of\nschool buildings and\nother facilities of\npublic elementary\nand secondary\nschools as stated in\nSection 100 of RA\n7160 were greatly\nconsidered; and\nProjects, programs or\nactivities embodied\nin the budget should\nhave been seriously\nimplemented to\noptimize the\nutilization and\naccomplish the\npurpose for which the\nfund has been\ncreated; and\nSee to it that funds\nallocated for Special\nEducation Fund be\nbudgeted and utilized\nstrictly in\naccordance with\nSection 1 of RA 5447,\nSection 272 of RA\n7160 and the new\nrules and regulations\nissued under DepED,\nDBM and DILG Joint\nCircular No. 01, s.\n2017 dated January\n19, 2017, during the\nplanning and budget\npreparation to\neffectively attain\nthe purpose for\nwhich the fund was\ncreated and to refrain\nfrom using SEF for\nexpenditures not\nallowed to be charged\nunder the same fund\nto avoid audit\nsuspensions/\ndisallowances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2018-PY5",
+      "year": 2018,
+      "recommendation": "It is recommended\nthat the Municipal\nSolid Waste\nManagement Board\n(SWMB) convene to\nreview and update\nthe Municipality’s\n10-year Ecological\nSolid Waste\nManagement Plan to\nensure its\nsustainability,\nviability, relevance,\nand effectiveness.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2018-PY6",
+      "year": 2018,
+      "recommendation": "It is recommended\nthat the Municipal\nEcological Solid\nWaste Management\nBoard should be\nreconstituted to\nconform with the\nmembership\nrequirements of R.A.\nNo. 9003 and its IRR,\nto optimize the\ninvolvement of civil\nsociety as\nenvisioned in the\nLaw; and should\nregularly convene to\nenable effective\nperformance of its\nfunctions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommended that\nthe Municipal SWMB\nundertake the\nfollowing courses of\naction:\nPrepare and formulate\nthe yearly plans and\nprograms and provide\nappropriations from\nthe Municipality’s\nannual budget to\nsupport the\nactivities in the\nattainment of its\ntargets as laid down\nin the Municipality’s\n10-year SWMP.\nImmediately utilize\nthe acquired parcel\nof land for the\noperation and\nmanagement of\nsanitary landfill in\naccordance with the\nprovisions of R.A.\n9003.\nPrioritize the\nfunding for the\nacquisition of\nadditional garbage\ncompactor so that the\ndelivery of social\nservices in terms of\ncollection and\ndisposal of waste\nwould not be\nhampered.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "ESWMP plans\nand programs\nwere stipulated in\nthe 2018 & 2019\nAIP but not yet\nappropriated due to\nbudgetary\nconstraints.\nStill on-going\nconstruction of\nSLF cell.\nProjects to be\nfunded and\nimplemented in the\nyear 2020."
+    },
+    {
+      "id": "NewBataan_CV-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommended that\nthe Municipal Mayor\ndirect the\nresponsible official(s)\nof the Municipality\nto submit the\nMemorandum of\nAgreements (MOAs)\nincluding all\npertinent documents\npertaining to all\nDILG-BuB and other\nNGA-funded projects\nof the Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2018-PY9",
+      "year": 2018,
+      "recommendation": "We recommended to the\nMunicipal Disaster\nRisk Reduction and\nManagement Council\n(MDRRMC) to strictly\ncomply with the\npreparation of the\nLocal Disaster Risk\nReduction and\nManagement Investment\nPlan annually\npursuant to\nSection 5.1.2 of COA\nCircular No. 2012-\n002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2018-PY10",
+      "year": 2018,
+      "recommendation": "We recommended the\nfollowing:\nSubmit justification\nletter on the\nabove-noted\ndeficiencies.\nAllocate 1% of the\nIRA for the\nstrengthening of the\nLCPC and\nimplementation of\nPPAs and;\nEstablish/ and or\nprepare Council’s\nAnnual Work and\nFinancial Plan, Local\nDevelopment Plan for\nChildren (LDPC),\nLocal Investment Plan\nfor Children (LIPC)\nand prepare Municipal\nCPC Annual Report.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Lacks Local\nDevelopment Plan\nfor Children due to\ndata gathering\nconstraints."
+    },
+    {
+      "id": "NewBataan_CV-2018-PY11",
+      "year": 2018,
+      "recommendation": "We recommended that\nthe Management submit\na valid\nexplanation/justifica tion on why the\ndisbursements on\nvarious cultural\nactivities did not\nobserve the\nguidelines provided\nin the Revised\nImplementing Rules\nand Regulations of\nRepublic Act No.\n9184. Further, strict\nadherence on the law\non procurement is\nenjoined to avoid\nsuspensions/\ndisallowances in\naudit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2018-PY12",
+      "year": 2018,
+      "recommendation": "We, therefore,\nrequire the members\nof the Bids and\nAwards Committee to\njustify and explain\nthe reasons on their\nrecommendation to\naward the\nprocurement of labor\nto a licensed regular\ncontractor in\nviolation of the\nregulation as\nmentioned above.\nHenceforth,\nManagement should\ncomply strictly with\nthe regulation for a\nsimilar transaction\nthat will be made in\nthe future.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2018-PY13",
+      "year": 2018,
+      "recommendation": "We recommended that\nthe management\nconsider the\nfollowing courses of\naction to improve\nthe efficiency of\nproject\nimplementation:\nDirect the concerned\nimplementing offices\nto address the\nissues/ concerns that\ncaused the\nnon-implementation\nand/or delay in the\ncompletion of\nprojects;\nCreate a monitoring\nteam and closely\nfollow through the\nperiodic progress\nimplementation of\ndevelopment\nprojects to ensure\ntheir completion\nwithin the programmed\ntimelines for the\nattainment of the\nplanned socio-\neconomic\ndevelopmental goals\nand provision of\ndesired benefits\nwithout further delay\nto intended\nbeneficiaries; and\nRevisit the\nguidelines on local\nplanning and\ndevelopment, and\ncomply strictly with\nthe conditions for\nthe determination and\nactual\nimplementation of\nprojects that\nsupport the Annual\nInvestment Plan to\nimprove efficiency in\nthe local governance\nas a whole.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "For the\nP24,411,540.00-\nworth project,\nP21,638,530.00 were\ncompleted.\nThe contractor of\nPanag Upgrading of\nCommunity Access\nRoad amounting to\nP2,773,010.00\nrequested time\nsuspension for\nvariation order due\nto unseen\nunsuitable\nmaterials.\nThe LGU is still on\nthe process of\ncreating the\nmonitoring team.\nRevisit the\nguidelines on local\nplanning and\ndevelopment, and\ncomply strictly with\nthe conditions for\nthe determination\nand actual\nimplementation of\nprojects that\nsupport the Annual\nInvestment Plan to\nimprove efficiency\nin the local\ngovernance as a\nwhole."
+    },
+    {
+      "id": "NewBataan_CV-2018-PY14",
+      "year": 2018,
+      "recommendation": "We recommended the\nfollowing course of\naction:\nIntensify collection\nthrough sending\nfollow-up\nletters/notices of\ndelinquent stall/lot\nrentals to remind\nthem of their\nobligations.\nCause the immediate\nCancellation of the\nbusiness permit or\nlicenses in order not\nto accumulate the\ninterest and\nsurcharges.\nFor those lessees\nwho are no longer in\nbusiness, confiscate\nthe stall/lots to\naward to another\ninterested one.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Out of P1,792,821.47,\na total of\nP799,416.82 were\ncollected as of\nDecember 31, 2018.\nThe Local Chief\nExecutive decided to\ndefer the\nconfiscation of the\nstall/lot to give\nample time to the\ndelinquent stall/lot\nleases to settle their\ndelinquencies."
+    },
+    {
+      "id": "NewBataan_CV-2018-PY15",
+      "year": 2018,
+      "recommendation": "We recommended that\nthe Municipality’s\nSolid Waste\nManagement Board\nfind an efficient,\neffective and\neconomical way to\nutilize the sanitary\nlandfill as soon as\npossible to avoid the\nimpending problem\nfor waste disposal.\nWe further\nrecommended that the\nSWMB considers the\nproposal of the\nMunicipal Engineer’s\nOffice (MEO) to\nresolve the\ninaccessibility issue\nof the sanitary\nlandfill. It is also\nrecommended that the\nmanagement\nappropriate enough\nfunds to realize the\nMEO’s proposal of\nopening a new road\nfor the immediate\nutilization of the\nsanitary landfill.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Bad weather\nconditions during\nthe construction\naffect the\nimplementation of\nthe project in the\narea.\nAlternate proposed\nroad to SLF was not\nmaterialized due to\nsome disapproval of\nthe affected\nlandowners.\nAn allotment for\nconcreting of some\ncritical road section\nto SLF was approved\nand for 2019\nimplementation.\nDPWH is also\nplanning to\nconstruct an\noverflow box culvert\nacross MAA River to\nSLF."
+    },
+    {
+      "id": "NewBataan_CV-2018-PY16",
+      "year": 2018,
+      "recommendation": "We recommended that\nthe Municipal SWMB\nfulfill the\nrequirements of the\nEMB-DENR to fast-\ntrack the turn-over of\nthe MRF for it to be\nutilized immediately\nand attain the\nobjectives of R.A.\n9003 particularly\nconcerning proper\nsegregation,\ncomposting and\nrecycling of wastes\nin an\nenvironmentally\nsound manner.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2018-PY17",
+      "year": 2018,
+      "recommendation": "We recommended that\nthe Municipal Mayor\ndirect the\nresponsible officials\nof the Municipality\nto make necessary\nactions to facilitate\nthe implementation of\nthe projects/programs/activities so that the\ntargeted beneficiaries\nmay enjoy the\nbenefits to be\nderived therefrom.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Manurigao water\nsystem was\ncompleted.\nFor the Salintubig –\nCabinuangan, we are\non the process of\nfinding a new water\nsource, so that we\ncan proceed for the\nvariation order and\nimplementation."
+    },
+    {
+      "id": "NewBataan_CV-2018-PY18",
+      "year": 2018,
+      "recommendation": "It is recommended\nthat the Municipal\nSocial Welfare and\nDevelopment Officer\nand the Municipal\nAgriculturist fast\ntrack the\nimplementation of the\nSustainable\nLivelihood Programs\nto help the living\ncondition of the 4Ps\nand “Typhoon Pablo”\naffected families.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2018-PY19",
+      "year": 2018,
+      "recommendation": "Management should\nmake a follow-up\nletter to require all\nNon-Government\nOrganizations/People’s Organizations with\nunliquidated fund\ntransfers and settle\nand/or liquidate\ntheir respective\naccountability,\npursuant to COA\nCircular 2007-001\ndated October 25,\n2007, and COA\nCircular No. 2012-\n001 dated June 14,\n2012.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Still, a balance of\nP1,415,818.55 exists\nas at Dec. 31, 2018."
+    },
+    {
+      "id": "NewBataan_CV-2018-PY20",
+      "year": 2018,
+      "recommendation": "Direct the Grow Micro\nProgram - Technical\nWorking Group (GWP-\nTWG) to establish a\nloan policy indicating,\nbut not limited to,\nthe following\ninformation: the loan\nprocess; the\nqualification and\nassessment of the\nborrowers based on\ntheir capacity,\ncharacter, condition,\nco-maker; the\nrequired documents\nfor loan application;\nthe loan term;\ncomputation of\ninterest and penalty,\nif any; frequency of\ncollection; prioriti\nzation of payment\nwhether penalty and\ninterest first before\nthe allocation of\npayment to principal;\nand other information\nthat might be useful\nin the operation of\nthis program and for\nfuture loan\nprograms.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2017-PY9",
+      "year": 2017,
+      "recommendation": "We recommended that the Local School Board: Consider and include only expenditures appropriately chargeable to Special Education Fund pursuant to RA 5447, RA 7160 and DECS-DBM-DILG Joint Circular No.2 01-A and 01-B during the planning and budget preparation. Refrain future payment of expenditures not allowed to be charged under the Special Education Fund to avoid audit suspensions/disallowances. For schools in dire need of establishing extension classes, submit request to the DepEd Division Superintendent supported with the computation of the number of pupils/students vis-à-vis number of regular DepEd teaching staff in the concerned elementary/secondary public schools in order to accommodate the salaries of teachers to be hired which can be appropriately charged against the Special Education Fund.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in Finding No. 4."
+    },
+    {
+      "id": "NewBataan_CV-2017-OBS1",
+      "year": 2017,
+      "recommendation": "Recommendation/s:\n\n    In view thereof, we recommended that Management:\n\n    a. Require the Municipal Accountant to effect the necessary  adjustment\n       on the omissions/errors to correct  the  reported  balances  of  the\n       affected accounts in the Financial Statements;\n\n\n    b. Prepare a reconciliation statement for the  discrepancies  noted  in\n       the balances of Due to other NGAs account vis-a-vis NGAs records and\n       effect the necessary adjusting entries, if  any  and  coordinate  or\n       make representation to NGAs Accountant to settle the variance.;\n\n\n    c.  Require  the  Municipal  Accountant  to  compute   and   recognized\n       depreciation of the PPE account.\n\n\n    d. Observe the additional information required by  PPSAS  that  is  not\n       shown on the face of the financial statements  but  relevant  to  an\n       understanding.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2017-PY1",
+      "year": 2017,
+      "recommendation": "It is recommended   that the Municipal  Social Welfare and  Development Officer  and the Municipal  Agriculturist fast  track the  implementation of the Sustainable Livelihood Programs in order to help the living condition of the 4Ps and “Typhoon Pablo” affected families.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The balance of P1.6M was intended to purchase abaca but the supplier was not able to deliver the supply. This is subject to re-bidding."
+    },
+    {
+      "id": "NewBataan_CV-2017-PY2",
+      "year": 2017,
+      "recommendation": "Require the Municipal Planning and Development Coordinator (MPDC), being the Municipal Development Council (MDC) Secretariat to clearly specify the programs/projects/ activities with its corresponding cost under the 20% Development Fund for inclusion in the Annual Investment Plan and the Annual Budget.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2017-PY3",
+      "year": 2017,
+      "recommendation": "Require the Municipal Engineer and MPDC to coordinate with each other on infrastructure project details for the prompt preparation of the program of work and detailed estimates by the former.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2017-PY4",
+      "year": 2017,
+      "recommendation": "We recommended that management strictly enforced Municipal Ordinance No.004, series of 2012 related to garbage fines and penalties in order to generate additional income for the municipality which can be used to fund program for Solid Waste management.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2017-PY5",
+      "year": 2017,
+      "recommendation": "In order to foster public awareness and monitoring of the procurement process and implementation of perfected and awarded contracts of the LGU, we have recommended the following: Require the Bids and Awards Committee to prepare the Procurement Monitoring Report (PMR) for all types of procurements at the end of each semester and have it approved by the HOPE. Submit the duly approved PMR, furnishing a copy to Office of the Auditor, the Government Procurement Policy Board (GPPB) in printed and electronic format within fourteen (14) calendar days after the end of each semester.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2017-PY6",
+      "year": 2017,
+      "recommendation": "Require the Municipal Engineer and other concerned officials to submit the list of PPAs on its prescribed format every beginning of the year which shall include those at the planning stage and those on-going projects in pursuance to the provisions of COA Circular No. 2013-004 dated January 30, 2013 to enable the Audit Team to undertake prompt validation of the projects.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2017-PY7",
+      "year": 2017,
+      "recommendation": "Management should make a follow-up letter to require all Non-Government Organizations/People’s Organizations with unliquidated fund transfers and settle and/or liquidate their respective accountability, pursuant to COA Circular 2007-001 dated October 25, 2007 and COA Circular No. 2012-001 dated June 14, 2012.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Management requested to the Sangguniang Bayan a resolution for an allowance for bad debts but the SB returned it for further verification/ inspection as to the existence of the cooperatives. Likewise, the MTO send collection letters to the different NGOs and partial payment was made and promised to pay."
+    },
+    {
+      "id": "NewBataan_CV-2017-PY8",
+      "year": 2017,
+      "recommendation": "Require the Municipal Treasurer to remit the 50% share of the Special Education Tax to the provincial government to aid the latter in the funding and implementation of priority programs and projects under the Special Education Fund.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2017-PY10",
+      "year": 2017,
+      "recommendation": "Require the Philippine Councilor Leagues (PCL) and all other leagues organized by elected officials, to issue a government Official Receipts (OR)/ Accountable Form No. 51 (AF 51) for all collections made so that proper financial accountability could be established. PCL collections should be deposited as trust fund and should be disbursed in accordance with the board of director’s resolutions, subject to the usual accounting and auditing rules and regulations. Ensure that all future registration fee payments for PCL conducted trainings/seminars/activities be receipted with a government official receipt which is Accountable Form 51 to avoid audit suspensions/disallowances. Require the SB member, Hon. Justino D. Vargas, to submit the deficient documentary requirements as presented in this AOM to the auditors’ office.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2017-PY11",
+      "year": 2017,
+      "recommendation": "Direct the Grow Micro Program - Technical Working Group (GWP-TWG) to establish a loan policy indicating, but not limited to, the following information: the loan process; the qualification and assessment of the borrowers based on their capacity, character, condition, co-maker; the required documents for loan application; the loan term; computation of interest and penalty, if any; frequency of collection; prioritization of payment whether penalty and interest first before the allocation of payment to principal; and other information that might be useful in the operation of this program and for future loan programs.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Management requested to the Sangguniang Bayan a resolution for an allowance for bad debts but the SB returned it for further verification/ inspection as to the existence of the cooperatives. Likewise, the MTO send collection letters to the different NGOs and partial payment was made and some promised to pay."
+    },
+    {
+      "id": "NewBataan_CV-2016-OBS1",
+      "year": 2016,
+      "recommendation": "Recommendation:\n\n      It is recommended that the Municipal Social  Welfare  and  Development\nOfficer and the Municipal Agriculturist fast  track  the  implementation  of\nthe Sustainable Livelihood Programs in order to help  the  living  condition\nof the 4Ps and “Typhoon Pablo” affected families.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2016-OBS2",
+      "year": 2016,
+      "recommendation": "Recommendations:\n\n      Require the Municipal Planning  and  Development  Coordinator  (MPDC), being  the  Municipal  Development  Council  (MDC)  Secretariat  to  clearly\nspecify the programs/projects/activities with its corresponding cost   under\nthe 20% Development Fund   for inclusion in the Annual Investment  Plan  and\nthe Annual Budget.\n\n      Require the Municipal Engineer and MPDC to coordinate with each  other\non infrastructure project details for the prompt preparation of the  program\nof work and detailed estimates by the former.\n\n      Direct the Municipal Engineer to  strictly  administer  and  supervise\nthe  implementation  of  development  projects  and  likewise   advise   the\nMunicipal Planning and  Development  Coordinator  to  strictly  monitor  its\nimplementation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2016-OBS3",
+      "year": 2016,
+      "recommendation": "Recommendation:\n\n      We recommend that management  strictly  enforced  Municipal  Ordinance\nNo.004, series of 2012 related to garbage fines and penalties  in  order  to\ngenerate additional income for the municipality which can be  used  to  fund\nprogram for Solid Waste management.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2016-OBS4",
+      "year": 2016,
+      "recommendation": "Recommendations:\n\n      In order to foster public awareness and monitoring of the  procurement\nprocess and implementation of perfected and awarded contracts  of  the  LGU,\nwe have recommended the following:\n     1. Require the Bids and Awards Committee to  prepare  the  Procurement\n        Monitoring Report (PMR) for all types of procurements at the end of\n        each semester and have it approved by the HOPE.\n\n     2. Submit the duly approved PMR, furnishing a copy to  Office  of  the\n        Auditor, the Government Procurement Policy Board (GPPB) in  printed\n        and electronic format within fourteen ((14) calendar days after the\n        end of each semester.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2016-OBS5",
+      "year": 2016,
+      "recommendation": "Recommendation:\n\n      Require the Municipal  Engineer  and  other  concerned  officials  to\nsubmit the list of PPAs on its prescribed  format  every beginning of the\nyear which shall include those at the  planning  stage  and  those  on-going\nprojects in pursuance to the provisions of COA Circular No.  2013-004  dated\nJanuary 30, 2013 to enable the Audit Team to undertake prompt validation  of\nthe projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2016-OBS6",
+      "year": 2016,
+      "recommendation": "Recommendation:\n\n\n      Management  should  make  a  follow-up  letter  to  require  all  Non-\nGovernment  Organizations/People’s  Organizations  with  unliquidated   fund\ntransfers and  settle  and/or  liquidate  their  respective  accountability,\npursuant to COA Circular 2007-001 dated October 25, 2007  and  COA  Circular\nNo. 2012-001 dated June 14, 2012.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2016-OBS7",
+      "year": 2016,
+      "recommendation": "Recommendations:\n\n      We recommend that the Local School Board:\n\n  1. Consider and include  only  expenditures  appropriately  chargeable  to\n     Special Education Fund pursuant to RA 5447, RA 7160  and  DECS-DBM-DILG\n     Joint Circular No.2 01-A  and  01-B  during  the  planning  and  budget\n     preparation.\n\n\n  2. Refrain future payment of expenditures not allowed to be charged  under\n     the Special Education Fund to avoid audit suspensions/disallowances.\n\n\n  3. For schools in dire need  of  establishing  extension  classes,  submit\n     request  to  the  DepEd  Division  Superintendent  supported  with  the\n     computation of  the  number  of  pupils/students  vis-à-vis  number  of\n     regular DepEd teaching  staff  in  the  concerned  elementary/secondary\n     public schools in order to accommodate the salaries of teachers  to  be\n     hired which can be appropriately charged against the Special  Education\n     Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2016-PY1",
+      "year": 2016,
+      "recommendation": "Program funds downloaded by national government agencies be carefully evaluated before implementation to ensure its effectiveness.  After careful evaluation, if programs are not viable, make representation s to the donor agency for the realignment of program funds to other identified priority programs/projects of the municipality to avoid wastage of funds and to be able to attain the pro-poor objectives of the program.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2016-PY2",
+      "year": 2016,
+      "recommendation": "Management should require all Non-Government Organizations/People’s Organizations with unliquidated fund transfers to immediately settle and/or liquidate their respective accountability, pursuant to COA Circular 2007-001 dated October 25, 2007 and COA Circular No. 2012-001 dated June 14, 2012.",
+      "managementAction": "The Municipal Accountant disclosed that they sent collection/ demand letters to the beneficiar ies but there was no reply.",
+      "status": "UNKNOWN",
+      "reason": "Despite of demand letters send to the NGOs/POs no liquidat ion was received by the LGU."
+    },
+    {
+      "id": "NewBataan_CV-2016-PY3",
+      "year": 2016,
+      "recommendation": "Requisition and acquisition of fuel shall be made on a semi-monthly/monthly estimated fuel consumption of the various heavy equipment and motor vehicles of the municipality.",
+      "managementAction": "The LGU had stopped procuring fuel, oil and lubricants in large quantities/volume.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2016-PY4",
+      "year": 2016,
+      "recommendation": "Require the Municipal Engineering Office to prepare on a monthly basis and per heavy equipment, the Heavy Equipment Utilization Report and furnished the same the Office of the COA Auditor in order to have immediate verification on the sources and uses of this fund.",
+      "managementAction": "The Municipal Accountant particularly the motorpool has been regularly submitting fuel consumption report for heavy equipment.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2016-PY5",
+      "year": 2016,
+      "recommendation": "Require the Philippine Councilor Leagues (PCL) and all other leagues organized by elected officials, to issue a government Official Receipts (OR)/Accountable Form No. 51 (AF 51) for all collections made so that proper financial accountability could be established.\nPCL collections should be deposited as trust fund and should be disbursed in accordance with the board of director’s resolutions, subject to the usual accounting and auditing rules and regulations.\nEnsure that all future registration fee payments for PCL conducted trainings/seminars/activities be receipted with a government official receipt which is Accountable Form 51 to avoid audit suspensions/disallowances.\nRequire the SB member, Hon. Justino D. Vargas, to submit the deficient documentary requirements as presented in this AOM to the auditors’ office. Failure to do so may result to audit suspension/disallowance.",
+      "managementAction": "The Municipal Accountant submitted the required lacking documents of Justino Vargas",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The management had complied the supporting documents of DV’s cited.  However, for the registra tion fee of PCL seminars/ training they still used the personalized receipt."
+    },
+    {
+      "id": "NewBataan_CV-2016-PY6",
+      "year": 2016,
+      "recommendation": "Require the Municipal Accountant to create and maintain a subsidiary ledger account for the Local Disaster Risk Reduction and Management Fund (LDRRMF) in order to facilitate immediate verification on the sources and uses of this fund.",
+      "managementAction": "The Municipal Accountant has already created a separate subsidiary ledger for MDRRMF both General Fund and Trust Fund.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2016-PY7",
+      "year": 2016,
+      "recommendation": "Require the Municipal Accountant to strictly comply with the preparation and submission of the report on the sources and utilization of the LDRRMF to the COA every end of each month pursuant to COA Circular 2012-002 dated September 12, 2012, for verification/audit purposes.",
+      "managementAction": ".The Municipal Accounting Office has regularly submitted their MDRRMF utilization report.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2016-PY8",
+      "year": 2016,
+      "recommendation": "Require the Municipal Disaster Risk Reduction and Management Council (MDRRMC) to strictly comply with the preparation of the Local Disaster Risk Reduction and Management Plan and its corresponding LDRRMF Investment Plan annually pursuant to Item C Section 12 of RA 10121 and COA Circular 2012-002 dated September 12, 2012.",
+      "managementAction": "The LGU has already submitted their LDRRMF Plan and LDRRMF Investment Plan.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2016-PY9",
+      "year": 2016,
+      "recommendation": "Require the Bids and Awards Committee to enforce the posting of Performance Security as required under Section 39 of the IRR of RA 9184 to protect the interest of the government.",
+      "managementAction": "The BAC has already invited 2 observers in all stages of procuremen t.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2016-PY10",
+      "year": 2016,
+      "recommendation": "Require the Bids and Awards Committee to enforce the posting of Performance Security as required under Section 39 of the IRR of RA 9184 to protect the interest of the government.",
+      "managementAction": "The BAC had already required the winning bidder to post Performanc e Security.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2016-PY11",
+      "year": 2016,
+      "recommendation": "It is recommended to require the GSO to submit approved Purchase Orders together with their supporting documents to the Audit Team for contract review within five (5) working days from issuance as prescribed in Section 3.2.1 of COA Circular 2009-001 dated February 12, 2009 in order to have a timely review and evaluation of the various contracts entered into by the Municipality. Also, see to it that Purchase Orders and other documents in the procurement process are duly accomplished, dated and received by concerned parties in compliance with the provisions of RA 9184.\nFurther, require the BAC to submit copy of resolutions for the procurement of meals and snacks that indicates the basis for the determination of the winning bidder.",
+      "managementAction": "The approved PO together with other supporting documents were regularly submitted to the Office of the Auditor.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2016-PY12",
+      "year": 2016,
+      "recommendation": "Immediately use the purchased lot for dumping site for the operation and management of waste disposal to sustain the effective implementation of the Solid Waste Management Plan of the local government.\nStop the operation of the present disposal site and strictly implement the waste segregation policy of the Municipality. Restrict also the entry of unauthorize d persons picking wastes at the disposal area in order to prevent the scattering of wastes, which is detrimental to the environment.",
+      "managementAction": "The Municipality has already used the purchased lot for dumping site for waste disposal.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2016-PY13",
+      "year": 2016,
+      "recommendation": "The management through the GAD Focal Person shall seek approval of its GAD Plan and Budget and secure Certificate of Approval from the Department of Interior and Local Government (DILG) Regional office for the proper integration of the GAD Programs, Projects and activities in its Annual Investment Plan.\nLikewise, the Municipal Planning and Development Office should establish a Gender database in order to have reliable and sufficient information for gender responsive planning, programming and policy formulations.",
+      "managementAction": "The LGU had seek approval of GAD Plan and Budget from DILG.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2016-PY14",
+      "year": 2016,
+      "recommendation": "It is recommended to require the GAD Focal Person to submit the CY 2015 Annual Accomplishment Report to the COA Auditor to be able to validate and evaluate the implemented programs,projects and activities.",
+      "managementAction": "The LGU had submitted their GAD Accomplishme nt Report.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NewBataan_CV-2016-PY15",
+      "year": 2016,
+      "recommendation": "Direct   the  Grow Micro  Program - Technical Working Group (GWP-TWG) to establish a loan policy indicating, but not limited to, the following information: the loan process; the qualification and assessment of the borrowers based on their capacity, character, condition, co-maker; the required documents for loan application; the loan term; computation of interest and penalty, if any; frequency of collection; prioritization of payment whether penalty and interest first before the allocation of payment to principal; and other information that might be useful in the operation of this program and for future loan programs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    }
+  ]
+}

@@ -1,0 +1,1846 @@
+{
+  "lguCode": "806408000",
+  "lguName": "Macrohon",
+  "province": "Southern Leyte",
+  "region": "Region VII (Central Visayas)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "Macrohon_SoLeyte_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended that the: a. IAR upon delivery of all procured goods to meet the required items are met. b. RIS to support issuances for distribution to end-users/beneficiaries. Further, the Inventory list supported with an updated stock list and cards/property cards of covid-related procured items for proper monitoring.",
+      "managementAction": "Implemented",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not 2021 Implemented Inventory List was not prepared. (this was reiterated in finding No. 9, Part II this report.)"
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "1.13 We recommended that the Municipal Mayor require the:\na. Municipal Accountant and Supply Officer to prioritize the regular\nupdating and reconciliation of their respective records on PPEs;\nb. Municipal Accountant to prepare the necessary adjusting entries, if any;\nc. Inventory Committee to conduct comprehensive physical count and\nprepare the RPCPPE using the prescribed format under the MNGAS for\nLGUS, Volume I; and\nd. Supply Officer to maintain and update regularly all property cards and\nreconcile with the ledger cards of the accounting unit .",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "2.5 In view of these, we recommended for the Municipal Mayor to oblige the\nfollowing officials to implement the provisions of COA Circular No. 2015-008\ndated November 23, 2015:\na. The Municipal Accountant to prepare a Journal Voucher to record the\nbeginning balance of the local road network and its components in the\ngeneral ledger and the Local Road Network Ledger Card (Annex D),\nrespectively and to keep and maintain subsidiary records for roads and\nroad components for every road network;\nb. The General Services Officer to maintain a Local Road Inventory and\nRoad Map and to keep a complete Local Road Network Property Card for\nall roads and its components (Annex E); and\nc. The Municipal Engineer to provide the local accountant and the Property\nOfficer with the complete description and cost segregation of road\ncomponents for road projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "3.9 We, therefore, recommended for the Municipal Mayor:\na. to advise the Municipal Treasurer to submit to the Municipal Accountant\nevery yearend a duly certified list showing the name of taxpayers and the\namount due and collectible for the year;\nb. to advise the Municipal Accountant to set up SET and RPT Receivables\nevery beginning of the year based on the Municipal Treasurer’s report and\nnot on the report prepared by the Municipal Assessor;\nc. to advise the Municipal Assessor to update regularly his records on taxable\nproperties particularly on no longer existing assets so these can be deleted\nfrom his report and to coordinate with the Municipal Treasurer to facilitate\nthe sending of demand letters to delinquent taxpayers; and\nd. to advise the Municipal Accountant to make appropriate adjustment of the\nRPT and SET receivable and deferred credits accounts should conditions\nwarrant.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "4.7 We recommended that the Municipal Accountant prepare the following journal\nentries to adjust the balance of the affected liability accounts:\nAccount Code Account Title Debit Credit\n1-01-01-010 Due to LGUs P200,000.00\n2-04-01-020 Trust Liabilities-Disaster Risk\nReduction and Management Fund P200,000.00",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor: a. Strictly require the preparation of the RSMI by the Supply Officer on a monthly basis and submit the same to the Municipal Accountant. b. Direct the Municipal Accountant to: 1. Prepare and maintain the SLCs for each type of inventory to record the acquisition, issuance and disposal; 2. Henceforth, draw a JV for inventory issuances on a monthly basis based on RSMIs that are duly supported with RIS; c. Constitute an Inventory Committee who shall conduct the physical count of inventories at least once a year, prepare the RPCI and submit the same to the Audit Team not later than January 31 each year.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor: Direct the Municipal Accountant to: a) reconcile of the accounting records with the property records for proper disposition; b) determine the causes of the variance between the balances reported in the SFPos and PPELC and prepare the necessary adjusting entries, if any; a. Direct the PGSO to: 1) maintain property cards with complete significant information; and 2) reconcile the property records with the accounting records; 3) Constitute an inventory committee to conduct a periodic physical count of all PPE and prepare RPCPPE with complete data for each item, as basis for reconciliation with the accounting records, control accounts and Supply Unit’s property records. Likewise, furnish the Audit Team a copy of the duly accomplished RPCPPE. (in the auditing rules and regulation on PPE, audited agencies are required to submit the RPCPPE every January 31 of the year.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended that the: a. Supply Officer and other concerned offices prepare and maintain the inventory list of all items received, distributed, and ending balances for proper monitoring; b. MDRRM Council prepare a revised/supplemental LDRRMFIP incorporating therein the PPAs for disaster risk reduction and management program that were not embodied in the original plan; c. MPDC update/revise the AIP for the inclusion of COVID-19 related PPAs; d. Municipal Accountant prepare the Report on Sources and Utilization of DRRMF using the format on Annex B as prescribed in COA Circular No. 2012-002 dated September 12, 2012; e. MDRRMO submit the Monthly Report on Sources and Utilization of DRRMF and the Revised LDRRMFIP to COA Office.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to: a.) strictly comply with the minimum amount mandated in Section 47 of GAA FY 2020 that the net take home pay should not be lower than P5,000. If in any case, the personal loan of employees will go below the allowed limit, then the said loan should be settled/paid by the employee separately themselves and not to be included in the payroll; b.) conduct information dissemination to its officials and employees regarding contracting loans and contracts to third parties.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor to: a.) Municipal Engineer monitor and fast-track the implementation of all infrastructure projects as listed in the AIP. b.) BAC include appropriate timing/phasing of related project activities as part of procurement planning, specifically the bidding and other procurement activities, so as to avoid delay in project implementation.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended continuing to adhere to prescribed rules and regulations for the efficiency and economy of government operations.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the GAD and the GAD Focal Person to: a.) Properly align and include PPAs in the GPB that is gender responsive and will address valid GAD activities. b.) Fully implement the PPAs and ensure that all that are GAD-related as provided in JMC 2016-01. c.) Provide necessary disclosures in the Notes to Financial Statements as to details of the GAD appropriation during the year and the expended amount for the program in order to provide adequate information in the financial statements and useful in evaluating the entity’s performance.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommended to the Municipal Mayor to create an Inventory Committee and: a. require the Inventory Committee to conduct an inventory of all the local roads under its jurisdiction, prepare and submit a verified Report on the Physical Count of the Road Network System (RPCRNS). b. direct the Supply Officer, Municipal Engineer and Municipal Accountant to reconcile records between offices. c. require the Municipal Accountant to maintain and update subsidiary ledgers. Further, disclose in the notes to financial statements the local road network system as prescribed.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We recommended to the Municipal Mayor to direct the Bids and Awards Committee (BAC) to award contract only for infrastructure projects after detailed engineering investigations, surveys and designs including the acquisition of Right of Way, have been sufficiently carried out.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "We recommended to the Municipal Mayor to require the Bids and Awards Committee to observe that bidding proceeding for infrastructure projects shall not be made unless the detailed engineering investigations, surveys and designs for the projects have been sufficiently carried out.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "We recommended to the Municipal Mayor to: 1. designate a focal person to obtain from the funding agencies the MOA and other necessary documents to guide the LGU in its project implementation; 2. require the concerned department heads to fast-track the implementation of programs and projects funded by the various NGAs in accordance with the timeline provided for in the MOA.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "We recommended to the Municipal Mayor to direct the GAD Focal Person to conduct gender analysis in the formulation of programs, projects and activities in order that the intended beneficiaries are assured of the services, protection and other assistance that may be provided.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-PY14",
+      "year": 2021,
+      "recommendation": "We recommended to the Local Chief Executive to consider the filling up of plantilla position to perform the duties currently performed by JO workers and cause the charging of wages of job workers against the MOOE of local projects authorized by the Local Sanggunian and not against the MOOE of any office pursuant to Section 77 of RA No. 7160.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-PY15",
+      "year": 2021,
+      "recommendation": "We recommended to the Municipal Mayor to require the MDRRMC to submit the LDRRMFIP to the Audit Team and include programs, projects and activities to be funded from the unexpended MDRRM transferred to Special Trust Fund, and ensure that all disbursements out of the LDRRMF are substantially in accordance with the LDRRMFIP.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-PY16",
+      "year": 2021,
+      "recommendation": "We recommended to the Municipal Mayor to require the officers concerned to submit AAPSI to the Audit Team within the prescribed period to facilitate the evaluation of the actions taken on audit findings and recommendations.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-PY17",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Human Resource Management Officer to adhere to the provisions of Section 77 of the Local Government Code of 1991.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-PY18",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant in coordination with the MDRRMO to regularly prepare and submit the Report on Sources and Utilization to the Auditor Team.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-PY19",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the GAD Focal Person to prepare the GAD Plan and Budget in accordance with PCW-NEDA-DBM Joint Circular No. 2012-01.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-PY20",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to reconcile their records with that of the GSIS. Furthermore, the Municipal Accountant shall also verify who among the employees is deficient in paying its loan premiums so that an adjustment in his/her deduction shall be made.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": "The Accounting Unit regularly implementa tion. The continuous payment."
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-PY21",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Accountant should appropriately disclose in the Notes to Financial Statements the details of the GAD appropriation during the year and the corresponding expended amount for the program in order to provide adequate information significance to the financial statements and provide information useful in evaluating the entity’s performance in terms of service cost, efficiency, and accomplishments.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-PY22",
+      "year": 2021,
+      "recommendation": "We recommended that the Local Chief Executive compel the Municipal Assessor and Municipal Accountant to faithfully comply with the documentary requirements for the procurement of real property as required per COA Circular No. 2012-001 dated June 14, 2012. We further recommended that the concerned officials exercise due diligence in the processing of claims, and ensure complete documentation to support legality of transactions and their validity/correctness. Lastly, they should pursue the immediate titling of the lot in the name of the LGU.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-PY23",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor: a) Designate a focal person to obtain from the funding agencies the MOA and other necessary documents to guide the LGU in its project implementation. b) Require the concerned department heads to fast-track the implementation of programs and projects funded by the various NGAs in accordance with the timeline provided for in the MOA.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte_aar2021-PY24",
+      "year": 2021,
+      "recommendation": "We recommended that the Local Chief Executive require the Municipal Accountant and the Municipal Treasurer to exert more effort to find out the details of the said dormant account with DBP Current Account No, 0760-003447-082 so that the utilization of P2,471,219.77 balance could be maximized for its intended purpose.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to create an Inventory Committee and:\na.\trequire the Inventory Committee to conduct an inventory of all the local roads under its jurisdiction, prepare and submit a verified Report on the Physical Count of the Road Network System (RPCRNS).\nb.\tdirect the Supply Officer, Municipal Engineer and Municipal Accountant to reconcile records between offices;\nc.\trequire the Municipal Accountant to maintain and update subsidiary ledgers. Further, disclose in the notes to financial statements the local road network system as prescribed.\nd.\trequire all officers concerned to strictly comply to the accounting and reporting guidelines on the Local Road Asset Management System prescribed in COA Circular No. 2015-008 dated November 23, 2015.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Implementation is still on-going."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to direct the Bids and Awards Committee (BAC) to award contract only for infrastructure projects after detailed engineering investigations, surveys and designs, including the acquisition of Right of Way, have been sufficiently carried out.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "On-going implementation."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to require the Bids and Awards Committee to observe that bidding proceeding for infrastructure projects shall not be made unless the detailed engineering investigations, surveys and designs for the projects have been sufficiently carried out.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "On-going Implementation"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to require:\n1.\tthe BAC to apply appropriate timing/phasing of procurement activities specifically the bidding process, in order to avoid delay in project implementation, as set forth in Section 14.3 of the RIRR of RA No. 9184.\n2.\tthe Municipal Engineer to closely monitor the implementation of projects and fast-track its completion.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "On-going Implementation.."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY11",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to direct the GAD Focal Person to conduct gender analysis in the formulation of programs, projects and activities  that address gender-related issues and concerns  so that  the intended beneficiaries are assured  of the services, protection and other assistance that  may  be provided.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The implementation of the recommendation is still on-going."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY12",
+      "year": 2020,
+      "recommendation": "We recommended to the Local Chief Executive to consider the filling up of unfilled plantilla position to perform the duties currently performed by JO workers and cause the charging of wages of job order workers against the MOOE of local projects authorized by the Local Sanggunian and not against the MOOE of any office pursuant to Section 77 of RA No. 7160.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "On-going Implementationof filling up unfilled plantilla positions."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY13",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to require the MDRRMC to submit the LDRRMFIP to the Audit Team and include programs, projects and activities to be funded from the unexpended MDRRM transferred to Special Trust Fund, and ensure that all disbursements out of the LDRRMF are substantially in accordance with the LDRRMFIP.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY15",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to require the officers concerned to submit AAPSI to the Audit Team within the prescribed period to facilitate the evaluation of the actions taken on audit recommendations.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Submitted AAPSI to the Audit Team but not within the prescribed period"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY22",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor, require the Human Resource Management Officer to adhere to the provisions of Section 77 of the Local Government Code of 1991.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "On-going Implementation."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY24",
+      "year": 2020,
+      "recommendation": "We recommended  that  the  Municipal  Mayor  direct  the Municipal   Accountant in coordination with the MDRRMO to regularly  prepare  and submit  the required  Report on Sources and Utilization  to the Auditor Team.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in the CY 2020 audit findings"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY25",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the GAD Focal Person to prepare the GAD Plan and  Budgetin accordance with  the PCW-NEDA-DBM Joint Circular No. 2012-01.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Gender Analysis not yet fully implemented by the GAD focal person as of CY 2020"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY27",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to reconcile their records with that of the GSIS. Furthermore, the Municipal Accountant shall also verify who among the employees is deficient in paying its loan obligations so that an adjustment in his/her deduction shall be made.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "On-going reconciliation. According to the Municipal Accountant she has asked for billing statements from GSIS and remitted the outstanding amounts."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY28",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant should appropriately disclose in the Notes to Financial Statements the details of the GAD appropriation during the year and the corresponding expended amount for the activities, projects and program in order to provide adequate information significance to the financial statements and provide information useful in evaluating the entity’s performance in terms of service cost, efficiency, and accomplishments.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The details of the GAD appropriation during the year and the corresponding expended amount for the activities, projects and program are not disclosed in the Notes to FS"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY31",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Chief Executive compel the Municipal Assessor and Municipal Accountant to faithfully comply with the documentary requirements for the procurement of real property as required per COA Circular No. 2012-001 dated June 14, 2012. \nWe further recommended that the concerned officials exercise due diligence in the processing of claims, and ensure complete documentation to support legality of transactions and their validity/correctness before effecting payment. Lastly, they should pursue the immediate titling of the lot in the name of the LGU",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Titling of Lands is ongoing. Not yet fully implemented."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY32",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor a) Designate a focal person to obtain from the funding agencies the MOA and other necessary documents to guide the LGU in its project implementation. b) Require the concerned department heads to fast-track the implementation of programs and projects funded by the various NGAs in accordance with the timeline provided for in the MOA.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Ongoing implementation of obtaining from funding agencies the MOA and other necessary documents. Not yet fully implementation"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY33",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Chief Executive require the Municipal Accountant and the Municipal Treasurer to exert more effort to find out the details of the said dormant account with DBP Current Account No, 0760-003447-082 so that the utilization of P2,471,219.77 balance could be maximized for its intended purpose.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Ongoing implementation. Not yet fully implemented"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor:\nStrictly require the preparation of the RSMI by the Supply Officer on a monthly basis and submit the same to the Municipal Accountant;\nDirect the Municipal Accountant to:\nPrepare and maintain the SLCs for each type of inventory to record the acquisition, issuance and disposal; and\nHenceforth, draw a JV for inventory issuances on a monthly basis based on RSMIs that are duly supported with RIS;\nConstitute an Inventory Committee who shall   conduct   the   physical count of inventories at least once a year, prepare the RPCI and submit the same to the Audit Team not later than January 31 each year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor:\nDirect the Municipal Accountant to: a) reconcile the accounting records with the property records for proper disposition thereof; b) determine the causes of the variance between the balances reported in the SFPos and PPELC and prepare the necessary adjusting entries, if any;\nDirect the PGSO to: a) maintain property cards with complete significant information; and b) reconcile the property records with the accounting records; and\nConstitute an inventory committee to conduct periodic physical count of all PPE and prepare RPCPPE with complete data for each item, as basis for reconciliation with the accounting records, control accounts and Supply Unit’s property records. Likewise, furnish the Audit Team a copy of the duly accomplished RPCPPE not later than January 31 of the year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended that the:\nSupply Officer and other concerned offices prepare and maintain the inventory list of all items received, distributed, and ending balances for proper monitoring;\nMDRRM Council prepare a revised/supplemental LDRRMFIP incorporating therein the PPAs for disaster risk reduction and management program that were not embodied in the original plan;\nMPDC update/revise the AIP for the inclusion of covid-19 related PPAs;\nMunicipal Accountant prepare the Report on Sources and Utilization of DRRMF using the format on Annex B as prescribed in COA Circular No. 2012-002 dated September 12, 2012; and\nMDRRMO submit the Monthly Report on Sources and Utilization of DRRMF and the Revised LDRRMFIP to COA Office.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-OBS4",
+      "year": 2020,
+      "recommendation": "Werecommended that the Municipal Mayor instruct the Municipal Accountant to:\nstrictly comply with Section 47 of GAA FY 2020 which mandates that the net take home pay should not be lower than P5,000. If in any case, the personal loan of employees will go below the allowed limit, then the said loan should be settled/ paid by the employee separately themselves and not to be included in the payroll; and\nconduct information dissemination to its officials and employees on the prescribed rules and regulations in  the contracting of loans and contracts with third parties.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We recommended that the Supply Officer prepare the:\nAIR upon delivery of all procured goods to ascertain that the quantity and specifications of the required items are met;\nRIS to support issuances for distribution to end-users/beneficiaries; and\nInventory list supported with an updated stock cards/property cards for covid-related procured items for proper monitoring.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended that the:\nMunicipal Engineer monitor and fast-track the full implementation of all infrastructure projects as listed in the AIP; and\nBAC include appropriate timing/phasing of related project activities as part of their procurement planning, specifically the bidding and other related procurement activities, so as to avoid delay in the project implementation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We commended   the   Management for (1) procuring goods at the lowest price, during the calamities /COVID 19 pandemic; and (2) continuing to adhere to   prescribed rules and regulations for the efficiency and economy of   government operations.\nWe recommend continuing to adhere to   prescribed rules and regulations for the efficiency and economy of   government operations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant and the GAD Focal Person to:\nProperly align and include PPAs in the GPB that is gender responsive and will address valid GAD activities;\nProvide necessary disclosures in the Notes to Financial Statements as to details of the GAD appropriation during the year and the utilization of the GAD fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommended to the  Municipal  Mayor to direct  the Municipal Accountant  to prepare  the necessary  adjusting  entries  to reflect  the  correct  amount of   the remaining  balance  of the  municipality’s loans  payable.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to cause the implementation of the payroll system to distribute salaries via ATMs.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to require the Municipal Treasurer to instruct the collectors that collections be remitted promptly and intact to ensure that government funds are properly accounted for and safeguarded against possible loss or misuse.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to:\n1.\tcause the installation of perimeter fence around the disposal site to intensify its physical security and prevent loss or theft of SWM machineries;\n2.\tcause the creation of peripheral drainage to avoid possible health problems, and;\n3.\tcause the maintenance of basic record-keeping to keep track of activities necessary for future overall planning purposes and forecasting of site filling.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY9",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to:\na.\tdirect the Municipal Treasurer to submit a Status Report on the Revenue Code;\nb.\tcoordinate with the members of the Sangguniang Bayan to look into the possible updating of the Revenue Code based on the report of the Municipal Treasurer.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY10",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Accountant to remit the delayed GSIS premiums and loan payments for CY 2019 immediately to avoid possible interest charges. Further, exhaust all efforts to reconcile the long outstanding balances with the GSIS Office and expedite its remittance.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY14",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to direct the Municipal Accountant to:\n\nissue demand letters with the signature of the Mayor to the accountable officers concerned;\n\nwithhold payment or any amount due to the persons liable to settle said disallowances;\n\nensure that all employees who are retiring or transferring to other agencies shall first settle the disallowances and charges for which they are liable in accordance with Section 7 of COA Circular No. 2009-006 dated September 15, 2009.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY16",
+      "year": 2020,
+      "recommendation": "a.\tdirect the Municipal Accountant to make representation with the bank manager of the depository bank for the prompt release of the monthly bank statements to facilitate the timely preparation and submission of bank reconciliation statements.\nb.\trequire the Municipal Accountant to submit BRS within the reglementary period including the supporting schedules",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY17",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor:\na.\tcause the judicious review of the Memorandum of Agreements of the identified projects for immediate implementation;\nb.\trequire the Bids and Awards Committee to fast-track the procurement process; \nc.\trequire the Municipal Planning and Development Officer to conduct the programming of development projects judiciously with officials concerned, for the optimum utilization of the funds received.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "The same audit observation in CY 2019 is reiterated regarding the unutilized fund transfers"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY18",
+      "year": 2020,
+      "recommendation": "In this regard, we reiterate our recommendation that the Municipal Mayor direct the Municipal Assessor and Municipal Accountant to give preferential action in the titling of the Land recorded in the book of accounts.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY19",
+      "year": 2020,
+      "recommendation": "We recommended that Municipal Mayor require the Municipal Accountant to ensure the submission of the required necessary documents to support the procured medicines and adhere to the provisions cited in EO No. 49, DOH AO No. 163 series of 2002 and COA Circular No. 2012-001 dated June 14, 2012 to ensure that items procured originated from legitimate sources and that they are effective as well as genuine. Furthermore, all photocopies of Certificate of Product Registration from FDA should be legible in all respects and should be certified true copy from the original.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY20",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor compel the Supply Officer to submit a written justification why the inspection and acceptance report was made ahead of the delivery of medicines and medical supply, otherwise the transaction will be suspended in audit.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY21",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor : •\trequire the Property/Supply Officer to  indicate in the PO all the necessary information to ensure that the goods  are delivered  within the time frame.\n•\trequire the Municipal Accountant to judiciously check the completeness of information on the Purchase Order and not to process payment on claims with incomplete information to avoid suspensions in audit.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY23",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor : •\tcause the installation of perimeter  fence  around the area to prevent any trespasser to safeguard machines inside the site. \n•\tcause the construction of drainage in the site to prevent stagnation of rain waters, to avoid health problems.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY26",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the GAD Focal Point to  maximize the utilization of the GAD funds through the implementation of GAD-related programs and projects  in order to attain the objective for which funds were provided.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY29",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer and Municipal Accountant to exert effort to present the necessary documents as basis for the Time deposit account to determine the authority and propriety of this placement.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY30",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Assessor and Municipal Accountant to pursue titling of the Land recorded in the books of accounts.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY34",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Chief Executive instruct the Municipal Budget Officer and the MDRRM Officer to update and review the LDRRMFIP annually to include the activities to be funded from the unexpended balance LDRRM fund-Quick Response and MOOE of the previous years which were transferred to the Special Trust Fund.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY35",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY36",
+      "year": 2020,
+      "recommendation": "The Local Chief Executive should consider creating and organizing an Internal Audit Services, in compliance with R.A. No 4177 and AO 70 to give assurance for a sound and adequate internal control system in the operations of the Municipality.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY37",
+      "year": 2020,
+      "recommendation": "We recommended for the adoption of a decentralized solid waste management system by providing financial and technical assistance for the establishment operation of functional and standard-based MRFs in the barangays of the Municipality.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY38",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Chief Executive require the Municipal Accountant to submit the MOA and all supporting documents prior to the disbursements of fund transfers and thereafter the liquidation of used monies or return of the unused ones specifically after completion of the agreed programs/projects/activities.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Macrohon_SoLeyte-2020-PY39",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Chief Executive:\na.\tRequire the employees concerned to adhere strictly to Section 89 of P.D. 1445; COA Circular 97-002 specifically Sections 5.7 and 8 and COA Circular 2012-004 dated November 28, 2012 on the grant, utilization and liquidation of cash advances.\n\nFailure of the Accountable Officer concerned to liquidate cash advances within the period prescribed hereunder and after formal demand shall constitute a prima facie case of Gross Negligence of duty as defined under CSC Resolution No. 040676 dated 6/17/2014-Rule II, Section 4.\n\nb.\tInstruct the Municipal Accountant to send demand letters to employees who were granted cash advances for the liquidation thereof.\n\nc.\tInstruct the Municipal Accountant to exercise diligent effort to collect from those who no longer work for the agency by sending demand letters for the liquidation of the cash advances granted.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to direct the Municipal\nAccountant to prepare the necessary adjusting entries to reflect the correct amount of the\nremaining balance of the municipality’s loans payable.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to create an Inventory\nCommittee and:\na) require the Inventory Committee to conduct an inventory of all the local\nroads under its jurisdiction, prepare and submit a verified Report on the\nPhysical Count of the Road Network System (RPCRNS).\nb) direct the Supply Officer, Municipal Engineer and Municipal Accountant\nto reconcile records between offices;\nc) require the Municipal Accountant to maintain and update subsidiary\nledgers. Further, disclose in the notes to financial statements the local\nroad network system as prescribed.\nd) require all officers concerned to strictly comply to the accounting and\nreporting guidelines on the Local Road Asset Management System\nprescribed in COA Circular No. 2015-008 dated November 23, 2015.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to cause the implementation of\nthe payroll system to distribute salaries via ATMs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to require the Municipal\nTreasurer to require all collectors to remit promptly and intact collections\nmade by them to ensure that government funds are properly accounted for\nand safeguarded against possible loss or misuse.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to direct the Bids and Awards\nCommittee (BAC) to award contract only for infrastructure projects after\ndetailed engineering investigations, surveys and designs, including the\nacquisition of Right of Way, have been sufficiently carried out.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to require the Bids and Awards\nCommittee to observe that bidding proceeding for infrastructure projects\nshall not be undertaken unless the detailed engineering investigations,\nsurveys and designs for the projects have been sufficiently carried out.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to require:\na) the BAC apply appropriate timing/phasing of procurement activities\nspecifically the bidding process, in order to avoid delayin\nprojectimplementation, as set forth in Section 14.3 of the RIRR of RA\nNo. 9184.\nb) the Municipal Engineer closely monitor the implementation of projects\nand fast-track its completion.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-OBS8",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to:\na) cause the installation of perimeter fence around the disposal site to\nintensify its physical security and prevent loss or theft of SWM\nmachineries;\nb) cause the creation of peripheral drainage to avoid possible health\nproblems, and;\nc) cause the maintenance of basic record-keeping to keep track of\nactivities necessary for future overall planning purposes and\nforecasting of site filling.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-OBS9",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to:\na) direct the Municipal Treasurer to submit a Status Report on the\nRevenue Code;\nb) coordinate with the members of the Sangguniang Bayan to look into\nthe possible updating of the Revenue Code based on the report of the\nMunicipal Treasurer.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-OBS10",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to require the Municipal\nTreasurerto remit the delayed GSIS premiums and loan payments for CY\n2019 immediately to avoid possible interest charges. Further, require the\nMunicipal Accountant to exhaust all efforts to reconcile the long outstanding\nbalances with the GSIS Office and expedite its remittance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-OBS11",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to direct the GAD Focal Person\nto conduct gender analysis in the formulation of programs , projects and\nactivities that address gender-related issues and concerns so that the\nintended beneficiaries are assured of the services, protection and other\nassistance that may be provided.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-OBS12",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to cause the charging of wages\nof job order workers against the MOOE of local projects authorized by the\nLocal Sanggunian and not against the MOOE of any office pursuant to\nSection 77 of RA No. 7160 and consider the filling up of unfilled plantilla\nposition to perform the duties currently performed by JO workers.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-OBS13",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to require the MDRRMC to\nsubmit the LDRRMFIP to the Audit Team and include programs, projects\nand activities to be funded from the unexpended MDRRM transferred to\nSpecial Trust Fund, and ensure that all disbursements out of the LDRRMF\nare substantially in accordance with the LDRRMFIP.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-OBS14",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor to direct the Municipal\nAccountant to:\na. issue demand letters with the signature of the Mayor to the\naccountable officers concerned;\nb. withhold payment or any amount due to the persons liable to settle said\ndisallowances;\nc. ensure that all employees who are retiring or transferring to other\nagencies shall first settle the disallowances and charges for which they\nare liable in accordance with Section 7 of COA Circular No. 2009-006\ndated September 15, 2009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-OBS15",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-OBS15",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to require the officers concerned\nto submit AAPSI to the Audit Team within the prescribed period to facilitate\nthe evaluation of the actions taken on audit recommendations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to effect the necessary adjusting entries for the reclassification of the cost of the completed project from CIP to Buildings and Other Structures account.",
+      "managementAction": "Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor:\na. direct the Municipal Accountant to make representation with the bank manager of the depository bank for the prompt release of the monthly bank statements to facilitate the timely preparation and submission of the bank reconciliation statements.\nb. require the Municipal Accountant to submit BRS within the reglementary period including the supporting schedules.",
+      "managementAction": "Partially Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor:\na. cause the judicious review of the Memorandum of Agreements of the identified projects for immediate implementation;\nb. require the Bids and Awards Committee fast-track the procurement process;\nc. require the Municipal Planning and Development Officer to conduct the programming of development projects judiciously with officials concerned, for the optimum utilization of the funds received.",
+      "managementAction": "Partially Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor:\n1. cause the judicious review of the Memorandum of Agreements of the identified projects for immediate implementation;\n2. require the Bids and Awards Committee to fast-track the procurement process;\n3. require the Municipal Planning and Development Officer to conduct the programming of development projects judiciously with officials concerned, for the optimum utilization of the fund, to achieve the envisioned socio-economic development and environmental outcomes for the constituents.",
+      "managementAction": "Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Assessor and Municipal Accountant to give preferential action in the titling of the Land recorded in the book of accounts.",
+      "managementAction": "Not Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor:\n1. Require the OIC-Municipal Treasurer to deposit all collections promptly and intact to ensure that government funds are properly accounted for and safeguarded against possible loss or misuse in adherence to Section 2 and 69 of PD No. 1445, and Sec. 28, of COA Circular No. 92-382.\n2. Require the Revenue Collector to remit the collections intact to the Municipal Treasurer.",
+      "managementAction": "Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the Local Finance Committee to judiciously determine the projected income to be collected by the Municipality pursuant to Section 316(a) of RA No. 7160.",
+      "managementAction": "Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to ensure the submission of the required necessary documents to support the procured medicine and adhere to the provisions cited in EO No. 49, DOH AO No. 163 series of 2002 and COA Circular No. 2012-001 dated June 14, 2012 to ensure that items procured originated from legitimate sources and that they are effective as well as genuine. Furthermore, all photocopies of Certificate of Product Registration from FDA should be legible in all respects and should be certified true copy from the original.",
+      "managementAction": "Partially Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY9",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor compel the Supply Officer to submit a written justification why the inspection and acceptance report was made ahead of the delivery of medicines and medical supply, otherwise the transaction will be suspended in audit.",
+      "managementAction": "Not Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY10",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor:\n• require the Property/Supply Officer to indicate in the PO all the necessary information to ensure that the goods are delivered within the time frame.\n• require the Municipal Accountant to judiciously check the completeness of information on the Purchase Order and not to process payment on claims with incomplete information to avoid suspensions in audit.",
+      "managementAction": "Partially Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY11",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the BAC to post in the PhilGEPS notices of award of contract, notices to proceed, and approved contracts of agreement for transparency and information for all procurement activities.",
+      "managementAction": "Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY12",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor, require the Human Resource Management Officer to adhere to the provisions of Section 77 of the Local Government Code of 1991.",
+      "managementAction": "Not Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY13",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor:\n cause the installation of perimeter fence around the area to prevent any trespasser to safeguard machines inside the site.\n cause the construction of drainage in the site to prevent stagnation of rain waters, to avoid health problems.",
+      "managementAction": "Not Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY14",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant in coordination with the MDRRMO to regularly prepare and submit the required Report on Sources and Utilization to the Auditor Team.",
+      "managementAction": "Not Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY15",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the GAD Focal Person to prepare the GAD Plan and Budget in accordance with the PCW-NEDA-DBM Joint Circular No. 2012-01.",
+      "managementAction": "Not Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY16",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the GAD Focal Person to adhere to the requirements of PCW-NEDA-DILG JMC No. 2016-01.",
+      "managementAction": "Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY17",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the GAD Focal Point to maximize the utilization of the GAD funds through the implementation of GAD-related programs and projects in order to attain the objective for which funds were provided.",
+      "managementAction": "Partially Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY18",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant and Treasurer to prepare a DV in all loan installment payments. SOA and bank statement should also be attached as a supporting document to the DV.",
+      "managementAction": "Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY19",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to reconcile their records with that of the GSIS. Furthermore, the Municipal Accountant shall also verify who among the employees is deficient in paying its loan obligations so that an adjustment in his/her deduction shall be made.",
+      "managementAction": "Partially Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY20",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accountant should appropriately disclose in the Notes to Financial Statements the details of the GAD appropriation during the year and the corresponding expended amount for the activities, projects and programs in order to provide adequate information significance to the financial statements and provide information useful in evaluating the entity’s performance in terms of service cost, efficiency, and accomplishment.",
+      "managementAction": "Not Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY21",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer and Municipal Accountant to exert effort to present the necessary documents as basis for the Time deposit account to determine the authority and propriety of this placement.",
+      "managementAction": "Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY22",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Assessor and Municipal Accountant to pursue titling of the Land recorded in the books of accounts.",
+      "managementAction": "Partially Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY23",
+      "year": 2019,
+      "recommendation": "We recommended that the concerned officials exercise due diligence in the processing of claims, and ensure complete documentation to support legality of transactions and their validity/correctness before effecting payment. Lastly, they should pursue the immediate titling of the lot in the name of the LGU.",
+      "managementAction": "Not Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY24",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor a) Designate a focal person to obtain from the funding agencies the MOA and other necessary documents to guide the LGU in its project implementation. b) Require the concerned department heads to fast-track the implementation of programs and projects funded by the various NGAs in accordance with the timeline provided for in the MOA.",
+      "managementAction": "Partially Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY25",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive require the Municipal Accountant and Municipal Treasurer to exert more effort to find out the details of the said dormant account with DBP Current Account No. 0760-003447-082 so that the utilization of P2,471,219.77 balance could be maximized for its intended purpose.",
+      "managementAction": "Partially Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY26",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive instruct the Budget Officer and the MDRRM Officer to update and review the LDRRMFIP annually to include the activities to be funded from the unexpended LDRRMF balance.",
+      "managementAction": "Implemented",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY27",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive require the Municipal Accountant to submit on time the accounts of the municipality and ensure timely rendition of accounts by the Municipal Treasurer.",
+      "managementAction": "Partially Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY28",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive consider creating and organizing an Internal Audit Services, in compliance with R.A. No 4177 and AO 70 to give assurance for a sound and adequate internal control system in the operations of the Municipality.",
+      "managementAction": "Partially Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY29",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive should consider creating and organizing an Internal Audit Services, in compliance with Administrative Order No. 70 dated April 14, 2003 which mandates all heads of government agencies, GOCCs, GPIs, SUCs and LGUs to immediately organize an IAS in their respective offices which shall function in accordance with the policies established by the provisions of R.A. No. 3456, as amended by R.A. No. 4177.",
+      "managementAction": "Partially Implemented",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY30",
+      "year": 2019,
+      "recommendation": "We recommended for the implementation of development projects in accordance with the mandate of the LGC and DILG/DBM JMC 2011-1.",
+      "managementAction": "Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY31",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive: a) ensure the establishment of standard-based MRFs in all barangays; b) coordinate and provide financial and technical assistance for the establishment and operation of standard-based MRFs in the barangays of the Municipality.",
+      "managementAction": "Partially Implemented",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY32",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive require the Municipal Accountant to submit the MOA and all supporting documents prior to the disbursements of fund transfers and thereafter the liquidation of used monies or return of unused ones specifically after completion of the agreed programs/projects/activities.",
+      "managementAction": "Partially Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2019-PY33",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive:\na. Require the employees concerned to adhere strictly to Section 89 of P.D. 1445; COA Circular 97-002 specifically Sections 5.7 and 8 and COA Circular 2012-004 dated November 28, 2012 on the grant, utilization and liquidation of cash advances; b. Instruct the Municipal Accountant to send demand letters to employees who were granted cash advances for the liquidation thereof; c. Instruct the Municipal Accountant to exercise diligent effort to collect from those who no longer work for the agency by sending demand letters for the liquidation of the cash advances granted.",
+      "managementAction": "Partially Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer and Municipal Accountant to exert effort to present the necessary documents as basis for the Time deposit account to determine the authority and propriety of this placement",
+      "managementAction": "AAR 2017",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Necessary documents as basis for the time deposit not submitted or presented to COA for validation."
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Assessor and Municipal Accountant to pursue titling of the Land recorded in the books of accounts.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No supporting documents such as certificate of titles still not submitted to COA for validation."
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive compel the Municipal Assessor and Municipal Accountant to faithfully comply with the documentary requirements for the procurement of real property as required per COA Circular No. 2012-001 dated June 14, 2012.  We further recommended that the concerned officials exercise due diligence in the processing of claims, and ensure complete documentation to support legality of transactions and their validity/correctness before effecting payment. Lastly, they should pursue the immediate titling of the lot in the name of the LGU",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "-No documents presented to COA for validation."
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommendedthat the Municipal Mayor direct the Municipal Accountant to effect the necessary adjusting entries for the reclassification of the cost of the completed project from CIP to Buildings and Other Structures account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor:\ndirect the Municipal Accountant to make representation with the bank manager of the depository bank for the prompt release of the monthly bank statements to facilitate the timely preparation and submission of bank reconciliation statements.\nrequire the Municipal Accountant to submit BRS within the reglementary period including the supporting schedules.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor:\ncause the judicious review of the Memorandum of Agreements of the identified projects for immediate implementation;\nrequire the Bids and Awards Committee to fast-track the procurement process;\nrequire the Municipal Planning and Development Officer to conduct the programming of development projects judiciously with officials concerned, for the optimum utilization of the funds received.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Engineer and Municipal Planning and Development Officer to conduct the programming of development projects judiciously with officials concerned,  for the optimum utilization of the fund, to achieve the envisioned socio-economic development and environmental outcomes for the constituents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We reiterate our recommendation that the Municipal Mayor direct the Municipal Assessor and Municipal Accountant to give preferential action in the titling of the Land recorded in the book of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor:\nrequire the OIC-Municipal Treasurer to deposit all collections promptly and intact to ensure that government funds are properly accounted for and safeguarded against possible loss or misuse in adherence to Section 2 and 69 of PD No. 445 , and Sec. 28, of COA Circular No. 92-382 .\nrequire the Revenue Collector to remit the collections intact to the Municipal Treasurer",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-OBS7",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor direct the Local Finance Committee to judiciously determine the projected income to be collected by the Municipality pursuant to Section 316(a) of RA No. 7160.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-OBS8",
+      "year": 2018,
+      "recommendation": "We recommended that Municipal Mayor require the Municipal Accountant to ensure the submission of the required necessary documents to support the procured medicines and adhere to the provisions cited in EO No. 49, DOH AO No. 163 series of 2002 and COA Circular No. 2012-001 dated June 14, 2012 to ensure that items procured originated from legitimate sources and that they are effective as well as genuine. Furthermore, all photocopies of Certificate of Product Registration from FDA should be legible in all respects and should be certified true copy from the original.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-OBS9",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor compel the Supply Officer to submit a written justification why the inspection and acceptance report was made ahead of the delivery of medicines and medical supply, otherwise the transaction will be suspended in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-OBS10",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor :\nrequire the Property/Supply Officer to  indicate in the PO all the necessary information to ensure that the goods  are delivered  within the time frame.\nrequire the Municipal Accountant to judiciously check the completeness of information on the Purchase Order and not to process payment on claims with incomplete information to avoid suspensions in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-OBS11",
+      "year": 2018,
+      "recommendation": "We recommendedthat the Municipal Mayor  require the BAC  to  post in the PhilGEPS  notices of award of contract, notices to proceed, and approved contracts of agreement for transparency and information for all procurement activities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-OBS12",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor, require the Human Resource Management Officer to adhere to the provisions of Section 77 of the Local Government Code of 1991.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-OBS13",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor :\ncause the installation of perimeter  fence  around the area to prevent any trespasser to safeguard machines inside the site.\ncause the construction of drainage in the site to prevent stagnation of rain waters, to avoid health problems.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-OBS14",
+      "year": 2018,
+      "recommendation": "We recommended  that  the  Municipal  Mayor  direct  the Municipal   Accountant in coordination with the MDRRMO to regularly  prepare  and submit  the required  Report on Sources and Utilization  to the Auditor Team.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-OBS15",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor direct the GAD Focal Person to prepare the GAD Plan and  Budget in accordance with  the PCW-NEDA-DBM Joint Circular No. 2012-01.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-OBS16",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor direct the GAD Focal Person to adhere to the requirements of PCW-NEDA-DILG JMC No. 2016-01.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-OBS17",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor direct the GAD Focal Point to  maximize the utilization of the GAD funds through the implementation of GAD-related programs and projects  in order to attain the objective for which funds were provided.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-OBS18",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant and Treasurer to prepare a DV in all loan installment payments. SOA and bank statement should also be attached as a supporting document to the DV.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-OBS19",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to reconcile their records with that of the GSIS. Furthermore, the Municipal Accountant shall also verify who among the employees is deficient in paying its loan obligations so that an adjustment in his/her deduction shall be made.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-OBS20",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Accountant should appropriately disclose in the Notes to Financial Statements the details of the GAD appropriation during the year and the corresponding expended amount for the activities, projects and program in order to provide adequate information significance to the financial statements and provide information useful in evaluating the entity’s performance in terms of service cost, efficiency, and accomplishments.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY4",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor a) Designate a focal person to obtain from the funding agencies the MOA and other necessary documents to guide the LGU in its project implementation. b) Require the concerned department heads to fast-track the implementation of programs and projects funded by the various NGAs in accordance with the timeline provided for in the MOA.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "- not all MOA from funding agencies were submitted to COA for validation, and some  projects were only bidded in the later part of December 2018."
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive require the Municipal Accountant and the Municipal Treasurer to exert more effort to find out the details of the said dormant account with DBP Current Account No, 0760-003447-082 so that the utilization of P2,471,219.77 balance could be maximized for its intended purpose.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Inquiry from the Municipal Accountant, she informed the Audit Team that the Municipal Treasurer has already prepared the details of the said account."
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY6",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive instruct the Municipal Budget Officer and the MDRRM Officer to update and review the LDRRMFIP annually to include the activities to be funded from the unexpended balance LDRRM fund-Quick Response and MOOE of the previous years which were transferred to the Special Trust Fund.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The LDRRMFIP still in the process of reviewing the activities to befunded from unexpended balances."
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommended for the adoption of a decentralized solid waste management system by providing financial and technical assistance for the establishment operation of functional and standard-based MRFs in the barangays of the Municipality.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive:\n1.\tRequire the employee in-charge in the preparation of the remittance of employees and employer due to GSIS to adhere strictly to the provisions of  RA 8291 so that failures and lapses will be avoided.\n2.\tRequire the Municipal Treasurer that the amount withheld shall be remitted to GSIS in full within 10 days following the end of the month the withholding was made or the withholding was accrued.\n3.\tRequire the concerned employee in-charge and municipal accountant to conduct thorough reconciliation on affected employees with negative balances for over six months to five years, and request from GSIS for refund.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY9",
+      "year": 2018,
+      "recommendation": "We recommend that the Local Chief Executive require the Municipal Treasurer to open and maintain a separate trust account for the PFPR fund, and compel the Municipal Accountant to maintain separate subsidiary records to appropriately account the fund",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY10",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY11",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some accounts still submitted late."
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY12",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive through the GAD Council prioritize the implementation of the CBMS for the creation of GAD database as inputs or basis for planning, programming and policy formulation.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Installation of data base is ongoing."
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY13",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive: 1. Require the Municipal Accountant to explain why the contract of services of job order personnel for the period August to December 31, 2017 were not attached to their claim and submit said contract of services, otherwise it will be disallowed in audit.\n\t\n2. \t Hires job order personnel pursuant to Section 5.4 of CSC, COA & DBM Joint Circular No. 01, s. of 2017 dated June 15, 2017.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Job Order Contracts were already attached to the said Payrolls for payment of services."
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY14",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive:\n\nDirect the Municipal Accountant for the strict adherence to relevant provisions of the Implementing Rules and Regulations of Republic Act No. 9184 on the Government Procurement Act and COA Circular No. 2012-001 dated June 14, 2012.\n\n Direct the BAC and its members for the stringent checking and cross-checking of the documents in the procurement process.\n\nDirect the Municipal Accountant to check and require the complete  documentations that must be attached to the Disbursement Voucher,\n\nDirect the Municipal Treasurer to stop payment for claims lacking  the required documents.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY15",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive require the Municipal Treasurer to open and maintain a separate trust account for the PFPR fund, and compel the Municipal Accountant to maintain separate subsidiary records to appropriately account the fund.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY16",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the: (a) Municipal Accountant to maintain a separate books of accounts for the Macrohon Municipal Waterworks System (MACROHON WATER) and (b) Municipal Treasurer to open a separate bank account for this entity. Moreover, for the reports to be useful as source of information, the same shall be constantly updated. We also, recommend that the approved rate be implemented in accordance with the Municipal Ordinance No. 2011-16.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY17",
+      "year": 2018,
+      "recommendation": "The Local Chief Executive should consider creating and organizing an Internal Audit Services, in compliance with R.A. No 4177 and AO 70 to give assurance for a sound and adequate internal control system in the operations of the Municipality.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "On-going process of creating IAS"
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY18",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor to require the Municipal Treasurer and Accountant to follow the remittance schedule for the Governmentcontributions and  Employee’s contribution as well as  loan amortizations or payments to the Pag-ibig Fund pursuant to pertinent provisions of the Implementing Rules and Regulations of Republic Act No. 9679 and HDMF Circular No. 275.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY19",
+      "year": 2018,
+      "recommendation": "We recommended for the implementation of development projects in accordance with the mandate of the LGC and DILG/DBM JMC 2011-1.",
+      "managementAction": "AAR 2016",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There is a reiterated audit finding in CY 2018"
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY20",
+      "year": 2018,
+      "recommendation": "We recommended for the strict adherence to the mandates on continuous disaster monitoring as part of its management of LDRRMF to put the fund into effective use and safeguard the constituents of the effect of  emergencies/calamities.",
+      "managementAction": "AAR 2016",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY21",
+      "year": 2018,
+      "recommendation": "We recommended for the adoption of a decentralized solid waste management system by providing financial and technical assistance for the establishment operation of functional and standard-based MRFs in the barangays of the Municipality.",
+      "managementAction": "AAR 2016",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some barangay still do not have standard-based MRFs."
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY22",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive require the Municipal Accountant to submit the MOA and all supporting documents prior to the disbursements of fund transfers and thereafter the liquidation of used monies or return of the unused ones specifically after completion of the agreed programs/projects/activities.",
+      "managementAction": "AAR 2016",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "FUR submitted lately subject for evaluation"
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY23",
+      "year": 2018,
+      "recommendation": "We recommended that management should stop paying the labor of Job Order personnel at a rate above the ceiling of 120% of the minimum salary of an equivalent position in compliance with Civil Service Commission, Commission on Audit and Ministry of the Budget Joint Memorandum Circular No. 2, s. 1979 to avoid additional maintenance and operating expenses in the Municipality of Macrohon.",
+      "managementAction": "AAR 2016",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY24",
+      "year": 2018,
+      "recommendation": "We recommended for management to strictly adhere to the provisions of PD 1445 and observe the following:\n\na. \tIdentify all Eco-Tourism Activities and revise the Municipal Ordinance to incorporate the system of collection and assignment of personnel in the Marine Park operation. \n\nb. \tStop using Entrance Tickets produced by the Municipal Tourism Council and use the government Official Receipt, Form 51 or Cash Tickets.\n\nc. \tAll collections must only be received by an accountable personnel from the Treasurer’s Office and remitted on a regular basis.\n\nd. \tExecute a lease agreement between the canteen owner and the Municipality of Macrohon and advice the canteen owner to install an electricity meter of their own and discontinue tapping the Municipal Electricity line. Demand also the payment of the proportionate share of the electricity bill on periods when they started operation until the recent period.",
+      "managementAction": "AAR 2016",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY25",
+      "year": 2018,
+      "recommendation": "We recommended strict compliance to Sections 111 to 112 of P.D. 1445.  Specifically, we suggest the following remedial steps:\nThe Mayor requires the Treasurer in coordination with the Municipal Assessor to update the Real Property Tax Account Registry/Taxpayer’s Index Card for easy determination of amount due and collectible and furnish the Accountant the certified List of Taxpayers to provide an accurate and reliable basis in the setting up of Receivables from Real Property.\nThe Municipal Accountant should set up at the beginning of the year 1% RPT Receivable and 1% SEF Receivable based on the certified List of Taxpayers with the total amount due and collectible and to make necessary adjustments on the affected accounts.\nThe Municipal Accountant investigates the incurrence of negative balance of RPT Receivable and effect the necessary adjusting entries in the agency books to be able to present the accounts fairly in the financial statements.",
+      "managementAction": "AAR 2015",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY26",
+      "year": 2018,
+      "recommendation": "We recommended that the agency continue to improve the internal control system on its supplies management and make sure that all the issuances are duly accounted and properly documented.",
+      "managementAction": "AAR \n2015 Finding No 7",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY27",
+      "year": 2018,
+      "recommendation": "We recommended that strict compliance of the Procurement Law be observed by management. Likewise, in posting of the advertisements/publications, the BAC should clearly indicate the specifications/descriptions of the goods to be procured in order to avoid any transaction prejudicial to the agency pursuant to Sec. 21 of R.A. 9184. We also encourage management to purchase brand new motor vehicles pursuant to DBM NBC No. 446-A since brand new unit is bundled with warranty, insurance and other free services which are beneficial to the government.  Moreover, we also demand written explanation why the above enumerated deficiencies occurred, and this is without prejudice to the issuance of the Notice of Suspension or Disallowance later on.",
+      "managementAction": "AAR 2015 Finding No. 12",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2018-PY28",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive: Require the employees concerned to adhere strictly to Section 89 of P.D. 1445; COA Circular 97-002 specifically Sections 5.7 and 8 and COA Circular 2012-004 dated November 28, 2012 on the grant, utilization and liquidation of cash advances. Failure of the Accountable Officer concerned to liquidate cash advances within the period prescribed hereunder and after formal demand shall constitute a prima facie case of Gross Negligence of duty as defined under CSC Resolution No. 040676 dated 6/17/2014-Rule II, Section 4. Instruct the Municipal Accountant to send demand letters to employees who were granted cash advances for the liquidation thereof. Instruct the Municipal Accountant to exercise diligent effort to collect from those who no longer work for the agency by sending demand letters for the liquidation of the cash advances granted.",
+      "managementAction": "AAR 2015 Finding No. 13",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Only one remaining prior years’ cash advance not liquidated."
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor compel the Municipal Treasurer and\nMunicipal Accountant to exert effort in retrieving the authority of the local sanggunian as\na basis for the opening of the time deposit account to determine the authority and\npropriety of this placement. If after exhaustive effort has been made to locate the\ndocument, an SB resolution should be sought to provide authority for the said time\ndeposit to be legal and valid.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Assessor\nand Municipal Accountant to pursue titling of the Land recorded in the books of\naccounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive compel the Municipal Assessor\nand Municipal Accountant to faithfully comply with the documentary requirements for\nthe procurement of real property as required per COA Circular No. 2012-001 dated June\n14, 2012.\n\nWe further recommended that the concerned officials exercise due diligence in\nthe processing of claims, and ensure complete documentation to support legality of\ntransactions and their validity/correctness before effecting payment. Lastly, they should\npursue the immediate titling of the lot in the name of the LGU.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive direct the concerned officials to\nadhere strictly to Republic Act No. 9184 Implementing Rules and Regulations on their\nprocurement process and comply with the documentary requirements on payments\nprovided in COA Circular No. 2012-001 dated June 14, 2012.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor a) Designate a focal person to obtain from the\nfunding agencies the MOA and other necessary documents to guide the LGU in its project\nimplementation. b) Require the concerned department heads to fast-track the implementation\nof programs and projects funded by the various NGAs in accordance with the timeline\nprovided for in the MOA.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Budget\nOfficer and the MDRRM Officer to update and review the LDRRMFIP annually to\ninclude the activities to be funded from the unexpended balance LDRRM fund-Quick\nResponse and MOOE of the previous years which were transferred to the Special Trust\nFund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-OBS7",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive require the Municipal\nAccountant and the Municipal Treasurer to exert more effort to find out the details of the\nsaid dormant account with DBP Current Account No, 0760-003447-082 so that the\nutilization of P2,471,219.77 balance could be maximized for its intended purpose.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-OBS8",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive:\n1. Require the Municipal Treasurer to adhere strictly to the provisions of RA\n8291 so that failures and lapses will be avoided.\n2. Require the Municipal Treasurer that the amount withheld shall be remitted to\nGSIS in full within 10 days following the end of the month the withholding\nwas made or the withholding was accrued.\n3. Require the Municipal Treasurer and Municipal Accountant to conduct\nthorough reconciliation on affected employees with negative balances for over\nsix months to five years, and request from GSIS for refund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-OBS9",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive require the Municipal\nAccountant to observe strictly the provisions of COA Circular No. 2012-001, to record\nthe fund transfer to the barangays as Due From Local Government Units, monitor the\nsubmission of the Fund Utilization Reports by the barangays, reconcile the discrepancy\nwith our audited balance against the recorded balance per books and make the necessary\nadjustments.\n\nWe further recommended that the terms and conditions of the MOA should be\nuniform particularly regarding the submission of the Fund Utilization Report (FUR), the\nperiod the project should be implemented and the submission of FUR to include SWA\nand Inspection Report signed by the Municipal Engineer in case of infra projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-OBS10",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive compel the Budget Officer to\nallocate 1% of the IRA for the plans and programs of the Local Council for the Protection\nof Children.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-OBS11",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive through the GAD Council\nprioritize the implementation of the CBMS for the creation of GAD database as inputs or\nbasis for planning, programming and policy formulation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-OBS12",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor through the Municipal Solid Waste\nManagement Board strictly implement feasible re-use, recycling, and composting\nprograms and other prescribed procedures of RA No. 9003. Also, implement the\nprojects, programs and activities listed in the AIP especially information dissemination\ncampaign to adopt measures toward effective solid waste management at the barangay\nlevel.\n\nWe also recommended that the Mayor provide the necessary financial and technical\nsupport in enjoining the barangays to establish their own Materials Recovery Facility\naccording to standards and strictly implement waste segregation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-OBS13",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive:\n1. Require the Municipal Accountant to explain why the contract of\nservices of job order personnel for the period August to December 31,\n2017 were not attached to their claim and submit said contract of\nservices, otherwise it will be disallowed in audit.\n2. Hires job order personnel pursuant to Section 5.4 of CSC, COA &\nDBM Joint Circular No. 01 , s. of 2017 dated June 15, 2017.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-OBS14",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive:\n1. Direct the Municipal Accountant for the strict adherence to relevant\nprovisions of the Implementing Rules and Regulations of Republic Act\nNo. 9184 on the Government Procurement Act and COA Circular No.\n2012-001 dated June 14, 2012.\n2. Direct the BAC and its members for the stringent checking and cross-\nchecking of the documents in the procurement process.\n3. Direct the Municipal Accountant to check and require the complete\ndocumentations that must be attached to the Disbursement Voucher,\n4. Direct the Municipal Treasurer to stop payment for claims lacking the\nrequired documents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-OBS15",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive require the Municipal Treasurer\nto open and maintain a separate trust account for the PFPR fund, and compel the\nMunicipal Accountant to maintain separate subsidiary records to appropriately account\nthe fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-OBS16",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor require the: (a) Municipal\nAccountant to maintain a separate books of accounts for the Macrohon Municipal\nWaterworks System (MACROHON WATER) and (b) Municipal Treasurer to open a\nseparate bank account for this entity. Moreover, for the reports to be useful as source of\ninformation, the same shall be constantly updated. We also, recommend that the\napproved rate be implemented in accordance with the Municipal Ordinance No. 2011-16.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-OBS17",
+      "year": 2017,
+      "recommendation": "The Local Chief Executive should consider creating and organizing an Internal\nAudit Services, in compliance with R.A. No 4177 and AO 70 to give assurance for a\nsound and adequate internal control system in the operations of the Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-OBS18",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor to require the Municipal Treasurer\nand Accountant to follow the remittance schedule for the Government contributions and\nEmployee’s contribution as well as loan amortizations or payments to the Pag-ibig Fund\npursuant to pertinent provisions of the Implementing Rules and Regulations of Republic\nAct No. 9679 and HDMF Circular No. 275.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-PY1",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-PY2",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-PY3",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-PY4",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-PY5",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-PY6",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-PY7",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-PY8",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-PY9",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-PY10",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-PY11",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-PY12",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-PY13",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-PY14",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2017-PY15",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive require the Municipal\nAccountant and Property Officer to properly maintain and regularly reconcile\ntheir records, to come up with an accurately presented balance of the PPE\naccount and ensure fair presentation in the financial statements, as well as early\ndetection of loss of property.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We recommended for the re-appropriation of the unexpended balances\nof completed projects as sources available for development projects during the\ncoming year’s budgets. Moreover, the implementation of development projects\nshall be duly programmed in order to effect full utilization of the 20% DF, in\neffect, capacitate the LGU in achieving the envisioned socio-economic\ndevelopment and environmental outcomes mandated for under the law for said\nfund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommended for the implementation of development projects in\naccordance with the mandate of the LGC and DILG/DBM JMC 2011-1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We recommended for the strict adherence to the mandates on continuous\ndisaster monitoring as part of its management of LDRRMF to put the fund into\neffective use and safeguard the constituents of the effect of\nemergencies/calamities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommended for the adoption of a decentralized solid waste\nmanagement system by providing financial and technical assistance for the\nestablishment operation of functional and standard-based MRFs in the barangays\nof the Municipality.\n\nWe likewise recommended for a wide dissemination of information on source\nreduction, recycling and composting programs in conformance to the\nprovisions of the IRR of RA 9003.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive require the Municipal\nAccountant to submit the MOA and all supporting documents prior to the\ndisbursements of fund transfers and thereafter the liquidation of used monies or\nreturn of the unused ones specifically after completion of the agreed\nprograms/projects/activities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We recommended that the utilization of the proceeds of the Special\nEducation Fund be limited to the prioritized projects, programs and activities\nmandated in Sections 272 and 100 (c) of RA 7160.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We recommended that Local Chief Executive, being the chair of the\nLocal School Board strictly observe the provisions of Section 272 of RA 7160\nand advise the school administrators in their respective locality to revise their\nSchool Improvement Plan to include the expenses enumerated under DepEd\nOrder No. 12, s. 2012.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2016-OBS9",
+      "year": 2016,
+      "recommendation": "We recommended that management should stop paying the labor of Job\nOrder personnel at a rate above the ceiling of 120% of the minimum salary of an\nequivalent position in compliance with Civil Service Commission, Commission\non Audit and Ministry of the Budget Joint Memorandum Circular No. 2, s. 1979\nto avoid additional maintenance and operating expenses in the Municipality of\nMacrohon.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2016-OBS10",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Accountant should document the\nrequest for write-off to the Commission on Audit the account balances which\nwere considered dormant and could no longer be collected pursuant to Section\n10 of COA Circular 97-001. He should make a request for authority from the\nCommission on Audit to write-off the dormant accounts, provide schedule of the\nsaid dormant accounts duly certified by him and approved by the Head of the\nLGU, complete with certified relevant documents validating the existence of the\nconditions as applicable and follow the procedures in the write-off of dormant\naccounts as stated in COA Circular 2016-005.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2016-OBS11",
+      "year": 2016,
+      "recommendation": "We recommended for management to strictly adhere to the provisions of\nPD 1445 and observe the following:\n a. Identify all Eco-Tourism Activities and revise the Municipal\n Ordinance to incorporate the system of collection and assignment of\n personnel in the Marine Park operation.\n b. Stop using Entrance Tickets produced by the Municipal Tourism\n Council and use the government Official Receipt, Form 51 or Cash\n Tickets.\n c. All collections must only be received by an accountable personnel\n from the Treasurer’s Office and remitted on a regular basis.\n d. Execute a lease agreement between the canteen owner and the\n Municipality of Macrohon and advice the canteen owner to install an\n electricity meter of their own and discontinue tapping the Municipal\n Electricity line. Demand also the payment of the proportionate share\n of the electricity bill on periods when they started operation until the\n recent period.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2016-PY1",
+      "year": 2016,
+      "recommendation": "We recommended that management should: (a) Determine first the government objectives sought to be achieved in participating in the “Orientation on Change Cum 2nd PCL Provincial Assembly” and “Seminar-Workshop on the 2015 Updates on Budget or Preparation and Legislation” amounting to P152,785.00 (b) identify the factors affecting the incurring certain expenditures, be it price, quantity or established limits and find alternatives ways to reduce expenditures to minimum without sacrificing the attainment of the objectives; (b) Ensure that only reasonable expenditures are incurred and prevent those are excessive as contemplated under COA Circular No. 2012-003; (c) Adhere to the existing directive of adopting austerity measures in the government pursuant to DILG Memo. Circular No. 52004-130 dated Oct. 1, 2014 and Administrative Order No. 103, and (d) refund the disallowance of P8,201.40",
+      "managementAction": "AAR 2016 Finding No. 1 The Vice- Mayor has been prudent in issuing travel orders since their attendance to PCL Conventions",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2016-PY2",
+      "year": 2016,
+      "recommendation": "We recommended strict compliance to the LDRRM relevant law and rules governing the administration of LDRRMF for the Trust Fund books. The following remedial steps are specifically suggested, to wit: a.) Management should transfer the unutilized funds to unexpended balance of the Local Disaster Risk Reduction Management Fund to a special trust account at the end of each year as required by law & regulations; b.) Management should be cautious in charging expenditures to the Local Risk Reduction Management Fund; c.) Restore to the fund the total amount of P106,140.00 representing irrelevant charges to the fund.",
+      "managementAction": "AAR 2016 Finding No. 2 The unspent balance has already been transferred for the prior government year 2015. Likewise, the disbursements charged against the fund were no longer charged against the Disaster Risk Mitigation purposes for which the fund was created.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2016-PY3",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive require the Treasurer and Municipal Accountant to remit the concerned LGU’s barangay shares from RPT collections in the amount of P369,587.55 as per Sec. 286 of R.A. 7160.",
+      "managementAction": "AAR 2016 Finding No. 3 Barangay Shares for RPT collections have already been remitted on a quarterly basis.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2016-PY4",
+      "year": 2016,
+      "recommendation": "We recommended that whenever medicines were procured, Management should adhere to the provisions cited in Executive Order No. 49, DOH AO no. 163 series of 2002 and COA Circular No. 2012-001 dated June 14, 2012 to ensure that items procured originated from legitimate sources and that they are effective as well as genuine. Also, we require that the Property Custodian should submit to Accounting Monthly Report of Medicines Issued as a basis for dropping from inventory account and taking up Medicines Expenses.",
+      "managementAction": "AAR 2016 Finding No. 4 Before payment of medicines, the BAC has complied with all the related requirement and these are checked by the Accounting Department.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2016-PY5",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipality of Macrohon strictly observe the provisions of Section 272 of the LGC, Article 363 of its Implementing Rules and Regulations and Item 4 of Joint Circular No. 01, s. 1998 of the DECS, DBM and DILG, in the utilization of the Special Education Fund.",
+      "managementAction": "AAR 2016 Finding No. 5 The Local School Board has complied with the provisions of Section 272 of the LGC and now incorporates in the budget those provisions of the said Circular.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2016-PY6",
+      "year": 2016,
+      "recommendation": "We recommended that the agency specifically, we suggest the following remedial steps: a. The Mayor requires the Treasurer in coordination with the Municipal Assessor to update the Real Property Taxpayer List, the Yearly Report on Property Assessment for easy determination of amount due and collectible and furnish the Accountant the certified List of Taxpayers to provide an accurate and reliable basis in the setting up of Receivables from Real Property Tax. b. The Municipal Accountant should set up at the beginning of the year 1% RPT Receivable and 1% SEF Receivable based on the certified List of Taxpayers with the total amount due and collectible and to make necessary adjustments on the affected accounts. c. The Municipal Accountant investigates the incurrence of negative balance of RPT Receivable and effect the necessary adjusting entries in the agency books to be able to present the accounts fairly in the financial statements.",
+      "managementAction": "AAR 2016 Finding No. 6 Although the Treasurer's Office failed to furnish the Accounting Office the certified Taxpayer List, the certified Receivable Accounts were set up based on the Yearly Report on Property Assessment.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2016-PY7",
+      "year": 2016,
+      "recommendation": "We recommended that the agency continue to improve the internal control system on its supplies Inventory, Office Supplies Inventory and make sure that all the issuances are duly accounted and properly documented.",
+      "managementAction": "AAR 2016 Finding No. 7 Summaries of Supplies and Materials Issued are yet to be established. Stock Cards are yet to be established although a delayed semestral count of inventories are already being done.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Stock cards are yet to be established. Physical count has been delayed but is already being done."
+    },
+    {
+      "id": "Macrohon_SoLeyte-2016-PY8",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Accountant submit the Schedule of Expenses to the Commission on Audit for verification and to monitor properly together with the GAD Focal Point System and local officials in the promotion that gender and development is mainstreamed in local policy-making, planning, programming and implementation.",
+      "managementAction": "AAR 2016 Finding No. 8 Supporting Documents already submitted to COA in 2nd Quarter of 2016",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2016-PY9",
+      "year": 2016,
+      "recommendation": "We recommended that all procurement relating to infrastructure should be meticulously and judiciously planned by the procuring entity in accordance with the requirement of RA 9184. Prepare and submit a certification that the detailed engineering surveys and designs have been conducted according to the prescribed agency standards and specifications, and copy of the Memorandum of Agreement should be provided and furnished the Team for verification.",
+      "managementAction": "AAR 2016 Finding No. 9 All procurement relating to Infrastructure were supported and the BAC headed by the Municipal treasurer has submitted written certification.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2016-PY10",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive should also ensure that the 20% of the Internal Revenue Allotment be optimally utilized to help achieve desirable socio-economic development and environmental outcomes of the municipality.",
+      "managementAction": "AAR 2016 Finding No. 10 The agency has strictly adhered to the provisions of the DBM-DILG Joint Circular. Items which are not related with the utilization of the 20% Economic Development Fund are not charged under the 20% Economic Development Fund.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Macrohon_SoLeyte-2016-PY11",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive should constitute an Inventory Committee composed of the Local Chief Executive and/or his representative and two (2) management officials that will be responsible in conducting the physical count and prepare the Report on the Physical Count of Property, Plant and Equipment. The Report on the Physical Count of Property, Plant and Equipment (RPCPPE) shall be submitted to the Auditor concerned not later than January of each year. Updated Property Ledger Cards (PLC) and Property Cards shall be maintained by the municipal bookkeeper and treasurer, respectively, and both records should be reconciled regularly.",
+      "managementAction": "AAR 2016 Finding No. 11 A Physical count has already been made but some items are yet to be reconciled. The Supply Officer, but physical count has been conducted.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some items are yet to be reconciled with the Supply Officer."
+    },
+    {
+      "id": "Macrohon_SoLeyte-2016-PY12",
+      "year": 2016,
+      "recommendation": "We recommended that strict adherence to the posting requirement of Sec. 21 of R.A. 9184 be observed by the BAC and in posting the detailed advertisements/publications, the BAC should clearly indicate the specifications/description of the goods to be procured in order to avoid any prejudicial to the agency pursuant to Sec. 21 of R.A. 9184. We also demand written explanation/justification on why the above enumerated deficiencies occurred, and this is without prejudice to the issuance of the Notice of Suspension or Disallowance later on.",
+      "managementAction": "AAR 2016 Finding No. 12 The BAC has adhered to the posting requirement but the management can no longer do the procurement as the vehicle has already been purchased. The Municipal treasurer has submitted written explanation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The BAC adhered to the requirement in posting but the technical specifications portion had deficiencies."
+    },
+    {
+      "id": "Macrohon_SoLeyte-2016-PY13",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive: a. Require the employees to adhere strictly to Section 89 of P.D. 1445; COA Circular 97-002; Sections 5.7 and 8 and COA Circular 2012-004 dated November 28, 2012 on the grant, utilization and liquidation of cash advances. b. Instruct the Municipal Accountant to send demand letters to employees who were granted cash advances for the liquidation thereof. c. Instruct the Municipal Accountant to exercise diligent effort to collect from those who no longer work for the agency by sending demand letters for the liquidation of the cash advances granted.",
+      "managementAction": "AAR 2016 Finding No. 13 Demand Letters are already sent to the said employees but some did not comply with liquidation of cash advances.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There are still employees who have not liquidated cash advances."
+    }
+  ]
+}

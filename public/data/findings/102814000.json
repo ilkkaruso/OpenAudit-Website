@@ -1,0 +1,1750 @@
+{
+  "lguCode": "102814000",
+  "lguName": "Nueva Era",
+  "province": "Ilocos Norte",
+  "region": "Region I (Ilocos Region)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-PY3",
+      "year": 2024,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to reconcile the difference of ₱2,185,126.38 between the reciprocal accounts Due from Other Funds and Due to Other Funds and effect the necessary adjustments to reflect the correct balances of the accounts.",
+      "managementAction": "The Management has instructed the Municipal Accountant to adhere to the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reconciliation of the ₱2,185,126.38 difference between the reciprocal accounts Due from Other Funds and Due to Other Funds has not yet been implemented."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-PY5",
+      "year": 2024,
+      "recommendation": "We recommended that Management require the:\n\nGeneral Services Officer to cancel the PARs issued on the small tangible items and issue ICSs to the end-users to monitor the said items; and\n\nMunicipal Accountant to effect the necessary Adjusting Entries to eliminate the small tangible items and their corresponding accumulated depreciation and ensure that future procurement of small tangible items be accounted for in accordance with COA Circular No. 2005-002.",
+      "managementAction": "No action taken by the Management.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The General Services Officer has not yet canceled the PARs or issued ICSs to end-users for the small tangible items.\n\nNot Implemented\n\nThe Municipal Accountant has not yet effected the necessary Adjusting Entries.\n\nReiterated in this report as Observation No. 4."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-PY12",
+      "year": 2024,
+      "recommendation": "We recommended that Management facilitate the turn-over of completed infrastructure assets that are no longer under the control of the municipality to the respective barangays. Moreover, the Municipal Accountant should derecognize these assets, including the accumulated depreciation, from the books of the municipality.",
+      "managementAction": "The Management has started to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The listed infrastructure projects were not yet turned-over to the respective barangays."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-PY13",
+      "year": 2024,
+      "recommendation": "We recommended the management the following courses of action: \n \n   Require concerned employees to intensify collection of the long outstanding receivables and issue demand letters, if necessary;\n\n   For undocumented loans receivable, the Management may secure from the Commission on Audit an authority to have these written-off following the guidelines and procedures set forth in COA Circular No. 2016-005 dated December 19, 2016; and\n\n   Revisit the MOA entered between the LGU and INEC and find possible means for fast collection of said receivables.",
+      "managementAction": "The Management did not comply with the audit recommendations.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No demand letters were issued during the year.\n\nNot Implemented\n\nNo request for write-off has been filed by the Management during the year.\n\nNot Implemented\nThe receivables from INEC remained uncollected."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-PY14",
+      "year": 2024,
+      "recommendation": "We recommended that management direct the Municipal Accountant to submit immediately the vouchers and documents to support the entries made in the Journals and for verification by the Audit Team for proper audit action.",
+      "managementAction": "The Management agreed to submit the subject disbursement vouchers.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Accounting Department is yet to submit the said disbursement vouchers."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-PY17",
+      "year": 2024,
+      "recommendation": "We recommended that Management:\n\ninstruct the GSO and Municipal Accountant to reconcile the local road inventory report and road map with the Accounting records;\n\nappraise the road lots components to be recorded as part of the Road Network System.",
+      "managementAction": "Management has completed the inventory of the Municipality's local roads, and the Report of the Physical Count of Local Road Networks has been prepared and is ready for submission to the Audit Team.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The GSO and the Municipal Accountant are in the process of reconciling the local roads inventory and road map with the accounting records.\n\nNot Implemented\n\nThe road lots has not yet been appraised."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-PY19",
+      "year": 2024,
+      "recommendation": "We recommended that Management instruct the:\nGeneral Services Officer to report all obsolete and unserviceable PPE in the IIRUP duly signed by the Head of Accounting Unit, Inspector/Appraisal Committee and approved by the Local Chief Executive or authorized representative, and submit the report to the Disposal Committee for proper disposition; and\nMunicipal Accountant to derecognize unserviceable properties from the books upon disposal thereof based on the approved IIRUP.",
+      "managementAction": "The Management has instructed the concerned personnel to comply with the recommendations.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No IIRUP has been prepared by the GSO – Designate as of the writing of this report. \n\nNot Implemented\n\nNo IIRUP has been prepared by the OIC-GSO, hence, no basis in derecognizing the unserviceable properties."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-PY20",
+      "year": 2024,
+      "recommendation": "We recommended that Management instruct the General Services Officer to 1) insure all insurable properties of the Municipality with the GIF administered by the GSIS to adhere with the provisions of RA No. 656 and Item 1.1.2 of COA Circular No. 92-390, to be able to indemnify in case of damages caused by fortuitous events; and 2) comply with the requirements of COA Circular No. 2018-002 on the submission of PIF in order to assist the implementation of the provisions of RA No. 656.",
+      "managementAction": "The Management has not acted on the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Only serviceable motor vehicles were insured with the General Insurance Fund of the GSIS."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-OBS1",
+      "year": 2024,
+      "recommendation": "We recommended that the Management instruct the Municipal Accountant to:\nreview the composition of these payable accounts to determine valid claims and ensure that all payables are duly supported with the required documents;\nrevert, if warranted, in the unappropriated surplus of the Municipality those which had become outstanding for two years or more in accordance with Section 98 of PD No. 1445;\nprepare the necessary adjusting journal entries to correct the erroneous entries;\nobserve proper accounting treatment on accounts payable recognition and make the necessary adjustments to fairly present the affected liability, assets and expenses account balances; and\nstrictly comply with the timely withholding of taxes and effect the adjusting entries to recognize the withholding taxes portion of Accounts Payable.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-OBS2",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Accountant to ensure adequate disclosure of Net Assets/Equity in accordance with the requirements of IPSAS 1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-OBS3",
+      "year": 2024,
+      "recommendation": "We recommended that the Management require the Municipal Accountant to (a) prioritize the reconciliation of the reciprocal accounts and take the necessary actions to eliminate the discrepancy of ₱2,188,146.38 and (b) ensure that all adjustments are supported with proper documents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-OBS4",
+      "year": 2024,
+      "recommendation": "We recommended that the Management:\nReclassify the small tangible items currently recorded as PPE to Inventory;\nAdjust the accounting records and financial statements accordingly to reflect a fair presentation of PPE, related accumulated depreciation and depreciation expenses, and Government Equity accounts;\nEnsure that all small tangible items are monitored through Inventory Custodian Slips (ICS) to establish accountability; and\nConduct an orientation or refresher training for Accounting personnel and GSO-Designate on current COA policies regarding asset classification and capitalization thresholds to ensure proper application of updated accounting policies.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-OBS5",
+      "year": 2024,
+      "recommendation": "We recommended that the Management:\nInstruct the GSO Designate to update the property records and prepare the necessary property transfer reports to support the formal turnover of the assets to the recipient schools.\nRequire the Municipal Accountant to derecognize the properties issued to public schools from the Municipality’s books of accounts upon verification of the transfer, in accordance with IPSAS 17.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-OBS6",
+      "year": 2024,
+      "recommendation": "We recommended that the Management:\nDirect the Municipal Accountant to immediately submit the 77 DVs amounting to ₱44,689,876.03 to the Audit Team for post-audit; and\nEnsure strict compliance with the timeline prescribed under Section 7.2.1(a) of COA Circular No. 2009-006 and Section 5.3 of COA Circular No. 97-002, particularly with respect to the timely submission of financial reports and supporting documents to the Audit Team.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-OBS7",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Engineer to require contractors to have the materials tested by duly accredited DOST/BRS laboratories and submit the result of test(s) analysis to ensure the quality of materials used in infrastructure projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-OBS8",
+      "year": 2024,
+      "recommendation": "We recommended that the Management require the Municipal Accountant to ensure that all DVs are properly supported with complete documentation and in no case shall be paid without the necessary supporting documents.\nAlso, immediately submit to COA the lacking supporting documents for proper evaluation, otherwise these may be suspended in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-OBS9",
+      "year": 2024,
+      "recommendation": "We recommended that the Management require the LDRRMO to:\ncoordinate with LDRRM Council to identify PPAs to be charged out of the unexpended balance of the LDRRMF;\nprepare the LDRRMFIP annually; and\nfurnish the Audit Team, the Office of Civil Defense (OCD), and the DILG–Local Government Operations Office (DILG-LGOO) with a copy of the annual LDRRMFIP, as required under Sections 5.1.2 and 5.1.15 of the aforementioned COA Circular.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-OBS10",
+      "year": 2024,
+      "recommendation": "We recommended that the Management:\nrevise the LDRRMFP to reflect the QRF as a lump sum allocation, without itemization, in accordance with Section 6.2.1 of Joint Memorandum Circular No. 2013-1;\nensure strict compliance with the guidelines on the usage of QRF, limiting its utilization to immediate disaster response and recovery efforts during or after a declared calamity;\nconduct orientation or capacity-building sessions for LDRRMO, LDRRM Council, the Local Finance Committee, and other relevant officers/personnel to reinforce understanding of applicable disaster fund policies.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-OBS11",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-OBS12",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-PY1",
+      "year": 2024,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to draw a JEV to facilitate the transfer of the costs of the completed projects from the CIP accounts to the PPE accounts and compute and provide depreciation expenses to these PPEs in order to have a truthful and accurate presentation of accounts in the financial statements.",
+      "managementAction": "Management adhered to the recommendation of the Audit Team.",
+      "status": "IMPLEMENTED",
+      "reason": "The Municipal Accountant has already prepared and recorded the necessary Journal Entry Vouchers (JEV Nos. 101-24-12-0151A to 12-0155A) to transfer the costs of completed projects from the CIP accounts to the appropriate PPE accounts. Depreciation expenses have also been computed and recorded to ensure accurate and truthful presentation of accounts in the financial statements."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-PY2",
+      "year": 2024,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to take up the following proposed adjusting journal entries in order to have a fair presentation of the financial statements and to adhere with the provisions of IPSAS 17 for future recognition of PPE and their subsequent costs.\n\nMoreover, the related depreciation should be computed and be provided to these assets.",
+      "managementAction": "Management took appropriate action in line with the Audit Team’s recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": "The Municipal Accountant has taken up the proposed adjusting journal entries to ensure fair presentation of the financial statements and adherence to the provisions of IPSAS 17 for the proper recognition of PPE and their subsequent costs.\n\nImplemented\n\nThe related depreciation for the assets has been duly computed and recorded in the books."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-PY4",
+      "year": 2024,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to draw JEVs to effect the necessary correcting entries in order to correct the misclassified accounts and thereafter to be always guided by the provisions of COA Circular No. 2015-009 and the IPSASs.",
+      "managementAction": "Management took appropriate action in line with the Audit Team’s recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": "JEV No. 03-011 to 015 was prepared to correct the misclassified accounts. Future transactions will be guided by the provisions of COA Circular No. 2015-009 and the applicable IPSAS standards."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-PY6",
+      "year": 2024,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to:\n\nprovide no salvage value in computing the depreciation of each infrastructure asset;\n\nchange the amount of salvage value in computing the yearly depreciation expense of each PPE items from 10% to 5% of cost; and\n\nrecompute the 2023 ending accumulated depreciations of each item of PPE and prepare adjusting journal entries to correct the same.",
+      "managementAction": "The Municipal Accountant assured the Audit Team that he will recompute the accumulated depreciation of each PPE and draw JEVs to correct the error.",
+      "status": "IMPLEMENTED",
+      "reason": "Management ensured that all infrastructure assets have no salvage value in computing depreciation.\n\nNot Implemented\n\nNo action has yet been taken to change the salvage value from 10% to 5% of cost for previously acquired PPE items in computing yearly depreciation.\n\nNot Implemented\n\nNo action has yet been taken to recompute the accumulated depreciation for each PPE item or to prepare the necessary adjusting journal entries."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-PY7",
+      "year": 2024,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to:\n\ntransfer only the unexpended QRF and DRRMF – MOOE to the Special Trust Fund and prepare the following journal entries to correct the error:\n\nreconcile the balance of the account Trust Liabilities – DRRMF and the details of which presented in the NFS, and ensure that the general ledger accounts match with the disclosures presented in the NFS at all times.",
+      "managementAction": "The Municipal Accountant has started reconciling the balance of the Trust Liabilities – DRRMF account.",
+      "status": "IMPLEMENTED",
+      "reason": "JEV No. 100-2024-47 was prepared to correct the error.\n\nNot Implemented\n\nThe balance of the account Trust Liabilities – DRRMF, as presented in the NFS, has not yet been reconciled, and the general ledger accounts do not yet match."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-PY8",
+      "year": 2024,
+      "recommendation": "We recommended that the Bids and Awards Committee (BAC) consolidate the procurement of similar or related items, with dates of requisitions or request in close proximity to one another, into one procurement activity and subject the same to appropriate mode of procurement to promote effective competition and transparency in the procurement process.",
+      "managementAction": "Management adhered to the recommendation of the Audit Team.",
+      "status": "IMPLEMENTED",
+      "reason": "Verifications have shown substantial compliance."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-PY9",
+      "year": 2024,
+      "recommendation": "We recommended Management the following courses of actions:\n\nEnsure that all deliveries of procured supplies and materials are accepted by the GSO-Designate and that all AIRs are signed by the proper officials;\n\nSee to it that all issuances of supplies and materials to the end user/requesting personnel bear the approval of the proper authorities and that all RISs are properly accomplished; and\n\nDirect the Municipal Accountant to follow the Perpetual Inventory System in accounting for supplies and materials as required by the MNGAS for LGUs.",
+      "managementAction": "Management has complied with the audit recommendations and acted to implement the necessary corrective measures.",
+      "status": "IMPLEMENTED",
+      "reason": "Management ensured that all deliveries of procured supplies and materials were accepted by the GSO-Designate and that all AIRs were signed by the proper officials.\n\nImplemented\n\nAll issuances of supplies and materials were approved by the proper authorities and that all RISs were properly accomplished.\n\nImplemented\n\nValidation proved the stated Management action."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-PY10",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Treasurer to require the barangays who are recipients of the monetary awards to issue ORs in order that doubts as to the validity and propriety of the disbursements made are ruled out and for these monetary awards to be properly accounted for as government funds in the books of the barangays and be subjected to appropriation ordinances and the usual accounting and auditing rules and regulations.",
+      "managementAction": "Management complied with the recommendation of the Audit Team.",
+      "status": "IMPLEMENTED",
+      "reason": "The Municipal Treasurer has required the barangays receiving monetary awards to issue ORs, which have been submitted accordingly."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-PY11",
+      "year": 2024,
+      "recommendation": "We recommended that Management ensure the effective, efficient and timely implementation of the proposed projects under the 20% DF through close monitoring and supervision to guarantee the maximization of the LGU’s desired socio-economic development and environmental outcomes as envisioned in its Municipal Development Plan.",
+      "managementAction": "Management adhered to the recommendation of the Audit Team.",
+      "status": "IMPLEMENTED",
+      "reason": "Management programmed 15 PPAs under the 20% DF totaling ₱40,915,391.00 for CY 2024. Fourteen projects were completed, and one project was ongoing as of year-end."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-PY15",
+      "year": 2024,
+      "recommendation": "We recommended the Management the following courses of action:\n\n   The BAC to post in the PHILGEPS website the NOA, Contracts and NTP for the procurement done thru public bidding and all Requests for Price Quotation for alternative mode of procurement exceeding Fifty Thousand Pesos (₱50,000.00) of the ABC, to promote transparency and efficiency in the procurement process; and\n\n    The Municipal Accountant to ensure that the printout copies of postings of Request for Price Quotation, NOA, Contracts and NTP in the PhilGEPS website are included among the supporting documents for payment of procured goods and infrastructure projects.",
+      "managementAction": "Management has committed to ensure full compliance",
+      "status": "IMPLEMENTED",
+      "reason": "The NOA, Contracts, and NTP have been posted on the PhilGEPS website.\n\nImplemented\n\nPrintout copies of the postings for NOA, Contracts, and NTP from the PhilGEPS website were attached to the payment documents for procured goods and infrastructure projects."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-PY16",
+      "year": 2024,
+      "recommendation": "We recommended that Management require the concerned officials to immediately submit the required list of recipients of the procured goods duly certified by them to the Municipal Accountant who will submit the same to the Audit Team to ascertain the completeness and propriety of the same and to ensure that these were actually received by the intended beneficiaries.",
+      "managementAction": "Management has committed to ensure full compliance",
+      "status": "IMPLEMENTED",
+      "reason": "The required distribution list has been submitted to the Audit Team."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2024-PY18",
+      "year": 2024,
+      "recommendation": "Also, we further recommended that Management instruct the Municipal Accountant to record income and expenses from utilization of trust receipts from government donors and to prepare and submit Statement of Financial Performance for Trust Fund to promote proper transparency and accountability.",
+      "managementAction": "Management has complied with the audit recommendation by ensuring that the receipts and utilization of funds transferred from national government agencies are properly addressed in the ensuing year.",
+      "status": "IMPLEMENTED",
+      "reason": "The Statement of Financial Performance for TF was duly prepared and submitted to COA."
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2023-PY2",
+      "year": 2023,
+      "recommendation": "We recommended that Management facilitate the turn-over of completed infrastructure assets that are no longer under the control of the municipality to the respective barangays. Moreover, the Municipal Accountant should derecognize these assets, including the accumulated depreciation, from the books of the municipality.",
+      "managementAction": "The Management is in the process of adhering to the auditor’s recommendation. The listed infrastructure projects were not yet turned-over to the respective barangays.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The listed infrastructure projects were not yet turned-over to the respective barangays."
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2023-PY4",
+      "year": 2023,
+      "recommendation": "We recommended the management the following courses of action: a. Require concerned employees to intensify collection of the long outstanding receivables and issue demand letters, if necessary; b. For undocumented loans receivable, the Management may secure from the Commission on Audit an authority to have these written-off following the guidelines and procedures set forth in COA Circular No. 2016-005 dated December 19, 2016; and c. Revisit the MOA entered between the LGU and INEC and find possible means for fast collection of said receivables.",
+      "managementAction": "The Management did not comply with the audit recommendations. No demand letters were issued during the year. No request for write-off has been filed by Management during the year. The receivables from INEC remained uncollected.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Management did not comply with the audit recommendations. No demand letters were issued during the year. No request for write-off has been filed by Management during the year. The receivables from INEC remained uncollected."
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2023-PY5",
+      "year": 2023,
+      "recommendation": "We recommended that management direct the Municipal Accountant to submit immediately the vouchers and documents to support the entries made in the Journals and for verification by the Audit Team for proper audit action.",
+      "managementAction": "The Management agreed to submit the subject vouchers. The Accounting Department is yet to submit the said vouchers.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Accounting Department is yet to submit the said vouchers."
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2023-PY6",
+      "year": 2023,
+      "recommendation": "We recommended the Management the following courses of action: a. The BAC to post in the PHILGEPS website the NOA, Contracts and NTP for the procurement done thru public bidding and all Requests for Price Quotation for alternative mode of procurement exceeding Fifty Thousand Pesos (₱50,000.00) of the ABC, to promote transparency and efficiency in the procurement process; and b. The Municipal Accountant to ensure that the printout copies of postings of Request for Price Quotation, NOA, Contracts and NTP in the PhilGEPS website are included among the supporting documents for payment of procured goods and infrastructure projects.",
+      "managementAction": "The Management is still in the process of adhering to the auditor’s recommendation. NOA, Contracts and NTP remained unposted in the PHILGEPS website. The Municipal Accountant did not ensure that the printout copies of postings of NOA, Contracts and NTP in the PhilGEPS website are included among the supporting documents for payment of procured goods and infrastructure projects.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "NOA, Contracts and NTP remained unposted in the PHILGEPS website. The Municipal Accountant did not ensure that the printout copies of postings of NOA, Contracts and NTP in the PhilGEPS website are included among the supporting documents for payment of procured goods and infrastructure projects."
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2023-PY7",
+      "year": 2023,
+      "recommendation": "We recommended that Management require the concerned officials to immediately submit the required list of recipients of the procured goods duly certified by them to the Municipal Accountant who will submit the same to the Audit Team to ascertain the completeness and propriety of the same and to ensure that these were actually received by the intended beneficiaries.",
+      "managementAction": "The Management is still in the process of adhering to the auditor’s recommendation. The required distribution list remained unsubmitted to the Audit Team.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The required distribution list remained unsubmitted to the Audit Team."
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2023-PY11",
+      "year": 2023,
+      "recommendation": "We recommended that Management require the Municipal Accountant to coordinate with the Municipal Engineer to determine the status of the subject infrastructure projects and adjust the identified completed projects to their respective proper accounts.",
+      "managementAction": "The Management through the Accounting Office adjusted some of the identified completed projects to their respective proper accounts.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Some of the completed projects listed were not yet reclassified to their respective accounts."
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2023-PY12",
+      "year": 2023,
+      "recommendation": "We recommended that Management instruct the General Services Officer to 1) insure all insurable properties of the Municipality with the GIF administered by the GSIS to adhere with the provisions of RA No. 656 and Item 1.1.2 of COA Circular No. 92-390, to be able to indemnify in case of damages caused by fortuitous events; and 2) comply with the requirements of COA Circular No. 2018-002 on the submission of PIF in order to assist the implementation of the provisions of RA No. 656.",
+      "managementAction": "The Management did not comply with our audit recommendation. Only serviceable motor vehicles were insured with the General Insurance Fund of the GSIS. No action on submission of PIF.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Only serviceable motor vehicles were insured with the GIF of the GSIS; PIF not submitted."
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2023-OBS1",
+      "year": 2023,
+      "recommendation": "1.5 We recommended that Management instruct the Municipal Accountant\nto draw a JEV to facilitate the transfer of the costs of the completed\nprojects from the CIP accounts to the PPE accounts and compute and\nprovide depreciation expenses to these PPEs in order to have a truthful\nand accurate presentation of accounts in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2023-OBS2",
+      "year": 2023,
+      "recommendation": "2.7 We recommended that Management instruct the Municipal Accountant\nto take up the following proposed adjusting journal entries in order to have a fair presentation of the financial statements and to adhere with\nthe provisions of IPSAS 17 for future recognition of PPE and their\nsubsequent costs:\nRoad Networks 7,852,524.25\nLand Improvements 79,724.00\nOther Structures 650,428.68\nPrior Years’ Adjustment 8,582,676.93\nMoreover, the related depreciation should be computed and be provided\nto these assets.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2023-OBS3",
+      "year": 2023,
+      "recommendation": "3.6 We recommended that Management instruct the Municipal Accountant\nto reconcile the difference of ₱2,185,126.38 between the reciprocal\naccounts Due from Other Funds and Due to Other Funds and effect the\nnecessary adjustments to reflect the correct balances of the accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2023-OBS4",
+      "year": 2023,
+      "recommendation": "4.6 We recommended that Management instruct the Municipal Accountant\nto draw JEVs to effect the necessary correcting entries in order to correct\nthe misclassified accounts and thereafter to be always guided by the\nprovisions of COA Circular No. 2015-009 and the IPSASs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2023-OBS5",
+      "year": 2023,
+      "recommendation": "5.6 We recommended that Management require the:\n1. General Services Officer to cancel the PARs issued on the small\ntangible items and issue ICSs to the end-users to monitor the said\nitems; and\n2. Municipal Accountant to effect the necessary Adjusting Entries to\neliminate the small tangible items and their corresponding\naccumulated depreciation and ensure that future procurement of\nsmall tangible items be accounted for in accordance with COA\nCircular No. 2005-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2023-OBS6",
+      "year": 2023,
+      "recommendation": "6.7 We recommended that Management instruct the Municipal Accountant\nto:\na. provide no salvage value in computing the depreciation of each\ninfrastructure asset;\nb. change the amount of salvage value in computing the yearly\ndepreciation expense of each PPE items from 10% to 5% of cost; and\nc. recompute the 2023 ending accumulated depreciations of each item\nof PPE and prepare adjusting journal entries to correct the same.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2023-OBS7",
+      "year": 2023,
+      "recommendation": "7.9 We recommended that Management instruct the Municipal Accountant\nto:\na. transfer only the unexpended QRF and DRRMF – MOOE to the\nSpecial Trust Fund and prepare the following journal entries to\ncorrect the error:\nGeneral Fund Books:\nDue to Other Funds 474,300.00\nPYA 474,300.00\nTrust Fund Books:\nTrust Liabilities - DRRMF 474,300.00\nDue from Other Funds 474,300.00\nb. reconcile the balance of the account Trust Liabilities – DRRMF and\nthe details of which presented in the NFS, and ensure that the general\nledger accounts match with the disclosures presented in the NFS at\nall times.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2023-PY1",
+      "year": 2023,
+      "recommendation": "We recommended that Management instruct the Engineering Department to furnish the Accounting Department of their monthly accomplishment and report to monitor those infrastructure projects which already are completed for them to recognize and transfer the same from CIP to their proper asset account and record their corresponding depreciation to correctly state the PPE account of the Municipality.",
+      "managementAction": "Implemented adhered to the recommendation of The Audit Team. The listed infrastructure projects were already recorded and recognized to their proper PPE accounts.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2023-PY3",
+      "year": 2023,
+      "recommendation": "We recommended the management the following courses of action: a. Implement projects funded out of grants from various national government agencies in accordance with the purpose specifically indicated in the Memorandum of Agreement (MOA) and evaluate the need for those unexpended fund balances from NGAs and if implementation thereof is no longer necessary, it should be remitted to the SA as required under existing rules and regulations. Otherwise, the management should request authority from the SA to use the balances for other priority projects. In addition, we recommended that management instruct the Municipal Accountant to reclassify the expenditures made from Other Payables account to Due to NGAs account for a truthful and accurate presentation of accounts in the financial statements.",
+      "managementAction": "The Management adhered to the recommendations of the Audit Team. The projects funded out of grants from NGAs were already implemented. Implemented The Municipal Accountant has drawn a JEV to reclassify the expenditures from Other Payables account to Due to NGAs account.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2023-PY8",
+      "year": 2023,
+      "recommendation": "We recommended that Management: a. facilitate the completion of the road map to be maintained by the GSO; b. instruct the GSO and Municipal Accountant to reconcile the local road inventory report and road map with the Accounting records; c. direct the Municipal Engineer to provide the Municipal Accountant of the complete description and cost segregation of the road networks; d. require the Municipal Accountant to transfer the traced road networks from the Registry of Infrastructure to the Books of Accounts; and e. appraise the road lots components to be recorded as part of the Road Network System.",
+      "managementAction": "a. The GSO is already maintaining the road map. b. Report of the Physical Count of Local Road Networks has already been submitted to the COA office. c. The GSO and the Municipal Accountant are in the process of reconciling the local roads inventory and road map with the accounting records. d. The Municipal Engineer provided the complete description and cost segregation of the road networks. e. The traced road networks from the Registry of Infrastructure have already been transferred to the Books of Accounts. f. The road lots has not yet been appraised.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The road lots has not yet been appraised. The GSO and the Municipal Accountant are in the process of reconciling the local roads inventory and road map with the accounting records."
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2023-PY9",
+      "year": 2023,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to draw a JEV for the transfer of the unexpended balance of funds received from government agencies from Other Payables account to Due to NGAs account as prescribed under COA Circular 2015-009 dated December 1, 2015. Also, we further recommended that Management instruct the Municipal Accountant to record income and expenses from utilization of trust receipts from government donors and to prepare and submit Statement of Financial Performance for Trust Fund to promote proper transparency and accountability.",
+      "managementAction": "The Municipal complied as recommended. Receipts from SAs erroneously recorded to Other Payables account were already transferred to its proper account which is the Due to NGAs account through a JEV. However, the management did not comply with the recommendation to prepare and submit Statement of Financial Performance for Trust Fund.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Receipts from SAs erroneously recorded to Other Payables account were already transferred to Due to NGAs account through a JEV. The Statement of Financial Performance for Trust Fund was not prepared and not submitted to COA."
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__NuevaEra_IlocosNorte-2023-PY10",
+      "year": 2023,
+      "recommendation": "We recommended that Management instruct the: 1. General Services Officer to – a. cancel the PARs issued on the small tangible items and issue ICSs to the end-users to monitor the said items; b. report all obsolete and unserviceable PPE in the IIRUP duly signed by the Head of Accounting Unit, Inspector/Appraisal Committee and approved by the Local Chief Executive or authorized representative, and submit the report to the Disposal Committee for proper disposition; and 2. Municipal Accountant to – a. effect the necessary Adjusting Entries to eliminate the small tangible items and their corresponding accumulated depreciation and ensure that future procurement of small tangible items be accounted for in accordance with COA Circular No. 2005-002; b. recognize depreciation expenses on PPEs not yet provided with depreciation; and c. derecognize unserviceable properties from the books upon disposal thereof based on the approved IIRUP.",
+      "managementAction": "The Management is in the process of adhering to the auditor’s recommendations. The listed small tangible items were still included in the Physical Count of Property, Plant & Equipment. The GSO is in the process of preparing the IIRUP. The Municipal Accountant already started recognizing depreciation expenses on all PPE items. No adjusting entries were made during the year and no IIRUP has been prepared by the OIC-GSO, hence, no basis in derecognizing the unserviceable properties.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some actions taken (recognition of depreciation expenses on PPEs and physical count) but no IIRUP prepared and no adjusting entries made to eliminate small tangible items; unserviceable properties not derecognized."
+    },
+    {
+      "id": "NuevaEra_IN_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended that Management instruct the: to – 1. General Services Officer to – a. cancel the PARs issued on the small tangible items and issue ICS to the end users; a. maintain complete and updated property cards per category of PPE and updated PAR for issuance to end users; b. report all obsolete and unserviceable PPE in the IIRUP duly signed by the Head of Accounting Unit, Inspector/Appraisal Designate and submit the report to the Disposal Committee for proper disposition; and c. keep the unserviceable PPE in a secure place or warehouse and dispose them immediately. 2. Municipal Accountant to – a. effect the necessary Adjusting Entries to eliminate the small tangible items and their corresponding accumulated depreciation and ensure that future procurement of small tangible items be accounted for in accordance with COA Circular No. 2005-002; b. record in the agency books the purchase of the ambulance and consequently provide for its depreciation; c. recognize depreciation expenses on PPEs not yet provided with depreciation; and d. derecognize unserviceable properties from the books upon disposal thereof based on the approved IIRUP.",
+      "managementAction": "The Management is in the process of adhering to the auditor’s recommendations. Submitted Report on Physical Count of Property, Plant & Equipment (RPCPPE) showed that small tangible items were still included in the said report. Property cards & PAR for issuance were maintained on PPEs acquired since 1997 and were updated in CY 2021. No IIRUP has been prepared by the GSO – Inspector/Appraisal Designate as of the writing of this report. The Management pointed us the building where the unserviceable PPE are being kept. No adjusting entries has been made during the year. The ambulance purchased was already recognized for CY 2021 and was provided with depreciation. Reiterated in Finding No. 2 of this report. No IIRUP has been prepared by the OIC-GSO, hence, no basis in derecognizing the unserviceable properties.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Accountant to coordinate with the Municipal Engineer, Municipal Assessor and the General Services Officer to a) comply with the requirements of COA Circular No. 2015-008 dated November 23, 2015 in the accounting and reporting guidelines on the Local Roads Asset Management System for the fair presentation of the account in the financial statements; and b) to maintain subsidiary records for roads and road components for every road network, and Local Road Inventory and Road Map, and complete Local Road Network Property Card for all roads and its component.",
+      "managementAction": "The Management is in the process of adhering to the auditor’s recommendations. Submitted road maps are incomplete. The concerned officials are yet to conduct a complete physical inventory of all local roads of the Municipality.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended that Management require the Municipal Accountant to coordinate with the Municipal Engineer to determine the status of the subject infrastructure projects and adjust the identified completed projects to their respective proper accounts.",
+      "managementAction": "The Management through the Accounting Office adjusted some of the identified completed projects to their proper accounts.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Only 11 out of 31 completed projects were reclassified to their respective accounts."
+    },
+    {
+      "id": "NuevaEra_IN_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to coordinate with all heads of implementing offices of the programs/projects where said these receivables have emanated, to follow the procedures set under COA Circular No. 2016-005 and upon exhausting all remedies identified therein, gather and prepare all documents in support for the requests for write-off of these dormant receivables before the COA.",
+      "managementAction": "The Management is in the process of preparing the documents required in filing the requests for write-off to the COA on the Office of the Auditor as of the preparation of this report.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No requests for write-off are being filed at the Office of the Auditor as of the preparation of this report."
+    },
+    {
+      "id": "NuevaEra_IN_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended that Management instruct the General Services Officer to 1) insure all insurable properties of the Municipality with the GIF administered by the GSIS to adhere with the provisions of RA No. 656 and Item 1.1.2 of COA Circular No. 92-390, to be able to indemnify in case of damages caused by fortuitous events; and 2) comply with the requirements of COA Circular No. 2018-002 on the submission of PIF in order to assist the implementation of the provisions of RA No. 656.",
+      "managementAction": "The Management did not comply with our audit recommendation. Only serviceable motor vehicles were insured with the General Insurance Fund of the GSIS.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "1.7. We recommended that Management:\na. facilitate the completion of the road map to be maintained by the GSO;\nb. instruct the GSO and Municipal Accountant to reconcile the local road\ninventory report and road map with the Accounting records;\nc. direct the Municipal Engineer to provide the Municipal Accountant of\nthe complete description and cost segregation of the road networks;\nd. require the Municipal Accountant to transfer the traced road networks\nfrom the Registry of Infrastructure to the Books of Accounts; and\ne. appraise the road lots components to be recorded as part of the Road\nNetwork System",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "2.6. We recommended and Management agreed to instruct the Municipal\nAccountant to recognize depreciation expenses on PPEs not yet provided\nwith depreciation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "3.8. We recommended that Management instruct the Municipal Accountant to\ndraw a Journal Entry Voucher (JEV) for the transfer of the unexpended\nbalance of funds received from government agencies from Other Payables\naccount to Due to NGAs account as prescribed under COA Circular 2015-\n009 dated December 1, 2015.\n\n3.9. Also, we further recommended that Management instruct the Municipal\nAccountant to record income and expenses from utilization of trust receipts\nfrom government donors and to prepare and submit Statement of Financial\nPerformance for Trust Fund to promote proper transparency and\naccountability.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "4.6. We recommended and Management agreed to instruct the Municipal\nAccountant to draw Journal Entry Vouchers to effect the necessary\ncorrecting entries presented in the foregoing discussions in order to correct\nthe misclassified accounts and thereafter to be always guided by the\nprovisions of COA Circular No. 2015-009 and the IPSASs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended that Management require the Municipal Accountant to: a. Set-up and/or record only accounts payable with valid and complete supporting documents in adherence to Section 46 of Presidential Decree No. 1177 and Section 4(6) of Presidential Decree No. 1445; b. Revert prior years’ balances of accounts payable which have remained in the books of accounts for two years or more in line with the provision of Section 98 of Presidential Decree No. 1445; and c. Conduct continuous and thorough evaluation of the validity of recorded payables, particularly those pertaining to prior years, in order to determine the immediate appropriate action and/ or necessary adjustments therewith.",
+      "managementAction": "The Management complied as recommended. Recorded accounts payable as at year-end were supported with complete supporting documents. Prior years’ balances of accounts payable aged 2 years and more were already reverted to the unappropriated surplus of the general fund under JEV No. 101-12-104A dated December 29, 2021. Schedules submitted for Accounts Payable account as at December 31, 2021 showed that there are no more balances aging 2 years and more.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended that Management instruct the Municipal Treasurer to remit/release the share of the barangays from RPT within the prescribed period pursuant to Section 271 (d) of RA No. 7160, to timely augment their funds for their operations and/or projects.",
+      "managementAction": "The Management complied as recommended. Barangays’ shares from the collection of RPT were religiously released on a quarterly basis.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to only pay claims with complete supporting documents in compliance with Section 4(6) of PD No. 1445 and COA Circular No. 2012-001; and to submit the needed documents to support the purchases to the Audit Team for further evaluation as to the validity, legality and propriety of the same.",
+      "managementAction": "The Accounting Office is particularly looking for the completeness of the supporting documents before payment of claims. Documents were already submitted to the Office of the Auditor.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Treasurer enforce the collection of the delinquent real property taxes and that all other officials concerned should adopt measures or policies and implement the remedies for the collection of the same.",
+      "managementAction": "The Management had exerted efforts in collecting RPTs through conduct of tax campaigns. They also submit list of RPT delinquencies to the Provincial Treasury Office for publication in the local newspaper. Moreover, RPT receivables as at year-end totaling ₱4,711,375.36 much lower than previous year’s RPT receivable of ₱7,523,820.60, thus showed substantial compliance with our audit recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": "There was an increase of ₱416,997.97 in RPT collections for CY 2021 from past year’s collections of ₱848,602.40 to ₱1,265,600.37 of the current year. Moreover, RPT receivables as at year-end totaling ₱4,711,375.36 is much lower than previous year’s RPT receivable of ₱7,523,820.60."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__NuevaEra_IN-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended that Management take the following courses of action:\n\nExert effort in collecting the receivables from INEC.\n\n\nAdhere strictly to the provisions of COA Circular No. 97-002 dated February 10, 1997 in the granting, utilization and liquidation of all cash advances.\n\nConduct analysis and verifications of the receivables and, if all possible means to collect have been exhausted and the same proved futile, request for write-off the accounts following the guidelines set forth in COA Circular No. 2016-005 dated December 19, 2016.",
+      "managementAction": "A follow-up letter has been sent to INEC.\n\n\nThe Municipality complied as recommended.\n\n\nThe Management is already preparing for the documents to support the request for authority to write off.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__NuevaEra_IN-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended that Management take the following courses of action:\n\nThe Bids and Awards Committee (BAC) should properly evaluate the completeness of Bidding Documents, Eligibility and Technical requirements and other documents before recommending the award of contracts to the Municipal Mayor in line with the provisions of RA No. 9184 and its Revised Implementing Rules and Regulations;\n\nThe Municipal Government shall enter into contract with the winning bidder, provided, that all documentary requirements are complied with;\n\nManagement should submit the required documents; and\n\n\nThe Municipal Accountant must require all pertinent documents before certifying the disbursement vouchers as to the completeness of supporting documents in line with Section 4(6) of PD No. 1445 to avoid doubts on the legality, validity and propriety of transactions.",
+      "managementAction": "The Management already complied with the audit recommendations.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__NuevaEra_IN-2020-PY9",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Treasurer enforce the collection of the delinquent real property taxes and that all other officials concerned should adopt measures or policies and implement the remedies for the collection of the same.",
+      "managementAction": "The Management had a hard time to collect or cannot enforce collection of RPT to taxpayers most especially its pandemic and they cannot pursue tax campaigns due to the present situation. They, however, submitted RPT delinquencies to the Provincial Treasury Office for publication in the local newspaper.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__NuevaEra_IN-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended that Management instruct the:\nGeneral Services Officer to –\ncancel the PARs issued on the small tangible items and issue ICS to the end-users to monitor the said items;\nmaintain complete and updated property cards per category of PPE and updated PAR for issuance to end users;\nreport all obsolete and unserviceable PPE in the IIRUP duly signed by the Head of Accounting Unit, Inspector/Appraisal Committee and approved by the Local Chief Executive or authorized representative, and submit the report to the Disposal Committee for proper disposition; and\nkeep the unserviceable PPE in a secure place or warehouse and dispose them immediately.\nMunicipal Accountant to –\neffect the necessary Adjusting Entries to eliminate the small tangible items and their corresponding accumulated depreciation and ensure that future procurement of small tangible items be accounted for in accordance with COA Circular No. 2005-002;\nrecord in the agency books the purchase of the ambulance and consequently provide for its depreciation;\nrecognize depreciation expenses on PPEs not yet provided with depreciation; and\nderecognize unserviceable properties from the books upon disposal thereof based on the approved IIRUP.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__NuevaEra_IN-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Accountant to coordinate with the Municipal Engineer, Municipal Assessor and the General Services Officer to a) comply with the requirements of COA Circular No. 2015-008 dated November 23, 2015 in the accounting and reporting guidelines on the Local Roads Asset Management System for the fair presentation of the account in the financial statements; and  b) to maintain subsidiary records for roads and road components for every road network, and Local Road Inventory and Road Map, and complete Local Road Network Property Card for all roads and its component.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__NuevaEra_IN-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended that Management require the Municipal Accountant to coordinate with the Municipal Engineer to determine the status of the subject infrastructure projects and adjust the identified completed projects to their respective proper accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__NuevaEra_IN-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommended that Management require the Municipal Accountant to:\nSet-up and/or record only accounts payable with valid and complete supporting documents in adherence to Section 46 of Presidential Decree No. 1177 and Section 4(6) of Presidential Decree No. 1445;\nRevert prior years’ balances of accounts payable which have remained in the books of accounts for two years or more in line with the provision of Section 98 of Presidential Decree No. 1445; and\nConduct continuous and thorough evaluation of the validity of recorded payables, particularly those pertaining to prior years, in order to determine the immediate appropriate action and/ or necessary adjustments therewith.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__NuevaEra_IN-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to coordinate with all heads of implementing offices of the programs/projects where these receivables have emanated, to follow the procedures set under COA Circular No. 2016-005 and upon exhausting all remedies identified therein, gather and prepare all documents in support for the requests for write-off of these dormant receivables before the COA.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__NuevaEra_IN-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended that Management instruct the Municipal Treasurer to remit/release the share of the barangays from RPT within the prescribed period pursuant to Section 271 (d) of RA No. 7160, to timely augment their funds for their operations and/or projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__NuevaEra_IN-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We recommended that Management instruct the General Services Officer to 1) insure all insurable properties of the Municipality with the GIF administered by the GSIS to adhere with the provisions of RA No. 656 and Item 1.1.2 of COA Circular No. 92-390, to be able to indemnify in case of damages caused by fortuitous events; and 2) comply with the requirements of COA Circular No. 2018-002 on the submission of PIF in order to assist the implementation of the provisions of RA No. 656.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__NuevaEra_IN-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to only pay claims with complete supporting documents in compliance with Section 4(6) of PD No. 1445 and COA Circular No. 2012-001; and to submit the needed documents to support the purchases to the Audit Team for further evaluation as to the validity, legality and propriety of the same.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__NuevaEra_IN-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommended that the municipal government exhaust all possible means to document the legality of ownership of the lots through Transfer Certificates of Title in the name of the municipality as required under Sec. 39 (2) of PD No. 1445 to ascertain the validity and reliability of the Land account presented in the financial statements.",
+      "managementAction": "The Management is currently coordinating with the DENR-PENRO for the titling of some lots actually used by the Municipality.  The lots which are classified as Pasture land, Timberland and uncultivated land where in the name of the Municipality as per records at the Municipal Assessor’s Office.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__NuevaEra_IN-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended that Management take the following courses of action:\nRequire the Municipal Treasurer to send notices to the payees concerned on the existence of these checks that had become stale;\n\n\nRequire the Municipal Accountant to prepare adjusting journal entries to restore the liabilities of the LGU to these creditors, by debiting Cash in Bank and crediting the Accounts Payable account; and\n\nPursuant to Section 59 of the Manual on NGAS for LGUs, Volume I, the stale checks shall be marked “Cancelled” on their faces and reported as follows:\nFor spoiled checks which are immediately cancelled and for which the Report of Checks Issued (RCI) has not yet been prepared, the cancelled check shall be attached to the RCI and reported chronologically with the other checks issued and the word “Cancelled” shall be indicated in the report.\nFor stale checks which have been unclaimed and thus, the original DV and supporting documents are still with the Treasurer, the cancelled check shall be presented in the RCI after the last check issued for the period indicated in the report.  The original DV and supporting documents shall be returned to the Accountant who shall prepare a JEV to record the transaction as Accounts Payable.\nFor checks which became spoil or stale in the hands of the payee and which require replacement, a new check may be issued upon submission of the spoiled or stale check to the Treasurer.  A certified copy of the DV shall be requested from the Auditor for presentation to the Local Chief Executive who shall countersign the check.  The cancelled check shall be reported and attached to the RCI prepared at the period of cancellation.  The replacement check shall be reported chronologically in the RCI.",
+      "managementAction": "The checks totaling ₱10,000.00 which became stale are still in the custody of the Municipal Treasurer.   \n\n\nThe Municipal Accountant already made the necessary adjustments.\n\n\nChecks still included in the reconciling items totaling ₱10,000.00 were marked cancelled.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__NuevaEra_IN-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended that Management direct the Municipal Accountant to submit immediately the vouchers and documents to support the entries made in the Journals to enable the Audit Team to make a decision in audit.",
+      "managementAction": "The Municipal Accountant already submitted the 46 DVs.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__NuevaEra_IN-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommended that the Agency strictly adhere to the regulations provided for under COA Circular No. 77-61 in the acquisition and consumption of fuel and oil and submit the required reports for review and verification.",
+      "managementAction": "The Management complied as recommended.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__NuevaEra_IN-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended that Management stop from paying the gadget cash out to avoid unnecessary expenses and disallowance of the same.   This should be shouldered personally by the officer or employee who availed of the plan with phone.",
+      "managementAction": "Gadget cash outs on payment of telephone expenses were paid personally by the officer or employee concerned.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__NuevaEra_IN-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended that Management require contractors the submission of materials test(s) results before the conduct of inspection by agency personnel and payment of claims for infrastructure projects so that management will be assured of the quality of materials used.",
+      "managementAction": "The Management required the contractor to submit the Materials Tests Results for every project awarded before payment.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__NuevaEra_IN-2020-PY10",
+      "year": 2020,
+      "recommendation": "We recommended Management the following:\n\nThe Municipal Treasurer and the Municipal Accountant coordinate with each other and reconcile the discrepancies on their records.  Adjust and/or correct the record that needs adjustment for the fair presentation of the financial statements; and\n\nReconcile regularly or at least quarterly the cashbooks with that of the corresponding subsidiary ledger in accordance with the provisions of Section 74 of Presidential Decree No. 1445 and Section 6.3 of COA Circular No. 97-002 dated February 10, 1997.",
+      "managementAction": "Reconciliation has been conducted between the Municipal Accountant and Municipal Treasurer and the discrepancy of ₱20,147.71 has been adjusted.\n\n\nReconciliation between the Treasury and Accounting were already done regularly.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__NuevaEra_IN-2020-PY11",
+      "year": 2020,
+      "recommendation": "We have recommended to the Management the strict compliance to above stated Sections of RA No. 9003 for the design and operation of sanitary landfill to ensure the non-occurrence of harmful health and environmental impacts arising from an improperly maintained landfill.",
+      "managementAction": "Environmental Compliance Certificate has been issued by the Environmental Management Bureau of the Department of Environment and Natural Resources for the construction of the sanitary landfill.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__NuevaEra_IN-2020-PY12",
+      "year": 2020,
+      "recommendation": "We have recommended for the Municipal Accountant to check the completeness and validity of the transaction before paying and concerned officials/ employees shall submit the required supporting documents.",
+      "managementAction": "The documents mentioned in the audit observation were already submitted to COA.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended that the municipal government exhaust all possible means to document the legality of ownership of the lots through Transfer Certificates of Title in the name of the municipality as required under Sec. 39 (2) of PD No. 1445 to ascertain the validity and reliability of the Land account presented in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended that management:\n1. facilitate the completion of the road map to be maintained by the General Services Officer;\n2. instruct the GSO and Municipal Accountant to reconcile the local road inventory report and road map with the Accounting records;\n3. direct the Municipal Engineer to provide the Municipal Accountant of the complete description and cost segregation of the road networks; and\n4. require the Municipal Accountant to do alternative procedures in determining unrecorded Road Networks like reconciling the accounting records with the roadmap. For the amount to be transferred to the accounting records, the guidelines of COA Circular 2015-008 should be observed.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended that the OIC- General Services Officer dispose/condemn properties which are unserviceable and the corresponding cost or value be dropped from the books of accounts in order to reflect the correct value of Property, Plant and Equipment in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended that management take the following courses of action:\na. Require the Municipal Treasurer to send notices to the payees concerned on the existence of these checks that had become stale;\nb. Require the Municipal Accountant to prepare adjusting journal entries to restore the liabilities of the LGU to these creditors, by debiting Cash in Bank and crediting the Accounts Payable account; and\nc. Pursuant to Section 59 of the Manual on NGAS for LGUs, Volume I, the stale checks shall be marked “Cancelled” on their faces and reported as follows:\n1. For spoiled checks which are immediately cancelled and for which the Report of Checks Issued (RCI) has not yet been prepared, the cancelled check shall be attached to the RCI and reported chronologically with the other checks issued and the word “Cancelled” shall be indicated in the report.\n2. For stale checks which have been unclaimed and thus, the original DV and supporting documents are still with the Treasurer, the cancelled check shall be presented in the RCI after the last check issued for the period indicated in the report. The original DV and supporting documents shall be returned to the Accountant who shall prepare a JEV to record the transaction as Accounts Payable.\n3. For checks which became spoil or stale in the hands of the payee and which require replacement, a new check may be issued upon submission of the spoiled or stale check to the Treasurer. A certified copy of the DV shall be requested from the Auditor for presentation to the Local Chief Executive who shall countersign the check. The cancelled check shall be reported and attached to the RCI prepared at the period of cancellation. The replacement check shall be reported chronologically in the RCI.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended that management take the following courses of action:\n1. Exert effort in collecting the receivables from INEC.\n2. Adhere strictly to the provisions of COA Circular No. 97-002 dated February 10, 1997 in the granting, utilization and liquidation of all cash advances.\n3. Conduct analysis and verifications of the receivables and, if all possible means to collect have been exhausted and the same proved futile, request for write-off the accounts following the guidelines set forth in COA Circular No. 2016-005 dated December 19, 2016.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended that management direct the Municipal Accountant to submit immediately the vouchers and documents to support the entries made in the Journals to enable the Audit Team to make a decision in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We recommended that management take the following courses of action:\na) The Bids and Awards Committee (BAC) should properly evaluate the completeness of Bidding Documents, Eligibility and Technical requirements and other documents before recommending the award of contracts to the Municipal Mayor in line with the provisions of Republic Act No. 9184 and its Revised Implementing Rules and Regulations;\nb) The municipal government shall enter into contract with the winning bidder, provided, that all documentary requirements are complied with;\nc) Management should submit the required documents; and\nd) The Municipal Accountant must require all pertinent documents before certifying the disbursement vouchers as to the completeness of supporting documents in line with Section 4(6) of P.D. 1445 to avoid doubts on the legality, validity and propriety of transactions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2019-OBS8",
+      "year": 2019,
+      "recommendation": "We recommended that the agency strictly adhere to the regulations provided for under COA Circular No. 77-61 in the acquisition and consumption of fuel and oil and submit the required reports for review and verification.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2019-OBS9",
+      "year": 2019,
+      "recommendation": "We recommended that management refrain from paying the gadget cash out to avoid unnecessary expenses and disallowance of the same. This should be shouldered personally by the officer or employee who availed of the plan with phone.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended Management the following:\n1. Require that the OIC-GSO conduct periodic physical inventory count of materials and supplies and submit the Report of Physical Count of Inventories (RPCI) not later than July 31 and January 31 of each year for the first and second semester, respectively; and\n2. Require the Municipal Accountant and OIC-GSO to maintain supplies ledger cards and supplies stock cards, respectively, and periodically reconcile the two reports.",
+      "managementAction": "Periodic physical / The OIC-GSO been conducted the Municipal Accountant complied with the audit recommendations",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended Management the following:\na. The Municipal Treasurer and the Municipal Accountant coordinate with each other and reconcile the discrepancies on their records. Adjust and/or correct the record that needs adjustment for the fair presentation of the financial statements; and\nb. Reconcile regularly or at least quarterly the cashbooks with that of the corresponding subsidiary ledger in accordance with the provisions of Section 74 of Presidential Decree No. 1445 and Section 6.3 of COA Circular No. 97-002 dated February 10, 1997.",
+      "managementAction": "Cash in Bank account reconciliation had been conducted by the Municipal Accountant and the Municipal Treasurer are in the process of reconciling the discrepancies. looking for the their records. discrepancies.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended the Municipal Mayor the following courses of action: 1. Require the Municipal Engineer to submit the basis of computation of the ABC and written justification for non-compliance with DPWH Department Order 197, series of 2016; 2. Strictly adhere with the provisions of the aforecited rules and procedures in the preparation of the ABC for all succeeding infrastructure projects, otherwise it will be subjected to disallowance in audit.",
+      "managementAction": "The management / DPWH DO No. 197 was already complied in the computation of ABC for each infrastructure project implemented by the management. Of the 12 projects with error in the computation of various Program of Works of different infrastructure projects totaling P1,137,260.77, the amount of P782,708.41 had been refunded or recovered from the contractor.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended Management to adhere to the aforementioned provisions of the Revised Implementing Rules and Regulations of Republic Act No. 9184.",
+      "managementAction": "The management complied with the audit recommendation. Copies of invitation letters to three observers were completely attached to the corresponding procurement contracts.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended the agency the following courses of action: 1. Exercise prudence in the payment of traveling expenses and per diems; and 2. All concerned official and employees be directed to refund the above excess amount of per diems claimed.",
+      "managementAction": "The management complied with the audit recommendations. The official and employees concerned already refunded the excess amount of per diems claimed.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended that management comply with the following:\n1. Prepare annually the LDRRMFIP in the format provided in Annex A of COA Circular No. 2012-002 dated September 12, 2012 which should contain the following information: a. Functional Classification b. List of Programs/Projects/Activities c. Implementing Office d. Schedule of Implementation e. Expected Output f. Funding Source g. Amount of Appropriation The LDRRMFIP shall include under a separate caption, the list of projects and activities charged to the unexpended LDRRMF of previous years.\n2. Instruct the Local Disaster Risk Reduction and Management Officer and the Municipal Accountant to prepare and submit a report on Sources and Utilization of DRRMF on a monthly basis in accordance with the procedures and requirements outlined in paragraph 5.1.5 of said COA Circular.\n3. Disclose the details of the unexpended balance in the Notes to Financial Statements.",
+      "managementAction": "The management complied with the audit recommendations. The LDRRMFIP had already been submitted to the Office of the Auditor. Also, the Report on Utilization of Disaster Risk and Reduction Management Fund had been submitted monthly.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended the management the following: a. Instruct General Services Officer-Designate to maintain an efficient property management by following the prescribed procedures in property recording and maintain accurate property records and regularly renew Property Acknowledge Receipt (PAR); b. Require Accounting Office to maintain an updated property, plant and equipment ledger cards reconciled with the property cards of the GSO.",
+      "managementAction": "The balances of the PPE accounts had been partially reconciled with the Inventory Report submitted except for the Road Networks account.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2019-PY8",
+      "year": 2019,
+      "recommendation": "We have recommended to the Management the strict compliance to above stated Sections of R.A. No. 9003 for the design and operation of sanitary landfill to ensure the non-occurrence harmful health and environmental impacts arising from an unproperly maintained landfill.",
+      "managementAction": "Partially complied / The management already submitted the lacking requirements on their 10-yr Solid Waste Management Plan and waiting for the approval from Department of Environment and Natural Resources, Regional Office No. I, San Fernando City, La Union.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2019-PY9",
+      "year": 2019,
+      "recommendation": "We have recommended for the Municipal Accountant to check the completeness and validity of the transaction before paying and concerned officials/ employees shall submit the required supporting documents.",
+      "managementAction": "Partially complied / There were still paid vouchers incomplete supporting documents.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended Management the following courses of action:\nThe Municipal Engineer to\nPrepare a schedule of the local roads indicating therein the cost of each road network component such as (a) road lot, (b) road pavement, (c) drainage and slope protection structures and (d) other miscellaneous structures to be submitted to the GSO and Accounting Office.\nPromptly conduct an inventory of its road network system;\nIndicate the separate cost of each road component for subsequent road projects of the municipality; and\nDetermine the life of the local roads taking into consideration the (1) design, (2) type of users, and (3) volume of users of the roads, to serve as basis for the depreciation of the road components to be applied by the Accounting Office.\nThe OIC-GSO shall\nMaintain a Local Road Inventory and Road Map;\nKeep a complete Local Road Network Property Card for all roads and its components; and\nPrepare the Report on the Physical Count of Local Road Network (RPCLRN).\nThe Municipal Accountant to\nPrepare and maintain Registry of Public Infrastructures for roads;\nDoes alternative procedures in determining unrecorded Road Networks like reconciling the accounting records with the roadmap. For the amount to be transferred to the accounting records, the guidelines of COA Circular 2015-008 should be observed.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We recommended Management the following:\nRequire that the OIC-GSO conduct periodic physical inventory count of materials and supplies and submit the Report of Physical Count of Inventories (RPCI) not later than July 31 and January 31 of each year for the first and second semester, respectively; and\nRequire the Municipal Accountant and OIC-GSO to maintain supplies ledger cards and supplies stock cards, respectively, and periodically reconcile the two reports.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended Management the following:\nThe Municipal Treasurer and the Municipal Accountant coordinate with each other and reconcile the discrepancies on their records.  Adjust and/or correct the record that needs adjustment for the fair presentation of the financial statements; and\nReconcile regularly or at least quarterly the cashbooks with that of the corresponding subsidiary ledger in accordance with the provisions of Section 74 of Presidential Decree No. 1445 and Section 6.3 of COA Circular No. 97-002 dated February 10, 1997.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended Management the following:\nThe amount of outstanding checks that became stale be immediately cancelled in pursuance of Section 59 of the Manual on NGAS for LGUs and adjust the affected corresponding accounts; and\nThe recurring and long outstanding reconciling items reflected in the Bank Reconciliation Statements be adjusted for an accurate Cash in Bank account balance of each funds reflected in the financial statements of the municipal government.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We recommended Management the following courses of action:\nExert effort in collecting the receivables from INEC and Toyota.\nAdhere strictly to the provisions of COA Circular No. 97-002 dated February 10, 1997 in the granting, utilization and liquidation of all cash advances.\nConduct analysis and verifications of the receivables and, if all possible means to collect have been exhausted and the same proved futile, request for write-off the accounts following the guidelines set forth in COA Circular No. 2016-005 dated December 19, 2016.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We recommended the Municipal Mayor the following courses of action:\nRequire the Municipal Engineer to submit the basis of computation of the ABC and written justification for non-compliance with DPWH Department Order 197, series of 2016; and\nStrictly adhere with the provisions of the aforecited rules and procedures in the preparation of the ABC for all succeeding infrastructure projects, otherwise it will be subjected to disallowance in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-OBS7",
+      "year": 2018,
+      "recommendation": "We recommended Management to adhere to the aforementioned provisions of the Revised Implementing Rules and Regulations of Republic Act No. 9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-OBS8",
+      "year": 2018,
+      "recommendation": "We recommended the agency the following courses of action:\nExercise prudence in the payment of traveling expenses and per diems; and\nAll concerned official and employees be directed to refund the above excess amount of per diems claimed.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-OBS9",
+      "year": 2018,
+      "recommendation": "We recommended that management comply with the following:\nPrepare annually the LDRRMFIP in the format provided in Annex A of COA Circular No. 2012-002 dated September 12, 2012 which should contain the following information:\nFunctional Classification\nList of Programs/Projects/Activities\nImplementing Office\nSchedule of Implementation\nExpected Output\nFunding Source\nAmount of Appropriation\nThe LDRRMFIP shall include under a separate caption, the list of projects and activities charged to the unexpended LDRRMF of previous years.\nInstruct the Local Disaster Risk Reduction and Management Officer and the Municipal Accountant to prepare and submit a report on Sources and Utilization of DRRMF on a monthly basis in accordance with the procedures and requirements outlined in paragraph 5.1.5 of said COA Circular.\nDisclose the details of the unexpended balance in the Notes to Financial Statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-OBS10",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-OBS11",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommended the management the following:\nInstruct General Services Officer- Designate to maintain an efficient property management by following the prescribed procedures in property recording and maintain accurate property records and regularly renew Property Acknowledge Receipt (PAR);\nRequire Accounting Office to maintain an updated property, plant and equipment ledger cards reconciled with the property cards of the GSO.",
+      "managementAction": "The balances of the PPE accounts have been partially reconciled.",
+      "status": "UNKNOWN",
+      "reason": "Balances of the PPE accounts as appearing in the books have been reconciled with the Inventory Report submitted by the OIC GSO except for the Road Networks account in which there is an incomplete conduct of physical count and non-preparation  and non-submission of the Report on the Physical Count of Local Road Network. The detail is discussed in Finding No. 1 of this report."
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommended the Municipal Accountant to compute the depreciation on the subject- accounts and make the necessary adjustment on the affected accounts. Henceforth, depreciation must be computed for all the PPE accounts of the LGU periodically to ensure fair presentation of depreciation and related accounts in the financial statements. We also recommended the Municipal Accountant to revisit PPSAS 17 which prescribes the accounting treatment for property plant and equipment.",
+      "managementAction": "The proper depreciation have been provided for the PPE accounts",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommended the management to instruct the Municipal Accountant to reclassify the non- current portion of Loans Payable-Domestic for better presentation of liabilities of the LGU in the Statement of Financial Position as at year-end/ reporting date. We also recommended the Municipal Accountant to provide detailed information on the composition of the Officer Current Liability account for our review.",
+      "managementAction": "The current and non-current portion of the Loans Payable-Domestic account have been reclassified",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-PY4",
+      "year": 2018,
+      "recommendation": "We recommended the management to instruct the Municipal Treasurer to transfer the funds to the General Fund of the LGU and also for the Municipal Accountant to apply the same in its book to comply with the provisions of RA 7160 and for proper presentation of LGU fund balances in the Financial Statements.",
+      "managementAction": "Receipts from RA 7171 have been transferred to the General Fund",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommended the management for the timely submission of accounts pursuant to COA Circulars 95- 006 and 2009- 06 and as required PD 1445.",
+      "managementAction": "DV’s are now submitted on time",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-PY6",
+      "year": 2018,
+      "recommendation": "We recommended the management to instruct the Municipal Vice- Mayor to refund the cost of plane tickets amounting to P 11,361.00. It is also recommended to refrain from using other means of transportation other than those authorized and ensure the economy and efficiency is observed.",
+      "managementAction": "The amount have already been refunded",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommended the Local Chief Executive to refund the Transportation Allowance totaling P50,400.00. We also recommended the Municipal Accountant to discontinue the grant of Transportation Allowance to the Municipal Mayor and ensure the compliance of the agency with NBC No. 548.",
+      "managementAction": "The amount have already been refunded",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommended the management the following: \nInstruct the Municipal Accountant and HRMO to submit immediately the required documents as embodied in Section 5.15 of COA Circular 2012-01 for our review.\nSubmit the duly accomplished Driver’s Trip Ticket and Fuel Consumption Report pertaining to the road rehabilitation project for our review and verification.\nSubmit the lacking documents as presented in Annex B and ensure the completeness of the documentary requirements as enumerated in Sections 9.1.1 and 9.1.1.4 of COA Circular 2012-01 to avoid suspensions and/or disallowances.\nSubmit lacking documents as required by Annex “H” Appendix A of the 2016 Revised IRR of RA 9184 for the LGU’s transactions involving alternative modes of procurements presented in 3.1.d.\nRequire the contractors to submit construction and health program approved by the DOLE in compliance to the requirement of the Revised IRR of RA 9184.\nWe also recommended the management to refrain from approving transaction without proper attachment of documentary requirements.",
+      "managementAction": "The supporting papers have already been submitted",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-PY9",
+      "year": 2018,
+      "recommendation": "We recommended the management to instruct the Municipal Engineer together with the inspection committee for infrastructure projects to thoroughly inspect the implementation and completion of projects of the LGU and ensure the compliance of the contractor with the program of works and change order, if any, to avoid further disallowances.",
+      "managementAction": "Variation and Change orders have been made to conform with the approved program",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-PY10",
+      "year": 2018,
+      "recommendation": "We recommended the management to require the submission of warranty securities in the form of a retention money or bank guarantee for transactions with unexpired warranty period and for future procurement to prevent any government loss and/ or audit suspensions.",
+      "managementAction": "The warranty securities have already been required by the management",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-PY11",
+      "year": 2018,
+      "recommendation": "We recommended the Municipal Engineer to submit the basis for the computation of fuel and lubricant consumption as presented in the POW in order to establish the reliability of the figures disclosed. We also recommended the Municipal Engineer to prepare LGU POW’s in standard form.",
+      "managementAction": "The Municipal Engineer have submitted the basis for the computation of fuel and lubricant consumption",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-PY12",
+      "year": 2018,
+      "recommendation": "We recommended the management to carefully plan its procurement process taking into consideration the availability of funds and accessibility of project site. As the implementing agency, the LGU is expected to initiate in coordinating with the source agency for the early release of funds in order not to affect the timely delivery of service and benefits to the public.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-PY13",
+      "year": 2018,
+      "recommendation": "We recommended the management the following:  \nEnsure that all terms and conditions embodied in the contracts entered into by the LGU were all complied by both parties concerned;\nProvide a copy of the suspension of work with the disclosure of revised target date of completion of the project.\nProperly observe the guidelines embodied in Annex E of the IRR of RA 9184 (Liquidated Damages, Suspension of Work, Extension of Contract Time)\nEngineering Department to continuously monitor the on-going infrastructure projects of the LGU to ensure its completion within the target date; and,\nSubmission of accurate reports as to the status of projects (PPA).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-PY14",
+      "year": 2018,
+      "recommendation": "We recommended the management to promptly implement PPA’s finance by subject-fund to ensure that socio-economic benefits expected to produce by these projects will be enjoyed by constituents within the budget year and ensure continuous economic development in the community. We also recommended to submit the status of the remaining projects which were not reported in the quarterly PPA as presented in Annex D.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-PY15",
+      "year": 2018,
+      "recommendation": "We recommended the management to ensure that the benefits are delivered to the beneficiaries in an effective and efficient manner by carefully reviewing the PPA’s gender-responsiveness before incorporating it in the Annual GPB of the LGU, full utilization of the GAD Fund in accordance with enacted and DILG- Approved GPB and monitor strict implementation of the PPA’s.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-PY16",
+      "year": 2018,
+      "recommendation": "We recommended management the following:\nStop the procurement of goods on reimbursement basis, unless the circumstances warrant its application;\nRequire the department head to submit the Project Procurement Management Plan (PPMP) of their offices for consolidation into an Annual Procurement Plan (APP) by the Bids and Awards Committee for proper planning and execution of the procurement process so as for them not to resort to reimbursement basis.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-PY17",
+      "year": 2018,
+      "recommendation": "We have recommended to the Management to require the municipal accountant on the preparation and submission of monthly Bank Reconciliation Statements to establish the correctness of the reported balances of cash account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Bank Reconciliation Statements were already submitted and there are reconciling items and stale checks which are not yet adjusted at the end of the year.  The details are discussed in Findings No. 3 and 4 of this report."
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-PY18",
+      "year": 2018,
+      "recommendation": "We have recommended the refund of the monthly honoraria given to the subject officials and to discontinue the payment of the same.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-PY19",
+      "year": 2018,
+      "recommendation": "We have recommended to the Management the strict compliance to above stated Sections of R.A. No. 9003 for the design and operation of sanitary landfill to ensure the non- occurrence harmful health and environmental impacts arising from an unproperly maintained landfill.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-PY20",
+      "year": 2018,
+      "recommendation": "We have recommended for the Municipal Accountant to check the completeness and validity of the transaction before paying and concerned officials/ employees shall submit the required supporting documents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-PY21",
+      "year": 2018,
+      "recommendation": "We have recommended that the BAC should comply with the provisions of Sections 37.1.6 and 37.4.2 of the Revised Implementing Rules and Regulations (IRR) of R.A. 9184 in order to establish transparency in the municipality’s procurement process.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IlocosNorte-2018-PY22",
+      "year": 2018,
+      "recommendation": "We have recommended to the Management that they will properly observe the guidelines embodied in Annex E of the IRR of RA 9184 and the Municipal Engineer to continuously monitor the on-going infrastructure projects of the LGU to ensure its completion within the target date.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommended the management the following:\na.\tInstruct General Services Officer-Designate to maintain an efficient property management by following the prescribed procedures in property recording and maintain accurate property records and regularly renew Property Acknowledgement Receipt (PAR);\nb.\tRequire Accounting Office to maintain an updated property, plant and equipment ledger cards reconciled with the property cards of the GSO.\nDuring the exit conference the GSO-Designate and Municipal Accountant assured the audit team to make the necessary reconciliation in the Books and Inventory Report as well as to properly maintain records for PPE accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommended the Municipal Accountant to compute the depreciation on the subject-accounts and make the necessary adjustment on the affected accounts. Henceforth, depreciation must be computed for all the PPE accounts of the LGU periodically to ensure fair presentation of depreciation and related accounts in the financial statements. We also recommended the Municipal Accountant to revisit PPSAS 17 which prescribes the accounting treatment for property plant and equipment.\nDuring the exit conference the Municipal Accountant committed to make necessary adjusting entries to reflect depreciation on the subject-PPE accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recommended the management to instruct the Municipal Accountant to reclassify the non-current portion of Loans Payable-Domestic for better presentation of liabilities of the LGU in the Statement of Financial Position as at year-end/reporting date. We also recommended the Municipal Accountant to provide detailed information on the composition of the Other Current Liability account for our review.\nDuring the exit conference the Municipal Accountant agreed to adhere with our recommendation. He also committed to submit the composition of other  Current Liability account not later than April 30, 2018 and make the necessary adjusting entries to reflect the non-current portion of the Loans Payable-Domestic account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We recommended the management to instruct the Municipal  Treasurer to transfer the funds to the General Fund of the LGU and also for the Municipal Accountant to apply the same in its book to comply with the provisions of RA 7160 and for proper presentation of LGU fund balances in the Financial Statements.\nManagement committed to follow the audit team’s recommendation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommended the management for the timely submission of accounts pursuant to COA Circulars 95-006 and 2009-06 and as required by PD 1445.\nManagement committed to adhere with the recommendation of the audit team.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We recommended the management to instruct the Municipal Vice-Mayor to refund the cost of plane tickets amounting to P 11,361.00. It is also recommended to refrain from using other means of transportation other than those authorized and ensure the economy and efficiency is observed.\nDuring the exit conference management explained that the travel of the Municipal Vice-Mayor thru airplane is necessary due to the limited time in order to catch up with his scheduled meetings/appointments. On the other hand, management agreed to refund travelling expenses claimed by the drivers of the subject-officials",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-OBS7",
+      "year": 2017,
+      "recommendation": "We recommended the Local Chief Executive to refund the Transportation Allowance totaling to P50,400.00. We also recommended the Municipal Accountant to discontinue the grant of Transportation Allowance  to the Municipal Mayor and ensure the compliance of the agency with NBC No. 548.\nDuring the exit conference, management agreed that the payment of Transportation Allowance to the Local Chief Executive shall be discontinued, however, the concerned official pleaded for the prospective application of this observation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-OBS8",
+      "year": 2017,
+      "recommendation": "We recommended the management the following:\nInstruct the Municipal Accountant and HRMO to submit immediately the required documents as embodied in Section 5.15 of COA Circular 2012-01 for our review.\nSubmit the duly accomplished Driver’s Trip Ticket and Fuel Consumption Report pertaining to the road rehabilitation project for our review and verification.\nSubmit the lacking documents as presented in Annex B and ensure the completeness of the documentary requirements as enumerated in Sections 9.1.1 and 9.1.1.4 of COA Circular 2012-01 to avoid suspensions and/or disallowances.\nSubmit lacking documents as required by Annex “H” Appendix A of the 2016 Revised IRR of RA 9184 for the LGU’s transactions involving alternative modes of procurements presented in 3.1.d.\nRequire the contractors to submit construction and health program approved by the DOLE in compliance to the requirement of the Revised IRR of RA 9184.\nWe also recommended the management to refrain from approving transaction without proper attachment of documentary requirements.\nThe needed documents to support the granting of loyalty pay have been submitted by the management, however, other documents required by the audit team were still being collated by management and committed to submit the same not later than April 30, 2018. Management also agreed to require the contractor to submit DOLE approved CHSP.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-OBS9",
+      "year": 2017,
+      "recommendation": "We recommended the management to instruct the Municipal Engineer together with the inspection committee for infrastructure projects to thoroughly inspect the implementation and completion of projects of the LGU and ensure the compliance of the contractor with the program of works and change order, if any, to avoid further disallowances.\nThe deficiency is already settled by the contractor thru Official Receipt No. 9294393 dated March 23, 2018 amounting to P8,918.53.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-OBS10",
+      "year": 2017,
+      "recommendation": "We recommended the management to require the submission of warranty securities in the form of a retention money or bank guarantee for transactions with unexpired warranty period and for future procurement to prevent any government loss and/or audit suspensions.\nManagement is in the process of collecting warranty security from contractors with goods delivered with unexpired warranty period and submit the same not later than May 15, 2018.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-OBS11",
+      "year": 2017,
+      "recommendation": "We recommended the Municipal Engineer to submit the basis for the computation of fuel and lubricant consumption as presented in the POW in order to establish the reliability of the figures disclosed. We also recommended the Municipal Engineer to prepare LGU POW’s in standard form.\nDuring the exit conference management instructed the Municipal Engineer to submit a more detailed Program of Works for the project not later than May 15, 2018.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-OBS12",
+      "year": 2017,
+      "recommendation": "We recommended the management to carefully plan its procurement process taking into consideration the availability of funds and accessibility of project site. As the implementing agency, the LGU is expected to initiate in coordinating with the source agency for the early release of funds in order not to affect the timely delivery of service and benefits to the public.\nManagement committed to adhere with the audit team’s recommendation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-OBS13",
+      "year": 2017,
+      "recommendation": "We recommended the management the following:\nEnsure that all terms and conditions embodied in the contracts entered into by the LGU were all complied by both parties concerned;\nProvide a copy of the suspension of work with the disclosure of revised target date of completion of the project;\nProperly observe the guidelines embodied in Annex E of the IRR of RA 9184 (Liquidated Damages, Suspension of Work, Extension of Contract Time);\nEngineering Department to continuously monitor the on-going infrastructure projects of the LGU to ensure its completion within the target date; and,\nSubmission of accurate reports as to the status of projects  (PPA).\nDuring the exit conference, management presented various suspension orders to the audit team. In addition, management instructed the Municipal Engineer to conduct thorough inspection on the LGU’s infrastructure project.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-OBS14",
+      "year": 2017,
+      "recommendation": "We recommended the management to promptly implement PPA’s finance by subject-fund to ensure that socio-economic benefits expected to produce by these projects will be enjoyed by constituents within the budget year and ensure continuous economic development in the community. We also recommended to submit the status of the remaining projects which were not reported in the quarterly PPA as presented in Annex D.\nManagement committed for prompt implementation of PPA’s funded by the 20% development fund. Likewise, management already submitted the quarterly report on PPA by the LGU as of March 31, 2018.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-OBS15",
+      "year": 2017,
+      "recommendation": "We recommended the management to ensure that the benefits are delivered to the beneficiaries in an effective and efficient manner by carefully reviewing the PPA’s gender-responsiveness before incorporating it in the Annual GPB of the LGU, full utilization of the GAD Fund in accordance with enacted and DILG-Approved GPB and monitor strict implementation of the PPA’s.\nDuring the exit conference, management agreed to monitor the full and proper implementation/utilization of the GAD Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-OBS16",
+      "year": 2017,
+      "recommendation": "We recommended management the following:\nStop the procurement of goods on reimbursement basis, unless the circumstances warrant its application;\nRequire the department head to submit the Project  Procurement Management Plan (PPMP) of their offices for consolidation into an Annual Procurement Plan (APP) by the Bids and Awards Committee for proper planning and execution of the procurement process so as for them not to resort to reimbursement basis.\nManagement committed to adhere with the audit team’s recommendation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY1",
+      "year": 2017,
+      "recommendation": "We have recommended that the Inventory Committee reconciles the results of the physical inventory with the accounting records for a fair presentation of the balances of PPE accounts.",
+      "managementAction": "The municipality’s Inventory Committee is currently conducting reconciliation with the accounting records to account for the unreconciled amount.",
+      "status": "UNKNOWN",
+      "reason": "Reiterated in AOM No. 2018-12 dated February 15, 2018"
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY2",
+      "year": 2017,
+      "recommendation": "We have recommended to the Management to instruct the Municipal Accountant to reclassify the non-current portion of Loans Payable-Domestic to non-current for better presentation of liabilities of the LGU in the Statement of Financial Position as at year-end/reporting date.",
+      "managementAction": "The Management has instructed the Municipal Accountant to prepare the necessary adjusting journal entry to reclassify the non-current portion of the Loans Payable-Domestic Account.",
+      "status": "UNKNOWN",
+      "reason": "Reiterated in AOM No. 2018-17 dated February 22, 2018"
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY3",
+      "year": 2017,
+      "recommendation": "We have recommended to the Management to instruct the Municipal Treasurer to transfer the funds to the General Fund of the LGU and also for the Municipal Accountant to apply the same in its book to comply with the provisions of RA 7160 and for proper presentation of LGU fund balances in the Financial Statements.",
+      "managementAction": "The Management has instructed the Municipal Treasurer to transfer of the RA \n7171 fund to the General Fund.",
+      "status": "UNKNOWN",
+      "reason": "Reiterated in AOM No. 2018-17 dated February 22, 2018"
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY4",
+      "year": 2017,
+      "recommendation": "We  have  recommended to the Management to require the municipal accountant on the preparation and submission of monthly Bank Reconciliation Statements to establish the correctness of the reported balances of cash accounts.",
+      "managementAction": "The Management has instructed the Municipal Accountant to prepare said bank reconciliation statement and be submitted until June 30, 2017.",
+      "status": "UNKNOWN",
+      "reason": "Latest bank reconciliation statement submitted by the Municipal Accountant is as of June 30, 2017."
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY5",
+      "year": 2017,
+      "recommendation": "We have recommended the refund of the monthly honoraria given to the subject-officials and to discontinue the payment of the same.",
+      "managementAction": "The Municipality has discontinued the payment of said honoraria and will oblige the said subject officials to refund the monthly honoraria.",
+      "status": "UNKNOWN",
+      "reason": "No refund collected FTY 2017"
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY6",
+      "year": 2017,
+      "recommendation": "We have recommended to  the Management to require the Bids and Awards Committee to ensure compliance of all bidders in submitting their eligibility requirements. The BAC is also recommended to properly carry out its function and exercise prudence  in examining all documents submitted by bidders to avoid further disallowances.",
+      "managementAction": "The documents were present during the opening of bids but missed to attached them during contract review and payment because they were misplaced during the conduct of post qualification.\n\nDocuments required were already submitted by management.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY7",
+      "year": 2017,
+      "recommendation": "We have recommended to the Management the following:\nProvide copies of SWA, Inspection Report, Pictures and other documents as enumerated in the above circular.\nThe Municipal Accountant ensure the completeness  of documentary requirements prescribed in Section 9.1.1 of COA Circular 2012-001 and validity of all claims of contractors.\nThe Municipal Engineer and Inspection Committee verifies the accuracy of all SWA’s and conduct actual inspection on all infrastructure projects before endorsing it to the accounting department for processing of payment. \nThe Engineering Department monitors on-going infrastructure projects on a consistent basis.",
+      "managementAction": "The noted deficiencies were inadvertently detached from the payment vouchers during the segregation of the originals and duplicates before the originals are submitted to the Commission. \n\nSubmitted documents are the Progress Billing, SWA, Inspection Report, Statement of Time Elapsed, Monthly Cert. of Payment, Contractor’s Affidavit, and pictures.",
+      "status": "UNKNOWN",
+      "reason": "Reiterated in AOM No. 2018-04 dated February 6, 2018"
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY8",
+      "year": 2017,
+      "recommendation": "We have recommended to  the Management to require the Bids and Awards Committee to strictly  implement the provisions of the  RA 9184 and its IRR. We also recommend the BAC to refrain from accepting tax clearance issued by the local revenue district office as  part of the bidder’s Class “A” legal documents.",
+      "managementAction": "Management committed to implement the provisions of the Procurement Law regarding the validity and acceptability of tax clearance of prospective bidders.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY9",
+      "year": 2017,
+      "recommendation": "We have recommended that the Bids and Awards Committee require the contractors to submit construction and health program approved by the DOLE in compliance to the requirement of the Revised IRR of RA 9184.",
+      "managementAction": "The Municipality will require the submission of DOLE-Approved CSHP not only the DOLE-received CSHP program.",
+      "status": "UNKNOWN",
+      "reason": "Reiterated in AOM No. 2018-07 dated February 8, 2017"
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY10",
+      "year": 2017,
+      "recommendation": "We have recommended to the Management the strict compliance to above stated sections of R.A. No. 9003 for the design and operation of sanitary landfill to ensure the non-occurrence harmful health and environmental impacts arising  from a unproperly maintained landfill.",
+      "managementAction": "Management committed to adhere with the provisions of the law. The management also in the process of addressing some deficiencies in the landfills operation.",
+      "status": "UNKNOWN",
+      "reason": "Still on process of addressing deficiencies."
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY11",
+      "year": 2017,
+      "recommendation": "We have recommended to the Management the following:\nThe Payroll/Accounting Department ensures that all data relating to payroll of contractual employees are all thoroughly verified and crossed-check with other documents such as approved DTR and accomplishment report.\nThe Head of each Department having jurisdiction with the subject-employees should ensure the correctness of the information disclosed in the DTR and Accomplishment Reports by using Logbooks, Bundy Clocks or any other devised where they can validate that information.\nThe Management to install other controls that will eliminate such observation and to ensure all documents relating to payroll of subject-employees are accurate, valid and reliable.",
+      "managementAction": "The Municipal Accountant was instructed to review/verify back the payrolls and any overpayment found shall require concern job order personnel to refund any overpayment.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY12",
+      "year": 2017,
+      "recommendation": "We have recommended to the Management the following: \n\nThe Municipal Accountant shall check the completeness and validity of the documents before paying;\nThe Officer-In-Charge of the project shall prepare accomplishment report and photo documentation; and,\nLGU officials to strictly observe the provisions of DENR Memorandum Circular No. 2013-06.",
+      "managementAction": "Photocopy of documents required were already submitted by management.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY13",
+      "year": 2017,
+      "recommendation": "We have recommend that BAC Secretariat shall prepare and submit the subject documents to support the honoraria claims for involvement in procurement  project. In addition, submit the  necessary documents to support the source of fund of the honoraria.",
+      "managementAction": "Supporting documents were already submitted",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY14",
+      "year": 2017,
+      "recommendation": "We have recommended to the Management to require the Municipal Engineer and MPDC to             conduct actual inspection and evaluation of the project site   before preparing the Plans and design of a project.  The detailed  engineering investigation, surveys and design is encouraged to be sufficiently carried out in order to avoid delays in the implementation of the project so that the maximum benefits that could be derived by intended beneficiaries could be attained as programmed.",
+      "managementAction": "The Management committed strictly adhere with the Section 17.6 of the revised IRR of RA 9184. Management also require the Municipal Engineer and MPDC to coordinate with each other with regards to proper planning, implementation and monitoring of infrastructure projects.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY15",
+      "year": 2017,
+      "recommendation": "We have recommended the following to the Management: \nMaximize the utilization of the 20% Development Fund allocated for the implementation of various Projects, Programs and Activities (PPA) that are envisioned to help in the attainment of social, economic and environmental development.\nPrompt implementation of PPA’s finance by subject-fund to ensure that socio-economic benefits expected to produce by these projects will be enjoyed by constituents within the budget year or earlier part of the ensuing year.",
+      "managementAction": "The 20% Development Fund was originally programmed as local counterpart for PRDP from the DA. The said funds were reprogrammed to the establishment of Barangay Complex/Multi-purpose Centers of nine Barangays when review and evaluation on the status of the PRDP projects could not be implemented during the current year",
+      "status": "UNKNOWN",
+      "reason": "Reiterated in AOM No. 2018-13 dated February 15, 2018"
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY16",
+      "year": 2017,
+      "recommendation": "We have recommended to the Management to instruct the Municipal Accountant to charge the appropriate funds for the cost of the above stated projects/activities/programs. We also recommend to the GFPS Committee to fully implement the provisions of the JMC 2013-01 and also review the provisions of JMC 2016-01 for their 2017 GPB to avoid further suspensions and/or disallowances.",
+      "managementAction": "The management assured us the GPB’s will go through thorough deliberation and study before its approval and will make sure that the PAP’s will address gender issues among the municipality’s constituents.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY17",
+      "year": 2017,
+      "recommendation": "We have recommended the Management to ensure that the benefits are delivered to the beneficiaries in an effective and efficient manner by:\nCarefully reviewing the PPA’s gender-responsiveness before incorporating it in the Annual GPB of the LGU;\nSecure endorsement/approval from DILG Regional Office to  ensure the GPB’s validity;\nFull utilization of the GAD Fund in accordance with enacted and DILG-Approved  GPB; and,\n\nMonitor strict implementation of the PPA’s.",
+      "managementAction": "In the report submitted, the amount of P1,727,585.84 represents only actual payments during the year 2016. A total of P127,270.00 was taken up as accounts payable for the ensuing year because the needed documents to support the payment were not yet submitted by the claimants. P96,000.00 are obligations for educational assistance to college students for the first semester of 2016 and P31,270.00 are obligations for educational assistance to secondary students at Uguis Integrated School. The amount of P600,000.00 programmed for the construction of Training Center for Women is taken up as Continuing Appropriation of which construction is on-going and no payment has been made as of to date. As to the GPBs approval by the DILG, the GPB was submitted to the Department on January 29,2016, a copy of the plan stamped received is attached hereto. However, the LGU did not receive any review/approval of the plan.",
+      "status": "UNKNOWN",
+      "reason": "Reiterated in AOM No. 2018-10 dated February 15, 2018"
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY18",
+      "year": 2017,
+      "recommendation": "We have recommended that Accounting Office ensure that appropriate taxes are withheld from payments made in accordance with the Revised Withholding Tax Table and the same are remitted to the BIR within the prescribed period.",
+      "managementAction": "The Accounting Office committed to include BAC honorarium on the computation of income taxes.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY19",
+      "year": 2017,
+      "recommendation": "We have recommended for the Municipal Accountant ensures that required supporting documents are attached to the vouchers and that previous cash advances are liquidated before the granting of additional cash advance for the same official or employee.",
+      "managementAction": "The Municipal Accountant was instructed to review/verify back the payrolls and any overpayment found shall require concern job order personnel to refund any overpayment.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY20",
+      "year": 2017,
+      "recommendation": "We have recommended for the Municipal Accountant to check the completeness and validity of the transaction before paying and concerned officials/employees shall submit the required supporting documents.",
+      "managementAction": "The Management informed us that the supporting documents were misplaced and were not attached when the voucher was submitted. In addition thereto, they committed to submit the said documents for our review/verification.",
+      "status": "UNKNOWN",
+      "reason": "Various documents required were still not submitted for our review."
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY21",
+      "year": 2017,
+      "recommendation": "We have recommended that the BAC should strictly comply with the provisions of Sections 37.1.6 and 37.4.2 of the Revised Implementing  Rules and Regulations (IRR) of R.A. 9184 in order to establish transparency in the municipality’s procurement process.",
+      "managementAction": "The Management explained that  efforts were made in the posting of Notice of Award and Notice to Proceed to the Philgeps Website, however, a recurring error messages always prompt-up every time they are doing the process. The Management agreed that they will settle this recurring technical difficulty.",
+      "status": "UNKNOWN",
+      "reason": "BAC only attached certification stating that they posted the NTA and NTP, however, no document evidencing the posting to PHILGEPS website."
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY22",
+      "year": 2017,
+      "recommendation": "We have recommended that the Municipal Accountant and Municipal Treasurer should submit the disbursement vouchers and supporting documents mentioned above in compliance to the above-cited COA Circular.",
+      "managementAction": "Management directed the Municipal Accountant and Municipal Treasurer to submit the required reports within the prescribed period.",
+      "status": "UNKNOWN",
+      "reason": "Reiterated in AOM No. 2018-01 dated January 31, 2018"
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY23",
+      "year": 2017,
+      "recommendation": "We have recommended to the Management that they will properly observe  the guidelines embodied in Annex E of the IRR of RA 9184 and the Municipal Engineer to continuously monitor the on-going infrastructure projects of the LGU to ensure its completion within the target date.",
+      "managementAction": "Management agreed that they will properly observe the guidelines embodied in Annex E of the IRR of RA 9184 and the Municipal Engineer to continuously monitor the on-going infrastructure projects of the LGU to ensure its completion within the target date.",
+      "status": "UNKNOWN",
+      "reason": "No monitoring report submitted by the engineering department."
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY24",
+      "year": 2017,
+      "recommendation": "We have recommended the refund of the excess amount of Productivity Enhancement Incentive granted to officials and employees along with the amount granted to the barangay officials.  Also, the management should strictly adhere with the provision of EO No. 80 specifically on the authorized amount to be granted for the payment of PEI.",
+      "managementAction": "Management refunded the total amount disallowed in audit",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY25",
+      "year": 2017,
+      "recommendation": "We have recommended that management  prepare the required supporting documents and reports as  prescribed in the Manual on Audit  for Fuel Consumption of Government Vehicles so that the use of motor vehicles and reasonableness of fuel consumption  on projects undertaken could be properly evaluated and minimized, if applicable.",
+      "managementAction": "Supporting documents were already attached however they were not properly filled-out.",
+      "status": "UNKNOWN",
+      "reason": "Verification of submitted reports shows that they were not properly filled-out"
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY26",
+      "year": 2017,
+      "recommendation": "We have recommended the Municipal Accountant to transfer the unexpended  balance of the calamity fund pursuant to Item No 4.4 of COA  Circular No. 2012-002 in order to present fairly the financial statements of the agency. Illustrative accounting entries are shown in Annex C of this circular.",
+      "managementAction": "The amount was already transferred to the Trust Fund but the balance is still deposited with the General Fund current account.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY27",
+      "year": 2017,
+      "recommendation": "We recommend the Municipal Accountant to determine the cause of the deficiency noted and submit a report thereof.  For control purposes, assign an employee to maintain an Index of Payments for each employee and the tasks of preparing the Statement of Deduction and payroll should not be assigned to only one person.",
+      "managementAction": "The Municipal Accountant is tracing back to account \n\nunreconciled amounts.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2017-PY28",
+      "year": 2017,
+      "recommendation": "We recommend agency’s faithful compliance to existing provisions of law in the management of its resources.  In addition, require the Municipal Accountant to record the correcting  journal entries in the municipal books in order to establish  the correct balance of the Gas, Oil and Lubricants",
+      "managementAction": "Management agreed to comply with the recommendation.",
+      "status": "UNKNOWN",
+      "reason": "There is still a year end balance of gasoline, oil and lubricants inventory amounting to P99,641.30 but verification revealed that such were already consumed."
+    },
+    {
+      "id": "NuevaEra_IN-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We have recommended that the Inventory Committee reconciles the results of the physical inventory with the accounting records for a fair presentation of the balances of PPE accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We have recommended that Management instruct the Municipal Accountant to reclassify the non-current portion of Loans Payable- Domestic to non-current for better presentation of liabilities of the LGU in the Statement of Financial Position as at year-end/reporting date.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We have recommended that Management instruct the Municipal Treasurer to transfer the funds to the General Fund of the LGU and also for the Municipal Accountant to apply the same in its book to comply with the provisions of RA 7160 and for proper presentation of LGU fund balances in the Financial Statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We have recommended that Management require the municipal accountant to prepare and submit monthly Bank Reconciliation Statements to establish the correctness of the reported balances of cash accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We have recommended the refund of the monthly honoraria given to the above stated officials and to discontinue the payment of the same.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We have recommended that Management require the Bids and Awards Committee to ensure compliance of all bidders in submitting their eligibility requirements. The BAC is also recommended to properly carry  out its function and exercise prudence in examining all documents submitted by bidders to avoid further disallowances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We have recommended Management the following:\nProvide copies of SWA, Inspection Report, Pictures and  other  documents as enumerated in the above circular.\nThe Municipal Accountant ensure the completeness of documentary requirements prescribed in Section 9.1.1 of COA Circular 2012-001 and validity of all claims of contractors.\nThe Municipal Engineer and Inspection Committee verifies the accuracy of all SWA’s and conduct actual inspection on all infrastructure  projects before endorsing it to the accounting department for processing of payment.\nThe Engineering Department monitors on-going infrastructure  projects on a consistent basis.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We have recommended that Management require the Bids and Awards Committee to strictly implement the provisions of the RA 9184 and its IRR. We have also recommended the BAC to refrain from accepting tax clearance issued by the local revenue district office as part of the bidder’s Class “A” legal documents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2016-OBS9",
+      "year": 2016,
+      "recommendation": "We have recommended that the Bids and Awards Committee require the contractors to submit construction and health program approved by the DOLE in compliance to the requirement of the Revised IRR of RA 9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2016-OBS10",
+      "year": 2016,
+      "recommendation": "We have recommended that Management strictly comply to above stated sections of R.A. No. 9003 for the design and operation of sanitary landfill to ensure the non-occurrence harmful health and environmental impacts arising from a unproperly maintained landfill.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2016-OBS11",
+      "year": 2016,
+      "recommendation": "We have recommended Management the following:\nThe Payroll/Accounting Department ensures that all data relating to payroll of contractual employees are all thoroughly verified and crossed-check with other documents such as approved DTR and accomplishment report.\nThe Head of each Department having jurisdiction with the subject-employees should ensure the correctness of the information disclosed in the DTR and Accomplishment Reports by using Logbooks,  Bundy Clocks or any other devised where they can validate that information.\nThe Management to install other controls that will eliminate such observation and to ensure all documents relating to payroll of subject-employees are accurate, valid and reliable.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2016-OBS12",
+      "year": 2016,
+      "recommendation": "We have recommended Management the following:\nThe Municipal Accountant check the completeness and validity of the documents before paying;\nThe Officer-In-Charge of the project prepare accomplishment report and photo documentation; and,\nLGU officials to strictly observe the provisions of DENR Memorandum Circular No. 2013-06.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2016-OBS13",
+      "year": 2016,
+      "recommendation": "We have recommended that BAC Secretariat prepare and submit the subject documents to support the honoraria claims for involvement in procurement project. In addition, submit the necessary documents to support the source of fund of the honoraria.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2016-OBS14",
+      "year": 2016,
+      "recommendation": "We have recommended that Management require the Municipal Engineer and MPDC to conduct actual inspection and evaluation of the project site   before preparing the Plans and design of a project.  The detailed engineering investigation, surveys and design is encouraged to be sufficiently carried out in order to avoid delays in the implementation of the project so that the maximum benefits that could be derived by intended beneficiaries could be attained as programmed.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2016-OBS15",
+      "year": 2016,
+      "recommendation": "We have recommended Management the following:\nMaximize the utilization of the 20% Development Fund allocated for the implementation of various Projects, Programs and Activities (PPA) that are envisioned to help in the attainment of social, economic and environmental development.\nPrompt implementation of PPA’s finance by subject-fund to ensure that socio-economic benefits expected to produce by these projects will be enjoyed by constituents within the budget year or earlier part of the ensuing year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2016-OBS16",
+      "year": 2016,
+      "recommendation": "We have recommended that Management instruct the Municipal Accountant to charge the appropriate funds for the cost of the above stated projects/activities/programs. We have also recommended to the GFPS Committee to fully implement the provisions of the JMC 2013-01 and also review the provisions of JMC 2016-01 for their 2017 GPB to avoid further suspensions and/or disallowances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2016-OBS17",
+      "year": 2016,
+      "recommendation": "We have recommended that Management ensure that the benefits are delivered to the beneficiaries in an effective and efficient manner by:\nCarefully reviewing the PPA’s gender-responsiveness before incorporating it in the Annual GPB of the LGU;\nSecure endorsement/approval from DILG Regional Office to ensure the GPB’s validity;\nFull utilization of the GAD Fund in accordance with enacted and DILG-Approved GPB; and,\nMonitor strict implementation of the PPA’s.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2016-OBS18",
+      "year": 2016,
+      "recommendation": "We have recommendedthat Accounting Office ensure that appropriate taxes are withheld from payments made in accordance with the Revised Withholding Tax Table and the same are remitted to the BIR within the prescribed period.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2016-PY1",
+      "year": 2016,
+      "recommendation": "We have recommended for the GSO to reconcile the results of the count as reported in the Report of Physical Count of Property, Plant and Equipment with the accounting records to present fairly the balances in the financial statements.",
+      "managementAction": "Management instructed the GSO and Municipal Accountant to make the necessary adjustments to reconcile the balances.",
+      "status": "UNKNOWN",
+      "reason": "Reiterated in AOM No. 2017-010 dated March 8, 2017."
+    },
+    {
+      "id": "NuevaEra_IN-2016-PY2",
+      "year": 2016,
+      "recommendation": "We have recommended for the Municipal Accountant ensures that required supporting documents are attached to the vouchers and that previous cash advances are liquidated before the granting of additional cash advance for the same official or employee.",
+      "managementAction": "The Management directed the Municipal Accountant and Accountable Officers to prepare the necessary documents for the liquidation of the stated amount.",
+      "status": "UNKNOWN",
+      "reason": "Cash advances were still granted to employees/officials with unliquidated cash advances."
+    },
+    {
+      "id": "NuevaEra_IN-2016-PY3",
+      "year": 2016,
+      "recommendation": "We have recommended for the Municipal Accountant to check the completeness and validity of the transaction before paying and concerned officials/employees shall submit the required supporting documents.",
+      "managementAction": "The Management informed us that the supporting documents were misplaced and were not attached when the voucher was submitted. In addition thereto, they committed to submit the said documents for our review/verification.",
+      "status": "UNKNOWN",
+      "reason": "Various documents required were still not submitted for our review."
+    },
+    {
+      "id": "NuevaEra_IN-2016-PY4",
+      "year": 2016,
+      "recommendation": "We have recommended to the Management to ensure that provisions of RA 9184 are strictly implemented.",
+      "managementAction": "The BAC members committed to follow our recommendation.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2016-PY5",
+      "year": 2016,
+      "recommendation": "We have recommended that BAC Secretariat shall prepare and submit the subject documents to support the honoraria claims for involvement in procurement project. In addition, submit the necessary documents to support the source of fund of the honoraria.",
+      "managementAction": "BAC Secretariat  submitted the stated documentary requirements.",
+      "status": "UNKNOWN",
+      "reason": "Verifications of payroll for BAC Honorarium forthe CY2016 said documents were again not attached, hence, reiterated in AOM No. 2017-006dated March 8, 2017."
+    },
+    {
+      "id": "NuevaEra_IN-2016-PY6",
+      "year": 2016,
+      "recommendation": "We have recommended for the Municipal Accountant to check the completeness and validity of the documents before paying and require the necessary documents from the vendor in order to facilitate the transfer of ownership to the municipality. In addition thereto, we have also recommended that BAC members to strictly observe the provisions of DBM Budget Circular No. 446-A.",
+      "managementAction": "The Management reasoned out that because of budgetary limitations on their part they opted to purchase the vehicle. Furthermore, they assured us that they exerted all efforts and the diligence of a good father to ask the opinion from experts with regards\n \n to the condition of the vehicle.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2016-PY7",
+      "year": 2016,
+      "recommendation": "We have recommended to the Management that the Municipal Accountant check the completeness and validity of the documents before paying. We have also reiterated that the Officer-In-Charge of the project shall prepare accomplishment report and photo documentation. Likewise, it is recommended for the LGU officials to strictly observe the provisions of DENR Memorandum Circular No. 2013-06 to avoid further audit observations.",
+      "managementAction": "According to the Management, photo documentation, geo tagging andmonthly accomplishment reports were submitted to DENR as requirement for the release of funds. However, the Accounting Office neglected to attach the validation reports of DENR. Management committed to gather and file the corresponding \n\nvalidation reports for our review.",
+      "status": "UNKNOWN",
+      "reason": "Reiterated in AOM No. 2017-04 dated February 28, 2017."
+    },
+    {
+      "id": "NuevaEra_IN-2016-PY8",
+      "year": 2016,
+      "recommendation": "We have recommended that the BAC should strictly comply with the provisions of Sections 37.1.6 and 37.4.2 of the Revised Implementing Rules and Regulations (IRR) of R.A. 9184 in order to establish transparency in the municipality’s procurement process.",
+      "managementAction": "The Management explained that efforts were made in theposting of Notice ofAward and Notice to Proceed to the Philgeps Website, however,a recurring error messages always prompt-up every time they are doing the process. The Management agreed that they will settle this recurring technical difficulty.",
+      "status": "UNKNOWN",
+      "reason": "BAC only attached certification stating that they posted the NTA and NTP, however, no document evidencing the posting to PHILGEPS website."
+    },
+    {
+      "id": "NuevaEra_IN-2016-PY9",
+      "year": 2016,
+      "recommendation": "We have recommended to the Management that concerned officials and employees should prepare the revised itinerary of travel if the previous itinerary was not followed, submit to the Municipal Accountant the required supporting documents and strictly follow the deadline on the liquidation of cash advance for local travel which is within 30 days after the return toofficial station.",
+      "managementAction": "Management agreed that concerned officials and employees should prepare the revised itinerary of travel if the previous itinerary was not followed, submit to the Municipal Accountant the required supporting documents and strictly follow the deadline on the liquidation of cash advance for local travel which is within 30 days after\n \n the return to official station.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2016-PY10",
+      "year": 2016,
+      "recommendation": "We have recommended that the Municipal Accountant and Municipal Treasurer should submit the disbursement vouchers and supporting documents mentioned above in compliance to the above-cited COA Circular.",
+      "managementAction": "Management directed the Municipal Accountant and Municipal Treasurer to submit the required reports within the prescribed period.",
+      "status": "UNKNOWN",
+      "reason": "Documents/ Reports required were still submitted beyond the reglementary period."
+    },
+    {
+      "id": "NuevaEra_IN-2016-PY11",
+      "year": 2016,
+      "recommendation": "We have recommended to the Management that they will properly observe the guidelines embodied in Annex E of the IRR of RA 9184 and the Municipal Engineer to continuously monitor the on-going infrastructure projects ofthe LGU to ensure its completion within the target date.",
+      "managementAction": "Management agreed that they will properly observe the guidelinesembodied in Annex E of the IRR of RA 9184 and the Municipal Engineer to continuously monitor the on-going infrastructure projects of the LGU to ensure its completion within the target date.",
+      "status": "UNKNOWN",
+      "reason": "No monitoring report submitted by the engineering department."
+    },
+    {
+      "id": "NuevaEra_IN-2016-PY12",
+      "year": 2016,
+      "recommendation": "We have recommended for the Accounting Office to ensure that appropriate taxes are withheld from payments made in accordance with the Revised Withholding Tax Table and the same are remitted to the BIR within the prescribed period.",
+      "managementAction": "The Accounting Office committed to include BAC honorarium on the computation of income taxes.",
+      "status": "UNKNOWN",
+      "reason": "Reiterated in AOM No. 2017-012 dated March 8, 2017."
+    },
+    {
+      "id": "NuevaEra_IN-2016-PY13",
+      "year": 2016,
+      "recommendation": "We have recommended the refund of the excess amount of Productivity Enhancement Incentive granted to officials and employees along with the amount granted to the barangay officials.  Also, the management should strictly adhere with the provision of EO No. 80 specifically on the authorized amount to be granted for the payment of PEI.",
+      "managementAction": "Management filed their appeal contesting the observation/\ndecision.",
+      "status": "UNKNOWN",
+      "reason": "COA RO I Decision No. 2016-004dated January 13, 2016 was released denying the Appeal of the LGU on the said disallowance."
+    },
+    {
+      "id": "NuevaEra_IN-2016-PY14",
+      "year": 2016,
+      "recommendation": "We have reiterated the submission  of Bank Reconciliation Statements for all accounts maintained by the municipality and we have recommended that the Accounting Office trace back reconciling items from previous years so that the reliability of the Cash in Bank Bank balance presented in the financial statements could be ascertained.",
+      "managementAction": "The municipal accountant has adjusted currentyear (2014) reconciling items; however, he is still tracing back several prior years’ reconciling items. As of date, no bank reconciliation statement for the year ended December 31, 2015 was submitted.",
+      "status": "UNKNOWN",
+      "reason": "Reiterated in AOM No. 2016-011 dated October 12, 2016."
+    },
+    {
+      "id": "NuevaEra_IN-2016-PY15",
+      "year": 2016,
+      "recommendation": "We have recommended that management preparethe required supporting documents and reports as prescribed in the Manual on Audit for Fuel Consumption of Government Vehicles so that the use of motor vehicles and reasonableness of fuel consumption on projects undertaken couldbe properly evaluated and minimized, if applicable.",
+      "managementAction": "Supporting documents were already attached however they were not properly filled-out.",
+      "status": "UNKNOWN",
+      "reason": "Verification of submitted reports shows that they were not properly filled-out"
+    },
+    {
+      "id": "NuevaEra_IN-2016-PY16",
+      "year": 2016,
+      "recommendation": "We have recommended that management require the GAD Focal Person to ensure that the GAD Plans and Budget is appropriately evaluated by the DILG to guarantee that the Programs, Activities and Projects to be undertaken are part of the GAD priority agenda of the government that will effectively address the identified gender issues in the municipality.",
+      "managementAction": "Management reasoned outthat the DILG rolled out the PCW-NEDA-DBM Joint Circular training-workshop recently. However, management signified their willingness to comply with our recommendation.",
+      "status": "UNKNOWN",
+      "reason": "Reiterated in AOM No. 2016-014dated November 28, 2016."
+    },
+    {
+      "id": "NuevaEra_IN-2016-PY17",
+      "year": 2016,
+      "recommendation": "We have recommended the Municipal Accountant to transfer the unexpended balance of the calamity fund pursuant to ItemNo 4.4 of COA Circular No. 2012-002 in order to present fairly the financial statements of the agency. Illustrative accounting entries areshown in Annex C of this circular.",
+      "managementAction": "The amount was already transferred tothe Trust Fund but the balance is still deposited with the General Fund current account.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "NuevaEra_IN-2016-PY18",
+      "year": 2016,
+      "recommendation": "We recommend the Municipal Accountant to determine the cause of the deficiency noted and submit a report thereof.  For control purposes, assign an employee to maintain an Index of Payments for each employee and the tasks of preparing the Statement of Deduction and payroll should not be assigned to only one person.",
+      "managementAction": "The Municipal Accountant is tracing back to account unreconciled amounts.",
+      "status": "UNKNOWN",
+      "reason": "A negative balance could still be obtained after deducting premiums, etc. withheld for December from the year end balance."
+    },
+    {
+      "id": "NuevaEra_IN-2016-PY19",
+      "year": 2016,
+      "recommendation": "We recommend agency’s faithful compliance to existing provisions of law in the management of its resources.  In addition, require the Municipal Accountant to record the correcting  journal entries in the municipal books in order to establish  the correct balance of the Gas, Oil and Lubricants",
+      "managementAction": "Management agreed to comply with the recommendation.",
+      "status": "UNKNOWN",
+      "reason": "There is still a year end balance of gasoline, oil and lubricants inventory amounting to P1,534,261.64 but verification revealed that such were already consumed."
+    },
+    {
+      "id": "NuevaEra_IN-2016-PY20",
+      "year": 2016,
+      "recommendation": "We request that management should determine and address the underlying cause/s of the late submission of reports, institute corrective measures thereof and strictly enforce strict compliance on the submission of reports within the prescribed periods.",
+      "managementAction": "Management committed to comply with the provisions of Section 7.1.1 of COA Circular No. 2009-006",
+      "status": "UNKNOWN",
+      "reason": "The Municipal Accountant still does not submit reports and paid vouchers and payrolls on time."
+    }
+  ]
+}

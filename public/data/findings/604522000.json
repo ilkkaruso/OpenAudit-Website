@@ -1,0 +1,1054 @@
+{
+  "lguCode": "604522000",
+  "lguName": "Pulupandan",
+  "province": "Negros Occidental",
+  "region": "Region V (Bicol Region)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "Pulupandan_NegOcc_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended that the Inventory Committee conduct a yearly physical count, and submit to the Auditor a Report on Physical Count of Property, Plant and Equipment containing the actual status of the assets, after which reconciliation of records shall be made in accordance with COA Circular No. 2020-006 dated January 31, 2020.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Treasurer and the OIC-Municipal Accountant reconcile their records at least every end of each quarter and any items for adjustment must be corrected and resolved promptly in order to present reliable Cash in Treasury and Cash in Bank balances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Treasurer release the share of real property tax and other taxes due the barangays as mandated by the Local Government Code in order to augment the barangays’ meager income necessary to finance its developmental programs and projects for the benefit of their constituents.\n\nWe also recommended that OIC-Municipal Accountant reconcile her records with that of the Municipal Treasurer’s records, and draw appropriate adjusting entries to consider discounts and interests on RPT in the computation of barangay shares.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Accountant prepare and submit the monthly Bank Reconciliation Statements pursuant to COA Circular No. 96-011 so that accuracy and reliability of the Cash-in-Bank account could be ascertained and validated.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Accountant require the Accountable Officials and employees with unliquidated cash advances to submit immediately Liquidation Reports and supporting documents for the settlement of cash advances totaling P4,830,743.05.\n\nMoreover, for employees who are still in the service but unable to settle their cash advances, it is recommended that Municipal Accountant deduct from monthly salaries the amount of unliquidated cash advance, otherwise, require them to refund the unsettled balance.\n\nHenceforth, the Municipal Accountant require that cash advances be liquidated within the prescribed period and closed at year-end, pursuant to existing regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "We recommended that the NIP Coordinator furnish the OIC-Municipal Accountant with a detailed list of allocated vaccines received by the Municipality for the latter to recognize in the books the donations in accordance with existing regulations.\n\nFor donations received without costs, the OIC-Municipal Accountant shall recognize the donations at fair value as at the date of receipt, which may be ascertained by reference to an active market, or by appraisal as provided in Paragraph 97 of the IPSAS No. 23.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "We recommended that the OIC-Municipal Accountant furnish copies of all contracts, purchase orders and assignment /work orders within five days from issuance, for the Auditor to conduct appropriate action in verifying that actual delivery by the supplier took place pursuant to existing regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc_aar2021-OBS8",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Budget Officer refrain from using                 the 20% DF to pay expenses purely related to labor and that do not partake the nature of investment and capital expenditures. Henceforth, strictly observe the provisions of existing regulations on the appropriation and utilization of the 20% Development Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc_aar2021-OBS9",
+      "year": 2021,
+      "recommendation": "We recommended that the OIC – Municipal Accountant properly charge the P150,837.00 to the General Fund and refund it to the Special Education Fund.\n\nWe further recommended that the District Supervisor strictly observe the provisions of existing regulations in the utilization of the Special Education Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc_aar2021-OBS10",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc_aar2021-OBS11",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc_aar2021-OBS12",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended that the Inventory Committee conduct a yearly physical count and submit a report thereon to COA in accordance with COA Circular No. 2020-006 dated January 31, 2020.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Lack of personnel; incomplete records of PPE of prior years"
+    },
+    {
+      "id": "Pulupandan_NegOcc_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended that the Accounting Office conduct physical count of PPE so that depreciation of the properties can be computed manually. Adjustments should be recorded as “Prior Years’ Adjustment” in the subsequent year. Henceforth, depreciation should be provided monthly.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Started to reconcile records that are available"
+    },
+    {
+      "id": "Pulupandan_NegOcc_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Treasurer and the OIC-Municipal Accountant reconcile their records at least every end of each quarter and any items for adjustment must be corrected and resolved promptly in order to present reliable Cash in Treasury and Cash in Bank balances.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "No reconciliation was done between the Accounting Office and the Treasurer’s Office."
+    },
+    {
+      "id": "Pulupandan_NegOcc_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended that the Mayor instruct the Accountant to prepare and submit the monthly Bank Reconciliation Statements pursuant to COA Circular No. 96-011 so that accuracy and reliability of the Cash-in-Bank account could be ascertained and validated.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Lack of personnel; Bank statements are usually released late by the bank."
+    },
+    {
+      "id": "Pulupandan_NegOcc_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor thru the Municipal Accountant require the Accountable Officials and employees concerned to submit immediately their Liquidation Reports and supporting documents for the liquidation of cash advances totaling P3,873,144.29. Moreover, for those employees who are still in service but unable to settle their cash advances, it is recommended that the same be deducted from their monthly salaries in the amount agreed upon by the Municipality and the employee. Henceforth, cash advances should be liquidated within the prescribed period and closed at year-end, pursuant to Section 5.8 of COA Circular No. 97-002.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Employees and accountable officers with outstanding cash advances are no longer in the service."
+    },
+    {
+      "id": "Pulupandan_NegOcc_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Budget Officer ensure that the appropriation and expenses for Personal Services are limited to the required forty five percent (45%) of the total annual income from regular sources realized by the Municipality in the next preceding fiscal year as prescribed by Section 325(a) of R.A. 7160. Moreover, to be able to implement and provide additional PS costs, the Municipality should make an effort in raising revenues or reducing its PS expenses, otherwise, amount of personal services which exceeded the 45% limitation should be disallowed in audit for being illegal.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipality require duly complied Omnibus Sworn Statements from the supplier and strictly require the submission of the OSS for subsequent Emergency Purchases especially when the documentary requirements are not complete after the contract has been awarded.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended that the municipality refrain from using the 20% DF to pay expenses that do not partake the nature of investment and capital expenditures. Henceforth, strictly observe the provisions of DILG-DBM Joint Memorandum Circular No. 2017-01 on the appropriation and utilization of the fund.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Occidental__Pulupandan_NegOcc-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended that the Inventory Committee conduct a yearly physical count and submit a report thereon to COA in accordance with COA Circular                     No. 2020-006 dated January 31, 2020.\n\nMoreover, the Report on Physical Count of Property, Plant and Equipment must contain the actual status of the assets whether unserviceable, scrap or already junk so that disposal of these properties could be undertaken while the properties are still with salvage value.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Occidental__Pulupandan_NegOcc-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended that the Accounting Office conduct physical count of PPE so that depreciation of the properties can be computed manually. Adjustments should be recorded as “Prior Years’ Adjustment” in the subsequent year. Henceforth, depreciation should be provided monthly.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Occidental__Pulupandan_NegOcc-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended and the Municipal Treasurer and the OIC-Municipal Accountant agreed to reconcile their records at least every end of each quarter and any items for adjustment must be corrected and resolved promptly in order to present reliable Cash in Treasury and Cash in Bank balances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Occidental__Pulupandan_NegOcc-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommended that the Mayor instruct the Accountant to prepare and submit the monthly Bank Reconciliation Statements pursuant to COA Circular               No. 96-011 so that accuracy and reliability of the Cash-in-Bank account could be ascertained and validated.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Occidental__Pulupandan_NegOcc-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor thru the Municipal Accountant require the Accountable Officials and employees concerned to submit immediately their Liquidation Reports and supporting documents for the liquidation of cash advances totaling P3,873,144.29.\n\nMoreover, for those employees who are still in service but unable to settle their cash advances, it is recommended that the same be deducted from their monthly salaries in the amount agreed upon by the Municipality and the employee.\n\nHenceforth, cash advances should be liquidated within the prescribed period and closed at year-end, pursuant to Section 5.8 of COA Circular No. 97-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Occidental__Pulupandan_NegOcc-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Budget Officer ensure that the appropriation and expenses for Personal Services are limited to the required forty five percent (45%) of the total annual income from regular sources realized by the Municipality in the next preceding fiscal year as prescribed by Section 325(a)                          of R.A. 7160.\n\nMoreover, to be able to implement and provide additional PS costs, the Municipality should make an effort in raising revenues or reducing its PS expenses, otherwise, amount of personal services which exceeded the 45% limitation should be disallowed in audit for being illegal.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Occidental__Pulupandan_NegOcc-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipality require duly complied Omnibus Sworn Statements from the supplier and strictly require the submission of the OSS for subsequent Emergency Purchases especially when the documentary requirements are not complete after the contract has been awarded.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Occidental__Pulupandan_NegOcc-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We recommended that the municipality refrain from using the 20% DF to pay expenses that do not partake the nature of investment and capital expenditures. Henceforth, strictly observe the provisions of DILG-DBM Joint Memorandum Circular No. 2017-01 on the appropriation and utilization of the fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Occidental__Pulupandan_NegOcc-2020-OBS9",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Occidental__Pulupandan_NegOcc-2020-OBS10",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Occidental__Pulupandan_NegOcc-2020-OBS11",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Treasurer and the Municipal Accountant reconcile their records at least every end of each quarter and any items for adjustment must be corrected and resolved promptly in order to present reliable Cash in Treasury and Cash in Bank and to prevent wastage of government funds.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2019-PY9",
+      "year": 2019,
+      "recommendation": "We recommended that Management properly plan and implement prioritized programs and projects categorized as continuing appropriations for several years in the LDRRMP in order to strengthen the capacity of the LGU to confront potential hazards and disasters resulting in avoidance or reduction of loss of lives and assets.  Furthermore, the Municipal Accountant Office and the LDDRM Office shall keep records of the continuing appropriations included in the LDRRM Plan in order to give importance for its implementation.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Programs and projects    under LDRRMF  are still on   the process of  being     procured    especially  those relating to  capital   outlay."
+    },
+    {
+      "id": "Pulupandan_NegOcc-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended that the Inventory Committee conduct a yearly physical count and submit a report thereon on or before January 31 of the following year in accordance with Section 490 of the Government Accounting and Auditing Manual (GAAM) Volume I, and Section 57 of the Manual on the New Government Accounting System for Local Government Units, Vol. II.\nMoreover, the Report on Physical Count of Property, Plant and Equipment must contain the actual status of the assets whether unserviceable, scrap or already junk so that disposal of these properties could be undertaken and appropriate adjustments be made to fairly present these accounts in the financial statements.\nFor properties with no available historical records the same should be appraised/revalued, by an Appraisal Committee to be created by the Municipal Mayor so that appropriate actions be undertaken in establishing records for proper accounting of PPE.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended that the Accounting Office manually compute for the depreciation of the properties acquired prior to 2019 and record adjustments as “Prior Years’ Adjustment” in the subsequent year. Also, provide monthly depreciation in the future periods.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Treasurer and the Municipal Accountant reconcile their records at least every end of each quarter and any items for adjustment must be corrected and resolved promptly in order to present reliable Cash in Treasury and Cash in Bank accounts and to fairly present it in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended that the Mayor instruct the Accountant to prepare and submit the monthly Bank Reconciliation Statements pursuant to COA Circular No. 96-011 so that accuracy and reliability of the Cash-in-Bank account could be ascertained and validated.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor and Municipal Accountant require the Accountable Officials and employees concerned to submit immediately their Liquidation Reports and supporting documents to settle the unliquidated cash advance totaling P4,160,489.29, otherwise refund the amount advanced.\nHenceforth, cash advances should be liquidated within the prescribed period and closed at year-end, pursuant to Section 5.8 of COA Circular No. 97-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended that the OIC-Municipal Accountant transfer the unutilized balance of the 2019 LDRRMF to the Special Trust Fund in the Trust Fund books and continue such practice in the subsequent years in compliance with the provisions of RA No. 10121 and COA Circular No. 2012-002.\nWe recommended that the municipality maximize the utilization of the LDRRMF by implementing the projects and activities embodied therein to enhance the municipality’s capacity to effectively respond during calamities and emergencies.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We recommended that the municipality refrain from using the 20% DF to pay expenses that do not partake the nature of investment and capital expenditures. Henceforth, strictly observe the provisions of DILG-DBM Joint Memorandum Circular No. 2017-01 on the appropriation and utilization of the fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2019-OBS8",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor issue an Executive Order or Administrative Order creating the GAD Monitoring and Evaluation Team to oversee the implementation of the GAD system as required under Sections 3.4 and 5.1 of PCW-DILG-DBM-NEDA Joint Memorandum Circular No. 2013-01.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2019-OBS9",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2019-OBS10",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2019-OBS11",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended  the Inventory   Committee to    conduct a yearly  physical count  and submit a    report thereon  on or before  January 31 of the  following year  in accordance with  Section 490 of  the Government  Accounting and  Auditing Manual  (GAAM) Volume I,  and Section 57  of the Manual on  the New Government Accounting System  for Local Government Units, Vol. II.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Lack of     personnel"
+    },
+    {
+      "id": "Pulupandan_NegOcc-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended  that the Accounting Office manually compute for the depreciation of the properties  mentioned above.  Adjustments  should be  recorded as  “Prior Years’  Adjustment” in  the subsequent  year. Also,  depreciation  should be  provided monthly  in the future  periods.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The         Accounting  Office is   still in the   process of  verifying the useful life of PPE to apply the  proper      charges to  depreciation  in Prior    Years’      Adjustment."
+    },
+    {
+      "id": "Pulupandan_NegOcc-2019-PY3",
+      "year": 2019,
+      "recommendation": "We reiterate that Management instruct the accounting office to prepare and submit the monthly Bank Reconciliation Statements for CYs 2017 and 2018 pursuant to COA Circular No. 96-011 in order to ascertain the accuracy and reliability of the Cash-in-Bank account.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Prepared the Bank        Reconciliati on for the  current year only."
+    },
+    {
+      "id": "Pulupandan_NegOcc-2019-PY4",
+      "year": 2019,
+      "recommendation": "The Management ensure that the appropriation and expenses for Personal Services are limited to the required forty five percent (45%) of the total annual income from regular sources realized by the Municipality in the next preceding fiscal year as prescribed by Section 325(a) of R.A. 7160.\n\nTo be able to implement and provide additional PS costs, the Municipality should make an effort in raising revenues or reducing its PS expenses. Otherwise, maximize the services of existing employees and minimize the hiring of casual and job order personnel.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Management  has raised  their       revenue     during the  year."
+    },
+    {
+      "id": "Pulupandan_NegOcc-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Treasurer intensify collection of Real Property Tax by developing strategies that will increase the collection of taxes of the current year so that more development programs and projects will be implemented for the benefit of its constituents.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommend that the Municipal Mayor and Municipal Accountant require the Accountable Officials and employees concerned to submit immediately their Liquidation Reports and supporting documents to settle the unliquidated cash advance totaling P4,484,833.29.\n\nHenceforth, cash advances should be liquidated within the prescribed period and closed at year-end, pursuant to Section 5.8 of COA Circular No. 97-002.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Demands     letters were sent to appropriate accountable officers."
+    },
+    {
+      "id": "Pulupandan_NegOcc-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the officers concerned to see to it that all claims for wages are fully documented before payment is made.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Management  is already  starting to  attach      verified    accomplishment reports  to the      claims for  wages of its  job order    personnel."
+    },
+    {
+      "id": "Pulupandan_NegOcc-2019-PY10",
+      "year": 2019,
+      "recommendation": "We recommended that the Mayor instruct the OIC-Municipal Accountant and the LDRRM Officer to review and assess the continuing appropriations of previous years if these are really intended for capital outlays and if not, transfer the unutilized balance of the LDRRMF to the Special Trust Fund in the Trust Fund books in compliance with the provisions of RA No. 10121 and COA Circular No. 2012-002.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2019-PY11",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipality adhere to the provisions of RA 9184 and COA Circular No. 2012-001 to require contractors to submit an Irrevocable Standby Letter of Credit of equivalent value from a commercial bank/Security Bond or Bank Guarantee before the release of advance payment of fifteen percent (15%) and deduct ten percent (10%) retention money on claims which falls below fifty percent (50%) of the actual accomplishment of the infrastructure project.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2019-PY12",
+      "year": 2019,
+      "recommendation": "We recommended that the agency submit the distribution lists or acknowledgement receipts of the recipients of fertilizers and hand pumps as basis for confirmation and in consonance with Section 4(6) of PD 1445.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2019-PY13",
+      "year": 2019,
+      "recommendation": "We recommended that the City maximize the utilization of its LCPC budget so that its constituents could get the full benefits as envisioned by the program.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommended the Inventory Committee to conduct a yearly physical count and submit a report thereon on or before January 31 of the following year in accordance with Section 490 of the Government Accounting and Auditing Manual (GAAM) Volume I, and Section 57 of the Manual on the New Government Accounting System for Local Government Units, Vol. II. Moreover, the Report on Physical Count of Property, Plant and Equipment must contain the actual status of the assets whether unserviceable, scrap or already junk so that disposal of these properties could be undertaken while the properties are still with salvage value. Properties with no available historical records should be appraised/revalued, by an Appraisal Committee to be created by the Municipal Mayor.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of personnel to conduct physical inventory"
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-PY4",
+      "year": 2018,
+      "recommendation": "We recommended that the OIC-Municipal Accountant shall set up RPT and SET Receivables based on RPTAR/TIC at the start of the year as provided by Section 20 of the Manual on the NGAS for LGUs, Volume I so that the actual realizable RPT Income will be reflected in the financial reports.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No RPTAR/TIC were submitted to Accounting Office by the Treasurer’s Ofc , set up of RPT/SET Receivables were based on the Real Property Tax target set by the Provincial Treasurer’ s Office"
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommended that: The Management ensure that the appropriation and expenses for Personal Services are limited to the required forty five percent (45%) of the total annual income from regular sources realized by the Municipality in the next preceding fiscal year as prescribed by Section 325(a) of R.A. 7160. To be able to implement and provide additional PS costs, the Municipality should make an effort in raising revenues or reducing its PS expenses. Otherwise, maximize the services of existing employees and minimize the hiring of casual and job order personnel.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended the Inventory Committee to conduct a yearly physical count and submit a report thereon on or before January 31 of the following year in accordance with Section 490 of the GAAM Volume I, and Section 57 of the Manual on NGAS for LGUs, Vol. II.\nMoreover, the Report on Physical Count of Property, Plant and Equipment must contain the actual condition of the assets whether unserviceable, scrap or already junk so that disposal of these properties could be undertaken while the properties are still with salvage value.\nProperties with no available historical records should be appraised/revalued by an Appraisal Committee to be created by the Municipal Mayor.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We recommended that the Accounting Office manually compute for the depreciation of the properties mentioned above. Adjustments should be recorded as “Prior Years’ Adjustment” in the subsequent year. Also, depreciation should be provided monthly in the future periods.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We reiterate that Management instruct the OIC-Municipal Accountant to prepare and submit the monthly Bank Reconciliation Statements for CYs 2017 and 2018 pursuant to COA Circular No. 96-011 to ascertain the accuracy and reliability of the Cash-in-Bank account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-OBS4",
+      "year": 2018,
+      "recommendation": "This is a prior year’s audit finding, hence, we reiterate our recommendations that:\nThe Management ensure that the appropriation and expenses for Personal Services are limited to the required forty five percent (45%) of the total annual income from regular sources realized by the Municipality in the next preceding fiscal year as prescribed by Section 325(a) of R.A. 7160.\nTo be able to implement and provide additional PS costs, the Municipality should make an effort in raising revenues otherwise, reduce its PS expenses.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Treasurer and the Municipal Accountant reconcile their records at least every end of each quarter and any items for adjustment must be corrected and resolved promptly in order to present reliable Cash in Treasury and Cash in Bank and to prevent wastage of government funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Treasurer intensify collection of Real Property Tax by developing strategies that will increase the collection of taxes for the current year so that more development programs and projects will be implemented for the benefit of its constituents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-OBS7",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor and the Municipal Accountant require the Accountable Officials and employees concerned to submit immediately their Liquidation Reports and supporting documents to settle the unliquidated cash advance totaling P4,484,833.29.\nHenceforth, cash advances should be liquidated within the prescribed period and closed at year-end, pursuant to Section 5.8 of COA Circular                No. 97-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-OBS8",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor and the OIC-Municipal Accountant require the submission of duly verified/accepted Accomplishment Report on claims for wages of job orders before payment is made.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-OBS9",
+      "year": 2018,
+      "recommendation": "We recommended that Management properly plan and implement prioritized programs and projects categorized as continuing appropriations for several years in the LDRRMP in order to strengthen the capacity of the LGU to confront potential hazards and disasters resulting in avoidance or reduction of loss of lives and assets.  Furthermore, the Municipal Accountant Office and the LDDRM Office shall keep records of the continuing appropriations included in the LDRRM Plan in order to give importance for its implementation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-OBS10",
+      "year": 2018,
+      "recommendation": "We recommended that the OIC-Municipal Accountant to transfer the unexpended balance of the QRF and the MOOE of the DRRM Fund to Special Trust Fund in compliance with the provisions of RA No. 10121 and COA Circular No. 2012-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-OBS11",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipality adhere to the provisions of RA 9184 to require contractors to submit an Irrevocable Standby Letter of Credit of equivalent value from a commercial bank/Security Bond or Bank Guarantee before the release of advance payment of fifteen percent (15%) and deduct ten percent (10%) retention money on claims which fall below fifty percent (50%) of the actual accomplishment of the infrastructure project.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-OBS12",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipality require submission of the distribution lists or acknowledgement receipts by the recipients of motorized fishing boat as basis for confirmation in consonance with Section 4(6) of                    PD 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-OBS13",
+      "year": 2018,
+      "recommendation": "We recommended that the City maximize the utilization of its LCPC budget so that its constituents could get the full benefits as envisioned by the program.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-OBS14",
+      "year": 2018,
+      "recommendation": "It is recommended that the Municipality continue the implementation of such projects and maximize the utilization of the Fund allocated for these identified projects, programs and activities to help in the attainment of social, economic and environmental development in accordance with Joint Memorandum Circular 2011-1 dated                   April 13, 2013 of the DILG and DBM.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-OBS15",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-OBS16",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-OBS17",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-OBS18",
+      "year": 2018,
+      "recommendation": "It is recommended that the Municipality continue the implementation of such projects as envisioned by the program.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-OBS19",
+      "year": 2018,
+      "recommendation": "It is recommended that the Municipality continue the implementation of such projects as envisioned by the program.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-OBS20",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-OBS21",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-OBS22",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-OBS23",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommended that the Accounting Office manually compute for the depreciation of the properties mentioned above. Adjustments should be recorded as “Prior Years’ Adjustment” in the subsequent year. Also, depreciation should be provided monthly in the future periods.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Depreciation for the CY 2018 were already computed for current year’s PPE but prior year’s depreciation were not yet taken up due to lack of records and physical inventory"
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommended that Management instruct the accounting office to prepare and submit the monthly Bank Reconciliation Statements pursuant to COA Circular No. 96-011 in order to ascertain the accuracy and reliability of the Cash-in-Bank account.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Lack of personnel in Accounting Office to be in charge of Bank Reconciliati on"
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-PY6",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor and OIC-Municipal Accountant require the Accountable Officials and employees concerned to submit immediately their Liquidation Reports and supporting documents to settle the unliquidated cash advance totaling P3,694,191.29. Henceforth, cash advances should be liquidated within the prescribed period and closed at year-end, pursuant to Section 5.8 of COA Circular No. 97-002.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "All accountable officials and employees were required to submit their liquidation reports and supporting documents but only few were able to settle their unliquidated cash advances"
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommended that the prioritized programs and projects spelled out in the LDRRMP be fully implemented in order to strengthen the capacity of the LGU to confront the potential hazards and disasters resulting in avoidance or reduction of loss of lives and assets.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "71.85% utilization rate was registered for 2018"
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommended that the municipality give importance to the implementation of the projects funded by other government agencies as required in the Memorandum of Agreement so that the purpose for which these funds were granted are achieved thus, benefitting its constituents.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-PY9",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipality maximize the utilization of its GAD budget so that its constituents could get the full benefits as envisioned by the program.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-PY10",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipality strictly comply with Section 15 of RA 9344 in allocating 1% of its IRA for the LGU’s Local Council for the Protection of Children and to adopt a comprehensive plan on delinquency prevention as well as oversee its proper implementation.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2018-PY11",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipality maximize the appropriation and utilization of the 20% Development Fund allocated for the implementation of projects, programs and activities that are envisioned to help in the attainment of social, economic and environmental development in accordance with Joint Memorandum Circular 2011-1 dated April 13, 2013 of the DILG and DBM.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-PY3",
+      "year": 2017,
+      "recommendation": "We recommended that payment of RATA shall be in accordance with Local Budget Circular No. 103, dated May 15, 2013 and must be supported with actual work/attendance of the SB members vis-à-vis the work schedule or performance standards prescribed by law or by competent authority to enable us to determine if all SB members are entitled to full payment of said allowance every month.\n\nMoreover, it is recommended that authority given to the Municipal Treasurer by the Municipal Mayor for the receipt of all his salaries, RATA and all other benefits be provided with specific period and a copy furnished to the Office of the Auditor for guidance in audit.",
+      "managementAction": "Monthly attendance is being submitted to the Office of the Municipal Accountant.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommended the Inventory Committee to conduct a yearly physical count and submit a report thereon on or before January 31 of the following year in accordance with Section 490 of the Government Accounting and Auditing Manual (GAAM) Volume I, and Section 57 of the Manual on the New Government Accounting System for Local Government Units, Vol. II.\nMoreover, the Report on Physical Count of Property, Plant and Equipment must contain the actual status of the assets whether unserviceable, scrap or already junk so that disposal of these properties could be undertaken while the properties are still with salvage value.\nProperties with no available historical records should be appraised/revalued, by an Appraisal Committee to be created by the                Municipal Mayor.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommended that the Accounting Office manually compute for the depreciation of the properties mentioned above. Adjustments should be recorded as “Prior Years’ Adjustment” in the subsequent year. Also, depreciation should be provided monthly in the future periods.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recommended that Management instruct the accounting office to prepare and submit the monthly Bank Reconciliation Statements pursuant to COA Circular No. 96-011 in order to ascertain the accuracy and reliability of the Cash-in-Bank account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We recommended that the OIC-Municipal Accountant shall set up RPT and SET Receivables based on RPTAR/TIC at the start of the year as provided by Section 20 of the Manual on the NGAS for LGUs, Volume I so that the actual realizable RPT Income will be reflected in the financial reports.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommended that:\n\nThe Management ensure that the appropriation and expenses for Personal Services are limited to the required forty five percent (45%) of the total annual income from regular sources realized by the Municipality in the next preceding fiscal year as prescribed by Section 325(a) of R.A. 7160.\nTo be able to implement and provide additional PS costs, the Municipality should make an effort in raising revenues or reducing its PS expenses. Otherwise, maximize the services of existing employees and minimize the hiring of casual and job order personnel.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor and OIC-Municipal Accountant require the Accountable Officials and employees concerned to submit immediately their Liquidation Reports and supporting documents to settle the unliquidated cash advance totaling P3,694,191.29.\nHenceforth, cash advances should be liquidated within the prescribed period and closed at year-end, pursuant to Section 5.8 of COA                               Circular No. 97-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-OBS7",
+      "year": 2017,
+      "recommendation": "We recommended that the prioritized programs and projects spelled out in the LDRRMP be fully implemented in order to strengthen the capacity of the LGU to confront potential hazards and disasters resulting in avoidance or reduction of loss of lives and assets.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-OBS8",
+      "year": 2017,
+      "recommendation": "We recommended that the municipality give importance to the implementation of the projects funded by other government agencies as required in the Memorandum of Agreement so that the purpose for which these funds were granted are achieved thus, benefitting its constituents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-OBS9",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipality maximize the utilization of its GAD budget so that its constituents could get the full benefits as envisioned by the program.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-OBS10",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipality strictly comply with Section 15 of RA 9344 in allocating 1% of its IRA for the LGU’s Local Council for the Protection of Children and to adopt a comprehensive plan on delinquency prevention as well as oversee its proper implementation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-OBS11",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipality maximize the appropriation and utilization of the 20% Development Fund allocated for the implementation of projects, programs and activities that are envisioned to help in the attainment of social, economic and environmental development in accordance with Joint Memorandum Circular 2011-1 dated April 13, 2013 of the DILG and DBM.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-OBS12",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-OBS13",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-OBS14",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-OBS15",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-OBS16",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-OBS17",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-OBS18",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-OBS19",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-PY1",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor create an Inventory Committee to conduct a yearly physical count and submit a report thereon on or before January 31 of the following year in accordance with Section 490 of the Government Accounting and Auditing Manual (GAAM) Volume I, and Section 57 of the Manual on the New Government Accounting System for Local Government Units, Vol. II.\n\nMoreover, the Report on Physical Count of Property, Plant and Equipment must contain the actual status of the assets whether serviceable, unserviceable, scrap or already junk so that disposal of unserviceable properties could be undertaken while the properties are still with salvage value.\n\nProperties with no available historical records should be appraised/revalued, by an Appraisal Committee to be created by the Municipal Mayor.",
+      "managementAction": "Each department should submit an inventory list of the properties in their respective offices and that the Accounting Office will be the one to reconcile it with the books of the Municipality.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Lack of manpower\nNo proper turn-over of documents so there are no prior records of PPE"
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-PY2",
+      "year": 2017,
+      "recommendation": "We recommended that the Accounting Office start this year the manual computation of depreciation of the properties mentioned above. Adjustments should be recorded as “Prior Years’ Adjustment” in the subsequent year. Also, the Municipal Accountant ensure that depreciation should be provided monthly for all properties acquired by the Municipality.",
+      "managementAction": "Records of Property, Plant and Equipment will be updated and depreciati on will be adjusted accordingly under Prior Years Adjustment for those which pertain to prior years. For recent purchases of PPE, depreciati on will be regularly provided for.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Records of PPE especially those referring to prior years are not yet updated."
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-PY4",
+      "year": 2017,
+      "recommendation": "We recommended that the Office of the Municipal Mayor furnish the Office of the Auditor all Executive Orders issued by the Municipal Mayor authorizing the concerned officials to sign or approve disbursements and other documents for or in his behalf.\n\nThe municipal officials certify and approve vouchers and supporting documents in accordance with Section 344 of RA 7160.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-PY5",
+      "year": 2017,
+      "recommendation": "We recommended that OIC, Municipal Accountant submit the missing disbursement vouchers and supporting documents within the ninety (90) day period from receipt of the notice so that audit suspension will no longer mature into a disallowance.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-PY6",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to prepare the monthly bank reconciliation statement so that the Municipality as well as other users of the report will be informed of any discrepancies between the balance per books of the municipality and the bank and in case errors exist, they could be detected at once.\n\nThe Municipal Accountant furnish the Audit Team a copy of the BRS monthly and on time so the team could conduct timely verification of the report.",
+      "managementAction": "Submitted bank reconciliation statements for CY 2016",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Lack of manpower"
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-PY7",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Accountant observe strictly the provision of COA Circular No. 2009-006 on the prescribed date of submission of documents for audit and evaluation.",
+      "managementAction": "Timely submission of vouchers and financial statements to COA.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2017-PY8",
+      "year": 2017,
+      "recommendation": "We have recommended the following:\n\na.   The Local School Board refrain from utilizing SEF for non-related expenses and prioritize items to be charged against the fund pursuant to DECS, DBM and DILG Joint Circular No. 01, series of 1998.\n\nb.  The approval of the SEF Budget shall be through a Local School Board Resolution, signed by the Chair and Co-Chair and majority of all its members, pursuant to Section 100(b) of RA No. 7160.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2016-PY1",
+      "year": 2016,
+      "recommendation": "We recommended the Municipal Mayor create an Inventory Committee to conduct a yearly physical count and submit a report thereon on or before January 31 of the following year in accordance with Section 490 of the Government Accounting and Auditing Manual (GAAM) Volume I, and Section 57 of the Manual on the New Government Accounting System for Local Government Units, Volume II. Moreover, the Report on Physical Count of PPE must contain the actual status of the assets whether unserviceable, scrap or already junk so disposal of these properties could be undertaken while the properties are still with salvage value. Properties with no available historical records should be appraised/revalued, by an Appraisal Committee to be created by the Municipal Mayor.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of manpower."
+    },
+    {
+      "id": "Pulupandan_NegOcc-2016-PY2",
+      "year": 2016,
+      "recommendation": "We recommended that the Accounting Office manually compute for the depreciation of all PPE recorded in the books starting CY 2016 so the aforesaid accounts are fairly presented in the financial statements. Henceforth, the OIC, Municipal Accountant ensure that all government property, plant and equipment acquired shall be provided with depreciation in consonance with COA Circular NoCircular No. 2003-007 dated December 11, 2003.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Non availability of records/ inventory report"
+    },
+    {
+      "id": "Pulupandan_NegOcc-2016-PY6",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Accountant promptly and regularly submit the monthly bank reconciliation statement to the Audit Team for proper verification in order to ascertain the correctness of the balances of Cash in Bank, Local Currency, Current Account at the end of the period.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of manpower and absence of records."
+    },
+    {
+      "id": "Pulupandan_NegOcc-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We recommended that  the  Municipal  Mayor  create  an  Inventory\n   Committee to conduct a yearly physical count and submit a report  thereon\n   on or before January 31 of the following year in accordance with  Section\n   490 of the Government Accounting and Auditing Manual (GAAM) Volume I, and\n   Section 57 of the Manual on the  New  Government  Accounting  System  for\n   Local Government Units, Vol. II.\n\n\n\n\n\n\n           Moreover, the Report on Physical Count  of  Property,  Plant  and\n   Equipment  must  contain  the  actual  status  of  the   assets   whether\n   serviceable, unserviceable, scrap or already junk  so  that  disposal  of\n   unserviceable properties could be undertaken  while  the  properties  are\n   still with salvage value.\n\n            Properties  with  no  available  historical  records  should  be\n   appraised/revalued, by an  Appraisal  Committee  to  be  created  by  the\n   Municipal Mayor.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We recommended that the  Accounting  Office  start  this  year  the\n   manual computation of depreciation of  the  properties  mentioned  above.\n   Adjustments should be  recorded  as  “Prior  Years’  Adjustment”  in  the\n   subsequent year.  Also, the Municipal Accountant ensure that depreciation\n   should  be  provided  monthly  for  all  properties   acquired   by   the\n   Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommended that payment of RATA shall be in  accordance  with\n   Local Budget Circular No. 103,  dated  May  15,  2013  and  must  be\n   supported with actual work/attendance of the  SB  members  vis-à-vis  the\n   work schedule or performance standards prescribed by law or by  competent\n   authority to enable us to determine if all SB  members  are  entitled  to\n   full payment of said allowance every month.\n\n        Moreover, it is recommended that authority given to  the  Municipal\n   Treasurer by the Municipal Mayor for the receipt  of  all  his  salaries,\n   RATA and all other benefits be provided with specific period and  a  copy\n   furnished to the Office of the Auditor for guidance in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We recommended that the Office of the Municipal Mayor  furnish  the\n   Office of the Auditor all Executive Orders issued by the Municipal  Mayor\n   authorizing the concerned officials to sign or approve disbursements  and\n   other documents for or in his behalf.  The  municipal  officials  certify\n   and approve vouchers and supporting documents in accordance with  Section\n   344 of RA 7160.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommended that OIC,  Municipal  Accountant  submits  the\n   missing disbursement vouchers and supporting documents within the  ninety\n   (90) day period from receipt of the notice so that audit suspension  will\n   no longer mature into a disallowance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommended that  the  Municipal  Mayor  direct  the  Municipal\n   Accountant to prepare the monthly bank reconciliation statement  so  that\n   the Municipality as well as other users of the report will be informed of\n   any discrepancies between the balance per books of the  municipality  and\n   the bank and in case errors exist, they could be detected at once.\n\n           The Municipal Accountant furnish the Audit Team a copy of the BRS\n   monthly and on time so the team could conduct timely verification of  the\n   report.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Accountant observe  strictly  the\n   provision of  COA  Circular  No.  2009-006  on  the  prescribed  date  of\n   submission of documents for audit and evaluation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We have recommended the following:\n\n\n    a.   The Local School Board refrain from utilizing SEF for  non-related\n       expenses and  prioritize  items  to  be  charged  against  the  fund\n       pursuant to DECS, DBM and DILG Joint  Circular  No.  01,  series  of\n       1998.\n\n\n    b. The approval of the SEF Budget shall be through a Local School Board\n       Resolution, signed by the Chair and Co-Chair and majority of all its\n       members, pursuant to Section 100(b) of RA No. 7160.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pulupandan_NegOcc-2016-PY3",
+      "year": 2016,
+      "recommendation": "We recommended that: The Municipal Mayor and OIC, Municipal Accountant require the accountable officials and employees concerned to submit immediately their Liquidation Reports and supporting documents to settle the unliquidated advances totaling P8,075,917.77. The Municipal Accountant to send letters of demand to all accountable officials and employees who failed to liquidate their cash advances after the prescribed periods had lapsed.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Unliquidated balance as of December 31, 2016 was reduced to P4,357,143.55. Not all were issued demand letters."
+    },
+    {
+      "id": "Pulupandan_NegOcc-2016-PY4",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Accountant submit the disbursement vouchers and paid payrolls immediately to the Auditor’s Office and all subsequent transactions within 10 days of each month after it has been recorded in the books of accounts pursuant to Section 107 of P.D. 1445.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "DVs for October 2016 and December 2016 were submitted only June 22, 2017."
+    },
+    {
+      "id": "Pulupandan_NegOcc-2016-PY5",
+      "year": 2016,
+      "recommendation": "We recommended that – The Municipal Accountant submits all overdue financial reports. Henceforth, she must adhere strictly to the provisions of Section 70 & 73 of the Manual on the New Government Accounting System (NGAS) for Local Government Units (LGUs) Volume I and Section 122 of Presidential Decree 1445.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Financial Reports were untimely submitted on March 30, 2017"
+    }
+  ]
+}

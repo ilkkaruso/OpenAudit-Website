@@ -1,0 +1,2022 @@
+{
+  "lguCode": "1004203000",
+  "lguName": "Bonifacio",
+  "province": "Misamis Occidental",
+  "region": "Region IX (Zamboanga Peninsula)",
+  "scores": {
+    "total": 1,
+    "normalized": 0.92,
+    "maxStreak": 1,
+    "currentStreak": 1
+  },
+  "observations": [
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY2",
+      "year": 2024,
+      "recommendation": "Require the municipal accountant and the GSO to maintain separate ledger and property cards and ARE for acquisitions of PPE in C.Y. 2024 and conduct regular reconciliation pending the cleansing of the PPE account.",
+      "managementAction": "Only the municipal accountant maintained ledger cards of PPEs;\nLedger Cards are not accurate due to failure to conduct inventory taking;",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Only recently bought items were issued with PAR and recorded in the Ledger Cards by the Accounting Staff."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY4",
+      "year": 2024,
+      "recommendation": "Direct the municipal treasurer and municipal accountant to reconcile the cash in-bank variances noted in their respective records;",
+      "managementAction": "The Mun. Accountant exerted efforts to reconcile the variances, however the MTO failed to adjust the cash book balances.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Due to MTO’s failure to adjust the cash book balances despite the reconciliation of the Municipal Accountant."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY5",
+      "year": 2024,
+      "recommendation": "Submit to the Office of the Auditor the Bank Reconciliation Statements for all bank accounts maintained within fifteen (15) days after the end of each month",
+      "managementAction": "The Municipal Accountant have managed to submit Bank Reconciliation Statements for some months within the prescribed timeline set forth by the COA",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The timeliness of the submission of the BRS was not observed for some months due to voluminous work."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY8",
+      "year": 2024,
+      "recommendation": "Send demand letters and instruct all accountable officers with outstanding unliquidated cash advances to liquidate their cash advances within 15 days from receipt hereof, or else refund the full amount advanced, otherwise, administrative and criminal prosecution may be sought by management and/or the audit team",
+      "managementAction": "Demand letters were sent regularly to AOs still connected with the LGU, while diligent efforts were undertaken by the LGU to effect liquidation for those AOs who could no longer be traced.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Long outstanding cash advances pertain to officers who are not connected with the LGU (e.g. retirees of DepEd, PNP and Courts)."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY9",
+      "year": 2024,
+      "recommendation": "In the case of the deceased or those who have been separated from service, make representations with the proper prosecuting agencies of the government towards the institution of the necessary proceedings for the recovery of the amount of the cash advance as provided in Section 4.1 of COA Circular No. 86-256",
+      "managementAction": "The LGU continued the tracing and identification of AOs.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "On the process of obtaining death certificates of deceased employees of the LGU. The death certificates of the retirees from DepEd, PNP, and the Courts could not be obtained as they are no longer traceable."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY10",
+      "year": 2024,
+      "recommendation": "File a request for authority to write-off for the accounts that are deemed dormant and liquidation is futile, to be guided by the procedures contained in COA Circular 2023-08 dated August 17, 2023",
+      "managementAction": "On-going tracing and identification of other AOs; the Accounting Office submitted Request for Write Off to COA",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Only a partial Request for Write-off of long outstanding receivables was filed by the Municipal Accountant"
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY16",
+      "year": 2024,
+      "recommendation": "Advice the municipal accountant and HRMO to confer with GSIS on the reconciliation of unpaid premiums per individual accounts",
+      "managementAction": "The Mun. Accountant & HRMO coordinated with GSIS in the reconciliation of unpaid premiums",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reconciliation made was partial only although the identified amount of unpaid premiums is already supported with Supplemental Budget."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY17",
+      "year": 2024,
+      "recommendation": "Confer with the GSIS management and the LGU employees on the best resolution for the unpaid premiums.",
+      "managementAction": "The Mun. Accountant & HRMO coordinated with GSIS in the reconciliation of unpaid premiums",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reconciliation is still on-going, thus only the unpaid premiums of some employees have been paid."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY18",
+      "year": 2024,
+      "recommendation": "Direct the municipal assessor to prepare a financial and operational plan and requirements to carry out the tax mapping;",
+      "managementAction": "On-going replacement or rehabilitation of the worn-out paper tax maps and on-going digitalization of the tax maps",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The MASSO has not finalized the preparation of the financial and operational plan and the requirements to carry out the tax mapping"
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY20",
+      "year": 2024,
+      "recommendation": "Direct the municipal treasurer to prepare and furnish the accountant with a Certified List at the beginning of the year.",
+      "managementAction": "None",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The treasurer forgot to forward the list to the Accountant"
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY23",
+      "year": 2024,
+      "recommendation": "Submit to the accountant by year-end the List of RPT and SET delinquencies that can no longer be collected, as the basis for recognizing impairment loss;",
+      "managementAction": "Instruct the MTO to submit the list of RPT and SET delinquencies to the Accountant.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "There was an on-going cleansing of RPUs & updating of ledgers."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY24",
+      "year": 2024,
+      "recommendation": "Spearhead digitalizing the RPT and SET records management in CY 2024 by preparing adequate budgetary support in this regard, and enjoining the Sangguniang Bayan for its approval;",
+      "managementAction": "The MTO already requested funding for the procurement of a System for the digitalization of RPT and SET management records",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No available funding yet."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY25",
+      "year": 2024,
+      "recommendation": "Initiate availing of the administrative and/or judicial remedies for delinquencies within the prescriptive period.",
+      "managementAction": "The LGU already served notice of delinquencies to some of the delinquent tax payers",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No available administrative or judicial remedies were pursued to address the delinquencies."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY26",
+      "year": 2024,
+      "recommendation": "We recommended that management provide adequate disclosures on the absence of titles on its land properties, relevant details of the PPE account and additional information on the realization of the Receivables- Disallowances and Charges account.",
+      "managementAction": "No management action was undertaken on this regard.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Disclosures on the absence of titles on its land properties were not reported in 2024 Notes to Financial Statements"
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY27",
+      "year": 2024,
+      "recommendation": "Instruct the municipal treasurer and the accountant to communicate to the Source Agencies (SAs) a written request for a copy of the MOA for the subject fund transfers;",
+      "managementAction": "On-going coordination with the SAs for the copy of the MOA\n\nThe management have communicated to the SAs and secured MOA for the following projects:\n-Capitation Fund/ PHIC-PFPR-NHTS PR Beneficiaries | The LGU failed to secure copies of the MOA under the NGP, with only one submitted to the COA, amounting to P186,000. Moreover, the MOA with the BFP, which was submitted to the COA, pertains to the collection of fire safety inspection fees and is therefore not related to the fund transfers.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY28",
+      "year": 2024,
+      "recommendation": "Initiate the preparation of MOA between the NGAs, if such were not constituted on the subject fund transfers tied with specific purposes;",
+      "managementAction": "On-going coordination with the SAs for the copy of the MOA\n\nThe management have communicated to the SAs and secured MOA for the following projects:\n-Capitation Fund/ PHIC-PFPR-NHTS PR Beneficiaries | The LGU failed to secure copies of the MOA under the NGP, with only one submitted to the COA, amounting to P186,000. Moreover, the MOA with the BFP, which was submitted to the COA, pertains to the collection of fire safety inspection fees and is therefore not related to the fund transfers.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY30",
+      "year": 2024,
+      "recommendation": "Execute prompt implementation of projects funded by the NGAs;",
+      "managementAction": "The management failed to immediately implement projects without the MOA",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Cannot implement funded projects due to absence of MOA from DENR and BFP"
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY31",
+      "year": 2024,
+      "recommendation": "Enjoin the focal person of each project to submit status reports and other relevant documents to assist in the liquidation of funds; and",
+      "managementAction": "The focal persons of each project, except for NGP, BFP and DOH-funded projects, have submitted status reports & other documents.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No status reports were submitted to COA for projects funded"
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY32",
+      "year": 2024,
+      "recommendation": "Return to the SAs any unused funds of the completed projects as prescribed under COA Circular No. 94-013.",
+      "managementAction": "The Municipal Accountant already returned unused funds of the completed projects to most of the SAs.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "There were unused funds not yet returned to SAs, like Construction of Negosyo Center."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY34",
+      "year": 2024,
+      "recommendation": "Revisit its planning process, anticipating the current and future needs, to avoid reprioritization and further delays in implementing development driven PPAs",
+      "managementAction": "PPAs were repeatedly realigned but remained unimplemented.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The management failed to monitor the implementation of the PPAs"
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY37",
+      "year": 2024,
+      "recommendation": "Cause the implementation and supervision of the CBMS in CY 2024.",
+      "managementAction": "Coordinate with PSA for the full implementation of Community Based Management System",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The CBMS has not yet been established"
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY38",
+      "year": 2024,
+      "recommendation": "Revise the existing contingency plans to exhaustively include resource gaps for materials and equipment",
+      "managementAction": "Minor revisions were made to the existing contingency plans",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The needs projection and resource gaps were not exhaustively identified. We note that only the personnel gaps were identified, while any materials and equipment that may be needed are not outlined."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY39",
+      "year": 2024,
+      "recommendation": "Enjoin the LDRRM Council to provide PPA and fund linkage between the mitigating measures and gaps identified in the contingency plan, to maximize the disaster preparedness of the local government",
+      "managementAction": "The management enjoined the LDRRM Council to provide fund linkage between the mitigating measures and gaps",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of funds to support the identified mitigating measures"
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY42",
+      "year": 2024,
+      "recommendation": "We recommended that due to the inherent limitation in the general revision of RPT by a component municipality, management should make representations with the Provincial Assessor to fast-track the preparation of the Schedule of Fair Market Values so as not to lengthen or extend departures from the prescribed Appraisal/Assessment Calendar.",
+      "managementAction": "The Municipal Assessor has exerted efforts to coordinate with Provincial Assessor to track the preparation of the Schedule.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The MASSO conducted the GRA last year and coordinated with the Provincial Assessor. However, no actions were taken by the latter."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY43",
+      "year": 2024,
+      "recommendation": "Indorse the GAD Focal Point System (GFPS) to attend the training on the preparation and establishment of a GAD Database;",
+      "managementAction": "The management failed to indorse the GFPS to attend trainings on the preparation and establishment of the GAD Database.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY44",
+      "year": 2024,
+      "recommendation": "Enjoin the GFPS to conduct a re-echo training to the department heads and public officials on the information requirements of a GAD Database;",
+      "managementAction": "The management failed to indorse the GFPS to attend trainings on the preparation and establishment of the GAD Database.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY46",
+      "year": 2024,
+      "recommendation": "Instruct the GFPS to submit to the Office of the Auditor an electronic or paper copy of the GAD Database for the year 2025.",
+      "managementAction": "No GAD Database was submitted to COA",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY47",
+      "year": 2024,
+      "recommendation": "Direct the municipal treasurer to prepare and furnish the accountant with a Certified List at the beginning of the year.",
+      "managementAction": "None",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The treasurer forgot to forward the list to the Accountant"
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY48",
+      "year": 2024,
+      "recommendation": "Instruct the MENRO to integrate COVID-19 Waste Management Plan in the LGU’s Solid Waste Management Plan",
+      "managementAction": "The disposal of waste from COVID-19 vaccinations is no longer applicable; nevertheless, the 10-year SWM Plan includes special healthcare waste management, under which COVID-19 waste could be categorized.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The LGU no longer conducts COVID-19 vaccinations. Thus, no waste is generated in relation thereto."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY49",
+      "year": 2024,
+      "recommendation": "Incorporate in the LDRRMIP increased investments and utilization on mitigating measures identified in the contingency plans.",
+      "managementAction": "Prepared contingency plan for flooding and landslide",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No reason was given for its non-implementation"
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY50",
+      "year": 2024,
+      "recommendation": "Instruct the municipal treasurer to communicate to the provincial treasurer and provincial accountant a written request for a copy of the MOA for the subject fund transfers;",
+      "managementAction": "Instructed the Accountant and Treasurer to communicate with the PGMO",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The accountant and the treasurer were unable to communicate with the provincial accountant and treasurer"
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY51",
+      "year": 2024,
+      "recommendation": "Direct the municipal accountant to confer with the provincial accountant for their reconciliation of records;",
+      "managementAction": "Instructed the Accountant and Treasurer to communicate with the PGMO",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not Implemented"
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY52",
+      "year": 2024,
+      "recommendation": "Otherwise, if recommendations a and b would not suffice; Communicate to the PGMO and the Sangguniang Panlalawigan a written clarification on the purpose and treatment of the fund transfers;",
+      "managementAction": "Awaiting the feasibility of the two preceding recommendations",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Contingent on the first two recommendations"
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY53",
+      "year": 2024,
+      "recommendation": "Initiate the preparation of MOA between the provincial government, if such were not constituted on the subject fund transfers tied with specific purposes.",
+      "managementAction": "Awaiting the feasibility of the two preceding recommendations",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Contingent on the first two recommendations"
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY54",
+      "year": 2024,
+      "recommendation": "Instruct the LDRRM Officer and the MPDC to fast-track the formulation of the CDRA and CDP;",
+      "managementAction": "Only the CDP was prepared",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The municipality was unable to prepare the CDRA"
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY55",
+      "year": 2024,
+      "recommendation": "Submit a justification highlighting the necessity of conducting the ELA Planning outside the locality when it could have been more efficiently undertaken within the locality.",
+      "managementAction": "None",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No justification was received"
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY56",
+      "year": 2024,
+      "recommendation": "Require the periodic physical inventory of supplies and materials. Physical count of inventory items by type shall be conducted semestrally and reported in the Report of the Physical Count of Inventories (RPCI) and submit the same to the Auditor not later than July 31 and January 31 of each year for the first and second semesters, respectively.",
+      "managementAction": "None",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Voluminous works are being attended to by the GSO"
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-OBS1",
+      "year": 2024,
+      "recommendation": "We reiterated our prior year’s audit recommendation that the Local Chief Executive:\nIssue an executive order or internal memorandum for CY 2025 identifying and requiring key employees or department heads to submit a timeline in adopting the one-time cleansing of PPE account balances, within 30 days from issuance of such order or memorandum;\nRequire the municipal accountant and the GSO to maintain separate ledger and property cards and PAR or acquisitions of PPE and conduct regular reconciliation pending the cleansing of the PPE account;\nInstruct the inventory committee to perform a comprehensive annual physical count of all PPEs owned by the LGU to ensure accurate records and accountability; and\nRequire each employee to submit every semester a list of LGU properties under their custody as directed by the Local Chief Executive under Memorandum Order No. 131.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-OBS2",
+      "year": 2024,
+      "recommendation": "Direct the Municipal Accountant to retrospectively recompute the Road Network Account, ensuring the exclusion of residual value in the depreciation expense calculation; and\nRequire the Municipal Accountant to prepare the necessary correcting entries to update the Road Network Account balances, including Depreciation Expense, Prior Period Adjustments, and Accumulated Depreciation Accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-OBS3",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Accountant to provide adequate disclosures regarding the nature and details of the prior period errors and the corresponding adjustments to net revenue, as reflected in the Statement of Changes in Net Assets/Equity for the two financial periods.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-OBS4",
+      "year": 2024,
+      "recommendation": "In light of the foregoing, we recommended that the Local Chief Executive:\nInstruct the HRMO to promptly update the salary details of employees in the GSIS portal, ensuring that no delays occur during periods of salary increments;\nAdvise the Municipal Accountant and the HRMO to coordinate with GSIS for the reconciliation of unpaid premiums per individual account, and to secure the necessary supporting documents such as payroll records and service records in preparation for a face-to-face reconciliation; and\nConfer with the GSIS management and concerned LGU employees to determine the most appropriate resolution for the unsettled premium balances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-OBS5",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive:\nRevisit its planning process, anticipating the current and future needs, to avoid unnecessary realignments and further delays in implementing development-driven PPAs; and\nDirect the MPDC to regularly monitor PPAs for timely implementation; otherwise, propose the reprioritization of PPAs that are no longer viable for execution.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-OBS6",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive:\nRequire the end-users or implementing units of the Procuring Entity to formulate their respective Project Procurement Management Plans (PPMPs) for their different programs, activities, and projects (PAPs); and\nDirect the Bids and Awards Committee Secretariat to consolidated the PPMPs into the Annual Procurement Plan (APP) as basis for all its procurement transaction as required under Section 7.2 of R.A. No. 9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-OBS7",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive:\nFor transparency and efficiency in the hiring of JOs, make representation with the Sanggunian to enact law standardizing the terms and condition in the hiring and compensation of JO personnel;\nRequire the Human Resource:\nTo establish criteria for selection of JO, including renewal procedures, and termination guidelines;\nTo draft a standard template for JO contracts that clearly outlines the duration of employment, terms and conditions, specific duties and responsibilities, office assignments, and work schedules; and\nTo ensure that each JO personnel signs the contract before starting work, with a copy provided to the employee.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-OBS8",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive:\nRequire the MDRRMO:\nTo conduct ocular inspection on the designated tree planting sites and provide the audit team of the Inspection Report together with pictures;\nTo provide the Audit Team: a) copy of donation papers from the Donee; b) information on the specific locations of the tree planting activities done in November and December 2024; and c) number of manpower and man-day required to complete the tasks for each site; and\nFor similar activities to be carried out in the future, formulate an Activity Design that would ensure success of the program\nEnjoin the HRMO:\nTo draft a standard template for JO contracts that clearly outlines the duration of employment, terms and conditions, and specific duties and responsibilities in a specific job; and\nTo require the JOs to register in the biometric scan system for their daily time-in and -out.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-OBS9",
+      "year": 2024,
+      "recommendation": "We reiterated our recommendation that the Local Chief Executive:\nEnjoin the LDRRMO and the LDRRM Council to provide a more specific implementation timeline for PPAs;\nRequire the LDRRMO to closely monitor the implementation of PPAs under the LDRRMIP, incorporate the prior years’ unexpended LDRRM balances in the revised AIP, and aim for a financial delivery rate of at least 90% for planned PPAs in CY 2025; and\nInstruct the LDRRMO to submit the Report of Sources and Utilization of DRRMF to the Office of the Auditor on or before the 15th day following the end of each month.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-OBS10",
+      "year": 2024,
+      "recommendation": "We reiterated the previous year’s recommendation that Local Chief Executive:\nRevise the existing contingency plans to exhaustively include resource gaps for materials and equipment; and\nEnjoin the LDRRM Council to incorporate the resource gaps identified in the contingency plan into the LDRRMIP, thereby maximizing the local government’s disaster preparedness.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-OBS11",
+      "year": 2024,
+      "recommendation": "In light of the foregoing, we reiterated our prior year’s audit recommendations that the Local Chief Executive:\nEndorse the GAD Focal Point System (GFPS) to attend the training on the preparation and establishment of a GAD Database, and to subsequently take the lead in guiding the development and implementation of the said database; and\nInstruct the GFPS to submit to the Office of the Auditor an electronic or paper copy of the GAD Database for the year 2025.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-OBS12",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-OBS13",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-OBS14",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY1",
+      "year": 2024,
+      "recommendation": "We recommended that management:\n\nIssue an executive order or internal memorandum identifying and requiring key employees or department heads to submit a timeline in adopting the one-time cleansing of PPE account balance, within 30 days from issuance of such order or memorandum",
+      "managementAction": "Issued of E.O. No. 131 requiring all Department Heads to submit all equipment in their respective offices",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY3",
+      "year": 2024,
+      "recommendation": "To expedite the physical inventory taking, issue an internal memorandum requiring each employee to submit every semester a of list of LGU properties under their custody, and let this be a requirement before the payment of any enhancement or productivity bonus.",
+      "managementAction": "Issued Memorandum Order to each employee requiring them to submit every semester a list of LGU properties under their custody",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY6",
+      "year": 2024,
+      "recommendation": "Make representations with the LBP to fast-track the application of the local government to the weAccess functionality.",
+      "managementAction": "Direct the Mun. Accountant to apply for LBP weAccess",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY7",
+      "year": 2024,
+      "recommendation": "Cease from granting additional cash advances unless the previous cash advance given to an accountable officer is initially settled or proper accounting thereof is made, and withhold the salaries of all accountable officers who are still connected with the LGU until settlement of their respective cash advances.",
+      "managementAction": "No cash advance shall be granted unless the previous cash advance has been liquidated.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY11",
+      "year": 2024,
+      "recommendation": "Instruct the municipal accountant to record the receivables from market operations as of December 31, 2024",
+      "managementAction": "Market-lease rentals were collected timely, so no receivables were recorded by the LGU.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY12",
+      "year": 2024,
+      "recommendation": "Direct the municipal treasurer to furnish the municipal accountant with a monthly report of receivables from market-related operations as basis of the latter for the recording the receivables of as cut-off dates;",
+      "managementAction": "Market-lease rentals were collected timely",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY13",
+      "year": 2024,
+      "recommendation": "Initiate the execution of lease contracts on all market stallholders",
+      "managementAction": "Lease Contracts were executed",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY14",
+      "year": 2024,
+      "recommendation": "Strictly enforce the limitation on the ownership/rental and transfer of market stalls; and",
+      "managementAction": "Lease Contracts were executed",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY15",
+      "year": 2024,
+      "recommendation": "Pursue with vigor the remedies for default under Sections 26 and 33 of Municipal Ordinance No. 02-2010;",
+      "managementAction": "Fully implement the Municipal Ordinance No. 02-2010",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY19",
+      "year": 2024,
+      "recommendation": "Enjoin the Sangguniang Bayan to support funding initiatives for the preparation of tax maps and subsequent related activities thereto.",
+      "managementAction": "A budget was already allocated through Appropriation Ordinance No. 06, s. 2024",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY21",
+      "year": 2024,
+      "recommendation": "Comply with the posting requirements necessary for the collection of delinquencies;",
+      "managementAction": "Posted Notice of Delinquencies in the 28 barangays",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY22",
+      "year": 2024,
+      "recommendation": "Conduct extensive tax campaigns in all of the barangays so that taxpayers are apprised of their rights and obligations incidental to their ownership of properties including consequences for non-payment of RPT/SET.",
+      "managementAction": "Mobilized the MTO to conduct extensive tax campaigns to the 28 barangays.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY29",
+      "year": 2024,
+      "recommendation": "Direct the municipal engineer and project focal persons to coordinate and furnish the municipal accountant with the completion certificates and/or project status for those without readily available information;",
+      "managementAction": "The management instructed the Mun. Engineer & Project Focal to immediately coordinate & submit to Mun. Accountant the completion certificates.  The Mun. Accountant has successfully liquidated the following:\n-HEA\n- Cons. Of Solar- Powered Streetlights\n-Supplementary Feeding Program",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY33",
+      "year": 2024,
+      "recommendation": "Require the municipal engineer to prepare the Program of Works (POW) on infrastructure programs, prior to the approval of the 20% DF or in the 1st quarter of the budget year, to improve implementation efficiency;",
+      "managementAction": "Instruct the Municipal Engineer to prepare the Program\tof Works (POWs) on infrastructure programs, prior to the approval of the 20% DF or in the 1st quarter of the budget year.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY35",
+      "year": 2024,
+      "recommendation": "Establish a Municipal CBMS Core Team (LCCT), and appoint a municipal statistician and CBMS Focal Person;",
+      "managementAction": "Establish the LCCT thru Executive Order",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY36",
+      "year": 2024,
+      "recommendation": "Enjoin the Municipal Development Council (MDC) to include the CBMS in the Annual Investment Plan, and provide appropriate funding thereto",
+      "managementAction": "Provide Funding to implement the CBMS",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY40",
+      "year": 2024,
+      "recommendation": "We reiterated our recommendation that management establish written policy or guidelines on the receipt, distribution, and reporting of donations in-kind.",
+      "managementAction": "The management formulated written policy on the receipt, distribution, and reporting of donations in-kind. (EO No. 132)",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY41",
+      "year": 2024,
+      "recommendation": "Likewise, we recommended the submission of the List of Donations during the COVID-19 pandemic to enhance transparency and maintain donor confidence in the LGU management",
+      "managementAction": "Management had submitted the list of Donations from the Office of the Civil Defense, together with the inventory records and distribution logs to COA",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY45",
+      "year": 2024,
+      "recommendation": "Identify key officials who will lead the establishment of a GAD Database;",
+      "managementAction": "Issuance of Executive Order",
+      "status": "IMPLEMENTED",
+      "reason": "Copy of EO No. 111 was submitted to COA"
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY57",
+      "year": 2024,
+      "recommendation": "Ensure that in the future agreements, the LGU shall retain a copy of the duly signed Memorandum of Agreement and furnish the same to the Local COA.",
+      "managementAction": "The management retained copies of MOA from the source agency but",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY58",
+      "year": 2024,
+      "recommendation": "ensure that registration of all serviceable motor vehicles owned by the LGU be renewed in CY 2022 and for the years thereafter; and",
+      "managementAction": "All serviceable motor vehicles are covered with updated LTO registrations",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Misamis_Occidental__Bonifacio_MisOcc-2024-PY59",
+      "year": 2024,
+      "recommendation": "We have recommended to the management to enjoin the Municipal Engineer, the BAC and other concerned personnel the immediate submission of the documents to avoid further delay in the conduct of technical review and inspection of the LGU’s projects. Moreover, ensure that documents submitted for contract review shall be complete.",
+      "managementAction": "Submitted the lacking documents (4.26.24)",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2023-OBS1",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2023-OBS2",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2023-OBS3",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2023-OBS4",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2023-OBS5",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2023-OBS6",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2023-OBS7",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2023-OBS8",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2023-OBS9",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2023-OBS10",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2023-OBS11",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2023-OBS12",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2023-OBS13",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2023-OBS14",
+      "year": 2023,
+      "recommendation": "We reiterate our written recommendation",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2023-OBS15",
+      "year": 2023,
+      "recommendation": "Direct the MASSO to coordinate with the Provincial Assessor",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2023-OBS16",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-PY14",
+      "year": 2021,
+      "recommendation": "Updated Recommendation based on the COMELEC En Banc Resolution No. 07-0626:\n\nWe have recommended to the management to provide justification that the honoraria or allowance received by the MBOC is not similar to the honorarium or allowance being given by the COMELEC, otherwise it shall be disallowed in audit.",
+      "managementAction": "AAR 2019 | The management shall send a letter of justification/ reconsideration.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-PY19",
+      "year": 2021,
+      "recommendation": "File a request for authority to write-off for the accounts of the deceased personnel and for those accounts that are deemed dormant and liquidation is futile, to be guided by the procedures contained in COA Circular 2016-005 dated December 19, 2016.",
+      "managementAction": "AAR 2018 | Continue to send demand letters to the concerned individuals.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-PY20",
+      "year": 2021,
+      "recommendation": "Recommendation:\n\nWe have recommended to the management to require the concerned claimants to provide legal basis otherwise refund the amount invalidly claimed.",
+      "managementAction": "AAR 2018 | Shall send a letter requesting for reconsideration on the matter.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended to the management to:\nEnjoin the Municipal Assessor to fast track the preparation of assessment roll per barangay based on the general revision of 2018;\nDirect the Municipal Treasurer to prepare a duly certified list of taxpayers with corresponding amount of tax due and collectible for the year which should be the basis of the accounting to set-up RPT/SET Receivable at the beginning of the year; and\nRequire the Municipal Accountant to prepare Journal Entry Voucher to set-up the correct RPT/SET Receivables for CY 2019, 2020 and 2021 and for the years thereafter, for proper presentation in the financial statements.\nWe recommended to the management to:\nRequire the Municipal Accountant to effect adjusting entries to rectify the noted overstatement/understatement of the RPT/SET Receivables and their related accounts and to immediately apply the correct accounting entries in recording RPT/SET collections in order to avoid subsequent consequential erroneous entries; and\nRequire the Municipal Treasurer to submit to the Municipal Accountant monthly Summary of Collections (Provincial Form 60(a) and BLGF Form 2-a) in order to reconcile their recorded collections.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "We recommended to the management to request from the DPWH a copy of the turn-over documents of the ‘Completion of Bonifacio Gym including Site Development’ and ‘Construction of MPB (Museum)’ and provide the Municipal Accountant with the turn-over documents for the preparation of Journal Entry Voucher to record the buildings in the books of the LGU for proper presentation in the financial statements. Moreover, ensure to request for the turn-over documents on projects funded and implemented by other government agencies if the LGU shall have the control over the said asset.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "We recommended the following:\nConsider the creation of General Services Office (GSO) separate from the Treasury Department who will be responsible in the preservation, maintenance and safekeeping of the PPEs of the LGU;\nCreate an inventory committee composed of adequate number of members with at least one member each from the Accounting Unit and Supply Unit and enjoin them to conduct the one-time cleansing of PPE accounts of the Municipality in accordance with the prescribed procedures embodied in COA Circular 2020-006 dated January 31, 2020 to establish PPE balances that are verifiable as to existence, condition and accountability;\nAfter the conduct of inventory taking, direct the inventory committee to prepare and submit the following to the Audit Team in the prescribed format:\nReport on Physical Count of PPE (RPCPPE);\nInventory and Inspection Report of Unserviceable Property (IIRUP), if there are unserviceable properties found during inventory taking;\nRequest for Relief from Accountability by Accountable persons for lost PPE items under their accountability, if any;\nJournal Entry Vouchers drawn by the Accounting Unit for recognition of loss of PPE from concerned accountable officers/personnel, if any, and other necessary adjusting entries;\nEnjoin the Municipal Accountant to derecognize properties that do not qualify on the capitalization threshold of PPE and require the Supply Officer to prepare Inventory Custodian Slip (ICS) for each recorded PPEs that are to be derecognized from PPE account due to capitalization threshold of PPE and ensure that future issuances of semi-expandable properties are issued with ICS and Property Acknowledgement Receipt (PAR) for property and equipment; and\nInstruct the GSO to prepare yearly report of inventory of semi-expandable properties in order to monitor existence of the said properties.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "We recommended to the management to:\nEnjoin the Municipal Treasurer to open a separate bank account with its depositary bank {Landbank of the Philippines (LBP) or Development Bank of the Philippines (DBP), and inform the PCSO in writing of the details of the same (i.e. account name and number)};\nInstruct the Municipal Accountant to reclassify the total amount of ₱184,012.89 of LGU’s share from the sales of lotto/STL to ‘Trust Liability’ in the Trust Fund Books; and\nUtilize the amounts received from PCSO for the Municipality’s health programs, medical assistance and charitable services, consistent with the PCSO Charter.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "We recommended to the management to establish written guidelines on the receipt, distribution and reporting of donations in-kind received by the LGU to enhance transparency and accountability over the donations taking into consideration the centralization on the accounting of donated goods by vesting upon a single office or body the sole authority and responsibility relative to in-kind donations.\nManagement Comment:\nThe management commits to centralize their controls in relation to donations in-kind received rather than having every department adopting its own control measures in the receipt and distribution of donations in-kind.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "We recommended to the management to require the contractor to immediately refund the ₱475,909.56 negative variance found in the technical review of the contract.\nManagement Comment:\nThe management promised to send a letter to the contractor demanding for the refund of the negative variance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-OBS8",
+      "year": 2021,
+      "recommendation": "We recommended to the management to:\nEnjoin the Municipal Accountant to refrain from recording the liquidation reports of the barangays if such funds were utilized for purposes other than those for which the fund was intended; and\nRequire the barangay to submit a detailed budget proposal as an attachment to its request for financial assistance which shall then be used by the LGU in determining the reasonable amount of financial assistance to be granted to the barangay.\nManagement Comment:\nWith regards to the ₱10,000.00 financial assistance from LGU Bonifacio to Barangay Liloan, Kanao-Kanao, Dullan, Montol and Calolot which were used to purchase uniforms for Tanods and BHWs, the management commented that “It was being found out that there was a Resolution No. 539-S-2020 approving the Re-alignment of the said appropriations for the uniforms of respective CVOs of the 28 Barangays. This appropriation was done in connection with the Barangay’s Control Point on lock-downs due to the increasing case of COVID-19 during that time. However, we admit, we fail to carefully look-out for the revised MOA and failed to attach the said Resolution in the release of the fund. It was also being noticed that these financial assistances were from the general fund and not from the trust fund.”\nMoreover, as to the financial assistance for the Implementation of Solid Waste Management, the said funds were from the trust fund and will communicate to the respective barangays on the matter.\nThe management assured that the audit observation will be duly observed on the next transaction that the LGU will have and the Accounting Office also commits to strictly examine the liquidation reports before recording them in the books.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-OBS9",
+      "year": 2021,
+      "recommendation": "We recommended to the management to:\nRequire the Municipal Agriculturist to secure a Memorandum of Agreement (MOA) from the Provincial Government of Misamis Occidental and amend if found to have been in conflict with the current practice of the LGU taking into consideration what is beneficial and favorable to both parties;\nEnjoin the Municipal Agriculturist to fast track collection of the unpaid balances of the farmers to attain the sustainability of the program; and\nEnsure that in the future agreements, the LGU shall retain a copy of the duly signed Memorandum of Agreement and furnish the same to the Local COA.\nManagement Comment:\nThe management already requested from the Provincial Government of Misamis Occidental a copy of the duly signed MOA and committed to act on other recommendations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-OBS10",
+      "year": 2021,
+      "recommendation": "We recommended to the management to:\nRequire the BAC Secretariat to prepare a PPMP excel template that shall be filled out by different offices and consolidate the PPMPs to prepare the Annual Procurement Plan (APP) which shall be forwarded to the BAC for final recommendation of the appropriate procurement modality; and\nStop the practice of procuring common-use supplies and equipment separately by office and consider the procurement of such in a quarterly basis to conserve time and resources of the LGU and to avail of the best favorable price and terms in the procurement transactions, if ever such supplies and equipment are not available in PS-DBM.\nManagement Comment:\nThe management commented that they shall issue through an executive order to all offices to resubmit their existing PPMP format but with uniform pricelist and commits to prepare a google sheet for the PPMP for the ensuing year. Further, they shall no longer allow the procurement by office, in such case, the procurement transactions would be minimized, thus, they can save time, money and effort in their procurement processes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-OBS11",
+      "year": 2021,
+      "recommendation": "We recommended to the management to:\nEnsure that registration of all serviceable motor vehicles owned by the LGU be renewed in CY 2022 and for the years thereafter; and\nRequire the GSO to have an updated monitoring of all motor vehicles with information on the Certificate of Registration (CR) and Official Receipt (OR) to facilitate the timely renewal of registration with the LTO to avoid penalties for late payment and payment of damages for third party liabilities in case of accidents. Also, ensure that the GSO shall file a copy of the OR/CR.\nManagement comment:\nThe management concurs with the recommendations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-OBS12",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "Recommendations: \n\nWe have recommended the following:\n\nRequire the General Services Officer/concerned municipal officials to immediately submit to the Accounting Office the Report of Supplies and Materials Issued (RSMI) supported with Distribution Sheets of the above-mentioned inventories and for the latter to issue JV to derecognize the inventories in the books of the LGU;\n\n\n\n\nEnjoin the GSO/end-users to submit the monthly RSMI on the actual utilization of inventories to the Accounting Office as basis for recognizing expense; and\n\nRequire the periodic physical inventory of supplies and materials. Physical count of unissued inventory items by type shall be conducted at least once a year and reported in the Report of the Physical Count of Inventories (RPCI) and submit the same to the Auditor not later than January 31 of each year.",
+      "managementAction": "AAR 2020 | The end concerned offices had submitted the Utilization Report/ Distribution List of inventories and the consumed/ distributed inventories were already derecognized in the books of the LGU.\n\n\n\n\n\nPrepared Inventory Report but not yet updated",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "Recommendations: \n\nWe have recommended the following:\n\na.\tRequire the Municipal Accountant to prepare Journal Entry Voucher to record the donated ambulance in the books of the LGU for proper presentation in the financial statements;\n\n\nb.\tEnsure that the said ambulance is licensed in its name, in accordance with the DOH Administrative Order regarding the Rules and Regulations Governing the Licensure of Land Ambulance and Ambulance Service Providers as stipulated in the Deed of Donation; and\n\nc.\tEnsure that donated assets, if any, for the ensuing periods with the Municipality as Donee are properly recognized in the books with due consideration of the terms and condition embodied in the Deed of Donation.",
+      "managementAction": "AAR 2020 | Recorded in the LGU books per JEV No. 100-2103-001AE; debit to ‘Motor Vehicles’ and credit to ‘Trust Liabilities’\nThe management submitted a copy of the license secured from the DOH.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "Recommendations: \n\nWe have recommended the following:\n\nFind ways to look for sources of fund for the supplemental appropriation of the unpaid electricity expense with a total amount of ₱1,868,817 as of December 31, 2020 in order to stop the agency’s practice of charging prior years’ expenditure to current year appropriation;\n\nEnjoin the Municipal Budget Officer to strictly follow budget procedure and ensure that utility expenses are automatically included in the yearly budget appropriation;\n\nRequire the Municipal Accountant to take up in the books expenditures and obligations incurred during the current period so as to reflect the correct pertinent account in the financial statements;\n\nEnsure that electricity bills are paid on time to avoid incurrence of surcharge, otherwise officials and employees responsible for the delay shall be personally liable for any disallowance;\n\nEnjoin the Municipal Treasurer to strictly implement the collection policy of electric bills due to the stall lessees; and\n\n\n\nConsider the idea of separate electric meter for every stall in the BCC and Public Market by incorporating the same in the Lease Agreement to ease the burden on the part of the Municipality from the delinquent lessees.",
+      "managementAction": "AAR 2020 | The LGU find another source of fund recommended for a supplemental Appropriation to augment the unpaid electricity in the amount of ₱2,000,000 per AO # 23-S-2021.",
+      "status": "UNKNOWN",
+      "reason": "Fully Implemented – The prior years’ electricity bills were already paid.\n\nFully Implemented\n\nFully Implemented – Accrued expenses are booked up in the books.\n\nFully Implemented – The LGU commits to pay electric bills on time.\n\nPartially Implemented – There are still delinquent stall lessees.\n\nPartially Implemented"
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "Recommendations: \n\nWe have recommended the following:\n\nOrganize a validation team who will work in close coordination with barangay officials concerned and the DSWD to conduct verification on the eligibility of the aforementioned beneficiaries based on the filled out SAC; and \n\n\n\nDirect the validation team to submit to the audit team a report/status of their verification and the actions taken by management and liable persons thereon.",
+      "managementAction": "AAR 2020 | Assigned validators and conducted validation with the Punong Barangays and verified the eligibilities of the beneficiaries. Report on validation was submitted with supporting documents and pictures.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "Recommendation: \n\nWe recommended and management agreed to employ proper coordination with other partner government agencies to avoid double payment of allowances in the ensuing similar transactions.",
+      "managementAction": "AAR 2020 | The recommendation has been fully noted by management and will be applied in the next transaction, if any.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "Recommendations: \n\nWe have recommended the following:\n\nSubmit immediately a complete Summary/List of Donations Received, Distributed, and Balances to the OCD and COA for disaster relief donations in-kind received in CY 2020, furnishing the Accounting Office as basis for determining the value of remaining donations and its consequent recording or disclosure in the books of the LGU; and\n\nEstablish specific guidelines on the receipt, distribution and reporting of disaster relief donations and to strictly comply with the reportorial requirements on the receipt of disaster relief donations.",
+      "managementAction": "AAR 2020 | Receipt/List of donations received were already submitted.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "Recommendations: \n\nWe recommended that the management require the BAC to post all contracts awarded through Emergency Procurement under the Bayanihan to Heal as One Act, regardless of the funding source, pursuant to GPPB TSO Advisory 06-2020.",
+      "managementAction": "AAR 2020 | Posted and uploaded all awarded contracts to GPPB Emergency Procurement Portal.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "Recommendations: \n\nWe recommended to the management to submit immediately the Official Receipts (OR) or RER of the above-mentioned transactions with a total amount of ₱393,120, otherwise Notice of Suspension shall be issued for that purpose. Further, ensure that all reimbursement of meals are supported with OR.",
+      "managementAction": "AAR 2020 | The concerned personnel had submitted the RERs to the",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "Recommendations: \n\nWe have recommended the following:\n\nDirect the Human Resource Management Officer to strictly observe the provisions of Sections 22 and 23 of the Omnibus Rules on Leave on granting the request for monetization of leave credits; and\n\n\n\nEnsure that monetization of leave credits shall be supported with the complete documentary requirements prescribed in Item 5.14 of COA Circular No. 2012-001.",
+      "managementAction": "AAR 2020 | Provisions of Sections 22 and 23 of the Omnibus Rules on Leave on granting the request for monetization of leave credits and monetization were supported with complete documentary requirements.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "Recommendations: \n\nWe have recommended the following:\n\nSubmit immediately the lacking supporting documents of the cash advance with a total amount of ₱252,372, otherwise NS shall be issued for that purpose;\n\n\n\nEnsure that Disbursement Vouchers for the cash advance for payroll is supported with Certification from the Municipal Accountant that previous cash advances have been liquidated and accounted for in the books, Approved Payroll, and Daily Time Records (DTR) approved by the supervisor;\n\nEnsure that only those personnel who had submitted their DTRs shall be included in the payroll to have accurate computation of the net pay; and\n\n\n\nEnsure that the Report of Cash Disbursements is supported with a duly acknowledged payroll, application of leave and/or accomplishment reports, as the case may be.",
+      "managementAction": "AAR 2020 | Lacking documents already submitted by management and cash advances for payrolls were supported with complete documentary requirements. Also, computations were reviewed to avoid errors.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "Recommendations: \n\nWe recommended to the management to ensure that future claims of financial assistance should be provided timely to individuals in crisis situation to help them cope with the financial burden brought about by a sudden severe event or a series of stressful situations. Moreover, the MSWDO shall regularly evaluate/access the amount of financial assistance to be appropriated in the yearly budget so as not to deprive the beneficiaries of the benefits due them. Also, the MSWDO shall monitor and inform quarterly the Local Chief Executive on unpaid financial assistance, if any, so that timely actions could be made.",
+      "managementAction": "AAR 2020 | Financial assistance were granted timely and the MSWDO refers this matter to Municipal Budget Officer for possible appropriation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "Recommendations: \n\nWe recommended to the management to immediately close bank accounts whose purpose and/or projects have already been served and completed, particularly those bank accounts that fall below the required monthly average daily balance. It is further advised that new account be opened should funds be downloaded to the Municipality for the implementation of new projects.\n\nHowever, if the management opt to have the said banks accounts active, the management shall ensure that the minimum bank balance required by the bank be maintained and prevent the account from being dormant to avoid incurrence of bank service charges, otherwise it shall be disallowed in audit.",
+      "managementAction": "AAR 2020 | Dormant bank accounts were already closed including those accounts that fall below the monthly ADB.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "Recommendations: \n\nWe have recommended the following:\n\nEnjoin the Municipal Agriculture Officer to coordinate with the source Agency, the Department of Agriculture, and secure pertinent official documents relative to the return of the animals; and\n\n\n\nDirect the Municipal Agriculture Officer to secure the blotter report and the certificate of death of the livestock as one of the requirements for derecognizing the asset, for the animals that had died in the control of the LGU.",
+      "managementAction": "AAR 2019 | The concerned agency/officials went to the barangays to validate the persons who received the biological assets.\n\nThe management followed up the beneficiaries for the latter to submit the certificates of death of the livestock.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-PY15",
+      "year": 2021,
+      "recommendation": "Recommendations:\n\nWe have recommended to the management to adopt and implement cost measures to observe economy in the telephone expenses, as follows:\n\nFormulate a written guidelines on the rates of load allowances and the qualifications of officials and employees that are entitled to load allowances taking into consideration the use of post-paid plan offered by mobile service providers. Set reasonable limits on the use of mobile phones to the entitled officials and employees, and any excess on the limit set shall be for the personal account of the users; and\n\nUtilize the features of the mobile service providers of unlimited call and text to networks.\n\nHowever, if the management opt to continue its practice of buying prepaid load cards, such shall be purchased in bulk following the required procurement procedures and distribute the same in accordance with the guidelines that shall be set.",
+      "managementAction": "AAR 2019 | The management had drafted guidelines on the load allowance provided by the LGU but still for finalization.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-PY16",
+      "year": 2021,
+      "recommendation": "Recommendations: \n\nWe have recommended the following:\nInstruct their canvassers to require the prospective suppliers to indicate the brand names and other detailed item specifications;\n\nEnjoin the BAC to conduct evaluation as to the most responsive bid based on brand and other qualitative aspect of the goods; and\n\n\n\nDirect the General Services Unit to prepare all the purchase orders entered into by the LGU and accomplish properly the P.O.s including the brand names and other detailed specifications of goods to be procured in order to serve the purpose for which the purchase order was prescribed.",
+      "managementAction": "AAR 2019 | The canvassers were instructed to require the prospective suppliers to indicate the brand names.\n\nThe BAC evaluated based on brand and other qualitative aspect of the goods.\n\n\n\n\nThe brand names were already indicated in the POs.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-PY17",
+      "year": 2021,
+      "recommendation": "Recommendation:\n\nWe have recommended to the management to enjoin the Municipal Engineer, the BAC and other concerned personnel the immediate submission of the documents to avoid further delay in the conduct of technical review and inspection of the LGU’s projects. Moreover, ensure that documents submitted for contract review shall be complete.",
+      "managementAction": "AAR 2019 | The concerned personnel were still exerting effort to submit all the required documents.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-PY18",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "AAR 2018 | The Inventory committee will set a date for the conduct of physical count of LGU’s property in CY 2022.\n\n\n\n\nOn-going plotting of the road network.\n\n\n\n\nOn-going plotting of the road network.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-PY21",
+      "year": 2021,
+      "recommendation": "Recommendation:\n\nOther recommendations were already fully implemented except for the following:\n\nRequire the LDRRMO and Municipal Engineer to coordinate with the proper National Government Agency for the infrastructure audit of the evacuation centers or selection of the suitable sites and proper design in case of building permanent evacuation centers, as the case may be. Require the LDRRMO to take concrete actions on herein noted lacking facilities and the deficiencies noted in infrastructure audit, if any.",
+      "managementAction": "AAR 2018 | The DPWH had send to the LGU the report on the conduct of an Infra Audit. The LGU have to comply the recommendation that is to retrofit the designated evacuation center for signs of crack on walls and to install additional provision.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-PY22",
+      "year": 2021,
+      "recommendation": "Recommendation:\n\nWe have recommended to the management to instruct the Municipal Planning and Development Office along with the GAD Focal Point System to establish GAD Database for storage of necessary information in aid of effective gender-responsive planning, programming and policy information.",
+      "managementAction": "AAR 2018 | The LGU had already established GAD database.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc_aar2021-PY23",
+      "year": 2021,
+      "recommendation": "Recommendation:\n\nWe have recommended for the management to secure from the Philippine Councilors’ League Incorporated, Vice Mayors’ League of the Philippines, and League of Municipalities of the Philippines to issue a government official receipt for all payments made to establish proper financial accountability.",
+      "managementAction": "AAR 2017 | The LGU sent request for issuance of government prescribed OR however, the PCL replied that they will have to settle legal question with the OSG.\n\nThe LGU again sent Resolution 28, S-2019 to VMLP and LMP but no reply received.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-PY15",
+      "year": 2020,
+      "recommendation": "Other recommendations were already fully implemented except for the following:\n\nFile a request for authority to write-off for the accounts of the deceased personnel and for those accounts that are deemed dormant and liquidation is futile, to be guided by the procedures contained in COA Circular 2016-005 dated December 19, 2016.",
+      "managementAction": "AAR 2018 | Some accountable officers can no longer be traced or are already dead but the management committed to exert diligent efforts to effect liquidation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-PY17",
+      "year": 2020,
+      "recommendation": "We have recommended to the management to require the concerned claimants to provide legal basis otherwise refund the amount invalidly claimed.",
+      "managementAction": "AAR 2018 | The management submitted COMELEC Minute Resolution No. 00-0214 promulgated on 10 Feb. 2000.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended to the management to:\nRequire the General Services Officer/concerned municipal officials to immediately submit to the Accounting Office the Report of Supplies and Materials Issued (RSMI) supported with Distribution Sheets of the above-mentioned inventories and for the latter to issue JV to derecognize the inventories in the books of the LGU;\nEnjoin the GSO/end-users to submit the monthly RSMI on the actual utilization of inventories to the Accounting Office as basis for recognizing expense; and\nRequire the periodic physical inventory of supplies and materials. Physical count of unissued inventory items by type shall be conducted at least once a year and reported in the Report of the Physical Count of Inventories (RPCI) and submit the same to the Auditor not later than January 31 of each year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended to the management to:\nRequire the Municipal Accountant to prepare Journal Entry Voucher to record the donated ambulance in the books of the LGU for proper presentation in the financial statements;\nEnsure that the said ambulance is licensed in its name, in accordance with the DOH Administrative Order regarding the Rules and Regulations Governing the Licensure of Land Ambulance and Ambulance Service Providers as stipulated in the Deed of Donation; and\nEnsure that donated assets, if any, for the ensuing periods with the Municipality as Donee are properly recognized in the books with due consideration of the terms and condition embodied in the Deed of Donation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended to the management to:\nFind ways to look for sources of fund for the supplemental appropriation of the unpaid electricity expense with a total amount of ₱1,868,817 as of December 31, 2020 in order to stop the agency’s practice of charging prior years’ expenditure to current year appropriation;\nEnjoin the Municipal Budget Officer to strictly follow budget procedure and ensure that utility expenses are automatically included in the yearly budget appropriation;\nRequire the Municipal Accountant to take up in the books expenditures and obligations incurred during the current period so as to reflect the correct pertinent account in the financial statements;\nEnsure that electricity bills are paid on time to avoid incurrence of surcharge, otherwise officials and employees responsible for the delay shall be personally liable for any disallowance;\nEnjoin the Municipal Treasurer to strictly implement the collection policy of electric bills due to the stall lessees; and\nConsider the idea of separate electric meter for every stall in the BCC and Public Market by incorporating the same in the Lease Agreement to ease the burden on the part of the Municipality from the delinquent lessees.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommended that the management:\nOrganize a validation team who will work in close coordination with barangay officials concerned and the DSWD to conduct verification on the eligibility of the aforementioned beneficiaries based on the filled out SAC; and\nDirect the validation team to submit to the audit team a report/status of their verification and the actions taken by management and liable persons thereon.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We recommended to the management to employ proper coordination with other partner government agencies to avoid double payment of allowances in the ensuing similar transactions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended to the management to:\nSubmit immediately a complete Summary/List of Donations Received, Distributed, and Balances to the OCD and COA for disaster relief donations in-kind received in CY 2020, furnishing the Accounting Office as basis for determining the value of remaining donations and its consequent recording or disclosure in the books of the LGU; and\nEstablish specific guidelines on the receipt, distribution and reporting of disaster relief donations and to strictly comply with the reportorial requirements on the receipt of disaster relief donations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We recommended that the management require the BAC to post all contracts awarded through Emergency Procurement under the Bayanihan to Heal as One Act, regardless of the funding source, pursuant to GPPB TSO Advisory 06-2020.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We recommended to the management to submit immediately the Official Receipts (OR) or RER of the above-mentioned transactions with a total amount of ₱393,120, otherwise Notice of Suspension shall be issued for that purpose. Further, ensure that all reimbursement of meals are supported with OR.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-OBS9",
+      "year": 2020,
+      "recommendation": "We recommended to the management to:\nDirect the Human Resource Management Officer to strictly observe the provisions of Sections 22 and 23 of the Omnibus Rules on Leave on granting the request for monetization of leave credits; and\nEnsure that monetization of leave credits shall be supported with the complete documentary requirements prescribed in Item 5.14 of COA Circular No. 2012-001.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-OBS10",
+      "year": 2020,
+      "recommendation": "We recommended to the management to:\nSubmit immediately the lacking supporting documents of the cash advance with a total amount of ₱252,372, otherwise NS shall be issued for that purpose;\nEnsure that Disbursement Vouchers for the cash advance for payroll is supported with Certification from the Municipal Accountant that previous cash advances have been liquidated and accounted for in the books, Approved Payroll, and Daily Time Records (DTR) approved by the supervisor;\nEnsure that only those personnel who had submitted their DTRs shall be included in the payroll to have accurate computation of the net pay; and\nEnsure that the Report of Cash Disbursements is supported with a duly acknowledged payroll, application of leave and/or accomplishment reports, as the case may be.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-OBS11",
+      "year": 2020,
+      "recommendation": "We recommended to the management to ensure that future claims of financial assistance should be provided timely to individuals in crisis situation to help them cope with the financial burden brought about by a sudden severe event or a series of stressful situations. Moreover, the MSWDO shall regularly evaluate/access the amount of financial assistance to be appropriated in the yearly budget so as not to deprive the beneficiaries of the benefits due them. Also, the MSWDO shall monitor and inform quarterly the Local Chief Executive on unpaid financial assistance, if any, so that timely actions could be made.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-OBS12",
+      "year": 2020,
+      "recommendation": "We recommended to the management to immediately close bank accounts whose purpose and/or projects have already been served and completed, particularly those bank accounts that fall below the required monthly average daily balance. It is further advised that new account be opened should funds be downloaded to the Municipality for the implementation of new projects.\nHowever, if the management opt to have the said banks accounts active, the management shall ensure that the minimum bank balance required by the bank be maintained and prevent the account from being dormant to avoid incurrence of bank service charges, otherwise it shall be disallowed in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-PY1",
+      "year": 2020,
+      "recommendation": "We have recommended the following:\n\nDirect the Municipal Treasurer to prepare a duly certified list of taxpayers with corresponding amount of tax due and collectible for the year which should be the basis of the accounting to set-up RPT/SET Receivable at the beginning of the year; and\n\n\nMake representation with the Provincial Government to expedite the completion of the general revision of assessments to determine the accurate real property taxes due.",
+      "managementAction": "AAR 2019 | The MTO provided the Accounting Office the list of taxpayers with corresponding amount of tax due and collectible for CY 2020. \n\nThe LGU hired Job Order encoders to fast-track the completion of the General Revision. The municipalities are just waiting for the final completion and effectivity of the General Revision.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-PY2",
+      "year": 2020,
+      "recommendation": "We have recommended the following:\n\nEnjoin the Municipal Agriculture Officer to coordinate with the source Agency, the Department of Agriculture, and secure pertinent official documents relative to the return of the animals; and\n\nDirect the Municipal Agriculture Officer to secure the blotter report and the certificate of death of the livestock as one of the requirements for derecognizing the asset, for the animals that had died in the control of the LGU.",
+      "managementAction": "AAR 2019 | The concerned agency/officials are still exerting efforts to gather the reports.\n\n\nThe management followed up the beneficiaries for the latter to submit the certificates of death of the livestock.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-PY3",
+      "year": 2020,
+      "recommendation": "We have recommended that the management should set-up fix dates on the payments of loan amortization taking into consideration the number of days of processing the disbursement voucher in order to avoid premature payments and incurrence of penalties due to late payments. Otherwise, future penalties shall be of personal liability of the official or employee found to be directly responsible thereof.",
+      "managementAction": "AAR 2019 | The management had set fix dates on the payments of loan amortization.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-PY4",
+      "year": 2020,
+      "recommendation": "We have recommended that the management require the LDRRM Council to incorporate a separate caption in the Annual LDRRMF Investment Plan, the programs/projects/activities of the unexpended balances of prior years to maximize its use for speedy realization of the LDRRM objectives.",
+      "managementAction": "AAR 2019 | The LGU had revised and incorporated in the Annual LDRRMF Investment Plan the PPAs charged against the unexpended balances of prior years.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-PY5",
+      "year": 2020,
+      "recommendation": "We have recommended to the management to provide legal basis citing that the said payment of honoraria to the MBOC shall be sourced from the LGU fund and submit a certificate of non-payment of honoraria from the COMELEC Central Office Accountant. Otherwise, request reimbursement from the COMELEC for the total election expenses incurred during the May 13, 2019 National and Local Elections in accordance with Section 10 of the Omnibus Election Code.\n\nUpdated Recommendation based on the COMELEC En Banc Resolution No. 07-0626:\n\nWe have recommended to the management to provide justification that the honoraria or allowance received by the MBOC is not similar to the honorarium or allowance being given by the COMELEC, otherwise it shall be disallowed in audit.",
+      "managementAction": "AAR 2019 | The management submitted COMELEC En Banc Resolution No. 07-0626 as the basis for granting the honoraria to the MBOC.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-PY6",
+      "year": 2020,
+      "recommendation": "We have recommended to the management to adopt and implement cost measures to observe economy in the telephone expenses, as follows:\n\nFormulate a written guidelines on the rates of load allowances and the qualifications of officials and employees that are entitled to load allowances taking into consideration the use of post-paid plan offered by mobile service providers. Set reasonable limits on the use of mobile phones to the entitled officials and employees, and any excess on the limit set shall be for the personal account of the users; and\n\nUtilize the features of the mobile service providers of unlimited call and text to networks.\n\nHowever, if the management opt to continue its practice of buying prepaid load cards, such shall be purchased in bulk following the required procurement procedures and distribute the same in accordance with the guidelines that shall be set.",
+      "managementAction": "AAR 2019 | The management had drafted guidelines on the load allowance provided by the LGU but still for finalization.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-PY7",
+      "year": 2020,
+      "recommendation": "We have recommended that the management:\n\nEnjoin the Municipal Accountant to adhere strictly with Executive Order No. 77 in the processing of traveling expenses, otherwise it shall be disallowed in audit; and\n\n\n\nRefrain from granting cash advance for fuel consumptions for travels from the office to venue or place of destination. Fuel consumptions for government vehicles used to transport officials and employees of the municipality in their official travels should be procured following the required procurement procedures.",
+      "managementAction": "AAR 2019 | Executive Order No. 77 were strictly observed in the travel expenses of LGU officials and employees.\n\n\n\n\nThe management stopped the granting of cash advance for fuel consumptions for travels from the office to place of destination.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-PY8",
+      "year": 2020,
+      "recommendation": "We have recommended to the management to strongly advocate to the principle of the DILG in conducting future similar activities within the territorial jurisdiction of the municipality in adherence to the principle of prudent use of scarce financial resources of the government.",
+      "managementAction": "AAR 2019 | The management prohibits the conduct of seminars and trainings sponsored by the LGU outside the territorial jurisdiction of the municipality.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-PY9",
+      "year": 2020,
+      "recommendation": "We have recommended the following:\nInstruct their canvassers to require the prospective suppliers to indicate the brand names and other detailed item specifications;\n\n\nEnjoin the BAC to conduct evaluation as to the most responsive bid based on brand and other qualitative aspect of the goods;\n\n\n\n\nDirect the General Services Unit to prepare all the purchase orders entered into by the LGU and accomplish properly the P.O.s including the brand names and other detailed specifications of goods to be procured in order to serve the purpose for which the purchase order was prescribed.",
+      "managementAction": "AAR 2019 | The canvassers were instructed to require the prospective suppliers to indicate the brand names.\n\nThe BAC evaluated based on brand and other qualitative aspect of the goods.\n\n\n\n\n\n\nThe brand names were already indicated in the POs.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-PY10",
+      "year": 2020,
+      "recommendation": "We have recommended to the management to enjoin the Municipal Engineer, the BAC and other concerned personnel the immediate submission of the documents to avoid further delay in the conduct of technical review and inspection of the LGU’s projects. Moreover, ensure that documents submitted for contract review shall be complete.",
+      "managementAction": "AAR 2019 | The concerned personnel were still exerting effort to submit all the required documents.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-PY11",
+      "year": 2020,
+      "recommendation": "We have recommended to the management to:\n\nSubmit immediately the Building Permit of the construction of Two-Storey Municipal Hall Building;\n\n\n\nRequire the contractor, in future vertical projects, to secure a Building Permit prior to construction and the Certificate of Occupancy prior to occupation and use by the end-user; and\n\n\nConsider creating a separate division under the Office of the Municipal Engineer to be headed by a technical personnel other than the Municipal Engineer who meets the necessary qualifications provided under PD 1096 and who is not involved in the implementation of government projects, in order to avoid conflict of interest and to have a check and balance mechanism.",
+      "managementAction": "AAR 2019 | The management prepared and submitted the Building Permit.\n\n\n\n\n\nThe management thru Letter dated December 28, 2020 requested the Municipal Council of Bonifacio for the hiring of additional technical personnel with the position of Engineering Assistant and Engineer II.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-PY12",
+      "year": 2020,
+      "recommendation": "We have recommended to require the contractors to post Warranty Security before final payment as prescribed in Section 9.1.1.4 of COA Circular No. 2012-001 for similar transactions in the future.",
+      "managementAction": "AAR 2019 | The management require the posting of Warranty Security before final payment.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-PY13",
+      "year": 2020,
+      "recommendation": "We have recommended to the management to enjoin the LGU GAD Focal Point System to regularly monitor the implementation of GAD PPAs and ensure that the budget is being spent to what it was intended for.",
+      "managementAction": "AAR 2019 | The management ensures that the GAD budget shall be spent only for what it was intended for.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-PY14",
+      "year": 2020,
+      "recommendation": "We have recommended the following:\n\nCreate an Inventory Committee to conduct complete physical inventory count over the LGU’s Property, Plant and Equipment. Physical count of PPEs should be done at least once a year and prepare Report on the Physical Count of Property, Plant and Equipment (RPCPPE) and submit the same to the Office of the Auditor;\n\nDirect the GSO to coordinate with the Municipal Engineer to prepare the road map of the Municipality to facilitate the preparation of a proper inventory and reporting of the Municipality’s road network system; and\n\nDirect the Municipal Engineer to provide the Municipal Accountant and the Municipal GSO with the complete description and cost segregation of road components for road projects.",
+      "managementAction": "AAR 2018 | Created Inventory Committee thru Executive Order last July 2019. \n\n\n\nOn-going plotting of the road network.\n\n\n\nOn-going plotting of the road network.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-PY16",
+      "year": 2020,
+      "recommendation": "Other recommendations were already fully implemented except for the following:\n\nRevisit the Municipal Revenue Code especially on strengthening the collections of fees and charges as to encourage payment on or before due date.",
+      "managementAction": "AAR 2018 | Proposed Revision of the Municipal Code particularly the water system is not yet finalized because of the poor system service.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-PY18",
+      "year": 2020,
+      "recommendation": "We have recommended that the Municipal Budget  Officer and all officials responsible in the preparation of the budget and utilization of funds should observe strictly the guidelines set forth under DILG – DBM Joint Memorandum Circular No. 2017-1 in identifying the programs, projects and activities funded under the 20% Development Fund.",
+      "managementAction": "AAR 2018 | 20% Development Fund were programmed only based on the DILG – DBM Joint Circular.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-PY19",
+      "year": 2020,
+      "recommendation": "Other recommendations were already fully implemented except for the following:\n\nRequire the LDRRMO and Municipal Engineer to coordinate with the proper National Government Agency for the infrastructure audit of the evacuation centers or selection of the suitable sites and proper design in case of building permanent evacuation centers, as the case may be. Require the LDRRMO to take concrete actions on herein noted lacking facilities and the deficiencies noted in infrastructure audit, if any.",
+      "managementAction": "AAR 2018 | The management had requested from the DPWH to conduct Infra Audit and the identified evacuation center had already been inspected by the DPWH personnel.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-PY20",
+      "year": 2020,
+      "recommendation": "We have recommended to the management to instruct the Municipal Planning and Development Office along with the GAD Focal Point System to establish GAD Database for storage of necessary information in aid of effective gender-responsive planning, programming and policy information.",
+      "managementAction": "AAR 2018 | The LGU seek technical assistance from the DILG to establish GAD database.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-PY21",
+      "year": 2020,
+      "recommendation": "Other recommendations were already fully implemented except for the following:\n\nInstruct the Municipal Treasurer to coordinate with the Municipal Assessor on the updated data and information of Real Property Taxes for proper implementation of prescribed remedies and actions to generate more collections.",
+      "managementAction": "AAR 2017 | The MASSO had submitted to the MTO the taxpayers assessment roll.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Misamis-Occidental__Bonifacio_MisOcc-2020-PY22",
+      "year": 2020,
+      "recommendation": "We have recommended for the management to secure from the Philippine Councilors’ League Incorporated, Vice Mayors’ League of the Philippines, and League of Municipalities of the Philippines to issue a government official receipt for all payments made to establish proper financial accountability.",
+      "managementAction": "AAR 2017 | The LGU sent request for issuance of government prescribed OR however, the PCL replied that they will have to settle legal question with the OSG.\n\nThe LGU sent Resolution 28, S-2019 to VMLP and LMP but no reply received.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-PY7",
+      "year": 2019,
+      "recommendation": "Recommendation:\n\nWe have recommended to the management to require the concerned claimants to provide legal basis otherwise refund the amount invalidly claimed.",
+      "managementAction": "The management submitted COMELEC Minute Resolution No. 00-0214 promulgated on 10 Feb. 2000.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended to the management to:\n\nDirect the Municipal Treasurer to prepare a duly certified list of taxpayers with corresponding amount of tax due and collectible for the year which should be the basis of the accounting to set-up RPT/SET Receivable at the beginning of the year; and\nMake representation with the Provincial Government to expedite the completion of the general revision of assessments to determine the accurate real property taxes due.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended to the management to:\n\nEnjoin the Municipal Agriculture Officer to coordinate with the source Agency, the Department of Agriculture, and secure pertinent official documents relative to the return of the animals; and\nDirect the Municipal Agriculture Officer to secure the blotter report and the certificate of death of the livestock as one of the requirements for derecognizing the asset, for the animals that had died in the control of the LGU.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended that the management should set-up fix dates on the payments of loan amortization taking into consideration the number of days of processing the disbursement voucher in order to avoid premature payments and incurrence of penalties due to late payments. Otherwise, future penalties shall be of personal liability of the official or employee found to be directly responsible thereof.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended that the management require the LDRRM Council to incorporate a separate caption in the Annual LDRRMF Investment Plan, the programs/projects/activities of the unexpended balances of prior years to maximize its use for speedy realization of the LDRRM objectives.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended to the management to provide legal basis citing that the said payment of honoraria to the MBOC shall be sourced from the LGU fund and submit a certificate of non-payment of honoraria from the COMELEC Central Office Accountant. Otherwise, request reimbursement from the COMELEC for the total election expenses incurred during the May 13, 2019 National and Local Elections in accordance with Section 10 of the Omnibus Election Code.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended to the management to adopt and implement cost measures to observe economy in the telephone expenses, as follows:\n\nFormulate a written guidelines on the rates of load allowances and the qualifications of officials and employees that are entitled to load allowances taking into consideration the use of post-paid plan offered by mobile service providers. Set reasonable limits on the use of mobile phones to the entitled officials and employees, and any excess on the limit set shall be for the personal account of the users; and\nUtilize the features of the mobile service providers of unlimited call and text to networks.\nHowever, if the management opt to continue its practice of buying prepaid load cards, such shall be purchased in bulk following the required procurement procedures and distribute the same in accordance with the guidelines that shall be set.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We recommended that the management:\nEnjoin the Municipal Accountant to adhere strictly with Executive Order No. 77 in the processing of traveling expenses, otherwise it shall be disallowed in audit; and\nRefrain from granting cash advance for fuel consumptions for travels from the office to venue or place of destination. Fuel consumptions for government vehicles used to transport officials and employees of the municipality in their official travels should be procured following the required procurement procedures.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-OBS8",
+      "year": 2019,
+      "recommendation": "We recommended to the management to strongly advocate to the principle of the DILG in conducting future similar activities within the territorial jurisdiction of the municipality in adherence to the principle of prudent use of scarce financial resources of the government.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-OBS9",
+      "year": 2019,
+      "recommendation": "We recommended that the management:\nInstruct their canvassers to require the prospective suppliers to indicate the brand names and other detailed item specifications;\nEnjoin the BAC to conduct evaluation as to the most responsive bid based on brand and other qualitative aspect of the goods; and\nDirect the General Services Unit to prepare all the purchase orders entered into by the LGU and accomplish properly the P.O.s including the brand names and other detailed specifications of goods to be procured in order to serve the purpose for which the purchase order was prescribed.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-OBS10",
+      "year": 2019,
+      "recommendation": "We recommended to the management to enjoin the Municipal Engineer, the BAC and other concerned personnel the immediate submission of the documents to avoid further delay in the conduct of technical review and inspection of the LGU’s projects. Moreover, ensure that documents submitted for contract review shall be complete.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-OBS11",
+      "year": 2019,
+      "recommendation": "We recommended to the management to:\nSubmit immediately the Building Permit of the construction of Two-Storey Municipal Hall Building;\nRequire the contractor, in future vertical projects, to secure a Building Permit prior to construction and the Certificate of Occupancy prior to occupation and use by the end-user; and\nConsider creating a separate division under the Office of the Municipal Engineer to be headed by a technical personnel other than the Municipal Engineer who meets the necessary qualifications provided under PD 1096 and who is not involved in the implementation of government projects, in order to avoid conflict of interest and to have a check and balance mechanism.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-OBS12",
+      "year": 2019,
+      "recommendation": "We recommended and management agreed to require the contractors to post Warranty Security before final payment as prescribed in Section 9.1.1.4 of COA Circular No. 2012-001 for similar transactions in the future.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-OBS13",
+      "year": 2019,
+      "recommendation": "We recommended to the management to enjoin the LGU GAD Focal Point System to regularly monitor the implementation of GAD PPAs and ensure that the budget is being spent to what it was intended for.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-PY1",
+      "year": 2019,
+      "recommendation": "Recommendations: \n\nWe have recommended the following:\n\nCreate an Inventory Committee to conduct complete physical inventory count over the LGU’s Property, Plant and Equipment. Physical count of PPEs should be done at least once a year and prepare Report on the Physical Count of Property, Plant and Equipment (RPCPPE) and submit the same to the Office of the Auditor;\n\nDirect the GSO to coordinate with the Municipal Engineer to prepare the road map of the Municipality to facilitate the preparation of a proper inventory and reporting of the Municipality’s road network system; and\n\nDirect the Municipal Engineer to provide the Municipal Accountant and the Municipal GSO with the complete description and cost segregation of road components for road projects.",
+      "managementAction": "Creation of Inventory Committee thru Executive Order and conduct partial physical inventory of PPEs.\n\n\nOn-going plotting of the road network.\n\n\n\nOn-going plotting of the road network.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-PY2",
+      "year": 2019,
+      "recommendation": "Recommendation:\n\nWe have recommended to the management to enjoin the Municipal Treasurer and Municipal Accountant to conduct reconciliation of books at least quarterly and to timely recognize reconciling items in their respective books.",
+      "managementAction": "Reconcile record balances monthly and quarterly.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-PY3",
+      "year": 2019,
+      "recommendation": "Recommendations:\n\nWe have recommended the following:\n\nRefrain from granting of additional cash advance unless the previous cash advance given is first settled or proper accounting thereof is made;\n\n\nDemand immediate settlement or liquidation of cash advances and/or cause the withholding of the amount due from the concerned officials and employees to compel them to settle their accounts. Management may resort to legal action if no settlement has been made after sending three (3) demand letters; and\n\nFile a request for authority to write-off for the accounts of the deceased personnel and for those accounts that are deemed dormant and liquidation is futile, to be guided by the procedures contained in COA Circular 2016-005 dated December 19, 2016.",
+      "managementAction": "No additional cash advances were unless previous cash advance given is first settle.\n\nSent demand letters.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-PY4",
+      "year": 2019,
+      "recommendation": "Recommendations:\n\nWe have recommended the following:\n\nImplement the accrual basis of recognizing revenue to conform with the Philippine Public Sector Accounting Standards;\n\nUpdate ledger cards to show the unpaid balance at any given time and other relevant data; \n\nExecute lease contracts to all lessees of the Bonifacio Commercial Center and Bonifacio Public Market;\n\nRevisit the Municipal Revenue Code especially on strengthening the collections of fees and charges as to encourage payment on or before due date; and\n\nExhaust remedies available to the Municipality in the collection of the delinquent accounts.",
+      "managementAction": "Revenue were recognized in the books thru accrual basis.\n\nUpdated ledger cards.\n\nExecuted Lease contracts with all the lessee of BCC & wet market.\n\nProposed revision is still on process.\n\nDisconnections were made to delinquent water consumers.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-PY5",
+      "year": 2019,
+      "recommendation": "Recommendations:\n\nWe have recommended the following:\nPrepare a revised billing statement to the lessee imposing the rates prescribed in the Municipal Revenue Code of 2016;\n\n\nInstall a billing system with appropriate internal control wherein the income and receivables shall be timely recognized; and \n\n\nRevisit the pro-forma lease agreement and consider amendments on above-noted deficiencies with due consideration on a fair and reasonable provisions.",
+      "managementAction": "Updated the Municipal Revenue Code.\n\n\n\n\nMonthly billing statement were prepared and revenue were recognized monthly.\n\nRevised lease agreement.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-PY6",
+      "year": 2019,
+      "recommendation": "Recommendations:\n\nWe have recommended the following:\n\nInstruct the Municipal Accountant to record all fund releases to DCSPGs and liquidations using the following entries:\n\nUpon release to DCSPG:\n\nDue from NGOs/PO\txxx\nCash in Bank, LCCA\txxx\n\nUpon liquidation:\n\nDue to NGAs\t\txxx\nDue from NGOs/PO            xxx\n\nRequire the MSWDO to ensure that liquidation reports received from DCSPG shall be duly supported with complete supporting documents and shall be forwarded to the Accounting Office for the recording of the liquidation.",
+      "managementAction": "Followed the suggested entry.\n\n\n\n\n\n\nLiquidation reports with complete supporting documents were submitted to the accounting office for recording.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-PY8",
+      "year": 2019,
+      "recommendation": "Recommendation:\n\nWe have recommended that the Municipal Budget  Officer and all officials responsible in the preparation of the budget and utilization of funds should observe strictly the guidelines set forth under DILG – DBM Joint Memorandum Circular No. 2017-1 in identifying the programs, projects and activities funded under the 20% Development Fund.",
+      "managementAction": "20% Development Fund were programmed only based on the DILG – DBM Joint Circular.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-PY9",
+      "year": 2019,
+      "recommendation": "Recommendations:\n\nWe have recommended the following:\n\nRequire the LDRRMO and Municipal Engineer to coordinate with the proper National Government Agency for the infrastructure audit of the evacuation centers or selection of the suitable sites and proper design in case of building permanent evacuation centers, as the case may be. Require the LDRRMO to take concrete actions on herein noted lacking facilities and the deficiencies noted in infrastructure audit, if any;\n\nRequire the LDRRMO to renew or update the registration of the rescue vehicle; and\n\nPrioritize the utilization of the 70% LDRRM fund towards compliance of the above-cited circular, including the purchase of additional rescue vehicle in accordance with DBM Budget Circular 2017-1 taking into account the availability of fund and type of calamity frequently occurring in the municipality.",
+      "managementAction": "The management had requested from the DPWH to conduct Infra Audit and the identified evacuation center had already been inspected by the DPWH personnel.\n\n\n\n\nRenewed and updated the registration. \n\nThe LGU had purchased rescue vehicle in CY 2019.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-PY10",
+      "year": 2019,
+      "recommendation": "Recommendation:\n\nWe recommended that the management require the BAC to prepare and submit the approved Procurement Monitoring Report to GPPB in printed and electronic format every semester as required in Section 12.2 of the Revised IRR of R.A. No. 9184.",
+      "managementAction": "Submitted PMR to GPPB thru email was duly acknowledged as received.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-PY11",
+      "year": 2019,
+      "recommendation": "Recommendation:\n\nWe have recommended to the management to instruct the Municipal Planning and Development Office along with the GAD Focal Point System to establish GAD Database for storage of necessary information in aid of effective gender-responsive planning, programming and policy information.",
+      "managementAction": "On the process of collecting data for GAD database.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-PY12",
+      "year": 2019,
+      "recommendation": "Recommendations:\n\nWe have recommended the following:\n\nThe management shall make representation with the depository bank through the Sanggunian Bayan on the adoption of the National Payroll System to distribute salaries via ATM to promote operational efficiency and to avoid robbery or theft; and\n\n\nAdvise the Municipal Accountant to record in the books the applicable cash advances account in consonance with COA Circular 2015-009 dated December 1, 2015 that prescribes the revised chart of accounts for Local Government Units which comply with the requirements of the Philippine Public Sector Accounting Standards.",
+      "managementAction": "SB Resolution on the adoption of national payroll has been approved. \n\n\n\nThe Municipal Accountant used the updated chart of accounts.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-PY13",
+      "year": 2019,
+      "recommendation": "Recommendations:\n\nWe have recommended the following:\n\nInstruct the Municipal Treasurer to coordinate with the Municipal Assessor on the updated data and information of Real Property Taxes for proper implementation of prescribed remedies and actions to generate more collections; and\n\nTo instruct the Municipal Treasurer to initiate tax campaign in the different barangays of the municipality and continue the periodic monitoring of individual targets on all revenue collection personnel against accomplishments.",
+      "managementAction": "On-going reconciliation of records.\n\n\n\n\nPosted Delinquency List to conspicuous areas of the barangay and attended barangay assemblies for tax campaign purposes.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-PY14",
+      "year": 2019,
+      "recommendation": "Recommendation:\n\nWe have recommended for the management to secure from the Philippine Councilors’ League Incorporated, Vice Mayors’ League of the Philippines, and League of Municipalities of the Philippines to issue a government official receipt for all payments made to establish proper financial accountability.",
+      "managementAction": "The PCL is willing to comply with the recommendation, however the NPO did not grant the request of the PCL to procure PCL Official Receipts since PCL is a SEC registered corporation. As to date, COA has not issued guidelines on the printing of ORs for the leagues.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-PY15",
+      "year": 2019,
+      "recommendation": "Recommendations:\n\nWe have recommended the following:\n\nDirect the Municipal Treasurer to enforce payment on the outstanding balances of the homeowners; and\n\n\n\nDirect the Municipal Assessor to facilitate the issuance of certificate of title to the homeowners who has settled their accounts.",
+      "managementAction": "Continuously served demand letter and matters regarding non-payment of some homeowners were brought to the appropriate authorities for their actions.\n\n\nThe management had facilitated the issuance of title. However, the issuance of Certificate of Title is governed by the Register of Deeds not under the Assessor.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-PY16",
+      "year": 2019,
+      "recommendation": "Recommendations:\n\nWe have recommended the following:\n\nDirect the Municipal Engineer to create a team to validate the status of projects falling under such account and facilitate preparation of acceptance report, if necessary; and\n\n\nRequire the Municipal Accountant, on the basis of the validation; close such projects to its proper asset accounts.",
+      "managementAction": "The Municipal Engineer validated the status and prepared acceptance report of all completed projects.\nCompleted projects had already been classified as PPE.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2019-PY17",
+      "year": 2019,
+      "recommendation": "Recommendation:\n\nEffect settlement of the obligation with PhilHealth.",
+      "managementAction": "Liability was already recorded & payment has been made regularly.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended that the management:\nCreate an Inventory Committee to conduct complete physical inventory count over the LGU’s Property, Plant and Equipment. Physical count of PPEs should be done at least once a year and prepare Report on the Physical Count of Property, Plant and Equipment (RPCPPE) and submit the same to the Office of the Auditor;\nDirect the GSO to coordinate with the Municipal Engineer to prepare the road map of the Municipality to facilitate the preparation of a proper inventory and reporting of the Municipality’s road network system; and\nDirect the Municipal Engineer to provide the Municipal Accountant and the Municipal GSO with the complete description and cost segregation of road components for road projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We recommended to the management to enjoin the Municipal Treasurer and Municipal Accountant to conduct reconciliation of books at least quarterly and to timely recognize reconciling items in their respective books.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended that the management should:\nRefrain from granting of additional cash advance unless the previous cash advance given is first settled or proper accounting thereof is made;\nDemand immediate settlement or liquidation of cash advances and/or cause the withholding of the amount due from the concerned officials and employees to compel them to settle their accounts. Management may resort to legal action if no settlement has been made after sending three (3) demand letters; and\nFile a request for authority to write-off for the accounts of the deceased personnel and for those accounts that are deemed dormant and liquidation is futile, to be guided by the procedures contained in COA Circular 2016-005 dated December 19, 2016.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended that the management:\nImplement the accrual basis of recognizing revenue to conform with the Philippine Public Sector Accounting Standards;\nUpdate ledger cards to show the unpaid balance at any given time and other relevant data;\nExecute lease contracts to all lessees of the Bonifacio Commercial Center and Bonifacio Public Market;\nRevisit the Municipal Revenue Code especially on strengthening the collections of fees and charges as to encourage payment on or before due date; and\nExhaust remedies available to the Municipality in the collection of the delinquent accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We recommended that the management:\nPrepare a revised billing statement to the lessee imposing the rates prescribed in the Municipal Revenue Code of 2016;\nInstall a billing system with appropriate internal control wherein the income and receivables shall be timely recognized; and\nRevisit the pro-forma lease agreement and consider amendments on above-noted deficiencies with due consideration on a fair and reasonable provisions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We recommended that the management:\nInstruct the Municipal Accountant to record all fund releases to DCSPGs and liquidations using the following entries:\n\nUpon release to DCSPG:\nDue from Non-Government Organizations/People’s Organizations\t   xxx\nCash in Bank, LCCA\t\t\t\t\txxx\nUpon liquidation:\nDue to NGAs\t\t\t\t\t  xxx\nDue from Non-Government Organizations/People’s Organizations\t     xxx\nRequire the MSWDO to ensure that liquidation reports received from DCSPG shall be duly supported with complete supporting documents and shall be forwarded to the Accounting Office for the recording of the liquidation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS7",
+      "year": 2018,
+      "recommendation": "We have recommended to management to require the concerned claimants to provide legal basis otherwise refund the amount invalidly claimed.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS8",
+      "year": 2018,
+      "recommendation": "In order to ensure that the utilization of 20% Development Fund are for purposes for which the fund is intended, we recommended that the Municipal Budget Officer and all officials responsible in the preparation of the budget and utilization of funds should observe strictly the guidelines set forth under DILG – DBM Joint Memorandum Circular No. 2017-1 in identifying the programs, projects and activities funded under the 20% Development Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS9",
+      "year": 2018,
+      "recommendation": "We recommended that the management:\nRequire the LDRRMO and Municipal Engineer to coordinate with the proper National Government Agency for the infrastructure audit of the evacuation centers or selection of the suitable sites and proper design in case of building permanent evacuation centers, as the case may be;\nRequire the LDRRMO to take concrete actions on herein noted lacking facilities and the deficiencies noted in infrastructure audit, if any;\nRequire the LDRRMO to renew or update the registration of the rescue vehicle; and\nPrioritize the utilization of the 70% LDRRM fund towards compliance of the above-cited circular, including the purchase of additional rescue vehicle in accordance with DBM Budget Circular 2017-1 taking into account the availability of fund and type of calamity frequently occurring in the municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS10",
+      "year": 2018,
+      "recommendation": "We recommended that the management require the BAC to prepare and submit the approved Procurement Monitoring Report to GPPB in printed and electronic format every semester as required in Section 12.2 of the Revised IRR of R.A. No. 9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS11",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS12",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS13",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS14",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS15",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS16",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS17",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS18",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS19",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS20",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS21",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS22",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS23",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS24",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS25",
+      "year": 2018,
+      "recommendation": "We recommended to the management to instruct the Municipal Planning and Development Office along with the GAD Focal Point System to establish GAD Database for storage of necessary information in aid of effective gender-responsive planning, programming and policy information.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-OBS26",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-PY1",
+      "year": 2018,
+      "recommendation": "The management shall make representation with the depository bank through the Sanggunian Bayan on the adoption of the National Payroll System to distribute salaries via ATM to promote operational efficiency and to avoid robbery or theft;\n\nDirect the Municipal Treasurer to generally pay its transactions through issuance of checks or Authority to Debit Account and to ensure that cash advances are granted in accordance with law;\n\nAdvise the Disbursing Officer to ensure that cash advance transactions are within her maximum cash accountability, otherwise, designate another personnel as Special Disbursing Officer if the nature and amount of the transaction so warrant; and\n\nAdvise the Municipal Accountant to record in the books the applicable cash advances account in consonance with COA Circular 2015-009 dated December 1, 2015 that prescribes the revised chart of accounts for Local Government Units which comply with the requirements of the Philippine Public Sector Accounting Standards.",
+      "managementAction": "AAR 2017 | LGU sent a letter to LBP for the request of ATM installation in the Municipal Vicinity.\n\n\nThe Municipal Treasurer pays the transactions through check, ADA, and other updated mode of payment.\n\nThe Municipal Treasurer ensures that cash advance does not exceed the maximum amount of accountability of the DO.\n\nThe Municipal Accountant used the updated chart of accounts.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-PY2",
+      "year": 2018,
+      "recommendation": "Expedite the implementation and completion of the projects in accordance with the guidelines stated in memorandum of agreement with source agency for timely benefit to constituents;\n\nInstruct the Municipal Accountant and Municipal Treasurer to conduct reconciliation of records with source agency for proper recognition of fund transfer balances and full liquidation; and\n\nInstruct the Municipal Treasurer to return to source agencies all unexpended fund balances on all completed projects, and for the Municipal Accountant to draw journal entry voucher to record the return as evidenced by the source agency’s official receipt, otherwise to request for authority to realign said balances for other priority projects.",
+      "managementAction": "AAR 2017 | The municipality fast tracks the implementation of projects and adheres to the MOA.\nThe Municipal Accountant had a reconciliation of accounts with the books of the source agency.\nThe Municipal Treasurer returned to the source agency any excess amount of the fund transferred.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-PY3",
+      "year": 2018,
+      "recommendation": "Instruct the Municipal Treasurer to coordinate with the Municipal Assessor on the updated data and information of Real Property Taxes for proper implementation of prescribed remedies and actions to generate more collections; and\n\nInstruct the Municipal Treasurer to initiate tax campaign in the different barangays of the municipality and continue the periodic monitoring of individual targets on all revenue collection personnel against accomplishments.",
+      "managementAction": "AAR 2017 | The Municipal Treasurer and the Assessor are in close coordination to collect RPT.\n\n\nThe Municipal Treasurer conducted a tax campaign to different barangays and strictly monitors individual targets of the collectors.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-PY4",
+      "year": 2018,
+      "recommendation": "We have recommended for management to strictly comply with COA Circular No. 2009-001 to submit all copies of perfected contracts and purchase orders along with the required relevant supporting documents within five (5) working days from execution/approval.",
+      "managementAction": "AAR 2017 | The municipality submitted contracts and POs to COA within 5 working days from perfection.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-PY5",
+      "year": 2018,
+      "recommendation": "We have recommended that management secure from the Philippine Councilors’ League Incorporated, Vice Mayors’ League of the Philippines, and League of Municipalities of the Philippines to issue a government official receipt for all payments made to establish proper financial accountability.",
+      "managementAction": "AAR 2017 | The municipality sent a letter to the national league to secure official OR.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-PY6",
+      "year": 2018,
+      "recommendation": "Direct the Municipal Accountant to take up the following journal entries to reflect the above mentioned transactions;\n\nDirect the Municipal Treasurer to enforce payment on the outstanding balances of the homeowners; and\n\nDirect the Municipal Assessor to facilitate the issuance of certificate of title to the homeowners who has settled their accounts.",
+      "managementAction": "AAR 2016 | The Municipal Accountant made adjusting entries to account the amount. \n\nThe Municipal Treasurer informed the homeowners of their payable.\n\nThe municipal assessor already initiated the process of transferring the certificates to homeowners.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-PY7",
+      "year": 2018,
+      "recommendation": "Direct the Municipal Engineer to create a team to validate the status of projects falling under such account and facilitate preparation of acceptance report, if necessary.\n\nRequire the Municipal Accountant, on the basis of the validation; close such projects to its proper asset accounts.",
+      "managementAction": "AAR 2016 | The Municipal Engineer validated the status and prepared acceptance report of the project.\n\nThe Municipal Accountant closed the CIP to the appropriate asset account.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2018-PY8",
+      "year": 2018,
+      "recommendation": "Effect settlement of the aforecited obligation with PhilHealth; otherwise, instruct the municipal accountant to record the liability as Due to PhilHealth and the maintenance of subsidiary record; and\n\nDirect the municipal officials concerned to effect collection from the barangays and the constituents the payment of their share in the PhilHealth contribution considering a greater portion of the payable emanates from them.",
+      "managementAction": "AAR 2015 | The municipality entered with an agreement with PHILHEALTH for the gradual payment.\n\nThe LGU shouldered the payment of barangay shares.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We have recommended to management to make representation with the depository bank through the Sanggunian Bayan on the adoption of the National Payroll System to distribute salaries via ATM to promote operational efficiency and to avoid robbery or theft;\nDirect the Municipal Treasurer to generally pay its transactions through issuance of checks or Authority to Debit Account and to ensure that cash advances are granted in accordance with law;\nTo advise the Disbursing Officer to ensure that cash advance transactions are within her maximum cash accountability, otherwise, designate another personnel as Special Disbursing Officer if the nature and amount of the transaction so warrant; and\nTo advise the Municipal Accountant to record in the books the applicable cash advances account in consonance with COA Circular 2015-009 dated December 1, 2015 that prescribes the revised chart of accounts for Local Government Units which comply with the requirements of the Philippine Public Sector Accounting Standards.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommend to management to expedite implementation and completion of the projects in accordance with the guidelines stated in memorandum of agreement with source agency for timely benefit to constituents;\nTo instruct the Municipal Accountant and Municipal Treasurer to conduct reconciliation of records with source agency for proper recognition of fund transfer balances and full liquidation; and\nTo instruct the Municipal Treasurer to return to source agencies all unexpended fund balances on all completed projects, and for the Municipal Accountant to draw journal entry voucher to record the return as evidenced by the source agency’s official receipt, otherwise to request for authority to realign said balances for other priority projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We have recommended to management to instruct the Municipal Treasurer to:\nCoordinate with the Municipal Assessor on the updated data and information of Real Property Taxes for proper implementation of prescribed remedies and actions to generate more collections; and\nInitiate tax campaign in the different barangays of the municipality and continue the periodic monitoring of individual targets on all revenue collection personnel against accomplishments.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We have recommended to management to strictly comply with COA Circular No. 2009-001 to submit all copies of perfected contracts and purchase orders along with the required relevant supporting documents within five (5) working days from execution/approval.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We have recommended to management to secure from the Philippine Councilors’ League Incorporated, Vice Mayors’ League of the Philippines, and League of Municipalities of the Philippines to issue a government official receipt for all payments made to establish proper financial accountability.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2017-PY1",
+      "year": 2017,
+      "recommendation": "Recommendation:\n\nDirect the Municipal  Chairman to strictly adhere to the provisions of RA 9184 on procurement through competitive bidding.",
+      "managementAction": "The BAC will strictly adhere to the provisions of RA 9184 in every procurement activity of the LGU.",
+      "status": "IMPLEMENTED",
+      "reason": "The hired services were separate from making detailed Engineering, since it is only availed of for assistance in gathering data for the DED."
+    },
+    {
+      "id": "Bonifacio_MisOcc-2017-PY2",
+      "year": 2017,
+      "recommendation": "Recommendation:\n\nDirect the Municipal Accountant to strictly adhere to the provisions of COA Circular 2012-001.",
+      "managementAction": "A limit under GAA 2016 is P1,500 per year.",
+      "status": "IMPLEMENTED",
+      "reason": "The GAA for 2016 has a new limit of P1,500."
+    },
+    {
+      "id": "Bonifacio_MisOcc-2017-PY3",
+      "year": 2017,
+      "recommendation": "Recommendation:\n\nDirect the Municipal BAC Chairman to have strict oversight in monitoring the scrutiny of submitted documents as opposed to requirement set forth in the bidding documents.",
+      "managementAction": "The BAC will have a strict evaluation of documents and data to ensure compliance with the procurement law.",
+      "status": "IMPLEMENTED",
+      "reason": "The projects were already completed and the BAC is now strict in their evaluation procedures."
+    },
+    {
+      "id": "Bonifacio_MisOcc-2017-PY4",
+      "year": 2017,
+      "recommendation": "Recommendation:\n\nDirect the Bids and Awards Committee (BAC) Chairman to ensure strict compliance in the evaluation of bids as to completeness of bid and arithmetical calculations as provided by law.",
+      "managementAction": "The BAC will implement strict evaluation of bids as to completeness of documents and calculations of the bids.",
+      "status": "IMPLEMENTED",
+      "reason": "The municipal BAC is now strict in their evaluation procedures."
+    },
+    {
+      "id": "Bonifacio_MisOcc-2017-PY5",
+      "year": 2017,
+      "recommendation": "Recommendation:\n\nDirect the Municipal Accountant to take up the following journal entries to reflect the above mentioned transactions;\n\nDirect the Municipal Treasurer to enforce payment on the outstanding balances of the homeowners.\n\nDirect the Municipal Assessor to facilitate the issuance of certificate of title to the homeowners who has settled their accounts.",
+      "managementAction": "The municipal accountant will make the necessary entries to properly account the subject asset. \n\nThe municipal treasurer will take necessary action for the enforcement of the receivable.\n\nThe municipal assessor will issue the certificate to the fully paid client.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The receivables were not fully collected and corresponding certificate were not issued."
+    },
+    {
+      "id": "Bonifacio_MisOcc-2017-PY6",
+      "year": 2017,
+      "recommendation": "Recommendation:\n\nDirect the Municipal Engineer to create a team to validate the status of projects falling under such account and facilitate preparation of acceptance report, if necessary.\n\nRequire the Municipal Accountant, on the basis of the validation; close such projects to its proper asset accounts.",
+      "managementAction": "The municipal will create a team to validate the projects. And direct the municipal accountant to prepare necessary entry in the books for the transfer of CIP to appropriate accounts.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Those projects which were turned-over and accepted by the municipality were transferred to appropriate asset accounts. There are few which are not yet transferred pending turn-over and acceptance."
+    },
+    {
+      "id": "Bonifacio_MisOcc-2017-PY7",
+      "year": 2017,
+      "recommendation": "Recommendation:\n\nEnsure compliance with Sec. 4 of AO 17 dated July 28, 2011 in the purchase of common-use supplies.\n\nDirect the Supply Officer and BAC to submit Annual Procurement Plan for Common-Use Supplies to the DBM pursuant on the timeline set forth under DBM Circular Letter 2013-14 to ensure availability of supplies once needed.",
+      "managementAction": "The municipality will ensure compliance of AO 17 and submit to the DBM a copy of the APP pertaining to the common-use supplies.",
+      "status": "IMPLEMENTED",
+      "reason": "Purchase of supplies was made through DBM-PS unless unavailable.\n\nAPPs were submitted to DBM-PS"
+    },
+    {
+      "id": "Bonifacio_MisOcc-2017-PY8",
+      "year": 2017,
+      "recommendation": "Recommendation:\n\nEffect settlement of the afore-cited obligation with PhilHealth; otherwise, instruct the municipal accountant to record the liability as Due to PhilHealth and the maintenance of subsidiary record.\n\nDirect the municipal officials concerned to effect collection from the barangays and the constituents the payment of their share in the PhilHealth contribution considering a greater portion of the payable emanates from them.",
+      "managementAction": "The municipality will record and settle the payable account.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The municipality gradually paid the payable as per agreement with the PhilHealth"
+    },
+    {
+      "id": "Bonifacio_MisOcc-2017-PY9",
+      "year": 2017,
+      "recommendation": "Recommendations:\n\nInstruct the Municipal Accountant to maintain PPELC for Land following the subsidiary listing as of December 2015 submitted by the Municipal Assessor to the Municipal Treasurer.\n\nRequire the Municipal Accountant to elect the revaluation model in accounting for Land as prescribed under PPSAS 17 using the 2009 Fair Market Value as assessed by the Municipal Assessor.\n\nDirect the Municipal Assessor to conduct re-assessment on the market value as of December 2015 on the listed land property subject for approval by the Sangguniang Panlalawigan.",
+      "managementAction": "Revalue the Land Account",
+      "status": "IMPLEMENTED",
+      "reason": "The Land Account was already adjusted using the 2009 market values."
+    },
+    {
+      "id": "Bonifacio_MisOcc-2017-PY10",
+      "year": 2017,
+      "recommendation": "Recommendations:\n\nEnjoin strict adherence to existing rules and regulations on the utilization of GAD fund giving priority to areas under item 3.1 of JMC 2013-01; and\n\nDirect the GAD Focal Person to submit GAD Program/Projects and Activities for review and approval by aforementioned oversight agencies.",
+      "managementAction": "The LGU commits to conform with the existing rules and regulations on the utilization of GAD Fund giving priority to areas under item 3.1 of GMC 2013-01.",
+      "status": "IMPLEMENTED",
+      "reason": "The GAD plan is already approved with the oversight agencies."
+    },
+    {
+      "id": "Bonifacio_MisOcc-2017-PY11",
+      "year": 2017,
+      "recommendation": "Recommendation:\n\nWe recommend that the management observe full implementation of its planned LDRRMIP and consider the formulation of disaster risk reduction activities utilizing the previous year’s unexpended appropriation to attain maximum utilization of funds and hasten the realization of a disaster- ready and equipped municipality.",
+      "managementAction": "The municipality will maximize the utilization of funds for the programs and activities as enunciated in the MDRRMIP. However, the 30% QRF can only be utilized upon declaration of state of calamity.",
+      "status": "IMPLEMENTED",
+      "reason": "The municipality updated its plans and monitoring of its programs was undertaken."
+    },
+    {
+      "id": "Bonifacio_MisOcc-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We have recommended to management to direct the Municipal Engineer to create a team to validate the status of projects falling under such account and facilitate preparation of acceptance report, if necessary; and require the Municipal Accountant, on the basis of the validation to draw a JEV to close such projects to its proper asset accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We have recommended to management to direct the Municipal Accountant to take up the following journal entries to reflect the above mentioned transactions:\nAnd direct the Municipal Treasurer to enforce payment on the outstanding balances of the homeowners, and/or file appropriate cases, if necessary; and direct the Municipal Assessor to facilitate the issuance of certificate of title to the homeowners who has settled their accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We have recommended to management to direct the Supply Officer and BAC to submit Annual Procurement Plan for Common-Use Supplies to the DBM pursuant on the timeline set forth under DBM Circular Letter 2013-14 to ensure availability of supplies once needed.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We have recommended to management to direct the Municipal BAC Chairman to have strict oversight in monitoring the scrutiny of submitted documents as opposed to requirement set forth in the bidding documents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We have recommended to management to direct the Bids and Awards Committee (BAC) Chairman to ensure strict compliance in the evaluation of bids as to completeness of bid and arithmetical calculations as provided by law.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We have recommended to management to direct the Municipal BAC Chairman to strictly adhere to the provisions of RA 9184 on procurement through competitive bidding.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bonifacio_MisOcc-2016-PY1",
+      "year": 2016,
+      "recommendation": "Effect settlement of the afore-cited obligation with PhilHealth; otherwise, instruct the municipal accountant to record the liability as Due to PhilHealth and the maintenance of subsidiary record.\n\nDirect the municipal officials concerned to effect collection from the barangays and the constituents the payment of their share in the PhilHealth contribution considering a greater portion of the payable emanates from them.",
+      "managementAction": "Liability already recorded in the books and made arrangement with PHIC on how to comply with such liability",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Verification in the FS"
+    },
+    {
+      "id": "Bonifacio_MisOcc-2016-PY2",
+      "year": 2016,
+      "recommendation": "Direct the Municipal Accountant to take up the said projects in the books and provide for depreciation.\n\nInstruct the Municipal Engineer to ensure that a copy of acceptance and turnover.",
+      "managementAction": "Recorded in the books and",
+      "status": "IMPLEMENTED",
+      "reason": "Recorded in the books"
+    },
+    {
+      "id": "Bonifacio_MisOcc-2016-PY3",
+      "year": 2016,
+      "recommendation": "Instruct the Municipal Accountant take up in their books the receivables due to them with the following entry:\n\nAccounts Receivable  P5,159,484\nPrior year’s adjustment(for CY 2013 & 2014 income)P3,369,951\nRental Income (for CY 2015 income)1,789,533\nTo take up amount due from lessee of heavy equipment\n\nDirect the Municipal Accountant to maintain a subsidiary ledger for the said receivable account.",
+      "managementAction": "Recorded in the books and received partial payments",
+      "status": "IMPLEMENTED",
+      "reason": "The Accounts Receivable was recorded and a total of P340,000 rental income was collected for the period Feb-Oct 2016."
+    },
+    {
+      "id": "Bonifacio_MisOcc-2016-PY4",
+      "year": 2016,
+      "recommendation": "Instruct the Municipal Accountant to maintain PPELC for Land following the subsidiary listing as of December 2015 submitted by the Municipal Assessor to the Municipal Treasurer.\n\n Require the Municipal Accountant to elect the revaluation model in accounting for Land as prescribed under PPSAS 17 using the 2009 Fair Market Value as assessed by the Municipal Assessor.\n\nDirect the Municipal Assessor to conduct re-assessment on the market value as of December 2015 on the listed land property subject for approval by the Sangguniang Panlalawigan.",
+      "managementAction": "Revalue the Land Account",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Land Account was already adjusted using the 2009 market values."
+    },
+    {
+      "id": "Bonifacio_MisOcc-2016-PY5",
+      "year": 2016,
+      "recommendation": "Enjoin strict adherence to existing rules and regulations on the utilization of GAD fund giving priority to areas under item 3.1 of JMC 2013-01; and\n\nDirect the GAD Focal Person to submit GAD Program/Projects and Activities for review and approval by aforementioned oversight agencies.",
+      "managementAction": "Plan already prepared",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Plan verification"
+    },
+    {
+      "id": "Bonifacio_MisOcc-2016-PY6",
+      "year": 2016,
+      "recommendation": "Instruct the maintenance staffs of the Municipal Water System to regularly inspect   all pipe lines or anything disrupting water distribution.\n\nDirect the Municipal Water System in-charge to scout for other water source in order to address the water needs of its constituents since it is a basic necessity and is vital in our day-to-day activities.",
+      "managementAction": "Subsequent projects were cascaded to areas which needed it most.",
+      "status": "IMPLEMENTED",
+      "reason": "Maintenance was extended and projects to alleviate scarcity of water source implemented."
+    },
+    {
+      "id": "Bonifacio_MisOcc-2016-PY7",
+      "year": 2016,
+      "recommendation": "We recommend that the management observe full implementation of its planned LDRRMIP and consider the formulation of disaster risk reduction activities utilizing the previous year’s unexpended appropriation to attain maximum utilization of funds and hasten the realization of a disaster- ready and equipped municipality.",
+      "managementAction": "Plan preparation",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Verification of LDRRMIP"
+    }
+  ]
+}

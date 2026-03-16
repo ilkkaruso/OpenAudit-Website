@@ -1,0 +1,1278 @@
+{
+  "lguCode": "1903609000",
+  "lguName": "Ganassi",
+  "province": "Lanao del Sur",
+  "region": "BARMM",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "Ganassi_LdS_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended that the Local Chief Executive implement the following:\n10) Develop a ten (10)-year Solid Waste Management Plan containing, but not limited to, the components listed in Section 17 of Republic Act No. 9003 in coordination with various sectors within the locality; and\n11) Conduct information and educational campaign at the barangay level with emphasis on their responsibility on solid waste segregation.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LdS_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended to the MPDC and the Municipal Engineer to prepare and submit the List of PPAs for CY 2019 to COA and its quarterly monitoring report, and to strictly observe the guidelines set forth by the Commission to promote transparency and good governance, encourage public participation and right to information.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LdS_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "We recommended that Management, particularly the members of the BAC, to strictly comply with the aforesaid regulations. In case/s of procurement method applied not within the approved Annual Procurement Plan, the BAC through a resolution must recommend to the Head of Procuring Agency the specific alternative method of procurement to be used and secure the prior approval, before resorting to any alternative method of procurement pursuant to Sec. 48.1 and 48.3 of the Revised IRR of RA 9184.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LdS_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "We recommended that Management require the accounting office to submit SB Resolution and other necessary documents to support the claim as evidence and proof of its legality.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LdS_aar2021-PY16",
+      "year": 2021,
+      "recommendation": "We recommended that the Local Chief Executive direct all concerned officials to prepare all necessary records pertaining to the Trust Fund and the necessary adjustments for the transfer of PPE Accounts to the General Fund books.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LdS_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "1.8 We recommended that Management:\na. Require the Inventory Committee to continue the conduct of\ncomplete physical count on all types of PPE, and prepare the\nprescribed annual RPCPPE thereon which shall be submitted to\nthe Accounting Office for reconciliation with the subsidiary\naccounts and balances to ensure reliability of PPE account\nbalances; and\nb. Henceforth, submit the RPCPPE for the year ended December 31,\n2021 to the Audit Team for further review.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LdS_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "2.6 We recommended that Local Chief Executive enjoin the:\na. Municipal Accountant record all purchases of supplies and\nmaterials following the perpetual inventory method and an\ninventory control account should be maintained for each inventory\nitem pursuant to Section 114 of the Manual on NGAS, Volume I; and\nb. The Municipal GSO to maintain stock cards, consolidate weekly the\nRIS using the SSMI to be submitted to the Municipal Accountant,\nwho shall compute the cost of supplies issued and ending inventory\nusing the moving average method as provided under Section 115 of\nthe same mentioned manual and prepare JEV to record the\nappropriate expense accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LdS_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "3.7 We recommended that Management ensure due notification be made\npertaining to the time and date of every scheduled delivery of goods,\nmaterials and services to the Auditor(cid:182)s Office regularly pursuant to\nSection 6.6 of COA Circular No. 95-006.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LdS_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "4.4 We recommended that the Honorable Mayor:\na. Require the MPDO to submit annually (at the beginning of the\nyear) a list of all on-going government PPAs and those that are to\nbe implemented during the year which shall include the project\nname, implementing unit, office or division if not the agency as a\nwhole, brief description of the PPA, contractor or supplier, if any,\nmode of procurement, funding source, cost or approved budget,\nproject duration including start and completion dates, and\nlocation in compliance with item 2.1 of COA Circular No. 2013-\n004;\nb. Inform the Office of the SA and/or the ATL within ten (10) days\nafter the award of the infrastructure project or before the start of\nthe program/activity that appropriate project signboards and/or\npublic notices are already posted pursuant to item 3.1 of the same\nCOA Circular; and\nc. Submit to the ATL monthly monitoring report of the PPAs and\nfaithfully follow the provisions COA Circular No. 2013-004 dated\nJanuary 30, 2013, on the Information and Publicity of PPAs of\nGovernment Agencies.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LdS_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "5.5 We recommended that Management ensure that a copy of contract\n(such as MOA, purchase orders and its pertinent supporting\ndocuments) be submitted for contract review within the prescribed five\n(5)-day period from the execution / issuance of the contract pursuant to\nCOA Circular 2009-001.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LdS_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "6.4 We recommended that Management require the Municipal Accountant\nand MDRRMO to prepare and submit the Report on LDRRMF every\nmonth, whether there is transaction or utilization thereof or none for\nthe period, as required by COA Circular No. 2012-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LdS_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "7.7 We recommended that the Local Chief Executive direct the Municipal\nTreasurer and Municipal Accountant immediately comply with the\nrequirements set forth under Section 100 of PD No. 1445 relative to the\ntimely submission of financial records, reports and disbursement\nvouchers in order to have a reliable basis in the verification and\nanalysis of the financial transactions of the agency.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LdS_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended that the Honorable Municipal Mayor:\n1) Create an Inventory Team to conduct physical count of PPE and submit to the Municipal Accountant the result/report hereof, copy furnish the Auditor; and\n2) Direct the GSO and Municipal Accountant to faithfully maintain Property Cards and PPELC for proper recording and monitoring of properties of the LGU.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LdS_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended that the Honorable Municipal Mayor implement the following:\n3) Direct the MDRRMO, LDC, and Accounting Office to immediately furnish the Audit Team the following: Local Sanggunian Resolution on the use of QRF, LDRRMF Investment Plan and its supplemental plan, Monthly Report on Sources and Utilization of DRRMF and Utilization Report of Transferred Funds from the Granter LGU; and\n4) Direct the Accounting and Budget Officer to maintain registries for recording and ultimately in the presentation of corresponding expense accounts in the Financial Statements.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LdS_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended that the Honorable Municipal Mayor direct the Local Finance Committee, consisting of the Municipal Budget Officer, the Municipal Treasurer and the MPDO to submit the Approved Local Ordinance/ Supplemental Budget for the BGCM Fund and Monthly Report on Fund Utilization and Status of PPAs Implementation and copy of posting of reports and written notice and comply with the maintenance of separate records for the accounting and budgeting of the said fund.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LdS_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended that Management implement the following:\n6) Faithfully comply with the provisions of COA Circular No. 97-002 dated February 10, 1997 and the existing rules and regulations on the proper cash management and reporting;\n7) Direct the Treasurer to complete the details in recording transactions in Cashbooks; and\n8) Establish a sound internal control by issuing checks and recording them in chronological sequence in the Report of Checks Issued and Cashbooks in accordance to Section 42, Volume I of the NGAS Manual for LGUs.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LdS_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended that the Local Chief Executive direct the GSO and Municipal Accountant to faithfully maintain Property Cards, PPELC and RPLC for recording and monitoring of properties of the LGU.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LdS_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended that Local Chief Executive:\n12) Direct the Accountant to refrain from granting cash advances without full liquidation of the previous cash advances granted, and\n13) Submit to the Office of the Auditor the liquidation reports within ten (10) days after the ensuing month of the transactions.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LdS_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommended that Local Chief Executive:\n15) Direct the Municipal Treasurer, Accountant, Budget Officer, MPDC, GSO and GAD Focal Person, to immediately comply and submit copies of deficiencies noted in the Validation Checklist to the Office of the Team Leader for review, and\n16) Direct the same to faithfully accomplish and maintain financial records of all transactions every month.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LdS_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We recommended that the Management:\n17) Re-evaluate policy on the hiring of contractual worker;\n18) Reassess capability of the existing human resource; and\n19) Discontinue contracts of service which might be found unnecessary, and strictly comply with the requisites of law on the procurement of manpower.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LdS_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "We recommended that Management direct the Accounting Office or the Inventory Committee to:\n21) Mobilize additional competent personnel to facilitate the inventory of all PPE items; and\n22) Strengthen the controls on the procedures of PPE handling and recording by performing a periodic reconciliation between the records of the accounting office and the actual property and inventory results.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LdS_aar2021-PY14",
+      "year": 2021,
+      "recommendation": "We recommended that Management conduct inventory of its road networks system and record in the books of accounts its equivalent amount pursuant to Item IX of COA Circular No. 2015-008 dated November 23, 2015.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LdS_aar2021-PY15",
+      "year": 2021,
+      "recommendation": "We recommended that Management:\n25) Create Comprehensive Land Use Plan (CLUP);\n26) Develop Long-Term LDRRMF Plan which will serve as guide in building the calamity preparedness and adaptive capacity in terms of disasters; and\n27) Establish Incident Command System (ICS) to ensure effective consequences management of disaster as explicitly provided in RA 10121.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY1",
+      "year": 2020,
+      "recommendation": "1. Create an Inventory Team to hasten the conduct of physical count of PPE and submit to the Municipal Accountant the result/report hereof, copy furnish the Auditor, and",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY3",
+      "year": 2020,
+      "recommendation": "3. Develop a 10-year Solid Waste Management Plan containing, but not limited to, the components listed in Section 17 of Republic Act No. 9003 in coordination with the various sectors within the locality;",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY5",
+      "year": 2020,
+      "recommendation": "5. Conduct information and educational campaign at the barangay level with emphasis on their responsibility on solid waste segregation.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY7",
+      "year": 2020,
+      "recommendation": "7. Direct the Accountant to refrain from granting cash advances without full liquidation of the previous cash advances;",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY8",
+      "year": 2020,
+      "recommendation": "8. Submit to the Office of the Auditor the liquidation reports within 10 days after the ensuing month of the transactions.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY10",
+      "year": 2020,
+      "recommendation": "10. We recommended to the MPDC and the Municipal Engineer to prepare and submit the PPAs for CY 2019 to COA and its quarterly monitoring report, and to strictly observe the guidelines set forth by the Commission to promote good governance, encourage public participation and right to information.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY18",
+      "year": 2020,
+      "recommendation": "18. We recommended that Management, particularly the members of the BAC, to strictly comply with the aforesaid regulations. In case/s of procurement method applied not within the approved APP, the BAC through a resolution must recommend to the Head of Procuring Agency the specific alternative method of procurement to be used and secure the prior approval, before resorting to any alternative method of procurement pursuant to Sec. 48.1 and 48.3 of the Revised IRR of RA 9184.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY20",
+      "year": 2020,
+      "recommendation": "20. Mobilize additional competent personnel to facilitate the inventory of all PPE items;",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY21",
+      "year": 2020,
+      "recommendation": "21. Strengthen the controls on the procedures of PPE handling and recording by performing a periodic reconciliation between the records of the accounting office and the actual property and inventory results.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY22",
+      "year": 2020,
+      "recommendation": "22. We recommended that Management require the accounting office to submit SB Resolution and other necessary documents to support the claim as evidence and proof of its legality.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY29",
+      "year": 2020,
+      "recommendation": "29. Create Comprehensive Land Use Plan (CLUP);",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY31",
+      "year": 2020,
+      "recommendation": "31. Establish Incident Command System (ICS) to ensure effective consequences management of disaster as explicitly provided in R.A. 10121.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY32",
+      "year": 2020,
+      "recommendation": "32. We recommended that the Local Chief Executive direct all concerned officials to prepare all necessary records pertaining to the Trust Fund and the necessary adjustments for the transfer of PPE Accounts to the General Fund books.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-OBS1",
+      "year": 2020,
+      "recommendation": "1.7 We recommended that the Honorable Municipal Mayor:\na. Create an Inventory Team to conduct physical count of PPE and\nsubmit to the Municipal Accountant the result/report hereof, copy\nfurnish the Auditor; and\nb. Direct the GSO and Municipal Accountant to strictly maintain\nProperty Cards, PPELC and RPLC for proper recording and\nmonitoring of properties of the LGU.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-OBS2",
+      "year": 2020,
+      "recommendation": "2.9 We recommended that the Honorable Municipal Mayor implement\nthe following:\na. Direct the Municipal DRRMO, LDC, and Accounting Office to\nimmediately furnish the Audit Team the following: Local\nSanggunian Resolution on the use of QRF, LDRRMF Investment\nPlan and its supplemental plan, Monthly Report on Sources and\nUtilization of DRRMF and Utilization Report of Transferred\nFunds from the Granter LGU; and\nb. Direct the Accounting and Budget Officer to maintain registries\nfor recording and ultimately in the presentation of corresponding\nexpense accounts in the Financial Statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-OBS3",
+      "year": 2020,
+      "recommendation": "3.13 We recommended that the Honorable Municipal Mayor direct the\nLocal Finance Committee, consisting of the Municipal Budget Officer,\nthe Municipal Treasurer and the Municipal Planning and\nDevelopment Officer (MPDO) to submit the Approved Local\nOrdinance/Supplemental Budget for the BGCM Fund and Monthly\nReport on Fund Utilization and Status of Program/Project/Activity\nImplementation and copy of posting of reports and written notice and\ncomply with the maintenance of separate records for the accounting\nand budgeting of the said fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-OBS4",
+      "year": 2020,
+      "recommendation": "4.15 We recommended that Management implement the following:\na. Faithfully comply with the provisions of COA Circular No. 97-002\ndated February 10, 1997 and the existing rules and regulations on\nthe proper cash management and reporting;\nb. Direct the Treasurer to complete the details in recording\ntransactions in the Cashbooks; and\nc. Establish a sound internal control by issuing checks and recording\nthem in chronological sequence in the Report of Checks Issued\nand Cashbooks in accordance to Section 42, Volume I of the\nNGAS Manual for LGUs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-OBS5",
+      "year": 2020,
+      "recommendation": "5.7 We recommended that the Municipal Treasurer and the Municipal\nAccountant immediately comply with the requirements set forth\nunder Section 100 of P.D. No. 1445 relative to the timely submission of\nfinancial records, reports and disbursement vouchers in order to have\na reliable basis in the verification and analysis of the financial\ntransactions of the agency.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-OBS6",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-OBS7",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-OBS8",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY2",
+      "year": 2020,
+      "recommendation": "2. Direct the GSO and Municipal Accountant faithfully maintain Property Cards, PPELC and RPLC for recording and monitoring of properties of the LGU.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY4",
+      "year": 2020,
+      "recommendation": "4. Create a Municipal Solid Waste Management Board to conduct regular monitoring on the implementation of the Solid Waste Management Plan for the early resolution of the problems, issues and concerns encountered during its implementation;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY6",
+      "year": 2020,
+      "recommendation": "6. Direct the Municipal Treasurer to immediately liquidate cash advances as soon as the purpose has been served;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY9",
+      "year": 2020,
+      "recommendation": "9. We recommended that the Local Chief Executive direct the Municipal Treasurer to prepare and submit the RCD, along with the duplicate of issued ORs and its supporting documents. We also recommend that the Municipal Treasurer prepare and submit the RAAF to the Audit Team for proper monitoring of the accountable forms. Further, the Municipal Accountant, on the basis of the RCDs as submitted by the Municipal Treasurer shall record the collections.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY11",
+      "year": 2020,
+      "recommendation": "11. We recommended the Municipal Accountant to submit the Monthly Reports on the Receipt and Utilization of the DRRMF from January to December 2019 and the LDRRMF Investment Plan, in support to the disbursements made from the same.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY12",
+      "year": 2020,
+      "recommendation": "12. Direct the Municipal Treasurer, Accountant, Budget Officer, MPDC, GSO and GAD Focal Person, to immediately comply and submit copies of deficiencies noted in the Validation Checklist to the Office of the Team Leader for review; and",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY13",
+      "year": 2020,
+      "recommendation": "13. Direct the same to strictly accomplish and maintain financial records of all transactions every month.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY14",
+      "year": 2020,
+      "recommendation": "14. We recommended that Management require the Municipal Disaster Risk Reduction and Management Council (MDRRMC), the annual LDRRMF Investment Plan which shall present the 30% allocation for Quick Response Fund in lump-sum and the 70% allocation for disaster mitigation, prevention and preparedness with details as to projects and activities to be funded pursuant to Section 12(c) of the PDRRMA and COA Circular No. 2012-002.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY15",
+      "year": 2020,
+      "recommendation": "15. Re-evaluate policy on the hiring of contractual worker;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY16",
+      "year": 2020,
+      "recommendation": "16. Reassess capability of the existing human resource;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY17",
+      "year": 2020,
+      "recommendation": "17. Discontinue contracts of service which might be found unnecessary, and strictly comply with the requisites of law on the procurement of manpower.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY19",
+      "year": 2020,
+      "recommendation": "19. We recommended that Management direct the concerned officials to submit copies of Purchase Orders/Contracts and AIR on time to the Auditor’s Office and notify the said office of the delivery of procured items within 24 hours from such acceptance of the time and date of the scheduled deliveries as required under Section A (1-2) of COA Circular No. 96-010 dated August 15, 1996 and Section 118 of the NGAS Manual, Volume I.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY23",
+      "year": 2020,
+      "recommendation": "23. Direct the Municipal Accountant to get the monthly bank statements promptly and regularly;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY24",
+      "year": 2020,
+      "recommendation": "24. Require the Municipal Accountant to prepare and submit the Bank Reconciliation Statements of all bank accounts together with the bank statements and paid checks to the auditor;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY25",
+      "year": 2020,
+      "recommendation": "25. Direct the Municipal Treasurer to reconcile his cashbooks entries with that from the accounting records at least quarterly.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY26",
+      "year": 2020,
+      "recommendation": "26. We recommended that Management conduct inventory of its road networks system and record in the books of accounts its equivalent amount pursuant to Item IX of COA Circular No. 2015-008 dated November 23, 2015",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY27",
+      "year": 2020,
+      "recommendation": "27. We recommended that the Local Chief Executive require the concerned official or the Municipal Assessor to give emphasis on the collection of delinquent real property taxpayers by applying the remedies in collection of delinquent taxes as embodied in Section 254 of R.A. 7160 in order to set up in the books the estimated real property tax collectibles and the special education fund share.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY28",
+      "year": 2020,
+      "recommendation": "28. We recommended that the Management allocate 1% of IRA for establishment of LCPC and implementation of their programs.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Ganassi_LDS-2020-PY30",
+      "year": 2020,
+      "recommendation": "30. Develop Long-Term LDRRMF Plan which will serve as guide in building the calamity preparedness and adaptive capacity in terms of disasters;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended that Management, particularly the members of the BAC, to strictly comply with the aforesaid regulations. In case/s of procurement method applied not within the approved APP, the BAC through a resolution must recommend to the Head of Procuring Agency the specific alternative method of procurement to be used and secure the prior approval, before resorting to any alternative method of procurement pursuant to Sec. 48.1 and 48.3 of the Revised IRR of RA 9184.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended that Management direct the concerned officials to submit copies of Purchase Orders/Contracts and AIR on time to the Auditor’s Office and notify the said office of the delivery of the procured items within 24 hours from such acceptance of the time and date of the scheduled deliveries as required under Section A (1-2) of COA Circular No. 96-010 and Section 118 of the NGAS Manual, Volume I.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-PY11",
+      "year": 2019,
+      "recommendation": "Prepare and maintain PPE Ledger Cards and Property Cards;",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-PY12",
+      "year": 2019,
+      "recommendation": "Strengthen the controls on the procedures of PPE handling and recording by performing a periodic reconciliation between the records of the accounting office and the actual property and inventory results.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-PY14",
+      "year": 2019,
+      "recommendation": "We recommended that Management require the accounting office to submit SB Resolution and other necessary documents to support the claim as evidence and proof of its legality.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-PY16",
+      "year": 2019,
+      "recommendation": "Require the Municipal Accountant to prepare and submit the Bank Reconciliation Statements of all bank accounts together with the bank statements and paid checks to the auditor;",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-PY21",
+      "year": 2019,
+      "recommendation": "Create Comprehensive Land Use Plan (CLUP);",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-PY23",
+      "year": 2019,
+      "recommendation": "Establish Incident Command System (ICS) to ensure effective consequences management of disaster as explicitly provided in R.A. 10121.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-PY24",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive direct all concerned officials to prepare all necessary records pertaining to the Trust Fund and the necessary adjustments for the transfer of PPE Accounts to General Fund books.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-OBS1",
+      "year": 2019,
+      "recommendation": "1.7 We recommended that the Local Chief Executive:\na) Create an Inventory Team to hasten the conduct of physical count of PPE\nand submit to the Municipal Accountant the result/report hereof, copy furnish\nthe Auditor, and\nb) Direct the GSO and Municipal Accountant to faithfully maintain Property\nCards, PPELC and RPLC for proper recording and monitoring of properties of\nthe LGU.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-OBS2",
+      "year": 2019,
+      "recommendation": "2.4 We recommended that the Local Chief Executive:\na) Develop a ten (10)-year Solid Waste Management Plan\ncontaining, but not limited to, the components listed in Section\n17 of Republic Act No. 9003 in coordination with the various\nsectors within the locality;\nb) Create a Municipal Solid Waste Management Board to conduct\nregular monitoring on the implementation of the Solid Waste\nManagement Plan for the early resolution of the problems, issues\nand concerns encountered during its implementation, and\nc) Conduct information and educational campaign at the barangay\nlevel with emphasis on their responsibility on solid waste\nsegregation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-OBS3",
+      "year": 2019,
+      "recommendation": "3.3 We recommended that the Local Chief Executive:\na) Direct the Municipal Treasurer to immediately liquidate cash\nadvances as soon as the purpose has been served;\nb) Direct the Accountant to refrain from granting cash advances\nwithout full liquidation of the previous cash advances granted;\nand\nc) Submit to the Office of the Auditor the liquidation reports within\nten (10) days after the ensuing month of the transactions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-OBS4",
+      "year": 2019,
+      "recommendation": "4.5 We recommended that the Management:\na) Direct the Municipal Treasurer to immediately prepare and submit\nthe RCD, along with the duplicate of issued ORs and its supporting\ndocuments.\nb) Request the Municipal Treasurer to prepare and submit the RAAF\nto the Audit Team for proper monitoring of the accountable forms.\nc) Direct the Municipal Accountant, on the basis of the RCDs as\nsubmitted by the Municipal Treasurer, to record the collections in\nthe Cash Receipt Journal and prepare a Journal Entry Voucher.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-OBS5",
+      "year": 2019,
+      "recommendation": "5.4 We recommended that Management direct the MPDC and the Municipal\nEngineer to prepare and submit the List of PPAs for CY 2019 to COA\nand its quarterly monitoring report, and to faithfully observe the\nguidelines set forth by the Commission to promote good governance,\nencourage public participation and right to information.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-OBS6",
+      "year": 2019,
+      "recommendation": "6.7 We recommended that Management require the Municipal Accountant\nin coordination with the Municipal Disaster Risk Reduction Officer to\nsubmit the Monthly Reports on the Receipt and Utilization of the\nDRRMF from January to December 2019 and the LDRRMF Investment\nPlan, in support to the disbursements made from the same.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-OBS7",
+      "year": 2019,
+      "recommendation": "7.7 We strongly recommended that the Local Chief Executive:\na. Direct the Municipal Treasurer, Accountant, Budget Officer, MPDC,\nGSO and GAD Focal Person, to immediately comply and submit\ncopies of deficiencies noted in the Validation Checklist to the Office\nof the Team Leader for review, and\nb. Direct the same to faithfully accomplish and maintain financial\nrecords of all transactions every month.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-OBS8",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-OBS9",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-PY1",
+      "year": 2019,
+      "recommendation": "Management require the Investment Plant which shall present the 30% allocation for Quick Response Fund in lump-sum and the 70% allocation for disaster mitigation, prevention and preparedness with details as to projects and activities to be funded pursuant to Section 12(c) of the PDRRMA and COA Circular No. 2012-002.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-PY2",
+      "year": 2019,
+      "recommendation": "Re-evaluate policy on the hiring of contractual worker;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-PY3",
+      "year": 2019,
+      "recommendation": "Reassess capability of the existing human resource,",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-PY4",
+      "year": 2019,
+      "recommendation": "Discontinue contracts of service which might be found unnecessary, and strictly comply with the requisites of law on the procurement of manpower.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended that Management continue promoting a gender responsive governance to comply with the government’s objective of promoting and protecting women’s human rights and economic empowerment and to pass a GAD Code to easily determine the PAPs that addresses gender issues and concerns in compliance with Section 37B Rule VI of Republic Act 9710.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommended that the Management identify projects and programs under this fund in accordance with the provision of the DILG and DBM Joint Circular No. 1, Series of 2005, to provide desirable socio-economic development which are beneficial to the constituents and direct the concerned officials to submit the complete necessary documents for audit.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-PY9",
+      "year": 2019,
+      "recommendation": "Mobilize additional competent personnel to facilitate the inventory of all PPE items;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-PY10",
+      "year": 2019,
+      "recommendation": "Classify properly PPE items;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-PY13",
+      "year": 2019,
+      "recommendation": "We recommended that Management require the Municipal Accountant to record purchases of supplies and the like as Inventory Account and record the related expenses account upon issuance of inventories based on RSMI.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-PY15",
+      "year": 2019,
+      "recommendation": "Direct the Municipal Accountant to get the monthly bank statements promptly and regularly;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-PY17",
+      "year": 2019,
+      "recommendation": "Direct the Municipal Treasurer to reconcile his cashbooks entries with that from the accounting records at least quarterly.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-PY18",
+      "year": 2019,
+      "recommendation": "We recommended that Management conduct inventory of its road networks system and record in the books of accounts its equivalent amount pursuant to Item IX of COA Circular No. 2015-008 dated November 23, 2015.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-PY19",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive require the concerned official or the Municipal Assessor to give emphasis on the collection of taxes delinquent real property taxpayers by applying the remedies in collection of delinquent taxes as embodied in Section 254 of R.A. 7160 in order to set up in the books the estimated real property tax collectibles and the special education fund share.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-PY20",
+      "year": 2019,
+      "recommendation": "We recommended that the Management allocate 1% of IRA for the establishment of LCPC and implementation of their programs.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2019-PY22",
+      "year": 2019,
+      "recommendation": "Develop Long-Term LDRRMF Plan which will serve as guide in building the calamity preparedness and adaptive capacity in terms of disasters;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2018-PY10",
+      "year": 2018,
+      "recommendation": "We recommended\nthat the Local Chief\nExecutive direct all\nconcerned officials\nto prepare all\nnecessary records\npertaining to the\nTrust Fund and the\nnecessary\nadjustments for the\ntransfer of Property,\nPlant and\nEquipment\naccounts from\nTrust Fund books to\nGeneral Fund\nbooks.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2018-PY11",
+      "year": 2018,
+      "recommendation": "We recommended\nthat the Management\nwiden utilization of\n20% development\nfund to the three\npriority programs\nand projects such as\nsocial development,\neconomic development\nand environment\nmanagement.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2018-OBS1",
+      "year": 2018,
+      "recommendation": "1.7. We recommended that Management require the Municipal Disaster Risk\nReduction and Management Officer to prepare and submit to the\nSangguniang Bayan, through the Municipal Disaster Risk Reduction\nManagement Council (MDRRMC), the annual Local Disaster Risk\nReduction and Management Fund Investment Plan (LDRRMFIP) which\nshall present the 30 percent allocation for Quick Response Fund in lump-\nsum and the 70 percent allocation for disaster mitigation, prevention and\npreparedness with details as to projects and activities to be funded\npursuant to Section 12 (c) of the PDRRMA and COA Circular No. 2012-\n002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2018-OBS2",
+      "year": 2018,
+      "recommendation": "2.6. We recommended that Management:\n1. Re-evaluate policy on the hiring of contractual worker.\n2. Reassess capability of the existing human resource.\n3. Discontinue contracts of service which might be found\nunnecessary, and strictly comply with the requisites of law on the\nprocurement of manpower.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2018-OBS3",
+      "year": 2018,
+      "recommendation": "3.5. We recommended that the Management, particularly the members of the\nBids and Award Committee, strictly comply with the aforesaid\nregulations. In case/s of procurement method applied not within the\napproved APP, the BAC through a resolution must recommend to the\nHead of Procuring Agency the specific alternative method of procurement\nto be used and secure the prior approval, before resorting to any\nalternative method of procurement pursuant to Sec. 48.1 and 48.3 of the\nrevised IRR of RA 9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2018-OBS4",
+      "year": 2018,
+      "recommendation": "4.4. We recommended that Management:\na. Submit to the Audit Team the list of all on-going government\nPrograms/Projects/Activities (PPAs) and those that are to be\nimplemented during the year.\nb. Inform this office within ten (10) days after the award of the\ninfrastructure project or before the start of the\nPrograms/Projects/ Activities that the appropriate project\nsignboards and/or public notices are already posted, and\nc. Submit to this Office the monthly monitoring report on PPAs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2018-OBS5",
+      "year": 2018,
+      "recommendation": "5.4. We recommended that Management direct the concerned officials to\nsubmit copies of Purchase Orders/Contracts and Acceptance and\nInspection Reports on time to the Auditor’s Office and notify the said\noffice of the delivery of procured items within twenty-four (24) hours\nfrom such acceptance of the time and date of the scheduled deliveries as\nrequired under Section A (1-2) of COA Circular No. 96-010 and Section\n118 of the NGAS Manual, Volume I.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2018-OBS6",
+      "year": 2018,
+      "recommendation": "6.5. We recommended that Management continue promoting a gender\nresponsive governance to comply with the government’s objective of\npromoting and protecting women’s human rights and economic\nempowerment and to pass a GAD Code to easily determine the PAPs that\naddresses gender issues and concerns in compliance with Section 37B\nRule VI of Republic Act No. 9710.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2018-OBS7",
+      "year": 2018,
+      "recommendation": "7.4. We recommended that Management require the accountant, the\nTreasurer and other concerned officials to strictly comply with the\nreporting procedures and deadlines of the submission to the Auditor\noffice.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2018-OBS8",
+      "year": 2018,
+      "recommendation": "8.4. We recommended that the Management identify projects and programs\nunder this fund in accordance with the provision of the DILG and DBM\nJoint Circular No. 1 series of 2005, to provide desirable socio-economic\ndevelopment which are beneficial to the constituents and direct the\nconcerned officials to submit the complete required documents necessary\nfor audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2018-OBS9",
+      "year": 2018,
+      "recommendation": "9.3. We recommended that the Management maximize the utilization of the\nMaterials Recovery Facility (MRF). We also recommend that\nmanagement assist the barangays technically or in any other manner\ndeemed necessary in order to sustain the operation of the MRFs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2018-OBS10",
+      "year": 2018,
+      "recommendation": "10.5. We recommended that Management direct the Accounting Office or the\nInventory Committee to\na. mobilize additional competent personnel to facilitate the inventory\nof all PPE items;\nb. classify properly PPE items;\nc. prepare and maintain PPE ledger Cards and Property Ledgers;\nd. strengthen the controls on the procedures of PPE handling and\nrecording by performing a periodic reconcilation between the\nrecords of the accounting office and the actual property and\ninventory results.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2018-OBS11",
+      "year": 2018,
+      "recommendation": "11.5. We recommended that Management require the Municipal Accountant to\nrecord purchases of supplies and the like as Inventory account and record\nthe related expenses account upon issuance of inventories bases on RSMI.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2018-OBS12",
+      "year": 2018,
+      "recommendation": "12.3. We recommended that Management require the accounting office to\nsubmit SB Resoultion and other necessary documents to suport the claim\nas evidence and proof of its legality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2018-OBS13",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2018-OBS14",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommended that Management;\nDirect the\nMunicipal\nAccountant to\nget the\nmonthly bank\nstatements\npromptly and\nregularly.\n2. Require the\nMunicipal\nAccountant to\nprepare and\nsubmit Bank\nReconciliation\nStatements.",
+      "managementAction": "Agency head\nresponsible\nofficials to\ncomply\nAAR\n2017",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommended\nthat the LCE direct\nthe Municipal\nTreasurer to;\n1. Maintain an\nupdated\ncashbook on a\ndaily basis, by\nfund and or by\nthe collection\naccount.\n2. Prepare and\nsubmit Report\nof Collection\nand Deposit\n(RCD), with\nall its\nsupporting\ndocuments\nwithin the\nreglementary\nperiod set by\nrules.",
+      "managementAction": "Agency head\nresponsible\nofficials to\ncomply\nAAR\n2017",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommended\nthe following\nmeasures, to wit;\na. If no records\ncould be\nfound, start\nrecording the\nactual existence\nof the\nequipment,\nfurniture and\nfixtures by\noffice and if\npossible\nreconstruct the\nrecords.\nb. Instruct the\nGeneral\nServices\nOfficer to\nprovide\nproperty\nnumber of all\nproperties, at\nthe same time,\nmaintain stock\ncards with the\nMunicipal\nAccountant\nwho will\nmaintain a\nsubsidiary\nledger card.\nc. The Municipal\nAccountant\nshould prepare\nnecessary\nadjustments on\nthe\ndeficiencies\nnoted in the\ncourse of\ninventory\ntaking and\nmake\nreconciliation\nwith inventory\nreport, stock\ncards and\nsubsidiary\nledgers.",
+      "managementAction": "Agency head\nresponsible\nofficials to\ncomply\nAAR\n2017",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2018-PY4",
+      "year": 2018,
+      "recommendation": "We recommended\nthat Management\ncomply with the\ntransitory\nprovision on the\nrecognition of\nLocal Road\nNetwork in the\nbooks of\naccounts pursuant\nto item IX of COA\nCircular 2015-008\ndated November\n23, 2015.",
+      "managementAction": "Agency head\nresponsible\nofficials to\ncomply\nAAR\n2017",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommended\nthat the LCE require\nthe concerned\nofficial or the\nMunicipal Assessor\nto give emphasis\non the collection\nof taxes and or\ndelinquent taxes\nby applying the\nremedies\nembodied in\nSection 254 of\nR.A. No. 7160 in\norder to set up in\nthe books the\nestimated real\nproperty tax\ncollectibles and\nthe special\neducation fund\nshare.",
+      "managementAction": "Agency head\nresponsible\nofficials to\ncomply\nAAR\n2017",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2018-PY6",
+      "year": 2018,
+      "recommendation": "We recommended\nthat Management\nallocate one\npercent (1%) of\nIRA for the\nestablishment of\nLocal Council for\nthe Protection of\nChildren (LCPC)\nand the\nimplementation of\ntheir programs.",
+      "managementAction": "Agency head\nresponsible\nofficials to\ncomply\nAAR\n2017",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommended\nthat Management:\n1. Create\nComprehensive\nLand Use Plan\n(CLUP)\n2. Develop\nLong Term\nLDRRMF Plan\nwhich will serve\nas guide in\nbuilding the\ncalamity\npreparedness and\nadaptive capacity\nin terms of\ndisasters.\n3. Establish\ncalamity Incident\nCommand\nSystem (ICS) to\nensure effective\nconsequences\nmanagement of\ndisaster as\nexplicitly provided\nin R.A. No. 10121.",
+      "managementAction": "Agency head\nresponsible\nofficials to\ncomply\nAAR\n2017",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommended\nthat the Local Chief\nExecutive direct the\npreparation of the\nSolid Waste\nManagement Plan\nwhich should be\nreviewed and\nupdated as\nrequired by law to\nensure its\nsustainability,\nrelevance and\neffectiveness; and\ncollaborate the\ncampaign down to\nthe barangay\nofficials concerned.",
+      "managementAction": "Agency head\nresponsible\nofficials to\ncomply\nAAR\n2017",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2018-PY9",
+      "year": 2018,
+      "recommendation": "We recommended\nthat Management:\n1. Allocate for\n5% Calamity Fund\n(LDRRMF) which\nshould be\ntransferred to a\nseparate special\ntrust fund and\nutilized solely for\nLDRRMF purpose\n2. Direct the\nMunicipal\nAccountant to\nsubmit report on\nthe sources and\nutilization of\nDRRMF on a\nmonthly basis,\n3. Prepare and\nsubmit Annual\nDRRM program\nwith specific for\nthe seventy\npercent (70%)\npreparedness and\nthirty percent\n(30%) quick\nresponse.",
+      "managementAction": "Implemented solely for\nLDRRMF\npurpose",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2017-PY3",
+      "year": 2017,
+      "recommendation": "1. Strict compliance with\nthe Laws, Rules and      \nRegulations of LDRRMF    \nimplementation is hereby \nrequired, and Submit     \nAccomplishment Report    \nthereof to the Auditor   \nconcerned for proper     \nevaluation.              \n2. The Municipal         \nAccountant should set    \naside a subsidy to other \nfunds and transfer prior \nyears unexpended and or  \nunobligated balance   of \nthe LDRRMF equivalent to \n30% from the General Fund\nto the Trust Book using  \nTrust Liability – DRRM.   \n3. The Municipal Budget  \nOfficer should likewise  \nmaintain subsidiary      \nledger and records of the\nappropriation            \ncorresponding            \nexpenditures and balances\nof the LDRRMF for the    \ncurrent and previous     \nyears.",
+      "managementAction": "2016\nAAR\n\nAgency head  \norder        \nresponsible  \nofficials to \ncomply",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Accountable \nOfficers are\nlack of     \ntrainings"
+    },
+    {
+      "id": "Ganassi_LDS-2017-PY4",
+      "year": 2017,
+      "recommendation": "•Prioritize the          \ninitiation of physical   \ncount on all PPE as this \nwill help concerned      \nofficials in the proper  \ndischarge of their duties\nand responsibilities     \ntowards fair presentation\nof the agency’s financial\nstatements.              \n• Create an Inventory    \nCommittee to take charge \nin the overall physical   \ncount on PPE and submit  \ncorresponding reports to \nthe office of the auditor\nimmediately thereafter.  \n• The Accounting office  \nand General Services     \noffice/Treasury office   \nshall likewise, maintain \nand update an Equipment  \nLedger Cards and Property\nCards, respectively and  \noftentimes reconcile     \nbalances of each cards   \nmaintained by them and   \nwith the balances in the \nReport on Physical Count \nto be able to reflect     \ncomplete and accurate PPE\nbalance in the financial  \nstatements.              \n• Provision for          \ndepreciation shall be    \naccurately provided on   \nall depreciable assets.",
+      "managementAction": "2016\nAAR\n\nAgency head  \norder        \nresponsible  \nofficials to \ncomply",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Accountable \nOfficers are\nlack        \nTrainings"
+    },
+    {
+      "id": "Ganassi_LDS-2017-PY6",
+      "year": 2017,
+      "recommendation": "Encourage and urge the   \nLocal Chief Executive to \nestablish a sound        \necological solid waste   \nmanagement system and    \nconstitute the           \nMunicipality Solid Waste \nManagement (SWM) Boards  \nin pursuant to Section 2 \n(par. 2), Rule VIII and   \nSection 1, Rule VI of IRR\nof RA 5447.",
+      "managementAction": "2016\nAAR\n\nAgency head  \norder        \nresponsible  \nofficials to \ncomply",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Accountable \nOfficers are\nlack of     \ntrainings"
+    },
+    {
+      "id": "Ganassi_LDS-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommended that Management;\n\n\n        1.  Direct  the  Municipal  Accountant  to  get  the  monthly  bank\n           statements promptly and regularly.\n\n\n        2. Require the Municipal Accountant  to  prepare  and  submit  Bank\n           Reconciliation Statements of all bank accounts together with the\n           bank statements and paid checks to the Auditor\n\n\n        3. Direct  the  Municipal  Treasurer  to  reconcile  his  cashbooks\n           entries  with  that  from  the  accounting  records   at   least\n           quarterly.\n\n\n      Management concurred with our recommendations and committed to  comply\n      with the above provision of rules and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommended that the LCE direct the Municipal Treasurer to;\n       1. Maintain an updated cashbook on a daily basis, by fund and  or  by\n          account.\n       2. Prepare and submit Report of Collection and  Deposit  (RCD),  with\n          all its supporting documents within the reglementary period set by\n          rules.\n\n      Management concurred with our recommendations and committed to  comply\n      with the above provision of rules and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recommended the following measures, to wit;\n\n   a. If no records could be found, start recording the actual existence  of\n      equipment,  furniture  and  fixtures  by  office   and   if   possible\n      reconstruct the records.\n   b. Instruct the General Services Officer to provide  property  number  of\n      all properties, at the  same  time,  maintain  stock  cards  with  the\n      Municipal Accountant who will maintain a subsidiary ledger card.\n   c. The Municipal Accountant should prepare necessary adjustments  on  the\n      deficiencies  noted  in  the  course  of  inventory  taking  and  make\n      reconciliation with  inventory  report,  stock  cards  and  subsidiary\n      ledgers.\n   Management concurred with our recommendations  and  committed  to  comply\n   with the above provision of rules and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We recommended that  Management conduct inventory of its road networks\nsystem and record in the books of accounts its  equivalent  amount  pursuant\nto item IX of COA Circular 2015-008 date November 23, 2015.\n\nManagement concurred with our recommendation and committed  to  comply  with\nthe above provision of rules and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive (LCE)  require  the  concerned\nofficial or the Municipal Assessor to give emphasis  on  the  collection  of\ntaxes and or delinquent real property taxes by applying the remedies in  the\ncollection of delinquent taxes as embodied in Section 254 of R.A.  No.  7160\nin  order  to  set  up  in  the  books  the  estimated  real  property   tax\ncollectibles and the special education fund share.\n\n\nManagement concurred with our recommendation and committed  to  comply  with\nthe above provision of rules and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We recommended that the Management allocate one percent  (1%)  of  IRA\nfor the establishment of  Local  Council  for  the  Protection  of  Children\n(LCPC) and the implementation of their programs.\n\nManagement concurred with our recommendation and committed  to  comply  with\nthe above provision of rules and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2017-OBS7",
+      "year": 2017,
+      "recommendation": "We recommended that Management:\n\n\n   1. Create  Comprehensive Land Use Plan (CLUP)\n\n\n        2. Develop Long Term LDRRMF Plan  which  will  serve  as  guide  in\n           building the calamity  preparedness  and  adaptive  capacity  in\n           terms of disasters.\n\n\n        3. Establish Incident Command  System  (ICS)  to  ensure  effective\n           consequences management of disaster as  explicitly  provided  in\n           R.A. No. 10121.\n\nManagement concurred with our recommendations and committed to  comply  with\nthe above provision of rules and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2017-OBS8",
+      "year": 2017,
+      "recommendation": "We recommended that Management:\n\n\n       a. Direct the Board for the preparation of the Solid Waste Management\n           Plan which should be reviewed and updated as required by  law  to\n          ensure its sustainability, relevance and effectiveness;\n\n\n       b.   Collaborate   the  campaign  down  to  the  barangay   officials\n          concerned;\n\nManagement concurred with our recommendations and committed to  comply  with\nthe above provision of rules and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2017-OBS9",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive\n\n\n       1. Allocate for 5% Calamity Fund which should  be  transferred  to  a\n          separate account special trust fund and utilized solely for LDRRMF\n          purpose activities\n\n\n       2. Direct the Municipal Accountant to submit report  on  the  sources\n          and utilization of DRRMF on a monthly basis,\n\n\n       3. Prepare and submit Annual  DRRM  program  with  specific  for  the\n          seventy percent (70%) preparedness and thirty percent (30%)  quick\n          response.\n   Management concurred with our recommendations  and  committed  to  comply\n   with the above provision of rules and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2017-OBS10",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief  Executive  direct  all  concerned\nofficials to prepare all necessary records pertaining to the Trust Fund  and\nthe necessary adjustments for the transfer of Property, Plant and  Equipment\naccounts from Trust Fund books to General Fund books.\n\n\n      Management concurred with our recommendation and committed  to  comply\nwith the above provision of rules and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2017-OBS11",
+      "year": 2017,
+      "recommendation": "We recommended that the Management widen the allocation of utilization\nof 20% development fund to the three priority programs and projects such  as\nsocial development, economic development and environment management.\n\n      Management concurred with our recommendation and committed  to  comply\nwith the above provision of rules and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2017-OBS12",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2017-OBS13",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2017-OBS14",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2017-OBS15",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2017-PY1",
+      "year": 2017,
+      "recommendation": "It is recommended that   \nthe top management should\ninitiate necessary       \nreforms for fiscal       \nreporting and            \naccountability by:       \nDemonstrating leadership \nby example;              \nTraining personnel to    \ngain work competence     \nand/or hiring additional \nqualified personnel and  \nor restricting existing  \nperson; and              \nEnforcing due compliance \nwith laws, rules and     \nregulations on the       \nrendition of financial   \nreports.                 \n\nIt is further recommended\nthat the top management  \nshould direct the        \nconcerned municipal      \naccountable officer to   \nsubmit promptly the      \nperiodic financial       \nreports together with the\npertinent supporting     \ndocuments to the         \nconcerned local auditor  \nso that timely post-audit\nof transactions could be \nmade and verification of \nthe same could be        \nfacilitated.             \n\nConsequently, the top    \nmanagement could also be \ninformed immediately of  \nany deficiencies/errors  \ndetected and             \ncorrections/adjustments  \nthereof could be effected\nto their advantage.",
+      "managementAction": "2016\nAAR\n\nAgency head  \norder        \nresponsible  \nofficials to \ncomply",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "No competent\npersonnel to\nhandle the\njob."
+    },
+    {
+      "id": "Ganassi_LDS-2017-PY2",
+      "year": 2017,
+      "recommendation": "It is recommend that the \nmanagement should widen  \nthe allocation of        \nutilization of 20%       \ndevelopment fund to the  \nthree priority programs  \nand projects such as     \nsocial development,      \neconomic development and \nenvironment management.",
+      "managementAction": "2016\nAAR\n\nAgency head  \norder        \nresponsible  \nofficials to \ncomply",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Accountable \nOfficers are\nlack of     \ntrainings"
+    },
+    {
+      "id": "Ganassi_LDS-2017-PY5",
+      "year": 2017,
+      "recommendation": "Require the concerned    \nMunicipal Accountant to  \nobserve the keeping of   \naccounts and subsidiary  \nrecords of all accounts  \nin compliance with       \nSection 11 and 114 (2) of\nPresidential Decree No.  \n1445.",
+      "managementAction": "2016\nAAR\n\nAgency head  \norder        \nresponsible  \nofficials to \ncomply",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2017-PY7",
+      "year": 2017,
+      "recommendation": "We recommend that the    \nmanagement observe/adhere\nto the guidelines        \nstipulated in COA        \nCircular No. 2013-004    \ndated January 30, 2013   \nRE: Information and      \nPublicity of Programs,   \nProjects and Activities  \nof government agencies.  \nThis is to promote Good  \nGovernance through       \ntransparency and         \naccountability.",
+      "managementAction": "2016\nAAR",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2017-PY8",
+      "year": 2017,
+      "recommendation": "1. Management should     \nformulate Plans and      \nPrograms for GAD         \nactivities.              \n2. Management should     \nsubmit GAD Accomplishment\nReport to the auditor    \nconcerned.",
+      "managementAction": "2016\nAAR",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2016-PY3",
+      "year": 2016,
+      "recommendation": "We recommend that the Municipal Treasurer and the Municipal ~ Accountant  be it directed to cause the immediate submission of the Report of Collections and  Deposits covering the P 56, 765,888 47 funds received/collected during the year 2015 together with the supporting official receipts and validated deposits slips. We recommend further that the Municipal Treasurer  should strictly adhere to the afore-mentioned rules and regulations. Submit within five (5) days after the end of each month official receipts and validated deposits slips to the Mumcxpll Aeco\\mum!'orpmper in the books of accounts and to ensure that the said reports be submitted to the Auditor within ten (10) days from receipts.",
+      "managementAction": "2015 [ Agency head order AAR",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Officers are lack\n-\nAccountable\nof trainings"
+    },
+    {
+      "id": "Ganassi_LDS-2016-OBS1",
+      "year": 2016,
+      "recommendation": "Recommendation/s:\n\nIt is recommended that the top management should initiate necessary reforms for fiscal\nreporting and accountability by:\n\na. Demonstrating leadership by example;\n\nb, Training personnel to gain work competence and’ or hiring additional qualified\npersonnel giving the right job for the right person; and\n\n¢ Enforcing due compliance with laws, rules and regulations on the rendition of\nfinancial reports.\n\nIt is further recommended that the top management should direct the concerned\nmunicipal accountable officer to submit prompily the periodic financial reports together with the\npertinent supporting documents to the concerned local auditor so that timely post-audit of\ntransactions could be made and verification of the same could be facilitated. Consequently, the\ntop management could also be informed immediately of any deficiencies’errors detected and\ncorrections'adjustments thereof could be effected to their advantage.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2016-OBS2",
+      "year": 2016,
+      "recommendation": "Recommendation/s:\n\nIt is recommend that the management should widen the allocation of utilization of 20%\ndevelopment fund to the three priority programs and projects such as social development,\neconomic development and environment management.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2016-OBS3",
+      "year": 2016,
+      "recommendation": "Recommendation/s:\n\n1. Strict compliance with the Laws, Rules and Regulations of LORRMF implementation is hereby\nrequired, and Submit Accomplishment Report thereof to the Auditor concerned for proper\nevaluation.\n\n2. The Municipal Accountant should set aside a subsidy to other funds and transfer prior years\nunexpended and or unobligated balance of the LDRRMF equivalent to 30% from the General\nFund to the Trust Book using Trust Liability - DRRM.\n\n3. The Municipal Budget Officer should likewise maintain subsidiary ledger and records of the\nappropriation corresponding expenditures and balances of the LDRRMF for the current and\nprevious years.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2016-OBS4",
+      "year": 2016,
+      "recommendation": "Recommendation/s:\n\n*Prioritize the mitiation of physical count on all PPE as this will help concerned officials in the\nproper discharge of their duties and responsibilities towards fair presentation of the agency’s\nSfinancial statements.\n\n* Create an Inventory Committee to take charge in the overall physical count on PPE and submit\ncarresponding reports to the office of the auditor immediately thereafier.\n\n* The Accounting office and General Services office I reasury office shall likewise, maintain and\n\nupdate an Equipment ledger Cards and Property Cards, respectively and ofientimes reconcile\nbalances of each cards maintained by them and with the balances in the Report on Physical\nCount to be able to reflect complete and accurate PPE balance in the financial statements.\n\n* Provision for depreciation shall be accurately provided on all depreciable assets.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2016-OBS5",
+      "year": 2016,
+      "recommendation": "Recommendation/s:\n\nRequire the concerned Municipal Accountant to observe the keeping of accounts and\nsubsidiary records of all accounts in compliance with Section 11 and 114 (2) of Prestdential\nDecree No. 1445. Furthermore, direct him to conduct a thorough inquiry and verification on the\ncircumstances surrounding the existence of those dormant accounts, and their proper disposition\nas prescribed by applicable COA regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2016-OBS6",
+      "year": 2016,
+      "recommendation": "Recommendation/s:\nEncourage and urge the Local Chief Executive to establish a sound ecological solid\nwaste management system and constitute the Municipality Solid Waste Management (SWM)\nBoards in pursuant to Section 2 (par. 2), Rule VIII and Section 1, Rule VI of IRR of RA 5447,",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2016-OBS7",
+      "year": 2016,
+      "recommendation": "Recommendation/s:\n\nWe recommend that the management observe/adhere 10 the guidelines stipulated in COA\nCircular No. 2013-004 dated January 30, 2013 RE: Information and Publicity of Programs,\nProjects and Activities of government agencies. This is 1o promote Good Governance through\ntransparency and accountability.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2016-OBS8",
+      "year": 2016,
+      "recommendation": "Recommendation/s:\n\n1. Management should formulate Plans and Programs for GAD activities.\n2. Management should submit GAD Accomplishment Report to the auditor concerned,",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2016-PY1",
+      "year": 2016,
+      "recommendation": "the physical inventory of its properties, plant and equipment and submit the related Report of the Physical Count on the Property, Plant and Equipment (RPCPPE) using the prescribed format to the Auditor for Section 124 of the NGAS Manual for Local Government Units (LGUs), Volume 1.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "el theJob"
+    },
+    {
+      "id": "Ganassi_LDS-2016-PY2",
+      "year": 2016,
+      "recommendation": "We  recommend Municipal Account be directed to make the adjustments in the books of accounts for the transfer of the subject PPE accounts from the Trust Fund books to the General Fund, take up the unrecognized Income from Donations and provide the corresponding depreciation_expenses_Prepare the related  Journal  Entry Voucher and submit the same to the Auditor for audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2016-PY4",
+      "year": 2016,
+      "recommendation": "We reco! and management agreed to strictly with the provision of COA Circular No. 2012-002 dated September 12, 2012 specifically on the reporting for the LDRRMF. The Municipal Accountant should be directed to set up a special trust fund account for any unexpended balance of the LDRRMF to properly track the utilization of the fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2016-PY5",
+      "year": 2016,
+      "recommendation": "We recommend that management  should initiate measures designed to come up with a Memorandum of Agreement (MOA) with the GSIS  defining therein  the agreed balance of payables to GSIS, if any, and the terms and conditions in the settlement thereof. The following steps may help in facilitating reconciliation of records,\n\n& Secure detailed profile of payables per GSIS records;\n\nb. Reconstruct old GSIS\n\nsccounts, if necessary,",
+      "managementAction": "2015 AAR",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Ganassi_LDS-2016-PY6",
+      "year": 2016,
+      "recommendation": "Rej",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    }
+  ]
+}

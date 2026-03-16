@@ -1,0 +1,974 @@
+{
+  "lguCode": "405627000",
+  "lguName": "Mauban",
+  "province": "Quezon",
+  "region": "Region III (Central Luzon)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "Mauban_Quezon_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Municipal Accountant and the Municipal General Services Officer to determine the composition of the unaccounted balance of P29,629,786.28 and provide necessary details to validate its inclusion in the balance of Land account as of December 31, 2020 for the fair presentation in the financial statements as required under Paragraph 27 of IPSAS 1.",
+      "managementAction": "Efforts were undertaken to determine the composition of the unaccounted balance of P29,629,786.28 but to no avail.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The composition of the unaccounted balance of P29,629,786.28 was still not determined because there are other concerns that were given priority by the Municipality."
+    },
+    {
+      "id": "Mauban_Quezon_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the:\n• Municipal Accountant and the Municipal General Services Officer to undertake\ncomplete reconciliation of their records by determining the details of the\n“Unaccounted” items in their respective records;\n• Municipal General Services Officer to complete the conduct of physical\ninventory; and\n• Municipal Accountant to identify the specific PPE items for entries made in the\nledgers without description, and any adjustments, if warranted, should be\nmade in order that the existence, accuracy and valuation of the PPE could be\nascertained/established.\n\nWe also recommended that the Audit Team be provided with the proof of reconciliation\nand adjustments made for verification purposes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal General Services\nOfficer to coordinate with the Municipal Accountant in order to further determine the\ncomposition of the unaccounted balances in the Land account for its fair presentation\nin the Financial Statements, as these balances could be the 45 lots duly supported with\nOCT/TCT under the name of the Municipality.\n\nWe also recommended that the Municipal Mayor require the Municipal General\nServices Officer to continue exerting efforts to cause the immediate titling of the 16\nparcels of land in the name of the Municipality to avoid possible third-party claims that\nmay arise in the future.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor:\n• require the Appraisal and Disposal Committee to prepare an updated IIRUP with\ndetails that match the data reflected in the RPCPPE to serve as an appropriate\nand reliable basis in the event of disposal of unserviceable properties, and\nsubmit the same to the Audit Team, together with its supporting documents;\n• cause the immediate disposal of the unserviceable properties in order to\nmaximize any realizable value from their disposal by sale in accordance with the\nexisting regulations;\n• require the Municipal Accountant to prepare the necessary adjusting entries for\nthe derecognition of the unserviceable properties upon disposal based on\nParagraph 82 of IPSAS 17; and\n• ensure that the disposal of property either thru public bidding or negotiated sale is\nproperly documented and duly authorized.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendations that the Municipal Mayor require the:\n• Municipal Social Welfare and Development Officer, the Municipal Agriculturist, the\nMunicipal Tourism Officer, the Municipal Environment and Natural Resources\nOfficer to conduct visitorial and monitoring of the projects and to continue exerting\neffort to collect the receivables from the concerned beneficiaries.\n• Municipal Treasurer to:\n➢ prepare schedule of beneficiaries of livelihood projects and payment thereof\nper program/project basis and account the nature of livelihood collections\ntotaling P341,361.91; and\n➢ adopt efficient collection strategies to enforce collection from the concerned\nbeneficiaries to ensure the recovery of the amount released to the\nbeneficiaries.\n• Municipal Accountant to:\n➢ continue to reconcile the records with the Municipal Treasurer’s Office; and\n➢ conduct regular and periodic verification, analysis, and validation of the\nexistence of the receivables and determine the concerned debtors to ensure\nthat these are collected when these become due and demandable in\ncompliance with the requirements of COA Circular No. 2016-005.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant and the Municipal General Services Officer to exert extra effort to undertake complete reconciliation of their records by determining the details of the “Unaccounted” items in their respective records; to determine the unaccounted balances; to provide the Audit Team with the proof of reconciliation and adjustments made for verification purposes; and to set up the provision for Allowance for Impairment and revert to Loans Receivable-Others account the amounts that were reclassified to Other Receivables without valid basis; and adopt programs for sustainability of the livelihood programs.",
+      "managementAction": "The Municipal General Services Officer agreed to undertake complete reconciliation by determining the details of the “Unaccounted” items in their respective records. Moreover, the Municipal Accountant committed to identify the specific PPE items for entries made in the ledgers without description.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reconciliation, although undertaken is still incomplete. The ``Unaccounted'' items of PPE were trimmed down in their records but there are items were not covered during the conduct of physical inventory."
+    },
+    {
+      "id": "Mauban_Quezon_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal General Services Officer to coordinate with the Municipal Accountant in order to further determine the composition of the unaccounted balances in the Land account for its fair presentation in the Financial Statements, as these balances could be the 45 lots duly supported with OCT/TCT under the name of the Municipality.\nWe also recommended that the Municipal Mayor require the Municipal General Services Officer to continue exerting efforts to cause the immediate titling of the 16 parcels of land in the name of the Municipality to avoid possible third-party claims that may arise in the future.",
+      "managementAction": "The Management, through the Offices of the Municipal Accountant and Municipal General Services Officer, agreed to determine the composition of the unaccounted balances in the Land account, to seek assistance from the Municipal Assessor’s Office as the unaccounted balances could be the 45 lots duly supported with OCT/TCT under the name of the Municipality, and to suggest additional funding for the titling of the lots that are not yet titled.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Of the 22 untitled lots, four were identified to be actually titled and two were titled in CY 2021; the two remaining 16 lots are still not titled in the name of the Municipality; there are still unaccounted balances in both the General and Special Education Funds; difficulty in identifying the unaccounted balances was encountered."
+    },
+    {
+      "id": "Mauban_Quezon_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor: • require the Appraisal and Disposal Committee to provide the necessary and heavy information lacking in the IIRUP for the proper matching of the unserviceable properties carried in the PPE account; • submit to the Audit Team the duly updated IIRUPs together with its supporting documents; • cause the immediate disposal of the unserviceable properties to maximize realizable value from disposal by sale in accordance with existing regulations; • require the Municipal Accountant to prepare the necessary adjusting entries for the derecognition of the unserviceable properties upon disposal; and • ensure that the disposal of property either thru public bidding or negotiated sale is properly documented and duly authorized.",
+      "managementAction": "The Municipal General Services Officer, in her letter dated May 10, 2022, mentioned that the IIRUPs previously submitted to the Audit Team relative to the unserviceable PPEs for disposal are awaiting inspection. She further commented that they will again wait for the unserviceable PPEs to be inspected by the COA Technical Services and will then cause the immediate disposal thereof.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The lacking information in the previously submitted IIRUPs rendered them inappropriate to be used as basis for adjusting the accounts; the IIRUP submitted in CY 2021 include several unserviceable properties that are neither in the books of accounts nor in the RPCPPE; disposal has not yet commenced; items are awaiting inspection."
+    },
+    {
+      "id": "Mauban_Quezon_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the: • Municipal Social Welfare and Development Officer, the Municipal Agriculturist, the Municipal Tourism Officer, the Municipal Environment and Natural Resources Officer to conduct visitorial and monitoring of the projects and to continue exerting effort to collect the receivables from the concerned beneficiaries. • Municipal Treasurer to: ➢ prepare schedule of beneficiaries of livelihood projects and payment thereof per program/project basis and account the nature of livelihood collections totaling P341,361.91; and ➢ adopt efficient collection strategies to enforce collection from the concerned beneficiaries to ensure the recovery of the amount released to the beneficiaries. • Municipal Accountant to: ➢ continue to reconcile the records with the Municipal Treasurer’s Office; and ➢ conduct regular and periodic verification, analysis, and validation of the existence of the receivables and determine the concerned debtors to ensure that these are collected when these become due and demandable in compliance with the requirements of COA Circular No. 2016-005.",
+      "managementAction": "The Municipal Accountant, in her letter dated May 11, 2022, informed the Audit Team that the she will continue to reconcile her records with the Municipal Treasurer’s Office, and that efficient collection strategies will be adopted by the Management. The Municipal Treasurer, in her reply per letter received by the Audit Team on May 13, 2022, mentioned that they already have an updated schedule of beneficiaries of various livelihood projects and that they are regularly sending notices of delinquency.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Difficulty in enforcing collections from the beneficiaries. Some beneficiaries considered the projects as assistance not loan; reconciliation is still ongoing; some data and beneficiary details are not yet identified."
+    },
+    {
+      "id": "Mauban_Quezon_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer and the Municipal Accountant to continue exerting efforts in completing the reconciliation of the cash accounts and adjust any discrepancies that will be noted in order to establish the correct balances for the fair presentation of the cash accounts in the financial statements in accordance with Paragraph 27 of IPSAS 1.",
+      "managementAction": "Efforts were given by both the Municipal Treasurer and the Municipal Accountant in completing the reconciliation of the cash accounts. The Municipal Treasurer reconciling the cash accounts.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to record the purchases of supplies and materials initially under the appropriate asset account and recognize the expense account once the inventories are consumed/distributed in accordance with IPSAS 12; and direct the Municipal Treasurer to refrain from procuring goods on reimbursement basis and adhere to the procurement procedures provided in GPPB Circular No. 01-2020 in order to prevent abuses and corruption in the procurement process.",
+      "managementAction": "The Municipal Accountant now records the purchases of supplies and materials initially under the appropriate asset account and recognizes the expense once the inventories are consumed/distributed. The Municipal Treasurer has refrained from reimbursement basis procurement and is adhering to procurement procedures.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor: • require the Municipal Accountant to set up a receivable account for the market fees of all the market stallholders; • require the Municipal Treasurer to continue to exert effort to collect from delinquent stallholders; and • adopt efficient collection strategies to enforce collection from the concerned stallholders.",
+      "managementAction": "A receivable account for the market fees was already set up by the Municipal Accountant. The Municipal Treasurer is trying to adopt collection strategies and is regularly sending notices to delinquent stallholders. The Municipality adopted efficient collection strategies.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Treasurer to give notice to the payees or holders of checks at least one (1) month before the checks become stale and adjust the affected accounts for stale checks upon return/surrender of the same for cancellation and replacement pursuant to existing regulations on stale checks.",
+      "managementAction": "The affected accounts have been adjusted.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor seek the help/assistance of the Provincial Legal Officer, or the Provincial Prosecutor, or the representation of a private counsel, or any other appropriate action necessary for the repossession of the Municipal Asphalt Plant for the benefits of Mauban and its constituents.",
+      "managementAction": "The Municipal Mayor agreed to continue to protect the interest of the Municipality by seeking the help/assistance of the Provincial Legal Officer which resulted as to a scheduled meeting with the owner of PROASPA. However, it was due to the many cases handled by the Provincial Legal Officer that the meeting did not push through.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "No proof of communication with the Provincial Legal Officer was provided to the Audit Team; the meeting did not push through due to schedule conflicts."
+    },
+    {
+      "id": "Mauban_Quezon_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal General Services Officer to continue exerting efforts in facilitating the application for insurance coverage of all the insurable properties of the Municipality with the GSIS, including those that are newly acquired, considering that funds have been provided in the CY 2021 budget, in compliance with the provisions of COA Circular No. 92-390 and RA No. 656.",
+      "managementAction": "Through the efforts of the Municipal General Services Officer, the Municipality was able to insure various properties in CY 2021.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal Disaster Risk Reduction and Management Officer to maximize the utilization of LDRRM Fund through proper planning so that all its planned PPAs for disaster risk management are fully implemented on the targeted implementation period to ensure the Municipality’s preparedness to natural and man-made hazard/disasters.",
+      "managementAction": "Utilization of LDRRM Fund through proper planning has been maximized in CY 2021.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Disaster and Risk Reduction Management Officer to prepare the: • Summary/List of Donations Received, Distributed and Balances for In-kind Donations; • Report on the Receipt and Utilization of Cash Donations; • Report on the Receipt and Distribution/Issuance of Donated Relief Goods; and • Report on the Receipt and Distribution/Issuance of Donated PPE; and furnish the same to the NDRRMC, through the OCD, copy furnished the Audit Team within 10 working days after the end of each quarter pursuant to COA Circular Nos. 2014-002 and 2020-009.",
+      "managementAction": "The required summary/list has been duly prepared and submitted by the Municipal Disaster and Risk Reduction Management Officer to the Municipal Administrator.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Mauban_Quezon-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant and the General Services Officer to continue to exert extra effort to determine the composition of the unaccounted balance of P29,629,786.28 and provide necessary details to validate its inclusion in the balance of Land account as of December 31, 2019 for the fair presentation in the financial statements as required under Paragraph 27 of IPSAS 1.",
+      "managementAction": "The retrieval of documents is still ongoing but is done only during the free time.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Difficulty in locating records in order to determine the composition of the unaccounted balance under the General Fund of the Land account."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Mauban_Quezon-2020-PY10",
+      "year": 2020,
+      "recommendation": "We recommended and the Municipal Mayor agreed to continue to protect the interest of the Municipality by seeking the help/assistance of the Provincial Legal Officer or Prosecutor, or the Provincial Fiscal as provided under Section 31, Article III of RA No. 7160, and Section 1683 of Act No. 2711, an Act Amending the Administrative Code, respectively, for the re-filing of the case in view of its dismissal due to the representation of a private counsel, or for any other appropriate action necessary for the repossession of the Municipal Asphalt Plant for the benefits of Mauban and its constituents.",
+      "managementAction": "There was an ongoing consultation between the Municipality and Provincial Attorney’s Office representative for the repossession of the Municipal Asphalt Plant for the benefit of Mauban as indicated in the AAPSI for the CY 2019 AAR for the plan of action for CY 2020.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No other information given."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Mauban_Quezon-2020-PY12",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal Disaster Risk Reduction and Management Officer to maximize the utilization of LDRRM Fund through proper planning so that all its planned PPAs for disaster risk management are fully implemented on the targeted implementation period to ensure the Municipality’s preparedness to natural and man-made hazard/disasters.",
+      "managementAction": "Proper planning was done but due to the emergency situation the implementation was affected and there was a project that was not started until the end of the year.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "There were delays in implementation as the bidding was done and completed on the third quarter of the year which is close to year end. Also, there were delays due to the restrictions brought about by the COVID-19 pandemic. Reiterated under audit observation no. 12, Part II of this Report."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Mauban_Quezon-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal\nAccountant and the Municipal General Services Officer to undertake complete reconciliation of their\nrecords by determining the details of the “Unaccounted” items of P103,515,048.49 and\nP172,200,012.28 in their respective records, and the Municipal Accountant to identify\nthe specific PPE items for entries made in the ledgers without description, and any\nadjustments, if warranted, should be made in order that the existence and valuation of\nthe PPE could be ascertained/established for the fair presentation of the PPE accounts\nin the financial statements in accordance with Paragraph 27 of IPSAS 1.\nWe also recommended that the Municipal Mayor require the Municipal Accountant to\nprovide the Audit Team with the proof of reconciliation and adjustments made for\nverification purposes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Mauban_Quezon-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal General\nServices Officer to continue exerting efforts to cause the immediate titling of the 22 lots in the\nname of the Municipality to avoid possible third-party claims that may arise in the\nfuture.\nWe also recommended that the Municipal Mayor instruct the Municipal General\nServices Officer to coordinate with the Municipal Accountant in order to:\n• include in the RPCPPE and in the books of accounts the total of 10 lots reported in\nthe list of lots owned by the Municipality but were not supported with TCT;\n• supply the necessary information in the RPCPPE and books of accounts for the\nproper matching of the lots with the cost to account for the land; and\n• determine the composition of the unaccounted balance in the Special Education\nFund for the fair presentation of the Land account in the Financial Statements as\nrequired under Paragraph 27 of IPSAS 1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Mauban_Quezon-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Municipal\nAccountant and the Municipal General Services Officer to allocate enough time and\ncontinue to exert extra effort to determine the composition of the unaccounted balance\nof P29,629,786.28 and provide necessary details to validate its inclusion in the balance\nof Land account as of December 31, 2020 for the fair presentation in the financial\nstatements as required under Paragraph 27 of IPSAS 1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Mauban_Quezon-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor:\n• require the Appraisal and Disposal Committee to provide the necessary information\nlacking in the IIRUP for the proper matching of the unserviceable properties carried\nin the PPE account;\n• submit to the Audit Team the duly accomplished IIRUP together with its supporting\ndocuments;\n• cause the immediate disposal of the unserviceable properties in order to maximize\nany realizable value from their disposal by sale in accordance with the existing\nregulations;\n• require the Municipal Accountant to prepare the necessary adjusting entries for the\nderecognition of the unserviceable properties upon disposal based on Paragraph 82\nof IPSAS 17 for the fair presentation of the financial statements pursuant to\nParagraph 27 of IPSAS 1; and\n• ensure that the disposal of property either thru public bidding or negotiated sale is\nproperly documented and duly authorized.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Mauban_Quezon-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require:\n➢ the Municipal Social Welfare and Development Officer, the Municipal Agriculturist,\nthe Municipal Tourism Officer, the Municipal Environment and Natural Resources\nOfficer to conduct visitorial and monitoring of the projects and to continue exerting\neffort to collect the receivables from the concerned beneficiaries.\n➢ the Municipal Treasurer to:\n• prepare schedule of beneficiaries of livelihood projects and payment thereof per\nprogram/project basis and account the nature of livelihood collections totaling\nP835,246.66; and\n• adopt efficient collection strategies to enforce collection from the concerned\nbeneficiaries to ensure the recovery of the amount released to the beneficiaries.\n➢ the Municipal Accountant to:\n• continue to reconcile the records with the Municipal Treasurer’s Office;\n• identify the unaccounted balance of P169,884.56 in Other Receivables account;\nand\n• revert to Loans Receivable-Others the amount of P13,129,122.40 reclassified to\nOther Receivables; and\n• in the meantime, set up the provision for Allowance for Impairment in order to\npresent fairly the Loans Receivable-Others and Other Receivables accounts in\nthe financial statements at net realizable amount consistent with the\nrequirements of COA Circular No. 2016-005 and for the fair presentation of these\naccounts in the financial statements as required under Paragraph 27 of IPSAS\n1.\nWe further recommended that the Municipality adopt programs the sustainability of\nwhich is ensured.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Mauban_Quezon-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer and the\nMunicipal Accountant to continue exerting efforts in completing the reconciliation of\nthe cash accounts and adjust any discrepancies that will be noted in order to establish\nthe correct balances for the fair presentation of the cash accounts in the financial\nstatements in accordance with Paragraph 27 of IPSAS 1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Mauban_Quezon-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor:\n• require the Municipal Accountant to record the purchases of supplies and materials\ninitially under the appropriate asset account and recognize the expense account\nonce the inventories are consumed/distributed in accordance with IPSAS 12; and\n• direct the Municipal Treasurer to refrain from procuring goods on reimbursement\nbasis and adhere to the procurement procedures provided in GPPB Circular No. 01-\n2020 in order to prevent abuses and corruption in the procurement process.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Mauban_Quezon-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor:\n• require the Municipal Accountant to set up a receivable account for the market fees\nof all the market stallholders;\n• require the Municipal Treasurer to continue to exert effort to collect from delinquent\nstallholders the amount of P811,436.50; and\n• adopt efficient collection strategies to enforce collection from the concerned\nstallholders.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Mauban_Quezon-2020-OBS9",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to adjust\nthe affected accounts for stale checks upon return/surrender of the same for\ncancellation and replacement pursuant to existing regulations on stale checks.\nHenceforth, we recommended that the Municipal Mayor require the Municipal Treasurer\nto give notice to the payees or holders of checks at least one (1) month before the\nchecks become stale.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Mauban_Quezon-2020-OBS10",
+      "year": 2020,
+      "recommendation": "We recommended and the Municipal Mayor agreed to continue to protect the interest\nof the Municipality by seeking the help/assistance of the Provincial Legal Officer or\nProsecutor, or the Provincial Fiscal as provided under Section 31, Article III of RA No.\n7160, and Section 1683 of Act No. 2711, an Act Amending the Administrative Code,\nrespectively, for the re-filing of the case in view of its dismissal due to the\nrepresentation of a private counsel, or for any other appropriate action necessary for\nthe repossession of the Municipal Asphalt Plant for the benefits of Mauban and its\nconstituents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Mauban_Quezon-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the General Services Officer to monitor the progress of titling of the four lots the documents of which are already in the BIR; and to continue exerting extra effort to cause the immediate titling of the remaining 14 lots in the name of the Municipality.",
+      "managementAction": "Monitoring by the General Services Officer to continue. One lot in the amount of P100,000.00 was titled under the name of the Municipality. Partially Implemented",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The titling process was affected by the COVID-19 pandemic, hence the same is taking some time to be completed. With the new developments, the audit observation is updated and presented anew under audit observation no. 2, Part II of this Report."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Mauban_Quezon-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor:\n• require the Appraisal and Disposal Committee to provide the necessary information lacking in the IIRUP for the proper matching of the unserviceable properties carried in the PPE account;\n• submit to the Audit Team the duly accomplished IIRUP together with its supporting documents;\n• cause the immediate disposal of the unserviceable properties in order to maximize any realizable value from their disposal by sale in accordance with the existing regulations;\n• require the Municipal Accountant to prepare the necessary adjusting entries for the derecognition of the unserviceable properties upon disposal based on Paragraph 82 of IPSAS 17 for the fair presentation of the financial statements pursuant to Paragraph 27 of IPSAS 1; and\n• ensure that the disposal of property either thru public bidding or negotiated sale is properly documented and duly authorized.",
+      "managementAction": "The Appraisal and Disposal Committee to accomplish the required Inventory and Inspection Report of Unserviceable Properties; The Appraisal and Disposal Committee was able to accomplish the required IIRUP. Disposal requested by the Municipality. Partially Implemented",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The first IIRUP for disposal was forwarded to the Regional Office No. IV-A and was then referred to the Technical Services, but due to the restrictions brought about by the COVID-19 pandemic, inspection and appraisal could not be done yet. Furthermore, two more letter requests dated November 26, 2020 and December 17, 2020 with attached IIRUPs for disposal were received by the Audit Team on November 27, 2020 and December 21, 2020, respectively. However, upon initial evaluation by the Audit Team, it was noted that information such as Unit Cost, Total Cost, Property Number, Date Acquired, Number of Years and Accumulated Depreciation were lacking for some properties listed in the IIRUPs. This hindered the Audit Team from taking further action such as requesting for the inspection and appraisal of the properties contained in the IIRUPs. Also, the lacking information, if not provided by the Municipality, will also render the IIRUPs inappropriate to be used as basis for adjusting the accounts/dropping from the books of accounts the unserviceable properties carried in the PPE accounts since proper matching could not be made."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Mauban_Quezon-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the accountable officers to immediately liquidate their cash advances for intelligence expenses; require all the accountable officers to liquidate their cash advances immediately; instruct the Municipal Accountant to ensure that all cash advances are fully liquidated at the end of the year and to allow the granting of succeeding cash advance only when the previous one is fully liquidated. Henceforth, ensure the Proper granting, utilization and liquidation of all cash advances within the prescribed period in accordance with the existing rules and regulations.",
+      "managementAction": "All cash advances have been liquidated. Fully Implemented",
+      "status": "IMPLEMENTED",
+      "reason": "Proper granting, utilization and liquidation of all cash advances within the prescribed period in accordance with the existing rules and regulations."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Mauban_Quezon-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the:\n➢ Municipal Social Welfare and the Municipal Agriculturist, the Municipal Tourism Officer, the Municipal Environment and Natural Resources Officer to conduct visitorial and monitoring of the projects and to continue exerting effort to collect the receivables from the concerned beneficiaries.\n➢ Municipal Treasurer to: • prepare schedule of beneficiaries of livelihood projects and payment thereof per program/project basis and account the nature of livelihood collections totaling P732,669.00; and • adopt efficient collection strategies to enforce collection from the concerned beneficiaries to ensure the recovery of the amount released to the beneficiaries.\n➢ Municipal Accountant to: • continue to reconcile the records with the Municipal Treasurer’s Office; • set up the provision for Allowance for Impairment in order to present fairly the Loans Receivable-Others account in the financial statements at net realizable amount consistent with the requirements of COA Circular No. 2016-005 and for fair presentation of the account in the financial statements as required under Paragraph 27 of IPSAS 1. We further recommended that the Municipality adopt programs the sustainability of which is ensured.",
+      "managementAction": "Monitoring of the projects by the Municipal Social Welfare and Development Officer, the Municipal Agriculturist, the Municipal Tourism Officer, the Municipal Environment and Natural Resources Officer is ongoing. On the other hand, the preparation of the schedule of unaccounted collections by the Municipal Treasurer and the reconciliation of records with the Municipal Accountant are also ongoing.\nReconciliation of records with the Municipal Treasurer’s Office is ongoing.\nNo action. Not Implemented",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The restrictions brought about by the COVID-19 pandemic hindered the Municipality from fully implementing the audit observation. Reclassification of accounts which is without valid basis was done by the Accounting Office while the recommendations to set up the provision for Allowance for Impairment in order to present fairly the Loans Receivable-Others account in the financial statements at net realizable amount is not implemented. With the new developments, the audit observation is updated and presented anew under audit observation no. 5, Part II of this Report."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Mauban_Quezon-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer and the Municipal Accountant to continue exerting efforts to complete the reconciliation of the cash accounts and adjust any discrepancies that will be noted in order to establish the correct balances for the fair presentation of the cash accounts in the financial statements in accordance with Paragraph 27 of IPSAS 1.",
+      "managementAction": "Some adjustments were already made through the efforts of both the Municipal Accountant and the Municipal Treasurer in reconciling the account balances. The total discrepancy of P66,155,723.72 as reflected in CY 2019 Annual Audit Report has been reduced to P5,175,420.39. However, by looking at the individual account/fund balances (i.e. General Fund, Special Education Fund, Trust Fund), it can be seen that there are still huge amount of discrepancies.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The time to finish the reconciliation process is limited due to the workload of both the Municipal Accountant and the Municipal Treasurer. With the new developments, the audit observation is updated and presented anew under audit observation no. 6, Part II of this Report."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Mauban_Quezon-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor:\n• require the Municipal Accountant to set up a receivable account for the market fees of all the market stallholders;\n• require the Municipal Treasurer to continue to exert effort to collect from delinquent stallholders the amount of P795,191.50; and\n• adopt efficient collection strategies to enforce collection from the concerned stallholders.",
+      "managementAction": "The Municipal Treasurer was able to enforce collections totaling P106,215.00 from eight of the 12 delinquent stallholders. The Municipal Accountant was able to set up a receivable account only for the delinquent market stallholders.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipal Accountant was still not able to set up the receivable account for the market fees of market stallholders other than that pertaining to delinquent stallholders. Also, the uncollected market fees from delinquent stallholders increased to P811,436.50 in spite of efforts to strategically enforce collection. With the new developments, the audit observation is updated and presented anew under audit observation no. 8, Part II of this Report."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Mauban_Quezon-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to prepare the necessary adjusting entries to capitalize the interest expenses and consequently adjust the computation and recording of the assets’ depreciation expense.",
+      "managementAction": "The Municipal Accountant adjusted the affected accounts and capitalized the recorded interest expense and other charges incurred from the loan borrowings for the acquisition/ construction of assets.",
+      "status": "IMPLEMENTED",
+      "reason": "The affected accounts and recorded interest expense and other charges were adjusted and capitalized as part of the assets."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Mauban_Quezon-2020-PY9",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to adjust the affected accounts for stale checks upon return/surrender of the same for cancellation and replacement pursuant to existing regulations on stale checks. Henceforth, we recommended that the Municipal Mayor require the Municipal Treasurer to give notice to the payees or holders of checks at least one (1) month before the checks become stale.",
+      "managementAction": "Stale checks in the amount of P50,007.43 have been adjusted.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Mauban_Quezon-2020-PY11",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal General Services Officer to continue exerting efforts in facilitating the application for insurance coverage of all the insurable properties of the Municipality with the GSIS, including those that are newly acquired, considering that funds have been provided in the CY 2021 budget, in compliance with the provisions of COA Circular No. 92-390 and RA No. 656.",
+      "managementAction": "The Municipal General Services Officer informed the Audit Team that they are waiting for the billing statement of the General Services Office Building, Warehouse, Barangay Health Station with Birthing Home (Lying-in) and Gymnasium and preparing the application for insurance coverage of the PNP Building, MENRO Administrative Building, MDRRMO Operations Center, Public Market, Daungan Public Wet Market, Slaughterhouse and PKM Campus Buildings. She also assured the Audit Team that they will do their best to comply with the audit recommendation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "With the new developments, the audit observation is updated and presented anew under audit observation no. 11, Part II of this Report."
+    },
+    {
+      "id": "Mauban_Quezon-2019-PY2",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Accountant and the General Services Officer to determine the composition of the unaccounted balance of P29,629,786.28 and provide the necessary details to validate its inclusion in the balance of Land account as of December 31, 2018.",
+      "managementAction": "Retrieval of records by the Municipal Accounting Office and the General Services Office are still on-going.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not given"
+    },
+    {
+      "id": "Mauban_Quezon-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Accountable Officers to immediately liquidate their cash advances for intelligence expenses with the Intelligence and Confidential Fund Audit Unit (ICFAU), COA in compliance with COA-DBM-DILG-GCG and DND JMC No. 2015-01 and\n• require all the accountable officers to liquidate immediately their cash advances; and\n• instruct the Municipal Accountant to ensure that all cash advances are fully liquidated at the end of the year and to allow the granting of succeeding cash advance only when the previous one is fully liquidated.\nHenceforth, ensure the proper granting, utilization and liquidation of all cash advances within the prescribed period in accordance with the existing rules and regulations.",
+      "managementAction": "➢ require all the accountable officers to liquidate immediately their cash advances; and\n➢ instruct the Municipal Accountant to ensure that all cash advances are fully liquidated at the end of the year and to allow the granting of succeeding cash advance only when the previous one is fully liquidated.\nHenceforth, ensure the proper granting, utilization and liquidation of all cash advances within the prescribed period in accordance with the existing rules and regulations.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not given"
+    },
+    {
+      "id": "Mauban_Quezon-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant\nand the General Services Officer to continue to exert extra effort to determine\nthe composition of the unaccounted balance of P29,629,786.28 and provide\nnecessary details to validate its inclusion in the balance of Land account as of\nDecember 31, 2019 for the fair presentation in the financial statements as\nrequired under Paragraph 27 of IPSAS 1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the General Services\nOfficer to monitor the progress of the titling of the four lots the documents of\nwhich are already in the Bureau of the Internal Revenue, and to continue\nexerting extra effort to cause the immediate titling of the remaining 14 lots in\nthe name of the Municipality to avoid possible third party claims that may arise\nin the future and for the fair presentation of the Land account in the Financial\nStatements as required under Paragraph 27 of IPSAS 1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor:\n• require the Appraisal and Disposal Committee to accomplish the required\nInventory and Inspection Report of Unserviceable Property (IIRUP) with\ntheir technical description for the evaluation of unserviceable properties;\n• submit to the COA Audit Team the IIRUP together with its supporting\ndocuments;\n• cause the immediate disposal of the unserviceable properties in order to\nmaximize any realizable value from their disposal by sale in accordance\nwith the existing regulations;\n• require the Municipal Accountant to prepare the necessary adjusting\nentries for the derecognition of the unserviceable properties upon disposal\nbased on Paragraph 82 of IPSAS 17 for the fair presentation of the financial\nstatements; and\n• ensure that the disposal of property either thru public bidding or negotiated\nsale is properly documented and duly authorized.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Accountable Officers to\nimmediately liquidate their cash advances for intelligence expenses with the\nIntelligence and Confidential Fund Audit Unit (ICFAU), COA, in compliance with\nCOA-DBM-DILG-GCG and DND JMC No. 2015-01 and\n• require all the accountable officers to liquidate immediately their cash\nadvances; and\n• instruct the Municipal Accountant to ensure that all cash advances are fully\nliquidated at the end of the year and to allow the granting of succeeding\ncash advance only when the previous one is fully liquidated.\n\nHenceforth, ensure the proper granting, utilization and liquidation of all cash\nadvances within the prescribed period in accordance with the existing rules\nand regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the:\n➢ Municipal Social Welfare and Development Officer, the Municipal\nAgriculturist, the Municipal Tourism Officer, the Municipal Environment and\nNatural Resources Officer to conduct visitorial and monitoring of the projects and\nto continue exerting all effort to collect the receivables from the concerned\nbeneficiaries.\n➢ Municipal Treasurer to:\n• prepare schedule of beneficiaries of livelihood projects and payment\nthereof per program/project basis and account the nature of livelihood\ncollections totaling P732,669.00; and\n• adopt efficient collection strategies to enforce collection from the\nconcerned beneficiaries to ensure the recovery of the amount released to\nthe beneficiaries.\n➢ Municipal Accountant to:\n• continue to reconcile the records with the Municipal Treasurer’s Office; and\n• set up the provision for Allowance for Impairment in order to present\nfairly the Loans Receivable-Others account in the financial statements at\nnet realizable amount consistent with the requirements of COA Circular\nNo. 2016-005 and for the fair presentation of the account in the financial\nstatements as required under Paragraph 27 of IPSAS 1.\n\nWe further recommended that the Municipality adopt programs the\nsustainability of which is ensured.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer\nand the Municipal Accountant to complete the reconciliation of the cash\naccounts and adjust any discrepancies that will be noted in order to establish\nthe correct balances for the fair presentation of the cash accounts in the\nfinancial statements in accordance with Paragraph 27 of IPSAS 1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor:\n• require the Municipal Accountant to set up a receivable account for the\ndelinquent stallholders of P795,191.50 and henceforth, set up a receivable\naccount for the market fees of market stallholders;\n• require the Municipal Treasurer to continue to exert effort to collect from\ndelinquent stallholders the amount of P795,191.50; and\n• adopt efficient collection strategies to enforce collection from the\nconcerned stallholders.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2019-OBS8",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant\nto prepare the necessary adjusting entries to capitalize the recorded interest\nexpenses and consequently adjust the computation and recording of the\nassets’ depreciation expense.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2019-OBS9",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant\nto adjust the affected accounts for stale checks upon return/surrender of the\nsame for cancellation and replacement pursuant to existing regulations on stale\nchecks.\n\nHenceforth, we recommended that the Municipal Mayor require the Municipal\nTreasurer to give notice to the payees or holders of checks at least one (1)\nmonth before the checks become stale.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2019-OBS10",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor continue to protect the interest of\nthe Municipality by getting the help of Provincial Attorney’s Office for the re-\nfiling of the case in view of its dismissal due to the representation of a private\ncounsel.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the: ➢General Services Officer to coordinate with the Municipal Accountant for the reconciliation of records of the PPE; and ➢Municipal Accountant and the General Services Officer to update their respective records.",
+      "managementAction": "➢Municipal GSO adjusted General records on disposed property.\n➢Municipal GSO to update their respective records.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2019-PY3",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the General Services Officer to continue exerting extra effort to facilitate the immediate titling of the lots in the name of the Municipality to avoid possible third party claims that may arise in the future and for the fair presentation of the Land account in the Financial Statements, in compliance with Section 39(2) of PD No. 1445 and Section 148 of COA Circular No. 92-386.",
+      "managementAction": "Four lots were already titled.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Gathering of required documents are still on-going."
+    },
+    {
+      "id": "Mauban_Quezon-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the:\n➢ Municipal Social Welfare and Development Officer (MSWDO), Municipal Agriculturist, Municipal Tourism Officer, Municipal Environment and Natural Resources Officer to conduct visitorial and monitoring of the projects and exert all effort to collect the receivables from the concerned beneficiaries.\n➢ Municipal Treasurer to:\n- prepare schedule of beneficiaries of livelihood projects and payment thereof per program/project basis and account the nature of livelihood collections totaling P732,669.00; and\n- adopt efficient collection strategies to enforce collection from the concerned beneficiaries to ensure the recovery of the amount released to them.\n➢ Municipal Accountant to:\n- reconcile the records with the Municipal Treasurer’s Office; and\n- set up the provision for Allowance for Impairment in order to present fairly the Loans Receivable-Others account in the financial statements at net realizable amount consistent with the requirements of COA Circular No. 2016-005 and for the fair presentation of the account in the financial statements as required under Paragraph 27 of IPSAS 1.\nWe further recommended that the Municipality adopt programs the sustainability of which is ensured.",
+      "managementAction": "Partially Implemented / On-going: Municipal Social Welfare and Development Officer, Municipal Agriculturist, Municipal Tourism Officer, Municipal Environment and Natural Resources Officer to conduct visitorial and monitoring of the projects and to continue exerting all effort to collect the receivables from the concerned beneficiaries. Municipal Treasurer to prepare schedule of beneficiaries and adopt collection strategies. Municipal Accountant to continue to reconcile the records with the Municipal Treasurer’s Office.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "With the new developments, the audit observation is updated and presented anew under audit observation no. 5, Part II of this Report."
+    },
+    {
+      "id": "Mauban_Quezon-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Treasurer to record the transactions in the cashbooks religiously, maintain and present them to the Audit Team for audit. We also recommended that the Municipal Mayor direct the Municipal Accountant and the Municipal Treasurer to determine the causes of discrepancy and immediately effect the necessary adjustments. Likewise, we recommended that the Municipal Accountant and the Municipal Treasurer conduct periodic reconciliation of their records.",
+      "managementAction": "Partially Implemented / On-going: Some adjustments were already made in CY 2020. The Municipal Treasurer and the Municipal Accountant to conduct the necessary adjustments and reconciliations.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "With the new developments, the audit observation is updated and presented anew under audit observation no. 6, Part II of this Report."
+    },
+    {
+      "id": "Mauban_Quezon-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor:\n• require the Municipal Treasurer to exert effort to collect from delinquent stallholders the amount of P1,031,054.00; and\n• require the Municipal Treasurer and Market Supervisor to serve the lease contracts to the 62 market booth/stallholders and adopt efficient collection strategies to enforce collection from the concerned stallholders; and\n• request the Sangguniang Bayan to effect the revision of the Local Revenue Code to attain realistic rates of taxes and enhance collection.",
+      "managementAction": "Partially Implemented / On-going: Contract of lease were already served. Revision of the Local Revenue Code effected to attain realistic rates. Municipal Treasurer to continue efforts to collect from delinquent stallholders.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "With the new developments, the audit observation is updated and presented anew under audit observation no. 7, Part II of this Report."
+    },
+    {
+      "id": "Mauban_Quezon-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor continue to protect the interest of the Municipality by getting the help of Provincial Attorney’s Office for the re-filing of the case in view of its dismissal due to the representation of a private counsel.",
+      "managementAction": "The Municipal Administrator will meet with the Provincial Attorney and legal documents will be gathered for the re-filing of the case.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "With the new developments, the audit observation is updated and documents will be gathered for the re-filing of case. (Action: meet with Provincial Attorney)"
+    },
+    {
+      "id": "Mauban_Quezon-2019-PY9",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the General Services Officer to ensure that Property Acknowledgement Receipt is renewed every three years or whenever there is a change in custodianship, in order that record of accountability for PPEs is updated in compliance with Section 492 of the Government Accounting and Auditing Manual (GAAM), Volume I.",
+      "managementAction": "PAR is already renewed in accordance with the guidelines.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2018-PY13",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor:\n require the Municipal Treasurer to exert effort to collect from delinquent stallholders the amount of P887,270.00; and\n request the Sangguniang Bayan to effect the revision of the Municipal Revenue Code to attain realistic rates of taxes and enhance collection.\nWe further recommended that the Municipal Mayor require the Municipal Treasurer and Market Supervisor to serve the lease contracts to the 62 market booth/stallholders even using the old rates to protect the interest of the Municipality in the meantime that the revision has not yet been made on the Municipal Revenue Code and adopt efficient collection strategies to enforce collection from the concerned stallholders.",
+      "managementAction": "The Municipal Treasurer informed the Audit Team that they are exerting extra effort in collecting various delinquent accounts.\nIn addition, she stated that together with the Market Supervisor, they are processing the release of 62 lease using the old rate of market fees.\nFurthermore, the Municipal Treasurer said that they are requesting the Sangguniang Bayan to effect the revision of the Municipal Revenue Code to attain realistic rates of taxes and enhance collection.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The outstanding balance from the delinquent stallholders amounts to P1,031,354.00 as of December 31, 2018. The revision of the Municipal Revenue Code was not yet effected."
+    },
+    {
+      "id": "Mauban_Quezon-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the:\n General Services Officer to coordinate with the Municipal Accountant\nfor the reconciliation of records of the PPE; and\n require the Municipal Accountant and the General Services Officer to\nupdate their respective records.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the\nMunicipal Accountant and the General Services Officer to exert extra effort\nto determine the composition of the unaccounted balance of\nP29,629,786.28 and provide the necessary details to validate its inclusion in\nthe balance of Land account as of December 31, 2018.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the General Services\nOfficer to continue exerting extra effort to facilitate the immediate titling of\nthe lots in the name of the Municipality to avoid possible third party claims\nthat may arise in the future and for the fair presentation of the Land\naccount in the Financial Statements, in compliance with Section 39(2) of PD\nNo. 1445 and Section 148 of COA Circular No. 92-386.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor liquidate his cash advances for\nintelligence expenses with the Intelligence and Confidential Fund Audit Unit\n(ICFAU), COA in compliance with COA-DBM-DILG-GCG and DND JMC No.\n2015-01 and\n require all the accountable officers to liquidate immediately their cash\nadvances; and\n instruct the Municipal Accountant to ensure that all cash advances are\nfully liquidated at the end of the year and to allow the granting of\nsucceeding cash advance only when the previous one is fully\nliquidated.\nHenceforth, ensure the proper granting, utilization and liquidation of all\ncash advances within the prescribed period in accordance with the existing\nrules and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the:\n Municipal Social Welfare and Development Officer (MSWDO), Municipal\nAgriculturist, Municipal Tourism Officer, Municipal Environment and\nNatural Resources Officer to conduct visitorial and monitoring of the\nprojects and exert all effort to collect the said receivables from the\nconcerned beneficiaries.\n Municipal Treasurer to:\n prepare schedule of beneficiaries of livelihood projects and payment\nthereof per program/project basis and account the nature of livelihood\ncollections totaling P732,669.00; and\n adopt efficient collection strategies to enforce collection from the\nconcerned beneficiaries to ensure the recovery of the amount\nreleased to the beneficiaries.\n Municipal Accountant to reconcile the records with the Municipal\nTreasurer’s Office.\nWe further recommended that the Municipality adopt programs the\nsustainability of which is ensured.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Treasurer\nto record the transactions in the cashbooks religiously, maintain and\npresent them to the Audit Team for audit.\nWe also recommended that the Municipal Mayor direct the Municipal\nAccountant and the Municipal Treasurer to determine the causes of\ndiscrepancy pertaining to the Cash Local Treasury, Cash in Bank – Local\nCurrency, Current Account, Cash in Bank - Local Currency, Savings\nAccount, and Cash Advances balances, and immediately effect the\nnecessary adjustments. Likewise, we recommended that the Municipal\nAccountant and the Municipal Treasurer conduct periodic reconciliation of\ntheir records.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2018-OBS7",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the officers and\nemployees to settle immediately their outstanding accounts. In case of\nfailure to settle, he may require the withholding of their salaries to be\napplied to their accountabilities.\nAlso, we recommended considering the filing of appropriate charges\nagainst them for continued disregard of the law.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2018-OBS8",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor:\n require the Municipal Treasurer to exert effort to collect from delinquent\nstallholders the amount of P1,031,354.00;\n require the Municipal Treasurer and Market Supervisor to serve the\nlease contracts to the 62 market booth/stallholders even using the old\nrates to protect the interest of the Municipality in the meantime that the\nrevision has not yet been made on the Municipal Revenue Code;\n adopt efficient collection strategies to enforce collection from the\nconcerned stallholders; and\n request the Sangguniang Bayan to effect the revision of the Municipal\nRevenue Code to attain realistic rates of taxes and enhance collection.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2018-OBS9",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor continue to protect the interest\nof the Municipality to avoid incurrence of wastage of resources by\nfollowing up the action of the Honorable Provincial Prosecutor of Quezon,\nLucena City on the refiling of the case in view of its dismissal due to the\nrepresentation of a private counsel.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2018-OBS10",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the General Services\nOfficer to ensure that Property Acknowledgement Receipt is renewed every\nthree years or whenever there is a change in custodianship, in compliance\nwith Section 492 of the Government Accounting and Auditing Manual\n(GAAM), Volume I, in order that record of accountability for PPEs is\nupdated.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2018-PY1",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the:\nGeneral Services Officer to:\n- prepare the RPCPPE with complete details using the prescribed format and submit the same to the Municipal Accountant; \n- coordinate with the Municipal Accountant for the reconciliation of records of the PPE; and\nalso, require the Municipal Accountant to continuously update the PPE Ledger Cards.",
+      "managementAction": "A copy of complete information and details using the prescribed format submitted to Municipal Accountant; Staff from GSO coordinates with the Municipal Accountant for the reconciliation of records of the PPE; The Municipal Accountant update the PPE Ledger Cards.\nWith the new developments, the Audit Observation is updated and presented anew under Observation No. 1, Part II of this Report.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The records maintained by the General Services Office remained unreconciled and property records which were already disposed of."
+    },
+    {
+      "id": "Mauban_Quezon-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant and the General Services Officer to exert extra effort to determine the composition of the unaccounted balance of P29,629,786.28 and provide the necessary details to validate its inclusion in the balance of Land account as of December 31, 2017.",
+      "managementAction": "The General Services Officer stated that they are always ready and willing to assist and accompany whoever be designated by the Municipal Accountant to retrieve the needed documents for the validation in the inclusion of the balance of Land Account.\nThe Municipal Accountant stated that they will coordinate with the General Services Officer for the retrieval of old files regarding land acquisition and thoroughly search for the old files.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Retrieval of records by the Office and the General Services Office are still ongoing. The balance of P29,629,786.28 remained unaccounted as of December 31, 2018."
+    },
+    {
+      "id": "Mauban_Quezon-2018-PY3",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the General Services Officer to exert extra effort to facilitate the immediate titling of the lots in the name of the Municipality to avoid possible third party claims that may arise in the future and for the fair presentation of the Land account in the Financial Statements, in compliance with Section 39(2) of PD No. 1445 and Section 148 of COA Circular No. 92-386.",
+      "managementAction": "The General Services Officer stated that the Municipality still have available budget for the titling expenses and will continue to exert extra effort to facilitate the immediate titling of the lots in the name of the Municipality.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There are already 22 lots that were not supported with Transfer Certificate of Title in the name of the Municipality."
+    },
+    {
+      "id": "Mauban_Quezon-2018-PY4",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor liquidate his cash advances for intelligence and confidential expenses with the Intelligence and Confidential Fund Audit Unit (ICFAU), COA in compliance with COA-DBM-DILG-GCG and DND JMC No. 2015-01 and:\n require all the accountable officers to liquidate immediately their cash advances; and\n instruct the Municipal Accountant to ensure that all cash advances are fully liquidated at the end of the year and to allow the granting of succeeding cash advance only when the previous one is fully liquidated.\nHenceforth, ensure the proper granting, utilization and liquidation of all cash advances within the prescribed period in accordance with the existing rules and regulations.",
+      "managementAction": "The Municipal Accountant informed the Audit Team that the following Advances for Payroll were already liquidated:\nPayee Check No. Date of Cash Amount Date\nAdvance Liquidated\nEstrella Serrano 63425009 12/27/2018 82,000.00 2/8/2019\nMay L. Daran 63425054 12/27/2018 125,000.00 3/29/2019\nEstrella Serrano 2879519 6/18/2018 8,880.00 1/22/2019\nBelen E. Ingles 2879994 12/7/2018 5,000.00 3/15/2019\nBelen E. Ingles 2880012 12/13/2018 5,000.00 5/7/2019\nMay L. Daran 2675142 12/7/2018 135,000.00 3/29/2019\nTotal 360,880.00\nLikewise, the Municipal Accountant stated that a correcting entry dated January 29, 2019 was already made regarding the refund on the excess labor payroll erroneously recorded as Advances for Payroll. She also provided the Audit Team with a copy of the Journal Entry Voucher for the correcting entry.\nAlso, the Municipal Accountant said that the cash advances made by Maria Diana Jose was already settled in February 2019.\nFurther, she stated that the granting of cash advances even though there are existing unliquidated cash advances by the bonded official was inevitable due to limited number of bonded officials the Office of the Municipal Treasurer have. In addition, she stated that they are exerting efforts to liquidate them at year-end.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The outstanding cash advances totaled P942,500.00 as of December 31, 2018."
+    },
+    {
+      "id": "Mauban_Quezon-2018-PY5",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal Accountant to strictly observe and follow the guidelines set forth in PPSAS 12 and 17 for the proper recognition of inventories, supplies, equipment and equipment.",
+      "managementAction": "The Municipal Accountant recognized the purchase of office supplies, medical, dental and laboratory supplies, agricultural and marine equipment and supplies, and equipment as inventories and supplies, equipment.",
+      "status": "IMPLEMENTED",
+      "reason": "Necessary documents were attached."
+    },
+    {
+      "id": "Mauban_Quezon-2018-PY6",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the:\n Municipal Social Welfare and Development Officer (MSWDO), Municipal Agriculturist, Municipal Tourism Officer, Municipal Environment and Natural Resources Officer to conduct visitorial and monitoring of the projects and exert all effort to collect the said receivables from the concerned beneficiaries.\n Municipal Treasurer to:\n- prepare schedule of beneficiaries of livelihood projects and payment thereof per program/project basis and account the nature of livelihood collections totaling P732,669.00; and\n- adopt efficient collection strategies to enforce collection from the concerned beneficiaries to ensure the recovery of the amount released to the beneficiaries.\n Municipal Accountant to reconcile the records with the Municipal Treasurer’s Office.\nWe further recommended that the Municipality adopt programs the sustainability of which is ensured.",
+      "managementAction": "The Municipal Treasurer stated that they already prepared the schedule of beneficiaries for various livelihood projects and payment thereof per program/project basis and are sending notice of delinquencies regularly.\nThe Municipal Accountant stated that they will continue reconciling with the Municipal Treasurer’s Office regarding collections from payees of livelihood not in the list of beneficiaries. Likewise, copies of beneficiaries per livelihood program will be given to the Municipal Treasurer’s Office.\nIn recently released developments, the Municipal stated that visitorial and monitoring are conducted.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There were still loans receivable outstanding as of CY 2018. The collections amounting to P732,669.00 remain unaccounted as of December 31, 2018."
+    },
+    {
+      "id": "Mauban_Quezon-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Treasurer to record the transactions in the cashbooks religiously, maintain and present them to the Audit Team for audit. We also recommended that the Municipal Mayor direct the Municipal Accountant and the Municipal Treasurer to determine the causes of discrepancy pertaining to the Cash Local Treasury, Cash in Bank - Local Currency, Current Account, Cash in Bank - Local Currency, Savings Account, and Cash Advances balances, and immediately effect the necessary adjustments. Likewise, we recommended that the Municipal Accountant and the Municipal Treasurer conduct periodic reconciliation of their records.",
+      "managementAction": "The Municipal Treasurer informed the Audit Team that balances for Trust Fund - Department of Energy, Trust Fund - Performance Challenge Fund and Trust Fund - Maternal Care Package with LBP Account Nos. 0212-1043-53, 0212-1212-23 and 0212-1217-20 were already reconciled and they are still working on with the remaining accounts. She also stated that they will continue updating the remaining cashbooks and make necessary adjustments or corrections and reconcile with the Municipal Accounting Office regularly.\nIn addition, the Municipal Treasurer stated that they now starting to maintain cashbooks for the new accounts.\nThe Municipal Accountant stated that they will continue reconciling with the Municipal Treasurer’s Office regarding the Cash Accounts and Advances.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There are discrepancies in the balances presented in the Subsidiary Ledgers and Cashbooks as of December 31, 2018 due to delay in the recording of transactions in the cashbook; non-presentation of cashbook; failure to maintain cashbook; and absence of periodic reconciliation between the Accounting Office and the Treasurer’s Office."
+    },
+    {
+      "id": "Mauban_Quezon-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require:\n the Disbursing Officers to adhere to the guidelines set forth in Section 4(6) of PD No. 1445 and Section 1.1.1 of COA Circular 2012-01 by attaching the necessary documents to support the cash advances for payroll fund for salaries, wages, allowances, honoraria and other similar expenses; and\n the Municipal Accountant to see to it that the existing necessary regulations are strictly complied.",
+      "managementAction": "The Municipal Accountant see to it that the necessary documents are attached before processing payment of payroll. Necessary documents were attached to support the cash advances made.",
+      "status": "IMPLEMENTED",
+      "reason": "Necessary documents were attached to support the cash advances made."
+    },
+    {
+      "id": "Mauban_Quezon-2018-PY9",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the officers and employees to settle immediately their outstanding accounts. In case of failure to settle, he may require the withholding of their salaries to be applied to their accountabilities. Also, we recommended considering the filing of appropriate charges against them for continued disregard of the law.",
+      "managementAction": "The Municipal Accountant stated that demand letters will be sent to concerned employees for excess in their cash advances and within a month after it was not settled, they will deduct the same in their payroll.\nLikewise, she informed that settlement was made on the following:\nPayee Outstanding amount due Settled Remarks\nAnabelle Calleja 17,478.00 7,478.00 Partial settlement in February 2019; Outstanding balance of P10,000.00\nAllan Nilooban .03 .03 Deducted from salary in April 2019\nPio Acejo .03 .03 Deducted from salary in April 2019\nMagellan Marasigan .03 .03 Deducted from salary in April 2019\nRonald Mararac, MD. 10,000.00 10,000.00 Refunded in February 2019 per Official Receipt Number 2960731",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There were still outstanding receivables from officers and employees amounting to P41,531.59 as of December 31, 2018."
+    },
+    {
+      "id": "Mauban_Quezon-2018-PY10",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the MPDC to ensure that the mandatory Development Fund appropriated out of the Internal Revenue Allotment be fully utilized to implement prioritized identified programs, projects and activities; install regular monitoring mechanism to assess the progress of project implementation so that all its development projects are implemented as programmed to ensure that intended beneficiaries avail of the maximum benefits that will be derived therefrom; and ensure that a closer coordination among the officials involved in planning, execution and monitoring is enhanced to achieve the desired level of efficiency.",
+      "managementAction": "The Municipality has utilized P35,029,996.17 or 83.19 per cent of its total appropriation for CY 2018.",
+      "status": "IMPLEMENTED",
+      "reason": "The Municipality utilized P35,029,996.17 or 83.19 per cent of its total appropriation for CY 2018."
+    },
+    {
+      "id": "Mauban_Quezon-2018-PY11",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the MDRRMO to submit to the Audit Team the report on Sources and Utilization of Disaster Risk Reduction Management Fund (DRRMF) in compliance with COA Circular No. 2014-009 and Item 5.1.5 of COA Circular No. 2012-002, for audit and evaluation purposes.",
+      "managementAction": "MDRRMO submitted to the Audit Team the report on Sources and Utilization of Disaster Risk Reduction Management Fund (DRRMF) in compliance with COA Circular No. 2014-009 and Item 5.1.5 of COA Circular No. 2012-002.",
+      "status": "IMPLEMENTED",
+      "reason": "Submitted for audit and evaluation purposes."
+    },
+    {
+      "id": "Mauban_Quezon-2018-PY12",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the BAC to post in PhilGEPS the necessary documents required under the alternative modes of procurement, as well as ensure that the printout copy of such posting is included among the supporting documents for payment of claims.",
+      "managementAction": "Posting in PhilGEPS the necessary documents as well as the printout copy of such posting are included among the supporting documents for payment of claims.",
+      "status": "IMPLEMENTED",
+      "reason": "Printout copy of such posting are included among the supporting documents for payment of claims."
+    },
+    {
+      "id": "Mauban_Quezon-2018-PY14",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor continue to protect the interest of the Municipality to avoid incurrence of wastage of resources by pursuing the civil case for rescission of contract and damages filed with the Regional Trial Court, Fourth Judicial Region, Branch 64, Mauban, Quezon, and follow up the action of the Honorable Provincial Prosecutor of Quezon, Lucena City on the refiling of the case in view of its dismissal due to the representation of a private counsel.",
+      "managementAction": "The Municipal Accountant and the Administrator stated that the Mayor’s stand regarding this matter is to reopen the case. They also said that documents needed for these are already being gathered.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The issue regarding this matter is not yet resolved as of December 31, 2018."
+    },
+    {
+      "id": "Mauban_Quezon-2018-PY15",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Municipal Treasurer to secure/keep and provide to the Audit Team for review and verification the documents such as:\n Sworn Statement of Gross Receipts or Sales and Certified Income Tax Return supporting the Gross Receipts for business tax purposes;\n complete Abstract of Collections from individual taxpayers; and\n official receipts to determine the accuracy of the collected business taxes.",
+      "managementAction": "The Municipal Treasurer presented the Sworn Statement of Gross Receipts or Sales and Abstract of Collections from individual taxpayers and the official receipts to support the collected business taxes.",
+      "status": "IMPLEMENTED",
+      "reason": "Presented the Sworn Statement of Collections from individual taxpayers and copies of official receipts to support the collected business taxes."
+    },
+    {
+      "id": "Mauban_Quezon-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require the\n      General Services Officer to coordinate with the  Municipal  Accountant\n      for the reconciliation of records of the PPE.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor  instruct\n   the General Services Officer to exert  extra  effort  to  facilitate  the\n   immediate titling of the subject lots in the name of the Municipality  to\n   avoid contingent claims that may arise in the future  and  in  compliance\n   with Section 39(2) of PD No. 1445 and Section 148 of COA Circular No. 92-\n   386.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor:\n\n\n         • attend to the liquidation of the outstanding  cash  advance  for\n           intelligence and confidential expenses;\n\n\n         • require all the accountable officers  to  liquidate  immediately\n           their cash advances; and\n\n\n         • instruct the  Municipal  Accountant  to  ensure  that  all  cash\n           advances are fully liquidated at the end  of  the  year  and  to\n           allow the granting of succeeding  cash  advance  only  when  the\n           previous one is fully liquidated.\n\n\n          Henceforth,  ensure   the   proper   granting,   utilization   and\n     liquidation of all  cash  advances  within  the  prescribed  period  in\n     accordance with the above-cited law, rules and regulation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor  require  the  Municipal\n      Accountant to follow the guidelines set forth in PPSAS 12 and  17  for\n      the proper recognition of inventories, property, plant and  equipment,\n      and expenses.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We reiterated  our  recommendation  that  the  Municipal  Mayor\n       require the:\n\n        ➢  Municipal  Social  Welfare  and  Development   Officer   (MSWDO),\n          Municipal  Agriculturist,  Municipal  Tourism  Officer,  Municipal\n          Environment and Natural Resources Officer  to  conduct  visitorial\n          and monitoring of the projects and exert all effort to collect the\n          said receivables from the concerned beneficiaries; and\n\n\n        ➢ Municipal Treasurer to:\n\n\n             • prepare schedule of beneficiaries of livelihood projects  and\n               payment thereof per program/projects basis  and  account  the\n               nature   of   livelihood   collections    totalingP314,760.00\n               previously recorded as Miscellaneous Income.\n\n\n             • adopt efficient collection strategies to  enforce  collection\n               from the concerned beneficiaries to ensure  the  recovery  of\n               the amount released to the beneficiaries.\n\n\n        ➢ Municipal Accountant to reconcile the records with  the  Municipal\n          Treasurer’s Office.\n\n           We further recommended that the Municipality adopt programs  the\n      sustainability of which is ensured.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommended that  the  Municipal  Mayor  require  the  Municipal\n   Treasurer to maintain the cashbooks and observe the  following  suggested\n   measures:\n\n\n          a) update the cashbooks daily based on the submitted  Reports  of\n             Collections and Deposits;\n\n\n          b) closely monitor and ensure the accuracy and physical existence\n             of cash on hand by reconciling the cash on hand with the  cash\n             balance in the cashbook;\n\n\n          c) at the end of each month, rule  and  foot  the  cashbooks  and\n             accomplish the necessary certification; and\n\n\n          d) reconcile the cashbook balances with  the  accounting  records\n             every end of the month and take up immediately  the  necessary\n             corrections/adjustments.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that the Municipal  Mayor  require\n      the  officers  and  employees  to  settle  immediately  their\n      outstanding accounts,  otherwise  require  the  withholding  of  their\n      salaries to be applied to their obligations, if warranted.\n\n            Also, we recommended the filing of appropriate  charges  against\n      them for continued disregard of the law.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require the Local School\n      Board to observe the provisions of Section 272 of  Republic  Act  (RA)\n      7160 and DepEd-DBM-DILG Joint Circular Nos. 01,  s.  1998,  No.  01-A,\n      March 14, 2000, No. 01-B dated June 25, 2001 in the preparation and\n      utilization of the SEF budget.\n\n\n            Also, we recommended to refund the amount of P81,000.00.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2016-OBS9",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that the Municipal  Mayor  require\n   the:\n\n\n         ➢ Municipal Accountant to submit the:\n               o duly accomplished Application Forms for the program and\n               o proof that the borrowers are eligible for the assistance\n\n\n         ➢ Project Development Officer:\n               o  to  ensure  that  only  eligible  borrowers  are   granted\n                 assistance.\n\n\n         ➢ Municipal Social  Welfare  Development  Officer  to  revise  the\n           Project  Proposal  to  include  the  means  of  monitoring   and\n           evaluating the project to determine  the  effectiveness  of  the\n           outcome based on the set objectives.\n\n\n         ➢ Municipal Accountant and the Municipal  Treasurer  to  reconcile\n           their records.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2016-OBS10",
+      "year": 2016,
+      "recommendation": "We  recommended  that  the  Municipal  Mayor  require  the  Municipal\n   Accountant and the Sangguniang Bayan or ordinance to submit to the  Audit\n   Team the approved Sangguniang Bayan resolution relative to the  insurance\n   coverage with private insurance company, if there is any, and  the  other\n   necessary supporting documents at the soonest  possible  time,  otherwise\n   the transaction may be disallowed in audit for lack of authorization.\n\n      Also, we recommended the Municipality to refrain from giving insurance\n   coverage without approved Sangguniang Bayan resolution or ordinance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2016-OBS11",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor  require  the  Municipal\n      Accountant to submit to the Audit Team  all  the  required  supporting\n      documents for evaluation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2016-OBS12",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor:\n • require the Municipal Planning  and  Development  Coordinator  (MPDC)  to\n   ensure that the  mandatory  Development  Fund  appropriated  out  of  the\n   Internal Revenue Allotment be fully  utilized  to  implement  prioritized\n   identified  programs,  projects  and  activities  to  help  achieve   the\n   desirable  outcome  on  socio-economic  development   and   environmental\n   Management outlined in the DILG-DBM Joint Memorandum Circular No. 2011-1;\n\n • install regular monitoring mechanism to assess the  progress  of  project\n   implementation so  that  all  its  programmed  development  projects  are\n   implemented as programmed to ensure that intended beneficiaries avail  of\n   the maximum benefits that will be derived therefrom; and\n\n • ensure that  a  closer  coordination  among  the  officials  involved  in\n   planning, execution and monitoring is enhanced  to  achieve  the  desired\n   level of efficiency.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2016-OBS13",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the\n      Municipal  Treasurer  to  exert  effort  to  collect  from  delinquent\n      stallholders the amount of P757,333.00.\n\n            We  also  recommended  that  the  Municipal  Mayor  request  the\n      Sangguniang Bayan to effect the revision of the Local Revenue Code  to\n      attain realistic rates of taxes and enhance collection.\n\n            We further recommended that  the  Municipal  Mayor  require  the\n      Municipal Treasurer and the Market Supervisor to:\n\n      ➢ serve the lease contracts as soon as  the  revision  of  the  Local\n        Revenue Code was effected in order to protect the interest  of  the\n        Municipality against illegal users of municipal amenities and\n\n\n      ➢ adopt efficient collection strategies to  enforce  collection  from\n        the concerned stallholders.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2016-OBS14",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that the Municipal  Mayor  take the\n      appropriate  action/s  under  the  circumstances  to  protect  the\n      interest of  Municipality  and  to  avoid  incurrence  of  wastage  of\n      resources  which  may  include  following  up  the  appeal  filed  and\n      inquiring from the Provincial Fiscal other possible legal remedies .",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2016-OBS15",
+      "year": 2016,
+      "recommendation": "We  reiterated  our  recommendation  that  the  Municipal  Mayor\n      instruct  the  Municipal  Treasurer  to  secure/keep   the   documents\n      supporting the Gross Receipts for business tax purposes and update the\n      Abstract of Collections from individual taxpayers.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2016-OBS16",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal  Mayor  direct  the  Municipal\n      Environment and Natural Resources Officer (MENRO)  and  the  Municipal\n      Solid Waste Management Board to secure the  approval  of  its  10-year\n      Solid Waste Management Plan from the National Solid  Waste  Management\n      Commission pursuant to the provisions of the above-cited regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2016-OBS17",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor  require  the  Municipal\n      Engineer to:\n\n • submit the list of all  ongoing  government  projects/programs/activities\n   and those that are to be implemented during the year;\n\n • submit the monthly monitoring report in compliance with the  above  cited\n   regulations; and\n\n • inform the Auditors that the appropriate project signboards and/or public\n   notices were already posted within the prescribed period for validation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2016-OBS18",
+      "year": 2016,
+      "recommendation": "We  reiterated  our  recommendation  that  the  Municipal  Mayor\n      instruct the Municipal Assessor to complete the preparation of the Tax\n      Maps and TMCR and maintain the same in their office.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2016-OBS19",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor instruct  the  Municipal\n      Treasurer to strictly comply with the requirements  stated  under  COA\n      Circular No. 92-389 to prevent the possible re-use of those  documents\n      for other claims of same nature as part of a  sound  internal  control\n      system in the disbursement of funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2016-PY1",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendations that the       Municipal Mayor instruct the:       General Services Officer (GSO) to complete the physical inventory of all properties of the Municipality.       Municipal Accountant to prepare and maintain PPE Ledger Cards and GSO to prepare and maintain complete and updated property cards and require them to reconcile the records regularly.",
+      "managementAction": "Physical inventory was made by the Municipality. PPE Ledger Cards were prepared.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Volume of PPE for reconciliation. Reiterated in Part II, Observation No. 1"
+    },
+    {
+      "id": "Mauban_Quezon-2016-PY2",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the General Services Officer to facilitate the titling of lots in favor of the Municipality to ensure absolute ownership and to avoid contingent claims that may arise in the future.",
+      "managementAction": "Two titles were released by the Registry of Deeds in favor of the Municipality. Titling of the remaining lots is currently ongoing.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some land titles are still for processing. Reiterated in Part II, Observation No. 2"
+    },
+    {
+      "id": "Mauban_Quezon-2016-PY3",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Treasurer to maintain the cashbooks properly by adopting the following suggested measures: update the cashbook daily based on the submitted Report of Collections and Deposits; closely monitor and ensure the accuracy and physical existence of cash on hand with the cash balance in the cashbook; reconcile the cashbook balance with the accounting records every end of the month. Take up immediately necessary corrections in the books requiring adjustments to reconcile both the cashbook and the ledger; close the cashbooks at the end of each month by double-ruling below the last entries in the cashbook.",
+      "managementAction": "Some Cashbooks were already updated. Monitoring to ensure accuracy and physical existence of cash on hand is being conducted. Reconciliation of records is currently ongoing. Updating the cashbooks is still ongoing",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reconciliation of records between the Muncipal Treasurer’s Office and the Municipal Accountant’s Office is currently in process. Reiterated in Part II, Observation No. 6"
+    },
+    {
+      "id": "Mauban_Quezon-2016-PY4",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the officers and employees to settle immediately their outstanding accounts. Failure to settle, require the withholding of their salaries to be applied to their accountabilities. We also recommended to consider the filing of appropriate charges against them for continued disregard of the law.",
+      "managementAction": "The amount of P37,736.34 was collected during 2016. Demand Letters were already sent to the employee who has an outstanding balance.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Due from Officers and Employees still have balance as of December 31, 2016. Reiterated in Part II, Observation No. 7"
+    },
+    {
+      "id": "Mauban_Quezon-2016-PY5",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor liquidate immediately his cash advance. We also recommended to require the concerned accountable officers to settle/liquidate immediately their cash advances. Failure to do so, implement the withholding of their salaries or any amount due them, to be applied to their cash advances. Municipal Accountant strictly comply with the regulations on proper granting of all cash advances in accordance with COA Circular No. 97-002 and see to it that all cash advances are fully liquidated at the end of the year.",
+      "managementAction": "Mayor Fernando Q. Llamas has refunded his cash advance with OR No. 9065002 dated June 2, 2016. Quarterly demand letters were being sent to officials and employees to remind regarding their outstanding cash advances.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There are still outstanding cash advances as of December 31, 2016. Reiterated in Part II, Observation No. 3"
+    },
+    {
+      "id": "Mauban_Quezon-2016-PY6",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the: Municipal Social Welfare and Development Officer, Municipal Agriculturist, Municipal Tourism Officer, Municipal Environment and Natural Resources Officer to conduct visitorial and monitoring of the projects and exert all efforts to collect the said receivables from the concerned beneficiaries; Municipal Treasurer to prepare schedule of beneficiaries of livelihood projects and payment thereof per program/projects basis and account the nature of livelihood collections totaling P314,706.00, previously recorded as Miscellaneous Income; adopt efficient collection strategies to enforce collection from the concerned beneficiaries to ensure the continuity of the livelihood project and give other prospective beneficiaries equal opportunity in availing capital for the livelihood program. Municipal Accountant to book up all the livelihood projects and reconcile the records with the Municipal Treasurer’s Office.",
+      "managementAction": "Efforts to collect the receivable from the concerned beneficiaries were exerted. Individual records of the beneficiaries for the livelihood project was prepared and updated for collections. During 2016, the municipality collected the amount of P173,763.00. Livelihood projects were booked up. Reconciliation of records is still ongoing.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "99% of the receivables are still for collection and reconciliation of records is still ongoing. Reiterated in Part II, Observation No. 5."
+    },
+    {
+      "id": "Mauban_Quezon-2016-PY7",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Assessor to fill out the Field Appraisal and Assessment Sheets (FAAS) properly; ensure that all Tax Declarations are supported with the necessary documents; maintain copy of Tax Map Control Roll (TMCR) and Tax Maps; and secure/keep the supporting documents on the appraisal of real properties and provide storage for the said documents.",
+      "managementAction": "The data needed in the FAAS were filled out. Tax Declarations were supported with necessary documents. Preparation of Tax Map Control Roll was started. Copies of supporting documents were maintained in the office.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Preparation of Tax Map Control roll is not yet completed. Reiterated in Part II, Observation No. 18"
+    },
+    {
+      "id": "Mauban_Quezon-2016-PY8",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Assessor to revisit the SFMV and conduct general revision of property assessment every three (3) years as required under Section 219 of the LGC.",
+      "managementAction": "The revision is a Provincial Imposition and general revision of property assessment was already submitted for review.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2016-PY9",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require the Sangguniang Bayan to effect revision of the Local Revenue Code, to attain realistic rates of taxes and enhance collections.",
+      "managementAction": "The revision of Municipal Revenue Code is currently ongoing.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Revision is still in process. Reiterated in Part II, Observation No. 13."
+    },
+    {
+      "id": "Mauban_Quezon-2016-PY10",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer to secure/keep the documents supporting the Gross Receipts for Business tax purposes and update the Abstract of Collections from individual taxpayers.",
+      "managementAction": "Starting 2017, all new/renew business and contractor were required to submit their FS and ITR or contracts.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The business taxes collected during 2016 were still not supported with Sworn statement and/or ITR. Reiterated in Part II, Observation No. 15."
+    },
+    {
+      "id": "Mauban_Quezon-2016-PY11",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require the: Municipal Social Welfare Development Officer to revise the “Mungkahing Proyekto” to include the necessary data for evaluation to ensure that the eligibility requirements of the future borrowers are met. Project Development Officer: to ensure that only eligible borrowers are granted financial assistance and to ensure that promissory notes are accomplished by the borrowers. Municipal Accountant: to provide a list of borrowers based from the Disbursement Vouchers to the Municipal Treasurer to submit the: duly accomplished “Mungkahing Proyekto”, promissory notes by the borrowers, proof of completion of training by the borrowers, proof that the borrowers has resided in his/her barangay for six months and planned to stay for the next two years. The Municipal Accountant and the Municipal Treasurer to reconcile their records regularly.",
+      "managementAction": "Various documents were submitted to this Office. Various documents were submitted to this office. Municipal Accountant: to provide a list of borrowers based from the Disbursement Vouchers to the Municipal Treasurer - Not Implemented. Duly accomplished “Mungkahing Proyekto”, promissory notes by the borrowers, proof of completion of training by the borrowers, proof that the borrowers has resided in his/her barangay for six months and planned to stay for the next two years - Not Implemented. The Municipal Accountant and the Municipal Treasurer to reconcile their records regularly. Reconciliation of records is still ongoing.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Other documents were not submitted yet. Reiterated in Part II, Observation No. 9."
+    },
+    {
+      "id": "Mauban_Quezon-2016-PY12",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Treasurer and the Market Supervisor to: draw lease contracts between the Municipal Government of Mauban and stall/boothholders in order to protect the interest of the Municipality against illegal users of municipal amenities. adopt efficient collections strategies to enforce collection from the concerned stallholders.",
+      "managementAction": "Lease contracts were already prepared and are currently waiting to be served. Some outstanding balances were collected.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Lease contracts were not yet served to the stall/booth holders. Reiterated in Part II, Observation No. 13"
+    },
+    {
+      "id": "Mauban_Quezon-2016-PY13",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Local School Board to observe the provisions of Section 272 of Republic Act (RA) No. 7160 and DECS, DBM and DILG Joint Circular No. 01 series of 1998 in the preparation of the SEF budget. We also recommended to refund the amount of ₱253,000.00.",
+      "managementAction": "Refunded the amount of P253,000.00 with OR No. 2242704 dated July 19, 2016",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2016-PY14",
+      "year": 2016,
+      "recommendation": "We reiterated that the Municipal Mayor require the Municipal Accountant to: coordinate with the Sangguniang Bayan for the resolution declaring the economic enterprises of the Municipality; and maintain complete sets of subsidiary ledgers for all economic enterprises operated by the Municipality including the 20% Development Fund and prepare the required financial statements and supporting schedules in compliance with Section 313 of RA No. 7160 and Sections 105 and 110 of the Manual on NGAS.",
+      "managementAction": "A resolution was made to declare the economic enterprise of the Municipality. A complete sets of subsidiary ledgers were maintained in the Office of the Municipal Accountant.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2016-PY15",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to record the vehicle received as donation in the appropriate account at fair value in compliance with Section 112 of P.D. No. 1445, PPSAS 17 and PPSAS 23 for proper presentation in the financial statements.",
+      "managementAction": "The Journal Entry has been prepared to record the vehicle.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2016-PY16",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require the: Municipal Engineer and the Accountant to submit to the Auditor for evaluation all the required documents. Municipal Engineer and the Municipal Planning and Development Officer and the BAC Secretariat to indicate the contract duration in the Program of Work, Invitation to Bids and print out copies of the Invitation posted in the PHILGEPS.",
+      "managementAction": "The supporting documents were submitted to this office for evaluation. The Contract Duration in the Program of Work, Invitation to Bids and print our copies of the Invitation posted in the PHILGEPS was indicated.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mauban_Quezon-2016-PY17",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal Planning and Development Council and the General Services Office to conduct study on the feasibility and viability of re-opening the Municipal Asphalt Plant. We also recommended to inquire with the Provincial Fiscal on the possible legal remedies on its operation.",
+      "managementAction": "Inquiry with Provincial Fiscal Al Viscocho and Asst. Fiscal Harlyn P. Villanueva was made. Also, an appeal was filed in court.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Management was not able to conduct study on the feasibility and viability of reopening the Municipal Asphalt Plant because the ProASPA company banned the Municipality from entering the premises. Reiterated in Part II, Observation No. 14."
+    },
+    {
+      "id": "Mauban_Quezon-2016-PY18",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor: demand from the Contractors the completion of the projects in accordance with the approved program of works, structural and planning design otherwise demand liquidated damages or even file appropriate charges against the erring contractors and request that they be blacklisted. direct the MPDC Officer to turn over the documents on the said projects to the Municipal Engineer to evaluate the extent of damages incurred caused by the delay in the completion of the projects.",
+      "managementAction": "The infrastructure projects were already enjoyed by the students of respective schools. Documents were turned over to the Municipal Engineer.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    }
+  ]
+}

@@ -1,0 +1,646 @@
+{
+  "lguCode": "1907001000",
+  "lguName": "Panglima Sugala",
+  "province": "Tawi-Tawi",
+  "region": "BARMM",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "PanglimaSugala_TawiTawi_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "Management adhere to the pertinent provisions of the Local Government Code and cause the Sangguniang Bayan to enact updated ordinances that can be the basis of the general revision of real property assessment and classification once every three (3) years to maximize lgu’s effort in raising local revenues.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "Create an Inventory Committee to take charge in the overall physical count on PPE and submit the corresponding reports to the Office of the Auditor immediately thereafter. Items that are beyond economic repair shall be properly disposed and dropped from the books.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "2019 Reiterated as Finding # 1 in this Report."
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "The Municipal Mayor instruct the Municipal Accountant and Municipal Treasurer to strictly adhere to the guidelines pertaining to the submission of financial statements and DVs and other accounting reports. The Municipal Mayor instruct the Municipal Accountant to distribute equitably work assignment among accounting personnel so as to prevent work overload and be able to meet deadlines on report submission.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "2020 Reiterated as Finding # 7 in this Report."
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "Management should require the General Services Officer/ Property Officer to prepare the report of properties that require insurance coverage and submit the same to the GSIS. Further, management should insure all insurable assets with the General Insurance Fund of the GSIS to cover the cost of the properties in case of loss due to fie and other contingent event in accordance with Republic Act No. 656.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We reiterate our recommendation for the LGU to conduct periodic physical\ninventory of its property, plant and equipment. Items that are beyond economic\nrepair shall be properly disposed and dropped from the books.\n\nWe also recommend that the LCE direct the Municipal Accountant and Municipal\nTreasurer to maintain PPE Ledger Cards and Property Cards, respectively, and to\nconduct regularly reconciliation of their records to ensure correctness.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended that:\n\na. the Municipal Mayor constitute a committee to conduct inventory of all road\nnetworks of the Municipality;\n\nb. the Municipal Mayor fill-up the position of Supply Officer;\n\nc. The Supply Officer maintain the Local Road Inventory and Road Map and\nkeep a complete Local Road Network Property Card for each network;\n\nd. the Municipal Engineer provide the local accountant and the Supply Officer\nwith the complete description and cost segregation of road components for\nroad projects.\n\ne. The Municipal Accountant ensure that the transfer all local roads to the\naccount Road Networks Account shall be completed and keep Local Road\nNetwork Property Ledger for each network.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor create a committee to undertake the\nreconciliation of unremitted premiums and to hasten the negotiation with the GSIS\non the interest due & surcharges. Thereafter, they should come up with a\ncommitment on how to remit the long outstanding premiums.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Budget Officer to maintain\nthe Registries of Appropriation, Allotment and Obligation for each class of\nexpenditure, as prescribed, to ensure the preparation of the Statement of\nComparison of Budget and Actual Amounts as of a given date anytime and\nestablish a strong internal control on obligation of expenses.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the concerned officials to\nsubmit to the Audit Team copies of all approved contracts, together with the complete\nsupporting documents, within five days from perfection thereof, for timely review of\nthe legal and technical aspects, reasonableness of the contract costs and to facilitate\nthe inspection of the projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "We recommend that the Municipal Mayor require the GAD Focal Person to\ninstitutionalize the GAD database with adequate and systematically gathered\nsex-disaggregated data which will provide the bases for gender analysis,\nplanning, programming and policy formulation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "We recommended that:\n\na. The Municipal Treasurer strictly adhere to the guidelines pertaining to the\nsubmission of and disbursement vouchers and other accounting reports.\n\nb. The Municipal Accountant distribute equitably the work assignment among\naccounting personnel so as to prevent work overload and backlogs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Tawi-Tawi__PanglimaSugala_TawiTawi-2020-PY1",
+      "year": 2020,
+      "recommendation": "Management should insure all insurable assets with the General Insurance Fund of the GSIS to cover the cost of the properties in case of loss due to fire and other contingent event in accordance with Republic Act No. 656, otherwise known as Property Insurance Law, as amended by Presidential Decree No. 245 dated July 13, 1973.",
+      "managementAction": "AAR CY 2017 Management sent letter to GSIS inquiring what are the documents needed for the insurance of their buildings",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Tawi-Tawi__PanglimaSugala_TawiTawi-2020-OBS1",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Tawi-Tawi__PanglimaSugala_TawiTawi-2020-OBS2",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Tawi-Tawi__PanglimaSugala_TawiTawi-2020-OBS3",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Tawi-Tawi__PanglimaSugala_TawiTawi-2020-PY2",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation for the LGU to conduct periodic physical inventory of its property, plant and equipment and determined the carrying accounts and recognized the depreciation charges and impairment losses in accordance with the PPSAS 17 and 27 respectively. Items that are beyond economic repair shall be properly dropped from the books",
+      "managementAction": "AAR CY 2019 Incomplete physical inventory taking due to time constraint and lacking of manpower",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Tawi-Tawi__PanglimaSugala_TawiTawi-2020-PY3",
+      "year": 2020,
+      "recommendation": "The management should instruct officials concerned to submit disbursement vouchers and other required reports promptly, to meet the deadline set by the Commission on Audit which is every 10th day of the ensuing month. Otherwise, we will be compelled to request for the withholding of salaries and other emoluments of concerned personnel until such time that the requirements of the Commission on Audit are being complied with Section 122(2), P.D. 1445.",
+      "managementAction": "AAR CY 2019 The delayed was due to personnel are under staff",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Tawi-Tawi__PanglimaSugala_TawiTawi-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended that Management adhere to the pertinent provisions of the Local Government Code and cause the Sangguniang Bayan to enact updated ordinances that can be the basis of the general revision of real property assessment and classification once every three (3) years to maximize LGU’s effort in raising local revenues",
+      "managementAction": "AAR CY 2019 Management will conduct information drive to encourage its constituent to be more social responsible in paying their real property taxes",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_Tawi-Tawi-2019-PY1",
+      "year": 2019,
+      "recommendation": "Management should insure all insurable assets with the General Insurance Fund of the GSIS to cover the cost of the properties in case of loss due to fire and other contingent event in accordance with Republic Act No. 656, otherwise known as Property Insurance Law, as amended by Presidential Decree No. 245 dated July 13, 1973.",
+      "managementAction": "Management sent letter to GSIS inquiring what are the documents needed for the insurance of their buildings",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in CY 2019 of Audit Observations No. 4"
+    },
+    {
+      "id": "PanglimaSugala_Tawi-Tawi-2019-OBS1",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_Tawi-Tawi-2019-OBS2",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_Tawi-Tawi-2019-OBS3",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_Tawi-Tawi-2019-PY2",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation for the LGU to conduct periodic physical inventory of its property, plant and equipment and determined the carrying accounts and recognized the depreciation charges and impairment losses in accordance with the PPSAS 17 and 27 respectively. Items that are beyond economic repair shall be properly dropped from the books",
+      "managementAction": "Incomplete physical inventory taking due in CY 2019",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reiterated in CY 2019 of Audit Observations No.1. to lacking of technical know how and manpower shortage"
+    },
+    {
+      "id": "PanglimaSugala_Tawi-Tawi-2019-PY3",
+      "year": 2019,
+      "recommendation": "The management should instruct officials concerned to submit disbursement vouchers and other required reports promptly, to meet the deadline set by the Commission on Audit which is every 10th day of the ensuing month. Otherwise, we will be compelled to request for the withholding of salaries and other emoluments of concerned personnel until such time that the requirements of the Commission on Audit are being complied with Section 122(2), P.D. 1445.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reiterated in CY 2019 of Audit Observation No. 3"
+    },
+    {
+      "id": "PanglimaSugala_Tawi-Tawi-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommend that copies of Purchase Orders/Contracts and Acceptance and Inspection Reports be submitted on time to the Auditor’s Office as required under COA Circular No. 96-010 and Section 118 of the NGAS Manual, Volume I.",
+      "managementAction": "Complied",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_Tawi-Tawi-2019-PY5",
+      "year": 2019,
+      "recommendation": "Management should create a committee to undertake the reconciliation of unremitted premiums and to hasten the negotiation with the GSIS on the interest",
+      "managementAction": "Complied",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2018-OBS1",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2018-OBS2",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2018-OBS3",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2018-OBS4",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2018-OBS5",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2018-OBS6",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2018-OBS7",
+      "year": 2018,
+      "recommendation": "Recommendation:\na. We reiterate our recommendation for the LGU to conduct periodic physical\ninventory of its property, plant and equipment. Items that are beyond\neconomic repair shall be properly disposed and dropped from the books.\nManagement must adhere the PPSAS 17 & 27 of Volume I and II\nrespectively.\nb. Management must create an Inventory Committee to take charge in the\noverall physical count on PPE and submit corresponding reports to the\noffice of the auditor immediately thereafter.\nc. Include in the yearly action plan the conduct of physical count on all PPE,\nas this activity in very important in checking actual existence of the assets\nand determining its usefulness and current condition as well as pinpoint\ncustodial responsibilities.\nd. Maintain/provide General Ledgers, Subsidiary Ledgers (Equipment Ledger\nCards) on PPE accounts and reconcile balances with property records and\nlikewise with Report on Physical Count of PPE to be able to reflect\ncomplete and accurate PPE balance in the financial statements.\ne. Require the accountable officers of the LGU to update the physical\ninventory of PPE in adherence to Section 63, Manual on the NGAS, Vol.II\nand submit the Report on the Physical Count of PPE (RPCPPE) to the\nAuditor not later than January 31 of each year.\nf. Every accountable officer must adhere and carefully evaluate their\naccountability on Section 494,GAAM, Vol. I, which states that “Every\naccountable officer for government property shall be liable for its money\nvalue in case of improper or unauthorized use or misapplication thereof, by\nhimself or by any person for whose acts he maybe responsible. He shall\nlikewise be liable for all losses, damage or deterioration occasioned by\nnegligence in the keeping or use of the property, whether or not, it be at the\ntime in his actual custody (PD 1445).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2018-OBS8",
+      "year": 2018,
+      "recommendation": "Recommendation:\nWe recommend that copies of POs/Contracts and AIR be submitted on time to the\nAuditor as required under Section A(1-2) of COA Circular No. 96-010 and\nSection 118 of the NGAS Manual, Volume I.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2018-OBS9",
+      "year": 2018,
+      "recommendation": "Recommendation:\nManagement should create a committee to undertake the reconciliation of\nunremitted premiums and to hasten the negotiation with the GSIS and Pag-Ibig,\nZamboanga City on the interest due. Thereafter, they should come up with a\ncommitment on how to remit the long outstanding premiums. However, those\nofficials responsible for not remitting the mandatory contribution should be\nanswerable for their actions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2018-OBS10",
+      "year": 2018,
+      "recommendation": "Recommendation:\nWe recommended that Municipal Accountant and Treasurer be instructed to\nstrictly adhere the guidelines pertaining to the submission of financial statements\nand DVs and other accounting reports. Instruct the head of the accounting section\nto maximize work assignment among accounting personnel, so as to prevent work\noverload and meet deadlines on reports submission.\nMoreover, demand in writing, from the agency’s Collecting Officer and\nDisbursing Officer to immediately prepare monthly reports of their transactions\nand to submit the same together with its supporting documents, to the Accounting\nSection within the time prescribed by the regulations.\nRequest for the withholding of salaries and other emoluments of concerned\npersonnel until such time that the requirements of the COA are being complied\nwith Section 122(2), P.D. 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2018-OBS11",
+      "year": 2018,
+      "recommendation": "Recommendation:\nWe recommended that Management should require the Municipal\nTreasurer/Property Officer to prepare the report of properties that require\ninsurance coverage and submit the same to the GSIS.\nFurther, management should insure all insurable assets with the General\nInsurance Fund of the GSIS to cover the cost of the properties in case of loss due\nto fire and other contingent event in accordance with to Republic Act No. 656,\notherwise known as Property Insurance Law, as amended by PD No. 245 dated\nJuly 13, 1973.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2018-OBS12",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2018-OBS13",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2018-OBS14",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2018-OBS15",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2018-OBS16",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2018-OBS17",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2018-OBS18",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2018-PY1",
+      "year": 2018,
+      "recommendation": "Management should insure all insurable assets with the General Insurance Fund of the GSIS to cover the cost of the properties in case of loss due to fire and other contingent event in accordance with Republic Act No. 656, otherwise known as Property Insurance Law, as amended by Presidential Decree No. 245 dated July 13, 1973.",
+      "managementAction": "AAR CY 2016 Reiterated in CY 2018 of Audit Observations No. 4",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommended that LGU management must submit and furnished copies of contract and memorandum of agreement and their required attachment within five (5) days from their issuances to the Office of the Auditor in accordance with existing laws, rules and regulations.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2018-PY3",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation for the LGU to conduct periodic physical inventory of its property, plant and equipment and determined the carrying accounts and recognized the depreciation charges and impairment losses in accordance with the PPSAS 17 and 27 respectively. Items that are beyond economic repair shall be properly dropped from the books.",
+      "managementAction": "AAR CY 2016 Reiterated in CY 2017 of Audit Obser vations No.1",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2018-PY4",
+      "year": 2018,
+      "recommendation": "The management should instruct officials concerned to submit disbursement vouchers and other required reports promptly, to meet the deadline set by the Commission on Audit which is every 10th day of the ensuing month. Otherwise, we will be compelled to request for the withholding of salaries and other emoluments of concerned personnel until such time that the requirements of the Commission on Audit are being complied with Section 122(2), P.D. 1445.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommend that copies of Purchase Orders/Contracts and AIR be submitted on time to the Auditor’s Office as required under Section A(1-2) of COA Circular No. 96-010 and Section 118 of the NGAS Manual, Volume I.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2017-PY1",
+      "year": 2017,
+      "recommendation": "Management should insure all insurable assets with the General Insurance Fund of the GSIS to cover the cost of the properties in case of loss due to fire and other contingent event in accordance with Republic Act No. 656, otherwise known as Property Insurance Law, as amended by Presidential Decree No. 245 dated July 13, 1973.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Re-iterated in CY 2017 of Audit Finding No. XI."
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2017-PY3",
+      "year": 2017,
+      "recommendation": "We reiterated our recommendation for the LGU to conduct periodic physical inventory of its property, plant and equipment and determined the carrying accounts and recognized the depreciation charges and impairment losses in accordance with the PPSAS 17 and 27 respectively.  Items that are beyond economic repair shall be properly dropped from the books",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Re-iterated in CY 2017 of Audit Finding No. VIII."
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2017-OBS1",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2017-OBS2",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2017-OBS3",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2017-OBS4",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2017-PY2",
+      "year": 2017,
+      "recommendation": "We recommended that LGU management must submit and furnished copies of contract and memorandum of agreement and their required attachment within five (5) days from their issuances to the Office of the Auditor in accordance with existing laws, rules and regulations.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Re-iterated in CY 2017 of Audit Finding No. VII."
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2017-PY4",
+      "year": 2017,
+      "recommendation": "The management should instruct officials concerned to submit disbursement vouchers and other required reports promptly, to meet the deadline set by the Commission on Audit which is every 10th day of the ensuing month.  Otherwise, we will be compelled to request for the withholding of salaries and other emoluments of concerned personnel until such time that the requirements of the Commission on Audit are being complied with Section 122(2), P.D. 1445.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Re-iterated in CY 2017 of Audit Finding No. X."
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2017-PY5",
+      "year": 2017,
+      "recommendation": "We recommend that copies of Purchase Orders/Contracts and Acceptance and Inspection Reports be submitted on time to the Auditor’s Office as required under   of COA Circular No. 96-010 and Section 118 of the NGAS Manual, Volume I.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2017-PY6",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive (LCE) fast tract the implementation of the projects/programs funded by the National Government Agencies so as not deprive further the public of the use and benefits derived from the said projects and follow-up to the concerned NGAs the immediate release of funds.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2017-PY7",
+      "year": 2017,
+      "recommendation": "We recommended that management prepare its 10-year Ecological Solid Waste Management Plan with emphasis on the compliance of the requirements and provisions set forth in RA 9003 and its Implementing Rules and Regulations. Prepare annually the action plan on solid waste management that details the priority activities to be performed and delivered for the gradual implementation of its 10-year plan.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2017-PY8",
+      "year": 2017,
+      "recommendation": "We recommended that management prepare its Comprehensive Land Use Plan (CLUP) and Comprehensive Development Plan (CDP) which may lead to unfavourable impact socio-economic and environmental  development as provided under Section 106, 107 & 109  of R.A No. 7160, Local Government Code of 1991.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2017-PY9",
+      "year": 2017,
+      "recommendation": "We recommended that to provide information for a complete profile of the Leagues of Local Government Units (LGUs) and the Leagues and Federations of Local Elective Officials pursuant to COA Resolution No. 2011-014 dated December 13, 2011 and COA Memorandum No. 2012-008.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2016-PY1",
+      "year": 2016,
+      "recommendation": "We reiterate our recommendation for the LGU to conduct periodic physical inventory of its property, plant and equipment.  Items that are beyond economic repair shall be properly disposed and dropped from the books.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2016-PY2",
+      "year": 2016,
+      "recommendation": "LGU must submit and furnished copies of contract and memorandum of agreement and their required attachment within five (5) days from their issuances to the Office of the Auditor in accordance with existing laws, rules and regulations.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2016-PY3",
+      "year": 2016,
+      "recommendation": "We recommend that copies of Purchase Orders/Contracts and Acceptance and Inspection Reports be submitted on time to the Auditor’s Office as required under Section A (1-2) of COA Circular No. 96-010 and Section 118 of the NGAS Manual, Volume I.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2016-PY4",
+      "year": 2016,
+      "recommendation": "We recommend that municipal accountant and the municipal treasurer be instructed to strictly adhere the guidelines pertaining to the submission of financial statements and disbursement vouchers and other accounting reports. Instruct the head of the accounting section to maximize work assignment among accounting personnel, so as to prevent work overload and meet deadlines on reports submission.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2016-OBS1",
+      "year": 2016,
+      "recommendation": "LGU must submit and furnished copies of contract and memorandum of agreement  and their required attachment within five (5) days from their issuances to the Office of the Auditor in accordance with existing laws, rules and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We recommend that copies of Purchase Orders/Contracts and Acceptance and Inspection Reports be submitted on time to the Auditor’s Office as required under Section A (1-2) of COA Circular No. 96-010 and Section 118 of the NGAS Manual, Volume I.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We reiterate our recommendation for the LGU to conduct periodic physical inventory of its property, plant and equipment.  Items that are beyond economic repair shall be properly disposed and dropped from the books. Management must adhere the PPSAS 17 & 27 of Volume I and II respectively.\nManagement must create an Inventory Committee to take charge in the overall physical count on PPE and submit corresponding reports to the office of the auditor immediately thereafter.\nInclude in the yearly action plan the conduct of physical count on all PPE, as this activity in very important in checking actual existence of the assets and determining its usefulness and current condition as well as pinpoint custodial responsibilities.\nMaintain/provide General Ledgers, Subsidiary Ledgers (Equipment Ledger Cards) on PPE accounts and reconcile balances with property records and likewise with Report on Physical Count of PPE to be able to reflect complete and accurate PPE balance in the financial statements.\nRequire the accountable officers of the LGU to update the physical inventory of PPE in adherence to Section 63, Manual on the NGAS, Vol.II and submit the Report on the Physical Count of PPE (RPCPPE) to the Auditor not later than January 31 of each year.\nEvery accountable officer must adhere and carefully evaluate their accountability on Section 494,GAAM, Vol. I, which states that “Every accountable officer for government property shall be liable for its money value in case of improper or unauthorized use or misapplication thereof, by himself or by any person for whose acts he maybe responsible. He shall likewise be liable for all losses, damage or deterioration occasioned by negligence in the keeping or use of the property, whether or not, it be at the time in his actual custody (PD 1445).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We recommend that municipal accountant and the municipal treasurer be instructed to strictly adhere the guidelines pertaining to the submission of financial statements and disbursement vouchers and other accounting reports. Instruct the head of the accounting section to maximize work assignment among accounting personnel, so as to prevent work overload and meet deadlines on reports submission.\nMoreover, demand in writing, from the agency’s Collecting Officer and Disbursing Officer to immediately prepare monthly reports of their transactions and to submit the same together with its supporting documents, to the Accounting Section within the time prescribed by the regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2016-OBS5",
+      "year": 2016,
+      "recommendation": "Management should insure all insurable assets with the General Insurance   Fund of the GSIS to cover the cost of the properties in case of loss due to fire and other contingent event in accordance with Republic Act No. 656, otherwise known as Property Insurance Law, as amended by Presidential Decree No. 245 dated July 13, 1973.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive (LCE) fast tract the implementation of the projects/programs funded by the National Government Agencies so as not deprive further the public of the use and benefits derived from the said projects and follow-up to the concerned NGAs the immediate release of funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We recommended that management prepare its 10-year Ecological Solid Waste Management Plan with emphasis on the compliance of the requirements and provisions set forth in RA 9003 and its Implementing Rules and Regulations. Prepare annually the action plan on solid waste management that details the priority activities to be performed and delivered for the gradual implementation of its 10-year plan.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We recommended that management prepare its Comprehensive Land Use Plan (CLUP) and Comprehensive Development Plan (CDP) which may lead to unfavourable impact socio-economic and environmental  development as provided under Section 106, 107 & 109  of R.A No. 7160, Local Government Code of 1991.\n10-year Ecological Solid Waste Management Plan with emphasis on the compliance of the requirements and provisions set forth in RA 9003 and its Implementing Rules and Regulations. Prepare annually the action plan on solid waste management that details the priority activities to be performed and delivered for the gradual implementation of its 10-year plan",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2016-OBS9",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2016-OBS10",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2016-OBS11",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2016-OBS12",
+      "year": 2016,
+      "recommendation": "We recommended that to provide information for a complete profile of the Leagues of Local Government Units (LGUs) and the Leagues and Federations of Local Elective Officials pursuant to COA Resolution No. 2011-014 dated December 13, 2011 and COA Memorandum No. 2012-008.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PanglimaSugala_TawiTawi-2016-PY5",
+      "year": 2016,
+      "recommendation": "We recommend that the accounting office immediately compute or consider the existing computation based on the prior years for the depreciation of the PPE based on the available records.   Thereafter, an adjustment should be made after a physical count is completed.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    }
+  ]
+}

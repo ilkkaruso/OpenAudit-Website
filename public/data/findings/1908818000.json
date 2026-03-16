@@ -1,0 +1,830 @@
+{
+  "lguCode": "1908818000",
+  "lguName": "Pandag",
+  "province": "Maguindanao del Sur",
+  "region": "BARMM",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-PY3",
+      "year": 2022,
+      "recommendation": "3. To apply the guidelines and procedures on inventory taking in accordance with section 3.0 of the Commission on Audit (COA) Circular No. 2020-006 dated January 31, 2020.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-PY6",
+      "year": 2022,
+      "recommendation": "6. To Conduct the Physical Inventory taking pursuant to Section 5.3 of the Commission on Audit (COA) Circular No. 2020-006 dated January 31, 2020.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-PY7",
+      "year": 2022,
+      "recommendation": "7. To prepare the Report on Physical Count of Property, Plant, and Equipment (RPCPPE) in pursuant of Section 6.2.13 of the COA Circular No. 2020-006 dated January 31, 2020.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-PY8",
+      "year": 2022,
+      "recommendation": "8. To ensure that the recording are updated pursuant to Section 6.3.1(a) of the COA Circular No. 2020-006 dated January 31, 2020.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-PY10",
+      "year": 2022,
+      "recommendation": "10. To prepare list of non-existing/missing PPEs in accordance with Section 6.3.1(d) of the COA Circular No. 2020-006 dated January 31, 2020.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-PY11",
+      "year": 2022,
+      "recommendation": "11. To prepare Inventory and Inspection Report of Unserviceable Property (IIRUP) in accordance with Section 6.3.1(h) of the COA Circular No. 2020-006 dated January 31, 2020.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-PY12",
+      "year": 2022,
+      "recommendation": "12. To reconcile with the Accounting Unit in accordance with Section 6.3.1(f) of the COA Circular No. 2020-006 dated January 31, 2020.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-PY14",
+      "year": 2022,
+      "recommendation": "14. To take up necessary accounting entries to recognize the loss of PPE and to set up corresponding receivables from concerned accountable officers pursuant to Section 6.3.2(b) of the COA Circular No. 2020-006 dated January 31, 2020.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-PY15",
+      "year": 2022,
+      "recommendation": "15. To reconcile with the Property Unit, pursuant to Section 6.3.2(c) of the COA Circular No. 2020-006 dated January 31, 2020.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-PY16",
+      "year": 2022,
+      "recommendation": "16. To take up necessary accounting entries to write-off/drop from the books of accounts the remaining balance as of December 31, 2021, pursuant to Section 6.3.2(e) of COA Circular No. 2020-006.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-PY17",
+      "year": 2022,
+      "recommendation": "17. To ensure the total balance of PPELCs/SLs totally with the balances of controlling PPE accounts in the General Ledgers, Pursuant to Section 6.3.2(f) of the COA Circular No. 2020-006 dated January 31, 2020.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-PY18",
+      "year": 2022,
+      "recommendation": "18. To witness the conduct of the inventory in accordance with Section 5.5 of the COA Circular No. 2020-006 dated January 31, 2020.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-OBS1",
+      "year": 2022,
+      "recommendation": "1.14 In light of the aforementioned, we recommended that the LCE instruct:\n\n1.14.1 The Inventory Committee to conduct a physical count of all the\nLGU’s PPE and prepare the corresponding RPCPPE, which\nmust be submitted to the Office of the Auditor by January 31 of\neach year, pursuant to Section 124 of the MNGAS for LGUs\nVolume I.\n\n1.14.2 The Municipal Accountant and General Services Officer to keep\ntrack of their individual property cards. Afterwards, reconcile\ntheir records, amend each property ledger card, and reflect the\nright PPE account valuation in the current year's Statement of\nFinancial Position, in accordance with Sections 119 and 120 of\nthe MNGAS for LGUs Volume I and Sections 13 and 45 of the\nsame Manual Volume II.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-OBS2",
+      "year": 2022,
+      "recommendation": "2.9 Therefore, we recommended that the Local Chief Executive (LCE):\n\n2.9.1 Require the Inventory Committee to conduct physical count of\nits road networks in order to ascertain the existence of the\nbalance of the Road Network Accounts, pursuant to Sections\nV.1 and V.2 of the Commission on Audit (COA) Circular No.\n2015-008 dated November 23, 2015;\n2.9.2 Direct the Municipal Engineer to provide the Municipal\nAccountant of the complete description and cost segregation of\nthe road networks to facilitate the preparation of the subsidiary\nledgers for roads and its components;\n2.9.3 Require the General Services Officer to prepare and maintain\nthe Local Road Network Property Card for all roads and its\ncomponents, including Road Map, and as well as the\npreparation of Report on Local Road Networks.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-OBS3",
+      "year": 2022,
+      "recommendation": "3.7 We recommended that the LCE:\n3.7.1 Demand that the Municipal Engineer to complete the required\nStatus of Work Accomplished for each infrastructure project\nthat management implements. This document will be verified by\nthe Municipality's Inspectorate Committee and serve as the foundation\nfor the issuance of the corresponding Certificates of\nCompletion and Acceptance by the head of agency.\n3.7.2 Require that the Status of Work Accomplished, Inspection\nReports, and Certificates of Completion and Acceptance on\nProjects / Programs under the 20% Development Fund be\nsubmitted to the Office of the Auditor, in accordance with\nSection 2.1 of the DILG-DBM JMC No. 2017 and Appendix 1 of\nthe RIRR of RA 9184, respectively.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-OBS4",
+      "year": 2022,
+      "recommendation": "4.7 We recommended that the LCE to:\n4.7.1 Instruct the Bid and Award Committee to provide the audit\nteam of the perfected contracts, purchase orders and all\nsupporting documentation within five working days from the\ndate of its issuance. This will allow the Auditor time to review\nthe contracts and purchase orders and identify to management\nany defects and/or deficiencies, if any, in accordance with\nSection 3 of COA Circular No. 2009-001; and\n4.7.2 Submit the contract for technical inspection and evaluation by\nthe COA Technical Audit Specialist (TAS), to ensure the\nregularity and propriety of the contracts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-OBS5",
+      "year": 2022,
+      "recommendation": "5.5 We recommended for the effort of the management to remit the\nmandatory deductions/withheld to the GFIs such as BIR, GSIS, PagIBIG\nand PHIC, in accordance with Section 81 of the National Revenue Code,\nSection 3.4 Rule III of the Implementing Rules and Regulations (IRRs) of\nthe Republic Act (R.A.) No. 8291, otherwise known as the GSIS Act of\n1997, Section 3 of the IRRs of the RA No. 9679, otherwise known as the\nHDMF of 2009 on PAG-IBIG, Section II of the IRRs of the RA No. 7875,\notherwise known as the National Insurance Act, respectively.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-OBS6",
+      "year": 2022,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-OBS7",
+      "year": 2022,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-PY1",
+      "year": 2022,
+      "recommendation": "1. We recommend that the Inventory Committee be convened and for them to immediately schedule the conduct of the annual inventory of all assets to ensure fairness of accounts presentation in the financial statements. In the preparation of the report, the different column should be properly fill-up to ensure that all items are properly identified and accounted for. Assignment of Property Number should be properly done so that each of the items has a unique code for easy reference. Likewise, the Municipal accountant and the Property Municipal Treasurer should maintain the required stock cards, equipment ledger cards and property cards respectively. In addition, when the physical inventory of PPE is already available it shall be reconciled with the (a) PPE Ledger Card, (b) the control accounts and (c) stock and property cards. If there would be any discrepancy, it should be immediately verified and adjusted.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-PY2",
+      "year": 2022,
+      "recommendation": "2. Require the Municipal Government to strictly adhere to prescribed procurement laws and regulations on Section 373 of Republic Act No. 7160 otherwise known as the Local Government Code of the Philippines and IRR RA No. 9184, the Government Procurement Reform Act.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-PY4",
+      "year": 2022,
+      "recommendation": "4. To create the Inventory Committee Composing of Accounting, Property Division/Units and Internal Audit Service/Unit for the purpose of cleansing the PPE Account in accordance with Section 5.2 of the COA Circular No. 2020-006 dated January 31, 2020.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-PY5",
+      "year": 2022,
+      "recommendation": "5. To prepare the Physical Inventory Plan (PIP) in accordance with Section 5.9 of the COA Circular No. 2020-006 dated January 31, 2020.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-PY9",
+      "year": 2022,
+      "recommendation": "9. To prepare Property Cards for items found at station, in accordance with Section 6.3.1(c) of the COA Circular No. 2020-006 dated January 31, 2020.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-PY13",
+      "year": 2022,
+      "recommendation": "13. To take necessary accounting entries to recognize PPEs found at the station and prepare corresponding Property, Plant Equipment Ledger Cards based in the List of PPEs found at the Station in accordance with Section 6.3.2(a) of the COA Circular No. 2020-006 dated January 31, 2020.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-PY19",
+      "year": 2022,
+      "recommendation": "19. We recommend to the Local Chief Executive to require the accountable officer of the Government responsible for the activities that require the execution of the contract shall immediately furnish copies to the COA and other Offices concerned which must be within five (5) days from the date of execution as prescribed by COA Circular No. 96-010.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2022-PY20",
+      "year": 2022,
+      "recommendation": "20. We recommend to the Local Chief Executive that the accountable officer responsible for the activities that require the execution of the contract shall immediately furnish copies to the COA and other Offices concerned which must be within five (5) days from the date of execution as prescribed by COA Circular No. 96-010.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "5. Require the Municipal Government to strictly adhere to prescribed procurement laws and regulations on Section 373 of Republic Act No. 7160 otherwise known as the Local Government Code of the Philippines and IRR RA No. 9184, the Government Procurement Reform Act. We recommended that officials responsible for the activities that require the execution of contract shall immediately furnish copies to the COA and other offices concerned which must be within five (5) days from the date of execution as prescribed by COA Circular No. 96-010.",
+      "managementAction": "5. No action was taken",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "5. Due to the distance of the Municipal LGU from the PSAO"
+    },
+    {
+      "id": "Pandag_Maguindanao_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "1.12 We recommend to the management the following:\na. Local Chief Executive\na.1 To apply the guidelines and procedures on inventory taking\nin accordance with section 3.0 of the Commission on Audit\n(COA) Circular No. 2020-006 dated January 31, 2020.\na.2 To create the Inventory Committee Composing of\nAccounting, Property Division/Units and Internal Audit\nService/Unit for the purpose of cleansing the PPE Account in\naccordance with Section 5.2 of the COA Circular No. 2020-006\ndated January 31, 2020.\nb. Inventory Committee\nb.1 To prepare the Physical Inventory Plan (PIP) in\naccordance with Section 5.9 of the COA Circular No. 2020-006\ndated January 31, 2020.\nb.2 To Conduct the Physical Inventory taking pursuant to\nSection 5.3 of the Commission on Audit (COA) Circular No.\n2020-006 dated January 31, 2020.\nb.3 To prepare the Report on Physical Count of Property,\nPlant, and Equipment (RPCPPE) in pursuant of Section 6.2.13\nof the COA Circular No. 2020-006 dated January 31, 2020.\nc. Property Unit\nc.1 To ensure that the recording are updated pursuant to\nSection 6.3.1(a) of the COA Circular No. 2020-006 dated\nJanuary 31, 2020.\nc.2 To prepare Property Cards for items found at station, in\naccordance with Section 6.3.1(c) of the COA Circular No.\n2020-006 dated January 31, 2020.\nc.3 To prepare list of non-existing/missing PPEs in accordance\nwith Section (d) of the COA Circular No. 2020-006 dated\nJanuary 31, 2020.\nc.4 To prepare Inventory and Inspection Report of\nUnserviceable Property (IIRUP) in accordance with Section\n6.3.1(h) of the COA Circular No. 2020-006 dated January 31,\n2020.\nc.5 To reconcile with the Accounting Unit in accordance with\nSection 6.3.1(f) of the COA Circular No. 2020-006 dated\nJanuary 31, 2020.\nd. Accounting Unit\nd.1 To take necessary accounting entries to recognize PPEs\nfound at the station and prepare corresponding Property,\nPlant Equipment Ledger Cards based in the List of PPEs\nfound at the Station in accordance with Section 6.3.2(a) of the\nCOA Circular No. 2020-006 dated January 31, 2020.\nd.2 To take up necessary accounting entries to recognize the\nloss of PPE and to set up corresponding receivables from\nconcerned accountable officers pursuant to Section 6.3.2(b) of\nthe COA Circular No. 2020-006 dated January 31, 2020.\nd.3 To reconcile with the Property Unit, pursuant to Section\n6.3.2(c) of the COA Circular No. 2020-006 dated January 31,\n2020.\nd.4 To take up necessary accounting entries to write-off/drop\nfrom the books of accounts the remaining balance as of\nDecember 31, 2021, pursuant to Section 6.3.2(e) of COA\nCircular No. 2020-006\nd.5 To ensure the total balance of PPELCs/SLs totally with the\nbalances of controlling PPE accounts in the General Ledgers,\nPursuant to Section 6.3.2(f) of the COA Circular No. 2020-006\ndated January 31, 2020.\ne. Internal Audit Service/Unit\ne.1 To witness the conduct of the inventory in accordance with\nSection 5.5 of the COA Circular No. 2020-006 dated January\n31, 2020.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "2.3 We recommend to the Local Chief Executive to require the\naccountable officer of the Municipal Government to strictly adhere to\nthe prescribed procurement laws and regulations on Section 373 of\nRepublic Act No. 7160 otherwise known as the Local Government\nCode of the Philippines and IRR RA No. 9184, the Government\nProcurement Reform Act and furnish the team with the copy or\ncopies of the APP.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "3.3 We recommend to the Local Chief Executive to require the Municipal\ngovernment to strictly adhere to the prescribed procurement laws and\nregulations on Section 373 of Republic Act No. 7160 otherwise known\nas the Local Government Code of the Philippines and IRR RA No.\n9184, the Government Procurement Reform Act. We recommend that\nofficials responsible for the activities that require the execution of the\ncontract shall immediately furnish copies to the Commission on Audit\n(COA) and other offices concerned which must be within five (5) days\nfrom the date of execution as prescribed by Commission on Audit\n(COA) Circular No. 96-010.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "1. We recommend that the Inventory Committee be convened and for them to afterwards was schedule the conduct of the annual inventory of all assets to ensure fairness of accounts presentation in the Municipality’s financial statements. In the preparation of the report, the different column should be properly fill-up to ensure that all items are properly identified and accounted for. Assignment of Property Number should be properly done so that each of the items has a unique code for easy reference. Likewise, the Municipal accountant and the Municipal Custodian/ Municipal Treasurer should maintain the required stock cards, equipment ledger cards and property cards respectively. In addition, when the physical inventory of PPE is already available it shall be reconciled with the (a) PPE Ledger Card, ( b) the control accounts and (c) stock and property cards. If there would be any discrepancy, it should be immediately verified and adjusted.",
+      "managementAction": "1.Meeting was held for the purpose but no concrete steps afterwards was taken by the management.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "1. Due to the effect of Pandemic."
+    },
+    {
+      "id": "Pandag_Maguindanao_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "2. We recommended that management stop the practice of incurring obligations without the corresponding cash back-up to avoid penalties, surcharges and most of all legal implications in case the municipality would be unable to meet its obligations.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "3. We recommended that the Municipal Accountant be directed to require the attachment of the Waste Material Report in all payment of repairs and maintenance of their machinery and similar nature as part of the supporting documents.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "4. We recommended to require the property officer to renew Memorandum Receipts and/ or Acknowledgment Receipt for Equipment using the new format in accordance with the instructions under COA Handbook on Property and Supply Management System.",
+      "managementAction": "4. Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2020-OBS1",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2020-OBS2",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2020-OBS3",
+      "year": 2020,
+      "recommendation": "27. We recommended that the Inventory Committee be convened and for them to\nimmediately schedule the conduct of the annual inventory of all assets to ensure\nfairness of accounts presentation in the financial statements. In the preparation of the\nreport, the different column should be properly fill-up to ensure that all items are\nproperly identified and accounted for. Assignment of Property Number should be\nproperly done so that each of the items has a unique code for easy reference. Likewise,\nthe Municipal accountant and the Property Custodian/ Municipal Treasurer should\nmaintain the required stock cards, equipment ledger cards and property cards\nrespectively. In addition, when the physical inventory of PPE is already available it\nshall be reconciled with the (a) PPE Ledger Card, ( b) the control accounts and (c)\nstock and property cards. If there would be any discrepancy, it should be immediately\nverified and adjusted.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2020-OBS4",
+      "year": 2020,
+      "recommendation": "31. We recommended that management stop the practice of incurring obligations\nwithout the corresponding cash back-up to avoid penalties, surcharges and most of\nall legal implications in case the municipality would be unable to meet its obligations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2020-OBS5",
+      "year": 2020,
+      "recommendation": "37. We recommended that the Municipal Accountant be directed to require the\nattachment of the Waste Material Report in all payment of repairs and maintenance\nof their machinery and similar nature as part of the supporting documents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2020-OBS6",
+      "year": 2020,
+      "recommendation": "41. We recommended to require the property officer to renew Memorandum\nReceipts and/ or Acknowledgment Receipt for Equipment using the new format in\naccordance with the instructions under the COA Handbook on Property and Supply\nManagement System.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2020-OBS7",
+      "year": 2020,
+      "recommendation": "49. Require the Municipal Government to strictly adhere to prescribed\nprocurement laws and regulations on Section 373 of Republic Act No. 7160 otherwise\nknown as the Local Government Code of the Philippines and IRR RA No. 9184, the\nGovernment Procurement Reform Act. We recommended that officials responsible\nfor the activities that require the execution of contract shall immediately furnish\ncopies to the COA and other offices concerned which must be within five (5) days\nfrom the date of execution as prescribed by COA Circular No. 96-010.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommend to the Local Chief Executive (LCE) to direct the Municipal",
+      "managementAction": "Tax campaign was launched.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommend to the Local Chief Executive (LCE) to instruct the Municipal Accountant to provide for PPE in computing depreciation expenses.",
+      "managementAction": "Depreciate some office equipment.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Due to the pandemic the plan was not completed despite composition of inventory team because manpower were directed to aid in the bayanihan team in response to national disaster."
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommend to the Management to allocate the fund necessary for the LDRRMF and judiciously spend it in accordance with Section 21 of the Republic Act (RA) No. 10121.",
+      "managementAction": "Management spent only a small portion.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "No sufficient fund to allocate because IRA had just released in the last quarter of year 2020."
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__Pandag_Maguindanao-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommend to the Municipal Government to allocate sufficient funds for the preparation of the Solid Waste Management Plan in accordance to Section 16 of the Republic Act (RA) No. 7160.",
+      "managementAction": "initial action to the management was taken to allocate sufficient funds for the preparation of the Solid Waste Management Plan",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "No sufficient fund available due to the fact that their IRA had just released in the last quarter of year 2020."
+    },
+    {
+      "id": "Pandag_Maguindanao-2019-PY1",
+      "year": 2019,
+      "recommendation": "1.We recommend to the Local Chief Executive (LCE) to direct the Municipal Treasurer to exert extra effort to collect the Real Property Tax Receivables.",
+      "managementAction": "1. No appropriate action made.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "1. No campaign/drive to collect the tax during the year."
+    },
+    {
+      "id": "Pandag_Maguindanao-2019-PY4",
+      "year": 2019,
+      "recommendation": "4. We recommend to the management to allocate sufficient funds for the preparation of the Solid Waste Management Plan in accordance to Section 16 of the Republic Act (RA) No. 7160, otherwise known as the Local Government Code of the Philippines.",
+      "managementAction": "4. No action taken",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "4. No fund available due to Non - IRA Municipality."
+    },
+    {
+      "id": "Pandag_Maguindanao-2019-OBS1",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2019-OBS2",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommend to the Local Chief Executive (LCE) to direct the Municipal\nTreasurer to exert extra effort to collect the Real Property Tax Receivables in\naccordance with Section 6 of the Commission on Audit (COA) Circular No. 92-832\ndated July 3, 1992.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommend to the Local Chief Executive (LCE) to instruct the\naccountable officer/s to conduct inventory taking on all the LGU’s Property, Plant\nand Equipment in accordance with Section 156 of the Commission on Audit (COA)\nCircular No. 92-382 dated October 20, 1992.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommend to the Management to allocate the fund necessary for the\nLocal Disaster Risk Reduction and Management Fund (LDRRMF) and judiciously\nspend it in accordance with Section 21 of the Republic Act No. 10121, otherwise\nknown as an Act Strengthening the Philippine Disaster Risk Reduction\nManagement System, providing for the National Disaster Risk and Management\nFramework and institutionalizing the National Disaster Risk Reduction and\nManagement Plan Appropriating fund thereof and other purposes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommend to the management to allocate sufficient funds for the\npreparation of the Solid Waste Management Plan in accordance to Section 16 of the\nRepublic Act (RA) No. 7160, otherwise known as the Local Government Code of\n1991.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2019-PY2",
+      "year": 2019,
+      "recommendation": "2. We recommend to the Local Chief Executive (LCE) to instruct the Municipal Accountant to provide for depreciation and",
+      "managementAction": "2. Depreciate some office equipment. could not date of acquisition and needed time to provide for records.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "2. The management could not determine the date of acquisition and needed time to trace it in the records."
+    },
+    {
+      "id": "Pandag_Maguindanao-2019-PY3",
+      "year": 2019,
+      "recommendation": "3. We recommend to the Management to allocate the fund necessary for the LDRRMF and judiciously spend it in accordance with Section 21 of the Republic Act No. 10121, otherwise known as an Act Strengthening the Philippine Disaster Risk Reduction Management System, providing for the National Disaster Risk and Management Framework and institutionalizing the National Disaster Risk Reduction and Management Plan Appropriating fund thereof and other purposes.",
+      "managementAction": "3.Management spent only a small portion.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "3. No sufficient fund to allocate because of being a Non – IRA Municipality."
+    },
+    {
+      "id": "Pandag_Maguindanao-2018-PY2",
+      "year": 2018,
+      "recommendation": "2. We recommend to the Local Chief Executive (LCE) to direct the personnel concerned to submit the land title or other documents indicating ownership in accordance with Section 58 of the Presidential Decree (PD) No. 1445, otherwise known as the Government Auditing Code of the Philippines.",
+      "managementAction": "1. No action taken.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "1. Management insisted that the title of the land was already submitted to the audit team."
+    },
+    {
+      "id": "Pandag_Maguindanao-2018-PY3",
+      "year": 2018,
+      "recommendation": "3. We recommend to the Local Chief Executive (LCE) to direct the Comprehensive Development Plan (CDP), Executive Legislative Coordinator (MDPC) to submit the Comprehensive Development Plan (CDP), Executive Legislative Agenda (ELA) and Local Development Investment Program (LDIP) in accordance with Section 106 of the Local Government Code of the Philippines.",
+      "managementAction": "2. prepared the development Municipal plan but not in full.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "2. No budget for the purpose. It is a non-IRA Municipality."
+    },
+    {
+      "id": "Pandag_Maguindanao-2018-PY4",
+      "year": 2018,
+      "recommendation": "4. We recommend to the Local Chief Executive (LCE) to instruct the Municipal Treasurer to exert extra effort to collect the Real Property Tax Receivable Account of ₱1,396,844.03, pursuant to Section 57 of the Presidential Decree (PD) No. 464, otherwise known as the Real Property Tax Code.",
+      "managementAction": "3. Local Chief Executive instructed the Municipal Treasurer to collect for some reasons.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "3. Difficulty on the part of the Municipal Treasurer to collect for some reasons."
+    },
+    {
+      "id": "Pandag_Maguindanao-2018-PY6",
+      "year": 2018,
+      "recommendation": "6. We recommend to the management to submit the necessary documents on the KALSADA projects in accordance with Section 3.1.2 of the Commission on Audit (COA) Circular No. 2012-001 dated June 14, 2012.",
+      "managementAction": "4. No action taken.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "4. Documents would be submitted after the completion of the project."
+    },
+    {
+      "id": "Pandag_Maguindanao-2018-PY7",
+      "year": 2018,
+      "recommendation": "7. We recommend to the management to maintain the stand – by fund or Quick Response Fund (QRF) to avoid unavailability of the fund, in case of calamities in accordance with Section 5.1.5 of COA Circular No. 2012-002 dated September 12, 2012.",
+      "managementAction": "5. No action taken.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "5. No budget for the purpose. It is a non-IRA Municipality."
+    },
+    {
+      "id": "Pandag_Maguindanao-2018-PY8",
+      "year": 2018,
+      "recommendation": "8. We recommend to the Local Chief Executive (LCE) to implement Section 4 of the Republic Act (RA) No. 5447, otherwise known as An Act creating a Special Education Fund.",
+      "managementAction": "6. No action taken.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "6. No budget for the purpose."
+    },
+    {
+      "id": "Pandag_Maguindanao-2018-PY9",
+      "year": 2018,
+      "recommendation": "9. We recommend to the Local Chief Executive (LCE) to allocate funds for the preparation of the Solid Waste Management Plan in accordance to Section 16 of the Republic Act (RA) No. 7160, otherwise known as the Local Government Code of the Philippines.",
+      "managementAction": "7. Preparation made but in a slow paces because of financial constraint.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "7. No budget for the purpose this is a non-IRA Municipality."
+    },
+    {
+      "id": "Pandag_Maguindanao-2018-OBS1",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2018-OBS2",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2018-OBS3",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2018-OBS4",
+      "year": 2018,
+      "recommendation": "31. We recommend to the Local Chief Executive (LCE) to direct the Municipal\nTreasurer to exert extra effort to collect the Real Property Tax Receivables.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2018-OBS5",
+      "year": 2018,
+      "recommendation": "38. We recommend to the Local Chief Executive (LCE) to instruct the Municipal\nAccountant to provide for depreciation and refer to the Annex A – Table of Estimated\nUseful Life of the PPE in computing depreciation expenses.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2018-OBS6",
+      "year": 2018,
+      "recommendation": "44. We recommend to the Management to allocate the fund necessary for the\nLDRRMF and judiciously spend it in accordance with Section 21 of the Republic Act\nNo. 10121, otherwise known as an Act Strengthening the Philippine Disaster Risk\nReduction Management System, providing for the National Disaster Risk and\nManagement Framework and institutionalizing the National Disaster Risk Reduction\nand Management Plan Appropriating fund thereof and other purposes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2018-OBS7",
+      "year": 2018,
+      "recommendation": "49. We recommend to the management to allocate sufficient funds for the\npreparation of the Solid Waste Management Plan in accordance to Section 16 of the\nRepublic Act (RA) No. 7160, otherwise known as the Local Government Code of the\nPhilippines.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2018-PY1",
+      "year": 2018,
+      "recommendation": "1. We recommend to the Local Chief Executive (LCE) to direct the Municipal Accountant to submit Monthly Bank Reconciliation Statements together with the Bank Statements in the Trust Fund together with the Bank Statements as the Trust Fund as well as the Subsidiary Ledgers pursuant to Section 100 of Presidential Decree No. 1445, otherwise known as the Government Auditing Code of the Philippines.",
+      "managementAction": "1. Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2018-PY5",
+      "year": 2018,
+      "recommendation": "5. We recommend to the Local Chief Executive (LCE) the following: 43.1 Head of the Supply Unit 43.1.1 To submit the Report on the Physical Count of Inventories (RPCI) – Office Supplies. 43.1.2 To reconcile the Inventory Account with the Local Accounting Unit. 43.2 Municipal Accountant 43.2.1 To reconcile the Inventory Account with the Supply Unit.",
+      "managementAction": "5. Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2017-PY1",
+      "year": 2017,
+      "recommendation": "1. We recommend to the Local Chief Executive (LCE) to direct the Municipal Accountant to submit the Monthly Bank Reconciliation Statements together with the bank statements in the Trust Fund as well as the Subsidiary Ledgers pursuant to Section 100 of Presidential Decree No. 1445, otherwise known as the Government Auditing Code of the Philippines.",
+      "managementAction": "1. No Action",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "1. Management failed to obtain the Bank Statement"
+    },
+    {
+      "id": "Pandag_Maguindanao-2017-PY2",
+      "year": 2017,
+      "recommendation": "2. We recommend to the Local Chief Executive (LCE) to direct the personnel concerned to submit the land title or other documents indicating ownership in accordance with Section 58 of the Presidential Decree (PD) No. 1445, otherwise known as the Government Auditing Code of the Philippines.",
+      "managementAction": "2. No action",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "2. Not yet submitted"
+    },
+    {
+      "id": "Pandag_Maguindanao-2017-PY4",
+      "year": 2017,
+      "recommendation": "4. We recommend to the Local Chief Executive (LCE) to direct the Municipal Development Plan Coordinator (MDPC) to submit the Comprehensive Land Use Plan (CLUP), Comprehensive Development Plan (CDP), Executive Legislative Agenda (ELA) and Local Development Investment Program (LDIP) in accordance with Section 106 of the Local Government Code of the Philippines.",
+      "managementAction": "4.Management still preparing the Development Plan",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "4. No budget service it was Non-IRA municipality."
+    },
+    {
+      "id": "Pandag_Maguindanao-2017-OBS1",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2017-OBS2",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2017-OBS3",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2017-OBS4",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2017-OBS5",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2017-OBS6",
+      "year": 2017,
+      "recommendation": "36.\tWe  recommend to the Local Chief Executive (LCE) to instruct the Municipal Treasurer to exert extra effort to collect the Real Property Tax Receivable Account of  Ᵽ 1,396,844.03, pursuant to Section 57 of the Presidential Decree (PD) No. 464, otherwise known as the Real Property Tax Code.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2017-OBS7",
+      "year": 2017,
+      "recommendation": "43.\tWe recommend to the Local Chief Executive (LCE) the following:\n43.1\tHead of the Supply Unit\n43.1.1\tTo submit the Report on the Physical Count of Inventories (\tRPCI) – Office Supplies.\n43.1.2\tTo reconcile the Inventory Account with the Accounting Unit.\n38\n43.2\tMunicipal Accountant\n43.2.1\tTo reconcile the Inventory Account with the Supply Unit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2017-OBS8",
+      "year": 2017,
+      "recommendation": "48.\tWe recommend to the management to submit the necessary documents on the KALSADA projects in accordance with Section 3.1.2 of the Commission on Audit (COA) Circular No. 2012-001 dated June 14, 2012.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2017-OBS9",
+      "year": 2017,
+      "recommendation": "54.\tWe recommend to the management to maintain the stand – by fund or Quick Response Fund (QRF) to avoid inavailability of fund, in case of calamities in accordance with Section 5.1.5 of COA Circular No. 2012-002 dated September 12, 2012.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2017-OBS10",
+      "year": 2017,
+      "recommendation": "59.\tWe recommend to the Local Chief Executive (LCE) to implement Section 4 of the Republic Act (RA) No. 5447, otherwise known as An Act creating a Special; Education Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2017-OBS11",
+      "year": 2017,
+      "recommendation": "65.\tWe recommend to the Local Chief Executive (LCE) to allocate funds for the preparation of the Solid Waste Management Plan in accordance to Section 16 of the Republic Act (RA) No. 7160, otherwise known as the Local Government Code of the Philippines.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2017-PY3",
+      "year": 2017,
+      "recommendation": "3. We recognized the effort of the Municipal Government of Pandag, Maguindanao as well as the personnel concerned in the immediate settlement of their respective suspensions in accordance with Section 9.4 of Commission on Audit (COA) Circular No. 2009-006 dated September 15, 2009.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2016-OBS1",
+      "year": 2016,
+      "recommendation": "20. We recommend to the Local Chief Executive (LCE) to direct the Municipal Accountant to submit the Monthly Bank Reconciliation Statements together with the bank statements in the Trust Fund as well as the Subsidiary Ledgers pursuant to Section 100 of Presidential Decree No. 1445, otherwise known as the Government Auditing Code of the Philippines.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2016-OBS2",
+      "year": 2016,
+      "recommendation": "26. We recommend to the Local Chief Executive (LCE) to direct the personnel concerned to submit the land title or other documents indicating ownership in accordance with Section 58 of the Presidential Decree (PD) No. 1445, otherwise known as the Government Auditing Code of the Philippines.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2016-OBS3",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2016-OBS4",
+      "year": 2016,
+      "recommendation": "38. We recommend to the Local Chief Executive (LCE) to direct the Municipal Development Plan Coordinator (MDPC) to submit the Comprehensive Land Use Plan (CLUP), Comprehensive Development Plan (CDP), Executive Legislative Agenda (ELA) and Local Development Investment Program (LDIP) in accordance with Section 106 of the Local Government Code of the Philippines.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2016-OBS5",
+      "year": 2016,
+      "recommendation": "44. We recognized the Local Chief Executive (LCE) for the supervision and monitoring of the Local Risk and Reduction Management Fund resulted on its implementation, pursuant to Section 39 of Republic Act (RA) No. 10717, otherwise known as the FY 2016 General Appropriation Act.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2016-OBS6",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2016-PY1",
+      "year": 2016,
+      "recommendation": "1. We recommend that Head of Agency should create a committee to conduct complete physical inventory of PPE at least once a year pursuant to COA Circular No. 80-124 January 18, 1980, Section 490 of GAAM Vol. 1 and Section 58 of PD 1445. Report of the Physical Count of PPE. Any discrepancies between physical count and inventories per books must be analyzed, investigated and corresponding course of action be taken up immediately. Report of the RPCPPE shall be submitted to the Auditor not later than January 31 of each year.",
+      "managementAction": "1. Managem ent created the committee.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2016-PY2",
+      "year": 2016,
+      "recommendation": "2. We recommend that management strictly implement sound and effective internal control and such other measures to ensure prompt reporting, remittances and deposit of collection in order to reflect the correct cash balances in the financial statements.",
+      "managementAction": "2. The management implemented internal control and such other measures.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2016-PY3",
+      "year": 2016,
+      "recommendation": "3. We recommend to the Local Chief Executive to direct the Municipal Accountant and Disbursing Officer to give priority to the preparation and submission of the required reports, to facilitate timely review and verification of transaction, pursuant to Section 74 of Presidential Decree No. 1445 and COA Circular No. 96-011 dated October 2, 1996.",
+      "managementAction": "3. Action taken.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2016-PY4",
+      "year": 2016,
+      "recommendation": "4. We recommend that management will instruct the personnel concerned to settle their respective notice of suspension and comply to the auditing rules and regulations on the documentary requirements for transactions in order to avoid similar suspensions in the future.",
+      "managementAction": "4. Managem ent demanded the personnel concerned to settle their respective Notice of Suspension.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2016-PY5",
+      "year": 2016,
+      "recommendation": "5. We recommend to the Local Chief Executive to instruct the Accountable Officer and Municipal Accountant to submit the Cashbooks on Cash in Treasury, Cash Advances, Bank Reconciliation Statement with the Bank Statements and Subsidiary Ledgers, pursuant to Section 100 of Presidential Decree No. 1445, otherwise known as the Government Auditing Code of the Philippines.",
+      "managementAction": "5. Accountable officer submitted the Cashbook and the audit team was able to conduct cash examination until June 2016.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2016-PY6",
+      "year": 2016,
+      "recommendation": "6. We recommend to the Local Chief Executive (LCE) to instruct the personnel assigned to submit the listing of the real property tax declarants, amount, date due and subsidiary ledgers, pursuant to Section 4(6) of Presidential Decree No. 1445, otherwise known as the Government Auditing Code of the Philippines.",
+      "managementAction": "6. Management submitted the listing.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2016-PY7",
+      "year": 2016,
+      "recommendation": "7. We recommend to the Local Chief Executive (LCE) to instruct the Municipal Accountant to apply the Depreciation and the necessary adjusting entries, in accordance with paragraph 59 of Philippine Public Sector Accounting Standard No.17 on the Property, Plant and Equipment: Depreciation–Office Equipment; Depreciation–Land Transportation; Depreciation–Furniture & Fixture. To record suspension on Office Equipment, Land Transportation and Furniture and Fixture.",
+      "managementAction": "7. The Municipal Accountant prepared the JEV with the corresponding adjusting entries of Depreciation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2016-PY8",
+      "year": 2016,
+      "recommendation": "8. We recommended to the Local Chief Executive (LCE) to instruct the personnel concerned to settle their respective Notice of Suspension, if not pursued to Section 9.4 of COA Circular No. 2009-006 dated September 15, 2009.",
+      "managementAction": "8. Management instructed the personnel concerned to settle their respective Notice of Suspension.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pandag_Maguindanao-2016-PY9",
+      "year": 2016,
+      "recommendation": "9. We recommend to the management to submit the required reports within the prescribed period, pursuant to Sections 100 and 122 of Presidential Decree No. 1445, otherwise known as the Government Auditing Code of the Philippines.",
+      "managementAction": "9. Management was able to submit the reports in CY 2016.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    }
+  ]
+}

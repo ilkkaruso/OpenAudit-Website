@@ -1,0 +1,902 @@
+{
+  "lguCode": "307705000",
+  "lguName": "Dingalan",
+  "province": "Aurora",
+  "region": "Region II (Cagayan Valley)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "Dingalan_Aurora_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "1.19  We  recommended  and  the  Local  Chief  Executive  agreed  (LCE)   to\ninstruct the Bids and Award Committee to strictly comply  to  the  provision\nof R.A. No. 9184 and limit only the advance payment as provided in  Annex  D\n(4.4) of the same Act.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "2.15  We recommended  and the LCE  agreed  to  instruct  the  (a)  Municipal\nAccountant to strictly comply with Section 20 of NGAS in setting up the  RPT\nReceivable and Deferred RPT Income at the beginning of the  year;   and  (b)\nMunicipal Treasurer, in coordination with  the  Municipal  Assessor  to  (i)\nprovide the Municipal  Accountant  with  the  certified  list  of  taxpayers\nshowing the name of taxpayers and the amount due and  collectibles  for  the\nyear; and (ii) exert efforts  for  improved  RPT  and  SET  collections  and\ninvoke the remedies provided in  Section  256  of  R.A.  No.  7160  for  tax\ndelinquencies.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "3.12  We recommended and  the  LCE  agreed  to  instruct  the  (a)  Property\nOfficer to prepare and maintain inventory list of all procured  and  donated\nitems based on the updated stock cards and property cards; and (b)  Property\nOfficer  and  Accounting  Office  to   conduct  periodic  reconciliation  of\naccounting and property records.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "4.14  We recommended  and  the  LCE  agreed  to  direct  the  (a)  Municipal\nAccountant to submit the requisite documents for the  purchase  of  lot  and\nthe final  payments  for  all  infrastucture  projects;  and  (b)  Municipal\nEngineer to cause the charging and liquidated  damages  against  the  erring\ncontractor.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "6.3    We  recommended  and  the  LCE  agreed  to  instruct  the   Municipal\nAccountant and Municipal  Treasurer  to  continuously  withhold  taxes  from\nemployees’ compensations and payments to suppliers and  remit  the  same  to\nBIR in accordance with existing revenue regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora_aar2021-OBS8",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora_aar2021-OBS9",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora_aar2021-OBS10",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended and the LCE     agreed to require the          (a) Municipal Accountant and   the designated GSO to complete |and reconcile their property   records, and adjust records    accordingly; and               (b) the designated GSO, if an  inventory committee was not yet|convened, to conduct complete  physical count of PPE.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended and the LCE    concurred to instruct the     Municipal Accountant to revert|the subject payables to the   Unappropriated Surplus of the |General Fund, subject to an   authority from the Sangguniang|Bayan through a Resolution    with a condition that         appropriation shall be made in|the event that claim arises in|the future, pursuant to the   provisions of Section 98 of PD|No. 1445.",
+      "managementAction": "The LCE instructed the Municipal Accountant to revert the payable Unappropriated Surplus of the GF",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended and the LCE    agreed to direct the Municipal|Accountant to generally       account all purchases of      supplies and material using   the perpetual inventory         system.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended and the Local  Chief Executive (LCE) agreed  to instruct the Municipal     Budget Officer to             (a) strictly comply with      related subsequent issuances  on COVID expenditures; and    (b) henceforth limit the      charges to the funds to those |qualified by specific         regulations.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended and the LCE    concurred to                  (a) continue the proper and   timely implementation of      Programs, Projects and       Activities funded under the   20% DF; and                   (b) ensure that costing of    PPAs are based on adequate    planning.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended and the LCE    agreed to instruct the MDRRMO |Head and the Budget Officer to |(a) continuously use the      LDRRMF on DRRM activities;   (b) ensure that future charges |to LDRRMF are covered by an  approved appropriation; and     (c) henceforth exercise       balanced budgeting.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended and the Local  Chief Executive concurred to |instruct the designated       General Services Officer to   immediately cause the         registration of the said motor|vehicles and to closely monitor|its yearly registration in order|to avoid payment of penalty for|late registration and to protect|the Municipality’s interest over|its assets.",
+      "managementAction": "The LCE instructed the designated General Services Officer to cause the registration of said motor vehicles",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended and the LCE    agreed to instruct the        Municipal Accountant and     Municipal Treasurer to        continuously withhold taxes   from employees’ compensations|and payments to suppliers and  remit the same to BIR in        accordance with existing      revenue regulations.",
+      "managementAction": "The LCE instructed MTO and MA to continuously withhold taxes from employees and suppliers",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommended and the LCE  agreed to  continuously  adhere  with  the existing  rules  and  regulation on  withholding  and  remitting  GSIS contributions and loan amortizations of employees  including  the  mandatory employer’s share.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We recommended and the LCE  agreed to continuously adhere |with the existing rules and     regulation on withholding and  remitting contributions and     loan amortizations of employees|including the mandatory       employer’s share.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "We recommended and the LCE  agreed to continuously comply |with and adhere to the        existing rules and regulation |on withholding and remitting  PhilHealth contributions due from |employees, including mandatory  employer’s share.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__Dingalan_Aurora-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended and the LCE agreed to require the (a) Municipal Accountant and the designated GSO to (i) complete and reconcile their property records, and adjust records accordingly; and (b) the designated GSO, if an inventory committee was not yet convened, to conduct complete physical count of PPE.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__Dingalan_Aurora-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended and the LCE concurred to instruct the Municipal Accountant to revert the subject payables to the Unappropriated Surplus of the General Fund, subject to an authority from the Sangguniang Bayan through a Resolution with a condition that appropriation shall be made in the event that claim arises in the future, pursuant to the provisions of Section 98 of PD No. 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__Dingalan_Aurora-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended and the LCE agreed to direct the Municipal Accountant to generally account all purchases of supplies and material using the perpetual inventory system.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__Dingalan_Aurora-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommended and the Local Chief Executive (LCE) agreed to instruct the Municipal Budget Officer to (a) strictly comply with related subsequent issuances on COVID expenditures; and (b) henceforth limit the charges to the funds to those qualified by specific regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__Dingalan_Aurora-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We recommended and the LCE concurred to (a) continue the proper and timely implementation of Programs, Projects and Activities funded under the 20% DF; and (b) ensure that costing of PPAs are based on adequate planning.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__Dingalan_Aurora-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended and the LCE agreed to instruct the MDRRMO Head and the Budget Officer to (a) continuously use the LDRRMF on DRRM activities; (b) ensure that future charges to LDRRMF are covered by an approved appropriation; and (c) henceforth exercise balanced budgeting.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__Dingalan_Aurora-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We recommended and the Local Chief Executive concurred to instruct the designated General Services Officer to immediately cause the registration of the said motor vehicles and to closely monitor its yearly registration in order to avoid payment of penalty for late registration and to protect the Municipality’s interest over its assets.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__Dingalan_Aurora-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We recommended and the LCE agreed to instruct the Municipal Accountant and Municipal Treasurer to continuously withhold taxes from employees’ compensations and payments to suppliers and remit the same to BIR in accordance with existing revenue regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__Dingalan_Aurora-2020-OBS9",
+      "year": 2020,
+      "recommendation": "We recommended and the LCE agreed to continously adhere with the existing rules and regulation on withholding and remitting GSIS contributions and loan amortizations of employees including the mandatory employer’s share.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__Dingalan_Aurora-2020-OBS10",
+      "year": 2020,
+      "recommendation": "We recommended and the LCE agreed to continously adhere with the existing rules and regulation on withholding and remitting contributions and loan amortizations of employees including the mandatory employer’s share.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__Dingalan_Aurora-2020-OBS11",
+      "year": 2020,
+      "recommendation": "We recommended and the LCE agreed to continuously comply with and adhere to  the existing rules and regulation on withholding and remitting PhilHealth contributions due from employees, including mandatory employers’ share.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__Dingalan_Aurora-2020-OBS12",
+      "year": 2020,
+      "recommendation": "We recommended and the LCE concurred to cause the full settlement of all audit suspensions and disallowances, particularly those which have become final and executory pursuant to Sections 9.4 and 10.4 of the Rules and Regulations on Settlement of Accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__Dingalan_Aurora-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommended and the Local Chief Executive agreed to instruct the \n\n(a) Municipal Accountant and the Municipal Treasurer /Municipal Assessor to reconcile their respective records on the land owned by the municipality and adjust respective records, as warranted; \n\n(b) Municipal Assessor to facilitate the titling of the 26 parcels of land in the name of the municipality; and\n\n (c) Municipal Budget Officer to provide budget for the processing of the land titles.",
+      "managementAction": "The Municipal Mayor instructed the concerned officials to reconcile their respective records on the land owned by the Municipality and\nfunds were already budgeted for titling of the untitled land.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__Dingalan_Aurora-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended and the Local Chief Executive agreed to:\n\n(a) instruct the BAC Chairman, Member, TWG, and Secretariat to (i) scrutinize the sufficiency of the contractor’s manpower and equipment to ensure the efficiency and effectiveness of contract implementation; and (ii) strictly adhere to the provisions of the 2016 Revised IRR of RA No. 9184 in the evaluation of the bids submitted by the bidders to ensure fair and competitive bidding; and \n\n(b) continue to ensure that the fund is appropriated and utilized in accordance with DILG-DBM Joint Memorandum Circular No. 2017-1 dated February 22, 2017.",
+      "managementAction": "The LCE instructed the BAC Chairman, TWG and Secretariat to ensure the efficiency and effectiveness of contract implementation",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__Dingalan_Aurora-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended and the  Local Chief Executive agreed to require the Municipal Treasurer to:\n\n(a) strictly collect the applicable stall fees and surcharges if any, from the              legitimate stall holders or lessees;\n\n(b) enforce the provision of the market code and fully collect the market entrance fees for market products as required;\n\n(c) strictly impose the regulation on the licensing and timely calibration of instrument of weight and measures;\n\n(d) enter into/renew the contract of every stall/space occupants in the frequency prescribed by the Code; \n\n(e) regularly conduct ocular inspection of the market to determine compliance with the Code and impose applicable penalty/charges on violators.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__Dingalan_Aurora-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended and the Local Chief Executive agreed to:\n\n (a) invest on its personnel in the Municipal Disaster Risk Reduction Office by providing them at least the necessary seminar/training as required in the manual; \n\n(b) prioritize the procurement of disaster related equipment; \n\n(c) allocate budget for the upgrading and maintenance of the existing evacuation centers; and \n\n(d) make sure that future construction of evacuation center are in compliance with pertinent regulations.",
+      "managementAction": "Budget have been allocated for the procurement of disaster related equipment",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__Dingalan_Aurora-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended and the Local Chief Executive agreed to instruct the focal person on Solid Waste management to\n\na). Determine applicable measures on how to increase the rate of waste diversion given the challenges on the marketability of the finished/processed products;\n\nb)  with appropriate consideration of availability of funds, procure equipment that could be used in waste diversion and processing;\n\nc) maximize the utilization of available Solid Waste Equipment.",
+      "managementAction": "The Officers concerned met to discuss the proper ways to carry out the comments and recommendations",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2019-OBS1",
+      "year": 2019,
+      "recommendation": "1.6\tWe recommended and the Local Chief Executive agreed to instruct the (a) Municipal Accountant and the Municipal Treasurer/Municipal Assessor to reconcile their respective records on the land owned by the municipality and adjust respective records, as warranted; (b) Municipal Assessor to facilitate the titling of the 26 parcels of land in the name of the municipality; and (c) Municipal Budget Officer to provide budget for the processing of the land titles.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2019-OBS2",
+      "year": 2019,
+      "recommendation": "2.8  \tWe recommended and the Local Chief Executive agreed to (a) instruct the BAC Chairman, Member, TWG, and Secretariat to (i) scrutinize the sufficiency of the contractor’s manpower and equipment to ensure the efficiency and effectiveness of contract implementation; and (ii) strictly adhere to the provisions of the 2016 Revised IRR of RA No. 9184 in the evaluation of the bids submitted by the bidders to ensure fair and competitive bidding; and (b) continue to ensure that the fund is appropriated and utilized in accordance with DILG-DBM Joint Memorandum Circular No. 2017-1 dated February 22, 2017",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2019-OBS3",
+      "year": 2019,
+      "recommendation": "3.27\tWe recommended and the the Local Chief Executive agreed to require the Municipal Treasurer to:\n(a) strictly collect the applicable stall fees and surcharges if any, from the              legitimate stall holders or lessees;\n(b) enforce the provision of the market code and fully collect the market entrance fees for market products as required;\n(c) strictly impose the regulation on the licensing and timely calibration of instrument of weight and measures;\n(d) enter into/renew the contract of every stall/space occupants in the frequency prescribed by the Code;\n(e) regularly conduct ocular inspection of the market to determine compliance with the Code and impose applicable penalty/charges on violators.\n3.28\tWe also advised the Local Chief Executive agreed to cause the proper maintenance of hygiene and sanitation in the public market.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2019-OBS4",
+      "year": 2019,
+      "recommendation": "4.10\tWe recommended and the Local Chief Executive agreed to (a) invest on its personnel in the Municipal Disaster Risk Reduction Office by providing them at least the necessary seminar/training as required in the manual; (b) prioritize the procurement of disaster related equipment; (c) allocate budget for the upgrading and maintenance of the existing evacuation centers; and (d) make sure that future construction of evacuation center are in compliance with pertinent regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2019-OBS5",
+      "year": 2019,
+      "recommendation": "5.10\tWe recommended and the Local Chief Executive agreed to instruct the focal person on Solid Waste Management to (a) determine applicable measures on how to increase the rate of waste diversion given the challenges on the marketability of the finished/processed products; (b) with appropriate consideration of availability of funds, procure equipment that could be used in waste diversion and processing;  and (b) maximize the utilization of available Solid Waste Equipment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2019-OBS6",
+      "year": 2019,
+      "recommendation": "6.4 \tWe recommended and management agreed that the Local Chief Executive require the Municipal Accountant  to follow strictly the provisions in  remitting the withheld taxes within the prescribed period as provided in Revenue Memorandum Circular No. 23-2007 dated March 23, 2007.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2019-OBS7",
+      "year": 2019,
+      "recommendation": "7.5\tWe recommended and   management agreed that the Municipal Accountant and Municipal Treasurer to continuously comply with and adhere to  the existing rules and regulation on withholding and remitting GSIS contributions and loan amortizations of employees, including the mandatory employer’s share .",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2019-OBS8",
+      "year": 2019,
+      "recommendation": "8.5\tWe recommended and management agreed that the Municipal Accountant and Municipal Treasurer continuously comply with and adhere to  the existing rules and regulation on withholding and remitting HDMF contributions due from employees, including the mandatory employer’s share.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2019-OBS9",
+      "year": 2019,
+      "recommendation": "9.2\tWe recommended and management agreed to continuously comply with and adhere to  the existing rules and regulation on withholding and remitting PhilHealth contributions due from employees, including mandatory employers’ share.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2019-OBS10",
+      "year": 2019,
+      "recommendation": "10.3\tWe recommended and management agreed that the Municipal Mayor cause the full settlement of all audit suspensions and disallowances, particularly those which have become final and executory pursuant to Sections 9.4 and 10.4 of the Rules and Regulations on Settlement of Accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2019-PY1",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "Officers/ees were informed of their CA",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some officer/ees with outstanding advances were granted additional CA.\nOfficer/ees were informed of their advances short of issuance of demand letter. officers/employees.\n\nSome employees refunded overdue advances but no legal action were made."
+    },
+    {
+      "id": "Dingalan_Aurora-2019-PY2",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2019-PY3",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "Conducted community/ coastal clean up and regular barangay inspection",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Disposal facility was not yet established\n\n\nNo littering policy was not fully implemented"
+    },
+    {
+      "id": "Dingalan_Aurora-2019-PY4",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "Inventory list of procured and donated items were prepared",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "As at December 31, 2019, management were still updating their inventory"
+    },
+    {
+      "id": "Dingalan_Aurora-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommended and the management agreed that the:\n\n(a) Municipal Accountant\n\n     (i) maintain updated PPELC for each class of property to record the acquisition, adjustments and disposal thereof ;\n\n     (ii) exert efforts to secure the necessary documents and reports so that appropriate depreciation can be provided; and\n\n     (iii) draw JEV to recognize unrecorded PPE\n\n\n(b) GS Officer maintain complete and updated property cards for all PPE purchased in prior and current year and ensure to update them regularly; and\n\n(c) Inventory Committee exert extra effort to conduct annual physical count of property, plant, and equipment by type and submit the report to the Auditor concerned not later than January 31 of each year.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Failed to maintain updated PPELC.\n\nFailed to secure necessary documents and reports.\n\nFailed to draw a JEV\n\n\nFailed to maintain complete and updated property cards."
+    },
+    {
+      "id": "Dingalan_Aurora-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommended and management agreed that the Municipal Mayor together with the Municipal Planning and Development Coordinator and the Budget Officer to:\n\n(a) ensure that future annual investment plans conform with the priorities of the municipality to avoid realigning of fund at execution stage;\n\n(b) factor in the observed weather conditions in the area in the setting of timelines  for project implementation; and\n\n(c) ensure that future realignments are submitted for review of the Sangguniang Panlalawigan.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "42.28% realign for CY 2018\n\n47% of PPA were started only on December 2018"
+    },
+    {
+      "id": "Dingalan_Aurora-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommended and  management agreed that the Municipal Mayor together with the Municipal Environment and Natural Resources officer:\n\n(a) comply with the recommendation of MGB-DENR RIII with regards to the  proposed landfill;\n\n\n\n(b) provide adequate and appropriate garbage bins;\n\n(c) encourage partnership with ambulant junk buyer and junk shop operator in the collection and segregation of residual wastes;\n\n\n(d) exhort the cooperation and participation of the general public in environmental protection; and\n\n(e) provides appropriate fund for solid waste management  for use in SWM Projects, Programs and Activities.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Non-compliance with MGB-DENR recommendations\n\nNon  proper use of MRF"
+    },
+    {
+      "id": "Dingalan_Aurora-2018-PY4",
+      "year": 2018,
+      "recommendation": "We recommended and management agreed that the LCE instruct the:\n\n(a) MDRRMO and the Municipal Engineer to make a thorough study on the effectiveness of their flood control project and consider a sustainable flood management projects; and\n\n(b) officials concerned to observe the provision of paragraph 6.5 of NDRRMC-DBM-DILG Joint Memorandum Circular on the use of prior years’ unexpended LDRRMF.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No project for sustainable flood management for CY 2018"
+    },
+    {
+      "id": "Dingalan_Aurora-2018-OBS1",
+      "year": 2018,
+      "recommendation": "1.10\tWe reiterated our recommendation to which management agreed that the Municipal Mayor together with the Municipal Planning and Development Coordinator and the Budget Officer (a) ensure that future annual investment plans conform with the priorities of the municipality to avoid realigning of fund at execution stage; and (b) the local finance conduct semi-annual review and general examination of cost and accomplishments against performance standards applied in undertaking development projects.\n\nPROJECT/PROGRAM/ACTIVITY | APPRORIATION | UTILIZATION\nSOCIAL SERVICES |  | \n1. Construction of Multi-Purpose   Hall,\n    Bgy. ButasnaBato | ₱        3,789,500.00 | ₱    3,763,496.57\n2. Construction of Multi-Purpose   Hall,\n    Bgy.Dikapanikian | 3,789,500.00 | 568,425.00\nSub Total | 7,579,000.00 | 4,331,921.57\nECONOMIC DEVELOPMENT |  | \n1. Construction of local Economic\n    Enterprise Building, Bgy. Tanawan | 2,000,000.00 | 1,986,830.50\n2.Construction of Roads, Bgy. Caragsacan | 1,000,000.00 | 996,138.73\n3. Concreting of Roads (Cemetery Area),\n    Bgy. Aplaya | 1,940,855.31 | 1,938,370.23\n4. Concreting of Roads, Bgy. Paltic | 1,025,227.98 | 1,021,436.31\n5. Concreting of Roads, Model\n    Community, Bgy. Paltic | 1,033,916.17 | 1,033,916.17\n6. Construction of Flood Control Facility\n    (Box Culvert), Bgy. Subsub | 2,000,000.00 | 1,994,083.32\n7. De-silting of Rivers,  Subsub | 1,579,000.54 | 370,680.88\n8. Construction of  Road, Brgy. Paltic\n    Poblacion (Subsub Creek) | 467,767.57 | 70,165.14\n9. Concreting of Road, Bgy. Paltic (DBR\n    Side) | 465,844.49 | 69,876.67\n10.Construction of Road, Bgy. Caragsacan\n    (Gawad Kalinga) | 439,180.03 | 65,877.00\n11.Construction of Road, Bgy. Caragsacan\n    ADRA | 627,207.91 | 94,081.19\n12. Repair/Rehab/Improvement of Multi\n    Purpose Hall, Purok 3 BgyMatawe | 716,057.75 | 358,028.88\n13. Additional –Installation of Street Light,\n    BgyUmiray | 37,200.00 | 37,100.00\nSub Total | 13,332,257.75 | 10,036,585.02\nENVIRONMENTAL MANAGEMENT |  | \n1. Debt-Servicing-Purchase of Granulator\n    for Bio and Non-Bio Waste Material and\n    Brick Making Machine | 746,889.65 | 746,889.65\n2. Purchase of garbage truck, BgyUmiray | 1,000,000.00 | 1,000,000.00\nSub Total | 1,746,889.65 | 1,746,889.65\nTOTAL | ₱      22,658,147.40 | ₱  16,115,936.24\n1. Purchase of lot for the construction of Multi\n    Purpose   Hall,     Bgy.Aplaya | ₱          2,000,000.00\n2. Construction of Fish Vending Stalls, Bgy. Matawe | 2,500,000.00\n3. Construction of Road, BgyMatawe | 5,079,000.00\nTotal | ₱          9,579,000.00",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2018-OBS2",
+      "year": 2018,
+      "recommendation": "2.7 \tWe recommended and management agreed that the Local Chief Executive:\n(a)\tcomply strictly with the provisions of COA Circular No. 97-002 on the granting, utilization, and liquidation of cash advances;\n(b)\trequire the accountable officers to liquidate the overdue cash advances. Invoke the provisions of law authorizing the withholding of salary of personnel who unjustifiably fails to settle his cash advances within the prescribed period; and\n(c)\tfile appropriate legal action, if warranted to those who have failed to liquidate the overdue cash advances after exhausting appropriate means, including those who are no longer in the government service.\n\nName of Debtor\n (in alphabetical order) | Amount Balance | Date Granted | Purpose | Amount Due | Amount Due | Amount Due | Amount Due | Amount Due\nName of Debtor\n (in alphabetical order) | Amount Balance | Date Granted | Purpose | Less than 30 days | 31-90 days | 91-365 days | Over 1 year | Not Yet Due\nAglubo, Jesebel M. | ₱     85,210.00 | March 6-9, 2018 | Traveling Expenses |  |  | 75,610.70 |  | \n |  | Regata Dec 4-9, 2018 |  | 9,600.00 |  |  |  | \nAumintado, Aniceta | 27,200.00 | March 6-11, 2018\nJuly 1, 2018\nSept. 11-15, 2018 | Traveling Expenses |  |  | 27,200.00 |  | \nBelgar, Monaliza | 30,100.00 | July 25, 2017 | Traveling Expenses |  |  | 30,100.00 |  | \nName of Debtor\n (in alphabetical order) | Amount Balance | Date Granted | Purpose | Amount Due | Amount Due | Amount Due | Amount Due | Amount Due\nName of Debtor\n (in alphabetical order) | Amount Balance | Date Granted | Purpose | Less than 30 days | 31-90 days | 91-365 days | Over 1 year | Not Yet Due\nBermudez, Robert | 800.00 |  | Traveling Expenses |  |  |  | 800.00 | \nBorreo, Ceejay | 6,200.00 | Oct. 10-14, 2018 | Baler |  | 6,200.00 |  |  | \nBorreo, Luis | 13,100.00 | July 9-11, 2018 | Pampanga |  |  | 13,100.00 |  | \n | 12,700.00 |  | Pampanga |  | 12,700.00 |  |  | \nBrioso, Marlon | 17,355.00 |  | Traveling Expenses |  |  | 17,355.00 |  | \nCapulong, Virgilio | 10,000.00 |  | Traveling Expenses |  |  |  | 10,000.00 | \n | 17,000.00 |  | Ilocos |  |  | 17,000.00 |  | \nCarino, Ricardo | 800.00 |  | Traveling Expenses |  |  |  | 800.00 | \nCastillo, Ronald | 12,700.00 |  | Pampanga |  | 12,700.00 |  |  | \nEstrella, Norman | 7,200.00 |  | Traveling Expenses |  |  |  | 7,200.00 | \nFrancisco, Mary Divina | 4,400.00 |  | Traveling Expenses |  |  | 4,400.00 |  | \nGalvez, Benjo Marco | 200.00 | March 6-11, 2018 | Cebu |  |  | 200.00 |  | \nGalvez, Edgardo | 13,500.00 | Sept 10-12, 2018 | Baler |  | 13,500.00 |  |  | \n | 19,600.00 | Dec. 14-19, 2018 | Baler |  |  |  |  | 19,600.00\nLlana, Catherine | 8,650.00 |  | Aurora Day 2017 |  |  |  | 8,650.00 | \nManeja, Victor | 200.00 | March 6-11, 2018 | Cebu |  |  | 200.00 |  | \n | 12,700.00 |  | Pampanga |  | 12,700.00 |  |  | \nMariano, Lyndon | 27,461.40 |  | Traveling Expenses |  |  |  | 27,461.40 | \nMendoza, Renato | 1,100.00 |  | Traveling Expenses |  |  |  | 1,100.00 | \nMoises, Junely | 10,500.00 | Feb. 11-15, 2018 | Baler |  |  | 10,500.00 |  | \n | 7,800.00 | June 4-6, 2018 | Casiguran |  | 7,800.00 |  |  | \nPadiernos, Jenny | 1,200.00 | Sept. 21-22, 2018 | Baler |  | 1,200.00 |  |  | \nPadiernos, Zenaida Q. | 375,000.00 |  | Intelligence Fund |  |  |  | 375,000.00 | \n | 177,140.00 |  | Traveling Expenses |  |  |  | 177,140.00 | \nPadilla, Raffy | 200.00 | March 6-11, 2018 | Cebu |  |  | 200.00 |  | \nName of Debtor\n (in alphabetical order) | Amount Balance | Date Granted | Purpose | Amount Due | Amount Due | Amount Due | Amount Due | Amount Due\nName of Debtor\n (in alphabetical order) | Amount Balance | Date Granted | Purpose | Less than 30 days | 31-90 days | 91-365 days | Over 1 year | Not Yet Due\n | 12,700.00 |  | Pampanga |  | 12,700.00 |  |  | \nPajarillo, Analyn | 6,160.00 | March 18-24, 2018 | Iloilo |  |  | 6,160.00 |  | \nPalmares, Eleuterio | 9,600.00 | Feb. 14-20, 2018 | Traveling Expenses |  |  | 9,600.00 |  | \nPalmares, Elmer | 102,852.49 |  | Traveling Expenses |  |  |  | 102,852.49 | \nParchamento, Jaime | 3,500.00 |  | Traveling Expenses |  |  |  | 3,500.00 | \nPerez, Leonardo | 1,580.00 |  | Traveling Expenses |  |  |  | 1,580.00 | \nRamos, Roseby | 5,390.00 |  | Traveling Expenses |  |  |  | 5,390.00 | \nTaay, Shiela | 98,335.56 |  | Traveling Expenses |  |  |  | 98,335.56 | \n | 16,200.00 | March 6-11, 2018\nJuly 3-5, 2018 | Cebu/Baler |  | 16,200.00 |  |  | \n | 19,000.00 | March 21-23, 2018 | Manila |  |  | 19,000.00 |  | \nTan, Abegail G | 30,620.71 | March 6-11, 2018\nMay 2, 2018 | Cebu/ Alaminos |  |  | 30,620.71 |  | \n | 32,300.00 | Oct. 5, 2018 | Pampanga/ Manila |  | 32,300.00 |  |  | \n | 16,900.00 | Dec. 2-4, 2018 | Baler |  |  |  |  | 16,900.00\nVillaviray, Ernesto | 800.00 |  | Traveling Expenses |  |  |  | 800.00 | \nB.  Adv. to Reg. D.O. |  |  |  |  |  |  |  | \nAglubo, Jesebel | 42,000.00 |  | Payrolls |  |  | 42,000.00 |  | \n | 135,000.00 |  | Payrolls | 135,000.00 |  |  |  | \n | 43,250.00 |  | Payrolls |  |  |  |  | 43,250.00\nEsquivel, Geyzel | 142,700.00 |  | EAICS/ Trust |  |  |  |  | 142,700.00\nGRAND TOTAL | ₱1,618,905.16 |  |  | 135,000.00 | 137,600.00 | 303,245.71 | 820,609.45 | 222,450.00",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2018-OBS3",
+      "year": 2018,
+      "recommendation": "3.12\tWe recommended and management agreed that the Local Chief Executive:\n(a)\tcoordinate efforts and implement the five basic environmental laws on preserving and protecting the environment expressly stated under R.A. No. 9003; and\n(b)\tinvolve closely the Barangay officials in the strict implementation of SWM programs and projects and intensify the information campaign on the “no segregation, no collection policy and the “no-littering policy” among the residents and tourists.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2018-OBS4",
+      "year": 2018,
+      "recommendation": "4.6\tWe recommended and management agreed that the LCE instruct the Property Officer to prepare and maintain an inventory list of all procured and donated items (Annexes P, P-1 and P-2, COA Circular 2014-002) based on the updated Stock Cards and Property cards, and issue Acknowledgement Receipt for Equipment (ARE) for PPE and Inventory Custodian Slip (ICS) for small items.\n\nProjects/Programs/Activities | Appropriation | Obligation | Balances\nPrevention and Mitigation |  |  | \nGreening (Tree Planting, Coastal Clean-up) | ₱    95,000.00 | ₱    60,380.00 | ₱    34,620.00\nOrientation, development, printing and distribution of localized IEC/Advocacy materials based on the type of hazard present in the area. | 5,000.00 | 4,975.64 | 24.36\nPreparedness |  |  | \nProcurement of Disaster Equipment, materials, office and medical supplies | 160,000.00 | 159,445.00 | 555.00\nCelebration of Disaster Month | 40,000.00 | 40,000.00 | 0.00\nConduct training/seminar | 290,000.00 | 288,874.40 | 1,125.60\nTraining and Capability Building | 205,000.00 | 195,953.90 | 9,046.10\nConduct of inter-barangay/ inter schools disaster emergency drill/rescue Olympic | 49,000.00 | 33,696.81 | 15,303.19\nRecruitment of accreditation, mobilization and protection of community Disaster volunteers | 18,700.00 | 18,600.00 | 100.00\nUpdate of comprehensive Development Plan, Comprehensive Land Use Plan-Zoning Ordinance, and Update of Local Climate Change Action Plan | 1,800,000.00 | 1,011,000.00 | 789,000.00\nProcurement of 1 unit Rescue Motorcycle Vehicle | 86,00.00 | 85,400.00 | 600.00\nMaintenance/Repair of disaster vehicle/rescue ambulance/rescue equipment and heavy equipment | 125,000.00 | 123,859.30 | 1,140.70\nStockfile food packs and non food items | 1,350,000.00 | 1,346,798.50 | 3,201.50\nStockfiling of medicine | 30,000.00 | 0.00 | 30,000.00\nWorking provision for 24/7 emergency response | 60,000.00 | 30,000.00 | 30,000.00\nRecovery and Rehabilitation |  |  | \nRepair/Rehabilitation/Construction of damage house, fishing boat, evacuation center, public and private infrastructure, roads, bridges, etc. | 100,000.00 | 92,500.00 | 7,500.00\nQuick Respond Fund (QRF)\nWarning, Monitoring, Search, Research, and Retrieval Operation\nRelief Operations\nConstruction and rehabilitation of damaged infrastructure facilities and lifelines\nFinancial assistance to casualties\nRoad clean-up and removal of debris\nAnd other disaster activity, program and project identified | 1,891,586.06 | 0.00 | No declaration of state of calamity\nGrand total | ₱ 6,305,286.06 | ₱3,491,483.55 | ₱ 922,216.45\n\nOriginal Program, Projects, Actitivities | Amount\nEstablishment/Maintenance of community based and local Early Warning System for various hazard\n* Installation/Fabrication of signage on different hazard prone areas\n* Procurement of Emergency Siren | ₱    800,000.00\nConduct of inventory, vulnerability and risk assessment of critical facilities including public and private evacuation center | 100,000.00\nFlood Control Project (desilting,dredging, construction of gabion and other related project to mitigate/reduce flood) | 200,000.00\nTotal | 1,200,000.00\nNew Program, Projects, Actitivities | \nGreening Program | 45,000.00\nConduct of training and seminar | 155,000.00\nStockpile food packs and non food items | 1,000,000.00\nTotal | ₱ 1,200,000.00",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2018-OBS5",
+      "year": 2018,
+      "recommendation": "5.7\tWe recommended and management agreed to mark all motor vehicles owned by the municipality in accordance with COA Circular No. 77-61 dated September 26, 1977.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2018-OBS6",
+      "year": 2018,
+      "recommendation": "6.9\tWe recommended and management agreed to comply with the PCW MC 2018-04 in conducting gender analysis as basis in determining appropriate GAD related projects.\n\nGAD Activity | Appropriation | Utilization | Balances\nA.   CLIENT – FOCUSED | A.   CLIENT – FOCUSED | A.   CLIENT – FOCUSED | A.   CLIENT – FOCUSED\nFAMILY AND COMMUNITY WELFARE PROGRAM | FAMILY AND COMMUNITY WELFARE PROGRAM | FAMILY AND COMMUNITY WELFARE PROGRAM | \nAdolescent Health and Youth Development Program | ₱    893,800.00 | ₱   888,678.00 | ₱  38,000.00\nResponsible Effective Active  Parenting (REAP) | 8,000.00 | 0.00 | 8,000.00\nProvision of Temporary and Protective Custody, Medical Services, Counselling and Psychiatric Evaluation and Legal Services | 30,000.00 | 22,900.00 | 7,100.00\nStrengthening of VAWC Desk\nReproduction of IEC material\nRepair and Maintenance of Women’s/Girl shelter | 50,000.00\n\n500,000.00 | 44,310.00\n\n0.00 | 5,690.00\n\n500,000.00\nHEALTH PROGRAM | HEALTH PROGRAM | HEALTH PROGRAM | \nDeployment of Midwife to Bgy. Dikapanikian | 60,000.00 | 37,500.00 | 22,500.00\nProcurement of emergency OB medicines | 404,500.00 | 402,083.30 | 2,45.70\nBuntis Congress\nGarantisadong Pambata Program\nDeworming (January – July)\nAdvocacy Information Campaign through Nutri-Eskwela Program | 50,000.00\n\n80,000.00\n\n270,000.00 | 23,49000\n\n79,900.00\n\n83,955.00 | 26,510.00\n\n100.00\n\n186,045.00\nCelebration of Nutrition month | 25,000.00 | 22,198.90 | 2,801.10\nProvision of honorarium and Philhealth Insurance Premium | 613,000.00 | 472,800.00 | 140,200.00\nProvision of relevant training for BHW and BNS, supplies and materials | 100,000.00 | 22,345.00 | 77,655.00\nOutreach medical/dental and health consultation programs to far-flung barangays | 300,000.00 | 269,588.00 | 30,412.00\nFinancial assistance- Stress Management and Psychosocial intervention | 22,500.00 | 16,000.00 | 6,500.00\nPERSONS WITH DISABILITIES AND SPECIAL GROUP | PERSONS WITH DISABILITIES AND SPECIAL GROUP | PERSONS WITH DISABILITIES AND SPECIAL GROUP | \nAssistance to Senior Citizens | 1,000,000.00 | 1,003,950.00 | (3,950.00)\nConduct training on production of souvenir items- Provision of livelihood loan assistance | 200,000.00 | 195,000.00 | 5,000.00\nCHILD AND YOUTH WELFARE PROGRAM | CHILD AND YOUTH WELFARE PROGRAM | CHILD AND YOUTH WELFARE PROGRAM | \nHiring of Additional ALS Implementor | 240,000.00 | 240,000.00 | 0.00\nProvision of Transportation assistance during examination, graduation and ALS Caravan | 79,000.00 | 79,000.00 | 0.00\nFinancial Assistance to school | 300,000.00 | 299,400.00 | 600.00\nProvision of school supplies | 200,000.00 | 199,200.00 | 800.00\nProvision of monthly honorarium to 20 DCW and 7 NSP DCW | 804,000.00 | 781,000.00 | 23,000.00\nWOMEN WELFARE AND DEVELOPMENT PROGRAM | WOMEN WELFARE AND DEVELOPMENT PROGRAM | WOMEN WELFARE AND DEVELOPMENT PROGRAM | WOMEN WELFARE AND DEVELOPMENT PROGRAM\nRe-organization of KALIPI Federation Conduct regular KALIPI municipal federation meetings\nWomen’s Month Celebration | 170,000.00 | 169,513.00 | 487.00\nLivelihood and Entrepreneurial\nCommunity Fish Landing\nMunicipal Food Terminal\nFishery Supplies\nFood Processing | 700,000.00 | 605,000.00 | 95,000.00\nTrade Fair\nProduct Promotion\nBusiness Management\nSeminar/Conference | 200,000.00 | 202,912.00 | (2,912.00)\nSUB-TOTAL A | ₱ 6,856.000.00 | ₱5,662,046.20 | ₱1,193,953.80\nB.   ORGANIZED FOCUSED CAPABILITY DEVELOPMENT | B.   ORGANIZED FOCUSED CAPABILITY DEVELOPMENT | B.   ORGANIZED FOCUSED CAPABILITY DEVELOPMENT | B.   ORGANIZED FOCUSED CAPABILITY DEVELOPMENT\nProvide/Administer Gender Sensitivity Training to all LGU employees and members of accredited CSO’s\nProvide/Administer Gender Sensitivity Training to DepEd Personnel\n\nTraining on Gender Mainsteaming Gender Analysis and Gender-Responsive Planning and Budgeting Program Monitoring and Evaluation\n\nQuarterly GFPS meeting\nHiring of one (1) Staff that will monitor program implementation and be assigned in record/data keeping.\n\nSex aggregated data gathering, encoding and record keeping.\nProcurement of supplies, one (1) unit computer | ₱    150,000.00\n\n82,200.00\n\n\n80,000.00\n\n\n\n82,000.00\n\n\n\n50,000.00 | ₱   150,000.00\n\n81,420.62\n\n\n0.00\n\n\n30,137.00\n\n\n46,673.25 | ₱              0.00\n\n779.38\n\n\n80,000.00\n\n\n51,863.00\n\n\n3,326.75\nSUB-TOTAL B (Php) | ₱    444,200.00 | ₱   308,230.87 | ₱   135,969.13\nGRAND TOTAL (A+B) | ₱ 7,300,200.00 | ₱5,970,277.07 | ₱1,329,922.93",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2018-OBS7",
+      "year": 2018,
+      "recommendation": "7.4 \tWe recommended and management concurred that the Local Chief Executive require the Municipal Accountant  to follow strictly the provisions in  remitting the withheld taxes intact and within the prescribed period as provided in Revenue Memorandum Circular No. 23-2007 dated March 23, 2007.\n\nMonth\n(1) | Due to BIR (beginning) (2) | Taxes Withheld\n(3) | Total                 (4) | Taxes Remitted\n(5) | Due to BIR (ending)  \n  (6)\nJanuary | ₱ 1,002,061.29 | ₱      508,113.48 | ₱    1,510,174.77 | ₱       798,799.92 | ₱      711,374.85\nFebruary | 711,374.85 | 690,635.52 | 1,402,010.37 | 574,969.33 | 827,041.04\nMarch | 827,041.04 | 566,273.59 | 1,393,314.63 | 537,990.95 | 855,323.68\nApril | 855,323.68 | 347,962.06 | 1,203,285.74 | 599,905.72 | 603,380.02\nMay | 603,380.02 | 678,040.04 | 1,281,420.06 | 428,598.62 | 852,821.44\nJune | 852,821.44 | 778,526.89 | 1,631,348.33 | 560,137.48 | 1,071,210.85\nJuly | 1,071,210.85 | 452,727.56 | 1,523,938.41 | 824,129.70 | 699,808.71\nAugust | 699,808.71 | 376,824.27 | 1,076,632.98 | 494,788.30 | 581,844.68\nSeptember | 581,844.68 | 607,614.14 | 1,189,458.82 | 323,881.67 | 865,577.15\nOctober | 865,577.15 | 477,603.24 | 1,343,180.39 | 610,336.67 | 732,843.72\nNovember | 732,843.72 | 996,285.08 | 1,729,128.80 | 585,961.58 | 1,143,167.22\nDecember | 1,143,167.22 | 504,285.17 | 1,647,452.39 | 995,946.55 | 651,505.84\nTotal |  | ₱  6,984,891.04 |  | ₱    7,335,446.49 |",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2018-OBS8",
+      "year": 2018,
+      "recommendation": "8.5\tWe recommended and   management agreed that the Municipal Accountant and Municipal Treasurer continuously comply with and adhere to  the existing rules and regulation on withholding and remitting GSIS contributions and loan amortizations of employees, including the mandatory employer’s share .\n\nMonth\n(1) | Due to GSIS\n(beginning )\n(2) | GSIS Withheld\n(3) | Total\n(4) | GSIS Remitted\n(5) | Due to GSIS (ending)\n(6)\nJanuary | ₱      916,301.95 | ₱                0.00 | ₱    916,301.95 | ₱       908,726.23 | ₱           7,575.72\nFebruary | 7,575.72 | 1,606,308.71 | 1,613,884.43 | 965,878.58 | 648,005.85\nMarch | 648,005.85 | 645,741.01 | 1,293,746.86 | 636,375.81 | 657,371.05\nApril | 657,371.05 | 46,795.82 | 704,166.87 | 664,007.93 | 40,158.94\nMay | 40,158.94 | 1,236,189.68 | 1,276,348.62 | 617,626.22 | 658,722.40\nJune | 658,722.40 | 868,069.73 | 1,526,792.13 | 693,374.08 | 833,418.05\nJuly | 833,418.05 | 696,086.09 | 1,529,504.14 | 771,969.00 | 757,535.14\nAugust | 757,535.14 | 722,708.54 | 1,480,243.68 | 705,130.07 | 775,113.61\nSeptember | 775,113.61 | 714,507.12 | 1,489,620.73 | 700,425.55 | 789,195.18\nOctober | 789,195.18 | 757,890.28 | 1,547,085.46 | 744,856.61 | 802,228.85\nNovember | 802,228.85 | 801,283.09 | 1,603,511.94 | 749,860.95 | 853,650.99\nDecember | 853,650.99 | 808,818.76 | 1,662,469.75 | 872,786.25 | 789,683.50\nTotal |  | ₱ 8,904,398.83 |  | ₱    9,031,017.28 |",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2018-OBS9",
+      "year": 2018,
+      "recommendation": "9.5\tWe recommended and management agreed that the Municipal Accountant and Municipal Treasurer continuously comply with and adhere to  the existing rules and regulation on withholding and remitting HDMF contributions due from employees, including the mandatory employer’s share.\n\nMonth\n(1) | Due to HDMF\n(beginning )\n(2) | HDMF Withheld\n(3) | Total\n(4) | HDMF Remitted\n(5) | Due to HDMF (ending)\n(6)\nJanuary | ₱      168,866.26 | ₱                0.00 | ₱    168,866.26 | ₱         84,239.95 | ₱         84,626.31\nFebruary | 84,626.31 | 160,620.52 | 245,246.83 | 84,953.62 | 160,293.21\nMarch | 160,293.21 | 77,497.63 | 237,790.84 | 75,446.90 | 162,323.94\nApril | 162,323.94 | 2,800.00 | 165,123.94 | 78,697.63 | 86,426.31\nMay | 86,426.31 | 121,238.59 | 207,664.90 | 75,267.99 | 132,396.91\nJune | 132,396.91 | 148,302.01 | 280,698.92 | 124,034.27 | 156,664.65\nJuly | 156,664.65 | 77,420.69 | 234,085.34 | 68,856.83 | 165,228.51\nAugust | 165,228.51 | 76,497.48 | 241,725.99 | 77,820.69 | 163,905.30\nSeptember | 163,905.30 | 75,973.81 | 239,879.11 | 75,697.48 | 164,181.63\nOctober | 164,181.63 | 79,409.85 | 243,591.48 | 77,173.81 | 166,417.67\nNovember | 166,417.67 | 77,802.21 | 244,219.88 | 77,409.85 | 166,810.03\nDecember | 166,810.03 | 77,830.35 | 244,640.38 | 161,993.21 | 82,647.17\nTotal |  | ₱    975,393.14 |  | ₱    1,061,612.23 |",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2018-OBS10",
+      "year": 2018,
+      "recommendation": "10.2\tWe recommended and management concurred to continuously comply with and adhere to  the existing rules and regulation on withholding and remitting PhilHealth contributions due from employees, including mandatory employers’ share.\n\nMonth\n(1) | Due to PhilHealth\n(beginning )\n(2) | PhilHealth Withheld\n(3) | Total\n(4) | PhilHealth\nRemitted\n(5) | Due to PhilHealth(ending)\n(6)\nJanuary | ₱        47,573.81 | ₱                0.00 | ₱      47,573.81 | ₱         39,475.00 | ₱           8,098.81\nFebruary | 8,098.81 | 92,464.50 | 100,563.31 | 350.00 | 100,213.31\nMarch | 100,213.31 | 0.00 | 100,213.31 | 97,180.74 | 3,032.57\nApril | 3,032.57 | 57,328.44 | 60,361.01 | 0.00 | 60,361.01\nMay | 60,361.01 | 92,379.94 | 152,740.95 | 51,832.15 | 100,908.80\nJune | 100,908.80 | 11,563.06 | 112,471.86 | 0.00 | 112,471.86\nJuly | 112,471.86 | 52,838.00 | 165,309.86 | 50,689.53 | 114,620.33\nAugust | 114,620.33 | 0.00 | 114,620.33 | 104,579.32 | 10,041.01\nSeptember | 10,041.01 | 55,517.98 | 65,558.99 | 49,541.31 | 16,017.68\nOctober | 16,017.68 | 59,277.84 | 75,295.52 | 50,920.13 | 24,375.39\nNovember | 24,375.39 | 61,324.54 | 85,699.93 | 52,139.55 | 33,560.38\nDecember | 33,560.38 | 60,862.46 | 94,422.84 | 53,760.76 | 40,662.08\nTotal |  | ₱    543,556.76 |  | ₱       550,468.49 |",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2018-OBS11",
+      "year": 2018,
+      "recommendation": "13.3\tWe recommended and management agreed that the Municipal Mayor cause the full settlement of all audit suspensions and disallowances, particularly those which have become final and executory pursuant to Sections 9.4 and 10.4 of the Rules and Regulations on Settlement of Accounts.\n\n | Beg.Balance\n(As of Dec.  31, 2017) | This period January 1 to December 31, 2018 | This period January 1 to December 31, 2018 | Ending Balance\n(As of Dec. 31, 2018)\n | Beg.Balance\n(As of Dec.  31, 2017) | NS/ND/NC | NSSDS | Ending Balance\n(As of Dec. 31, 2018)\nNotice of Suspension | ₱   5,901,788.26 | ₱ 10,333,650.40 | ₱  2,099,000.00 | ₱ 14,136,438.66\nNotice of Disallowance | 3,092,534.54 | 2,099,000.00 | 0.00 | 5,191,534.54\nNotice of Charge | 0.00 | 0.00 | 0.00 | 0.00\nTotal | ₱  8,994,322.80 | ₱12,432,650.40 | ₱  2,099,000.00 | ₱ 19,327,973.20",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommended that the management continue to comply with the provisions of PCW-DBM-DILG-NEDA JMC No. 2013-01 in promoting the general welfare, provide basic services and facilities and implement PPAs which will ensure gender-responsive governance.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Non-conduct of gender analysis to fully address GAD needs."
+    },
+    {
+      "id": "Dingalan_Aurora-2017-PY6",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Accountant  follow strictly the provisions in withholding of taxes and remit the same within the prescribed period as provided in Revenue Memorandum No. 23-2007 dated March 23, 2007; revisit the records pertaining to P255,832.89 unremitted taxes and determine whether the same should be paid to the BIR.",
+      "managementAction": "Inquires at BIR Baler regarding unremitted taxes",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ".\n\nTaxes were not fully remitted  as per regulation of BIR"
+    },
+    {
+      "id": "Dingalan_Aurora-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommended and the management agreed that the (a) Municipal Accountant (i) maintain updated PPELC for each class of property to record the acquisition, adjustments and disposal thereof; (ii) exert efforts to secure the necessary documents and reports so that appropriate depreciation can be provided; and (iii) draw JEV to recognize unrecorded PPE; (b) GS Officer maintain complete and updated property cards for all PPE purchased in prior and current year and ensure to update them regularly; and (c) Inventory Committee exert extra effort to conduct annual physical count of property, plant, and equipment by type and submit the report to the Auditor concerned not later than January 31 of each year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommended and management agreed that the Municipal Mayor instruct the Municipal Engineer to (a) regularly monitor the construction progress of any LGU project;  (b) enforce the provision for implementation of projects as provided by  applicable regulation; (c) ensure that future prosecution of projects will be completed as scheduled to deliver the much needed services to its constituents; and (d) prepare written explanation why he recommended time extension for the completion of the project despite the unacceptability of the reasons for said extensions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recommended and management agreed that the Municipal Mayor (a) exercise prudence in the repair of any equipment owned by the municipality; (b) seek the assistance of the Provincial Equipment Pool Office who have a pool of mechanical engineers in any action regarding heavy equipment; (c) instruct the Municipal Engineer to refrain from issuing certification on subject not within his expertise; (d) instruct the Local Disaster Risk Reduction Management Officer to comply with the rule of procedures in the utilization of unexpended LDRRMF; and (e) ensure that future repair of  any municipal equipment is in compliance with regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We recommended and management agreed that the Municipal Mayor together with the Municipal Planning and Development Coordinator and the Budget Officer (a) ensure that future annual investment plans conform with the priorities of the municipality to avoid realigning of fund at execution stage; (b) factor in the observed weather conditions in the area in the setting of timelines  for project implementation; and (c) ensure that future realignments are submitted for review of the Sangguniang Panlalawigan.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2017-OBS5",
+      "year": 2017,
+      "recommendation": "5.16\tWe recommended and  management agreed that the Municipal Mayor together with the Municipal Environment and Natural Resources Officer (a) comply with the recommendation of MGB-DENR RIII with regards to the the proposed landfill; (b) provide adequate and appropriate garbage bins; (c) encourage partnership with ambulant junk buyer and junk shop operator in the collection and segregation of residual wastes; (d) exhort the cooperation and participation of the general public in environmental protection; and (e) provides appropriate fund for solid waste management  for use in SWM PPAs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We recommended and management agreed that the LCE instruct the (a) MDRRMO and the Municipal Engineer to make a thorough study on the effectiveness of their flood control project and consider a sustainable flood management project; and (b) officials concerned to observe the provision of paragraph 6.5 of NDRRMC-DBM-DILG Joint Memorandum Circular on the use of prior years’ unexpended LDRRMF.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2017-OBS7",
+      "year": 2017,
+      "recommendation": "We recommended that the management continue to comply with the provisions of PCW-DBM-DILG-NEDA JMC No. 2013-01 in promoting the general welfare, provide basic services and facilities and implement PPAs which will ensure gender-responsive governance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2017-OBS8",
+      "year": 2017,
+      "recommendation": "We recommended and management concurred that that the Local Chief Executive and the Local School Board (a) prepare a comprehensive annual plan and budget for SEF with adequate consideration of the actual, realistic and more pressing needs of the public school sector; and (b) monitor the implementation of PPAs vis-à-vis the milestones and timelines set to ensure optimum use of the fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2017-OBS9",
+      "year": 2017,
+      "recommendation": "We recommended and management concurred that the Local Chief Executive require the Municipal Accountant  to follow strictly the provisions in  remitting the withheld taxes within the prescribed period as provided in Revenue Memorandum Circular No. 23-2007 dated March 23, 2007.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2017-OBS10",
+      "year": 2017,
+      "recommendation": "We recommended and   management agreed that the Municipal Accountant and Municipal Treasurer to continuously comply with and adhere to  the existing rules and regulation on withholding and remitting GSIS contributions and loan amortizations of employees, including the mandatory employer’s share .",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2017-OBS11",
+      "year": 2017,
+      "recommendation": "We recommended and management agreed that the Municipal Accountant and Municipal Treasurer continuously comply with and adhere to  the existing rules and regulation on withholding and remitting HDMF contributions due from employees, including the mandatory employer’s share.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2017-OBS12",
+      "year": 2017,
+      "recommendation": "We recommended and management concurred to continuously comply with and adhere to  the existing rules and regulation on withholding and remitting PhilHealth contributions due from employees, including mandatory employers’ share.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2017-OBS13",
+      "year": 2017,
+      "recommendation": "We recommended and management agreed that the Municipal Mayor cause the full settlement of all audit suspensions and disallowances, particularly those which have become final and executory pursuant to Sections 9.4 and 10.4 of the Rules and Regulations on Settlement of Accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2017-PY1",
+      "year": 2017,
+      "recommendation": "We commend to the Local Chief Executive to make a conscious effort to provide accurate and reliable financial reports by instructing:\n\n(a) the Municipal Treasurer (GSO) and the Accounting Unit to      prepare and maintain property records such as subsidiary records or ledgers and property cards and both offices should conduct periodic reconciliation of these records; \n\n(b) the Inventory Committee to prepare a comprehensive inventory count and prepare a complete report for submission to the COA Office;\n\n© the Municipal Treasurer (GSO) to observe sound physical and financial control over properties of the Municipality. It should ensure that all motor vehicles should be duly registered in the name of the Municipality and all those fit for use should be properly registered; and\n\n(d) the Accounting Unit to observe properly the depreciation policy on depreciable assets.",
+      "managementAction": "1. Partial Report of Inventory had been submitted to COA\n\n2. Request for appraisal of unserviceable properties is on process\n\n3.Working committees are on hand for valuation of LGU’s properties\n\n4. Reconciliation of Books and Report of Inventory is in progress (Observation No. 1)",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Management was still in the process of completing the inventory report as of year-end."
+    },
+    {
+      "id": "Dingalan_Aurora-2017-PY2",
+      "year": 2017,
+      "recommendation": "We recommend that the local chief executive instruct the Treasurer and the Accountant to exert efforts in retrieving past records which would support the disposition or settlement of the reconciling items or to seek the assistance of the banks to  recapture the necessary information in support of the adjustments for unresolved items in the BRSs.",
+      "managementAction": "Reconciliation is in progress",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "."
+    },
+    {
+      "id": "Dingalan_Aurora-2017-PY3",
+      "year": 2017,
+      "recommendation": "We recommend that the Local Chief Executive(a)\tcomply strictly with the provisions of COA Circular No. 97-002 on the granting, utilization, and liquidation of cash advances;\n(b)\trequire the accountable officers to liquidate the overdue cash advances. Invoke the provisions of law authorizing the withholding of salary of personnel who unjustifiably fails to settle his cash advances within the prescribed period; and\n(c)\tfile appropriate legal action, if warranted to those who have failed to liquidate the overdue cash advances after exhausting appropriate means including those who are no longer in the government service.",
+      "managementAction": "issued demand letter to accountable officials and employees.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ".\n\nSome persons are no longer connected with the LGU"
+    },
+    {
+      "id": "Dingalan_Aurora-2017-PY4",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive (a) ensure the full or optimum utilization of the 20% Development Fund during the budget year; and (b) require the concerned officers to be prudent in overseeing the timely implementation of PPAs under their responsibility.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2017-PY5",
+      "year": 2017,
+      "recommendation": "We recommend that the Local Chief Executive (a)\tcoordinate efforts and implement the five basic environmental laws on preserving and protecting the environment expressly stated under R.A. No. 9003 and local regulations Municipal Ordinance No.01 series of 2008; and (b)involve closely the Barangay officials in the strict implementation of SWM programs and projects and intensify the information campaign on the “no segregation, no collection policy and the “no-littering policy” among the residents and tourists and; pursue the development of sanitary landfill by following the recommendation of MGB-DENR",
+      "managementAction": "AAR CY 2016 | For CY 2017 only 63.02% were utilized out of DF\n\n1. Approved the creation MSWM through E.O. No. 17\n2. Conducted Trainings/ workshop per Barangay\n3. Procured and Installed MRF per Barangay\n4.Procurement of MRF is in progress",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ".\nDelay implementation of PPAs\n\nImplementation is in progress"
+    },
+    {
+      "id": "Dingalan_Aurora-2016-PY3",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive: a). comply strictly with the provisions of COA Circular No. 97-002 on the granting, utilization, and liquidation of cash advances; b). require the accountable officers to liquidate the overdue cash advances. Invoke the provisions of law authorizing the withholding of salary of personnel who unjustifiably fails to settle his cash advances within the prescribed period; and c). file appropriate legal action, if warranted to those who have failed to liquidate the overdue cash advances after exhausting appropriate means including those who are no longer in the government service.",
+      "managementAction": "The Management still failed to strictly comply with COA Circular No. 97-002.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2016-PY6",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive instruct the Municipal Planning Development Officer (MPDO) and the Local Development Council to abide strictly with the guidelines on the planning and implementation of the projects/activities funded under 20% Development Fund in accordance with DILG-DBM J Memorandum Circular No. No 2011-1 dated April 11, 2011 and to ensure that the purpose of the development fund is maximized by including only eligible high-impact development projects for the benefits of its constituents.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The unimplemente d projects were mostly the LGU counterpart for BUB funded projects. They could not implement the projects because the funds for the National Agency concerned were not yet released during the year."
+    },
+    {
+      "id": "Dingalan_Aurora-2016-PY7",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive: (a) coordinate efforts and implement the five basic environment laws on preserving and protecting the environment required under R.A. No. 9003; and (b) request the Solid Waste Management Board to prioritize the finalization of the ten-year SWMP for the early identification of issues/gaps in complying R.A. No. 9003 and the prompt resolution thereof.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Acting MENRO explained that the construction of a Sanitary Landfill is already included in their project proposal for the 2017 BUB fund. The proposed site for the Sanitary landfill was already assessed."
+    },
+    {
+      "id": "Dingalan_Aurora-2016-PY10",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive instruct the Municipal Budget Officer, Municipal Accountant and the DRRM Officer to refrain from using DRRMF for activities/programs/projects (PPAs) which are not related with pre-disaster preparedness, mitigation, response and rescue operations; and strictly adhere to the guidelines on the utilization of the 5% DRRM Fund.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Charging of ineligible expenditures was still done for CY 2016"
+    },
+    {
+      "id": "Dingalan_Aurora-2016-PY11",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive instruct the Municipal Accountant and Municipal Treasurer to see to it that all unexpended/unutilized LDRRM funds are transferred to the Trust Fund books solely for the purpose of supporting disaster risk reduction and management activities of the LDRRMO.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The remaining amount was still not transferred to the special trust fund."
+    },
+    {
+      "id": "Dingalan_Aurora-2016-PY13",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Accountant and Municipal Treasurer follow strictly the provisions in withholding of taxes and remit the same within the prescribed period as provided in Revenue Memorandum Circular No. 23-2007 dated March 23, 2007. Any penalties and charges to be imposed for late remittance shall be the personal liability by the accountable officials concerned.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The taxes withheld from prior year were still not fully remitted."
+    },
+    {
+      "id": "Dingalan_Aurora-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive make a conscious effort to provide accurate and reliable financial reports by instructing:\nthe Municipal Treasurer (GSO) and the Accounting Unit to      prepare and maintain property records such as subsidiary records or ledgers and property cards and both offices should conduct periodic reconciliation of these records;\nthe Inventory Committee to prepare a comprehensive inventory count and prepare a complete report for submission to the COA Office;\nthe Municipal Treasurer (GSO) to observe sound physical and financial control over properties of the Municipality. It should ensure that all motor vehicles should be duly registered in the name of the Municipality and all those fit for use should be properly registered; and\nthe Accounting Unit to observe properly the depreciation policy on depreciable assets.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We recommended and the Local Chief Executive agreed to instruct the Treasurer and the Accountant to exert efforts in retrieving past records which would support the disposition or settlement of the reconciling items or to seek the assistance of the banks to  recapture the necessary information in support of the adjustments for unresolved items in the BRSs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommend that the Local Chief Executive:\n(a)\tcomply strictly with the provisions of COA Circular No. 97-002 on the granting, utilization, and liquidation of cash advances;\n(b)\trequire the accountable officers to liquidate the overdue cash advances. Invoke the provisions of law authorizing the withholding of salary of personnel who unjustifiably fails to settle his cash advances within the prescribed period; and\n(c)\tfile appropriate legal action, if warranted to those who have failed to liquidate the overdue cash advances after exhausting appropriate means including those who are no longer in the government service.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive (a) ensure the full or optimum utilization of the 20% Development Fund during the budget year; and (b) require the concerned officers to be prudent in overseeing the timely implementation of PPAs under their responsibility.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommended and the Local Chief Executive agreed to submit their GAD Plan and Budget to the Department of Interior and Local Government (DILG) Regional office for their review and approval and instruct the GFPS to properly plan and regularly monitor the implementation of GAD projects and activities and prioritize those activities that can be undertaken for the budget year that would address the identified GAD issues.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommended that the (a) Disaster Risk Reduction Management (DRRM) Officer regularly monitor and evaluate the utilization of Local Disaster Risk Reduction Management Fund (LDRRMF) based on the PPAs listed in the Local Disaster Risk Reduction Management Plan (LDRRMP); and (b) Budget Officer and Municipal Accountant to  stop processing claims not related to disaster preparation, mitigation and preparedness.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We recommend that the Local Chief Executive:\n(a)\tcoordinate efforts and implement the five basic environmental laws on preserving and protecting the environment expressly stated under R.A. No. 9003 and local regulations Municipal Ordinance No.01 series of 2008;\n(b)\tinvolve closely the Barangay officials in the strict implementation of SWM programs and projects and intensify the information campaign on the “no segregation, no collection policy and the “no-littering policy” among the residents and tourists; and\n(c)\tpursue the development of sanitary landfill by following the recommendation of MGB-DENR.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Accountant  follow strictly the provisions in withholding of taxes and remit the same within the prescribed period as provided in Revenue Memorandum Circular No. 23-2007 dated March 23, 2007; revisit the records pertaining to P255,832.89 unremitted taxes and determine whether the same should be paid to the BIR.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2016-OBS9",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Accountant and Municipal Treasurer to continuously comply with and adhere to  the existing rules and regulation on withholding GSIS due from employees, remitting the same including mandatory employer’s share and performing the required reportorial functions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2016-OBS10",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor cause the full settlement of all audit suspensions and disallowances, particularly those which become final and executory pursuant to Sections 9.4 and 10.4 of the Rules and Regulations on Settlement of Accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2016-PY1",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive- a)    prioritize the creation of an Inventory Committee composed of two or more employees to undertake the physical count of its properties, prepare the report thereon, and reconcile its results with the records maintained at the Accounting Office; b)   designate a property custodian to assist the Municipal Treasurer, who shall maintain Property Cards for property, plant and equipment in their custody to account for the receipt and disposition of the same and reconcile with the ledger cards of the accounting unit, including the updating of Acknowledgment Receipt for Equipment (ARE); and c) instruct the Municipal Accountant to provide for depreciation on all depreciable assets in accordance with the PPSAS Manual.",
+      "managementAction": "As of date the Agency already conducted inventory of Property, Plant and Equipment (PPE) but failed to submit report as required in Section 124 of the Manual New Government Accounting System for Local Government Units.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "No personnel prepare the report."
+    },
+    {
+      "id": "Dingalan_Aurora-2016-PY2",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive instruct the Municipal Accountant and the Municipal Treasurer to: a). locate or trace the disbursement vouchers covering the stale checks totaling P144,856.38 so that the necessary adjustment/cancellation could be made immediately; b). coordinate closely with each other in informing payees of the availability of checks in the MTO and the need to surrender checks for cancellation, which became stale in the hands of the payee; c). exert effort to trace the details of the reconciling items in the Trust Fund amounting to P262,470.55 and accordingly adjust the same in the books in order to present a correct Cash-in-Bank balance; and d). have a regular reconciliation of balances with the Municipal Treasurer’s cashbook.",
+      "managementAction": "Reconciliation with the cash book was done, however, the Municipal Accountant failed to trace the details of the reconciling items and the presence of the stale checks in the BRS was still noted.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Failure of the Municipal Accountant to trace the details of the reconciling items."
+    },
+    {
+      "id": "Dingalan_Aurora-2016-PY4",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Treasurer to deposit collections daily and intact with the authorized government depository in accordance with Section 32 of the Manual on NGAS to safeguard government money from risk of loss and/or misuse.",
+      "managementAction": "Some collections were still not deposited on time.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Liquidating Officer reasoned out that deposit of collections was done once a week because of the non-availabi lity of service vehicle."
+    },
+    {
+      "id": "Dingalan_Aurora-2016-PY5",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive to: a). seriously look for the root cause on the recurring issue on delays in the submission of mandatory reports to COA by implementing or strengthening control measures addressing the root cause of the problem; b). enforce political will in inculcating change for good governance by imposing disciplinary action against erring officers and/or employees responsible for or contributory to the occurrence of delay in the transmittal of reports; and c). direct the Municipal Treasurer and the Municipal Accountant to transmit immediately to the Audit Team the all the unsubmitted disbursement vouchers, otherwise, resort to the institution of available administrative remedies under Section 39(3) of PD No. 1445.",
+      "managementAction": "The Municipal Mayor ordered the submission of financial reports.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2016-PY8",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive: (a) require the members of the Bids and Awards (BAC), the BAC Secretariat to observe strictly the provisions of the IRR of RA No. 9184 in every procurement process; (b) direct the Municipal Accountant, in coordination with other offices involved, to work on the completion of the documentary deficiencies cause the submission of the required and necessary supporting documents of the subject disbursements; and (c) instruct the Municipal Accountant to ensure that the required documents for each type of transaction are submitted/ attached to the DVs before their processing and payment, as stated in Section 4(6) of PD No. 1445.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2016-PY9",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive instruct the Municipal Accountant and Municipal Treasurer to cause the immediate refund of the amount disallowed totaling to P2,062,000.00. Henceforth, the officials concerned are advised to refrain from paying claims without specific rules and regulations and/or legal basis to avoid disallowance in audit.",
+      "managementAction": "The management agreed to refund the PERA",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Dingalan_Aurora-2016-PY12",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "Majority of the GAD projects were implemented during CY 2016",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Agency failed to implement fully the Programs, Projects and Activity of GAD."
+    },
+    {
+      "id": "Dingalan_Aurora-2016-PY14",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor cause the full settlement of all audit suspensions and disallowances, particularly those which become final and executory pursuant to Sections 9.4 and 10.4 of the Rules and Regulations on Settlement of Accounts.",
+      "managementAction": "Some official concerned settled their Suspensions/Disallowances",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The settlement was only partial because the officials concerned were already separated from the agency."
+    }
+  ]
+}

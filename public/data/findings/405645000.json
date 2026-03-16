@@ -1,0 +1,638 @@
+{
+  "lguCode": "405645000",
+  "lguName": "Sariaya",
+  "province": "Quezon",
+  "region": "Region III (Central Luzon)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "Sariaya_Quezon_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor instruct the:  Municipal Assessor to facilitate the titling of the subject lots to establish ownership over them and avoid contingent claims that may arise in the future in compliance with Section 148 of COA Circular No. 92-386; and  Municipal Accountant to: determine the details of the unidentified land by gathering the relevant supporting documents available in the Municipality; and maintain the land account and supporting documents relative to the land.",
+      "managementAction": "The processing of the titles was not prioritized in CY 2021 due to lack of previous Municipal Assessor. The Municipal Accountant has not gathered the supporting documents relative to the untitled lots.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The processing of the titles was not prioritized in CY 2021 due to lack of previous Municipal Assessor."
+    },
+    {
+      "id": "Sariaya_Quezon_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to:  comply with the requirements of COA Circular No. 2016-005 such as gathering and completing the documents to support the filing of the request for write-off of dormant receivables to the Commission on Audit through the Audit Team; and  in the meantime, set up the provision for the Allowance for Impairment in order to present fairly the Receivables account in the financial statements at net realizable value consistent with the requirements of COA Circular No. 2016-005 and Paragraph 27 of IPSAS 1.",
+      "managementAction": "The Municipality was unable to file the request for write off of dormant receivables to the COA. The Municipal Accountant was unable to set up the provision for Allowance for Impairment.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Municipality was unable to file the request for write off of dormant receivables to the COA. The Municipal Accountant was unable to set up the provision for Allowance for Impairment."
+    },
+    {
+      "id": "Sariaya_Quezon_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Chairman of the Inventory, Disposal and Appraisal Committee, the OIC-GSO, and the Municipal Accountant to pursue the completion of the physical count of all PPEs owned by the Municipality as well as the reconciliation of both their records to establish the correct PPE balances, to investigate and adjust any discrepancy that will be noted.\n\nWe also recommended that the Municipal Mayor to instruct the Disposal Committee to prioritize the disposal of the unserviceable PPEs to avoid further deterioration and possible loss and to generate additional income from its disposal.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Inventory Committee to conduct of physical count of all supplies and materials inventory of the Municipality every semester and to prepare and render a complete Report on Physical Count of Inventory (RPCI) and submit to the COA Audit Team not later than July 31 and January 31 of each year for first and second semesters, respectively.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant and the OIC-Municipal Treasurer to make payments thru issuance checks directly to suppliers.\n\nIn instances when it may be very difficult, impractical or impossible to make payments by check, payments may be made by the OIC-Municipal Treasurer or a designated SDO in the form of cash through his cash advance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the: 1. Inventory Committee to allocate adequate time for the:  completion of the physical count of all properties;  preparation of the RPCPPE in the prescribed form with the necessary information and data which will be used in the reconciliation of PPEs and submit not later than January 31 of each year; and  completion of the reconciliation of the Property and PPE Ledger Cards (PPELC), instead of lapsing schedule. 2. Municipal Accountant to:  determine the details of the unaccounted PPEs by gathering relevant supporting documents available in the Municipality; and  maintain the PPELC for each category of property, plant and equipment instead of lapsing schedule.",
+      "managementAction": "The inventory Committee was unable to complete the inventory taking of all PPEs, hence reconciliation of the records maintained by the Accounting Office and the Inventory Committee were not performed. The inventory Committee was unable to complete the inventory taking of all PPEs, hence reconciliation of the records maintained by the Accounting Office and the Inventory Committee were not performed. The Accounting Office has already started maintaining the PPELC for CY 2021, however PPELC for previous years have not been completed.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There are still unaccounted PPEs in the submitted Report by the GSO."
+    },
+    {
+      "id": "Sariaya_Quezon_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendations that the Municipal Mayor require the Municipal Treasurer to:  review and compare her cashbook entries with the accounting records and effect adjustments for the reconciling items; and  henceforth, reconcile her cashbook with the accounting records at least quarterly to avoid accumulation of discrepancies to ensure the fair presentation of the cash account in the financial statements in compliance with Paragraph 27 of IPSAS 1.",
+      "managementAction": "The Municipal Treasurer reconciled her cashbook entries with the accounting records and effected reconciling adjustments. The Municipal Treasurer has reconciled with the accounting records balance of P253,315,790.17 as of December 31, 2021.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to make the necessary correcting/adjusting entries to reflect the transactions accurately to achieve fair presentation of the affected accounts in the financial statements in accordance with Paragraph 27 of IPSAS 1.",
+      "managementAction": "The Municipal Accountant made the necessary adjusting entries.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to review the affected accounts and to make the necessary adjustments on the noted discrepancies for the fair presentation of the financial statements in accordance with Paragraph 27 of IPSAS 1.",
+      "managementAction": "The Municipal Accountant reviewed the affected accounts and made the necessary adjustments and properly recognized the interest income, interest expense and cost of checkbook for CY 2021.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal Accountant to revert the account to the Unappropriated Surplus of the General Fund through a Sangguniang Bayan Resolution with the condition that appropriation shall be made in the event that claims arises in the future, pursuant to the provisions of Section 98 of PD No. 1445.",
+      "managementAction": "The Municipal Accountant reverted the account to the Unappropriated Surplus of the General Fund.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to submit to the Audit Team all the required supporting documents for evaluation. Otherwise, the same may be suspended or disallowed in audit. Henceforth, ensure that all claims against government funds are properly supported with complete documentation in compliance with Section 4(6) of PD No. 1445.",
+      "managementAction": "The Municipal Accountant submitted to the Audit Team the required supporting documents. Henceforth, ensure that all claims against government funds are properly supported with complete documentation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Disaster Risk Reduction and Management Officer to prepare the:  Summary/List of Donations Received, Distributed and Balances for In-kind Donations;  Report on the Receipt and Utilization of Cash Donations;  Report on the Receipts and Distribution/Issuance of In-Kind Donations; and  Report on the Receipts and Distribution/Issuance of Donated PPE and furnish the same to the NDRRMC, through the OCD, copy furnished the Audit Team within ten working days after the end of each quarter pursuant to COA Circular Nos. 2014-002 and 2020-009.",
+      "managementAction": "The Disaster Risk Reduction and Management Officer prepared the required documents.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Sariaya_Quezon-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to revert the account to the Unappropriated Surplus of the General Fund subject to an authority from the Sangguniang Bayan through a Resolution with the condition that appropriation shall be made in the event that claims arises in the future, pursuant to the provisions of Section 98 of PD No. 1445.",
+      "managementAction": "Management furnished the Audit Team with the Sangguniang Bayan Resolution No. 58-2021 dated April 7, 2021 authorizing the reversion of the dormant payables to the Unappropriated Surplus of the General Fund and the Municipal Accountant committed to revert the said account.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Municipal Accountant was unable to revert the account earlier due to absence of Sangguniang Bayan Resolution authorizing the reversion. The Municipal Mayor sent a request to the SB which was received on March 3, 2021; SB Resolution No. 58-2021 dated April 7, 2021 was subsequently furnished."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Sariaya_Quezon-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to submit to the Audit Team all the required supporting documents for evaluation. Otherwise, the same may be suspended or disallowed in audit. Henceforth, ensure that all claims against government funds are properly supported with complete documentation in compliance with Section 4(6) of PD No. 1445.",
+      "managementAction": "Management commented that they will submit the required supporting documents to the Audit Team and observe compliance with the requirement.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Post audit of accounts showed lack of authority from the head of the agency/office that the personnel/worker have been authorized to physically report for work at their respective offices or work stations on the prescribed official working hours during ECQ in the supporting documents. The required supporting documents were to be submitted to the Audit Team for evaluation."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Sariaya_Quezon-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Disaster and Risk Reduction Management Officer to prepare the:\n• Summary/List of Donations Received, Distributed and Balances for In-kind Donations;\n• Report on the Receipt and Utilization of Cash Donations;\n• Report on the Receipts and Distribution/Issuance of Donated Relief Goods; and\n• Report on the Receipts and Distribution/Issuance of Donated PPE and furnish the same to the NDRRMC, through the OCD, copy furnished the Audit Team within ten working days after the end of each quarter pursuant to COA Circular Nos. 2014-002 and 2020-009.",
+      "managementAction": "Management commented that they will submit to the Audit Team the required documents.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Municipality was not aware of the requirement and therefore did not prepare and submit the reports; submission was to be done within ten working days after the end of each quarter as required in COA Circular No. 2020-009."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Sariaya_Quezon-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the:\n1. Inventory Committee to allocate adequate time for the:\n• completion of the physical count of all properties;\n• preparation of the RPCPPE in the prescribed form with the necessary\ninformation and data which will be used in the reconciliation of PPEs and\nsubmit the same not later than January 31 of each year; and\n• completion of the reconciliation of the Property and Accounting Records\nin coordination with the Municipal Accountant, identify and investigate the causes of\nthe noted discrepancies, and effect the necessary adjustments in both records, if\nwarranted;\n2. Municipal Accountant to:\n• determine the details of the unaccounted PPEs by gathering relevant supporting\ndocuments available in the Municipality; and\n• maintain the PPELC for each category of property, plant and equipment instead of\nlapsing schedule.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Sariaya_Quezon-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the:\n• Municipal Assessor to facilitate the titling of the subject lots to establish\nownership over them and avoid contingent claims that may arise in the future\nin compliance with Section 148 of COA Circular No. 92-386; and\n• Municipal Accountant to determine the details of the unidentified land by\ngathering the relevant supporting documents from the Municipal Treasurer and the Assessor’s\nOffice for the fair presentation of the land account in the financial statements\npursuant to Paragraph 27 of IPSAS 1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Sariaya_Quezon-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendations that the Municipal Mayor require the Municipal\nTreasurer to:\n• review and compare her cashbook entries with the accounting records and\neffect adjustments for the reconciling items; and\n• henceforth, reconcile her cashbook with the accounting records at least\nquarterly to avoid accumulation of discrepancies to ensure the fair\npresentation of the cash account in the financial statements in compliance with the requirement of\nParagraph 27 of IPSAS 1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Sariaya_Quezon-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to:\n• comply with the requirements of COA Circular No. 2016-005 such as gathering and\ncompleting the documents to support the filing of the request for authority to write-off\ndormant receivables to the Commission on Audit through the Audit Team; and\n• in the meantime, set up the provision for Allowance for Impairment in order to\npresent fairly the Receivables account in the financial statements at net realizable\nvalue consistent with the requirements of COA Circular No. 2016-005 and for the fair\npresentation of the account in the financial statements as required under Paragraph\n27 of IPSAS 1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Sariaya_Quezon-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to\nmake the necessary correcting/adjusting entries to reflect the transactions\naccurately to achieve fair presentation of the affected accounts in the financial\nstatements in compliance with Paragraph 27 of IPSAS 1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Sariaya_Quezon-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to\nreview the affected accounts and to make the necessary adjustments on the noted\ndiscrepancies for the fair presentation of the financial statements in accordance\nwith Paragraph 27 of IPSAS 1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Sariaya_Quezon-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal\nAccountant to revert the account to the Unappropriated Surplus of the General\nFund subject to an authority from the Sangguniang Bayan through a Resolution\nwith the condition that appropriation shall be made in the event that claims arises\nin the future, pursuant to the provisions of Section 98 of PD No. 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Sariaya_Quezon-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to\nsubmit to the Audit Team all the required supporting documents for evaluation.\nOtherwise, the same may be suspended or disallowed in audit.\n\nHenceforth, ensure that all claims against government funds are properly\nsupported with complete documentation in compliance with Section 4(6) of PD No.\n1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Sariaya_Quezon-2020-OBS9",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Disaster and Risk\nReduction Management Officer to prepare the:\n• Summary/List of Donations Received, Distributed and Balances for In-kind\nDonations;\n• Report on the Receipt and Utilization of Cash Donations;\n• Report on the Receipts and Distribution/Issuance of Donated Relief Goods; and\n• Report on the Receipts and Distribution/Issuance of Donated PPE and furnish the\nsame to the NDRRMC, through the OCD, copy furnished the Audit Team\nwithin ten working days after the end of each quarter pursuant to COA Circular\nNos. 2014-002 and 2020-009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Sariaya_Quezon-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor:\n1. Inventory Committee to allocate adequate time for the:\n• completion of the physical count of all properties;\n• preparation of the RPCPPE in the prescribed form with the necessary information and data which will be used in the reconciliation of PPEs and submit the same not later than January 31 of each year; and\n• completion of the reconciliation of the Property and Accounting Records in coordination with the Municipal Accountant, identify and investigate the causes of the noted discrepancies, and effect the necessary adjustments in both records, if warranted;\n2. Municipal Accountant to:\n• determine the details of the unaccounted PPEs by gathering relevant supporting documents available in the Municipality; and\n• maintain the PPELC for each category of property, plant and equipment instead of lapsing schedule.",
+      "managementAction": "Management commented that no records were handed over earlier than year 2007 to the Municipal Accountant and was not able to retrieve documents prior to that year before she assumed office. Beginning balances were only taken from handed over books of accounts. The Management also commented that they are doing their best to ensure that checks and balances are in place as regards property management.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipality was able to conduct the physical count of the PPEs and prepare the RPCPPE and submitted the report late by one month and five days to the Audit Team on March 5, 2021. The reconciliation of the Municipal Accountant’s records of PPEs and the OIC-GSO’s records of PPEs was still on-going. It was slowed down by the COVID-19 pandemic. The Municipal Accountant was still not able to determine the details of the unaccounted balance despite her diligent efforts. The Municipality was able to dispose the unserviceable properties."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Sariaya_Quezon-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the OIC-Municipal Treasurer to:\n• review and compare her cashbook entries with the accounting records and effect adjustments for the reconciling items; and\n• henceforth, reconcile her cashbook with the accounting records at least quarterly to avoid accumulation of discrepancies to ensure the fair presentation of the cash account in the financial statements in compliance with the requirement of Paragraph 27 of IPSAS 1.",
+      "managementAction": "The OIC-Municipal Treasurer reviews and compares her cashbook entries with the accounting records, hence the decrease in discrepancies.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reconciliation between the Accounting Records and the Treasurer’s Cashbook was on-going. It was slowed down by the COVID-19 pandemic. With the new developments, the audit observation is updated and presented anew under audit observation no. 3, Part II of this Report."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Sariaya_Quezon-2020-PY3",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor to instruct the:\n• Municipal Assessor to facilitate the titling of the subject lots to establish ownership over them and avoid contingent claims that may arise in the future in compliance with Section 148 of COA Circular No. 92-386; and\n• Municipal Accountant to determine the details of the unidentified land by gathering the relevant supporting documents from the Municipal Treasurer and the Assessor’s Office for the fair presentation of the land account in the financial statements pursuant to Paragraph 27 of IPSAS 1.",
+      "managementAction": "Management commented that they will abide with the audit recommendations.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipal Assessor was able to title one parcel of lot and provide updates on the status of the remaining untitled lots. With the new developments, the audit observation is updated and presented anew under audit observation no. 2, Part II of this Report."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Sariaya_Quezon-2020-PY4",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor:\n• instruct the Municipal Accountant to locate the documents to support the request for authority to write-off dormant receivables following the guidelines and procedures provided under COA Circular No. 2016-005; and\n• request from the Sangguniang Bayan a Resolution authorizing him to file the request for write-off of dormant receivables.",
+      "managementAction": "Management commented that they will comply with the audit recommendations.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipality was able to issue SB Resolution No. 075-2020 authorizing the Municipal Mayor to file the request for write-off of dormant receivables. However, filing of the request to the Commission on Audit remained to be accomplished as of report date."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Sariaya_Quezon-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the GAD Focal Person to ensure submission to the Audit Team of the Accomplishment Report for GAD Fund within the prescribed period or within five (5) working days from the end of January of the preceding year, pursuant to COA Circular No. 2014-001.",
+      "managementAction": "The Municipal Planning and Development Coordinator and Municipal Engineer complied with the audit recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": "The Municipal GAD Focal Person was made aware and the Accomplishment Report for GAD Fund was submitted (the Municipality complied with the requirement)."
+    },
+    {
+      "id": "Sariaya_Quezon-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor request the:  SB a Resolution to authorize him to file the request for write-off of dormant receivables; and  Municipal Accountant to support the request for authority to write-off dormant receivable accounts following the guidelines and procedures provided under COA Circular No. 2016-005.",
+      "managementAction": "The Municipal Mayor already made a request dated July 6, 2020 for a Resolution which was received by the Sangguniang Bayan on even date.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2019-PY10",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor:  instruct the Municipal Engineer to submit the list of all on-going PPAs and those that are to be implemented during the year on January of every year providing the information as required under Section 2.1 of COA Circular No. 2013-004; and  inform the Audit Team within ten (10) days after the award of the infrastructure project or before the start of the program/activity that the appropriate project signboards and/or public notices are already posted.",
+      "managementAction": "The Municipality was not able to submit the list of all on-going PPAs and those that are to be implemented during the year as well as the giving of notice to the Audit Team within 10 days that the appropriate signboards and/or public notices have been already posted due to lack staff who will attend to the preparation and submission of the same.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "With the new developments, audit observation is updated and presented anew in audit observation no. 7, Part II of this Report."
+    },
+    {
+      "id": "Sariaya_Quezon-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor:\n direct the OIC-General Services Officer to continue the conduct of the physical\ncount of all properties, exert all efforts to complete the inventory list of all\nexisting PPE and prepare the RPCPPE in the prescribed form with the\nnecessary information and data and submit the same not later than January 31\nof each year;\n instruct the OIC-General Services Officer and the Municipal Accountant to\nreconcile their records of PPE accounts, identify and investigate the causes of\nthe noted discrepancies in the balances of accounts to bring the two records in\nagreement; and effect necessary adjustment in the both records, if warranted;\n require the Municipal Accountant to determine the details of the unaccounted\naccounts by gathering relevant supporting documents available in the\nMunicipality; and\n initiate the immediate disposal of the unserviceable properties in accordance\nwith existing regulations; and consequently, the Accounting Office to\nderecognize its value based on Paragraph 82 of IPSAS 17 for fair presentation of the affected\naccounts in accordance with Paragraph 27 of IPSAS 1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the OIC–Municipal Treasurer\nto:\n review and compare her cashbook entries with the accounting records and\neffect adjustments for the reconciling items; and\n henceforth, reconcile her cashbook with the accounting records at least\nquarterly to avoid accumulation of discrepancies to ensure compliance with\nthe requirement of Paragraph 27 of IPSAS 1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Municipal\nAssessor to continually facilitate the titling of the subject lots to avoid contingent\nclaims that may arise in the future and for the fair presentation of the Land\naccount in the financial statements in compliance with Section 148 of COA\nCircular No. 92-386 and Paragraph 27 of IPSAS 1, respectively.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor:\n instruct the Municipal Accountant to locate the documents to support the\nrequest for authority to write-off dormant receivables following the guidelines\nand procedures provided under COA Circular No. 2016-005; and\n request from the Sangguniang Bayan a Resolution authorizing him to file the\nrequest for write-off of dormant receivables.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to\nconfirm with the creditors and to request them to submit documents pertaining to\ntheir claims. In the event they failed to support their claims, revert the account to\nthe Unappropriated Surplus of the General Fund subject to an authority from the\nSangguniang Bayan through a Resolution with the condition that appropriation\nshall be made in the event that claim arises in the future, pursuant to the\nprovisions of Section 98 of PD No. 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to\nadjust the affected accounts for their fair presentation in the financial statements.\nHenceforth, we recommended that the Municipal Mayor instruct the OIC-Municipal\nTreasurer and the Municipal Accountant to recognize the collection from sale of\nOR 51C and CTC from various barangays as Miscellaneous Income.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2019-PY1",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the:  OIC-GSO to complete the conduct of physical count of property, plant and equipment; report the result in the prescribed RPCPPE form and submit the same not later than January 31 of each year; and prepare the IIRUP for unserviceable properties for disposal; and  Municipal Accountant to determine the details of the unaccounted accounts by gathering relevant supporting documents available in the Municipality for the fair presentation of the accounts in the financial statements.",
+      "managementAction": "The OIC-GSO conducted the physical count of property, plant and equipment; reported the result in the prescribed RPCPPE form and submit the same not later than January 31 of each year; and prepares the IIRUP for unserviceable properties for disposal, however RPCPPE was only submitted on March 10, 2020 and the reconciliation of the RPCPPE with the accounting records was not facilitated.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipal Accountant still failed to gather relevant supporting documents for the unaccounted PPEs. With the new developments, audit observation is updated and presented anew in audit observation no. 1, Part II of this Report."
+    },
+    {
+      "id": "Sariaya_Quezon-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Assessor to facilitate the titling of the subject lots to avoid contingent claims that may arise in the future and for the fair presentation of the Land account in the financial statements in compliance with Section 148 of COA Circular No. 92-386 and Paragraph 27 of IPSAS 1, respectively.",
+      "managementAction": "The Office of the Municipal Assessor is still in the process of gathering documents pertaining to the record of land.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reiterated in audit observation no. 3, Part II of this Report."
+    },
+    {
+      "id": "Sariaya_Quezon-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to revert the account to the unappropriated surplus of the GF as authorized by the SB with a condition that appropriation shall be made available in the event that claim arises in the future.",
+      "managementAction": "The Municipal Accountant reverted the account to the unappropriated surplus of the GF as authorized by the SB with a condition that appropriation shall be made available in the event that claim arises in the future.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor ensure that any cash advance under his granting, utilization and liquidation be liquidated at the end of the year. Henceforth, ensure the proper granting, utilization and liquidation of all cash advances within the prescribed period in accordance with the existing rules and regulations.",
+      "managementAction": "The Office ensures the proper accountability, utilization and liquidation of all cash advances within the prescribed period.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor:  instruct the Municipal Treasurer to send written notices to the payees whose checks are about to become stale at least one month before expiry, if no response is received within the given time, effect the cancellation of the stale check; and  request the Municipal Accountant to make the necessary adjustment in the Municipality’s books of accounts by debiting Cash in Bank account and crediting Prior Period Adjustment account.",
+      "managementAction": "The Municipality complied with the audit recommendation. The Municipal Treasurer sent written notices and effected cancellation; Municipal Accountant made necessary adjustment.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer to return immediately the unexpended balance of P133,700.00 from the completed project to Bureau of Treasury so that it could be used in other projects or by other agencies needing financial assistance.",
+      "managementAction": "The unexpended balance was returned to Bureau of Treasury per DV No. 06-139 dated June 13, 2019 with check No. 484383 dated June 13, 2019.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the HRMO to ensure that an employee’s net take home pay shall not be less than the mandated minimum allowed take home pay of P5,000.00 provided under Section 48 of the GAA for FY 2018 by closely monitoring the net take home pay of employees. Should there be loan deduction which cannot be anymore accommodated in the net take home pay, the employees concerned should be advised to pay their loans directly to their respective lenders.",
+      "managementAction": "The Office who is in charge of payroll preparation ensured that the employees net take home pay met the mandated minimum allowed take home pay of P5,000.00.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2019-PY9",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the MPDO and the Municipal Engineer to properly monitor and evaluate the implementation of the various PPAs under the 20% DF to ensure timely completion and optimal utilization.",
+      "managementAction": "With the new strategy or method to properly monitor and evaluate the implementation of the projects they were able to manage to implement 73.90% of their PPAs compared to last year of only 53.84%.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "With the new developments, audit observation is updated and presented anew in audit observation no. 9, Part II of this Report."
+    },
+    {
+      "id": "Sariaya_Quezon-2019-PY11",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor through the Municipal Assessor Office submit the proposed schedule of fair market values as of December 2018 to the Sangguniang Bayan for its appropriate action as required by law.",
+      "managementAction": "The Municipality complied with the audit recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2018-PY3",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal Accountant to prepare the request for authority to write-off dormant receivables and file the same to the Commission on Audit.",
+      "managementAction": "Not Implemented\nThe Sangguniang Bayan (SB) resolution authorizing the reversion is still for request by the Municipal Mayor.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "With the new developments, the audit observation was updated and presented anew in audit observation no. 3, page no. 53"
+    },
+    {
+      "id": "Sariaya_Quezon-2018-PY6",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor make representation with the Sangguniang Bayan for the passage and approval of the Revised Municipal Revenue Code in accordance with Section 191 of RA 7160.",
+      "managementAction": "Not Implemented\nThe audit recommendation was not implemented due to inaction of the Sangguniang Bayan (SB).",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in audit observation no. 11, page no. 63"
+    },
+    {
+      "id": "Sariaya_Quezon-2018-PY7",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Municipal Engineer to submit the list of all-on-going PPAs and those that are to be implemented during the year on January of every year and for monthly monitoring report and the information that the appropriate signboards and/or public notices have been already posted in compliance with COA Circular No. 2013-004.",
+      "managementAction": "Not Implemented\nThe Municipal Engineer was unable to submit the list of all-on-going and for implementation projects/programs/activities at the beginning of the year and the information that the appropriate signboards and/or public notices have been already posted due to lack of knowledge on the said regulation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in audit observation no. 10, page no. 62"
+    },
+    {
+      "id": "Sariaya_Quezon-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal HRMO to ensure that an employee’s net take home pay shall not be less than the mandated minimum allowed take home pay of P4,000.00 for CY 2017 as provided under Section 47 of the GAA.",
+      "managementAction": "Not Implemented\nThe net take home pay of some employees was still below the mandated net take home pay provided in the GAA. Henceforth, see to it that the mandatory monthly net take home pay provided in the GAA is strictly observed yearly.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "With the new developments, the audit observation was updated and presented anew in observation no. 8, page no. 58"
+    },
+    {
+      "id": "Sariaya_Quezon-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the:\n OIC-GSO to complete the conduct of physical count of property, plant and\nequipment; report the result in the prescribed RPCPPE form and submit the\nsame not later than January 31 of each year; and prepare the IIRUP for\nunserviceable properties for disposal and reconcile the RPCPPE with the\naccounting records to establish the correct details of PPE accounts; and\n Municipal Accountant to determine the details of the unaccounted accounts by\ngathering relevant supporting documents available in the Municipality for the\nfair presentation of the accounts in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Assessor to\nfacilitate the titling of the subject lots to avoid contingent claims that may arise in\nthe future in compliance with Section 148 of COA Circular No. 92-386 and for the\nfair presentation of the Land account in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor request the:\n SB a Resolution to authorize him to file the request for write-off of dormant\nreceivables; and\n Municipal Accountant to support the request for authority to write-off dormant\nreceivables following the guidelines and procedures provided under COA\nCircular No. 2016-005.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to\nrevert the account to the unappropriated surplus of the GF as authorized by the\nSB with a condition that appropriation shall be made available in the event that\nclaim arises in the future.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor ensure that any cash advance under\nhis accountability be liquidated at the end of the year.\n\nHenceforth, ensure the proper granting, utilization and liquidation of all cash\nadvances within the prescribed period in accordance with the existing rules and\nregulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor:\n instruct the Municipal Treasurer to send written notices to the payees whose\nchecks are about to become stale at least one month before expiry, if no\nresponse was received within the given time, effect the cancellation of the\nstale check; and\n request the Municipal Accountant to make the necessary adjustment in the\nMunicipality’s books of accounts by debiting Cash in Bank account and\ncrediting Prior Period Adjustment account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2018-OBS7",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer to\nreturn immediately the unexpended balance of P133,700.00 from the completed\nproject to the Bureau of Treasury so that it could be used in other projects or by\nother agencies needing financial assistance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2018-OBS8",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal HRMO to\nensure that an employee’s net take home pay shall not be less than the mandated\nminimum allowed take home pay of P5,000.00 for CY 2018 as provided under\nSection 48 of the GAA for FY 2018 by closely monitoring the net take home pay of\nemployees.\n\nHenceforth, see to it that the mandatory monthly net take home pay provided in\nthe GAA is strictly observed yearly. Should there be loan deduction which cannot\nbe anymore accommodated in the net take home pay, the employees concerned\nshould be advised to pay their loans directly to their respective lenders.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2018-OBS9",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Engineer and\nthe MPDC to properly monitor and evaluate the implementation of the projects\nunder the 20% DF to ensure timely completion.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2018-OBS10",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendtion that the Municipal Mayor:\n instruct the Municipal Engineer to submit the list of all on-going PPAs and\nthose that are to be implemented during the year on January of every year\nproviding the information as required under Section 2.1 of COA Circular No.\n2013-004; and\n inform the Audit Team within ten (10) days after the award of the infrastructure\nproject or before the start of the program/activity that the appropriate project\nsignboards and/or public notices are already posted.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2018-OBS11",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor through the\nMunicipal Assessors Office submit the proposed schedule of fair market values as\nof December 2018 to the Sangguniang Bayan for its appropriate action as required\nby law.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the:\n OIC-GSO to complete the conduct of physical count of property, plant and equipment; report the result in the prescribed RPCPPE form and submit the same not later than January 31 of each year; and prepare the IIRUP for unserviceable properties for disposal and reconcile the RPCPPE with the accounting records to establish the correct details of PPE accounts; and\n Municipal Accountant to determine the details of the unaccounted accounts by gathering relevant supporting documents available in the Municipality for the fair presentation of the accounts in the financial statements.",
+      "managementAction": "Partially Implemented\nThe OIC-GSO conducted the physical count of property, plant and equipment of the Municipality. However, this was not completed as RPCPPE form of year-end due to unreconciled difference P71,289,272.32. (Reiterated in audit observation no. 1, page no. 50)\nPartially Implemented\nThere are parcels of land which were recorded in the books of accounts but were not supported with Transfer Certificate of Title, thus this is presented under audit observation no. 2, page no. 52)",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The OIC-GSO conducted the physical count of property, plant and equipment of the Municipality. However, this was not completed as RPCPPE form of year-end due to unreconciled difference P71,289,272.32."
+    },
+    {
+      "id": "Sariaya_Quezon-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor advise the Municipal Accountant to record properly the RPT/SET collections in accordance with the MNGAS for LGUs, Volume I, for fair presentation in the financial statements.",
+      "managementAction": "Fully Implemented\nThe Municipal Accountant properly recorded the RPT/SET collections.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2018-PY4",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Municipal Accountant to revert the payable to the Unappropriated Surplus of the GF, subject to an authority from the Sangguniang Bayan (SB) with a condition that appropriation shall be made available in the event that claim arises in the future, pursuant to the provision of Section 98 of PD No. 1445.",
+      "managementAction": "Partially Implemented\nThe SB already passed a resolution authorizing the reversion of the payable to the unappropriated surplus of the GF but still pending at the Office of the Municipal Accountant due to voluminous transactions in her office.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "With the new developments, the audit observation was updated and presented anew in observation no. 4, page no. 55"
+    },
+    {
+      "id": "Sariaya_Quezon-2018-PY5",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal Accountant and the Acting Disbursing Officer to ensure that all cash advances are fully liquidated at the end of the year in compliance with the guidelines provided under COA Circulars and MNGAS for LGUs, Volume I, on the liquidation of cash advances and petty cash fund.",
+      "managementAction": "Partially Implemented\nThe Acting Disbursing Officer was able to liquidate the petty cash fund of the Municipality. However, there was one cash advance which remained unliquidated at the end of the year.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "With the new developments, the audit observation was updated and presented anew in observation no. 5, page no. 56"
+    },
+    {
+      "id": "Sariaya_Quezon-2018-PY9",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor:\n instruct the Municipal Engineer/designated project coordinator to fast track the implementation of the PPAs and to regularly monitor the status to ensure timely completion of the PPAs;\n appoint a new Municipal Planning and Development Coordinator who will take charge of the Office and its functions; and\n make representation with the Sangguniang Bayan on the approval of the Annual Budget in the ensuing years on or before the end of the current fiscal year to ensure timely implementation of the planned developmental projects.",
+      "managementAction": "Partially Implemented\nThere was an increase in the implementation of the PPAs but still not able to fully utilize its fund due to the absence of monitoring and evaluation of the implementation of various PPAs. The Municipality appointed a new Municipal Planning and Development Coordinator who will take charge of the Office and its functions; and the Municipal Mayor already made representation on the approval of the Annual Budget, thus it was enacted on December 11, 2017.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There was an increase in the implementation of the PPAs but still not able to fully utilize its fund due to absence of monitoring and evaluation of the implementation of various PPAs."
+    },
+    {
+      "id": "Sariaya_Quezon-2018-PY10",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor direct the MDRRMO to fully utilize the LDRRMF and strictly utilize the LDRRMF for DRRM PPAs only; hence expenses incurred is necessary for the operation of its office.",
+      "managementAction": "Fully Implemented\nThe Municipality was able to optimally utilize its mitigation fund. Executive Order No. 8 - 2018 was issued on April 4, 2018 designating the Local Disaster Risk Reduction and Management Office of the Municipality, hence expenses incurred is necessary for the operation of its office.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor liquidate fully his cash\nadvances. Henceforth, ensure the proper granting, utilization and liquidation of\nall cash advances within the prescribed period in accordance with the above-cited\nrules and regulation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal\nAccountant to request from the COA for the write-off of receivables pursuant to\nCOA Circular No. 2016-005.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal\nAccountant to confirm the amount of P9,800.00 with account owners/creditors\nand to request them to submit documents pertaining to their claims to the\nMunicipality. In the event that they fail to support their claims, revert the account\nand the untraceable amount of £32,826.85 to the Unappropriated Surplus of the\nGeneral Fund, subject to an authority from the Sangguniang Pambayan with a\ncondition that appropriation shall be made available in the event that in the future\nclaim arises, pursuant to the provision of Section 98 of PD No. 1445,",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that the Municipal May(jw make\nrepresentation with the Sangguniang Bayan (SB) for the passage of a Resolution\nfor the revision of the Municipal Revenue Code in accordance with Section 191 of\nRA No. 7160 to attain realistic rates of taxes and enhance collection of income.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor instruct the OIC-Municipal\nGeneral Services Officer to facilitate the immediate registration of the\nunregistered vehicles with the LTO and effect its insurance with the GSIS in\ncompliance with Section 5 of RA No. 4136 and RA No. 656, respective]y,}in order\nto protect the municipal properties to risks of loss.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the\nMunicipal Engineer and the MPDC to submit the listing of all-on-going\ngovernment projects/programs/activities and those that are for implementation\nduring the year, as well as information that the appropriate signboards and/or\npublic notices have been already posted in accordance with COA Circular No.\n2013-004 within the prescribed period.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor instruct the official concerned\nto identify/determine, evaluate and address the causes of the incurrence of the\noperating losses in the operation of the Waterworks and Cemetery. In addition,\nrequest the Sangguniang Bayan to give priority in passing the Municipal\nOrdinance relative to the water rates increase.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We recommended the Municipal Mayor to:\n\na. issue and institute standard written policies and guidelines on the hiring\nof JO services to categorically establish rights and obligations of the\nMunicipality and JO personnel and minimize the risk of applying various\npolicies and guidelines in the hiring of JOs;\n\nb. observe strictly the implementation of the hiring process for JO\npersonnel ensuring that all JO personnel go through the said process and\nmeet the qualifications required for each position to avoid dupliyaﬁon of\ntheir duties and functions;\n\nc. document the hiring process and integrate in the JO files documents,\nconsisting of personal, school or employment records and ensure their\navailability when requested for submission by the Office of the Auditor;\n\nd. require JO applicants to undergo reasonable screening process to\nascertain their identity and qualifications; and\n\ne. ensure that the hiring of JO personnel is adequately planned and be\nmade an integral part of the Municipality’s procurement and budget\nplanning, taking into consideration the need of each department, the\nestimated number of JOs to be hired, their wages and qualifications.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2016-OBS9",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Disaster\nRisk Reduction and Management Officer to prepare and maintain inventory list\nof all procured items based on the updated Stock Cards and Property Cards in\naccordance with COA Circular No. 2014-002. Likewise, Report on Sources and\nUtilization of DRRMF using the prescribed format in COA Circular No. 2012-\n002 should be prepared and submitted to the Audit Team for evaluation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2016-OBS10",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require the OIC-Municipal\nDRRMO to prepare LDRRMP taking into consideration the identification of\nhazards, risks to be managed, approaches and strategies to be applied, roles and\nresponsibilities of the Municipal officials and coordination of disaster risk\nreduction and management in the pre-disaster and post-disaster phases.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Sariaya_Quezon-2016-OBS11",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the\nMunicipal Planning and Development Council to maximize the utilization of the\n20% Development Fund so that all its programmed development projects could\nbe implemented immediately to ensure that intended beneficiaries avail of the\nmaximum benefits that will be derived therefrom.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    }
+  ]
+}

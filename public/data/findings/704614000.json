@@ -1,0 +1,1942 @@
+{
+  "lguCode": "704614000",
+  "lguName": "Mabinay",
+  "province": "Negros Oriental",
+  "region": "Region VI (Western Visayas)",
+  "scores": {
+    "total": 1,
+    "normalized": 0.96,
+    "maxStreak": 1,
+    "currentStreak": 1
+  },
+  "observations": [
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY2",
+      "year": 2024,
+      "recommendation": "2. We recommended that the Municipal Treasurer cancel the stale checks and send written notices of the cancellation to the respective payees and conform with the provisions set forth in Section 59 of the NGAS Manual for LGUs.",
+      "managementAction": "Stale checks have not been cancelled yet and written notices are yet to be sent to the respective payees.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY3",
+      "year": 2024,
+      "recommendation": "3. We further recommended and the Municipal Treasurer agreed to monitor the age of unclaimed checks, send written notices to the payees at least one month before the checks become stale, and coordinate with the Municipal Accountant for the necessary adjustments in the books of account.",
+      "managementAction": "No monitoring had been done.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY7",
+      "year": 2024,
+      "recommendation": "7. enforce remedies in the collection of real property subject through the issuance of a warrant on or before, or simultaneously with, the institution of the civil action for the collection of the delinquent tax.",
+      "managementAction": "No action.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY9",
+      "year": 2024,
+      "recommendation": "9. The Municipal Stock and property cards and subsequently update the Ledger Cards and Stock and PCs in order that the reconciliation of the physical count against book balances can be facilitated; and",
+      "managementAction": "The Municipal Stock and property cards have been maintained by the GSO and the Municipal Accountant maintains an excel file of all PPEs. However, since the dropping of unserviceable properties had not yet been done, ledger cards had not been updated yet.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY10",
+      "year": 2024,
+      "recommendation": "10. The Municipal Accountant and the General Services Officer reconcile the accounting and property records and make the necessary adjustments so that the accounts can be fairly presented in the financial statements.",
+      "managementAction": "Final reconciliation between the records of the Municipal Accountant and the General Services Officer was still pending.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY11",
+      "year": 2024,
+      "recommendation": "11. We recommended and Management agreed to enjoin the concerned department heads to strictly comply with the accounting and reporting guidelines on the local roads asset management system and earnestly perform their respective duties and responsibilities as set forth under COA Circular No. 2015-008 dated October 23, 2015.",
+      "managementAction": "Finalization of the reports was still ongoing.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY12",
+      "year": 2024,
+      "recommendation": "12. We further recommended and the Inventory Committee agreed to conduct an annual physical count of all LRN and report the results thereof in the RPCLRN to be submitted to the Auditor and Accounting unit not later than January 31 of each year. The RPCLRN shall be reconciled with the accounting records, and the necessary adjusting entries prepared before the statement date.",
+      "managementAction": "The inventory of local road network projects completed in CYs 2023 and 2024 had been finalized. However, projects completed in prior years were still ongoing, and no reports had been submitted as of December 31, 2024.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY13",
+      "year": 2024,
+      "recommendation": "13. particularly the Municipal Accountant, coordinate with GSIS, Pag-IBIG, and PhilHealth to determine the outstanding premium contributions of each employee in their records;",
+      "managementAction": "No coordination had been made with GSIS, Pag-IBIG, and PhilHealth.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY14",
+      "year": 2024,
+      "recommendation": "14. ensure that mandatory contributions are remitted in accordance with the provisions of R.A. No. 8291, R.A. No. 9679, and R.A. No. 7875 as amended by R.A. No. 9241 and R.A. No. 10606 and its IRRs to avoid the incurrence of interest and penalties; and",
+      "managementAction": "Current-year mandatory contributions had been remitted accordingly, but unreconciled balances from prior years still existed.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY18",
+      "year": 2024,
+      "recommendation": "17. We recommended that Management instruct the Municipal Treasurer and the disbursement officer to avoid using the cash advance for petty operating expenses to pay for regular and recurring expenses.",
+      "managementAction": "The practice of paying regular and recurring expenses, particularly internet expenses, through cash advance by the disbursing officer had not been stopped.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY20",
+      "year": 2024,
+      "recommendation": "19. We recommended and Management agreed that the Local Chief Executive direct all department heads concerned through the issuance of a memo to submit their respective duly accomplished AAPSI within a specific time frame and assign a focal person to consolidate the same for submission to the Auditor not later than 60 days upon receipt of the AARs for the succeeding years.",
+      "managementAction": "Submission was only the AAPSI without the supporting documents attached to show implementation of the recommendations despite being indicated as implemented. Gradual submission of supporting documents was only done during validation, causing delay in the process.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY22",
+      "year": 2024,
+      "recommendation": "21. Moreover, Management is required to adhere strictly to the provisions of COA Circular No. 2009-001 dated February 12, 2009.",
+      "managementAction": "Copies of perfected contracts with their supporting documents still had not been submitted to the Audit Team.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY23",
+      "year": 2024,
+      "recommendation": "22. We recommended and Management agreed to direct the Municipal Accountant to furnish the Auditor the lacking documentary requirements and that, henceforth, all transactions be supported with the complete documentary requirements prior to disbursement and that the provisions of the Revised IRR of RA 9184 and COA Circular No. 2012-001 dated June 14, 2012 be strictly adhered to.",
+      "managementAction": "No copies of the lacking supporting documents had been submitted.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY24",
+      "year": 2024,
+      "recommendation": "23. render proper accounting of the difference noted from the purchased and distributed food items;",
+      "managementAction": "Currently, accounting and monitoring of purchased items are recorded.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY25",
+      "year": 2024,
+      "recommendation": "24. require the MDRRMO or property officer to prepare reports on the inventory and monitoring of all procured and donated supplies, materials, equipment, and relief goods in accordance with COA Circular No. 2014-002 dated April 15, 2014; and",
+      "managementAction": "For CY 2023, the MSWDO and MDRRMO had jointly prepared reports on the distribution of items purchased. However, the figures on the same do not match the quantities purchased. No subsequent submission had been made for CY 2024.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY26",
+      "year": 2024,
+      "recommendation": "25. We recommended that Management submit the activity design related to the procurement activity, copies of the daily monitoring sheets of the PUMs, and copies of DTRs of LGU personnel provided with meals in order to validate the usage thereof.",
+      "managementAction": "No submission.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY27",
+      "year": 2024,
+      "recommendation": "26. We recommended that Management require the recipient barangays to liquidate the funds by submitting the documentary requirements prescribed under Section 3.1.1 of COA Circular No. 2012-001 dated June 14, 2012; and Henceforth, comply with the documentary requirements on fund transfers.",
+      "managementAction": "No submission.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY28",
+      "year": 2024,
+      "recommendation": "27. Require the BAC through the BAC Secretariat to consolidate the PPMPs into a comprehensive, workable, and realistic APP, which will serve as basis for procurement, in accordance to the applicable provisions of RA No. 9184 using the prescribed format under GPPB Circular No. 07-2015; and 28. Submit the duly approved copy of the APP to the GPPB in accordance with AO No. 46, series of 2015, Executive Order (EO) No. 662, series of 2007, as amended, and standards prescribed by the GPPB.",
+      "managementAction": "Comprehensive APP is prepared for CY 2026. There had been no indication that the APP had been submitted to the GPPB.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY30",
+      "year": 2024,
+      "recommendation": "33. We recommended that Management desist from charging to municipal funds expenses for meals and snacks served in connection with cultural and religious festivities/ events and anniversaries and to charge to the Extraordinary and Miscellaneous Expenses and to Representation Allowance the food served during meetings and entertainment of visitors pursuant to Sec. 343 of RA No. 7160 and the pertinent provision of the applicable General Appropriations Act.",
+      "managementAction": "No action taken. The Municipal Mayor is to implement.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY32",
+      "year": 2024,
+      "recommendation": "36. We recommended that Management require all employees concerned to refund the overpayment of Productivity Enhancement Incentive for CY 2014 and to henceforth observe strictly the applicable regulations on the grant of any fringe benefits.",
+      "managementAction": "Refund ongoing. Deduction made during terminal claim of an employees. Memo will be send to each office.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY33",
+      "year": 2024,
+      "recommendation": "37. Required the officials and employees concerned to refund in full the amount received by them, as they are in violation of the provisions of the aforementioned laws and regulations.",
+      "managementAction": "Current employees had refunded the amount they received but balance still exists.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY35",
+      "year": 2024,
+      "recommendation": "40. Required the Municipal Assessor, as well as, the Municipal Treasurer to convene the Provincial Appraisal Committee to immediately act in the determination of the value of the unrecorded lots.",
+      "managementAction": "No action. The Municipal Assessor has not yet send letter request to the Provincial Appraisal Committee regarding the determination of the value of the unrecorded lots.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY36",
+      "year": 2024,
+      "recommendation": "41. Also direct them to process the titling of the lots owned by the Municipality and for the Municipal Budget Officer to allocate funds for the titling thereof.",
+      "managementAction": "Eight titles had been released under the name of the Municipality of Mabinay and ongoing processing of the titles.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY37",
+      "year": 2024,
+      "recommendation": "42. Likewise, instruct the Municipal Accountant to review the land account and record only in the books of accounts those lots that are owned by the Municipality.",
+      "managementAction": "The Municipal Accountant will check/review the land account and ask for the copy of titles land processed by the Mun. Assessor.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY38",
+      "year": 2024,
+      "recommendation": "43. Moreover, the value of the lots which will be determined by the Provincial Appraisal Committee shall also be recorded in the books of accounts to avoid understatement of assets.",
+      "managementAction": "The Municipal Assessor will request the Provincial Appraisal Committee to determine the FMV of the land owned by the Municipality of Mabinay",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-OBS1",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed that the Municipal Accountant thoroughly review and reclassify the Loans Payable account in accordance with Section 80 of IPSAS 1 – Presentation of Financial Statements, by properly segregating the current and non-current portions based on the loan amortization schedules. Specifically, only the portion of the loan due within twelve months from the reporting date should be classified under Current Liabilities, while the remaining balance must be presented under Non-Current Liabilities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-OBS2",
+      "year": 2024,
+      "recommendation": "We recommended that Management direct the Municipal Accountant to reconcile the records per books with the results of the bank confirmation and to prepare the necessary adjusting entries in the books of accounts to present the correct balance of the loans payable account in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-OBS3",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed that the Municipal Accountant and the Municipal Treasurer immediately investigate and account for the difference, and reconcile their records to reflect the accurate cash balance as of year-end.\n\nWe further recommended and Management agreed that going forward, at least quarterly reconciliations be strictly implemented to detect and correct any discrepancies in a timely manner, thereby ensuring the accuracy and reliability of financial reporting.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-OBS4",
+      "year": 2024,
+      "recommendation": "We reiterated our recommendation and Management agreed that the Municipal Accountant pursue the immediate liquidation of all outstanding cash advances by issuing final demand letters to the accountable officers concerned. In cases where liquidation is still not effected within the prescribed period despite due notice, the appropriate sanctions should be enforced, including the withholding of salaries in accordance with existing rules and regulations.\n\nFurthermore, we recommended and Management agreed that the Municipal Accountant conduct regular monitoring and timely reporting of unliquidated cash advances to the Local Chief Executive, to ensure proper oversight and to facilitate appropriate administrative actions as necessary.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-OBS5",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant and Municipal Treasurer to reconcile the difference amounting to ₱90,418,239.18 between the Real Property Tax (RPT) and Special Education Tax (SET) Receivables account balances.\n\nTo prevent the further accumulation of unreconciled differences, we further recommended that they, in coordination with the Municipal Assessor, conduct regular and timely reconciliations of the total collectibles from the Basic and Special Education Taxes against the recorded RPT and SET Receivables account balances.\n\nAdditionally, to promote transparency and ensure full disclosure, we recommended that any remaining unreconciled differences be properly reported in the Notes to the Financial Statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY1",
+      "year": 2024,
+      "recommendation": "1. We recommended that the Municipal Accountant reconcile the records per book with the results of the bank confirmation and prepare the necessary adjusting entries in the books of accounts to present the correct Cash in Bank account balance.",
+      "managementAction": "Adjusting entries had been made on August 5, 2024.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY4",
+      "year": 2024,
+      "recommendation": "4. We recommended and Management agreed that the Municipal Treasurer secure authority from the Sanggunian Bayan to any investment of idle general funds in time deposits and discontinue the placement of funds in time deposits unless they are explicitly determined to be idle.",
+      "managementAction": "SB Resolution No. 156 dated June 25, 2024 was authorized the closure of savings accounts and transfer of the same to current investment accounts.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY5",
+      "year": 2024,
+      "recommendation": "5. develop an effective tax collection campaign to enhance the collection of RPT/SET Receivables;",
+      "managementAction": "Tax collection campaign programs were developed and effectively implemented during various activities of the Municipality.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY6",
+      "year": 2024,
+      "recommendation": "6. publish the notice of delinquency in a newspaper of general circulation once a week for two (2) consecutive weeks; and",
+      "managementAction": "The notices of delinquencies had been sent to the taxpayers and also published in the bulletin boards in each barangay.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY8",
+      "year": 2024,
+      "recommendation": "8. Management, thru the Inventory Committee had prioritize the conduct of the physical count of all properties and submit to the auditor the RPCPPE/Inventory Report, to be done annually henceforth;",
+      "managementAction": "The Inventory Committee had completed the physical count and the RPCPPE had been submitted.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY15",
+      "year": 2024,
+      "recommendation": "15. The Municipal Accountant and Municipal Treasurer reconcile the difference between the RPT and SET Receivables account balances totaling ₱99,795,415.38 and henceforth, conduct periodic reconciliation, together with the Municipal Assessor, of the total collectibles from the Basic and Special Education Tax with the balances of the RPT Receivables and SET Receivables accounts to avoid accumulation of unreconciled differences;",
+      "managementAction": "Adjusting entries had been made to correct the amount set up for RPT and SET Receivables.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY16",
+      "year": 2024,
+      "recommendation": "16. We recommended and Management agreed that Management adjust the balances related to PPE account as a change in accounting policy and, subsequently, to record depreciation based on 5% residual value in compliance with PAG 6 of IPSAS 17.",
+      "managementAction": "Depreciation had been adjusted based on 5% residual value.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY17",
+      "year": 2024,
+      "recommendation": "17. We recommended that Management instruct the Municipal Treasurer and the disbursement officer to avoid using the cash advance for petty operating expenses to pay for regular and recurring expenses.",
+      "managementAction": "Regular and recurring expenses such as reimbursement of travelling expenses are paid issuance of check and through directly downloaded to the employee’s landbank account.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY19",
+      "year": 2024,
+      "recommendation": "18. We recommended that the Municipal Engineer provide complete and accurate information on the Quarterly Report on the Status of PPAs to ensure their proper monitoring in accordance with DILG-DBM JMC No. 2011-1.",
+      "managementAction": "Complete Quarterly report on the status of PPAs is submitted to COA.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY21",
+      "year": 2024,
+      "recommendation": "20. We further recommended and Management agreed that pertinent documents to support the Actions Taken also be submitted to facilitate validation of the responses.",
+      "managementAction": "Pertinent Documents are submitted.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY29",
+      "year": 2024,
+      "recommendation": "29. We recommended that the grants be henceforth treated as advances to recipient agencies, subject to liquidation and covered by Memoranda of Agreement and other supporting documents.",
+      "managementAction": "Memorandum of Agreement and other supporting documents were attached in the disbursement voucher.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY31",
+      "year": 2024,
+      "recommendation": "34. We recommended that the Municipal Mayor require the Municipal Planning and Development Officer to establish and maintain a GAD database in order that GAD projects and activities will be properly planned and implemented.",
+      "managementAction": "A gender-responsive Monitoring and Evaluation System had been created and properly maintained.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Negros-Oriental__Mabinay_NegOr-2024-PY34",
+      "year": 2024,
+      "recommendation": "39. Direct the department heads and all officials concerned to refrain collecting the proposed RATA increases in 2010. Direct also the Municipal Accountant and the Municipal Budget Officer to be vigilant and not to certify disbursements which go beyond the provisions of the law.",
+      "managementAction": "RATA increases within PS limitation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Negros_Oriental__Mabinay_NegOr-2023-OBS1",
+      "year": 2023,
+      "recommendation": "1.9. We recommended that the Municipal Accountant and the Municipal Treasurer account for the difference and reconcile their records to reflect the correct cash balance at year-end.\n\n1.10. We further recommended that henceforth they reconcile their records monthly or at least quarterly so that any errors can be adjusted and corrected immediately.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Negros_Oriental__Mabinay_NegOr-2023-OBS2",
+      "year": 2023,
+      "recommendation": "2.8. We recommended that the Municipal Accountant reconcile the records per book with the results of the bank confirmation and prepare the necessary adjusting entries in the books of accounts to present the correct Cash in Bank account balance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Negros_Oriental__Mabinay_NegOr-2023-OBS3",
+      "year": 2023,
+      "recommendation": "3.8. We recommended that the Municipal Treasurer cancel the stale checks and send written notices of the cancellation to the respective payees and conform with the provisions set forth in Section 59 of the NGAS Manual for LGUs.\n\n3.9. We further recommended and the Municipal Treasurer agreed to monitor the age of unclaimed checks, send written notices to the payees at least one month before the checks become stale, and coordinate with the Municipal Accountant for the necessary adjustments in the books of account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Negros_Oriental__Mabinay_NegOr-2023-OBS4",
+      "year": 2023,
+      "recommendation": "4.8. We recommended and Management agreed that the Municipal Treasurer secure authority from the Sanggunian Bayan to support any investment of idle general funds in time deposits and discontinue the placement of funds in time deposits unless they are explicitly determined to be idle.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Negros_Oriental__Mabinay_NegOr-2023-OBS5",
+      "year": 2023,
+      "recommendation": "5.8 We recommended that the Municipal Treasurer (i) develop an effective tax collection campaign program to enhance the collection of RPT/SET Receivables; (ii) publish the notice of delinquency in a newspaper of general circulation once a week for two (2) consecutive weeks; and (iii) enforce remedies in the collection of real property subject through the issuance of a warrant on or before, or simultaneously with, the institution of the civil action for the collection of the delinquent tax.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Negros_Oriental__Mabinay_NegOr-2023-OBS6",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Negros_Oriental__Mabinay_NegOr-2023-OBS7",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Negros_Oriental__Mabinay_NegOr-2023-OBS8",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Negros_Oriental__Mabinay_NegOr-2023-PY1",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended that Management direct the Municipal Accountant to furnish the Auditor copies of the contract of the foregoing projects together with the supporting documents for review of the latter. Moreover, Management is required to adhere strictly to the provisions of COA Circular No. 2009-001 dated February 12, 2009.",
+      "managementAction": "AAR 2020 Management direct the Municipal Accountant to furnish the Auditor copies of the contract and the supporting documents. Moreover, Management is required to adhere strictly to the provisions of COA Circular No. 2009-001 dated February 12, 2009.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No copies of perfected contracts with supporting documents for the foregoing projects were submitted to the auditor."
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended that Management direct the Municipal Accountant to furnish the Auditor the supporting documentary requirements and that, henceforth, all transactions be supported with the complete documentary requirements and that the provisions of the Revised IRR of RA 9184 and COA Circular No. 2012-001 dated June 14, 2012 be strictly adhered to.",
+      "managementAction": "AAR 2020 Management instructed to require that henceforth all transactions be supported with the complete documentary requirements prior to disbursement and that the provisions of the Revised IRR of RA 9184 and COA Circular No. 2012-001 dated June 14, 2012 be strictly adhered to.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No documents were submitted to the auditor."
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended that Management submit the activity design related to the procurement activity, copies of the daily monitoring sheets of the PUMs, and copies of DTRs of LGU personnel provided with meals in order to validate the usage thereof. Moreover, we recommended that the end user and the BAC adhere strictly to Section 7.3.2 (f) of the Revised IRR of R.A. No. 9184.",
+      "managementAction": "AAR 2020 The Municipal Health Office submitted written explanation and copies of monitoring sheets, but no activity design was attached to the procurement documents.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No activity design attached to the procurement documents and no complete supporting documents were submitted."
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "We recommended that Management require the recipient barangays to submit the documentary requirements prescribed under Section 3.1.1 of COA Circular No. 2012-001 dated June 14, 2012, and henceforth, comply with the documentary requirements on fund transfers.",
+      "managementAction": "AAR 2020 Management required the recipient barangays to submit the documentary requirements prescribed under Section 3.1.1 of COA Circular No. 2012-001 dated June 14, 2012, yet the documentary requirements were not submitted.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "There were no documents submitted."
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY22",
+      "year": 2021,
+      "recommendation": "We recommended that Management desist from charging to municipal funds expenses for meals and snacks served in connection with cultural and religious festivities and to charge to the Extraordinary and Miscellaneous Expenses and Representation Allowance the food served during meetings and entertainment of visitors pursuant to Sec. 343 of RA No. 7160 and the pertinent provision of the applicable General Appropriations Act.",
+      "managementAction": "AAR 2018 Management was directed to stop the practice and to charge such expenses to the appropriate accounts. However, expenses were still incurred charged to Other Maintenance and Operating Expenses.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Expenses were still incurred and charged to Other Maintenance and Operating Expenses for cultural and religious activities."
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY24",
+      "year": 2021,
+      "recommendation": "We recommended that the Bids and Awards Committee be required to submit to the auditor within the reglementary period of five (5) working days from perfection, two (2) sets of the contract and all supporting documents for the auditorial and technical review thereof pursuant to COA Circular No. 2009-001 dated February 12, 2009.",
+      "managementAction": "AAR 2016 The Bids and Awards Committee was directed to submit the perfected contracts and supporting documents to the Auditor. However, the contracts were not perfected and supporting documents were not submitted.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Perfected contracts and supporting documents were not submitted."
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY26",
+      "year": 2021,
+      "recommendation": "We recommended that the Local Chief Executive immediately refund the questioned financial assistance and comply with DBM SARO No.-BMB-G-13-T000000849 on the limitation of the grant of financial assistance to residents of Mabinay only. Also require certification proving residency be submitted by beneficiary.",
+      "managementAction": "AAR 2014 At present, the Local Chief Executive instructed the return/refund of the said assistance and requested certification of residency. However, no documents were submitted yet to show compliance.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No documents were submitted to evidence refund or proof of residency."
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended that:\na) The Municipal Accountant and Municipal Treasurer reconcile the\ndifference between the RPT and SET Receivables account balances\ntotaling ₱99,795,415.38 and henceforth, conduct periodic\nreconciliation, together with the Municipal Assessor, of the total\ncollectibles from the Basic and Special Education Tax with the balances\nof the RPT Receivables and SET Receivables accounts to avoid\naccumulation of unreconciled differences;\nb) The Municipal Treasurer maintain RPT Account Register/Taxpayer’s\nindex card and furnish the Municipal Accountant a duly certified list\nof taxpayers with the amount due and collectible for the current year\nas basis for recording the RPT Receivable and SET Receivable\naccounts in compliance with Section 20 of the NGAS Manual for LGUs,\nVolume I; and\nc) The Municipal Accountant maintain subsidiary ledgers for accounts\nRPT Receivable and SET Receivable in accordance with Section 10 of\nthe NGAS Manual for LGUs, Volume II.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed that they instruct the\nMunicipal Accountant to:\na. Draw a journal entry voucher (JEV) to adjust the Loans Payable and\nLoans Receivable accounts;\nb. Immediately book up the borrowing costs totaling ₱5,926,349.90\nincurred from CY 2019 to CY 2021 by debiting CIP – Buildings and\nOther Structures and crediting Prior Period Adjustment;\nc. Determine the borrowing costs related to the construction of qualifying\nassets from loans granted in prior years and make the necessary\nadjustments to include the amount as part of the cost of the\ninfrastructure project.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Treasurer enforce collection of\ndelinquent real property taxes by conducting intensive tax campaign in every\nbarangay and by sending Notices of Delinquencies to all delinquent taxpayers.\nAlso, proceed to post the list of delinquent taxpayers in the conspicuous places of\nthe barangay halls. We further recommended that the Municipality avail of the\nremedies in collecting delinquent real property taxes provided in Sections 256 to\n260 of RA No. 7160.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed that the Municipal Accounting\nOffice adjust the balances related to the PPE account as a change in accounting\npolicy and, subsequently, to record depreciation based on a 5% residual value in\ncompliance with PAG 6 of IPSAS 17. We also recommended that subsidiary\nledgers be maintained for all PPE accounts to ensure the accuracy and reliability\nof their recorded book value.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed that they:\na. Instruct the Municipal Accountant to draw a journal entry voucher\nto adjust the accounts affected. Moreover, withholding of taxes\nshould be in accordance with the provisions Section 4 of BIR\nRevenue Regulation No. 12-2001 dated September 7, 2001;\nb. Instruct the Municipal Engineer to require the contractors to utilize\nthe format prescribed under Department of Public Works and\nHighways Order No. 46 series of 2022 dated March 23, 2022 in the\npreparation of the SWA.\nWe further recommended that for succeeding payments related to\ninfrastructure projects, strictly comply with the provisions of R.A. No. 9184,\nspecifically the deduction of the recoupment of the advance payment from\nthe payments of progress billing to contractors; and consequently, use\nappropriate accounts in the recording of payments related to infrastructure\nprojects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "We recommended that Management instruct the Municipal Treasurer and\nthe disbursing officer to avoid using the cash advance for petty operating expenses\nto pay for regular and recurring expenses.\nWe also recommended that Management establish reasonable estimate of\npetty operating expenses to lessen the amount of cash handled by the disbursing\nofficer in order to prevent misappropriation thereof.\nLastly, we also recommended that Management instruct the Municipal\nAccountant and Municipal Treasurer to ensure that the grant and liquidation of\ncash advances be duly supported with complete documentary requirements to\nproperly establish the validity of the transactions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "We recommended that:\na. The Municipal Engineer, in coordination with the Municipal\nPlanning and Development Coordinator, evaluate the feasibility,\nand closely monitor the implementation of, the different PPAs of\nthe Municipality;\nb. Management consider implementing some of the projects by\ncontract; and\nc. The BAC Chairperson ensure the timely delivery of materials by\nevaluating the competence of suppliers, charging for liquidated\ndamages where applicable, and blacklisting suppliers as necessary\nand in accordance with the guidelines enumerated in Appendix 17\nof the Updated 2016 Implementing Rules and Regulations of\nRepublic Act No. 9184 otherwise known as the Government\nProcurement Reform Act.\nWe further recommended that the Municipal Engineer provide complete\nand accurate information on the Quarterly Report on the Status of PPAs to ensure\ntheir proper monitoring in accordance with DILG-DBM JMC No. 2011-1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-OBS8",
+      "year": 2021,
+      "recommendation": "We also recommended that Management effect the increase of the Fidelity\nBond of the DOs commensurate with their respective accountabilities, in\naccordance with the Bureau of Treasury Circular No. 02-2009, in order to\nprovide adequate protection of the Municipality’s resources.\nLastly, we recommended that Management avoid the granting of\nadditional CAs to the DOs unless their previous CAs have already been liquidated\nin accordance with COA Circular No. 97-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-OBS9",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Accountant be instructed to fast-\ntrack the preparation of the financial statements and submit them to our office at\nthe soonest possible time.\nWe further recommended that Management closely monitor the strict\nadherence to the requirements of pertinent laws and regulations relating to the\nsubmission of financial statements and other accounting reports, and cause the\nsuspension of payment of salaries of employees responsible for the delayed\nsubmission or non-submission until the same shall be complied.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-OBS10",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed that the Local Chief\nExecutive direct all department heads concerned through the issuance of a memo\nto submit their respective duly accomplished AAPSI within a specific time frame\nand assign a focal person to consolidate the same for submission to the Auditor\nat the soonest possible time, not later than 60 days upon receipt of the AARs for\nthe succeeding years.\nWe further recommended and Management agreed that pertinent\ndocuments to support the Actions Taken should also be submitted to facilitate\nvalidation of the responses.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended that: a. Management create an inventory committee to conduct the physical count of inventories and properties, and that RPCI and RPCPPE be submitted semestrally and annually, respectively; b. The Municipal Accountant and the Municipal Treasurer be required to update the Ledger Cards and Stock and Property Cards in order that the reconciliation of the physical count against book balances can be facilitated; and c. The Municipal Accountant and the Municipal Treasurer reconcile the accounting records, and make the necessary adjustments so that the accounts can be fairly presented in the financial statements.",
+      "managementAction": "AAR 2020 created an inventory committee through Executive Order Nos. 4 and 8, series of 2021. The General Services Officer also conducted physical inventories and submitted RPCI and RPCPPE on May 4, 2022. The Ledger cards were not maintained by the Municipal Accounting Office. However, the figures on the RPCI and RPCPPE do not match those on the financial statements.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The figures on the RPCI and RPCPPE do not match those on the financial statements. Ledger cards were not maintained by the Municipal Accounting Office."
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended that: a. verify that projects to be funded by the 20% DF, and subsequent disbursements made thereof, conform to DILG-DBM JMC No. 2017-1 dated February 22, 2017 in order that the desired socio-economic development and environmental management outcomes may be achieved; b. immediately stop from utilizing the 20% DF for projects, programs and activities which are not properly chargeable thereto; and c. advise the MPDC Officer to prepare a revised AIP for the 20% DF for the realignment of those unobligated appropriations which were not properly chargeable thereto.",
+      "managementAction": "AAR 2019 Management, Department of Finance, and Department of Interior and Local Government (DILG) and Department of Budget and Management (DBM) Management, recommended and the Municipality was able to follow the recommendations. Revised AIP was prepared.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended that: a. render proper accounting of the difference noted from the purchased and distributed food items; b. install sound internal control mechanism in the repacking of goods to monitor the release of items for repacking and account the packed relief items to ensure that these are safeguarded from possible theft, loss and wastage; c. require the MDRRMO or property officer to prepare reports on the inventory and monitoring of all procured and donated supplies, materials, equipment, and relief goods in accordance with COA Circular No. 2014-002 dated April 15, 2014; and d. direct the Municipal Accountant to record all purchases of supplies, medicines, and relief goods for distribution in accordance with the aforementioned COA Circular.",
+      "managementAction": "AAR 2020 Management instructed the MSWDO and MDRRMO jointly to prepare reports on the inventory and monitoring of the purchased and distributed food items. The MSWDO and MDRRMO conducted inventory and monitoring and submitted reports. Figures on the same reports do not match the accounting records and Property Cards were not maintained by the Municipal Accountant.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Proper accounting was still not rendered. The figures on the same reports do not match the financial statements."
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended that the Management: a. submit a written explanation on the difference between the number of target beneficiaries (11,988) and the actual beneficiaries found on the master list (11,928) and on the lapses and deficiencies enumerated in this observation; b. Submit all the photocopies of IDs of the beneficiaries signing the payroll; and c. Management to establish a system in the distribution of SAP and similar cash assistance programs wherein the guidelines issued by the DSWD are followed and that proper validation and appropriate profiling of beneficiaries are performed before disbursement.",
+      "managementAction": "AAR 2020 The MSWDO submitted written explanation on the difference between the number of target beneficiaries and the actual beneficiaries found on the master list. Municipal Accountant - Designate stated that there were some of them who were not hired as JO at the time of payout. However, the submission of documents and IDs of the beneficiaries was lacking.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Proper documents were lacking. The MSWDO submission not complete; there were beneficiaries not hired as JO at the time of payout and photocopies of IDs were not submitted."
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended that Management stop the practice of procuring items through special cash advances, and direct the BAC to follow the rules and regulations on procurement as provided under RA No. 9184 and its Revised IRR, and the GPPB to obtain the most advantageous price to the government. Moreover, cash advances, other than those related to travel, should only be granted to employees who are bonded, and for those who were not, only grant up to an amount of ₱5,000.00.",
+      "managementAction": "AAR 2020 Cash advances were no longer granted for the procurement of food items; the practice was stopped.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommended that, henceforth, elected officials such as the Municipal Mayor, and other officials be allowed to draw cash advances solely for their traveling expenses. We further recommended that the rules and regulations on the granting and utilization of cash advance be strictly followed in accordance with COA Circular No. 97-002 dated February 10, 1997.",
+      "managementAction": "AAR 2020 The Municipal Mayor and other officials no longer drew cash advances aside from traveling expenses as of December 31, 2021.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We recommended that Management require the Bids and Awards Committee to submit written justification to prove reasonableness for the procurement of the aforecited items above the suggested retail price of the DOH. Moreover, procure medical supplies at reasonable prices guided by the SRP set by appropriate government agencies to ensure procurement that is most advantageous to the government.",
+      "managementAction": "AAR 2019 The Municipal Health Officer submitted written explanation on the reasonableness of procurement prices and the management implemented measures to procure medical supplies at reasonable prices guided by government SRP.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some items were still purchased above the suggested retail price."
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "We recommended that: a. Require the Budget Office to thoroughly evaluate and review the submitted PPMPs in terms of amount and coherence with the proposed budget of the LGU; b. Require the BAC through the BAC Secretariat to consolidate the PPMPs into a comprehensive, workable, and realistic APP, which will serve as basis for procurement, in accordance with the applicable provisions of RA No. 9184 using the prescribed format under GPPB Circular No. 07-2015; and c. Submit the duly approved copy of the APP to the GPPB in accordance with EO No. 662, series of 2007, as amended, and standards prescribed by the GPPB.",
+      "managementAction": "AAR 2019 The APP was prepared but the mode of procurement indicated was only canvass. The LCE had directed concerned department heads/offices which submitted PPMPs to consolidate and prepare APP. The APP was prepared and partially implemented.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The APP was prepared but the mode of procurement indicated was only canvass and the APP submitted was incomplete and not within the approved budget of the Municipality."
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "We recommended that Management: a. immediately stop from utilizing PPAs which are not properly chargeable for PPAs; b. henceforth, the PPAs to be included in the annual LDRRMF Investment Plan should conform to the PPAs enumerated in NDRRMC-DBM-DILG JMC No. 2013-1 dated March 25, 2013; and c. the amount of ₱118,948.00 representing a portion of appropriations spent which are not properly chargeable thereto, should be refunded from the appropriations of the General Fund Proper.",
+      "managementAction": "AAR 2020 Management now refrained from utilizing PPAs which are not properly chargeable for the LDRRMF. The Municipal Accountant and other concerned offices adjusted the accounts and refrained from improper utilization.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The LDRRMF was not refunded. Some prior year expenditures remained not properly charged."
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY14",
+      "year": 2021,
+      "recommendation": "We recommended that: a. immediately stop from utilizing the LDRRMF for PPAs which are not properly chargeable thereto; b. henceforth, the PPAs to be included in the annual LDRRMF Investment Plan should conform to the PPAs enumerated in NDRRMC-DBM-DILG JMC No. 2013-1 dated March 25, 2013; and c. the amount of ₱118,948.00 representing a portion of appropriations spent which are not properly chargeable thereto, should be refunded from the appropriations of the General Fund Proper.",
+      "managementAction": "AAR 2020 Management refrained from utilizing PPAs not properly chargeable to the LDRRMF and reviewed the LDRRMFIP to align PPAs with the required guidelines.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The LDRRMF was not refunded."
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY15",
+      "year": 2021,
+      "recommendation": "We recommended that the LDRRM Officer prepare the Monthly Report on Sources and Utilization of DRRMF duly reconciled with the accounting records and certified correct by the Municipal Accountant, and submit the report to the Auditor on or before the 15th day after the end of each month.",
+      "managementAction": "AAR 2020 The LDRRM Officer submitted the Monthly Report on Sources and Utilization of DRRMF for August 2021 and subsequent months. The reports were not submitted timely and were not reconciled with the accounting records. Efforts made to reconcile and certify by the Municipal Accountant are ongoing.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The report submitted for August 2021 was not reconciled and certified by the Municipal Accountant before submission; reports for prior months were not submitted on time."
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY16",
+      "year": 2021,
+      "recommendation": "We recommended that Management demand the withholding of payment of any money due to officials and employees with unliquidated cash advances thirty days after the service of the demand letters where no liquidation has been submitted by the accountable officers, pursuant to COA Circular No. 97-002. We further recommended that management desist from henceforth granting additional cash advances to accountable officers with unliquidated cash advances.",
+      "managementAction": "AAR 2019 Demand letters were sent to concerned parties. Management enforced salary deductions. The balance of unliquidated cash advances as of December 31, 2021 was ₱248,632.92. Management is pursuing liquidations and deductions through payroll.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Liquidations of said cash advances still ongoing through salary deductions; balance remains."
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY17",
+      "year": 2021,
+      "recommendation": "We recommended that Management require all PHWs and other entitled personnel to support their claims for hazard pay with proof of actual exposure to specific health hazards and occupational risks, certifications from appropriate agencies and the documents required under Section 5.8 of COA Circular No. 2012-001 dated June 14, 2012 in order to establish validity of payments.",
+      "managementAction": "AAR 2019 The Local Chief Executive had directed concerned department heads and officials to require supporting documents for hazard pay. The Municipal Accountant adjusted payroll procedures and required supporting documents for future payments.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Proper and complete supporting documents were still not attached to the disbursement vouchers for past payments."
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY18",
+      "year": 2021,
+      "recommendation": "We recommended that the officials and employees concerned refund in full the amount received by them, as they are in violation of the aforementioned laws and regulations. Moreover, management should ensure that such grants be covered by Memoranda of Agreement and Sangguniang Bayan resolutions as required by regulations, and that such grants be included in the Annual Budget.",
+      "managementAction": "AAR 2019 The Local Chief Executive instructed that such grants be treated as advances to recipient agencies and covered by Memoranda of Agreement and that Sangguniang Bayan resolutions be prepared to support the grants. Some grants were included in the Annual Budget and others were being processed for proper documentation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some assistance were included in the Annual Budget; other required documents still not submitted."
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY19",
+      "year": 2021,
+      "recommendation": "We recommended that Management require the Municipal Treasurer desist from further collecting the Transportation Allowance since she is provided a government vehicle and that Representation Allowance and other applicable allowances be paid strictly in accordance with regulations on entitlement.",
+      "managementAction": "AAR 2019 The Municipal Mayor instructed the department heads to ensure that Representation Allowance is paid to the Treasurer and to all officials similarly situated, and that the Municipal Accountant and the Municipal Budget Officer be vigilant and not to certify disbursements which go beyond the provisions of the law.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The municipal officials insisted that the recipient of transportation allowance is a resident of Mabinay studying in Dumaguete City and submitted certification; processing ongoing."
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY20",
+      "year": 2021,
+      "recommendation": "We recommended that Management henceforth desist from the utilization of GAD funds for programs, projects and activities which do not clearly address gender issues and concerns, and instead endeavor to identify projects and activities which promote gender equality and women empowerment, in accordance with the cited Joint Memorandum Circulars.",
+      "managementAction": "AAR 2019 The Local Chief Executive directed concerned offices to stop utilization of GAD funds for programs which do not clearly address gender issues. The GAD database and planning were initiated and some adjustments were made.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "GAD Funds were still utilized for some PPAs which do not involve gender concerns; GAD database not fully established."
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY21",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Accountant take up an adjusting journal entry to reflect the correct amount of RPT/SET Receivables as of December 31, 2018. We further recommended that henceforth, RPT/SET Receivables be recognized at the beginning of each year on the basis of the Certified List of Taxpayers and Amounts Due and Collectible for the Year prepared by the Municipal Treasurer, and that the latter continually update the list on the basis of the assessment roll of newly-assessed/reassessed real properties prepared by the Municipal Assessor.",
+      "managementAction": "AAR 2019 The Local Chief Executive directed the Municipal Accountant to take up an adjusting journal entry to reflect the correct amount of RPT/SET Receivables. The Municipal Accountant adjusted the RPT and SET receivable balances as reiterated in Finding No. 01 of this Report.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Difference still exists as reiterated in Finding No. 01 of this Report."
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY23",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Planning and Development Officer to establish and maintain a GAD database in order to provide the data necessary to properly plan GAD projects and activities. We further recommended that the Municipal Mayor create a gender-responsive Monitoring and Evaluation System in order that GAD projects and activities will be properly planned and implemented and its results assessed to ensure the success thereof.",
+      "managementAction": "AAR 2018 The Municipal Mayor directed concerned offices to prepare GAD database and undertake GAD planning. The GAD database has been partially established and initial data compilation underway.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The GAD database was not fully established/updated."
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY25",
+      "year": 2021,
+      "recommendation": "We recommended that the officials and employees concerned refund the overpayment of the Productivity Enhancement Incentive for CY 2014 and henceforth observe strictly the applicable regulations on the grant of any fringe benefits.",
+      "managementAction": "AAR 2014 The Local Chief Executive directed that the amount of refund be recovered. The LCE instructed that refunds be made and salary deductions for retiring employees were enforced while others voluntarily refunded through payroll deduction.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some officials have fully settled while others still ongoing through salary deductions."
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY27",
+      "year": 2021,
+      "recommendation": "We recommended that management consider the disposal of unserviceable properties, request the appraisal committee, created for this purpose, to make an appraisal of each item in the Inventory and Inspection Report of Unserviceable Property (IIRUP); have these items inspected and appraised by the Regional Technical and Information Services, COA Region VII; request the supply officer to undertake the disposal following the procedures and guidelines provided under Sec. 502-505 of the GAAM, Vol. I; and require the supply office and the accountant to drop the amounts of the unserviceable property from their books after disposal and the accountant to record the proceeds of the auction sale, if any.",
+      "managementAction": "AAR 2011 Management already created an Inventory and Disposal Committee. Partial list of unserviceable properties was submitted. Actual disposal had not yet been made while appraisal and inspection were ongoing.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Actual disposal not yet made; only partial list and committee created and appraisal started."
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY28",
+      "year": 2021,
+      "recommendation": "We recommended that the officials and employees concerned refund in full the amount received by them, as they are in violation of the aforementioned laws and regulations. Direct the department heads and all officials concerned to refrain collecting the proposed RATA increases in 2010. Direct also the Municipal Accountant and the Municipal Budget Officer to be vigilant and not to certify disbursements which go beyond the provisions of the law.",
+      "managementAction": "AAR 2009 The officials were directed to refund the questioned increases. Some refunds were made through salary deductions. Municipal Accountant and Budget Officer were instructed to be vigilant and not to certify disbursements beyond the provisions of the law.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some officials refunded and salary deductions were enforced; others ongoing."
+    },
+    {
+      "id": "Mabinay_NegOr_aar2021-PY29",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Assessor, as well as, the Municipal Treasurer to convene the Provincial Appraisal Committee to immediately act in the processing of the titling of lots owned by the Municipality and to allocate funds for the titling thereof. Likewise instruct the Municipal Accountant to review the land account and record in the books of accounts those lots that are owned by the Municipality. The value of the lots which will be determined by the Provincial Appraisal Committee shall also be recorded in the books of accounts to avoid understatement of assets.",
+      "managementAction": "AAR 2007 Management directed the processing of the titling of the municipal-owned lots and instructed the Municipal Assessor to convene the Provincial Appraisal Committee. Photocopies of eight original certificates of title were submitted by the Municipal Assessor and processing of the titling was ongoing.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Processing of titling of municipal-owned lots was ongoing; actual recording in the books pending."
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended that Management ensure that only programs, projects and activities aligned with DILG-DBM JMC No. 2017-1 or listed therein are charged to the 20% Development Fund.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not allowable projects were still included as discussed in Finding No. 02, Part II of this Report."
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant require all PHWs and other entitled personnel to support their claims for hazard pay with proof of actual exposure to health hazards and occupational risks, certifications from appropriate agencies and the documents required under Section 5.8 of COA Circular No. 2012-001 dated June 14, 2012 in order to establish validity of payments.",
+      "managementAction": "Perusal of the disbursement vouchers revealed that there were no specific certifications, reports, or DTRs attached as supporting documents.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "There were no certifications, reports, or DTRs attached as supporting documents to establish validity of payments."
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-PY15",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant require all PHWs and other entitled personnel to support their claims for hazard pay with proof of actual exposure to health hazards and occupational risks and required documentation.",
+      "managementAction": "Perusal of the disbursement vouchers revealed lack of certifications, reports or DTRs. The Department concerned was instructed to comply.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Supporting documents required to substantiate hazard pay claims were not attached to disbursement vouchers."
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended that:\na. Management create an inventory committee to conduct the physical\ncount of inventories and properties, and that RPCI and RPCPPE be\nsubmitted semestrally and annually, respectively;\nb. The Municipal Accountant and the Municipal Treasurer be required\nto update the Ledger Cards and Stock and Property Cards in order\nthat the reconciliation of the physical count against book balances can\nbe facilitated; and\nc. The Municipal Accountant and the Municipal Treasurer reconcile the\naccounting and property records, and make the necessary adjustments\nso that the accounts can be fairly presented in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended that Management\na. verify that projects to be funded by the 20% DF, and subsequent\ndisbursements made thereof, conform to DILG-DBM JMC No. 2017-1\ndated February 22, 2017 in order that the desired socio-economic\ndevelopment and environmental management outcomes geared mainly\ntowards the creation of jobs, promotion of economic growth and\neradication of poverty, as envisioned by the national government, may\nbe achieved;\nb. immediately stop from utilizing the 20% DF for projects, programs and\nactivities which are not properly chargeable thereto; and\nc. advise the MPDC Officer to prepare a revised AIP for the 20% DF for\nthe realignment of those unobligated appropriations which were not\nproperly chargeable thereto.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to direct the Municipal\nAccountant to furnish the Auditor copies of the contract of the foregoing projects\ntogether with the supporting documents for review of the latter. Moreover,\nManagement is required to adhere strictly to the provisions of COA Circular No.\n2009-001 dated February 12, 2009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to direct the Municipal\nAccountant to furnish the Auditor the lacking documentary requirements and\nthat, henceforth, all transactions be supported with the complete documentary\nrequirements prior to disbursement and that the provisions of the Revised IRR of\nRA 9184 and COA Circular No. 2012-001 dated June 14, 2012 be strictly adhered\nto.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We recommended that the Management\na. render proper accounting of the difference noted from the purchased\nand distributed food items;\nb. install sound internal control mechanism in the repacking of goods to\nmonitor the release of items for repacking and account the packed\nrelief items to ensure that these are safeguarded from possible theft,\nloss and wastage;\nc. require the MDRRMO or property officer to prepare reports on the\ninventory and monitoring of all procured and donated supplies,\nmaterials, equipment, and relief goods in accordance with COA\nCircular No. 2014-002 dated April 15, 2014; and\nd. direct the Municipal Accountant to record all purchases of supplies,\nmedicines, and relief goods for distribution in accordance with the\naforementioned COA Circular.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended that:\na. The MSWDO submit a written explanation on the difference between\nthe number of target beneficiaries (11,988) and the actual beneficiaries\nfound on the master list (11,928) and on the lapses and deficiencies\nenumerated in this observation;\nb. The amount received by the 31 job order personnel of the LGU who\nappeared in the master list of paid beneficiaries be refunded;\nc. Submit all the lacking photocopies of IDs of the beneficiaries signing\nthe payroll; and\nd. Management to establish a system in the distribution of SAP and\nsimilar cash assistance programs wherein the guidelines issued by the\nDSWD are followed and that proper validation and appropriate\nprofiling of beneficiaries are performed before disbursement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We recommended that Management submit the activity design related to\nthe procurement activity, copies of the daily monitoring sheets of the PUMs, and\ncopies of DTRs of LGU personnel provided with meals in order to validate the\nusage thereof. Moreover, we recommended that the end user and the BAC adhere\nstrictly to Section 7.3.2 (f) of the Revised IRR of R.A. No. 9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We recommended that Management stop the practice of procuring items\nthrough special cash advances, and direct the BAC to follow the rules and\nregulations on procurement as provided under RA No. 9184 and its Revised IRR,\nand the GPPB to obtain the most advantageous price to the government.\nMoreover, cash advances, other than those related to travel, should only be\ngranted to employees who are bonded, and for those who were not, only grant up\nto an amount of ₱5,000.00.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-OBS9",
+      "year": 2020,
+      "recommendation": "We recommended that, henceforth, elected officials such as the Municipal\nMayor, shall be allowed to draw cash advances solely for their traveling expenses.\nWe also recommended that the rules and regulations on the granting and\nutilization of cash advance be strictly followed in accordance with COA Circular\nNo. 97-002 dated February 10, 1997.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-OBS10",
+      "year": 2020,
+      "recommendation": "We recommended that Management require the Bids and Awards\nCommittee to submit justification to prove reasonableness for the procurement of\nthe aforecited items above the suggested price of the DOH. Moreover, procure\nmedical supplies at reasonable prices guided by the SRP set by appropriate\ngovernment agencies to ensure procurement that is most advantageous to the\ngovernment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-OBS11",
+      "year": 2020,
+      "recommendation": "We recommended that Management require the recipient barangays to\nliquidate the funds by submitting the documentary requirements prescribed\nunder Section 3.1.1 of COA Circular No. 2012-001 dated June 14, 2012, and\nhenceforth, comply with the documentary requirements on fund transfers.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-OBS12",
+      "year": 2020,
+      "recommendation": "We recommended that Management:\na. Require the Budget Office to thoroughly evaluate and review the\nsubmitted PPMPs in terms of amount and coherence with the proposed\nbudget of the LGU;\nb. Require the BAC through the BAC Secretariat to consolidate the\nPPMPs into a comprehensive, workable, and realistic APP, which will\nserve as basis for procurement, in accordance to the applicable\nprovisions of RA No. 9184 using the prescribed format under GPPB\nCircular No. 07-2015; and\nc. Submit the duly approved copy of the APP to the GPPB in accordance\nwith AO No. 46, series of 2015, Executive Order (EO) No. 662, series of\n2007, as amended, and standards prescribed by the GPPB.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-OBS13",
+      "year": 2020,
+      "recommendation": "We recommended that Management instruct the LDRRM Officer to\ninclude PPAs chargeable against the prior years unexpended LDRRMF in the\nannual LDRRMFIP of the current year pursuant to NDRRMC-DILG-DBM JMC\nNo. 2013-1 and the same be prepared in adherence to the format prescribed under\nAnnex A of COA Circular No. 2012-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-OBS14",
+      "year": 2020,
+      "recommendation": "We recommended that Management\na. immediately stop from utilizing the LDRRMF for PPAs which are not\nproperly chargeable to the Fund;\nb. henceforth, the PPAs to be included in the annual LDRRMF Investment\nPlan should conform to the PPAs enumerated in NDRRMC-DBM-DILG\nJMC No. 2013-1 dated March 25, 2013; and\nc. the amount of ₱118,948.00 representing a portion of the LDRRMF\nappropriations spent expenses which are not properly chargeable thereto,\nshould be refunded from the appropriations of the GF Proper.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-OBS15",
+      "year": 2020,
+      "recommendation": "We recommended and the LDRRM Officer agreed to prepare the Monthly\nReport on Sources and Utilization of DRRMF duly reconciled with the accounting\nrecords and certified correct by the Municipal Accountant, and submit the report\nto the Auditor on or before the 15th day after the end of each month.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor desist from granting additional cash advances to concerned accountable officers.",
+      "managementAction": "Demand letters 2019 were sent to concerned parties and was ongoing; and the withholding of payment of any money due to officials and employees with unliquidated cash advances were reduced. The balance of unliquidated cash advances as of December 31, 2020 was P177,830.47. Liquidations of said cash advances were implemented.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Liquidation of said cash advances were implemented; The balance of cash advances as of December 31, 2020 was P177,830.47."
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended that grants be henceforth treated as advances to recipient agencies, subject to liquidation and covered by Memoranda of Agreement and other supporting documents. We further recommended that such grants be covered by Sangguniang Bayan resolutions as required by regulations.",
+      "managementAction": "The Municipal IATF saw the need to augment funds and decided to provide financial assistance to the four border barangays. Management directed the Municipal Accountant to furnish the Auditor copies of other documentary requirements stipulated in the observation. The Municipal Accountant also stated that there was a Memorandum of Agreement between the Municipality and each border barangay, however, these MOAs did not contain specific projects or expenses for which the financial assistance would be used.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Grants were not treated as advances and supporting MOAs lacked specific projects/expenses; Management directed the Municipal Accountant to furnish missing documentary requirements."
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Planning and Development Officer to establish and maintain a gender-responsive GAD database in order to provide the data necessary to properly plan GAD projects and activities. We further recommended that the Municipal Mayor create a gender-responsive Monitoring and Evaluation System in order that GAD projects and activities will be properly planned and implemented and its results assessed to ensure its success.",
+      "managementAction": "The GAD database had been established. Projects and plans have been based on gender issues. A database was created for the purpose.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The GAD database had been established but the same database has not been updated."
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-PY6",
+      "year": 2020,
+      "recommendation": "We reiterated our provisions that: a. Management require the inventory committee to complete the physical count of the properties and to undertake the said activity annually; b. The Municipal Treasurer be required to update the ledger cards, property records and Acknowledgement Receipt for Equipment (ARE) in order that the reconciliation of the physical count against book balances can be facilitated; c. The Municipal Treasurer and OIC-Municipal Accountant reconcile the accounting and property records and make the necessary adjustments so that the accounts can be fairly presented in the financial statements; d. Update the issuances of AREs and ensure that all movable assets are covered by the same and require the Property Officer to prepare individual ARE for every property issued and renew the records every three (3) years thereafter pursuant to Section 42 of the NGAS manual.",
+      "managementAction": "The Municipal Treasurer refrained from collecting the Real Property/Special Education Tax Receivables in the books; The Municipal Treasurer had directed the Municipal Accountant to review the Treasurer's list. The Municipal Treasurer cannot be reconciled yet with the accounting records. The Municipal Accountant and the OIC- Municipal Treasurer cannot be reconciled with the records. The physical count was started but not completed and not yet submitted at year-end for 2020. The Municipal Treasurer had already dropped physical count from the list. Individual AREs were also ongoing and report was not yet submitted at year-end.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The physical count of movable property recorded in the books totaling ₱64,499,394.85 was still ongoing as of December 31, 2020; ledger/card reconciliation and submission of reports were not completed."
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended that concerned offices and department heads comply with the findings, and to charge the food served during meetings and entertainment of visitors pursuant to Sec. 343 of RA No. 7160 and the pertinent provision of the applicable General Appropriations Act.",
+      "managementAction": "Management directed the department heads and all officials to comply. The municipal officials insisted that the recipient of the financial assistance is a resident of Mabinay who was just studying in Dumaguete City and would submit a certification of residency.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some expenses were still charged to Other Maintenance & Operating Expenses; adjustments ongoing."
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended that the officials and department heads concerned refund in full the amount refunded the PEI through payroll and that henceforth they observe strictly the applicable regulations on the grant of any fringe benefits.",
+      "managementAction": "Through the initiative of the department concerned, refunds were made. Some officials refunded the amount while deductions from payroll were enforced on others.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some officials voluntarily refunded through salary deductions; others had deductions enforced."
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-PY9",
+      "year": 2020,
+      "recommendation": "We recommended the following courses of action: a. That Management consider the disposal of its unserviceable properties; b. That the supply office request the appraisal committee, created for this purpose, to make an appraisal of each item in the Inventory and Inspection Report of Unserviceable Property (IIRUP); c. Have these items inspected and appraised by the Regional Technical and Information Services, COA Region VII; d. That the supply officer undertakes the disposal of the unserviceable properties following the procedures and guidelines provided under Sec. 502-505 of the GAAM, Vol. I; e. Require the supply office and the accountant to drop the amounts of the unserviceable property from their books after disposal and the accountant to record the proceeds of the auction sale, if any.",
+      "managementAction": "Management had created an inventory and unserviceable property committee. A partial list of unserviceable properties was prepared. Inspections and solicitations for disposal were undertaken and partial actions were implemented. Actual disposal was ongoing and the appraisal of properties was submitted to the Auditor in part.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Actual disposal had not yet been fully prepared/completed; only a partial list of unserviceable properties was prepared and appraisal submitted in part; processing of titling/disposal was ongoing."
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-PY10",
+      "year": 2020,
+      "recommendation": "It was recommended that the Local Chief Executive immediately refund the questioned financial assistance and comply with DBM SARO and the limitation of the grant of financial assistance to residents of the LGU only.",
+      "managementAction": "The municipal officials insisted that the recipient of the financial assistance is a resident of Mabinay who was just studying in Dumaguete City and would submit a certification of residency. No documents had been submitted yet.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The recipient asserted residency in Mabinay and would submit proof; documentation not yet provided."
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-PY11",
+      "year": 2020,
+      "recommendation": "We recommended that the Bids and Awards Committee be required to submit to the auditor within the reglementary period of five (5) working days from perfection, two (2) sets of the contract and all supporting documents within the reglementary period for the auditorial and technical review thereof pursuant to COA Circular No. 2009-001 dated February 12, 2009.",
+      "managementAction": "Management had directed the processing of the contracts and the BAC Secretariat to submit perfected contracts and supporting documents to the Auditor. Copies were not submitted at the time of the audit but subsequent actions were undertaken.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Perfected contracts were not submitted at audit time; follow-up processing was ongoing."
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-PY12",
+      "year": 2020,
+      "recommendation": "We recommended that Management submit a terminal report or output in the conduct of the ELA, particularly that charges to the SEF are in consonance with Section 272 of RA 7160.",
+      "managementAction": "The terminal report on the conduct of the LGU’s Mid-year ELA has been submitted.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-PY13",
+      "year": 2020,
+      "recommendation": "We recommended that: a. Management require the inventory committee to complete the physical count of the properties and to undertake the said activity annually; b. The Municipal Treasurer be required to update the ledger cards, property records and AREs in order that the reconciliation of the physical count against book balances can be facilitated; c. The Municipal Treasurer and OIC-Municipal Accountant reconcile the accounting and property records and make necessary adjustments so that the accounts can be fairly presented in the financial statements; d. Update the issuances of AREs and ensure that all movable assets are covered by the same; e. Require the Property Officer to prepare individual ARE for every property issued and renew the records every three (3) years thereafter pursuant to Section 42 of the NGAS manual, to easily pinpoint responsibility and accountability.",
+      "managementAction": "The physical count of movable property was initiated and the inventory committee was created. The municipal custodian submitted inventory records; some assets were dropped from the list and reconciliations were ongoing. The Municipal Accountant and OIC-Treasurer worked to reconcile records but full reconciliation was not yet achieved.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Physical count was started but not completed; reconciliation between accounting and property records not yet finalized; individual AREs preparation ongoing."
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-PY14",
+      "year": 2020,
+      "recommendation": "We recommended that Management require all employees concerned to refund the overpayment of Productivity Enhancement Incentive through payroll and to observe strictly the applicable regulations on the grant of fringe benefits.",
+      "managementAction": "Refund was automatically deducted to retiring employees; others voluntarily refunded through salary deductions. The municipal accounting office processed automatic deductions for some and payroll deductions for others.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Refunds were made by some employees; remaining amounts were being recovered through salary deductions."
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-PY16",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Treasurer desist from further collecting the Transportation Allowance henceforth, and to refund the amount collected pursuant to the said DBM Notice of Disallowance which may be issued. We further recommended that Representation Allowance be paid only to entitled officials strictly observing regulations.",
+      "managementAction": "The Municipal Treasurer refrained from collecting Transportation Allowance thereafter. Liquidation and refund procedures were implemented through salary deductions for some retirees.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The municipal treasurer stopped collecting TA; some refunds were implemented; final Notice of Disallowance had not been issued as of report."
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-PY17",
+      "year": 2020,
+      "recommendation": "We recommended that Management henceforth stop the utilization of GAD funds for programs, projects and activities which do not clearly address gender issues and instead endeavor to identify projects and activities which promote gender equality and women empowerment, in accordance with PCW-DILG-DBM-NEDA Joint Memorandum Circular No. 2013-1 and PCW-NEDA-DBM Joint Circular No. 2012-01.",
+      "managementAction": "The GAD database had been established and plans have been based on gender issues. Management agreed to establish database and to ensure that projects and activities are aligned to GAD-related undertakings.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "GAD database established but not updated; some prior non-GAD expenditures already made."
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Negros-Oriental__Mabinay_NegOr-2020-PY18",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Assessor, as well as the Municipal Treasurer, convene the Provincial Appraisal Committee to immediately act in the determination of the value of the unrecorded lots owned by the Municipality and to process the titling of lots owned by the Municipality and for the Municipal Budget Officer to allocate funds for the titling thereof. Likewise, instruct the Municipal Accountant to review the land account and record in the books of accounts those lots that are owned by the Municipality.",
+      "managementAction": "Management had directed the processing of the titling of lots owned by the Municipality and instructed the Municipal Treasurer and Municipal Accountant to review records. Processing of the titling of municipal-owned lots was ongoing.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Processing of titling of the municipal-owned lots was ongoing; some actions taken but not yet completed."
+    },
+    {
+      "id": "Mabinay_NegOr-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended that Management henceforth stop the utilization of GAD funds for programs, projects and activities which do not clearly address gender issues and concerns, and instead endeavor to identify projects and activities which promote gender equality and women empowerment, in accordance with PCW-DILG-DBM-NEDA Joint Memorandum Circular No. 2013-1 and PCW-NEDA-DBM Joint Circular No. 2012-01 to ensure that the programs, projects and activities are aligned with GAD-related undertakings.",
+      "managementAction": "GAD Plan and Budget for CY 2019 was approved before the 1st semester of 2019. Management will implement for the CY 2020 GPB.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "GAD Plan and Budget for CY 2019 was approved before the 1st semester of 2019 (Reiterated as Finding No. 6, Part II or this report..)"
+    },
+    {
+      "id": "Mabinay_NegOr-2019-PY15",
+      "year": 2019,
+      "recommendation": "We recommended that management submit a terminal report or prioritized output in the conduct of the Mid-Year Evaluation of the ELA, particularly that affecting the DepEd and that henceforth, charges to the Special Education Fund are in consonance with Section 272 of RA 7160.",
+      "managementAction": "None.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The submission of the terminal report was not prioritized by the concerned officials."
+    },
+    {
+      "id": "Mabinay_NegOr-2019-PY19",
+      "year": 2019,
+      "recommendation": "We recommended the Local Chief Executive refund immediately the questioned financial assistance and comply with DBM SARO No.-BMB-G-13-T000000849 on the limitation of the grant of financial assistance in favor of residents of the LGU.",
+      "managementAction": "The municipal officials insisted that the recipient of financial assistance is a resident of Mabinay who was just studying in Dumaguete City and would submit a certification from the barangay, proving such residency.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended and the Municipal Mayor agreed to order the withholding of\npayment of any money due to officials and employees with unliquidated cash\nadvances thirty days after the service of the demand letters where no liquidation\nhas been submitted by the accountable officers concerned, pursuant to COA\nCircular No. 97-002. We further recommended and management also agreed that\nmanagement henceforth desist from granting additional cash advances to\naccountable officers with unliquidated cash advances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed to ensure that only programs,\nprojects and activities aligned with DILG-DBM JMC No. 2017-1 or listed therein\nare charged to the 20% Development Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended and the Municipal Accountant agreed to require all PHWs and\nother entitled personnel to support their claims for hazard pay with proof of\nactual exposure to specific health hazards and occupational risks, certifications from\nappropriate agencies and the documents required under Section 5.8 of COA Circular\nNo. 2012-001 dated June 14, 2012 in order to establish validity of payments.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended and management agreed that the grants be henceforth treated\nas advances to recipient agencies, subject to liquidation and covered by\nMemoranda of Agreement and other supporting documents. We further\nrecommended and management also agreed that such grants be covered by\nSangguniang Bayan resolutions as required by regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended and the Municipal Treasurer agreed to desist from further\ncollecting Transportation Allowance henceforth, and to refund the amount of Travel\nAllowance collected pursuant to the Notice of Disallowance which may be issued. We\nfurther recommended and the Municipal Accountant agreed to ensure that only\nRepresentation Allowance is paid to the Treasurer and to all officials similarly\nsituated, strictly observing the regulations on the entitlement of and payment of TA.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accountant take up an adjusting journal entry to reflect the correct SET based on the amount of RPT/SET Receivables as of December 31, 2018. We further recommended that henceforth, RPT/SET Receivables be recognized at the beginning of each year on the basis of the Certified List of Taxpayers and Amounts Due and Collectible for the Year prepared by the Municipal Treasurer, and that the latter continually update the list on the basis of the assessment roll of newly-assessed/ reassessed real properties prepared by the Municipal Assessor.",
+      "managementAction": "For the current year 2019, the Municipal Accountant recorded RPT and is still deciding whether to adjust or to just disclose in the Notes to Financial Statements. She will have to discuss with the Municipal Treasurer, considering that the estimated collection is very minimal. Appropriate action will be done on the CY 2020 financial statements.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Adjusting entry was not made because the Municipal Accountant is still deciding whether to adjust or to just disclose in the Notes to Financial Statements. She will have to discuss with the Municipal Treasurer, considering that the estimated collection is very minimal. Appropriate action will be done on the CY 2020 financial statements."
+    },
+    {
+      "id": "Mabinay_NegOr-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended that the municipality desist from utilizing the bulk of its Tourism funds for cultural activities and instead give priority to the development of its tourism assets and related facilities such as lodging facilities, roads, lighting, railings, stairs and the like, in order to make the most out of its natural tourist attraction.",
+      "managementAction": "For the current year 2018, Management already made changes in their appropriation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended that Management desist from charging to municipal funds expenses for meals and snacks served in connection with cultural and religious festivities/ events and anniversaries and to charge to the Extraordinary and Miscellaneous Expenses and Representation Allowance the food served during meetings and entertainment of visitors pursuant to Sec. 343 of RA No. 7160 and the pertinent provision of the General Appropriations Act.",
+      "managementAction": "Management assured that, henceforth, this will no longer be practiced.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended that the participants submit a travel authority from the Secretary of the DILG for each of their trips to Thailand. We recommended further that the Mayor and other officials concerned exercise only prudence in granting authority to its employees to travel abroad where expenses are charged to government funds, pursuant to E.O. No. 248 and pertinent DILG memorandum circulars. Also, that authorization from appropriate officials or authorities are secured before approving requests for travel. Important and necessary foreign travels are considered, but these are evaluated whether they are allowed to be charged to municipal funds or just authorized on official time.",
+      "managementAction": "The Mayor and other officials concerned exercise prudence in granting necessary foreign travels and implement authorization requirements. Also, concerned exercise only important and necessary foreign travels are considered, but these are evaluated whether they are allowed to be charged to municipal funds or just authorized on official time.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipality limit government share to ₱100.00 per employee based on a maximum compensation of ₱5,000.00 set under the IRR of R.A. 9679.",
+      "managementAction": "The Municipal Treasurer, with the approval of the former Mayor, already corrected the error.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Planning and Development Officer to establish and maintain a GAD database in order to provide the data necessary to properly plan GAD projects and activities. We further recommended that the Municipal Mayor create a gender-responsive Monitoring and Evaluation System in order that GAD projects and activities will be properly planned and implemented and its results assessed to ensure its success.",
+      "managementAction": "The municipality already started establishing a GAD database and a gender-responsive monitoring and evaluation system but did not complete these.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Establishing and maintaining a GAD database requires much time and resources. The GAD database and monitoring and evaluation system were not completed."
+    },
+    {
+      "id": "Mabinay_NegOr-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommended that the municipality endeavor to fast-track the implementation of the projects programmed under the 20% DF so that the socio-economic benefits that can be derived therefrom can be enjoyed by the constituents at the earliest possible time. Lastly, we recommended that appropriate steps be taken to correct the books for the erroneous recognition of capital assets for funds transferred to the barangays amounting to ₱900,000.00.",
+      "managementAction": "The municipality identified priority projects with the definite intention of implementing it during the year. LCPC funds for CY 2016 were already implemented. The 20% DF projects were programmed and implemented.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2019-PY9",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Agriculturist initiate the repair of the water reservoir tank in order that it can supply the required quantity of water to operate all ten water boxes of the hatchery and thus attain their intended purpose. We further recommended the Municipal Engineer to prepare the Program of Work and requested for appropriation for the said project.",
+      "managementAction": "The Municipal Agriculturist solicited the assistance of the Municipal Engineer to prepare the Program of Work and requested for appropriation for the said project.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Funds to repair the water reservoir/tank is not yet available because other projects were prioritized. Management will commence the work immediately when appropriation is available."
+    },
+    {
+      "id": "Mabinay_NegOr-2019-PY10",
+      "year": 2019,
+      "recommendation": "We recommended that the Bids and Awards Committee be required to submit to the auditor copies of perfected contracts to the audit team within the prescribed period.",
+      "managementAction": "The BAC is now starting to submit copies of perfected contracts to the audit team within the prescribed period.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Not all perfected contracts have been submitted due to time and distance constraints. The period."
+    },
+    {
+      "id": "Mabinay_NegOr-2019-PY11",
+      "year": 2019,
+      "recommendation": "We recommended that management monitor the implementation of the project and impose sanctions and penalties, if warranted, for the delay in the completion thereof pursuant to the pertinent provisions of the Revised Implementing Rules and Regulations of Republic Act No. 9184.",
+      "managementAction": "Management already implemented appropriated funds for the Evacuation and Multi-purpose Center. Funds from the Kalahi-CIDDS, DILG and the Municipality were already utilized and the project amounting to ₱8.99 million was already implemented.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2019-PY12",
+      "year": 2019,
+      "recommendation": "We recommended the imposition of sanctions as provided under Section 9 of COA Circular No. 2012-004 specifically the filing of malversation charges and appropriate administrative proceedings against the erring accountable officers. We further recommended that management henceforth, municipal officials who issue clearance, authorize and participate in the release of final amounts due officials who retire, die, separate or transfer see to it that unliquidated cash advances are deducted from their claims.",
+      "managementAction": "Cash advances are liquidated thru 2015 monthly deductions.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some cash advances were already settled. However, there were still unsettled cash advances of deceased and retired accountable officers which are ongoing recoverable. The Municipal Accountant will be sending out demand letters and management will still have to discuss the imposition of sanctions."
+    },
+    {
+      "id": "Mabinay_NegOr-2019-PY13",
+      "year": 2019,
+      "recommendation": "We recommended that the municipality prioritize projects and activities geared towards the protection of children and the prevention of juvenile delinquency, and to implement these projects within the year they are programmed.",
+      "managementAction": "The municipality fully implemented identified projects with the definite intention of implementing it during the year. LCPC funds for CY 2016 were already utilized, as well as funds for CY 2019.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2019-PY14",
+      "year": 2019,
+      "recommendation": "We recommended that management ensure the implementation of the projects programmed under the 20% DF so that the socio-economic benefits that could be derived therefrom can be enjoyed by the constituents at the earliest possible time.",
+      "managementAction": "Said projects programmed under the 20% DF were implemented.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2019-PY16",
+      "year": 2019,
+      "recommendation": "We recommended Management exercise prudence in the telephone disbursement of funds and avail of the unlimited call and texts promos of Globe and Smart networks to cut on telephone-mobile expenses.",
+      "managementAction": "Management exercise prudence on telephone expenses and limited the telephone allowance to a certain amount.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2019-PY17",
+      "year": 2019,
+      "recommendation": "We reiterated our previous recommendations that: a. Management require the inventory committee to complete the physical count of movable PPE for CY 2018 and complete the physical count of properties and to undertake the reconciliation of the physical count against book balances; b. The Municipal Treasurer and OIC-Municipal Accountant reconcile the accounting and property records and make the necessary adjustments so that the accounts can be fairly presented in the financial statements; c. Update the issuances of AREs and ensure that all movable assets are covered by the same. Require the Property Officer to prepare individual ARE for every property issued and renew the records every three (3) years thereafter pursuant to Section 42 of the NGAS manual, to easily pinpoint responsibility and accountability.",
+      "managementAction": "Report prepared and some records in the Office of the Municipal Treasurer cannot be reconciled yet with the accounting records. The conduct of physical count of PPEs for CY 2019 still on-going and report was not yet completed and submitted at year-end for reconciliation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Establishment of physical count and reconciliation ongoing. Some assets were physically counted and AREs prepared and filed but reconciliation with accounting records remains to be completed."
+    },
+    {
+      "id": "Mabinay_NegOr-2019-PY18",
+      "year": 2019,
+      "recommendation": "We recommended that management require all employees concerned to refund the overpayment of Productivity Enhancement Incentive for CY 2014 and to henceforth observe strictly the applicable regulations on the grant of any fringe benefits.",
+      "managementAction": "Department heads instructed accountable employees to refund the PEI through payroll deduction.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "On-going salary deductions are done by the accounting office."
+    },
+    {
+      "id": "Mabinay_NegOr-2019-PY20",
+      "year": 2019,
+      "recommendation": "We recommended the officials consider the disposal of its unserviceable properties, complete the Inventory and Inspection Report of Unserviceable Property (IIRUP), have these items inspected and appraised by the Regional Technical and Information Technology Services, COA Region VII, and that the supply officer undertakes the disposal of the unserviceable properties following the procedures and guidelines provided under Sec. 502-505 of the GAAM, Vol. I. We further recommended that management require the supply office and the accountant to drop the amounts of the unserviceable property from their books after disposal and the accountant to record the proceeds of the auction sale, if any.",
+      "managementAction": "The IIRUP was prepared. The supply office requested the appraisal committee, created for this purpose, to make an appraisal of each item.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Appraisal and disposal committee to be established and appraisal actions pending. The Municipality will create an appraisal committee under its newly elected Municipal Mayor."
+    },
+    {
+      "id": "Mabinay_NegOr-2019-PY21",
+      "year": 2019,
+      "recommendation": "Require the officials and employees concerned to refund in full the amount received by them, as they are in violation of the aforementioned laws and regulations. Moreover, subsequent claims for increases in RATA shall also be disallowed in audit until the requirements for the PS cap have been met. Direct the department heads and all officials concerned to refrain collecting the proposed RATA increases in 2010. Direct also the Municipal Accountant and the Municipal Budget Officer to be vigilant and not to certify disbursements which go beyond the provisions of the law.",
+      "managementAction": "The concerned officials refunded the RATA through salary deduction. Ongoing salary deductions for other officials.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some officials have refunded fully while ongoing salary deductions were effected on the others."
+    },
+    {
+      "id": "Mabinay_NegOr-2019-PY22",
+      "year": 2019,
+      "recommendation": "Require the Municipal Assessor, as well as, the Municipal Treasurer to convene the Provincial Appraisal Committee to immediately act in the determination of the value of the unrecorded lots. Also direct them to process the titling of the said lots. Likewise, instruct the Municipal Budget Officer to allocate funds for the titling thereof. Likewise, instruct the Municipal Accountant to review the land account and record only in the books of accounts those lots that are owned by the municipality. Moreover, the value of the lots which will be determined by the Provincial Appraisal Committee shall also be recorded in the books of accounts to avoid understatement of assets.",
+      "managementAction": "The Municipal Assessor made representation with the SB requesting for an appropriation to cover expenses for the appraisal and titling of the said lots.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The request for appropriation in the processing of titles will still be acted upon by the SB."
+    },
+    {
+      "id": "Mabinay_NegOr-2018-PY9",
+      "year": 2018,
+      "recommendation": "We recommended that the municipality henceforth stop the utilization of GAD funds for projects which are not gender-related and instead endeavor to learn the proper usage of the fund in order that only the appropriate programs, projects and activities may be funded thereby.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Municipality still charged 2016 projects not gender-related to GAD funds for CY 2018. (Reiterated as Finding No. 6, Part II of this report)"
+    },
+    {
+      "id": "Mabinay_NegOr-2018-PY17",
+      "year": 2018,
+      "recommendation": "We recommended that management submit a terminal or output report in the conduct of the Mid-Year Evaluation of the ELA, particularly that affecting the DepEd and henceforth, ensure that charges to the Special Education Fund are in consonance with Section 272 of RA 7160.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The submission of the terminal report was not prioritized by the concerned officials."
+    },
+    {
+      "id": "Mabinay_NegOr-2018-PY21",
+      "year": 2018,
+      "recommendation": "Require the officials and employees concerned to refund in full the amount received by them, as they are in violation of the aforementioned laws and regulations.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The municipal officials insisted the recipient of financial assistance is a resident of Mabinay who was studying in Dumaguete City."
+    },
+    {
+      "id": "Mabinay_NegOr-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Accountant take up an adjusting journal\nentry to reflect the correct amount of RPT/SET Receivables as of December 31,\n2018. We further recommended that henceforth, RPT/SET Receivables be\nrecognized at the beginning of each year on the basis of the Certified List of\nTaxpayers and Amounts Due and Collectible for the Year prepared by the\nMunicipal Treasurer, and that the latter continually update the list on the basis\nof the assessment roll of newly-assessed/reassessed real properties prepared by\nthe Municipal Assessor.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We recommended and Management agreed that the municipality desist from\nutilizing the bulk of its Tourism Promotion and Development funds for cultural\nactivities and related expenses, most of which were not allowable charges to\ngovernment funds, and instead give priority to the development of its tourism\nassets and related facilities such as lodging facilities, roads, lighting, railings,\nstairs and the like, in order to make the most out of its natural tourist attraction.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended and Management agreed to desist from charging to municipal\nfunds expenses for meals and snacks served in connection with cultural and\nreligious festivities/events and anniversaries and to charge to the Extraordinary\nand Miscellaneous Expenses and to Representation Allowance the food served\nduring meetings and entertainment of visitors pursuant to Sec. 343 of RA No.\n7160 and the pertinent provision of the applicable General Appropriations Act.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended and Management agreed that the participants submit a travel\nauthority from the Secretary of the DILG for each of their trips to Thailand.\nWe recommended further that the Mayor and other officials concerned exercise\nprudence in granting authority to its employees to travel abroad where expenses\nare charged to government funds, pursuant to E.O. No. 248 and pertinent DILG\nmemorandum circulars.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We recommended and Management agreed that the Municipality immediately\ncorrect the erroneous computation of the employer’s share in Pag-IBIG\npremiums by limiting government share to ₱100.00 per employee based on a\nmaximum compensation of ₱5,000.00 set under the IRR of R.A. 9679.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommended that the municipality stop the practice of charging to the LCPC funds the honoraria of day care workers and instead utilize the fund for the more important and vital additional programs and projects of the LCPC to enable it to attain its objectives.",
+      "managementAction": "The Municipality already stopped charging to LCPC fund honoraria of day care workers as of Decemer, 2018.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommended that the municipal accountant record completed projects at its total cost and recognize liability for any unpaid account. We further recommended that she draw the following entry in the General Fund to correct the amount of cash paid of ₱3,121,696.06 without recognizing the unpaid balance, thus resulting to the understatement of property, plant and equipment, as well as liability accounts, by ₱650,685.14.",
+      "managementAction": "The LGU paid the 2017 balance relative to uncompleted projects",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommended that municipal officials endeavor to avoid the incurrence the expenditures and ensure that only essential items necessary in the LGU’s operations are purchased in order to safeguard the municipality’s resources.",
+      "managementAction": "The municipality already stopped the purchase of non-essential items as of Decemer, 2018. The Sangguniang Bayan passed Resolution No. 95, requesting for reconsideration on the purchase of laptops .",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2018-PY4",
+      "year": 2018,
+      "recommendation": "We recommended that the municipality limit the payment of hazard allowance only to days an employee is actually exposed to occupational risks due to the type of cases/ clientele they actually handled as enumerated under Section 16.1.1 of the IRR of R.A. 9433, as well as during assignments to remote and depressed areas, strife-torn or embattled areas, distressed or isolated stations, mental hospitals, leprosaria, areas declared under a state of calamity or emergency which expose them to great danger, and volcanic activity/ eruption. We further recommended that claims for hazard allowance be supported with proof of exposure to risk for each day claimed.",
+      "managementAction": "The LGU stopped the payment of hazard allowance to the DSWD effective June, 2018.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommended that the municipality endeavor to fast-track the implementation of the 20% DF in order that the benefits can be immediately enjoyed by target beneficiaries as well as ensure that these are completed at the time they are still relevant or needed. We further recommended that the 20% DF be used to finance only those projects which are among the allowable uses thereof in conformity with existing guidelines. Lastly, we recommended that appropriate steps be taken to correct the books for the erroneous recognition of capital assets for funds transferred to the barangays amounting to ₱900,000.00.",
+      "managementAction": "The capital assets recognized for the 20% DF were already adjusted and corrected. The municipality already stopped the practice of transferring part of its 20% DF to the barangays.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Because of time constraints and the nature of some of the projects which needed more time, there are still some of the projects which are unimplemented under the 20% DF."
+    },
+    {
+      "id": "Mabinay_NegOr-2018-PY6",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Agriculturist initiate the repair of the water reservoir/ tank in order that it can supply the required quantity of water to operate all ten water boxes and thus attain their intended purpose.",
+      "managementAction": "The Municipal Agriculturist solicited the assistance of the Municipal Engineer to prepare the Program of Work for the said repair and requested for appropriation for the said project.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Repair of the said reservoir/tank shall commence as soon as funds are available."
+    },
+    {
+      "id": "Mabinay_NegOr-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Accountant maintain special accounts for the Terminal Complex and Spring Resort in order that management can be informed of the profitability or non-profitability of their operations and can thus decide accordingly.",
+      "managementAction": "The Accounting Office already maintained separate accounts for the operation of the Terminal Complex and Spring Resort.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommended that the municipality comply with the guidelines for the payment of Assistance to Individuals in Crisis Situations by releasing cash assistance to individuals who are currently in need so that the intended purpose of the fund will be achieved.",
+      "managementAction": "The Municipality already enforced the guidelines of the said program.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2018-PY10",
+      "year": 2018,
+      "recommendation": "We recommended that the Bids and Awards Committee be required to submit to the auditor within the reglementary period of perfection, two (2) sets of the contract and all supporting documents for the auditorial and technical review thereof pursuant to COA Circular No. 2009-001 dated February 12, 2009.",
+      "managementAction": "The BAC is now starting to submit copies of perfected contracts to the audit team within the prescribed period.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Not all perfected contracts have been submitted."
+    },
+    {
+      "id": "Mabinay_NegOr-2018-PY11",
+      "year": 2018,
+      "recommendation": "We recommended that management monitor the implementation of the project and impose sanctions and penalties, if warranted, for the delay in the completion thereof pursuant to the pertinent provisions of the Revised Implementing Rules and Regulations of Republic Act No. 9184.",
+      "managementAction": "Appropriated funds for the Evacuation and Multi-purpose Center. The project was implemented by the Kalahi-CIDDS whose funds were not enough for the programmed works.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The project was implemented by the Kalahi-CIDDS whose funds were not enough for the programmed works."
+    },
+    {
+      "id": "Mabinay_NegOr-2018-PY12",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Administrator designate/discharge her duties within the limitations set forth under Section 39 of COA Circular No. 92-382 dated July 3, 1992.",
+      "managementAction": "Said recommendation was complied with the issuance of a designation order as well as Memorandum Order from the LCE specifying thereat her duties and functions.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2018-PY13",
+      "year": 2018,
+      "recommendation": "We recommended the imposition of sanctions as provided under Section 9 of COA Circular No. 2012-004 specifically the filing of malversation charges and appropriate administrative proceedings against the erring accountable officers. We further recommended that henceforth, municipal officers who issue clearance, authorize and participate in the release of final amounts due officials who retire, die, separate or transfer see to it that unliquidated cash advances are deducted from their claims.",
+      "managementAction": "Cash advances were liquidated for 2015 thru monthly deductions. However, there were still unsettled cash advances of deceased and retired accountable officers which are deemed to be recoverable.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some cash advances were already settled. However, there were still unsettled cash advances of deceased and retired accountable officers."
+    },
+    {
+      "id": "Mabinay_NegOr-2018-PY14",
+      "year": 2018,
+      "recommendation": "We recommended that in the allocation of funds, the Local Council for the Protection of Children prioritize projects and activities geared towards the protection of children and prevention of juvenile delinquency, and to endeavor to implement these projects within the year they are programmed.",
+      "managementAction": "The municipality already identified priority projects for CY 2017 with the definite intention of implementing it during the year.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "LCPC fund still not fully utilized."
+    },
+    {
+      "id": "Mabinay_NegOr-2018-PY15",
+      "year": 2018,
+      "recommendation": "We recommended that management ensure the implementation of the projects programmed under the 20% Development Fund so that the socio-economic benefits that could be derived therefrom can be enjoyed by the constituents at the earliest possible time.",
+      "managementAction": "Said projects programmed under the 20% DF are now being undertaken and some are on-going.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There are still unimplemented projects under the 20% DF."
+    },
+    {
+      "id": "Mabinay_NegOr-2018-PY16",
+      "year": 2018,
+      "recommendation": "We recommended that management exercise prudence in spending government funds and refrain from incurring extravagant expenditures in accordance with COA Circular No. 2012-003.",
+      "managementAction": "The municipality already desisted from incurring extravagant expenditures in accordance with COA Circular No. 2012-003 for CY 2018.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2018-PY18",
+      "year": 2018,
+      "recommendation": "We recommended that management exercise prudence in the disbursement of funds and avail of the unlimited call and texts promos of Globe and Smart networks to cut on telephone-mobile expenses.",
+      "managementAction": "SB resolution was already made to this effect. The municipality continued to grant telephone allowance of ₱1,800.00 each to its officials because they have no landline phones available.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2018-PY19",
+      "year": 2018,
+      "recommendation": "a. Management require the inventory committee to complete the physical count of the properties and to undertake the said activity annually; b. The Municipal Treasurer be required to update the ledger cards, property records and Acknowledgement Receipt for Equipment (ARE) in order that the reconciliation of the physical count against book balances can be facilitated; c. The Municipal Treasurer and OIC – Municipal Accountant reconcile the accounting and property records and make the necessary adjustments so that the accounts can be fairly presented in the financial statements; d. Update the issuance of AREs and ensure that all movable assets are covered by the same; e. Require the Property Officer to prepare individual ARE for every property issued and renew the records every three (3) years thereafter pursuant to Section 42 of the NGAS manual, to easily pinpoint responsibility and accountability.",
+      "managementAction": "The GSO and custodian had submitted the property physical count of PPEs. However, the custodian's records were already prepared and filed but were not yet reconciled with the accounting records.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There are still records not yet reconciled with the accounting records; some assets were already dropped from the list."
+    },
+    {
+      "id": "Mabinay_NegOr-2018-PY20",
+      "year": 2018,
+      "recommendation": "We recommended that management require all employees concerned to refund in full the amount received by them, as they are in violation of the aforementioned regulations. We further recommended that henceforth observe strictly the applicable regulations on the grant of any fringe benefits.",
+      "managementAction": "The Municipal Mayor has instructed the department heads to refund the PEI and to henceforth observe the applicable regulations on the grant of fringe benefits. Salary deductions were effected.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "On-going salary deductions were effected."
+    },
+    {
+      "id": "Mabinay_NegOr-2018-PY22",
+      "year": 2018,
+      "recommendation": "We recommended the following courses of action: a. That management consider the disposal of its unserviceable properties; b. That the supply office request the appraisal committee, created for this purpose, to make an appraisal of each item in the Inventory and Inspection Report of Unserviceable Property (IIRUP); c. That the supply officer have these items inspected and appraised by the Regional Technical and Information Technology Services, COA Region VII; d. That the supply officer undertakes the disposal of the unserviceable properties following the procedures and guidelines provided under Sec. 502-505 of the GAAM, Vol. I. We further recommended that management require the supply office and the accountant to drop the amounts of the unserviceable property from their books after disposal and the accountant to record the proceeds of the auction sale, if any.",
+      "managementAction": "The list of unserviceable properties was already prepared by the Municipal Treasurer and will be submitted to the COA office, once finalized, for appropriate action.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "An appraisal and disposal committee was created for action; some actions are still pending."
+    },
+    {
+      "id": "Mabinay_NegOr-2018-PY23",
+      "year": 2018,
+      "recommendation": "Require the officials and employees concerned to refund in full the amount received by them, as they are in violation of the aforementioned laws and regulations. Direct the department heads and all officials concerned to refrain collecting the proposed RATA increases in 2010. Direct also the Municipal Accountant and the Municipal Budget Officer to be vigilant and not to certify disbursements which go beyond the provisions of the law.",
+      "managementAction": "The concerned officials refunded the RATA while salary deductions were effected on the others.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some officials have fully settled; there were still ongoing salary deductions."
+    },
+    {
+      "id": "Mabinay_NegOr-2018-PY24",
+      "year": 2018,
+      "recommendation": "Require the Municipal Accountant, Municipal Treasurer, and the Municipal Budget Officer to effect an inter-fund transfer from the General Fund to the Market Operation in the amount of P8,693,138.76. Direct the Municipal Treasurer as head of the Market committee to minimize and take steps to cut expenditures for the Market Operations until such time that the income therefrom is sufficient to cover said expenditures.",
+      "managementAction": "Proper inter-fund transfer from the General Fund to the Market Operation was effected.",
+      "status": "UNKNOWN",
+      "reason": "No longer necessary since income derived from the operations of the Public Market now exceeded the expenditures."
+    },
+    {
+      "id": "Mabinay_NegOr-2018-PY25",
+      "year": 2018,
+      "recommendation": "Require the Municipal Assessor, as well as, the Municipal Treasurer to convene the Provincial Appraisal Committee to immediately act in the determination of the value of the unrecorded lots. Also direct them to process the titling of the lots owned by the municipality and for the Municipal Budget Officer to allocate funds for the titling thereof. Likewise, instruct the Municipal Accountant to review the land account and record only in the books those lots that are owned by the municipality. The value determined by the Provincial Appraisal Committee shall also be recorded in the books of accounts to avoid understatement of assets.",
+      "managementAction": "The Municipal Assessor made representation with the Sangguniang Bayan requesting for appropriation for the processing of titles; the Municipal Accountant was instructed to review the land account and record only those lots owned by the municipality.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The request for appropriation in the processing of the titles will still be acted upon by the Sangguniang Bayan."
+    },
+    {
+      "id": "Mabinay_NegOr-2017-PY2",
+      "year": 2017,
+      "recommendation": "We recommended that the Bids and Awards Committee be required to submit to the auditor within the reglementary period of five (5) working days from perfection, two (2) sets of the contract and all supporting documents for the auditorial and technical review thereof pursuant to COA Circular No. 2009-001 dated February 12, 2009.",
+      "managementAction": "None",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The BAC secretariat is not conscientious in submitting copies of perfected contracts to the auditor."
+    },
+    {
+      "id": "Mabinay_NegOr-2017-PY4",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Administrator – Designate discharge her duties within the limitations set forth under her designation order as well as Section 39 of COA Circular No. 92-382 dated July 3, 1992.",
+      "managementAction": "The Municipal Administrator was issued another designation order specifying her duties as such.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Municipal Administrator continued to act on non-routinary transactions."
+    },
+    {
+      "id": "Mabinay_NegOr-2017-PY8",
+      "year": 2017,
+      "recommendation": "We recommended that management ensure the implementation of the projects programmed under the 20% Development Fund so that the socio-economic benefits that could be derived therefrom can be enjoyed by the constituents at the earliest possible time.",
+      "managementAction": "None",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The rate of the 20% DF implementation was low because funds were downloaded to the barangays to implement. However, some were slow to implement."
+    },
+    {
+      "id": "Mabinay_NegOr-2017-PY9",
+      "year": 2017,
+      "recommendation": "We recommended that in the utilization of GAD funds, management carefully evaluate whether the proposed activity addresses GAD concerns, particularly women empowerment, in order to achieve maximum benefit for GAD’s intended beneficiaries and to avoid the incurrence of irregular expenditures.\nReiterated under Finding No. 9 of Part II of this report.",
+      "managementAction": "None",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The municipality continued to charge GAD funds trainings and seminars that do not address gender issues."
+    },
+    {
+      "id": "Mabinay_NegOr-2017-PY10",
+      "year": 2017,
+      "recommendation": "We recommended that the Chairperson of the GAD Focal Point System ensure that GAD funds will be utilized in consonance with the Implementing Rules and Regulations of the Magna Carta of Women and PCW-DILG-DBM-NEDA Joint Memorandum Circular No. 2013-01 so that the desired outcomes of the program will be achieved. We further recommended that the utensils and equipment be paid by the RIC in order that ownership be legally transferred to them.",
+      "managementAction": "None",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The RIC is operating its catering services. However, the cost of utensils were not yet refunded due to financial constraints of the organization."
+    },
+    {
+      "id": "Mabinay_NegOr-2017-PY13",
+      "year": 2017,
+      "recommendation": "We recommended that management exercise prudence in spending government funds and refrain from incurring extravagant expenditures in accordance with COA Circular No. 2012-003.",
+      "managementAction": "The municipality still held the ELA in the city of Bacolod.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The municipal officials would like to observe best practices of other LGUs."
+    },
+    {
+      "id": "Mabinay_NegOr-2017-PY14",
+      "year": 2017,
+      "recommendation": "We recommended management submit a terminal report on the conduct of the Mid-Year ELA particularly that affecting the DepEd and henceforth, ensure that charges to the Special Education Fund are in consonance with Section 272 of RA 7160.",
+      "managementAction": "The submission of the terminal report or output was not prioritized by the concerned officials.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The submission of the terminal report or output was not prioritized by the concerned officials."
+    },
+    {
+      "id": "Mabinay_NegOr-2017-PY15",
+      "year": 2017,
+      "recommendation": "We recommended that management exercise prudence in the disbursement of funds and avail of the unlimited call and texts promos of Globe and Smart networks to cut on telephone-mobile expenses.",
+      "managementAction": "None",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The municipal officials continued to grant telephone allowance of ₱1,800.00 each to its officials without submission of the SB resolution authorizing the grant."
+    },
+    {
+      "id": "Mabinay_NegOr-2017-PY19",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive refund immediately the questioned financial assistance and comply with the DBM SARO limitation.",
+      "managementAction": "The municipal officials insisted that the recipient of financial assistance is a resident of Mabinay who was studying in Dumaguete City.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The municipal officials insisted that the recipient of financial assistance is a resident of Mabinay who was studying in Dumaguete City."
+    },
+    {
+      "id": "Mabinay_NegOr-2017-PY21",
+      "year": 2017,
+      "recommendation": "We recommended the following courses of action:\na. That management considers the disposal of its unserviceable properties.\nb. That the supply office request the appraisal committee, created for this purpose, to make an appraisal of each item in the Inventory and Inspection Report of Unserviceable Property (IIRUP).\nc. Have these items inspected and appraised by the Regional Technical and Information Technology Services, COA Region VII.\nd. That the supply officer undertakes the disposal of the unserviceable properties following the procedures and guidelines provided under Sec. 502-505 of the GAAM, Vol. I.\nWe further recommended that management require the supply office and the accountant to drop the amounts of the unserviceable property from their books after disposal and the accountant to record the proceeds of the auction sale, if any.",
+      "managementAction": "None",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Municipality has not yet created an appraisal and disposal committee."
+    },
+    {
+      "id": "Mabinay_NegOr-2017-PY23",
+      "year": 2017,
+      "recommendation": "Require the Municipal Accountant, Municipal Treasurer, and the Municipal Budget Officer to recommend to the Sangguniang Bayan to effect an inter-fund transfer from the General Fund to the Market Operation in the amount necessary to eliminate the negative balance. Direct the Municipal Treasurer as also being the head of the Market committee to minimize and take steps to cut expenditures for the Market Operations until such time that the income therefrom is sufficient to cover said expenditures.",
+      "managementAction": "None",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The municipality had not effected an inter-fund transfer from the General Fund to the Market Operation."
+    },
+    {
+      "id": "Mabinay_NegOr-2017-PY24",
+      "year": 2017,
+      "recommendation": "Require the Municipal Assessor, as well as, the Municipal Treasurer to convene the Provincial Appraisal Committee to immediately act in the determination of the value of the unrecorded lots. Also direct them to process the titling of the lots owned by the municipality and for the municipal Budget Officer to allocate funds for the titling thereof. Likewise, instruct the Municipal Accountant to review the land account and record only in the books of accounts those lots that are owned by the municipality. Moreover, the value of the lots which will be determined by the Provincial Appraisal Committee shall also be recorded in the books of accounts to avoid understatement of assets.",
+      "managementAction": "None",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Municipal Assessor and Treasurer have no records of the land owned by the municipality."
+    },
+    {
+      "id": "Mabinay_NegOr-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommended that the municipality stop the practice of charging\nto LCPC funds the honoraria of day care workers (Municipal counterpart)\nand instead utilize the fund for the more important and vital programs and\nprojects of the LCPC to enable it to attain its objectives.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommended that the municipal accountant record completed\nprojects at its total cost and recognize liability for any unpaid account. We\nfurther recommended that she draw the following entry in the General Fund\nto correct the accounts of the municipality:\nAccount Debit Credit\n1 07 03 010 Road Networks ₱3,772,381.20\n1 07 10 020 Construction-in-Progress – 650,685.14 ₱3,772,381.20\nInfrastructure Assets\n2 01 01 010 Accounts Payable 650,685.14",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recommended that municipal officials endeavour to avoid the\nincurrence of unnecessary expenditures and ensure that only essential items\nnecessary in the LGU’s operations are purchased in order to safeguard the\nmunicipality’s resources.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We recommended that the municipality limit the payment of hazard\nallowance only to days an employee is actually exposed to occupational risks\ndue to the type of cases/clientele they actually handled as enumerated under\nSection 16.1.1 of the IRR of R.A. 9433, as well as during assignments to\nremote and depressed areas, strife-torn or embattled areas, distressed or\nisolated stations, mental hospitals, leprosaria, areas declared under a state of\ncalamity or emergency which expose them to great danger, and volcanic\nactivity/eruption. We further recommended that claims for hazard\nallowance be supported with proof of exposure to risk for each day claimed.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommended that the municipality endeavor to fast-track the\nimplementation of development projects under the 20% DF in order that the\nbenefits can be immediately enjoyed by target beneficiaries as well as ensure\nthat these are completed at the time they are still relevant or needed. We\nfurther recommended that the 20% DF be used to finance only those projects\nwhich are among the allowable uses thereof in conformity with existing\nguidelines. Lastly, we recommended that appropriate steps be taken to\ncorrect the books for the erroneous recognition of capital assets for funds\ntransferred to the barangays amounting to ₱900,000.00.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Agriculturist initiate the repair\nof the water reservoir/tank in order that it can supply the required quantity\nof water to operate all ten water boxes of the hatchery and thus attain their\nintended purpose.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2017-OBS7",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Accountant maintain special\naccounts for the Terminal Complex and Spring Resort in order that\nmanagement can be informed of the profitability or non-profitability of their\noperations and can thus decide accordingly.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2017-OBS8",
+      "year": 2017,
+      "recommendation": "We recommended that the municipality comply with the guidelines\nfor the payment of Assistance to Individuals in Crisis Situations by releasing\ncash assistance to individuals who are currently in need so that the intended\npurpose of the fund will be achieved.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2017-PY1",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor consider limiting or reducing the number of job order workers to be hired to what is necessary for the implementation of projects such that the wages of these laborers will be correctly charged to the projects being implemented.",
+      "managementAction": "The Municipal Mayor reduced the job order workers to 300 and justified that since the municipality is a first class municipality, they needed job order workers for the operation of its economic enterprises.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2017-PY3",
+      "year": 2017,
+      "recommendation": "We recommended that management monitor the implementation of the Evacuation and Multi-purpose Center project and impose sanctions and penalties, if warranted, for the delay in the completion thereof pursuant to the pertinent provisions of the Revised Implementing Rules and Regulations of Republic Act No. 9184.",
+      "managementAction": "Appropriated funds for the Evacuation and Multi-purpose Center.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The project was implemented by the Kalahi-CIDDS whose funds were not enough for the programmed works."
+    },
+    {
+      "id": "Mabinay_NegOr-2017-PY5",
+      "year": 2017,
+      "recommendation": "We further recommend that henceforth, municipal officials who issue clearance, authorize and participate in the release of final amounts due officials who retire, die, separate or transfer see to it that unliquidated cash advances are deducted from their claims.",
+      "managementAction": "None",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some cash advances were already fully settled. However, there were still unsettled cash advances of deceased and retired accountable officers which are deemed to be recoverable."
+    },
+    {
+      "id": "Mabinay_NegOr-2017-PY6",
+      "year": 2017,
+      "recommendation": "We recommended that the Local School Board observe the limitations on the use of SEF especially in the preparation of the budget and to limit charges thereto to purposes allowed under Section 272 of the Local Government Code and DECS –DBM –DILG Joint Circular No. 1, s. 1998.",
+      "managementAction": "The municipality followed the latest SEF guidelines.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2017-PY7",
+      "year": 2017,
+      "recommendation": "We recommended that in the allocation of funds, the Local Council for the Protection of Children prioritize projects and activities geared towards the protection of children and the prevention of juvenile delinquency, and to endeavor to implement these projects within the year they are programmed.",
+      "managementAction": "The municipality implemented the projects and payment of LCPC.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The LCPC fund was used for the honoraria of day care workers which is not aligned with the guidelines."
+    },
+    {
+      "id": "Mabinay_NegOr-2017-PY11",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Accountant monitor the liquidation of cash advances and issue demand letters to officers and employees who fail to liquidate within the reglementary period, otherwise, cause the withholding of the salaries of accountable officers concerned pursuant to Section 9.3.2 of COA Circular No. 97-002. Henceforth, adhere to the provision of COA Circular No. 97-002 on the granting and liquidation of cash advances.",
+      "managementAction": "On-going salary deduction is done by the accounting office.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Cash advances aged more than one year were still unliquidated."
+    },
+    {
+      "id": "Mabinay_NegOr-2017-PY12",
+      "year": 2017,
+      "recommendation": "We recommended that management observe the limitation in the appropriation for confidential and intelligence fund as provided under COA-DBM-DILG-GCG-DND Joint Circular No. 2015-01.",
+      "managementAction": "The Municipal Mayor has appropriated ₱300,000.00 for confidential and intelligence fund for CY 2017 which is 30% of their appropriation for Peace and Order of ₱1,000,000.00.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2017-PY16",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive instruct the Chairperson, GAD Focal Point System ensure that GAD funds will be utilized to address gender issues as indicated in the GAD Plan and ensure that the direct beneficiaries of the projects and programs match the performance targets. We further recommended that a permanent employee of the municipality be appointed as the Chairperson of the GAD Focal Point System.",
+      "managementAction": "The performance targets as indicated in the 2013 GAD Plan had been matched with the direct beneficiaries. A permanent employee of the municipality has been designated as GFP.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2017-PY17",
+      "year": 2017,
+      "recommendation": "We reiterated our previous recommendations that:\na. Management require the inventory committee to complete the physical count of the properties and to undertake the said activity annually;\nb. The Municipal Treasurer be required to update the ledger cards, property records and Acknowledgement Receipt for Equipment (ARE) in order that the reconciliation of the physical count against book balances can be facilitated;\nc. The Municipal Treasurer and OIC – Municipal Accountant reconcile the accounting and property records and make the necessary adjustments so that the accounts can be fairly presented in the financial statements;\nd. Update the issuances of AREs and ensure that all movable assets are covered by the same;\ne. Require the Property Officer to prepare individual ARE for every property issued and renew the records every three (3) years thereafter pursuant to Section 42 of the NGAS manual, to easily pinpoint responsibility and accountability.",
+      "managementAction": "As of December 31, 2017, the municipality, through the Municipal Treasurer had an ongoing conduct of physical count of its movable property, plant and equipment amounting to ₱47,995,703.64 or 8.6% of total assets.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "However, her records were not yet reconciled with the accounting records."
+    },
+    {
+      "id": "Mabinay_NegOr-2017-PY18",
+      "year": 2017,
+      "recommendation": "We recommended that management observe the applicable regulations on the grant of fringe benefits and refund the overpayment of the Productivity Enhancement Incentive for CY 2014.",
+      "managementAction": "The Municipal Mayor instructed the department heads to refund the PEI and to henceforth observe the applicable regulations on the grant of any fringe benefits.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "On-going salary deduction is done by the accounting office."
+    },
+    {
+      "id": "Mabinay_NegOr-2017-PY20",
+      "year": 2017,
+      "recommendation": "We recommended that the deposits of the local government of Mabinay with the FCB be transferred to the authorized government depository bank and to ensure that government funds are properly safeguarded against loss or wastage.",
+      "managementAction": "The account with FCB was closed in June 2017.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2017-PY22",
+      "year": 2017,
+      "recommendation": "Require the officials and employees concerned to refund in full the amount received by them, as they are in violation of the aforementioned laws and regulations. Moreover, subsequent claims for increases in RATA shall also be disallowed in audit until the requirements for the PS cap have been met. Direct the department heads and all officials concerned to refrain collecting the proposed RATA increases in 2010. Direct also the Municipal Accountant and the Municipal Budget Officer to be vigilant and not to certify disbursements which go beyond the provisions of the law.",
+      "managementAction": "The concerned officials refunded the RATA while ongoing salary deduction is done by the accounting office.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some officials refunded the RATA while ongoing salary deduction was effected to the others."
+    },
+    {
+      "id": "Mabinay_NegOr-2016-PY2",
+      "year": 2016,
+      "recommendation": "We recommended that management observe the limitation in the appropriation for confidential and intelligence fund as provided under COA- DBM-DILG-GCG-DND Joint Circular No. 2015-01 dated January 8, 2015.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Appropriation still above the allowable limit."
+    },
+    {
+      "id": "Mabinay_NegOr-2016-PY3",
+      "year": 2016,
+      "recommendation": "We recommend that management exercise prudence in spending government funds and refrain from incurring extravagant expenditures in accordance with COA Circular No. 2012-003.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The municipality still held the ELA in the city of Bacolod."
+    },
+    {
+      "id": "Mabinay_NegOr-2016-PY6",
+      "year": 2016,
+      "recommendation": "We recommended management submit a terminal report on output in the conduct of the Mid-Year Evaluation of the ELA, particularly that affecting the DepEd and henceforth, ensure that charges to the Special Education Fund are in consonance with Section 272 of RA 7160.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The terminal report was not yet submitted."
+    },
+    {
+      "id": "Mabinay_NegOr-2016-PY9",
+      "year": 2016,
+      "recommendation": "We recommended that Management exercise prudence in the disbursement of funds and avail of the unlimited call and texts promos of Globe and Smart networks to cut on telephone-mobile expenses.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The municipality had not discussed the issue to the department heads."
+    },
+    {
+      "id": "Mabinay_NegOr-2016-PY10",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive instruct the Chairperson, GAD Focal Point System to address identified gender issues and ensure that the direct beneficiaries of the projects and programs match the performance targets. We further recommended that a permanent employee of the municipality be appointed as the Chairperson of the GAD Focal Point System.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "There were still GAD activities that did not address the identified gender issues and performance targets."
+    },
+    {
+      "id": "Mabinay_NegOr-2016-PY14",
+      "year": 2016,
+      "recommendation": "Require the Local Chief Executive to refund the questioned financial assistance and comply with DBM SARO No.-BMB-G-13-T000000849 which limits the grant of financial assistance to residents of Mabinay only.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The audit team is still waiting for the justification of the recipient that she is a resident of Mabinay, Negros Oriental."
+    },
+    {
+      "id": "Mabinay_NegOr-2016-PY16",
+      "year": 2016,
+      "recommendation": "We recommended that the deposits of the local government of Mabinay with the FCB be transferred to the authorized government depository bank to ensure that government funds are properly safeguarded against loss or wastage.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The municipality still has an account with FCB."
+    },
+    {
+      "id": "Mabinay_NegOr-2016-PY17",
+      "year": 2016,
+      "recommendation": "We recommended that management consider the disposal of its unserviceable properties; request the appraisal committee to make an appraisal of each item in the Inventory Inspection Report of Unserviceable Property (IIRUP); have these items inspected and appraised by the Regional Technical Information Services, COA Region VII; and undertake the disposal following procedures and guidelines under Sec. 502-505 of the GAAM, Vol. I. Require the supply office and the accountant to drop the amounts of the unserviceable property from their books after disposal and the accountant to record the proceeds of the auction sale, if any.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The municipality has not yet created an appraisal and disposal committee."
+    },
+    {
+      "id": "Mabinay_NegOr-2016-PY18",
+      "year": 2016,
+      "recommendation": "Require the officials and employees concerned to refund in full the amount received by them, as they are in violation of the aforementioned laws and regulations. Direct the department heads and all officials concerned to refrain from collecting proposed RATA increases in 2010. Direct also the Municipal Accountant and the Municipal Budget Officer to be vigilant and not to certify disbursements which go beyond the provisions of the law.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The municipality had not effected refund; persons liable remain to be pursued."
+    },
+    {
+      "id": "Mabinay_NegOr-2016-PY19",
+      "year": 2016,
+      "recommendation": "Direct the Municipal Treasurer as head of the Market committee to minimize expenditures for the Market Operations and take steps to cut expenditures until such time that the income therefrom is sufficient to cover said expenditures. Require the Municipal Treasurer to effect an inter-fund transfer from the General Fund Proper to the Market Operation in the amount of P8,693,138.76.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The municipality had not effected the inter-fund transfer from the General Fund to the Market Operations."
+    },
+    {
+      "id": "Mabinay_NegOr-2016-PY20",
+      "year": 2016,
+      "recommendation": "Require the Assessor, as well as, the Municipal Treasurer to convene the Provincial Appraisal Committee to immediately act in the determination of the value of the unrecorded lots. Also direct them to process the titling of the lots owned by the municipality and for the Municipal Budget Officer to allocate funds for the titling thereof. Likewise, instruct the Municipal Accountant to review the land account and record only in the books of accounts those lots that are owned by the municipality. The value of the lots which will be determined by the Provincial Appraisal Committee shall also be recorded in the books of accounts to avoid understatement of assets.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Assessor and Treasurer have no records of the land owned by the municipality."
+    },
+    {
+      "id": "Mabinay_NegOr-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor consider limiting or\nreducing the number of job order workers to be hired to what is necessary\nfor the implementation of projects such that the wages of these laborers will\nbe correctly charged to the projects being implemented.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We recommended that the Bids and Awards Committee be required\nto submit to the auditor within the reglementary period of five (5) working\ndays from perfection, two (2) sets of the contract and all supporting\ndocuments for the auditorial and technical review thereof pursuant to COA\nCircular No. 2009-001 dated February 12, 2009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommended that management monitor the implementation of\nthe project and impose sanctions and penalties, if warranted, for the delay in\nthe completion thereof pursuant to the pertinent provisions of the Revised\nImplementing Rules and Regulations of Republic Act No. 9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Administrator – Designate\ndischarge her duties within the limitations set forth under her designation\norder as well as Section 39 of COA Circular No. 92-382 dated July 3, 1992.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommended the imposition of sanctions as provided under\nSection 9 of COA Circular No. 2012-004 specifically the filing of\nmalversation charges and appropriate administrative proceedings against\nthe erring accountable officers. We further recommended that henceforth,\nmunicipal officials who issue clearance, authorize and participate in the\nrelease of final amounts due officials who retire, die, separate or transfer see\nto it that unliquidated cash advances are deducted from their claims.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommended that the Local School Board observe the limitations\non the use of the Special Education Fund especially in the preparation of the\nbudget and to limit charges thereto to purposes allowed under Section 272 of\nthe Local Government Code and DECS –DBM –DILG Joint Circular No. 1, s.\n1998.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We recommended that in the allocation of funds, the Local Council\nfor the Protection of Children prioritize projects and activities geared\ntowards the protection of children and the prevention of juvenile\ndelinquency, and to endeavor to implement these projects within the year\nthey are programmed.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We recommended that management ensure the implementation of the\nprojects programmed under the 20% Development Fund so that the socio-\neconomic benefits that could be derived therefrom can be enjoyed by the\nconstituents at the earliest possible time.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2016-PY1",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Accountant monitor the liquidation of cash advances and issue demand letters to officers and employees who fail to liquidate within the reglementary period, otherwise, cause the withholding of the salaries of accountable officers concerned pursuant to Section 9.3.2 of COA Circular No. 97-002. Henceforth, adhere to the provision of COA Circular No. 97-002 on the granting and liquidation of cash advances.",
+      "managementAction": "On-going salary deduction is done by the accounting office.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Cash advances aged more than one year were still unliquidated."
+    },
+    {
+      "id": "Mabinay_NegOr-2016-PY4",
+      "year": 2016,
+      "recommendation": "We recommend that the Local Chief Executive require the LDRRMO to observe the provisions of NDRRMC-DBM-DILG Joint Memorandum Circular No. 2013-1 in the usage of the LDRRMF to ensure proper utilization of the fund.",
+      "managementAction": "The municipality had observed the provisions of law in the usage of the LDRRMF.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2016-PY5",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Accountant properly recorded transactions in the books of accounts in accordance with the PPSAS and Philippine Public Sector Accounting Standards. We further recommended that she draw Journal Entry Voucher (JEV) to take up the following entries: Account Title Debit Credit (details in report).",
+      "managementAction": "The municipality properly recorded transactions in the books of accounts in accordance with the PPSAS and adjusted the books as recommended.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2016-PY7",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor determine the person responsible for the renewal of the motor vehicle and require him/her to refund immediately the corresponding penalty erroneously charged to government funds.",
+      "managementAction": "The Municipal Treasurer explained that the penalties were due to the delayed acceptance of the LTO of their payment.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2016-PY8",
+      "year": 2016,
+      "recommendation": "We recommended that the municipality comply with the guidelines for the payment of Assistance to Individuals in Crisis Situations by releasing cash assistance directly to the service provider concerned as required under DSWD Memorandum Circular No. 02, series of 2014.",
+      "managementAction": "Cash assistance to Individuals in Crisis Situation were limited only to ₱3,000.00.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Mabinay_NegOr-2016-PY11",
+      "year": 2016,
+      "recommendation": "We recommended: a. Instruct the OIC – Municipal Accountant to make representations with the various depository banks to obtain the necessary evidence/documentation to support the correction of book and bank errors; b. Require the Accounting Office to give priority to and intensify the review and analysis of the existing reconciling items and adjust those which are clearly identified; and c. Henceforth, require the Municipal Accountant to regularly prepare the BRS of each bank account and immediately prepare adjusting entries for book reconciling items.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Bank Reconciliation Statement no longer showed long outstanding reconciling items."
+    },
+    {
+      "id": "Mabinay_NegOr-2016-PY12",
+      "year": 2016,
+      "recommendation": "Require the officials and employees concerned to complete the physical count of the properties and to undertake the said activity annually; require the Municipal Treasurer to reconcile the count with the accounting records and make the necessary adjustments so that the accounts can be fairly presented in the financial statements; update the issuances of AREs and ensure that all movable assets are covered; require the Property Officer to prepare individual ARE for every property issued and renew the records every three (3) years thereafter pursuant to Section 42 of the NGAS manual.",
+      "managementAction": "As of December 31, 2016, the Treasurer and OIC - Municipal Accountant had an on-going conduct of physical count of its movable property, plant and equipment amounting to ₱39,553,607.86 or 8.03% of total assets.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipal Treasurer and OIC - Municipal Accountant still have to reconcile the accounting and property records."
+    },
+    {
+      "id": "Mabinay_NegOr-2016-PY13",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive refund immediately the amount received by them, as they are in violation of the aforementioned laws and regulations. Moreover, subsequent claims for increases in RATA shall also be disallowed in audit until the requirements for the PS cap have been met.",
+      "managementAction": "Only some personnel refunded the PEI through payroll deduction.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Only the department heads refunded the PEI; further refunds pending."
+    },
+    {
+      "id": "Mabinay_NegOr-2016-PY15",
+      "year": 2016,
+      "recommendation": "We recommended: a. Ensure that meals and snacks served during meetings, seminars and for the entertainment of guests or visitors shall be properly charged against the representation allowance/s of the concerned LGU officials granted the same; b. Require the Municipal Accountant to check the propriety and validity of the claims for catering services for seminars, meetings and special occasions and not to pass payment claims for catering services unless these are duly supported with proper and complete documentation and that the funds have been duly appropriated for the purpose; c. Stop the practice of serving meals and snacks during ordinary staff meetings or conferences in order to prevent the incurrence of irregular and unnecessary expenditures and maximize the use of the limited resources of the municipality.",
+      "managementAction": "The municipality stopped the serving of meals and snacks during meetings and entertainment of guests; the Municipal Accountant checks claims.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    }
+  ]
+}

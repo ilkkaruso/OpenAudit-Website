@@ -1,0 +1,1302 @@
+{
+  "lguCode": "1903620000",
+  "lguName": "Pagayawan",
+  "province": "Lanao del Sur",
+  "region": "BARMM",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "Pagayawan_LdS_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "6. Submit the List of PPAs (complete with necessary details) for audit at the beginning of every year;",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "9. Maintain records on the Project Status of PPAs (updated on the basis of the prescribed monthly Monitoring Report of PPAs verified by the COA TAS).",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "11. We recommended that Management ensure that a copy of contract documents (such as memorandum of agreement, purchase order and supporting documents) be submitted for contract review within the prescribed 5-day period from the execution / issuance of the contract pursuant to COA Circular 2009-001.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "14. We recommended that Management cause to submit on time the GAD Plan and Budget and the annual GAD Accomplishment Report pursuant to the provisions of COA Circular No. 2014-001 and PCW-NEDA-DBM JC 2012-01.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "1.9 We recommended that Management:\na) Require the Inventory Committee to complete the physical count\nof all types of PPE duly witnessed by a COA representative and\nprepare the prescribed annual RPCPPE thereon properly\nreconciled with the PPE ledger cards and other pertinent records\nincluding property cards and AREs; and\nb) Submit RPCPPE for audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "2.8 We recommended that the Honorable Mayor cause all concerned\npersonnel to comply with the following:\na. Immediately submit reports and documents relating to the fund\ntransfer to the Office of the Auditor assigned to the implementing\nLGU including RCIs, RoDs duly supported with paid DVs/paid\npayrolls complete with supporting documents;\nb. Keep a separate updated subsidiary records for each transfer\nwhether or not a separate bank account is maintained;\nc. Record the receipt and utilizations of the fund transfer and or\neffect necessary adjustments/corrections/disclosures in the books\nand reports; and\nd. Submit to the Office of the Auditor a schedule of\ntransfers/subsidies actually received by the LGU including the\nrespective bank accounts being maintained therefor, if any, so to\nfacilitate proper audit thereto.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "3.13 We recommended that Management:\na. Fast track the reconciliation of records with the GSIS; and\nb. Cause the Municipal Accountant and other concerned personnel to\nreview the reliability of the ₱14,382,399.78 recognized as\ncontingent liability using the “due to GSIS” account, verify its\nreliability from the records such as paid payrolls, service records,\nprevious remittances, etc., effect any necessary corrections and or\nappropriate recognition in the books using the “provisions”\naccount and fully disclose the bases/sources of the amount of\nprovisions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "4.6 We recommended that Management require the Municipal Accountant\nto facilitate timely preparation and submission of the monthly BRSs to\nthe Audit Team for review as required under Section 74 of PD No. 1445\nand Section 3 of COA Circular No. 96-011. Management may confer\nwith the concerned depository banks to address alleged delays in the\nproduction of bank statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "5.7 We recommended that Management ensure that a copy of contract\ndocuments (such as memorandum of agreement, purchase order and\nsupporting documents) be submitted for contract review within the\nprescribed 5-day period from the execution / issuance of the contract\npursuant to COA Circular 2009-001.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "6.7 We recommended that Management ensure that concerned personnel\nare kept abreast of the guidelines for disbursements and monitoring of\nDRRMF as prescribed under Circular 2012-002. Specifically, we\nrecommended that Management ensure timely rendition of monthly\nReport on Sources and Utilization of LDRRMF and proper\ndisbursements of LDRRMF-QRF duly supported with a local\nsanggunian resolution and a declaration of a state of calamity.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "7.7 We recommended that Management designate a focal person tasked to\nensure proper publicity and monitoring of PPAs pursuant to COA\nCircular No. 2013-004. Specifically, we recommend that Management:\na) Submit the List of PPAs (complete with necessary details) for audit\nat the beginning of every year;\nb) Post the information in the List of PPAs in appropriate places using\nthe prescribed sizes of signboards / public notices;\nc) Inform the concerned audit team (within 10-day after the award of\nthe infrastructure project or before the start of the\nprogram/activity) that the signboards / public notices are already\nposted (for validation purposes); and\nd) Maintain records on the Project Status of PPAs (updated on the\nbasis of the prescribed monthly Monitoring Report of PPAs verified\nby the COA TAS).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-OBS8",
+      "year": 2021,
+      "recommendation": "8.8 We recommended that Management cause to submit on time the GAD\nPlan and Budget and the annual GAD Accomplishment Report\npursuant to the provisions of COA Circular No. 2014-001 and PCW-\nNEDA-DBM JC 2012-01.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-OBS9",
+      "year": 2021,
+      "recommendation": "9.8 We recommended that Management ensure timely submission of\nmonthly reports for audit such as ROD, RCI, RCD, CRAAF and BRS\ntogether with their supporting documents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-OBS10",
+      "year": 2021,
+      "recommendation": "10.7 We recommended that settlement of the suspension of disbursements\ntotaling ₱6,001,268.15 be made within the 90 calendar days from\nreceipt of the notice of suspension. Further, direct effective\ndisbursement controls be installed to ensure that disbursements are\nduly supported with all necessary documents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-OBS11",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-OBS12",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "1.We recommended that the Municipal Mayor create an Inventory Committee composing of personnel possessing competence to conduct physical count of PPE accounts unreliable. recommended that the same Committee conduct physical count of PPE annually to be reported on the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) for submission for audit not later than January 31 of each year. Moreover, we recommended that Property Cards, PPE Ledger Cards and Acknowledgement receipts for Equipment be reconciled with the annual RPCPPE.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "2. We recommended that Management create SAGF for the BGCM and all other future funds of similar nature pursuant to Section 313 of RA No. 7160, Sections 105 and 107 of the NGAS Manual for LGUs and Item No. 3.7 of DBM-LBC No. 125 to facilitate easy monitoring / tracking of the utilization of the funds.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "3.We recommended that Management prepare the monthly BGCM Report on Fund Utilization and Status of Implementation of Program/Project/Activity pursuant to DBM Local Budget Circular No. 125.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "4.We recommended that Management ensure that concerned personnel are kept abreast of the guidelines for disbursements and monitoring of DRRMF as prescribed under Circular 2012-002. Specifically, we recommended that Management ensure timely rendition of monthly Report on Sources and Utilization of LDRRMF and proper disbursements of LDRRMF-QRF duly supported with a local sanggunian resolution and a declaration of a state of calamity.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "7. Post the information in the List of PPAs in appropriate places using the prescribed sizes of signboards / public notices;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "8. Inform the concerned audit team (within 10-day after the award of the infrastructure project or before the start of the program/activity) that the signboards / public notices are already posted (for validation purposes); and",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "10. We recommended that the Municipality fast track the reconciliation of records with the GSIS. Further, we recommended that Management verify the validity of the amount recorded as “due to GSIS” (supposed “provisions” for the disputed arrears with the GSIS) based upon the available records and other valid references and disclose all relevant necessary information in the financial statements including the basis for the measurement and recognition of “provisions”. Moreover, we recommended that Municipal Accountant recognize such contingent liability using the appropriate account - “other provisions”.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "12. We recommended that Management notify the COA to witness any inspection and acceptance of procurements by Management or to validate any monthly monitoring report of Management on the status of projects pursuant to Section 6.6 of COA Circular No. 95-006 and Item 3.2 COA of Circular No. 2013-004, respectively.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "13. We recommended that Municipal Accountant attach JEV to the paid DV/payroll and other JEV requiring source document for submission for audit.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-PY14",
+      "year": 2021,
+      "recommendation": "15. We recommended that Management ensure timely submission of monthly reports for audit such as RoD, RCI, RCD, CRAAF and BRS together with their supporting documents.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-PY15",
+      "year": 2021,
+      "recommendation": "16. We recommended that the Municipal Accountant and the Municipal Budget Officer review the beginning balance of the SCBAA for the year ended December 31, 2020, effect necessary corrections in the books, if any, and disclose necessary information pertinent to the beginning balance of the SCBAA in the Notes to the Financial Statements.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-PY16",
+      "year": 2021,
+      "recommendation": "17. We recommended that Municipal Accountant ensure proper reconciliation of the SCBAA and the SFP in the future. Further, we recommended that Municipal Accountant reconcile the SCBAA and the SFP for CY 2020 as to income, MOOE and financial expenses and effect necessary corrections, if any, in the books.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-PY17",
+      "year": 2021,
+      "recommendation": "18. We recommended that Municipal Accountant fully disclose all available data necessary to give clarity to the information contained in the financial statements including schedules showing details of the accounts by fund.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-PY18",
+      "year": 2021,
+      "recommendation": "19. We recommended that Municipal Accountant reconcile the net cash flows from operating activities to surplus / (deficit) by fund (general fund and special education fund) and effect necessary corrections in the books.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-PY19",
+      "year": 2021,
+      "recommendation": "20. We recommended that settlement of the suspension of disbursements totaling ₱9,225,956.03 be made within the 90 calendar days from receipt of the notice of suspension. Further, we recommended that effective disbursement controls be installed to ensure that disbursements of funds are duly supported with necessary documents.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-PY20",
+      "year": 2021,
+      "recommendation": "21. We recommended that Management notify the COA to witness any inspection and acceptance of procurements by Management or to validate any monthly monitoring report of Management on the status of projects pursuant to Section 6.6 of COA Circular No. 95-006 and Item 3.2 COA of Circular No. 2013-004, respectively.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LdS_aar2021-PY21",
+      "year": 2021,
+      "recommendation": "22. We recommended that the Municipal Accountant, the Municipal Budget Officer and the Municipal Treasurer ensure that the prescribed disbursement procedures are strictly followed to enable timely rendition of disbursement reports pursuant to Sections 9, 44, and 49, Volume 1, of the NGAS for LGUs. Specifically, we recommended that Management ensure that RCI and ROD including supporting vouchers / payrolls are submitted to the COA not later than the fifth day of the ensuing month pursuant to Section 100 of PD 1445.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-PY1",
+      "year": 2020,
+      "recommendation": "1. We recommended that the Municipal Mayor create an Inventory Committee composing of personnel possessing competence to conduct physical count of PPE. Further, we recommended that the same Committee conduct physical count of PPE annually to be reported on the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) for submission for audit not later than January 31 of each year. Moreover, we recommended that reconciliation be made of information contained in the RPCPPE, Property Cards, PPE Ledger Cards and Acknowledgement Receipts.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-PY2",
+      "year": 2020,
+      "recommendation": "2. We recommended that Management ensure that concerned personnel are kept abreast of the guidelines for disbursements and monitoring of DRRMF as prescribed under Circular 2012-002. Specifically, we recommended that Management ensure timely rendition of monthly Report on Sources and Utilization of LDRRMF and proper disbursements of LDRRMF-QRF duly supported with a local SANGGUNIAN resolution and a declaration of a state of calamity.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-PY3",
+      "year": 2020,
+      "recommendation": "3. Submit the List of PPA (complete with necessary details) for audit at the beginning of every year;\n4. Post the information in the List of PPA in appropriate places using the prescribed sizes of signboards / public notices;\n5. Inform the concerned audit team (within 10-day after the award of the infrastructure project or before the start of the program/activity) that the signboards / public notices are already posted (for validation purposes); and\n6. Maintain records on the Project Status of PPA (updated on the basis of the prescribed monthly Monitoring Report of PPA verified by the COA TAS).",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-PY4",
+      "year": 2020,
+      "recommendation": "7. We recommended that the Municipality fast track the reconciliation of records with the GSIS. Further, we recommended that the Municipality validate the sufficiency and reliability of ₱14,696,190.00 purportedly recognized as ‘Provisions’ for the un-reconciled arrears with the GSIS (erroneously recorded as ‘Due to GSIS’) based upon appropriate records and as maybe bargained with the GSIS for possible condoning of accrued interests.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-PY5",
+      "year": 2020,
+      "recommendation": "8. We recommended that Management ensure that a copy of contract documents (such as memorandum of agreement, purchase order and supporting documents) be submitted for contract review within the prescribed 5-day period from the execution / issuance of the contract pursuant to COA Circular 2009-001.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-PY10",
+      "year": 2020,
+      "recommendation": "13. We recommended that Management notify the COA to witness any inspection and acceptance of procurements by Management or to validate any monthly monitoring report of Management on the status of projects pursuant to Section 6.6 of COA Circular No. 95-006 and Item 3.2 COA of Circular No. 2013-004, respectively.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-PY12",
+      "year": 2020,
+      "recommendation": "15. We recommended that the Municipal Accountant, the Municipal Budget Officer and the Municipal Treasurer ensure that the prescribed disbursement procedures are strictly followed to enable timely rendition of disbursement reports pursuant to Sections 9, 44, and 49, Volume 1, of the NGAS for LGUs. Specifically, we recommended that Management ensure that RCI and ROD including supporting vouchers/payrolls are submitted to the COA not later than the fifth day of the ensuing month pursuant to Section 100 of PD 1445.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor create an Inventory Committee\ncomposing of personnel possessing competence to conduct physical count of PPE.\nFurther, we recommended that the same Committee conduct physical count of\nPPE annually to be reported on the Report on the Physical Count of Property,\nPlant and Equipment (RPCPPE) for submission for audit not later than January 31\nof each year. Moreover, we recommended that Property Cards, PPE Ledger\nCards and Acknowledgement Receipts for Equipment be reconciled with the annual\nRPCPPE.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended that Management create a special account in the\ngeneral fund (SAGF) for the BGCM pursuant to Section 313 of RA\nNo. 7160, Sections 105 and 107 of the NGAS Manual for LGUs and\nItem No. 3.7 of DBM-LBC No. 125 to facilitate easy monitoring /\ntracking of the utilization of the funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended that Management prepare the monthly BGCM\nReport on Fund Utilization and Status of Implementation of\nProgram/Project/Activity pursuant to DBM Local Budget Circular\nNo. 125.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommended that Management ensure that concerned personnel\nare kept abreast of the guidelines for disbursements and monitoring\nof DRRMF as prescribed under Circular 2012-002. Specifically, we\nrecommended that Management ensure timely rendition of monthly\nReport on Sources and Utilization of LDRRMF and proper\ndisbursements of LDRRMF-QRF duly supported with a local\nsanggunian resolution and a declaration of a state of calamity.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We recommended that Management designate a focal person tasked\nto ensure proper publicity and monitoring of PPAs pursuant to COA\nCircular No. 2013-004. Specifically, we recommended that\nManagement:\na) Submit the List of PPAs (complete with necessary details) for\naudit at the beginning of every year;\nb) Post the information in the List of PPAs in appropriate places\nusing the prescribed sizes of signboards / public notices;\nc) Inform the concerned audit team (within 10-day after the award\nof the infrastructure project or before the start of the\nprogram/activity) that the signboards / public notices are already\nposted (for validation purposes); and\nd) Maintain records on the Project Status of PPAs (updated on the\nbasis of the prescribed monthly Monitoring Report of PPAs\nverified by the COA TAS).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipality fast track the reconciliation\nof records with the GSIS. Further, we recommended that\nManagement verify the validity of the amount recorded as “due to\nGSIS” (supposed “provisions” for the disputed arrears with the\nGSIS) based upon the available records and other valid references\nand disclose all relevant necessary information in the financial\nstatements including the basis for the measurement and recognition\nof “provisions”. Moreover, we recommended that Municipal\nAccountant recognize such contingent liability using the appropriate\naccount - “other provisions”.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We recommended that Management ensure that a copy of contract\ndocuments (such as memorandum of agreement, purchase order and\nsupporting documents) be submitted for contract review within the\nprescribed 5-day period from the execution / issuance of the contract\npursuant to COA Circular 2009-001.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We recommended that Management notify the COA to witness any\ninspection and acceptance of procurements by Management or to\nvalidate any monthly monitoring report of Management on the status\nof projects pursuant to Section 6.6 of COA Circular No. 95-006 and\nItem 3.2 COA of Circular No. 2013-004, respectively.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-OBS9",
+      "year": 2020,
+      "recommendation": "We recommended that Municipal Accountant attach JEV to the paid\nDV/payroll and other JEV requiring source document for submission\nfor audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-OBS10",
+      "year": 2020,
+      "recommendation": "We recommended that Management cause to submit on time the\nGAD Plan and Budget and the annual GAD Accomplishment Report\npursuant to the provisions of COA Circular No. 2014-001 and PCW-\nNEDA-DBM JC 2012-01.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-OBS11",
+      "year": 2020,
+      "recommendation": "We recommended that Management ensure timely submission of\nmonthly reports for audit such as Report of Disbursements (RoD),\nReport of Checks Issued (RCI), Report of Collections and Deposits\n(RCD), Consolidated Report of Accountability for Accountable\nForms (CRAAF) and Bank Reconciliation Statements (BRS) together\nwith their supporting documents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-OBS12",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant and the Municipal\nBudget Officer review the beginning balance of the SCBAA for the\nyear ended December 31, 2020, effect necessary corrections in the\nbooks, if any, and disclose necessary information pertinent to the\nbeginning balance of the SCBAA in the Notes to the Financial\nStatements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-OBS13",
+      "year": 2020,
+      "recommendation": "We recommended that Municipal Accountant ensure proper\nreconciliation of the SCBAA and the SFP in the future. Further, we\nrecommended that Municipal Accountant reconcile the SCBAA and\nthe SFP for CY 2020 as to income, MOOE and financial expenses and\neffect necessary corrections, if any, in the books.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-OBS14",
+      "year": 2020,
+      "recommendation": "We recommended that Municipal Accountant fully disclose all\navailable data necessary to give clarity to the information contained\nin the financial statements including schedules showing details of the\naccounts by fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-OBS15",
+      "year": 2020,
+      "recommendation": "We recommended that Municipal Accountant reconcile the net cash\nflows from operating activities to surplus / (deficit) by fund (general\nfund and special education fund) and effect necessary corrections in\nthe books.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-OBS16",
+      "year": 2020,
+      "recommendation": "We recommended that settlement of the suspension of disbursements\ntotaling ₱9,225,956.03 be made within the 90 calendar days from\nreceipt of the notice of suspension. Further, we recommended that\neffective disbursement controls be installed to ensure that\ndisbursements of funds are duly supported with necessary\ndocuments.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-PY6",
+      "year": 2020,
+      "recommendation": "9. We recommended that the Municipal Accountant determine the nature and other necessary details of dormant accounts “deferred credits / unearned income” of ₱601.00 and “other payables” of ₱100,000.00, effect any pertinent corrections in the books and or disclose in the ensuing financial statements all necessary information relative thereto.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-PY7",
+      "year": 2020,
+      "recommendation": "10. We recommended that concerned personnel review the “actual amount of surplus / (deficit)” as reflected in the Statement of Comparison between Budget and Actual Amount (SCBAA) for correction of possible misstatement. Further, we recommended that the “actual amount of actual surplus / (deficit)”, not earmarked for specific purposes, carried forward as “actual amount of beginning balance” to the ensuing SCBAA or be disclosed in the Notes to Financial Statements if such amount is earmarked for specific purposes.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-PY8",
+      "year": 2020,
+      "recommendation": "11. We recommended that the Municipal Accountant correctly reconcile “Net Cash Flows from Operating Activities” per Statement of Cash Flows to “Surplus” per Statement of Financial Statements.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-PY9",
+      "year": 2020,
+      "recommendation": "12. We recommended that the Municipal Accountant reconcile the annual increase in PPE of ₱1,609,150.00 per SFPOS as at December 31, 2019 with the cash outflow for the purchase/construction of PPE of ₱5,089,273.49 per SCF and expenditure on capital outlay of ₱6,300,000.00 per SCBAA for the year ended December 31, 2019.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-PY11",
+      "year": 2020,
+      "recommendation": "14. We recommended that Management strictly adhere to the limits of grant and use of cash advances as defined under COA Circular 97-002. Specifically, we recommended that concerned personnel refrain from drawing of cash advances for procurements. Management may maintain a Petty Cash Fund to defray recurring petty operating expenses for a month.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-PY13",
+      "year": 2020,
+      "recommendation": "16. We recommended that the Municipal Accountant ensure that paid vouchers/payrolls are properly segregated and summarized into monthly Report of Disbursements and monthly Report of Checks Issued, as the case maybe, pursuant to Sections 43 and 46, volume 1, of the New Government Accounting System for LGUs.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Pagayawan_LDS-2020-PY14",
+      "year": 2020,
+      "recommendation": "17. We recommended that Management cause for the prompt submission of the required documents to support the disbursements in the sum of ₱2,507,822.28. Further, we recommended that Management ensure strict adherence to the prescribed disbursement procedures as prescribed under the New Government Accounting System for LGUs.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended that Management ensure that monthly Pre-closing Trial Balance duly supported by SAAOB, for both current and continuing appropriations, be submitted for audit not later than the twentieth (20th) day after the end of each month.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended that Management strictly enforce rendition of monthly reports in particular to RCD and CRAAF. As enforcement measures, Management might consider employing or designating additional personnel for the proper discharge of collecting and disbursing functions including provision of proper training to ensure work competence.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY6",
+      "year": 2019,
+      "recommendation": "5. That, the balance per stock card / property cards should always reconcile with the ledger cards of the accounting unit and other property records like Acknowledgement Receipt for Equipment (ARE); and",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY7",
+      "year": 2019,
+      "recommendation": "6. The Municipal Treasurer should cause for the conduct of physical count of PPE annually and the preparation of the annual Report on the Physical Count of Property, Plant and Equipment (RPCPPE) which has to be submitted to the concerned Auditor not later than January 31 of each year. Ideally, an inventory committee may be created to conduct the count.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY12",
+      "year": 2019,
+      "recommendation": "10. Strict adherence by it [LDRRMF] in the utilization of the DRRMF;",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY14",
+      "year": 2019,
+      "recommendation": "12. Rendering a monthly Report on Sources and Utilization of LDRRMF, copy furnished the COA; and",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY17",
+      "year": 2019,
+      "recommendation": "14. At the beginning of the year, the Supervising Auditor (SA) and the Audit Team Leader (ATL) should be provided with a list of all- on-going government projects/programs/activities (PPAs) and those that are to be implemented during the year. The list shall include the project name; implementing unit, office or division if is not the agency as a whole; brief description of the PPA; contractor or suppliers, if any; mode of procurement; funding source; cost or approved budget; project duration including start and completion dates; and location;",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY18",
+      "year": 2019,
+      "recommendation": "15. Provide the ATL with a monthly “Project Status” based on the data of the monthly monitoring report of PPAs prepared by the Municipality; and",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY19",
+      "year": 2019,
+      "recommendation": "16. Inform the SA and the ATL within ten (10) days after the award of the infrastructure project or before the start of the program/activity that the appropriate project signboards and/or public notices.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY23",
+      "year": 2019,
+      "recommendation": "We recommended that Municipality should fast track the reconciliation of records with the GSIS.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY24",
+      "year": 2019,
+      "recommendation": "20. Further, we recommended that Management validate the booking up of ₱14,696,190.00 from appropriate records or on the basis of the amount as maybe bargained with the GSIS for possible condoning of accrued interests.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY28",
+      "year": 2019,
+      "recommendation": "24. Further, we recommended that Management revisit existing disbursement controls of the Municipality and install appropriate measures designed to ensure that no claim would be paid unless supported by valid attachments.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY29",
+      "year": 2019,
+      "recommendation": "We recommended that completed projects should be taken out from the books of the Trust Fund and transferred the same to the books of the General Fund.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY30",
+      "year": 2019,
+      "recommendation": "We recommended that Management ensure that contracts including supporting documents are submitted for COA review within the prescribed 5-day period reckoning from the perfection of the agreements.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY31",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Treasurer refrain from drawing additional cash advances prior to the settlement of previous advances.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY32",
+      "year": 2019,
+      "recommendation": "28. We further recommended that the LGU should consider employing or designating additional disbursing officers to avoid multiple cash advances being drawn by a lone accountable officer.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY33",
+      "year": 2019,
+      "recommendation": "We recommended that Management ensure that the concerned auditor would be given prior notification of inspections and acceptance of procurements including any stage of completion of any particular project.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY34",
+      "year": 2019,
+      "recommendation": "We recommended that Management strictly enforce the operational mandates of the Office of the Municipal Assessor as regard the assessment of real property for the Office of the Municipal Treasurer to come up with a realistic tax valuation of real property for use as valid input in the books and serving as basis in enforcing collections of RPT and SEF receivables.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY35",
+      "year": 2019,
+      "recommendation": "We recommended that Management strictly enforce timely rendition of financial reports (i.e. RCI, ROD, RCD, CRAAF, BRS).",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY36",
+      "year": 2019,
+      "recommendation": "We recommended that Management strictly enforce the keeping of a complete set of up-to-date records, namely: (a) journals; (b) ledgers and (c) registries.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-OBS1",
+      "year": 2019,
+      "recommendation": "1.9. We recommended that the Municipal Mayor create an Inventory Committee\ncomposing of personnel possessing competence to conduct physical\ncount of PPE. Further, we recommended that the same Committee\nconduct physical count of PPE annually to be reported on the Report on\nthe Physical Count of Property, Plant and Equipment (RPCPPE) for\nsubmission for audit not later than January 31 of each year. Moreover,\nwe recommended that reconciliation be made of information contained in the\nRPCPPE, Property Cards, PPE Ledger Cards and Acknowledgement\nReceipts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-OBS2",
+      "year": 2019,
+      "recommendation": "2.6. We recommended that Management ensure that concerned personnel are\nkept abreast of the guidelines for disbursements and monitoring of DRRMF\nas prescribed under Circular 2012-002. Specifically, we recommended that\nManagement ensure timely rendition of monthly Report on Sources and\nUtilization of LDRRMF and proper disbursements of LDRRMF-QRF duly\nsupported with a local SANGGUNIAN resolution and a declaration of a\nstate of calamity.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-OBS3",
+      "year": 2019,
+      "recommendation": "3.6 We recommended that Management designate a focal person tasked to\nensure proper publicity and monitoring of PPA pursuant to COA Circular\nNo. 2013-004. Specifically, we recommended that Management:\na) Submit the List of PPA (complete with necessary details) for audit at the\nbeginning of every year;\nb) Post the information in the List of PPA in appropriate places using the\nprescribed sizes of signboards / public notices;\nc) Inform the concerned audit team (within 10-day after the award of the\ninfrastructure project or before the start of the program/activity) that the\nsignboards / public notices are already posted (for validation purposes); and\nd) Maintain records on the Project Status of PPA (updated on the basis of\nthe prescribed monthly Monitoring Report of PPA verified by the COA TAS).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-OBS4",
+      "year": 2019,
+      "recommendation": "4.11. We recommended that the Municipality fast track the reconciliation of\nrecords with the GSIS. Further, we recommended that the Municipality\nvalidate the sufficiency and reliability of ₱14,696,190.00 purportedly\nrecognized as ‘Provision’ for the un-reconciled arrears with the GSIS\n(erroneously recorded as ‘Due to GSIS’) based upon appropriate records\nand as maybe bargained with the GSIS for possible condoning of accrued\ninterests.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-OBS5",
+      "year": 2019,
+      "recommendation": "5.7 We recommended that Management ensure that a copy of contract\ndocuments (such as memorandum of agreement, purchase order and\nsupporting documents) be submitted for contract review within the\nprescribed 5-day period from the execution / issuance of the contract\npursuant to COA Circular 2009-001.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-OBS6",
+      "year": 2019,
+      "recommendation": "6.5 We recommended that the Municipal Accountant determine the nature and\nother necessary details of the dormant accounts “deferred credits /\nunearned income” of ₱601.00 and “other payables” of ₱100,000.00, effect\nany pertinent possible corrections in the books and or disclose in the\nensuing financial statements all necessary information relative thereto.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-OBS7",
+      "year": 2019,
+      "recommendation": "7.10 We recommended that concerned personnel review the “actual amount\nof surplus / (deficit)” as reflected in the Statement of Comparison\nbetween Budget and Actual Amount (SCBAA) for correction of possible\nmisstatement. Further, we recommended that the “actual amount of\nactual surplus / (deficit)”, not earmarked for specific purposes, be\ncarried forward as “actual amount of beginning balance” to the ensuing\nSCBAA or be disclosed in the Notes to Financial Statements if such\namount is earmarked for specific purposes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-OBS8",
+      "year": 2019,
+      "recommendation": "8.8 We recommended that the Municipal Accountant correctly reconcile “Net\nCash Flows from Operating Activities” per Statement of Cash Flows to\n“Surplus” per Statement of Financial Statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-OBS9",
+      "year": 2019,
+      "recommendation": "9.7 We recommended that the Municipal Accountant reconcile the annual\nincrease in PPE of ₱1,609,150.00 per SFPOS as at December 31, 2019 with\nthe cash outflow for the purchase/construction of PPE of ₱5,089,273.49 per\nSCF and expenditure on capital outlay of ₱6,300,000.00 per SCBAA for the\nyear ended December 31, 2019.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-OBS10",
+      "year": 2019,
+      "recommendation": "10.9 We recommended that Management notify the COA to witness any\ninspection and acceptance of procurements by Management or to validate\nany monthly monitoring report of Management on the status of projects\npursuant to Section 6.6 of COA Circular No. 95-006 and Item 3.2 COA of\nCircular No. 2013-004, respectively.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-OBS11",
+      "year": 2019,
+      "recommendation": "11.7 We recommended that Management strictly adhere to the limits of grant\nand use of cash advances as defined under COA Circular 97-002.\nSpecifically, we recommended that concerned personnel refrain from\ndrawing of cash advances for procurements. Management may maintain a\nPetty Cash Fund to defray recurring petty operating expenses for a month.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-OBS12",
+      "year": 2019,
+      "recommendation": "12.6 We recommended that the Municipal Accountant, the Municipal Budget\nOfficer and the Municipal Treasurer ensure that the prescribed\ndisbursement procedures are strictly followed to enable timely rendition of\ndisbursement reports pursuant to Sections 9, 44, and 49, Volume 1, of the\nNGAS for LGUs. Specifically, we recommended that Management ensure\nthat RCI and ROD including supporting vouchers/payrolls are submitted to\nthe COA not later than the fifth day of the ensuing month pursuant to\nSection 100 of PD 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-OBS13",
+      "year": 2019,
+      "recommendation": "13.7 We recommended that the Municipal Accountant ensure that paid\nvouchers/payrolls are properly segregated and summarized into monthly\nReport of Disbursements and monthly Report of Checks Issued, as the\ncase maybe, pursuant to Sections 43 and 46, volume 1, of the New\nGovernment Accounting System for LGUs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-OBS14",
+      "year": 2019,
+      "recommendation": "14.5 We recommended that Management cause for the prompt submission of\nthe required documents to support the disbursements in the sum of\n₱2,507,822.28. Further, we recommended that Management ensure strict\nadherence to the prescribed disbursement procedures as prescribed under\nthe New Government Accounting System for LGUs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipality should strictly enforce the provisions of the New Government Accounting System (NGAS) Manual for LGUs and the Philippine Public Sector Accounting Standard (PPSAS), in particular to Sections 114 and 124, [Volume 1] of the Manual and PPSAS 17 which mandates the following:",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY4",
+      "year": 2019,
+      "recommendation": "3. The Municipal Accountant should maintain PPE Ledger Card for each category of PPE. Such ledger cards should contain the details of the PPE account in the inventory control account in the general ledger;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY5",
+      "year": 2019,
+      "recommendation": "4. The General Services Officer (GSO) or the Municipal Treasurer, as the case maybe, should maintain stock cards and property cards for supplies and PPE to account for the receipt and disposition of the same;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipality should provide adequate insurance protection for its property, plant and equipment from the General Insurance Fund of the GSIS.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY9",
+      "year": 2019,
+      "recommendation": "We recommended that Management form its own Municipal Solid Waste Management Board and comply with all applicable rules and regulations of Ecological Solid Waste Management Act of 2000 to ensure protection of public health and environment.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY10",
+      "year": 2019,
+      "recommendation": "We recommended that Management strictly adhere to the mandates of COA Circular 2012-002 dated September 12, 2012, COA Circular 2014-002 dated April 15, 2014 and RA 10121 (PDRRM), specifically on accounting and reporting of LDRRMF such as the following:",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY11",
+      "year": 2019,
+      "recommendation": "9. Proper preparation of LDRRMF Plan and Budget, copy furnished the COA;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY13",
+      "year": 2019,
+      "recommendation": "11. Maintaining a separate Registry for Appropriations, Allotments and Obligations (RAAO) for LDRRMF, namely, RAAO – for QRF, RAAO – for MOOE and RAAO – for CO;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY15",
+      "year": 2019,
+      "recommendation": "13. Ensuring that all unexpended/unobligated balance of the QRF and LDRRMF-MOOE are transferred to the Special Trust Fund under the account “Trust Liability – DRRM” (Code 438) in the Trust Funds books.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY16",
+      "year": 2019,
+      "recommendation": "We recommended that Management strictly enforce the requirements prescribed under COA Circular No. 2013-004, specifically the following.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY20",
+      "year": 2019,
+      "recommendation": "We recommended that Management strictly enforce existing guidelines in the management of GAD Fund as such prescribed under PCW-NEDA-DBM JC 2012-01 and ensure that concerned personnel are properly oriented on GAD budgeting, accounting and reporting. Specifically, ensure that the Audit Team is furnished on time a copy of the:",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY21",
+      "year": 2019,
+      "recommendation": "17. GAD Plan and Budget pursuant to Paragraph V of COA Circular No. 2014-001, as well as,",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY22",
+      "year": 2019,
+      "recommendation": "18. Annual GAD Accomplishment Report to facilitate timely rendition of an audit action.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY25",
+      "year": 2019,
+      "recommendation": "We recommended that Management effect all necessary corrections, if any, and disclosures in the recording of transaction reflected as ‘Subsidies-Others’ under the General Fund in the amount of ₱47,175.00.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY26",
+      "year": 2019,
+      "recommendation": "We recommended that Management validate the 'Prior Period Errors' account of ₱(10,676,260.53), effect necessary corrections in the books, if any, and or disclose all necessary information in the financial statements.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2019-PY27",
+      "year": 2019,
+      "recommendation": "We recommended that persons responsible for the audit suspensions of disbursements in the sum of ₱1,247,051.62 be required to settle the same within the timeframe prescribed under COA Circular 2009-006.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2018-OBS1",
+      "year": 2018,
+      "recommendation": "1.9 We recommended that Management ensure that monthly Pre-closing Trial\nBalance duly supported by a SAAOB, for both current and continuing\nappropriations, be submitted for audit not later than the twentieth (20th)\nday after the end of each month.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2018-OBS2",
+      "year": 2018,
+      "recommendation": "2.10 We recommended that Management strictly enforce rendition of monthly\nreports in particular to RCD and CRAAF. As enforcement measures,\nManagement might consider employing or designating additional personnel\nfor the proper discharge of collecting and disbursing functions including\nprovision of proper training to ensure work competence.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2018-OBS3",
+      "year": 2018,
+      "recommendation": "3.11 We recommended that the Municipality should strictly enforce the\nprovisions of the New Government Accounting System (NGAS) Manual for\nLGUs and the Philippine Public Sector Accounting Standard (PPSAS), in\nparticular to Sections 114 and 124 of the Manual and PPSAS 17 which\nmandates the following:\nA. The Municipal Accountant should maintain PPE Ledger Card for each\ncategory of PPE. Such ledger cards should contain the details of the PPE\naccount in the inventory control account in the general ledger;\nB. The General Services Officer (GSO) or the Municipal Treasurer, as the\ncase maybe, should maintain stock cards and property cards for\nsupplies and PPE to account for the receipt and disposition of the same\nand, that, the balance per stock card / property cards should always\nreconcile with the ledger cards of the accounting unit and other\nproperty records like Acknowledgement Receipt for Equipment (ARE);\nand\nC. The Municipal Treasurer should cause for the conduct of physical count\nof PPE annually and the preparation of the annual Report on the\nPhysical Count of Property, Plant and Equipment (RPCPPE) which has\nto be submitted to the concerned Auditor not later than January 31 of\neach year. Ideally, an inventory committee may be created to conduct\nthe count.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2018-OBS4",
+      "year": 2018,
+      "recommendation": "4.5 We recommended that the Municipality should provide adequate insurance\nprotection for its property, plant and equipment from the General\nInsurance Fund of the GSIS.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2018-OBS5",
+      "year": 2018,
+      "recommendation": "5.4 We recommended that Management:\nA. Form its own Municipal Solid Waste Management Board; and\nB. Comply with all applicable rules and regulations of Ecological Solid\nWaste Management Act of 2000 to ensure protection of public health\nand environment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2018-OBS6",
+      "year": 2018,
+      "recommendation": "6.10 We recommended that Management strictly adhere to the mandates of\nCOA Circular 2012-002 dated September 12, 2012, COA Circular 2014-002\ndated April 15, 2014 and RA 10121 (PDRRM), specifically on accounting\nand reporting of LDRRMF such as the following:\nA. Proper preparation of LDRRMF Plan and strict adherence by it in the\nutilization of the DRRMF, copy furnished the COA;\nB. Maintaining a separate Registry for Appropriations, Allotments and\nObligations (RAAO) for LDRRMF, namely, RAAO – for QRF, RAAO\n– for MOOE and RAAO – for CO;\nC. Rendering a monthly Report on Sources and Utilization of LDRRMF,\ncopy furnished the COA; and\nD. Ensuring that all unexpended/unobligated balance of the QRF and\nLDRRMF-MOOE are transferred to the Special Trust Fund under the\naccount “Trust Liability – DRRM” (Code 438) in the Trust Funds\nbooks.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2018-OBS7",
+      "year": 2018,
+      "recommendation": "7.5 We recommended that Management enforce due compliance with the\nrequirements prescribed under COA Circular No. 2013-004, specifically the\nfollowing:\nA. At the beginning of the year, the Supervising Auditor (SA) and the\nAudit Team Leader (ATL) should be provided with a list of all- on-\ngoing government projects/programs/activities (PPAs) and those that\nare to be implemented during the year. The list shall include the\nproject name; implementing unit, office or division if is not the agency\nas a whole; brief description of the PPA; contractor or suppliers, if any;\nmode of procurement; funding source; cost or approved budget; project\nduration including start and completion dates; and location;\nB. Provide the ATL with a monthly “Project Status” based on the data of\nthe monthly monitoring report of PPAs prepared by the Municipality;\nand\nC. Inform the SA and the ATL within ten (10) days after the award of the\ninfrastructure project or before the start of the program/activity that\nthe appropriate project signboards and/or public notices.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2018-OBS8",
+      "year": 2018,
+      "recommendation": "8.10 We recommended that Management strictly enforce existing guidelines in\nthe management of GAD Fund as such prescribed under PCW-NEDA-DBM\nJC 2012-01 and ensure that concerned personnel are properly oriented on\nGAD budgeting, accounting and reporting. Specifically, Management must\nensure proper formulation of a GAD Plan and Budget, timely rendition of\nan annual GAD Accomplishment Report as well as proper recording and\nkeeping of GAD transactions. Importantly, ensure that the Audit Team is\nfurnished a copy of the GAD Plan and Budget on time pursuant to\nParagraph V of COA Circular No. 2014-001 as well as the annual GAD\nAccomplishment Report to facilitate timely rendition of an audit action.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2018-OBS9",
+      "year": 2018,
+      "recommendation": "9.12 We recommended that Municipality should fast track the reconciliation of\nrecords with the GSIS. Further, we recommended that Management\nvalidate the booking up of ₱14,696,190.00 from appropriate records or on\nthe basis of the amount as maybe bargained with the GSIS for possible\ncondoning of accrued interests.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2018-OBS10",
+      "year": 2018,
+      "recommendation": "10.5 We recommended that Management effect all necessary corrections and\ndisclosures in the recording of transaction reflected as ‘Subsidies-Others’\nunder the General Fund in the amount of ₱47,175.00.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2018-OBS11",
+      "year": 2018,
+      "recommendation": "11.5 We recommended that Management validate the “Prior Period Errors”\naccount of ₱(10,676,260.53), effect necessary corrections in the books, if any,\nand or disclose all necessary information in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2018-OBS12",
+      "year": 2018,
+      "recommendation": "12.6 We recommended that persons responsible for the audit suspensions of\ndisbursements in the sum of ₱1,247,051.62 be required to settle the same\nwithin the timeframe prescribed under COA Circular 2009-006. Further,\nwe recommended that Management revisit existing disbursement controls of\nthe Municipality and install appropriate measures designed to ensure that\nno claim would be paid unless supported by valid attachments.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommended that the LGU should strictly enforce the provisions of the New Government Accounting System (NGAS) Manual for LGUs and the Philippine Public Sector Accounting Standard (PPSAS), in particular to Sections 114 and 124 of the Manual and PPSAS 17 which mandates the following: A. the chief accountant should maintain PPE Ledger Card for each category of PPE. Such ledger cards should contain the details of the PPE account in the inventory control account in the general ledger; B. the general services officer (GSO) or the municipal treasurer, as the case maybe, should maintain stock cards and property cards for supplies and PPE to account for the receipt and disposition of the same and, that,, the balance per stock card / property cards should always reconcile with the ledger cards of the accounting unit and other property records like Acknowledgement Receipt for Equipment (ARE); C. the local chief executive should cause for the conduct of physical count of PPE annually and the preparation of the annual Report on the Physical Count of Property, Plant and Equipment (RPCPPE) which has to be submitted to the concerned Auditor not later than January 31 of each year; and D. infrastructure assets should be recognized in the books of accounts as PPE so that assets recorded in the registry of public infrastructures should then be brought back to the books to start in the year 2016.",
+      "managementAction": "For CY 2017, only item D of our 2016 recommendations was implemented.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "According to the concerned personnel, other priority projects, programs and activities of the LGU took much of their time and attention. Though, they promised to comply with the recommendation soon as possible."
+    },
+    {
+      "id": "Pagayawan_LDS-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommended that the LGU should fast track the reconciliation of records between the LGU and the GSIS. Further, the LGU should set-up a provision with appropriation equal to the probable balance of actual payables after reconciliation or, at least, disclose a contingent liability pending resolution of the un-reconciled payables to GSIS.",
+      "managementAction": "The LGU is now up-to-date in making remittances of current dues to the GSIS. However, the issue on alleged arrears to the GSIS remained at status quo as the reconciliation process as defined under the Memorandum of Undertaking (MOU) had not been completed.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipality and the GSIS had not come up yet with the MOA for settlement of the account. In addition, the LGU did not set up a provision for its contingent liability nor disclose the matter in the Financial Statements."
+    },
+    {
+      "id": "Pagayawan_LDS-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommended that top management should strictly enforce necessary reforms for fiscal reporting and accountability by: a. demonstrating leadership by example; b. training personnel to gain work competence and or hiring additional qualified personnel and or restructuring existing personnel giving the right job for the right person; and c. upholding due compliance with laws, rules and regulations on rendition of financial reports.",
+      "managementAction": "For CY 2017, the LGU was able to submit quite earlier, though still late, its monthly Reports of Collections and Deposits (RCD), Consolidated Reports of Accountability for Accountable Forms (CRAAFs) and Bank Reconciliation Statements (BRS).",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The LGU was still deficient in the rendition of other monthly reports, namely: RCD, CRAAF and BRS. It was our impression that rendition of RCD, CRAAF and BRS reports might not have been strictly enforced because the reports seemed to have less importance to the management considering that the LGU was highly dependent on the IRA. Further, both collecting and disbursing functions were being discharged by the Municipal Treasurer alone, giving her added difficulty to prepare reports."
+    },
+    {
+      "id": "Pagayawan_LDS-2018-PY4",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation requiring top management to strictly implement necessary reforms for fiscal accountability by: a) demonstrating leadership by example; b) training personnel to gain work competence and or hiring additional qualified personnel and or restructuring existing personnel giving the right job for the right person; and c) maintaining a complete set of up-to-date records, namely: a. journals; b. ledgers, c. registries, and d. cash records.",
+      "managementAction": "For CY 2017, the LGU was able to fairly comply with our recommendations Items A to C.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The books of accounts, registries and cash records were not kept updated on time. Other records such as ledger cards, property cards and RAAO for LDRRMF were still deficient."
+    },
+    {
+      "id": "Pagayawan_LDS-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommended that Management strictly enforce the mandates of the Office of the Assessor as regard the assessment of real property for the Office of the Municipal Treasurer to come up with a realistic tax valuation of real property for use as valid input in the books and serving as basis in enforcing collections of RPT and SEF receivables.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommended that Top Management strictly enforce rendition of monthly reports in particular to RCD and CRAAF.  As enforcement measures, Management might consider employing or designating additional personnel for the proper discharge of collecting and disbursing functions including provision of proper training to ensure work competence.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommended that completed projects should be taken out from the books of the Trust Fund and transferred the same to the books of the General Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recommended that the LGU should strictly enforce the provisions of the New Government Accounting System (NGAS) Manual for LGUs and the Philippine Public Sector Accounting Standard (PPSAS), in particular to Sections 114 and 124 of the Manual and PPSAS 17 which mandates the following:\n\nthe Municipal Accountant should maintain PPE Ledger Card for each category of PPE.  Such ledger cards should contain the details of the PPE account in the inventory control account in the general ledger;\nthe General Services Officer (GSO) or the Municipal Treasurer, as the case maybe, should maintain stock cards and property cards for supplies and PPE to account for the receipt and disposition of the same and, that, the balance per stock card / property cards should always reconcile with the ledger cards of the accounting unit and other property records like Acknowledgement Receipt for Equipment (ARE); and\nthe Municipal Treasurer should cause for the conduct of physical count of PPE annually and the preparation of the annual Report on the Physical Count of Property, Plant and Equipment (RPCPPE) which has to be submitted to the concerned Auditor not later than January 31 of each year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We recommended that the LGU should fast track the reconciliation of records with the GSIS.  Further, the LGU should determine and recognize its probable payables to the GSIS including the setting-up of pertinent equivalent appropriation in the budget to address eventual payment thereof.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommended that Management ensure that contracts including supporting documents are submitted for COA review within the prescribed 5-day period reckoning from the perfection of the agreements.  In addition, management must ensure that monthly reports pertinent to the contracts are made available on time for post-audit (i.e. RCI, ROD, RCD, RAAF).  Further, management must see to it that concerned auditor is notified on time on PPAs, arising from the contract, that require actual inspections.  For implementation, we set forth the following practical measures for the management to consider, namely:\n\nstrict enforcement of existing rules and regulations (i.e. COA-Circular 2009-001, Section 100 of PD 1445 and COA Circular 94-013) that could facilitate timely audit action upon perfection, execution and consummation of contracts;\naugmentation of personnel in particular to the offices of the Municipal Accountant and the Municipal Treasurer including proper segregation of functions and distribution of workloads to develop specialization on records safekeeping, reports preparation, receiving and releasing of reports / communications, etc.; and\ncontinuous orientation and supervision among concerned personnel to ensure work competency.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We recommended that Municipal Treasurer refrain from drawing additional cash advances prior to the settlement of previous advances.  We, further, recommended, that the LGU should consider employing or designating additional disbursing officers to avoid multiple cash advances being drawn by a lone accountable officer.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2017-OBS7",
+      "year": 2017,
+      "recommendation": "We recommended that Management enforce provisions under COA Circular 2013-04 including existing rules and regulations concerning inspection and acceptance of procurements by:\n\nnotifying the concerned auditor prior to the inspection and acceptance of procurements including any stage of completion of any particular project;\npreparing monthly monitoring report of PPAs verified by the COA-TAS;\nmaintaining an updated “Project Status” based on the data of the monthly monitoring report of PPAs;\nproviding the concerned SA and ATL, at the beginning of each year, with a list of all PPAs including pertinent information thereof as enumerated under COA Circular 2013-004; and\ninforming the SA and ATL, within ten (10) days after the award of the infrastructure project or before the start of the program/activity, that the appropriate signboards are already posted for the SA and ATL to validate the same.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2017-OBS8",
+      "year": 2017,
+      "recommendation": "We recommended that management strictly adhere to the mandates of COA Circular 2012-002 dated September 12, 2012, COA Circular 2014-002 dated April 15, 2014 and RA 10121 (PDRRM), specifically on accounting and reporting of LDRRMF such as the following:\n\nmaintaining a separate Registry for Appropriations, Allotments and Obligations (RAAO) is properly maintained for LDRRMF, namely, RAAO – for QRF, RAAO – for MOOE and RAAO – for CO;\nrendering a monthly Report on Sources and Utilization of LDRRMF; and\nensuring that all unexpended/unobligated balance of the QRF and LDRRMF-MOOE are transferred to the Special Trust Fund under the account “Trust Liability – DRRM” (Code 438) in the Trust Funds books.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2017-OBS9",
+      "year": 2017,
+      "recommendation": "We recommended that Management strictly enforce taxing and other-revenue-raising powers of the LGU as provided under the LGC of 1991.  Management should undertake appropriate measures including informational campaign, transparency and accountability, designed to gain public acceptance and confidence with respect to the imposition of taxes and other local levies.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2017-OBS10",
+      "year": 2017,
+      "recommendation": "We recommended that Management strictly enforce the operational mandates of the Office of the Municipal Assessor as regard the assessment of real property for the Office of the Municipal Treasurer to come up with a realistic tax valuation of real property for use as valid input in the books and serving as basis in enforcing collections of RPT and SEF receivables.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2017-OBS11",
+      "year": 2017,
+      "recommendation": "We recommended that Management strictly enforce existing guidelines in the management of GAD Fund as such prescribed under PCW-NEDA-DBM JC 2012-01 and ensure that concerned personnel are properly oriented on GAD budgeting, accounting and reporting.  Specifically, Management must ensure proper formulation of a GAD Plan and Budget, faithful rendition of an annual GAD Accomplishment Report as well as proper recording and keeping of GAD transactions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2017-OBS12",
+      "year": 2017,
+      "recommendation": "We recommended that responsible persons settle their audit suspensions in the sum of ₱2,762,089.00 as soon as possible.  Further, Management should revisit existing disbursement controls of the LGU and install appropriate measures designed to safeguard public funds from possible misuse.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2017-PY1",
+      "year": 2017,
+      "recommendation": "We recommended that the LGU should strictly enforce the provisions of the New Government Accounting System (NGAS) Manual for LGUs and the Philippine Public Sector Accounting Standard (PPSAS), in particular to Sections 114 and 124 of the Manual and PPSAS 17 which mandates the following: \n\n\nthe chief accountant should maintain PPE Ledger Card for each category of PPE.  Such ledger cards should contain the details of the PPE account in the inventory control account in the general ledger; \n\nthe general services officer (GSO) or the municipal treasurer, as the case maybe, should maintain stock cards and property cards for\n\nsupplies and PPE to account for the receipt and disposition of the same and, that,, the balance per stock card / property cards should always reconcile with the ledger cards of the accounting unit and other property records like Acknowledgement Receipt for Equipment (ARE);  \n\nthe local chief executive should cause for the conduct of physical count of PPE annually and the preparation of the annual Report on the Physical Count of Property, Plant and Equipment (RPCPPE) which has to be submitted to the concerned Auditor not later than January 31 of each year; and \n\ninfrastructure assets should be recognized in the books of accounts as PPE so that assets recorded in the registry of public infrastructures should then be brought back to the books to start in the year 2016.",
+      "managementAction": "For CY 2017, only item D of our recommendations was implemented.  Items A to C remained unimplemented.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "According to the management, other priority projects, programs and activities of the LGU hinder their desire to comply with our recommendations."
+    },
+    {
+      "id": "Pagayawan_LDS-2017-PY2",
+      "year": 2017,
+      "recommendation": "We recommended that the LGU should fast track the reconciliation of records between the LGU and the GSIS.  Further, the LGU should set-up a provision with corresponding appropriation equal to the probable balance of actual payables after reconciliation or, at least, disclose a contingent liability pending resolution of the un-reconciled payables to GSIS.",
+      "managementAction": "The LGU is now up-to-date in making remittances of current dues to the GSIS. As to the un-reconciled account per audit finding, both agencies are still in the process of implementation as regard the terms of their Memorandum of Understanding (MOU) to come up with a Memorandum of Agreement (MOA) to settle the same account.\n\nFurther, the LGU made a disclosure of the  matter in the Notes to FS.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The LGU and the GSIS had not come up yet with the MOA for the settlement of the account.  In addition, the LGU should determine whether its contingent liability with the GSIS had a probable certainty as to require recognition of a provision for contingent liability in the books."
+    },
+    {
+      "id": "Pagayawan_LDS-2017-PY3",
+      "year": 2017,
+      "recommendation": "We recommended that top management should strictly enforce necessary reforms for fiscal reporting and accountability by:\n\n\ndemonstrating leadership by example;\ntraining personnel to gain work competence and or hiring additional qualified personnel and or restructuring existing personnel giving the right job for the right person; and\nupholding due compliance with laws, rules and regulations on the rendition of financial reports.",
+      "managementAction": "For CY 2017, the LGU was able to submit nearly on time its monthly Reports of Checks Issued (RCIs) and Reports of Disbursements (RoDs) for audit except for Reports of Collections and Deposits (RCD), Consolidated Reports of Accountability for Accountable Forms (CRAAFs) and Bank Reconciliation Statements (BRSs).",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The LGU still failed to render on time other monthly reports, namely: RCD, CRAAF and BRS. \n\nIt was our impression that rendition of RCD, CRAAF and BRS might not have been strictly enforced because the reports seemed to have less importance to the management considering that the LGU was highly dependent on the Internal Revenue Allotment (IRA).  Transactions involving local and other collections were quite minimal. \n\nFurther, both collecting and disbursing functions were being discharged by the Municipal Treasurer alone, giving her adding difficulty to prepare reports."
+    },
+    {
+      "id": "Pagayawan_LDS-2017-PY4",
+      "year": 2017,
+      "recommendation": "We reiterated our recommendation requiring top management to strictly implement necessary reforms for fiscal accountability by:\n\n\ndemonstrating leadership by example;\ntraining personnel to gain work competence and or hiring additional qualified personnel and or restructuring existing personnel giving the right job for the right person; and\nmaintaining a complete set of up-to-date records, namely: \njournals;\nledgers, \nregistries, and\ncash records.",
+      "managementAction": "The LGU was able to fairly comply with our audit recommendations labelled as items A to C.   It was able to address quite remarkably our audit finding especially its books of accounts, registries and cashbooks.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Other records such as ledger cards, property cards and RAAO for LDRRMF were still deficient."
+    },
+    {
+      "id": "Pagayawan_LDS-2016-PY1",
+      "year": 2016,
+      "recommendation": "We recommended that the LGU should strictly enforce the provisions of the New Government Accounting System (NGAS) Manual for LGUs and the Philippine Public Sector Accounting Standard (PPSAS), in particular to Sections 114 and 124 of the Manual and PPSAS 17 which mandates the following: A. the chief accountant should maintain PPE Ledger Card for each category of PPE.  Such ledger cards should contain the details of the PPE account in the inventory control account in the general ledger; B. the general services officer (GSO) or the municipal treasurer, as the case maybe, should maintain stock cards and property cards for supplies and PPE to account for the receipt and disposition of the same and, that,, the balance per stock card / property cards should always reconcile with the ledger cards of the accounting unit and other property records like Acknowledgement Receipt for Equipment (ARE); C. the local chief executive should cause for the conduct of physical count of PPE annually and the preparation of the annual Report on the Physical Count of Property, Plant and Equipment (RPCPPE) which has to be submitted to the concerned Auditor not later than January 31 of each year;",
+      "managementAction": "None",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of management concern."
+    },
+    {
+      "id": "Pagayawan_LDS-2016-PY7",
+      "year": 2016,
+      "recommendation": "We recommended that management should strictly comply with the provisions of PCW-NEDA-DBM JC 2012-01 in particular to the due rendition of GAD Plan and Budget as well as GAD Accomplishment Report.",
+      "managementAction": "None",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of management concern."
+    },
+    {
+      "id": "Pagayawan_LDS-2016-OBS1",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2016-OBS2",
+      "year": 2016,
+      "recommendation": "Cause the immediate submission of the required documents within the period prescribed in COA Circular No. 2009-009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommended that the LGU should fast track the reconciliation of records between the LGU and the GSIS.  Further, the LGU should set-up a provision with corresponding appropriation equal to the probable balance of actual payables after reconciliation or, at least, disclose a contingent liability pending resolution of the un-reconciled payables to GSIS.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We recommended that top management should strictly enforce necessary reforms for fiscal reporting and accountability by: a) demonstrating leadership by example; b) training personnel to gain work competence and or hiring additional qualified personnel and or restructuring existing personnel giving the right job for the right person; and c) upholding due compliance with laws, rules and regulations on the rendition of financial reports.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommended that top management should strictly enforce necessary reforms for fiscal reporting and accountability by: a) demonstrating leadership by example; b) training personnel to gain work competence and or hiring additional qualified personnel and or restructuring existing personnel giving the right job for the right person; and c) upholding due compliance with laws, rules and regulations on the rendition of financial reports.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2016-OBS6",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2016-PY2",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Accountant should make necessary corrections in the recording of PPE by transferring to the general fund books all assets representing constructions that are fully liquidated / completed pursuant to Section 104 of the NGAS for LGUs.",
+      "managementAction": "The LGU and the GSIS had already come up with a Memorandu m of Understan ding for the reconcil iation of their respectiv e records.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagayawan_LDS-2016-PY3",
+      "year": 2016,
+      "recommendation": "We recommended that the LGU should fast track the reconciliation of records between the LGU and the GSIS.  Further, the LGU should set-up a provision with corresponding appropriation equal to the probable balance of actual payables after reconciliation or, at least, disclose a contingent liability pending resolution of the un-reconciled payables to GSIS.",
+      "managementAction": "The LGU and the GSIS had already come up with a Memorandu m of Understan ding for the reconcil iation of their respectiv e records.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The LGU and the GSIS had not come up yet with a Memorandum of Agreement (MOA) for the final settlement of the account."
+    },
+    {
+      "id": "Pagayawan_LDS-2016-PY4",
+      "year": 2016,
+      "recommendation": "We recommended that top management should strictly enforce necessary reforms for fiscal reporting and accountability by: a) demonstrating leadership by example; b) training personnel to gain work competence and or hiring additional qualified personnel and or restructuring existing personnel giving the right job for the right person; and c) upholding due compliance with laws, rules and regulations on the rendition of financial reports.",
+      "managementAction": "Periodic financial reports, i.e., disbursement reports, were being submitted quite early if compared to previous years.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Other reports, i.e. reports of collections and deposits (RCDs), bank reconciliation statements (BRSs), consolidated reports of accountability for accountable forms (CRAAFs), were being rendered late."
+    },
+    {
+      "id": "Pagayawan_LDS-2016-PY5",
+      "year": 2016,
+      "recommendation": "We recommended that top management should strictly enforce necessary reforms for fiscal reporting and accountability by: a) demonstrating leadership by example; b) training personnel to gain work competence and or hiring additional qualified personnel and or restructuring existing personnel giving the right job for the right person; and c) upholding due compliance with laws, rules and regulations on the rendition of financial reports.",
+      "managementAction": "The LGU was able to maintain a complete set of books, registries and cashbooks.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Entries to said records were not kept up-to-date on time."
+    },
+    {
+      "id": "Pagayawan_LDS-2016-PY6",
+      "year": 2016,
+      "recommendation": "We recommended that management should strictly adhere to the mandates of COA Circular 2012-002 dated September 12, 2012, COA Circular 2014-002 dated April 15, 2014 and RA 10121 (PDRRM), specifically on accounting and reporting of LDRRMF such as the following: A. a separate Registry for Appropriations, Allotments and Obligations (RAAO) is properly maintained for LDRRMF, namely, RAAO – for QRF, RAAO – for MOOE and RAAO – for CO; B. a monthly Report on Sources and Utilization of LDRRMF is duly rendered; and C. all unexpended/unobligated balance of the QRF and LDRRMF-MOOE are transferred to the Special Trust Fund under the account “Trust Liability – DRRM”.",
+      "managementAction": "The LGU was able to render “Report on Sources and Utilizati on of LDRRMF” on a quarterly basis.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Per COA guideline, the “Report on Sources and Utilization of LDRRMF” should be made on a monthly basis, not on a quarterly basis.  In addition, management failed to maintain a separate RAAO.  Moreover, the transfer of unexpended / unobligated balance of LDRRMF to the Special Trust Fund under the account “Trust Liability – DRRM” (Code 438) in the Trust Funds books was not followed, instead it was accounted for under general fund forming part of the government equity."
+    },
+    {
+      "id": "Pagayawan_LDS-2016-PY8",
+      "year": 2016,
+      "recommendation": "We recommended that management should strictly enforce the operational mandates of the Office of the Municipal Assessor in particular to the assessment of real property for the Office of the Municipal Treasurer to come up with a realistic tax valuation of real property for use as valid input in the books and serving as basis in enforcing collections of RPT and SEF receivables.",
+      "managementAction": "The LGU was able to provide depreciation for most of its PPE.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The LGU failed to provide depreciation for some of its depreciable PPE."
+    },
+    {
+      "id": "Pagayawan_LDS-2016-PY9",
+      "year": 2016,
+      "recommendation": "We recommended that the LGU should provide due depreciation for all depreciable assets.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The LGU failed to provide depreciation for some of its depreciable PPE."
+    }
+  ]
+}

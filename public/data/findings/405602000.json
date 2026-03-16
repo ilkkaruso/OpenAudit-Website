@@ -1,0 +1,830 @@
+{
+  "lguCode": "405602000",
+  "lguName": "Alabat",
+  "province": "Quezon",
+  "region": "Region III (Central Luzon)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "Alabat_Quezon_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant and the Municipal Treasurer to coordinate with the Provincial Accountant and the Provincial Treasurer to verify the discrepancies of P240,548.62 and P128,456.12 between the recorded balances of the reciprocal accounts reflected in the books of the Province and adjust the same to present the correct balances of the said accounts in the Municipality’s financial statement.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "This observation was already noted in Annual Audit Report (AAR) 2020, however, the reconciliation with the records of the Provincial Accounting Office is still on-going. Reiterated in Part II, Observation No. 3."
+    },
+    {
+      "id": "Alabat_Quezon_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the OIC-Municipal Assessor to expedite the titling of the 14 parcels of land in the name of the Municipality to avoid third party claims in the future and possible land disputes.",
+      "managementAction": "The Municipal Mayor had directed the OIC-Municipal Assessor to expedite the titling of the 14 parcels of land in the name of the Municipality to avoid third party claims and possible land disputes.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "During CY 2020, additional two Lands were purchased totaling to P375,089.00. However, the titling process of the 16 lots are still on-going as of year-end."
+    },
+    {
+      "id": "Alabat_Quezon_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Treasurer to:\n\na. Cancel the checks that has been outstanding for over six months and furnish\nthe Municipal Accountant with the original Disbursement Vouchers (DVs) and\nits supporting documents, for the preparation of the Journal Entry Voucher; and\nb. Send written notices to the payees one month before the check becomes stale\nas required in Section 59 of the MNGAS for LGUs, Volume I.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Treasurer to adopt\nremedial measures in enforcing the collection of the Due from Officers and\nEmployees and Other Receivables accounts in compliance with Section 2 of PD No.\n1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor direct the Municipal\nAccountant and the Municipal Treasurer to verify with the Provincial Accountant and\nProvincial Treasurer the discrepancies of P113,061.02 and P567,303.97 between the\nrecorded balances of the reciprocal accounts reflected in the books of the Province and\nadjust the same to present the correct balances of the said accounts in the Municipality’s\nfinancial statement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to draw\nan accounting entry to revert the account to the Unappropriated Surplus of the GF, subject\nto an authority from the Sangguniang Bayan (SB) through a Resolution with a condition\nthat appropriation will be made in the event that a claim arises in the future.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require: a. General Service Officer (GSO) - Designate to submit to the Audit Team a complete RPCPPE not later than January 31 of every year; and b. Municipal Accountant to reconcile his ledger cards with the property cards maintained by the GSO-Designate and make the necessary adjustments after reconciliation.",
+      "managementAction": "The GSO-Designate had conducted the one-time cleansing and submitted the RPCPPE together with the IIRUP to the Audit Team. The GSO-Designate had already reconciled the PELC and Property and Equipment Card.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the authorized personnel/s who are using government vehicles to strictly adhere with the provisions of COA Circular No. 77-61 pertaining to the use of Driver’s Trip Ticket to validate and monitor the use of fuel and lubricants.",
+      "managementAction": "The management prepared properly filled-out Driver’s Trip Ticket and is submitting the Monthly Report of fuel consumption to the Audit Team for validation and evaluation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor oblige insurable properties to be insured with GSIS once the titles of the lots are secured.",
+      "managementAction": "The management insured all properties to protect the Municipality for possible loss.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal Agriculturist to settle/refund the amount of P727,338.70 to avoid adverse effect in the sustainability of the project, otherwise a Notice of Disallowance will be issued to compel the accountable officer to refund the amount of the shortage.",
+      "managementAction": "The Municipal Agriculturist retired last April 2021. The shortage will be deducted on the Terminal Leave Benefits of the Municipal Agriculturist.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer and Municipal Accountant to release the RPT share of the component Barangays promptly within five days after the end of each quarter in accordance with Section 271(d) of RA No. 7160.",
+      "managementAction": "The Municipality distributed the RPT share of the component Barangays within the prescribed period.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor: a. Instruct the Municipal Accountant to immediately transfer the unexpended balances of the Due to NGAs held in TF to the General Fund (GF); and b. Request the Sangguniang Bayan (SB) to enact an Appropriation Ordinance in line with the policy guidelines under DBM-DOF-DILG JMC No. 2.",
+      "managementAction": "The Management transferred the P160,739.45 to GF.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the liquidation of the funds transfer to the Barangay. Likewise, instruct the Municipal Treasurer to demand for the 30 percent of income from the concerned barangays, as stipulated in the MOA. In case the funds were not utilized, demand for the return of the unused funds and institute proper charges in accordance with the MOA.",
+      "managementAction": "The three Barangays namely: Barangay Bacong, Caglate and Villa Esperanza submitted their full liquidation together their barangay officials. The remaining 11 Barangays were still not able to submit their Accomplishment Report as of year-end due to lack of full documents from previous concerned Barangays.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor maximize the utilization of the GAD funds through the implementation of GAD-related programs and projects in order to attain the objective for which funds were provided.",
+      "managementAction": "The Municipality utilized P2,964,524.62 or 60 percent out of P4,910,000.00 GAD Budget. GAD-related programs implementation was affected by unexpected COVID-19 health protocols.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Non-optimal utilization of GAD Budget through implementation of GAD-related programs is due to unexpected COVID-19 health protocols."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Alabat_Quezon-2020-PY1",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal Accountant to:\na. Reconcile his ledger cards with the property cards maintained by the GSO-Designate and make the necessary adjustments after reconciliation; and\nb. Provide the necessary adjusting entries in the recognition of depreciation for the aforementioned PPE accounts. (Reiterated in Audit Observation No. 1, Page No. 44)",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "There is no RPCPPE submitted to the Audit Team and no reconciliation was yet conducted."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Alabat_Quezon-2020-PY5",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal Agriculturist to settle/refund the amount of P727,338.70 to avoid adverse effect in the sustainability of the project, otherwise a Notice of Disallowance will be issued to compel the accountable officer to refund the amount of the shortage. (Reiterated in Audit Observation No. 6, Page No.50)",
+      "managementAction": "The Municipal Mayor is amenable with the audit recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Municipal Agriculturist is still in the process of reviewing and reconciling her transactions."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Alabat_Quezon-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the:\na. GSO-Designate to submit to the Audit Team a complete RPCPPE not later than\nJanuary 31 of every year; and\nb. Municipal Accountant to reconcile his ledger cards with the property cards\nmaintained by the GSO-Designate and make the necessary adjustments after\nreconciliation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Alabat_Quezon-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the authorized personnel/s who\nare using government vehicles to strictly adhere with the provisions of COA\nCircular No. 77-61 pertaining to the use of Driver’s Trip Ticket to validate and\nmonitor the use of fuel and lubricants.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Alabat_Quezon-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant and the\nMunicipal Treasurer to coordinate with the Provincial Accountant and Provincial\nTreasurer to verify the discrepancies of P240,548.62 and P128,456.12 between the\nrecorded balances of Due from and Due to LGUs accounts of the Municipality and\ntheir reciprocal accounts Due to and Due from LGUs reflected in the books of the\nProvince to present the correct balances of the said accounts in the Municipality’s\nfinancial statement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Alabat_Quezon-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the OIC-\nMunicipal Assessor to expedite the titling of the 14 parcels of land in the name of\nthe Municipality to avoid third party claims in the future and possible land disputes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Alabat_Quezon-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor oblige the General\nServices Officer-Designate to see to it that all the insurable properties of the\nMunicipality are covered with insurance with the GSIS once the titles of the lots are\nsecured.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Alabat_Quezon-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal\nAgriculturist to settle/refund the amount of P727,338.70 to avoid adverse effect in the\nsustainability of the project, otherwise a Notice of Disallowance will be issued to compel\nthe accountable officer to refund the amount of the shortage.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Alabat_Quezon-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer and\nMunicipal Accountant to release the RPT share of the component Barangays\npromptly within five days after the end of each quarter in accordance with Section\n271 (d) of RA No. 7160.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Alabat_Quezon-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the:\na. Municipal Agriculturist to prepare a detailed inventory of the biological assets account showing the prevailing market price of each item as of reporting date; and\nb. Municipal Accountant to adjust the biological assets account based on its fair value less costs to sell as of reporting date to fairly present the year-end balance of the account in the financial statements.",
+      "managementAction": "Submitted a detailed inventory of biological assets account showing the prevailing market price of each item as of reporting date; Adjustment is not necessary since ownership was transferred to the farmers.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Alabat_Quezon-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the OIC – Municipal Assessor to expedite the titling of the 14 parcels of land in the name of the Municipality to avoid third party claims in the future and possible land disputes.",
+      "managementAction": "Legal documents for the titling of the five lots were already submitted to the concerned agencies.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Titling process of the said lots is still on-going. (Reiterated in Audit Observation No. 4, Page No.48)"
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Alabat_Quezon-2020-PY4",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor oblige the General Services Officer-Designate to see to it that all the insurable properties of the Municipality are covered with insurance with the GSIS once the titles of the lots are secured.",
+      "managementAction": "The Municipal Mayor is amenable with the audit recommendation and assured the Audit Team to insure all the insurable properties with the GSIS once the title of the lots where the structures are built are already secured.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Buildings which are permanent in nature was not yet insured because the titling of the lots where the properties is located was not yet titled in the name of the Municipality."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Alabat_Quezon-2020-PY6",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor direct the Municipal Accountant to expedite the reconciliation/establishment of the detailed breakdown of amount due per Barangay. Consequently, remit the same to the concerned Barangay Treasurers in compliance to the provisions of Section 271(d) of R.A. No. 7160, to provide funds to be used in various projects/programs of the Barangays.",
+      "managementAction": "The Municipal Accountant established the detailed breakdown of the amount due per Barangay for their respective RPT Share and has remitted the same to the respective Barangays.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Alabat_Quezon-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Human Resource Management Officer (MHRMO) to ensure that an employee’s net take home pay shall not be less than the allowable take home pay of P5,000.00 as provided under Section 52 of GAA for FY 2019 by closely monitoring the loan applications of the employee.",
+      "managementAction": "The Municipal Human Resource Management Officer ensured that the net take home pay of the regular employees is not less than P5,000.00 by closely monitoring the loan applications of the employee.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Alabat_Quezon-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to prepare a separate set of financial statements for each Special Account and for each Economic Enterprise so that adequate information as to assets, liabilities, equity and results of operations can be monitored and evaluated to determine viability of the economic enterprises.",
+      "managementAction": "The Municipal Accountant prepared separate financial statements for each set of financial statements for Economic Enterprise.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Alabat_Quezon-2020-PY9",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal Treasurer to remit the unexpended balances to its Source Agencies to enable the government to utilize the excess funds for other vital projects/programs.",
+      "managementAction": "Diverted to COVID-19 programs and activities to response with the needs of their constituents.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Alabat_Quezon-2020-PY10",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Municipal Accountant to exert more efforts in requiring the liquidation of the funds transfer to the Barangay and the Municipal Treasurer to demand for the 30 percent of income of the livelihood projects from the concerned barangays, as stipulated in the MOA. In case the said funds were not utilized, demand for the return of the unused funds and institute proper charges in accordance with the MOA.",
+      "managementAction": "The Municipal Accountant explained that seven Barangays Bacong, Pambilan Norte, Pambilan Sur, Villa Esperanza, Poblacion 5, Poblacion 2 and Angeles submitted their liquidation and accomplishment report in CY 2021. He also assured the Audit Team that the remaining six Barangays will submit their liquidation and accomplishment report in CY 2021. Likewise, the Municipal Treasurer is advised to collect the 30 percent share of the Municipality derived from the income of the livelihood projects being undertaken by the Barangay as stipulated in the MOA.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Alabat_Quezon-2020-PY11",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the: a. GAD Focal Person to maximize the utilization of the GAD funds through the implementation of GAD-related programs and projects in order to attain the objective for which funds were provided; and b. Planning and Development Coordinator (PDC) to expedite the completion of CBMS and institutionalize a GAD database with adequate and systematically gathered sex-disaggregated data providing the bases for gender analysis, planning, programming and policy formulation of the Municipality with the assistance of the Municipal GAD Focal Point System.",
+      "managementAction": "The Municipal Gender and Development (MGAD) Focal Person Designate is amenable with the audit recommendation and explained that PPAs were not 100 percent accomplished or utilized due to COVID-19 and Municipal Inter-Agency Task Force (MIATF) health and safety protocols imposed. She further explained that all PPAs with appropriated budget need to be fully utilized and implemented as well as GAD database is an important mechanism in the effective implementation and gender mainstreaming in women empowerment and gender equality. But for some reasons by concerned office, completion of database was not yet done. Moreover, MGAD is conducting a regular review of GAD PPAs to ensure its proper utilization of budget allocation and 100 percent implementation of GAD plan.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Implementation of GAD-related activities were under-utilized due to COVID-19 pandemic."
+    },
+    {
+      "id": "Alabat_Quezon-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Agriculturist to immediately settle the amount of P727,338.70 to avoid loss of government funds and possible adverse effect in the sustainability of the project.",
+      "managementAction": "The Municipal Agriculturist is still reviewing her own transactions to validate the incurrence of the said shortage.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accountant continue his efforts in reconciling/establishing the detailed breakdown of amount due per Barangay from the proceeds of RPT collected in CY 2015 amounting to P21,852.24 and consequently remit the same to the concerned Barangay.",
+      "managementAction": "The Municipal Mayor is amenable with the audit recommendation and assured the audit team that the Municipal Accountant and Municipal Treasurer will comply and implement the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Municipal Accountant still locating the documents pertaining to RPT shares and reconciliation of the accounts were not yet started."
+    },
+    {
+      "id": "Alabat_Quezon-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require Municipal\nAccountant to:\n\na. Reconcile his ledger cards with the property cards maintained by the GSO-\nDesignate and make the necessary adjustments after reconciliation; and\n\nb. Provide the necessary adjusting entries in the recognition of depreciation for\nthe aforementioned PPE accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the:\n\na. Municipal Agriculturist to prepare a detailed inventory of the biological assets\naccount showing the prevailing market price of each item as of reporting date;\nand\n\nb. Municipal Accountant to adjust the biological assets account based on its fair\nvalue less costs to sell as of reporting date to fairly present the year-end balance\nof the account in the financial statement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the OIC – Municipal Assessor\nto expedite the titling of the 14 parcels of land in the name of the Municipality to\navoid third party claims in the future and possible land disputes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor oblige the GSO-\nDesignate to see to it that all the insurable properties of the Municipality are covered\nwith insurance with the GSIS once the titles of the lots are secured.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Agriculturist to\nsettle/refund the amount of P727,338.70 to avoid adverse effect in the sustainability\nof the project.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor direct the Municipal\nAccountant to expedite the reconciliation/establishment of the detailed breakdown\nof amount due per Barangay. Consequently, remit the same to the concerned\nBarangay Treasurers in compliance with the provisions of Section 271(d) of R.A.\nNo. 7160, to provide funds to be used in various projects/programs of the\nBarangays.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Human Resource\nManagement Officer (MHRMO) to ensure that an employee’s net take home pay shall\nnot be less than the allowable take home pay of P5,000.00 as provided under Section\n52 of GAA for FY 2019 by closely monitoring the loan applications of the employee.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2019-OBS8",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to\nprepare a separate set of financial statements for each economic enterprise so that\nadequate information as to assets, liabilities, equity and results of operations can\nbe monitored and evaluated to determine viability of the economic enterprises.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the:\na. General Services Officer (GSO)-Designate to submit to the Audit Team a complete RPCPPE conducted per type of PPE not later than January 31 of every year; and\nb. Municipal Accountant to reconcile his ledger cards with the property cards maintained by the GSO-Designate and make the necessary adjustments after reconciliation; and\nc. Municipal Accountant to provide the necessary adjusting entries in the recognition of depreciation for the aforementioned PPE accounts.",
+      "managementAction": "The Municipality submitted to the Audit Team a complete RPCPPE.\nThe reconciliation of the PPE ledger cards with the property cards are still on-going as of year-ends.\nThe Municipal Accountant already adjusted/ Power Supply Systems and Office Equipment in the book of accounts under SEF. (Reiterated in Audit Observation No. 1, Page No. 43)",
+      "status": "IMPLEMENTED",
+      "reason": "There is no depreciation for Power Supply Systems and Office Equipment in the book of accounts under SEF."
+    },
+    {
+      "id": "Alabat_Quezon-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor ensure that all cash advances for confidential fund are liquidated at year-end. We also recommended to require the Municipal Accountant to use the Advances to Special Disbursing Officer account in recording the cash advance granted for confidential fund.",
+      "managementAction": "The OMA submitted the monitoring report regarding the status of Cacao Project implementation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended the Municipal Mayor to oblige the General Services Officer-Designate to see to it that all the insurable properties of the Municipality are covered with insurance with the GSIS once the titles of the lots are secured.",
+      "managementAction": "The Municipal Mayor is amenable with the audit recommendation and stated that the 12 parcels of land which were acquired before CY 2017 were requested to Land Registration Authority (LRA) in July 2018 for the issuance of certification of no pending land registration case. From August to October 2018, follow-ups were made. Nine of which had already been issued with such certification. Two parcels of lot (lot 8 and 13) were requested by LRA to Department of Environment and Natural Resources (DENR) Land Management Services, Region IV-A CALABARZON for complete technical description and discrepancy be verified/corrected. Lot No. 611 will be verified in Land Management Bureau (LMB) - Mines and Geosciences Bureau (MGB), Quezon City because according to DENR Los Baños, they do not have copy of technical description. The Local Chief Executive (LCE) was already given authority to represent in the application for titling though SB Resolution approved on November 2019. Required supporting documents for titling of nine parcels of land are now ready for submission to the DENR.\nMoreover, two parcels of land acquired in CY 2017 were already given Certificate Authorizing Registration by Bureau of Internal Revenue (BIR) Gumaca, Quezon in July 2019. One is already transferred in July 2020 to Municipal Government of Alabat in the tax declaration while the other one is for annotation in the original title of seller because its subdivision plan is still for approval.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Buildings cannot be insured until the lots where the buildings are situated have been titled in the name of the Municipality."
+    },
+    {
+      "id": "Alabat_Quezon-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor to continue her efforts in securing all requirements/documents needed for the titling of the lots in the name of the Municipality to avoid third party claims in the future and possible land disputes.",
+      "managementAction": "Proper representation was made with all concerned government agencies regarding the titling of the said lots.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The titling process of the said lots is still on-going."
+    },
+    {
+      "id": "Alabat_Quezon-2019-PY6",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal Agriculturist to submit to the Audit Team and to the Municipal Accountant the monitoring report regarding the recipients’ compliance to the MOA of the Cacao Planting Project to determine the existence and condition of the cacao seedlings/trees and evaluate the project’s effectiveness and sustainability and to effect any adjustments in the books of accounts.",
+      "managementAction": "The OMA submitted the monitoring report regarding the status of Cacao Project implementation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Treasurer to remit the unexpended balances to its Source Agencies to enable the government to utilize the excess funds for other vital projects/programs.",
+      "managementAction": "The Municipal Mayor is amenable with the audit recommendation and explained that as per their record the amount of P7,932.96 and P592.00 were already remitted to the source agencies in CY 2020. Moreover, the amount of P40,952.00 and P116,214.45 are balances attributed to savings in the bidding process, which upon coordination with the source agency - Department of Agriculture, authorized the Municipality to utilize said balance for whatever related projects/activities the Municipality may deemed proper. Likewise, the amount of P165,439.75. for the implementation of the Community Fish Landing Project funded by BFAR is also a savings from bidding process and project implementation. Upon proper coordination with the Source Agency, the Municipality was authorized to utilize the same for whatever related project that the Municipality may conceptualize.\nRegarding the amount of P2,140.00 and P9,005.90, respectively, these will be remitted to the funding agency soonest.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipal Treasurer remitted the amounts of P248,750.00, and P18,764.93 to its respective source agencies. Moreover, some balances are savings from bidding process and were authorized by the source agencies to be utilized for related projects; other small amounts will be remitted soonest."
+    },
+    {
+      "id": "Alabat_Quezon-2019-PY9",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Municipal Accountant to exert more efforts in requiring the liquidation of the funds transfer to the Barangay and the Municipal Treasurer to demand for the 30 percent of income of the livelihood projects from the concerned barangays, as stipulated in the MOA. In case the said funds were not utilized, demand for the return of the unused funds and institute proper charges as stipulated in the MOA.",
+      "managementAction": "The Municipal Mayor is amenable with the audit recommendation and directed the Municipal Accountant to demand the liquidation of the said fund transfers from the respective Barangay. Likewise, the Municipal Treasurer is advised to collect the 30 percent share of the Municipality derived from the income of the livelihood projects being undertaken by the Barangay as stipulated in the MOA.\nAccordingly, the Municipal Accountant is also advised to determine any expenses incurred by the Barangays pertaining to the implementation of the project as specified in the MOA to have a proper accounting and liquidation of the said fund transfer.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2019-PY10",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Planning and Development Coordinator (MPDC) to expedite the completion of CBMS and institutionalize a GAD Database with adequate and systematically gathered sex-disaggregated data providing the bases for gender analysis, planning, programming and policy formulation of the Municipality with the assistance of the Municipal GAD Focal Point System.",
+      "managementAction": "The MPDC were able to established a comprehensive CBMS which is the source of the information in the GAD database.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The CMBS is only 80 percent completed as to its data."
+    },
+    {
+      "id": "Alabat_Quezon-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor:\na). direct the Municipal Agriculturist to immediately settle the amount of P732,927.20; and\nb). instruct the Municipal Accountant to establish measures that will address the following internal control issues:\n• proper segregation of duties of personnel involved in the purchase and sale of coco sugar and the entire coco sugar operation;\n• frequency of inventory count that will determine completeness and existence in a timely manner; and\n• safeguarding of coco sugar inventory against theft/pilferage.",
+      "managementAction": "The Municipal Agriculturist is still reviewing her own records of the transactions to validate the incurrence of the said shortage.\nThe Municipal Accountant was able to establish measures which addressed the said internal control issues.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Municipal Agriculturist is still reviewing her own records of the transactions to validate the incurrence of the said shortage.\n(Reiterated in Audit Observation No. 5, Page No. 48)\nThe Municipal Accountant was able to establish measures which addressed the said internal control issues. Due to this, there was no additional shortage in CY 2018 and the balance was reduced to P727,338.70."
+    },
+    {
+      "id": "Alabat_Quezon-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the OMA to submit to the Audit Team the monitoring report regarding the recipients’ compliance to the MOA of the Cacao Planting Project to determine the existence and condition of the cacao seedlings/trees and evaluate the project’s effectiveness and sustainability and to effect any adjustments in the books of accounts.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The preparation of the said report was still in process as of year-end of 2018.\n(Reiterated in Audit Observation No. 6, Page No. 49)"
+    },
+    {
+      "id": "Alabat_Quezon-2018-PY12",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor direct the Municipal Accountant to reconcile/establish the detailed breakdown of amount due per Barangay. Consequently, remit the same to the concerned Barangay Treasurers in compliance with the provisions of Section 271(d) of R.A. No. 7160, to provide for the immediate use of the funds in various projects/programs of the Barangays.",
+      "managementAction": "The Municipal Accountant was still not able to reconcile/establish the detailed breakdown of the amount due per Barangay despite his efforts in locating its supporting documents. Nonetheless, he committed to establish breakdown and remit in CY 2019.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Municipal was still not able to reconcile/establish the detailed breakdown of the amount due per Barangay despite his efforts in locating its supporting documents. Nonetheless, he committed to establish breakdown and remit the same to the concerned Barangays in CY 2019.\n(Reiterated in Audit Observation No. 7, Page No. 50)"
+    },
+    {
+      "id": "Alabat_Quezon-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the:\na. GSO-Designate to submit to the Audit Team a complete RPCPPE conducted per\ntype of PPE not later than January 31 of every year;\nb. Municipal Accountant to reconcile his ledger cards with the property cards\nmaintained by the GSO-Designate and make the necessary adjustments after\nreconciliation; and\nc. Municipal Accountant to provide the necessary adjusting entries in the\nrecognition of depreciation for the aforementioned PPE accounts and in the\nreclassification of the rescue vehicle to Disaster Response and Rescue\nEquipment account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor ensure that all cash advances for\nconfidential fund are liquidated at year-end. We also recommended to require the\nMunicipal Accountant to use the Advances to Special Disbursing Officer account in\nrecording the cash advances granted for confidential fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended the Municipal Mayor to oblige the General Services Officer-\nDesignate to see to it that all the insurable properties of the Municipality are covered\nwith insurance with the GSIS once the titles of the lots are secured.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Assessor to\ncontinue her efforts in securing all requirements/documents needed for the titling\nof the said lots in the name of the Municipality to avoid third party claims in the\nfuture and possible land disputes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Agriculturist to\nimmediately settle the amount of P727,338.70 to avoid loss of government funds\nand possible adverse effect in the sustainability of the project.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Municipal\nAgriculturist to submit to the Audit Team and to the Municipal Accountant the\nmonitoring report regarding the recipients’ compliance to the MOA of the Cacao\nPlanting Project to determine the existence and condition of the cacao\nseedlings/trees and evaluate the project’s effectiveness and sustainability and to\neffect any adjustments in the books of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2018-OBS7",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to\ncontinue his efforts in reconciling/establishing the detailed breakdown of amount\ndue per Barangay. Consequently, remit the same to the concerned Barangay\nTreasurers in compliance with the provisions of Section 271(d) of RA No. 7160, to\nprovide for the immediate use of the funds in various projects/programs of the\nBarangays.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2018-PY1",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the GSO-Designate to submit to the Audit Team the RPCPPE and to reconcile the same with the PPELC. Furthermore, observe the provisions of Section 124 of the MNGAS for LGUs, Volume I on the prescribed timeline in the submission of RPCPPE to allow the necessary verification and reconciliation.",
+      "managementAction": "The RPCPPE was submitted to the Audit Team on time.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The RPCPPE submitted was found to be incomplete upon verification of the said Report. Furthermore, the property cards and the PPELC were not reconciled.\n(Reiterated in Audit Observation No. 1, Page No. 44)"
+    },
+    {
+      "id": "Alabat_Quezon-2018-PY2",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Municipal Treasurer to submit to the Municipal Accountant the certified list of taxpayers showing the amounts due and collectible for the year to establish the correct balances of the accounts.",
+      "managementAction": "The Municipal Accountant was able to establish the RPT and SET receivables derived from the certified list of taxpayers submitted by the Municipal Treasurer.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to prepare the necessary adjusting entries to record the purchase of the rescue vehicle for fair presentation in the financial statements.",
+      "managementAction": "The Municipal Accountant was able to prepare the adjusting entries to record the purchase of the rescue vehicle.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The rescue vehicle was recorded in the Motor Vehicles account instead in the Disaster Response and Rescue Equipment account.\n(Reiterated in Audit Observation No. 1, Page No. 44)"
+    },
+    {
+      "id": "Alabat_Quezon-2018-PY4",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to reconcile accounts and remit whatever balance due to the said agencies to provide the government the immediate use of the funds for its priority projects and enable the member beneficiaries of the Municipality to avail of the benefits from the said agency.",
+      "managementAction": "The Municipal Accountant was able to reconcile/remit the said balances.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2018-PY5",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor oblige the GSO-Designate to see to it that all the insurable properties of the Municipality are covered with insurance with the GSIS.",
+      "managementAction": "The Municipality was able to secure the insurance for its motor vehicles.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Buildings cannot be insured until the lots where these are situated are titled in the name of the Municipality.\n(Reiterated in Audit Observation No. 3, Page No. 47)"
+    },
+    {
+      "id": "Alabat_Quezon-2018-PY6",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Officer-in-Charge-Municipal Assessor to make the necessary representation with all concerned government agencies and to continue exerting efforts in securing all requirements/documents needed for the titling of the said lots in the name of the Municipality to avoid third party claims in the future and possible land disputes.",
+      "managementAction": "Representation was made with all concerned government agencies regarding the titling of the said lots.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The titling process of the said lots is still on-going.\n(Reiterated in Audit Observation No. 4, Page No. 47)"
+    },
+    {
+      "id": "Alabat_Quezon-2018-PY9",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to require the liquidation of the said funds and the Municipal Treasurer to demand for the 30 percent of income of the livelihood projects from the concerned barangays, as stipulated in the MOA. In case the said funds were not utilized, demand for the return of the unused funds.",
+      "managementAction": "Three Barangays were able to fully liquidate/return the said funds totaling P75,000.00 while another three were able to partially liquidate the fund granted totaling P5,792.00.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Despite the communication made by the Municipal Accountant, other Barangays were still not able to submit the Accomplishment Report and to remit the 30 percent share of the Municipality.\n(Reiterated in Audit Observation No. 9, Page No. 52)"
+    },
+    {
+      "id": "Alabat_Quezon-2018-PY10",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Treasurer to remit the unexpended balances to its respective source agencies.",
+      "managementAction": "Of the mentioned balance, P227,968.00 was adjusted/remitted. Additional balances of completed and discontinued projects totaling P308,466.93 remain unremitted.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "A total of P12,066.90 remain unremitted.\n(Reiterated in Audit Observation No. 8, Page No. 51)"
+    },
+    {
+      "id": "Alabat_Quezon-2018-PY11",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Treasurer to immediately liquidate the said cash advance. Furthermore, instruct the Municipal Treasurer to ensure that all cash advances are liquidated within the prescribed period to avoid withholding of his salary.",
+      "managementAction": "The said cash advance was liquidated in January 2019.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipality was still not able to ensure that all cash advances are liquidated at year-end due to non-liquidation of the cash advance for confidential fund amounting to P25,000.00.\n(Reiterated in Audit Observation No. 2, Page No. 46)"
+    },
+    {
+      "id": "Alabat_Quezon-2018-PY13",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the LDRRMO-Designate to submit to the Audit Team the monthly Report on Sources and Utilization of DRRMF on the prescribed period.",
+      "managementAction": "The LDRRMO-Designate already submitted the monthly Report on Sources and Utilization of DRRMF to the Audit Team.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2016-PY1",
+      "year": 2016,
+      "recommendation": "We recommended the Municipal Mayor to:\n\ninstruct the Inventory Committee to submit to the Auditor the signed copy of the RPCPPE, both for the GF and SEF.\n\n\n\n\nrequire the Municipal Accountant and GSO Designate to complete the ledger cards and property cards for all types of properties and reconcile the same to establish the correct PPE balances. Investigate and adjust accordingly any discrepancy that may be noted.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "In CY 2016, the submission of the Inventory Report was not prioritized due to the busy schedule of the GSO-Designate and necessity to form an Inventory Committee to conduct the physical count of all properties. (Please see Observation No. 1, page 32, Part II of this Report.)\n\nLikewise, preparation of complete ledger cards and property cards was also not prioritized due to the busy schedule of the GSO-Designate and Municipal Accountant."
+    },
+    {
+      "id": "Alabat_Quezon-2016-PY2",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require the GSO Designate and the Municipal Assessor to make necessary follow-ups/actions to hasten the titling of these parcels of land in the name of the Municipality to protect said property from possible third party claims in the future.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The OIC-Municipal Assessor still needs to confer with DENR regarding the documents/requirements needed for the transfer of title. (Please see Observation No. 8, page 40, Part II of this Report.)"
+    },
+    {
+      "id": "Alabat_Quezon-2016-PY3",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require all collectors/accountable officers to remit all collections daily to the LTOO I and prepare the corresponding RCDs in compliance with regulations to avoid possible loss/misuse.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Turn-over of collections by Collectors were not strictly required by the LTOO I in CY 2016. (Reiterated in Observation No.  6, page 38, Part II of this Report.)"
+    },
+    {
+      "id": "Alabat_Quezon-2016-PY4",
+      "year": 2016,
+      "recommendation": "We recommended the Municipal Mayor to:\n\nrequire the collector/s to properly accomplish the RCDs particularly the Portion C and D of the report and sign/certify the report; and\n\n\noblige the LTOO I to verify the RCDs and all accountable forms issued to the collector/s for proper control and monitoring of collections and deposits.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Collectors were not strictly required to properly accomplish/ sign the RCDs in CY 2016 by the LTOO I. (Reiterated in Observation No 7, page 39, Part II of this Report.)\n\nVerification of the RCDs, monitoring of collections and deposits and all issued accountable forms to collectors were not prioritized in CY 2016 by the LTOO I due to other duties/functions. (Reiterated in Observation No 7, page 39, Part II of this Report.)"
+    },
+    {
+      "id": "Alabat_Quezon-2016-PY8",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of proper internal control in the coco sugar operation resulted in the incurrence of shortage in remittance of collections by the Municipal Agriculturist from P140,218.75 as of December 31, 2015 to P465,832.50 as of December 31, 2016. (Please see Observation No. 9, page 40, Part II of this Report.)"
+    },
+    {
+      "id": "Alabat_Quezon-2016-PY9",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor direct the Bids and Awards Committee (BAC) Chairman or Secretariat to submit copies of perfected contracts and POs together with the supporting documents within five working days from issuance thereof to facilitate the conduct of auditorial and technical review, in accordance with COA Circular No. 2009-001.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "As an island Municipality, there is a difficulty on the part of the BAC Chairman or Secretariat to submit copies of perfected contracts within five working days due to distance and also if there is a bad weather condition. (Reiterated in Observation No. 16, page 47, Part II of this Report.)"
+    },
+    {
+      "id": "Alabat_Quezon-2016-PY10",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor direct the LDRRMO to submit the monthly Report on Sources and Utilization of DRRMF (duly certified by the Municipal Accountant) to the Auditor to facilitate the timely audit on whether the utilization of the fund is in accordance with COA Memorandum No. 2014-009.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The newly-appointed MDRRMO thought that the report being required for submission is the quarterly report posted in the Full Disclosure Board of the Municipality, hence the Monthly Report of Utilization of DRRMF was not prepared and submitted to the Audit Team.  (Reiterated in Observation No. 15, page 46, Part II of this Report.)"
+    },
+    {
+      "id": "Alabat_Quezon-2016-PY12",
+      "year": 2016,
+      "recommendation": "We recommended the Municipal Mayor to:\n\ninstruct the Bids and Awards Committee to submit an explanation on why the projects were awarded to the winning bidders despite the submission of tax clearances that can be considered spurious and why the said transactions should not be disallowed in audit;\n\nrequire the Bids and Awards Committee to verify all documents submitted by bidders and ensure that they are eligible, prior to award of the projects/contracts.",
+      "managementAction": "Upon receipt of the Audit Observation Memorandum, the BAC is already verifying all documents submitted by the bidders prior to award of the projects/contracts.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No written explanation was received by the Audit Team. The said transactions were disallowed in audit."
+    },
+    {
+      "id": "Alabat_Quezon-2016-PY16",
+      "year": 2016,
+      "recommendation": "We recommended the Municipal Mayor to require the Municipal Budget Officer to appropriate at least five percent of the total appropriation of the Municipality for Gender and Development.",
+      "managementAction": "Compliance of the Municipality in the required appropriation for GAD projects and activities is promised in CY 2017.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "In CY 2016, the Municipality was not able to comply with the required appropriation for GAD as the Annul Budget for CY 2016 was already approved prior to the receipt of the Audit Observation Memorandum. (Reiterated in Observation No. 17, page 48, Part II of this Report.)"
+    },
+    {
+      "id": "Alabat_Quezon-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require the GSO-Designate to submit the RPCPPE and reconcile the property cards balances with the PPELC of the Accounting Office. Observe the provisions of Section 124 of the MNGAS, Volume I on the prescribed timeline in the submission of RPCPPE to allow the necessary verification and reconciliation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer to submit to the Municipal Accountant the certified list of taxpayers showing the amounts due and collectible for the year to establish the correct balances of the accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to confirm with account owners/creditors and to request them to submit documents pertaining to their claims to the Municipality. In the event that they fail to support their claims, revert the account to the Unappropriated Surplus of the GF, subject to an authority from the Sangguniang Bayan (SB) through a Resolution with a condition that appropriation shall be made in the event that claim arises in the future, pursuant to the provisions of Section 98 of P.D. No. 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to reconcile the Due to BIR account, coordinate with the BIR in securing TINs for their employees and remit whatever balance due to the BIR to avoid incurrence of penalties and surcharges and to provide the government of funds for various programs and projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to submit the disbursement vouchers and its supporting documents for cash advances relative to IF within the prescribed period to enable the Audit Team to conduct post-audit. Further, we recommended to liquidate all cash advances for IF at year-end, in compliance with COA-DBM-DILG-GCG-DND Joint Circular No. 2015-01.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require all collectors/accountable officers to remit all collections daily to the LTOO I and prepare the corresponding RCDs in compliance with regulations to avoid possible loss/misuse and understatement of recorded collections for the period.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor:\na) require the collector/s to properly accomplish and sign/certify the RCDs particularly Portion C and D of the report; and\nb) instruct the LTOO I to verify and sign the RCDs and all accountable forms issued to the collector/s for proper control and monitoring of collections and deposits.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the OIC - Municipal Assessor to make the necessary representation with DENR and other offices concerned and to continue exerting efforts in securing all requirements/documents needed for the titling of the said lots in the name of the Municipality to avoid third party claims in the future and possible land disputes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2016-OBS9",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor:\na) direct the Municipal Agriculturist to immediately settle the amount of P465,832.50;\nb) henceforth, issue Official Receipts in all sales of coco sugar and remit daily the collections to the MTO; and\nc) instruct the Municipal Accountant to establish control procedures to ensure that the coco sugar operation is properly monitored, functions are segregated, and funds are not mixed-up to avoid loss/misuse of government funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2016-OBS10",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to demand the submission of the Accomplishment Reports and remittance of 30% of income of the livelihood projects from the concerned Barangays. We also recommended that the Municipal Mayor demand the return of unused funds, should there be any unimplemented project, pursuant to the MOA.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2016-OBS11",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor and the Municipal Treasurer see to it that all the insurable properties of the Municipality are covered with insurance with GSIS in compliance with the provisions of COA Circular No. 92-390 and RA No. 656.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2016-OBS12",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor instruct the GSO or the designated official to work for the conversion of the open dumpsite to controlled dumps and its safe closure pursuant to R.A. No. 9003 to achieve the goals, objectives and intent of the said Act.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2016-OBS13",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to reconcile/establish the detailed breakdown of amount due per Barangay. Consequently, remit the same to the concerned Barangay Treasurers in compliance with the provisions of Section 271(d) of R.A. No. 7160, to provide for the immediate use of the funds in various projects/programs of the Barangays.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2016-OBS14",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer to strictly comply with the requirements stated under COA Circular No. 92-389 to prevent the possible re-use of those documents for other claims of same nature as part of a sound internal control system in the disbursement of funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2016-OBS15",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the MDRRMO to submit to the Audit Team the Monthly Report on the Sources and Utilization of DRRMF on or before the 15th day after the end of each month through the LDRRMC and the LDC in compliance with Item 5.1.5 of COA Circular 2012-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2016-OBS16",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor direct the Bids and Awards Committee (BAC) Chairman or Secretariat to submit copies of perfected contracts and POs together with the supporting documents within five working days from issuance thereof to facilitate the conduct of auditorial and technical review, in accordance with COA Circular No. 2009-001.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2016-PY5",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require the LTOO I to strictly adhere with the regulations and deposit all municipal collections promptly and intact in order to protect municipal funds against risk of loss and possible misuse.",
+      "managementAction": "As much as possible, deposit of collections were made intact on a weekly basis by the LTOO I.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "As an island Municipality, it would be impractical for the LTOO I to deposit collections strictly on a daily basis. The travel period from the Municipality to the depository bank and vice versa usually consumes almost one to two working days. Doing so, would mean that the LTOO I would have to sacrifice all her other duties and functions in the Municipality and would also entail a lot of travelling costs for the Municipality.\n\nNevertheless, the LTOO I sees to it that all collections from the previous week are deposited intact the following week."
+    },
+    {
+      "id": "Alabat_Quezon-2016-PY6",
+      "year": 2016,
+      "recommendation": "We recommended the Municipal Mayor to instruct the concerned employees to comply with COA Circular No. 97-002 to settle/liquidate all cash advances at the end of each year.",
+      "managementAction": "Cash Advances were already liquidated as of year-end, except for the intelligence fund of P20,000.00.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Intelligence Fund of P20,000.00 remain unliquidated as of December 31, 2016 as the Municipal Accountant was not aware that the same should be liquidated at year-end. (Please see Observation No. 5, page 37, Part II of this Report.)"
+    },
+    {
+      "id": "Alabat_Quezon-2016-PY7",
+      "year": 2016,
+      "recommendation": "We recommended the Municipal Mayor to:\n\ninstruct the Municipal Accountant to establish the correctness of the said short remittance and reclassify the recorded Advances for Operating Expenses of P140,218.75 to Due from Officers and Employees;\n\nrequire the Municipal Agriculturist to immediately settle the said shortage.",
+      "managementAction": "Reclassification/ Adjustment was already made by the Municipal Accountant.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2016-PY11",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to remit the barangay share from RPT and CTC within the prescribed period in compliance with the provisions of Section 271(d) of R.A. No. 7160, in order to provide for the immediate use of the funds for various projects/programs of the Barangays.",
+      "managementAction": "Barangays shares were already remitted by the Municipal Accountant within the prescribed period except for those amounts without details/breakdown.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Barangay shares from the proceeds of real property tax (RPT) amounting to P57,563.28 were not remitted within the prescribed period to the concerned Barangay Treasurers because of the absence of detailed breakdown of amounts due per barangay. (Please see Observation No. 13, page 45, Part II of this Report.)"
+    },
+    {
+      "id": "Alabat_Quezon-2016-PY13",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor instruct the: \n\nBids and Awards Committee and Municipal Accountant to ensure that all purchases of drugs and medicines are supported with the required certification by the requisitioning officer or by the duly authorized officer to have that assurance, that at the time of the purchase request, the drugs and medicines were included in the latest PNF Manual as mandated by DOH Administrative Order No. 2012-0023.\n\nMunicipal Health Officer/Requisitioning Officer to submit to the Auditor the required certification, for evaluation.",
+      "managementAction": "The Certification is already being required as part of the supporting documents in the purchase of medicines.\n\n\n\n\nThe Certification was already submitted to the Audit Team.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2016-PY14",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor submit the:\n\nlist of all on-going government PPAs and those that are to be implemented during the year, as of January 1, 2015; and\n\nmonthly monitoring report in compliance with the above cited regulations.",
+      "managementAction": "The list of PPAs was already submitted to the Audit Team.\n\n\n\nThe report was already submitted.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Alabat_Quezon-2016-PY15",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor provide the Municipal Treasurer with safe for safekeeping of cash, accountable forms and other records of the Municipality in accordance with Section 52 of GAAM, Volume III.",
+      "managementAction": "The LTOO I, who is in-charge of the collection and deposit functions, has her own vault for safekeeping of collections and accountable forms.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    }
+  ]
+}

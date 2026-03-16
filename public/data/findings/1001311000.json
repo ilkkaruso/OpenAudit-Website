@@ -1,0 +1,1790 @@
+{
+  "lguCode": "1001311000",
+  "lguName": "Libona",
+  "province": "Bukidnon",
+  "region": "Region IX (Zamboanga Peninsula)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-PY5",
+      "year": 2024,
+      "recommendation": "We recommended to the Management to exert full efforts to collect the dormant receivables and provide comprehensive details on OtherReceivables account. Then,despitefulleffortshadbeenmadetoenforcecollectionofthosedormantaccountsthemanagementmayrequesttowrite-off theaccount,asprovidedinCOACircularno.2016-005.",
+      "managementAction": "Have made representation to SB to help identify existing/accredited NGOs/POs. Copy of the letter to be submitted to SB and MAO",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-PY13",
+      "year": 2024,
+      "recommendation": "We recommended to the management to submit valid justification of the given undue Other Bonuses and Allowances or “PRAISE incentives”,otherwise,submitanORtoCOAfortherefundofthesaidundue incentives. Then, the Management shall only give monetary awards to the employees or officials that contributed suggestions, inventions, superior accomplishments, and other personal efforts results in monetary savings.",
+      "managementAction": "The LGU has submitted justification dated May 28, 2024 to COA and is waiting for the reply of the CSC as mentioned in the Auditor's rejoinder.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-PY15",
+      "year": 2024,
+      "recommendation": "We recommended to the management to require the MBO to submit a written valid justification of whyitpreparedthePurchaseRequestinsteadof the MHO, duly conformed by the latter, otherwise, the total transaction of P198,940.00 shall be issued with appropriate notice.\n \nMeantime, require the MBO to submit a validjustificationforprovidinganABCofP2,200.00 per unit for a mere thermometer based on its purchase request without providing technical specifications, otherwise, refund the equivalent price difference between the awarded cost and the reasonablepricemarketmultipliedbythe49units of thermometer.",
+      "managementAction": "Partially refunded",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-PY17",
+      "year": 2024,
+      "recommendation": "We recommended the Management to require the Municipal Accountant and other responsible employees to comply with the prescribed period of submission of the reports and documents to the office of the Auditor. Enforce the provision under Section 122 of PD 1445.",
+      "managementAction": "The Financial Statements, Bank Recon Statements are now submitted on time, except the DVs on cash and check disbursements due to lacking DVs from MT.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-OBS1",
+      "year": 2024,
+      "recommendation": "We recommended to the Municipal Mayor to address the issues brought herein and to:\n\nExistence of unreconciled balance between General Services Office and the Municipal Accounting Office\n\na) Direct the GSO and the Accounting Unit to identify the details of the variance through the List of PPEs Found at Station (Annex B of the Circular) and List of Non-Existing/Missing PPEs (Annex C of the Circular) prepared after the physical inventory to establish the existence and proper accountability of the PPE accounts as part of the one-time cleansing;\n\nb) Direct the GSO and Accounting Unit to reconcile all records and reports pertaining to PPE after the one-time cleansing and establish the correct balances of the PPE account to be recorded in the books of accounts; and\n\nc) Direct the same to review all documents and reports before submission to the Office of the Audit Team to ensure that the details presented thereon are accurate and complete.\n\nErroneous and unreliable computation of Accumulated Depreciation\n\na) Require the Municipal Accountant to further evaluate the cause of the under provision of accumulated depreciation (Annex B). Thereafter, if proven to have been erroneously computed, prepare appropriate adjusting entry taking into consideration the proper treatment of prior period adjustments.\n\nb) Henceforth, ensure uniform and proper application of depreciation for all the PPE, follow pertinent guidelines in the recognition of asset, and prepare PPE Lapsing Schedule for monitoring purposes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-OBS2",
+      "year": 2024,
+      "recommendation": "We recommended to the management to:\n\na) Direct the GSO and the Accounting Unit to conduct regular reconciliation of semi-expendable properties and establish the correct balances of the Inventory and Expense account to be recorded in the books of accounts at year-end through proper adjusting entry taking into consideration the proper treatment of prior period adjustments.\n\nb) Establish controls and accountability for semi-expendable properties such as maintenance of Semi-Expendable Property Card (SPC), Semi-Expendable Property Ledger Card (SPLC), Registry of Semi-Expendable Property Issued (RegSPI) and other prescribed forms under COA Circular No. 2022-004 dated May 31, 2022 as maybe applicable such as Inventory Transfer Report (ITR), Receipt of Returned Semi-Expendable Property (RRSP), and Report of Semi-Expendable Property Issued (RSPI); and\n\nc) Assign accountable personnel/office for inventory management to ensure ongoing compliance, accurate tracking, and proper valuation of semi-expendable properties in subsequent reporting period.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-OBS3",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accounting and Engineering to:\n\na) Prioritize and expedite the conduct of a thorough validation and assessment of the dormant CIP balances totaling P84,301,091.98 to determine their current status—whether completed, discontinued, or still ongoing;\n\nb) Jointly establish and implement a formal and documented process flow for the timely monitoring, review, and reclassification of CIP projects;\n\nc) Develop and enforce standardized procedures, clear timelines, and routine reconciliation to ensure accurate and up-to-date reporting of project status;\n\nd) Establish a uniform Project ID system to enable consistent tracking, cross-referencing, and reconciliation of project records between the concerned offices; and\n\ne) Institute internal controls that promote the completeness, neutrality, and accuracy of financial reporting, in compliance with the IPSAS Conceptual Framework, to enhance the relevance, reliability, and fair presentation of the LGU’s financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-OBS4",
+      "year": 2024,
+      "recommendation": "We recommended to the Municipal Mayor to instruct the Municipal Accounting Office to expedite the reconciliation in coordination with the HRMO and MTO. A Journal Entry Voucher should be prepared to adjust the \"Due to PhilHealth\" account to its correct balance, with a copy provided to the Audit Team. Additionally, refunds should be issued to the employees and the LGU, if warranted.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-OBS5",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accounting Office and the Municipal Budget Office to submit a detailed breakdown of the adjustment reflected in the reconciliation between the actual amounts presented in the Statement of Comparison of Budget and Actual Amounts (SCBAA) for the year ended December 31, 2024, for verification. A justification for the noted deficiency should likewise be submitted.\n\nHenceforth, management should ensure that future submissions of the SCBAA and its corresponding reconciliation include detailed disclosures and a breakdown of material items in the Notes to the Financial Statements to enhance the fair presentation and transparency of the financial reports.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-OBS6",
+      "year": 2024,
+      "recommendation": "We recommended the Municipal Mayor to require the OIC-Municipal Health Officer to submit the required supporting documents to facilitate the review of the herein transactions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-OBS7",
+      "year": 2024,
+      "recommendation": "We recommended to the Municipal Mayor and the officials subject herein to:\n1) to submit the required travel authority from the DILG Regional Director for all participants who did the foreign travels in reference to DILG MC No. 2022-147 as the basis for the Regional Director’s duty to act on the LGU’s requests. Submit the same to the Office of the Auditor;\n2) Submittheenumeratedlackingdocuments,asdiscussedaboveandshowninAnnexI.1toI.2, otherwise, justify the lack thereof;\n3) Submit a justification on the seven (7) days exploration tour at various cities in various states in the USA, which were not part of the mission to be undertaken by the delegates based on the invitation letter and correspondence made to the host organization;\n4) Submit a justification on the necessity of all foreign trips, the duration and why it should not be considered irregular, excessive and unnecessary expenditures;\n5) Require the concerned officials to communicate with the League of Municipalities of the Philippines – Bukidnon Chapter and the Vice Mayors League of the Philippines and require the same to submit a detailed breakdown of expenses covered by the registration fees paid, including receipts or equivalent documents, to establish the reasonableness, necessity, and allowability of the expenses in accordance with existing government accounting and auditing rules and regulations;\n6) Submit an explanation as to why one delegate did not charge, except for the airfare, any expenditures related to the foreign travel;\n7) Submit the Certificate of Appearance and/or Participation;\n8) Henceforth, ensure that a foreign travel authority is secured from the DILG and that supporting documents are complete in the grant of cash advance and liquidation thereof.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-PY1",
+      "year": 2024,
+      "recommendation": "We recommended the management the following, for each of the following conditions:\n\nNon-conduct of physical count of majority of its PPE accounts for CY 2023:\n\n1) Ensure that the preliminary activities prior to inventory taking procedures under COA Circular 2012-002 are followed;\n2) Monitor that the Inventory Committee has adequate number of members and representatives from the Accounting and Property Division/Unit for the sole purpose of the one-time cleansing of the PPE accounts of the LGU;\n3) Temporarily relieve the members of the Inventory Committee of all their regular duties in order to devote their full time in the conduct of the physical inventory taking until completed;\n4) Direct the GSO/Property Unit to record the physical count daily using the ICF per PPE sub-major account group which will be the basis in the preparation of RPCPPE after the physical count;\n5) Direct the Inventory Committee/GSO/Property Unit to prepare a List of PPEs Found at Station (Annex B of the Circular) and List of Non-Existing/Missing PPEs (Annex C of the Circular) after the physical inventory and submit these lists to the Accounting Unit for recording in the books of accounts of the LGU to establish the existence and proper accountability of the PPE accounts; and\n6) Ensure that the guidelines and procedures in the conduct of physical count of PPE as provided in COA Circular 2020-006 are strictly observed to facilitate the one-time cleansing of PPE account balances.\n\nExistence of unreconciled balance between General Services Office and the Municipal Accounting Office:\n\n1)Direct the Inventory Committee, Property Unit/GSO and Accounting Unit to reconcile all records and reports pertaining to PPE after the one-time cleansing and establish the correct balances of the PPE account to be recorded in the books of accounts; and\n2)Direct the same to review all documents and reports before submission to the Office of the Audit Team to ensure that the details presented thereon are accurate and complete.\n\nIncomplete details of Report on Physical Count of Property, Plant and Equipment (RPCPPE):\n\n1)Direct the Inventory Committee/GSO/Property Unit, in coordination with the Accounting Unit, to use PPELCs/Subsidiary Ledgers (SLs) or, if not available, from Property Cards or other proper records in order to obtain complete details of the items with lacking details as reported under the RPCPPE.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-PY2",
+      "year": 2024,
+      "recommendation": "We recommended to the Municipal Accountant to record provision of depreciation/accumulateddepreciation in all PPE items applicable to depreciation.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-PY3",
+      "year": 2024,
+      "recommendation": "We recommended to the Municipal Accountant to consider application of revaluation Model as accounting policy specifically on the Landaccount and balances Account,tocomeupwithfairpresentationintheprepare JEV\n\nThen, Managementshall implement the COA Circular no. 2020-006 to appraise/updatetheoutdatedbalancesinthePPE account",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-PY4",
+      "year": 2024,
+      "recommendation": "We recommended to the Municipal Mayor to require the MACCO to ensure compliance to IPSAS 3 for transactions related to prior period errors. Henceforth,whenpracticable,restatetheopeningbalances of the related net assets/equity balances or comparative amounts related to prior period errors, whichever is appropriate, and provide the necessarydisclosures to ensure that thefinancial statements are fairly presented. Moreover, observe correctpresentation in theStatementofChanges in Net Assets/ Equity.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-PY6",
+      "year": 2024,
+      "recommendation": "We recommended to the Municipal Accounting Office to draw a journal entry voucherreclassifying the Property, Plant and equipmentPPE to its appropriate account, if warranteed,andfurnishtheAuditTeamacopyforreference.\nWealsorecommendtotheMunicipalAccountingOfficetothoroughlyreviewthenatureofallotheritems under the Property, Plant and Equipment (PPE) and if found to be improperly classified, reclassifythesametoproper accounts supported withcompleteworkingpaperandfurnishacopy to the audit Team",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-PY7",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to ensure compliancewith IPSAS 23 regarding the recognition of revenue from non-exchange transactions. Ensure understanding of the MOA/BC to ensure the transactions are recorded in accordance eith it.\nAdditionally, we suggest restating the CY 2023 accountsandfinancialstatementsintheCY2024 comparative Fiancial Statements submission.\nFinally, gather and review the MOA/BC of the balance identified for verification totalling P7,648,096.17 and provide appropriateadjustments,completewithsupportingdocuments, if warranted. Submit the Status thereof toCOA for review.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-PY8",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Accountant coordinate with the Municipal Treasurer, secure allstale checks and determine those requiring issuance of replacement checks. We also recommend thattheMunicipaltreasurercancelthe stale checks and furnish the Accounting Office with the originaldisbursement vouchers as basis for the preparation of journal entry vouchers debiting thecashinbank,andcreditingaccountspayable and prior years adjustment for stale checkslessthantwoyearsandforthosemorethantwo years respectively. we recommend further that,henceforth, the Municipal Accountant regularly monitor all outstanding checks, send written notices to payees a month before these become staleandpreparethenecessaryadjustmentsforthe reconciling items.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-PY9",
+      "year": 2024,
+      "recommendation": "We recommended the Municipal Mayor to require the Municipal Budget Office and the Accounting Office to properly classify the registration fees forseminars,conventions.Workshopsandassemblies as training Expense.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-PY10",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Accountant prepare the necessary adjusting entries to correct the balance of Cash in Bank Account..",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-PY11",
+      "year": 2024,
+      "recommendation": "We recommended to the management to require the Municipal Accountant and Treasurer to preparethe appropriatedocumentstoexpeditereversionof the herein funds to the National Treasury.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-PY12",
+      "year": 2024,
+      "recommendation": "We recommended to the management to require the submission of the lacking documentaryrequirements, otherwise, subject transaction shall beissuedwithanappropriateauditdecision. We alsorecommend thattheBACand TWGshould revisit RA 9184 and to attend seminar on RA 9184.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-PY14",
+      "year": 2024,
+      "recommendation": "We recommended that Management to submit the lacking invoices relative to the herein procurement, otherwise, the subject transaction shall be disallowed in audit. We also recommend that Management strictly comply with the above-mentioned BIR RevenueMemorandumCircularandensuredocumentsare complete before payment is made.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-PY16",
+      "year": 2024,
+      "recommendation": "We recommended the Management to require the Municipal Accountant to strictly observe section32chapter2oftheManualonthe New Government Accounting system for LGUs Volume 2 particularly on the numbering of the Disbursement Vouchers. Indicate in the supporting documents the DV Number and properly list on the face of the Disbursement Voucher the supporting documents to maintain asoundinternalbe attached control in the disbursement of government funds.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-PY18",
+      "year": 2024,
+      "recommendation": "We recommended to the Municipal Accounting Office and the Municipal budget Office to reconcile their balances. We also recommend to the Municipal Accountant to determine the correct amount of unexpended balance of TL-DRRM beyond the five-year period and to revert the specified amount to the GF, to be made available for other social services, in conformity with Section 5.1.13 of COA Circular No. 2012-002.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-PY19",
+      "year": 2024,
+      "recommendation": "We recommend to the management to direct the following concerned officials:\n\nThe Municipal Treasurer’s Office to:\n\nb. hire and assign enough personnel to accommodate the same; prepare and submit the Certified List of Taxpayers to the Accountant to comply with Section 20 of the NGAS Manual;\n\nThe Municipal Accounting Office to:\n\na. base the RPT/SET Receivable set-up at the beginning of the year on the Certified List of Taxpayers\nb. maintain subsidiary ledger for each taxpayer that will easily monitor tax collections and delinquencies",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-PY20",
+      "year": 2024,
+      "recommendation": "We recommend to the management to direct the Municipal Accounting Office to:\n\nb. utilize the features of the accounting system used by the LGU (ECPAC) to ensure easier monitoring in the recording of advance payments for the current year and the years not falling under the latter",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2024-PY21",
+      "year": 2024,
+      "recommendation": "We recommended to the Municipal Treasurer to update their system recordsbycoordinatingwiththe Municipal Assessor regarding the properties with assessment problems to come up with a reliable delinquent tax report. Further, the Municipal Accountant should follow the guidelines set in section 20 of the NGAS Manual on the basis of recording Real Property and Special Education Tax.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-PY11",
+      "year": 2023,
+      "recommendation": "We recommended to the Municipal Treasurer to update their system records by coordinating with the Municipal Assessor regarding the properties with assessment problems to come up with a reliable delinquent tax report. Further, the Municipal Accountant should follow the guidelines set in section 20 of the NGAS Manual on the basis of recording Real Property and Special Education Tax.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Ongoing reconciliation for monitoring"
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS1",
+      "year": 2023,
+      "recommendation": "We recommended the management the following, for each of the following conditions:\nNon-conduct of physical count of majority of its PPE accounts for CY 2023:\n1) Ensure that the preliminary activities prior to inventory taking procedures under COA Circular 2012-002 are followed;\n2) Monitor that the Inventory Committee has adequate number of members and representatives from the Accounting and Property Division/Unit for the sole purpose of the one-time cleansing of the PPE accounts of the LGU;\n3) Temporarily relieve the members of the Inventory Committee of all their regular duties in order to devote their full time in the conduct of the physical inventory taking until completed;\n4) Direct the GSO/Property Unit to record the physical count daily using the ICF per PPE sub-major account group which will be the basis in the preparation of RPCPPE after the physical count;\n5) Direct the Inventory Committee/GSO/Property Unit to prepare a List of PPEs Found at Station (Annex B of the Circular) and List of Non-Existing/Missing PPEs (Annex C of the Circular) after the physical inventory and submit these lists to the Accounting Unit for recording in the books of accounts of the LGU to establish the existence and proper accountability of the PPE accounts; and\n5) Ensure that the guidelines and procedures in the conduct of physical count of PPE as provided in COA Circular 2020-006 are strictly observed to facilitate the one-time cleansing of PPE account balances.\nExistence of unreconciled balance between General Services Office and the Municipal Accounting Office:\nDirect the Inventory Committee, Property Unit/GSO and Accounting Unit to reconcile all records and reports pertaining to PPE after the one-time cleansing and establish the correct balances of the PPE account to be recorded in the books of accounts; and\nDirect the same to review all documents and reports before submission to the Office of the Audit Team to ensure that the details presented thereon are accurate and complete.\nIncomplete details of Report on Physical Count of Property, Plant and Equipment (RPCPPE):\n1) Direct the Inventory Committee/GSO/Property Unit, in coordination with the Accounting Unit, to use PPELCs/Subsidiary Ledgers (SLs) or, if not available, from Property Cards or other proper records in order to obtain complete details of the items with lacking details as reported under the RPCPPE.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS2",
+      "year": 2023,
+      "recommendation": "We recommended to the Municipal Accountant to record provision of depreciation/accumulated depreciation in all PPE items applicable to depreciation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS3",
+      "year": 2023,
+      "recommendation": "We recommended to the Municipal Accountant to consider application of Revaluation Model as accounting policy specifically on the Land account, to come up with fair presentation in the PPE reported balances. Then, Management shall implement the COA Circular no. 2020-006 to appraise/update the outdated balances in the PPE account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS4",
+      "year": 2023,
+      "recommendation": "We recommended to the Municipal Mayor to require the MACCO to ensure compliance to IPSAS 3 for transactions related to prior period errors. Henceforth, when practicable, restate the opening balances of the related net assets/equity balances or comparative amounts related to prior period errors, whichever is appropriate, and provide the necessary disclosures to ensure that the financial statements are fairly presented. Moreover, observe correct presentation in the Statement of Changes in Net Assets/Equity.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS5",
+      "year": 2023,
+      "recommendation": "We recommended to the Management to exert full efforts to collect the dormant receivables and provide comprehensive details on Other Receivables account. Then, despite full efforts had been made to enforce collection of these dormant accounts the management may request to write-off the account, as provided in COA Circular no. 2016-005.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS6",
+      "year": 2023,
+      "recommendation": "We recommended to the Municipal Accounting Office to draw a journal entry voucher reclassifying the Property, Plant and Equipment (PPE) to its appropriate account, if warranted, and furnish the Audit Team a copy for reference We also recommend to the Municipal Accounting Office to thoroughly review the nature of all other items under the Property, Plant and Equipment (PPE) and if found to be improperly classified, reclassify the same to proper accounts supported with complete working paper and furnish a copy to the Audit Team.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS7",
+      "year": 2023,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to ensure compliance with IPSAS 23 regarding the recognition of revenue from non-exchange transactions. Ensure understanding of the MOA/BC to ensure that transactions are recorded in accordance with it. Additionally, we suggest restating the CY 2023 accounts and financial statements in the CY 2024 comparative financial statements submission.\nFinally, gather and review the MOA/BC of the balance identified for verification totalling P7,648,096.17 and provide appropriate adjustments, complete with supporting documents, if warranted. Submit the status thereof to COA for review.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS8",
+      "year": 2023,
+      "recommendation": "We recommended that the Municipal Accountant coordinate with the Municipal Treasurer, secure all stale checks and determine those requiring issuance of replacement checks. We also recommended that the Municipal Treasurer cancel the stale checks and furnish the Accounting Office with the original disbursement vouchers as basis for the preparation of journal entry vouchers debiting the Cash in Bank, and crediting Accounts Payable and Prior Years’ Adjustment for stale checks less than two years and for those more than two years, respectively. We recommended further that, henceforth, the Municipal Treasurer regularly monitor all outstanding checks, send written notices to payees a month before these become stale.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS9",
+      "year": 2023,
+      "recommendation": "We recommended the Municipal Mayor to require the Municipal Budget Office and the Accounting Office to properly classify the registration fees for seminars, conventions, workshops and assemblies as Training Expense.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS10",
+      "year": 2023,
+      "recommendation": "We recommended that the Municipal Accountant prepare the necessary adjusting entries to correct the balance of Cash in Bank Account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS11",
+      "year": 2023,
+      "recommendation": "We recommended to the management to require the Municipal Accountant and Treasurer to prepare the appropriate documents to expedite reversion of the herein funds to the National Treasury.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS12",
+      "year": 2023,
+      "recommendation": "We recommended to the management to require the submission of the lacking documentary requirements, otherwise, subject transaction shall be issued with an appropriate audit decision. We also recommend that the BAC and TWG should revisit RA 9184 and to attend seminar on RA 9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS13",
+      "year": 2023,
+      "recommendation": "We recommended to the management to submit valid justification of the given undue Other Bonuses and Allowances or “PRAISE incentives”, otherwise, submit an OR to COA for the refund of the said undue incentives. Then, the Management shall only give monetary awards to the employees or officials that contributed suggestions, inventions, superior accomplishments, and other personal efforts results in monetary savings.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS14",
+      "year": 2023,
+      "recommendation": "We recommended that Management to submit the lacking invoices relative to the herein procurement, otherwise, the subject transaction shall be disallowed in audit. We also recommend that Management strictly comply with the above-mentioned BIR Revenue Memorandum Circular and ensure documents are complete before payment is made.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS15",
+      "year": 2023,
+      "recommendation": "We recommended to the management to require the MBO to submit a written valid justification of why it prepared the Purchase Request instead of the MHO, duly conformed by the latter, otherwise, the total transaction of P198,940.00 shall be issued with appropriate notice.\nMeantime, require the MBO to submit a valid justification for providing an ABC of P2,200 per unit for a mere thermometer based on its purchase request without providing technical specifications, otherwise, refund the equivalent price difference between the awarded cost and the reasonable price market multiplied by the 49 units of thermometer.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS16",
+      "year": 2023,
+      "recommendation": "We recommended the Management to require the Municipal Accountant to strictly observe Section 32 Chapter 2 of the Manual on the New Government Accounting System for LGUs Volume 2 particularly on the numbering of the Disbursement Vouchers. Indicate in the supporting documents the DV Number and properly list on the face of the Disbursement Voucher the supporting documents to maintain a sound internal control in the disbursement of government funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS17",
+      "year": 2023,
+      "recommendation": "We recommended the Management to require the Municipal Accountant and other responsible employees to comply with the prescribed period of submission of the reports and documents to the office of the Auditor. Enforce the provision under Section 122 of PD 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS18",
+      "year": 2023,
+      "recommendation": "We recommended to the Municipal Accounting Office and the Municipal Budget Office to reconcile their balances. We also recommend to the Municipal Accountant to determine the correct amount of unexpended balance of TL-DRRM beyond the five-year period and to revert the specified amount to the GF, to be made available for other social services, in conformity with Section 5.1.13 of COA Circular No. 2012-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS19",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS20",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS21",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS22",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS23",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS24",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS25",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-OBS26",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-PY1",
+      "year": 2023,
+      "recommendation": "We recommend to the Municipal Mayor to exercise prudence in the disbursement of government funds and instruct the local sanggunian to grant additional compensation to those national government officials who are entitled to receive the same in the form of honoraria only per DBM’s Compensation Policy Guideline No. 98-1 dated March 23, 1998.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-PY2",
+      "year": 2023,
+      "recommendation": "We recommend to the Municipal Mayor to exercise prudence in the disbursement of government funds and instruct the local sanggunian to discontinue the grant of honoraria to LGU salaried employees beyond those enumerated in LBC 62 and other applicable laws, rules, and regulations.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-PY3",
+      "year": 2023,
+      "recommendation": "We recommend to the Municipal Mayor to inform the barangays who requested the financial assistance with specific purpose that the said grant is subject to liquidation or submission of proof that the same was utilized as requested. Moreover, require the Municipal Accountant to:\n\n1. Ensure that transactions with similar nature are recorded in the correct account in view of the definition of accounts per COA Circular No. COA Circular 2015-009 dated December 1, 2015; \n\n2. Secure the lacking documentary requirements of the herein transactions and  inform the same that henceforth, ensure completeness of the documentary requirements prior to certifying in the disbursement voucher(s) that documents are complete;\n\n3. Prepare the necessary adjusting entry.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-PY4",
+      "year": 2023,
+      "recommendation": "We recommend to the Municipal Mayor to require the Municipal Accountant to ensure recording of expense transactions on the correct period it occurred which is the period in which the revenues related thereto was recorded.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-PY5",
+      "year": 2023,
+      "recommendation": "We recommend to the Municipal Mayor to require the Municipal Accountant to ensure completeness of documents prior to certifying in the disbursement vouchers that supporting documents are complete to ensure that validity of the disbursements. Require the personnel paid with the monetization covered under the herein checks to submit the lacking documents noted.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-PY6",
+      "year": 2023,
+      "recommendation": "We recommend to the Municipal Mayor to instruct the Municipal Accountant to reclassify as current liability the portion of long term loans payable which is due to be settled within 12 months after the reporting date.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-PY7",
+      "year": 2023,
+      "recommendation": "We recommend to the management to direct the following concerned officials:\n\nThe Municipal Treasurer’s Office to:\na. expedite the updating of the Real Property Tax Account Registers/Taxpayers’ index cards (RPTAR/TIC);\nb. hire and assign enough personnel to accommodate the same; prepare and submit the Certified List of Taxpayers to the Accountant to comply with Section 20 of the NGAS Manual;\nc. properly monitor those who paid in advance and subsequently removed their names from the RPT/SET receivable for the next calendar year\n\nThe Municipal Accounting Office to:\na. base the RPT/SET Receivable set-up at the beginning of the year on the Certified List of Taxpayers\nb. maintain subsidiary ledger for each taxpayer that will easily monitor tax collections and delinquencies.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Certified List of Taxpayers was not yet submitted to the accountant for the current year\n\nCertified List of Taxpayers was not yet submitted to the accountant for the current year"
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-PY8",
+      "year": 2023,
+      "recommendation": "We recommend to the Municipal Mayor to require the MAO to ensure compliance to IPSAS 3 for transactions related to change in accounting policy and prior period errors. Henceforth, when practicable, restate the opening balances of the related net assets/equity balances or comparative amounts related to the change of accounting policy or prior period error, whichever is appropriate, and provide the necessary disclosures to ensure that the financial statements are fairly presented. Moreover, observe correct presentation in the Statement of Changes in Net Assets/Equity.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-PY9",
+      "year": 2023,
+      "recommendation": "We recommend to the management to direct the Municipal Accounting Office to:\na. make necessary adjustments, if any, to present fairly the financial statements at year-end and follow COA Circular 2015-009 dated December 1, 2015 in the recording of subsequent advance payments of RPT/SEF Tax;\nb. utilize the features of the accounting system used by the LGU (ECPAC) to ensure easier monitoring in the recording of advance payments for the current year and the years not falling under the latter",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-PY10",
+      "year": 2023,
+      "recommendation": "We recommend to the management to direct the Municipal Accounting Office to record the penalties of erring taxpayers under the proper account. Also make necessary adjustments to affected account/s, if any, to present fairly the financial statements at year-end.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-PY12",
+      "year": 2023,
+      "recommendation": "We recommended to the management to exhaust all remedies to collect the receivables. When all possible remedies are done, request for write-off of those accounts by following the procedures as ser forth in COA Circular No. 2016-005.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-PY13",
+      "year": 2023,
+      "recommendation": "We recommended to the management to exercise prudence and sound judgment in the utilization of government resources. Further, provide justifications on the above cited observations and the legal basis thereof.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2023-PY14",
+      "year": 2023,
+      "recommendation": "We recommended to the management to exercise prudence and good sense in the utilization of government resources. Further, we recommended for the submission of the following documents in order to facilitate continuance of our audit and validate that the Municipality have met all the requirements warranting the grant of the monetary awards:\na. Detailed Employee Suggestions and Incentive Awards System, and;\nb. Evaluation reports or any documentation recognizing suggestions, inventions, superior accomplishments and other personal efforts which resulted in monetary    savings making the employees eligible for the monetary award.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended to submit a legal basis for the grant allegedly as COVID-19 assistance, to its permanent, casual, coterminous, job order employees and, national/ provincial government employees assigned in the municipality. Further, explain the use of RA 11494 or the Bayanihan to Recover as One Act which had already expired last June 30, 2021.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended to the management to require the submission of the distribution list of rice with corresponding signatures of recipients of the food assistance to be able to update the balance of the Food Supplies for Distribution account and submit them to COA for the continuation of our audit.\n\t\n\tFurther, we also recommended to the management to submit the following required documents for the request of relief of accountability on the damaged rice based on the list of requirements found in COA Key Services – Procedural Flow which can be downloaded in COA website:\n\n1. The basic notice of loss showing the exact date of filing and receipt in the Office of the Auditor concerned;\n2. Affidavit of the accountable officer containing a statement of facts and circumstances of the loss, i.e. property lost and its valuation, actual date in which the absence was first noted, efforts exerted to recover the same, provisions made to safeguard the property, and date when the loss was reported to the auditor, etc.,\n3. Affidavits of two (2) disinterested persons cognizant of the facts and circumstances of the loss; \n4. Comment/s and/or recommendation of the agency head;\n5. List and description including book value, date of acquisition, account classification, condition of the property, and other additional relevant information of the properties lost as attested by the concerned officials, as the case may be;\n6. Latest inventory and inspection report preceding the loss and inspection report on the extent of damage/loss;\n7. Exact or accurate amount of government cash or book value of the property, subject of the request for relief.\n\nLastly, pallets should be provided to elevate all the piles of rice from the floor to prevent the possible wastage/damage and, implement measures to eradicate rodents in entering the storage rooms.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Request for relief of accountability for the damaged rice was booked up April 2021 under JEV 401-2021-04-00012, P17,500.00."
+    },
+    {
+      "id": "Libona_Bukidnon_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended to the management to provide legal basis to justify the above cited observation. Furthermore, we recommended that all employees regardless of their employment status who received the financial assistance to submit the following documents in order to facilitate the continuance of our audit and to validate that the Municipality have met all the AICS requirements warranting the grant of donation:\n\na.\tCase Study Report that the employee is in crisis situation\nb.\tMedical Certificate\nc.\tIf for medicines/ assistive devices – prescription with date of issuance, complete name, signature and license number of the attending physician; \nd.\tIf for medical procedures – laboratory requests with date of issuance, complete name, signature and license number of the attending physician.\ne.\tBarangay Certificate of Residency or Certificate of Indigency or Certificate of the client is in Need of Assistance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Required documents submitted."
+    },
+    {
+      "id": "Libona_Bukidnon_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended to the management to submit the following documents in order to complete the post-audit of the said transactions:\n\na. In lieu of the countersigning by the concerned LGU officials in the erasures/changes in the payrolls, please submit any document to justify the validity of the replaced 475 names in the payroll, and;\nb. Updated and complete official list of recipients from the MSWDO database.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Required documents submitted."
+    },
+    {
+      "id": "Libona_Bukidnon_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended to Municipal Accounting Office to follow the prescribe journal entries of the NGAS Manual for projects implemented by administration. Further, the erroneously recorded transactions in CY 2020 should be reviewed and adjusted to properly reflect the correct Property, Plant and Equipment and Accumulated Depreciation balances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Projects still on construction was accounted as CIP but projects already completed remained in the PPE account and made adjustment on accu. Depreciation."
+    },
+    {
+      "id": "Libona_Bukidnon_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended to the Municipal Accountant, General Service Officer and Municipal Engineer to reconcile their records, prepare working papers for the said reconciliation, gather documents to support the reconciliation and prepare Journal Entry Voucher (JEV) for the adjusting entries, all of the mentioned documents shall be submitted to the Office of the Auditor for verification and validation.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some documents were retrieved (trip tickets/withdrawal slip) and accounted utilization of P1,417,839.31."
+    },
+    {
+      "id": "Libona_Bukidnon_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended to the management to instruct the Municipal Agriculture Office to gather the Inventory Reports and Consumption/ Distribution Lists relative to the above-mentioned accounts and submit them immediately to the Municipal Accountant for the necessary adjustments in the books of the LGU. In addition, it is recommended to conduct physical count of agriculture related inventories, if any, as a starting point for the reconciliation of the recorded balances. For succeeding transactions, the MAO should ensure to furnish a copy of Inventory Report and Consumption/ Distribution List to the Municipal Accountant aside from the funding source agencies.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "MAO submitted report of consumption; March 2021, P550,646.22; April 2021, P236,058.78, Balance of P902,995.00 is subject for submission by MAO."
+    },
+    {
+      "id": "Libona_Bukidnon_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended to the management to exhaust all available records, if any, for the reclassification or adjustment of the inventory as a Prior Period Adjustment, duly supported with a Journal Entry Voucher (JEV) and adequate documentations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Adjustments to be accounted in the Journal Entry Voucher (JEV) in the succeeding year."
+    },
+    {
+      "id": "Libona_Bukidnon_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended to the management to exercise prudence and good sense in the utilization of government resources. Further, we recommend for the submission of the following documents in order to facilitate continuance of our audit and validate that the Municipality have met all the requirements warranting the grant of the monetary awards:\n\na. Detailed Employee Suggestions and Incentive Awards System, and;\nb. Evaluation reports or any documentation recognizing suggestions, inventions, superior accomplishments and other personal efforts which resulted in monetary    savings making the employees eligible for the monetary award.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "A Notice of Disallowance was issued and booked up. Commitment by employees were assured. As of December 31, 2021, a refund of P375,000.00 was made."
+    },
+    {
+      "id": "Libona_Bukidnon_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommended to the Municipal Engineer and Accountant to require the submission of the As-Built Plans and Warranty Security on every final payment of infrastructure contracts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "the documents were attached prior to the final payment."
+    },
+    {
+      "id": "Libona_Bukidnon_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We recommended to the management to adhere to the provisions of RA 9184 on the computation of liquidated damages.  Further, the Accounting Office should check the accuracy of LD computation made by BAC on late delivered of goods. Lastly, LGU to collect the un-imposed/ under-imposed LD to suppliers, issue corresponding Official Receipt as proof of collection and furnish a copy to the Office of the COA to avoid disallowance in audit.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Suppliers with LD were scheduled and  deducted out  from the balance of their retention payment."
+    },
+    {
+      "id": "Libona_Bukidnon_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "We recommended that the Local Chief Executive:\nStrictly require a periodic physical inventory of supplies or property. by type, semestrally to enable them to prepare and submit a Report of the Physical Count of Inventories (RPCI) and reconcile them with the Accounting records to ascertain the existence of the asset account and reliability of the financial data. (B) Require from the MHO the details of the Issuances of drugs, medicines and laboratory supplies on a monthly basis and submit them to the Accounting Office for the preparation of JEV to adjust the corresponding inventory accounts. (C) Require the Municipal Accountant to provide the GSO the details of the unadjusted Fuel and Agricultural inventories for them to trace back the issuances and consumption so that these long outstanding inventories will be adjusted accordingly.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "OUT OF P6,649,450.66, Utilization of PP3,595,749.76 was submitted, Balance of P3,053,700.90 composed of Agriculture, P902,995.00;gas & oil P1,859,278.25; Meds, P57,000.00,other inv.P234,427.65."
+    },
+    {
+      "id": "Libona_Bukidnon_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "We recommended that the Local Chief Executive:\nStrictly require a periodic physical inventory of supplies or property. by type, semestrally to enable them to prepare and submit a Report of the Physical Count of Inventories (RPCI) and reconcile them with the Accounting records to ascertain the existence of the asset account and reliability of the financial data. (B) Require from the MHO the details of the Issuances of drugs, medicines and laboratory supplies on a monthly basis and submit them to the Accounting Office for the preparation of JEV to adjust the corresponding inventory accounts. (C) Require the Municipal Accountant to provide the GSO the details of the unadjusted Fuel and Agricultural inventories for them to trace back the issuances and consumption so that these long outstanding inventories will be adjusted accordingly.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Out of P6,931,147.18, the amount of P3,934,446.28 has been reported as consummed. A balance of P2,996,700.90 , composed of Agriculture, P902,995.00; gas and oil,P1,859,278.25, SEF inventory,P234,427.65 is still awaiting for the report of its consumption."
+    },
+    {
+      "id": "Libona_Bukidnon_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "We recommended that management monitor and specify a timeline to complete of the RPCPPE for CY 2018 and years thereafter, to enable immediate reconciliation and identification of discrepancies so that adjustments can be made in the books or adequate disclosures can be made in the Notes to Financial Statements as of year-end.  Ensure that reconciliation is made between the RPCPPE and the subsidiary ledgers to reflect a reliable figure of the PPE account as of reporting date.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "GSO has submitted its Inventory report as of CY 2018 - CY 2020. Accounting is now beginning to adjust the PPE accounts with corresponding adj on Accu. Dep.(timeline-Dec 31, 2022)"
+    },
+    {
+      "id": "Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2020-OBS1",
+      "year": 2020,
+      "recommendation": "Recommendations:\nWe recommended to the management to require the submission of the distribution list of rice with corresponding signatures of recipients of the food assistance to be able to update the balance of the Food Supplies for Distribution account and submit them to COA for the continuation of our audit.\nFurther, we also recommended to the management to submit the following required documents for the request of relief of accountability on the damaged rice based on the list of requirements found in COA Key Services – Procedural Flow which can be downloaded in COA website:\n1. The basic notice of loss showing the exact date of filing and receipt in the Office of the Auditor concerned;\n2. Affidavit of the accountable officer containing a statement of facts and circumstances of the loss, i.e. property lost and its valuation, actual date in which the absence was first noted, efforts exerted to recover the same, provisions made to safeguard the property, and date when the loss was reported to the auditor, etc.,\n3. Affidavits of two (2) disinterested persons cognizant of the facts and circumstances of the loss;\n4. Comment/s and/or recommendation of the agency head;\n5. List and description including book value, date of acquisition, account classification, condition of the property, and other additional relevant information of the properties lost as attested by the concerned officials, as the case may be;\n6. Latest inventory and inspection report preceding the loss and inspection report on the extent of damage/loss;\n7. Exact or accurate amount of government cash or book value of the property, subject of the request for relief.\nLastly, pallets should be provided to elevate all the piles of rice from the floor to prevent the possible wastage/damage and, implement measures to eradicate rodents in entering the storage rooms.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2020-OBS2",
+      "year": 2020,
+      "recommendation": "Recommendations:\nWe recommended to the management to provide legal basis to justify the above cited observation. Furthermore, we recommended that all employees regardless of their employment status who received the financial assistance to submit the following documents in order to facilitate the continuance of our audit and to validate that the Municipality have met all the AICS requirements warranting the grant of donation:\nCase Study Report that the employee is in crisis situation\nMedical Certificate\nIf for medicines/ assistive devices – prescription with date of issuance, complete name, signature and license number of the attending physician;\nIf for medical procedures – laboratory requests with date of issuance, complete name, signature and license number of the attending physician.\nBarangay Certificate of Residency or Certificate of Indigency or Certificate of the client is in Need of Assistance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2020-OBS3",
+      "year": 2020,
+      "recommendation": "Recommendations:\nWe recommended to the management to submit the following documents in order to complete the post-audit of the said transactions:\nIn lieu of the countersigning by the concerned LGU officials in the erasures/changes in the payrolls, please submit any document to justify the validity of the replaced 475 names  in the payroll, and;\nUpdated and complete official list of recipients from the MSWDO database.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommended that management instruct the Municipal Accountant and the Municipal Treasurer to take up and record all transactions within the reporting period to enable complete and fair financial reporting at year end.\n\nCut off period imposed shall be made only for disbursements, where accrual of expenses can be made for delivered goods and services. Require the Municipal Treasurer’s Office to immediately submit their collection reports on time after the end of the accounting period to enable prompt recording and submission of financial reports.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Collections were already taken January 2020 and all applicable entries were made. The recommendation for the cut-off period is noted and to be applied this closing of December 2020 books of accounts."
+    },
+    {
+      "id": "Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended that management require the Municipal Accountant and the Municipal Treasurer to reconcile their respective records and make the necessary adjustments in both books to arrive at the correct RPT and SET collectible balances at the end of CY 2019. Periodic reconciliation shall be made from time to time to enable reporting of correct balances of accounts.\n\nFurthermore, the Municipal Accountant is recommended to draw a JEV to adjust the misstated accounts, reclassify the real property tax advance payment collections in CY 2019 from Other Deferred Credits to the appropriate Deferred RPT/SET account. Also, adjust the amount of PTO collections from prior years to correct the other deferred credits account balance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "The recommenda-tion is implemented and adjusted the accounts and were reconciled with the Municipal treasurer."
+    },
+    {
+      "id": "Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Chief Executive organize a committee that will take responsibility in gathering the required supporting documents relative to the consumption of the foregoing inventory accounts. Once obtained, the assigned committee must systematically compile them and submit them immediately to the Municipal Accountant for necessary adjustments in the books of the LGU. If not firmly acted upon, this deficiency will persist every reporting period and may affect the LGU’s rate of compliance to the audit recommendations.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "A committee was already created for this purpose and done inventory already. Per GSO , Inventory report as of December 31, 2018 was submitted to COA. Reconciliation with the accounting record is still going on."
+    },
+    {
+      "id": "Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended to management the following courses of action:\nSubmit the (1) RIS \nshowing issuance of all procured items specified above to the requesting departments, (2) Certified MHO Report of issuance/distribution, duly acknowledge by the recipients, for medicines, medical and laboratory supplies, (3) utilization/ consumption of, vaccines and agricultural supplies, and (4) distribution list and Memorandum of Agreement with beneficiaries for seedlings and cattle;\nInstruct the Inventory \nCommittee to verify existence of remaining items on hand pertaining to the above transactions, conduct physical count and submit a report to the Municipal Accountant for appropriate recording in the books;\nInstruct the Officer In \nCharge of the General Services Office to establish a system to properly control and document the receipt and issuance of inventory items to the requesting department;\nStrictly impose the \nsubmission from concerned offices, the report of issuances and consumption of drugs and medicines, laboratory supplies and other supplies for prompt recording in the books; and\nRequire the \nMunicipal Accountant to record initially as Inventories, upon payment, all purchases of inventoriable goods. Reversal shall be only upon submission of pertinent documents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Submitted the RIS/MHO issuances/and other utilization like the consumption of vaccines and other supplies to COA and recorded initial submission of issuances already."
+    },
+    {
+      "id": "Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended to management the following courses of action:\nPlease submit a \ncertification from the Chief Accountant of Bukidnon State University (BukSU) that the instructors and staff paid with honoraria from LGU Libona’s funds were not paid honoraria from BukSU funds for the same particular period; \nStrictly abide with the \nprovisions of the Memorandum of Agreement and discontinue the payment of monthly honoraria to full-time and part-time instructors and school personnel of the satellite campus to avoid conflict and to avoid incurrence of any double-payment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "A certification was required and to be transmitted to COA.  Recommendation to abide with the provisions of the MOA is noted."
+    },
+    {
+      "id": "Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommended to management the following courses of action:\n\nOrganize a committee \nthat will be tasked to trace, gather and retrieve the documents of the sixty-six (66) parcels of land (A) to determine with certainty the mode of acquisition, whether through exchange (purchase) or through a non-exchange transaction;\n- If the land was purchased, determine its acquisition cost based on the gathered appropriate documents, such as the Deed of Sale;\n- If the land was acquired through non-exchange transaction (ex: donation or grant), the initial cost to be used shall be its fair value as at the date of acquisition.\nWith the committee’s \nreport as reference, the Municipal Accountant must immediately record the costs of these lands in the books of the LGU, supported with appropriate documents;\nPresent the Certificate \nof Titles (COTs) registered in the name of the LGU for the four (4) parcels of land totaling ₱4,450,000.00 (Item B) as concrete confirmations of the LGU’s ownership. For those which have none, process and secure immediately their COTs in favor of the Municipality of Libona. For subsequent acquisitions, ensure that the process of transferring the title in the name of the LGU will be immediately undertaken to avoid the occurrence of the same deficiencies;\nDraw up a JEV to \nadjust the erroneous recording of Land Improvement amounting to P360,000.00 and retrieve all the documents for those properties which were not properly identified in the schedule submitted by the Municipal Accountant and confirm their status with the Municipal Assessor’s records. Take appropriate action based on the status of the properties after retrieval of documents;\nTransfer to Brgy \nPoblacion, if ownership and usage of the property rests with the Barangay, the amount of P350,000.00 which was only part of the total value of lot purchased by the Barangay.\nEnsure regular \nreconciliation of the Municipal Accountant’s ledgers and the Municipal Assessor’s register of lands to assure that all properties owned by the LGU Libona are duly accounted for and to guarantee that they are duly supported with the necessary documents in establishing their control and ownership.  \nThe safekeeping of \nthe Certificate of Titles (COT) and other relevant documents relative to the lands of the municipality shall be assumed by the General Services Division (GSD) which is considered to be the proper office to undertake the responsibility. They must be fully secured and protected and should be filed systematically so that whenever the need for review and verification arises, they can be easily retrieved.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "The 66 parcels of Land were already reconciled with the records of the Municipal Assessor. Recorded/adjusted all the acquisitions of Land in the books of accounts.  Certificate of Titles/Tax declaration were kept and transmitted to the Office of the GSO for safekeeping."
+    },
+    {
+      "id": "Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended that journal entries be made in the books to reverse the TL DRRM account and to transfer to the General Fund the PPE accounts totaling P3,969,801.10, while the prepaid and inventory accounts shall be reversed directly to the TL DRRM account supported with documents showing consummation of prepaid expense and distribution of supplies and materials.\n\nWe further recommended that in the subsequent years, year-end accounting entries and transfer entries for the utilized amount of the unexpended DRRM fund shall be made completely both in the trust fund and general fund books in order to present the correct balances of the affected accounts in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Recommenda-tions were undertaken and subsequent adjustments were made in the books of accounts."
+    },
+    {
+      "id": "Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended that management direct the person responsible for the preparation and submission of the Report on Sources and Utilization of Disaster Risk Reduction and Management Fund to comply its monthly submission to the Office of the Auditor as required in the foregoing Circular and require the Municipal Accountant to discuss or disclose in the Notes to Financial Statements of the agency the amount and details of the unexpended balance of the LDRRMF.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "We prepared a quarterly Report of Utilization for the DRMMF as a requirement of transparency and posted to 3 conspicuous places.  We started our submission this year 2020 only."
+    },
+    {
+      "id": "Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2020-PY9",
+      "year": 2020,
+      "recommendation": "We recommended the following courses of action:\n(A) Evaluate the receivable accounts presented as current assets by determining whether collections will be realized within one year from the reporting date to enable correct presentation of accounts in the financial statements. (B) We also reiterate the prior year recommendations to institute actions and exhaust all remedies in collecting the receivable accounts. (C) When all remedies are exhausted, request for write off of those accounts aging 10 years or more by following the procedures set forth in COA Circular No. 2016-005.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Only the Loan Receivable account was reclassified to Non- Current Assets."
+    },
+    {
+      "id": "Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2020-PY10",
+      "year": 2020,
+      "recommendation": "We recommended the management and the Municipal Accountant to: (A) Delegate the preparation of the Subsidiary Ledgers to one of the Accounting Staffs to enable timely updating, to be reviewed by the Municipal Accountant. (B) Immediately trace and prepare SL and schedules for the 3 accounts in order for us to verify and validate the recorded amounts. (C) After the completion of the SL and supporting schedule, take proper actions to enforce collections from the debtors.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Unavailability of documents for prior year accounts."
+    },
+    {
+      "id": "Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2020-PY11",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Chief Executive:\nStrictly require a periodic physical inventory of supplies or property. by type, semestrally to enable them to prepare and submit a Report of the Physical Count of Inventories (RPCI) and reconcile them with the Accounting records to ascertain the existence of the asset account and reliability of the financial data. (B) Require from the MHO the details of the Issuances of drugs, medicines and laboratory supplies on a monthly basis and submit them to the Accounting Office for the preparation of JEV to adjust the corresponding inventory accounts. (C) Require the Municipal Accountant to provide the GSO the details of the unadjusted Fuel and Agricultural inventories for them to trace back the issuances and consumption so that these long outstanding inventories will be adjusted accordingly.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reconciliation of the inventory with the GSO's record is on going."
+    },
+    {
+      "id": "Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2020-PY12",
+      "year": 2020,
+      "recommendation": "We recommended that management monitor and specify a timeline to complete of the RPCPPE for CY 2018 and years thereafter, to enable immediate reconciliation and identification of discrepancies so that adjustments can be made in the books or adequate disclosures can be made in the Notes to Financial Statements as of year-end.  Ensure that reconciliation is made between the RPCPPE and the subsidiary ledgers to reflect a reliable figure of the PPE account as of reporting date.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reconciliation between the physical count and the Accounting records were not undertaken."
+    },
+    {
+      "id": "Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2020-PY13",
+      "year": 2020,
+      "recommendation": "(A) Require the MEO to implement an effective monitoring system of all the implemented infrastructure projects whether it be locally or externally funded to enable early corrective actions of projects exhibiting negative slippage. Proper and complete filing, on a per project basis, shall be made on all documents in the execution of the project. (B) To submit status reports of the projects listed in Appendix B as of the target date of completion to identify the unperformed portion as of such date and enable computation of uncollected liquidated damages. Exert effort to collect the said liquidated damages. (C) Locally funded projects should be given the same preferential attention as the externally funded projects to optimize the delivery of services to the constituents of LGU Libona.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "All noted projects were already 100% completed. Certificate of Completion and other supporting documents were not yet submitted to COA."
+    },
+    {
+      "id": "Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2020-PY14",
+      "year": 2020,
+      "recommendation": "Require immediate liquidation of all outstanding cash advances as of December 31, 2016 by issuing demand letters to the concerned parties; Require the issuance of Certification by the Municipal Accountant that the previous cash advance has been liquidated and accounted for in the books before granting a new cash advance; Strictly adhere to the provisions on the granting and utilization of cash advances as prescribed by Section 89 of PD 1445 and COA Circular No. 97-002.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Demand letters were issued to the accountable officers and employees and liquidations were being accounted for .No additional cash advances is issued unless previous is settled."
+    },
+    {
+      "id": "Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2020-PY15",
+      "year": 2020,
+      "recommendation": "The management should retrieve the copies of the MOA executed between the LGU and the NGO/PO and review the provisions therein and institute action against the NGO/PO and their officers pursuant to the provisions of the said agreements.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "The MOAs executed were retrieved and Collections were  accounted for.  Adjustments this year end will be made to reclass the account if its necessary."
+    },
+    {
+      "id": "Region-X__Municipalities__Bukidnon__Libona_Bukidnon-2020-PY16",
+      "year": 2020,
+      "recommendation": "Require the Municipal Accountant to discuss or disclose in the Notes to Financial Statements of the agency the amounts and details of the unexpended balance of the LDRRMF and the Disaster Action Officer to include in the Physical and Financial Accomplishment Report the utilization of the net accumulated LDRRMF and other dedicated disaster reduction and management resources in the previous years.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "The balances of the current MDRRMF was disclosed and the details of the prior years balances will be disclosed this 2020 year end closing of the books of accounts."
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY14",
+      "year": 2019,
+      "recommendation": "All the remaining two (2) unimplemented audit recommendations in CY 2017, were implemented in CY 2019",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "All the remaining two (2) unimplemented audit recommendations in CY 2017, were implemented in CY 2019"
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY17",
+      "year": 2019,
+      "recommendation": "Out of three (3) CY 2016 unimplemented audit recommendations, one (1) was implemented, and two (2) remained unimplemented.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Out of three (3) CY 2016 unimplemented audit recommendations, one (1) was implemented, and two (2) remained unimplemented."
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY21",
+      "year": 2019,
+      "recommendation": "The CY 2015 unimplemented audit recommendation was implemented in CY 2019.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The CY 2015 unimplemented audit recommendation was implemented in CY 2019."
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY23",
+      "year": 2019,
+      "recommendation": "The remaining one (1) CY 2014 unimplemented audit recommendations was not implemented in CY 2019.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The remaining one (1) CY 2014 unimplemented audit recommendations was not implemented in CY 2019."
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY25",
+      "year": 2019,
+      "recommendation": "The remaining one (1) CY 2013 unimplemented audit recommendations was implemented in CY 2019.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The remaining one (1) CY 2013 unimplemented audit recommendations was implemented in CY 2019."
+    },
+    {
+      "id": "Libona_Bukidnon-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended that management instruct the Municipal Accountant and the Municipal Treasurer to take up and record all transactions within the reporting period to enable complete and fair financial reporting at year end.\nCut off period imposed shall be made only for disbursements, where accrual of expenses can be made for delivered goods and services. Require the Municipal Treasurer’s Office to immediately submit their collection reports on time after the end of the accounting period to enable prompt recording and submission of financial reports.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended that management require the Municipal Accountant and Municipal Treasurer to reconcile their respective records and make the necessary adjustments in both books to arrive at the correct RPT and SET collectible balances at the end of CY 2019. Periodic reconciliation shall be made from time to time to enable reporting of correct balances of accounts.\nFurthermore, the Municipal Accountant is recommended to draw a JEV to adjust the misstated accounts, reclassify the real property tax advance payment collections in CY 2019 from Other Deferred Credits to the appropriate Deferred RPT/SET account. Also, adjust the amount of PTO collections from prior years to correct the other deferred credits account balance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive organize a committee that will take responsibility in gathering the required supporting documents relative to the consumption of the foregoing inventory accounts. Once obtained, the assigned committee must systematically compile them and submit them immediately to the Municipal Accountant for necessary adjustments in the books of the LGU. If not firmly acted upon, this deficiency will persist every reporting period and may affect the LGU’s rate of compliance to the audit recommendations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended to management the following courses of action:\nOrganize a committee that will be tasked to trace, gather and retrieve the documents of the sixty-six (66) parcels of land (A) to determine with certainty the mode of acquisition, whether through exchange (purchase) or through a non-exchange transaction;\nIf the land was purchased, determine its acquisition cost based on the gathered appropriate documents, such as the Deed of Sale;\nIf the land was acquired through non-exchange transaction (ex: donation or grant), the initial cost to be used shall be its fair value as at the date of acquisition.\nWith the committee’s report as reference, the Municipal Accountant must immediately record the costs of these lands in the books of the LGU, supported with appropriate documents;\nPresent the Certificate of Titles (COTs) registered in the name of the LGU for the four (4) parcels of land totaling ₱4,450,000.00 (Item B) as concrete confirmations of the LGU’s ownership. For those which have none, process and secure immediately their COTs in favor of the Municipality of Libona. For subsequent acquisitions, ensure that the process of transferring the title in the name of the LGU will be immediately undertaken to avoid the occurrence of the same deficiencies;\nDraw up a JEV to adjust the erroneous recording of Land Improvement amounting to P360,000.00 and retrieve all the documents for those properties which were not properly identified in the schedule submitted by the Municipal Accountant and confirm their status with the Municipal Assessor’s records. Take appropriate action based on the status of the properties after retrieval of documents;\nTransfer to Brgy Poblacion, if ownership and usage of the property rests with the Barangay, the amount of P350,000.00 which was only part of the total value of lot purchased by the Barangay.\nEnsure regular reconciliation of the Municipal Accountant’s ledgers and the Municipal Assessor’s register of lands to assure that all properties owned by the LGU Libona are duly accounted for and to guarantee that they are duly supported with the necessary documents in establishing their control and ownership.\nThe safekeeping of the Certificate of Titles (COT) and other relevant documents relative to the lands of the municipality shall be assumed by the General Services Division (GSD) which is considered to be the proper office to undertake the responsibility. They must be fully secured and protected and should be filed systematically so that whenever the need for review and verification arises, they can be easily retrieved.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended that journal entries be made in the books to reverse the TL DRRM account and to transfer to the General Fund the PPE accounts totaling P3,969,801.10, while the prepaid and inventory accounts shall be reversed directly to the TL DRRM account supported with documents showing consummation of prepaid expense and distribution of supplies and materials.\nWe further recommended that in the subsequent years, year-end accounting entries and transfer entries for the utilized amount of the unexpended DRRM fund shall be made completely both in the trust fund and general fund books in order to present the correct balances of the affected accounts in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended that management direct the person responsible for the preparation and submission of the Report on Sources and Utilization of Disaster Risk Reduction and Management Fund to comply its monthly submission to the Office of the Auditor as required in the foregoing Circular and require the Municipal Accountant to discuss or disclose in the Notes to Financial Statements of the agency the amount and details of the unexpended balance of the LDRRMF.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We recommended to management the following courses of action:\nSubmit the (1) RIS showing issuance of all procured items specified above to the requesting departments, (2) Certified MHO Report of issuance/distribution, duly acknowledge by the recipients, for medicines, medical and laboratory supplies, (3) utilization/ consumption of, vaccines and agricultural supplies, and (4) distribution list and Memorandum of Agreement with beneficiaries for seedlings and cattle;\nInstruct the Inventory Committee to verify existence of remaining items on hand pertaining to the above transactions, conduct physical count and submit a report to the Municipal Accountant for appropriate recording in the books;\nInstruct the Officer In Charge of the General Services Office to establish a system to properly control and document the receipt and issuance of inventory items to the requesting department;\nStrictly impose the submission from concerned offices, the report of issuances and consumption of drugs and medicines, laboratory supplies and other supplies for prompt recording in the books; and\nRequire the Municipal Accountant to record initially as Inventories, upon payment, all purchases of inventoriable goods. Reversal shall be only upon submission of pertinent documents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2019-OBS8",
+      "year": 2019,
+      "recommendation": "We recommended to management the following courses of action:\nPlease submit a certification from the Chief Accountant of Bukidnon State University (BukSU) that the instructors and staff paid with honoraria from LGU Libona’s funds were not paid honoraria from BukSU funds for the same particular period;\nStrictly abide with the provisions of the Memorandum of Agreement and discontinue the payment of monthly honoraria to full-time and part-time instructors and school personnel of the satellite campus to avoid conflict and to avoid incurrence of any double-payment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY1",
+      "year": 2019,
+      "recommendation": "Out of twelve (12) CY 2018 prior year’s audit recommendations, seven (7) were implemented, two (2) were partially implemented and three (3) were not implemented.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Out of twelve (12) CY 2018 prior year’s audit recommendations, seven (7) were implemented, two (2) were partially implemented and three (3) were not implemented."
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended the following courses of action:\n(A) Evaluate the receivable accounts presented as current assets by determining whether collections will be realized within one year from the reporting date to enable correct presentation of accounts in the financial statements. (B) We also reiterate the prior year recommendations to institute actions and exhaust all remedies in collecting the receivable accounts. (C) When all remedies are exhausted, request for write off of those accounts aging 10 years or more by following the procedures set forth in COA Circular No. 2016-005.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Partially implemented | Only the Loan Receivable account was reclassified to Non- Current Assets."
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended the management and the Municipal Accountant to: (A) Delegate the preparation of the Subsidiary Ledgers to one of the Accounting Staffs to enable timely updating, to be reviewed by the Municipal Accountant. (B) Immediately trace and prepare SL and schedules for the 3 accounts in order for us to verify and validate the recorded amounts. (C) After the completion of the SL and supporting schedule, take proper actions to enforce collections from the debtors.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Not implemented | Unavailability of documents for prior year accounts."
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive:\nStrictly require a periodic physical inventory of supplies or property. by type, semestrally to enable them to prepare and submit a Report of the Physical Count of Inventories (RPCI) and reconcile them with the Accounting records to ascertain the existence of the asset account and reliability of the financial data. (B) Require from the MHO the details of the Issuances of drugs, medicines and laboratory supplies on a monthly basis and submit them to the Accounting Office for the preparation of JEV to adjust the corresponding inventory accounts. (C) Require the Municipal Accountant to provide the GSO the details of the unadjusted Fuel and Agricultural inventories for them to trace back the issuances and consumption so that these long outstanding inventories will be adjusted accordingly.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Not implemented | Reiterated in this Report"
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended that management monitor and specify a timeline to complete of the RPCPPE for CY 2018 and years thereafter, to enable immediate reconciliation and identification of discrepancies so that adjustments can be made in the books or adequate disclosures can be made in the Notes to Financial Statements as of year-end.  Ensure that reconciliation is made between the RPCPPE and the subsidiary ledgers to reflect a reliable figure of the PPE account as of reporting date.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Partially implemented | Reconciliation between the physical count and the Accounting records were not undertaken."
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended to management that before effecting payments, ensure completeness of documents evidencing complete deliveries including the dates of complete delivery and acceptance. Also, refrain from making advance payment for goods not yet delivered. If mode of delivery is on a per schedule basis, payment shall be made only for the delivered goods.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Implemented |"
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended that management require the General Services Office to conduct actual inventory of goods on hand, relative to the supplemental feeding program and provide the Municipal Accounting Office with the result of the inventory to record the cost as inventory, if there are any. Submit records and documents evidencing distribution to various day care centers, such as duly acknowledged and dated Requisition and Issue Slips (RIS). For subsequent procurement, observe proper recording and documentation on the receipt and distribution of goods.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Implemented |"
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommended that management instruct the BAC Secretariat to adhere strictly to the provision of COA Circular No. 2009-001 on the timely and complete submission of contract documents for review. Stipulations and specific provisions shall be clearly indicated in the contract to safeguard the interest of the government.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Implemented |"
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY9",
+      "year": 2019,
+      "recommendation": "We recommended to management the following courses of action: (A) Require the Municipal Accountant to comply and submit the lacking documentary requirements, as applicable, with the provisions abovementioned as reference to the auditor for review and verification in order to fully substantiate and to clearly establish the propriety and validity of the transfer and the transaction, in general; (B) To strictly adhere to the provisions of Section 2.1 of COA Circular 2012-001 when the need to transfer fund to an NGO/PO with a valid cause/purpose arises in the near future.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Implemented |"
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY10",
+      "year": 2019,
+      "recommendation": "We recommended management to closely observe the one (1) year defects liability period before it issues a Certificate of Final Acceptance (CFA). To safeguard the interest of the government for those projects with prematurely issued CFA, require the contractor to post a warranty security as stipulated in Section 62.2.3 of the 2016 Revised IRR of R.A. 9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Implemented |"
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY11",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accountant strictly observe the submission of mandatory documents before the payment of the 15% advance payment to adhere with the minimum requirement set forth in the 2016 Revised IRR of R.A. 9184 to avoid any legal risk that may arise due to the said lapses.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Implemented |"
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY12",
+      "year": 2019,
+      "recommendation": "(A) Require the MEO to implement an effective monitoring system of all the implemented infrastructure projects whether it be locally or externally funded to enable early corrective actions of projects exhibiting negative slippage. Proper and complete filing, on a per project basis, shall be made on all documents in the execution of the project. (B) To submit status reports of the projects listed in Appendix B as of the target date of completion to identify the unperformed portion as of such date and enable computation of uncollected liquidated damages. Exert effort to collect the said liquidated damages. (C) Locally funded projects should be given the same preferential attention as the externally funded projects to optimize the delivery of services to the constituents of LGU Libona.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Not implemented | Budget utilization of the 20% LDF for CY 2019 was only 56 per cent.\n20 out of 28 programmed projects, were not implemented"
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY13",
+      "year": 2019,
+      "recommendation": "Require the BAC Secretariat to furnish the Office of the Auditor copies of the perfected contracts, as listed above, together with all the supporting documents. Ensure also that for subsequent transactions, contracts are submitted within the prescribed timeframe to enable us to conduct timely review and evaluation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Implemented |"
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY15",
+      "year": 2019,
+      "recommendation": "The Management must immediately conduct a thorough reconciliation of the Cashbooks- Cash In Bank and the SL and take up the adjustments to reconcile both books; After the cashbook and SL are reconciled, both books shall take up the adjustments to record the identified reconciling items between the two books and the bank statements;\nEnsure that, at least, a quarterly reconciliation between the Accountant and the Treasurer shall be practiced; If additional manpower cannot be pursued, the preparation of the BRS have to be delegated to a capable and knowledgeable personnel in the Accounting Office, who will also be tasked to reconcile with the Treasurer’s Cashbooks. The preparation of the BRS shall be done on a timely manner so that any reconciling items found therein can be adjusted immediately; Update the BRS of the General Fund PPSB # 8-002366-231, since this account contains the bulk of the transactions of the LGU.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Implemented |"
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY16",
+      "year": 2019,
+      "recommendation": "Require the Liquidating Officer to strictly implement the provision of Section 26 of COA Circular No. 92-382.   Require all revenue collectors to remit on a daily basis and thoroughly check as to the completeness of the remittance made.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Implemented |"
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY18",
+      "year": 2019,
+      "recommendation": "Require immediate liquidation of all outstanding cash advances as of December 31, 2016 by issuing demand letters to the concerned parties; Require the issuance of Certification by the Municipal Accountant that the previous cash advance has been liquidated and accounted for in the books before granting a new cash advance; Strictly adhere to the provisions on the granting and utilization of cash advances as prescribed by Section 89 of PD 1445 and COA Circular No. 97-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Not implemented | Laxity of management."
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY19",
+      "year": 2019,
+      "recommendation": "The management should retrieve the copies of the MOA executed between the LGU and the NGO/PO and review the provisions therein and institute action against the NGO/PO and their officers pursuant to the provisions of the said agreements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Not implemented | Inaction of management"
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY20",
+      "year": 2019,
+      "recommendation": "Direct the BAC Secretariat to furnish the Office of the Auditor copies of the perfected contracts and purchase orders together with all the supporting documents within the prescribed timeframe to enable us to conduct timely review and evaluation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Implemented |"
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY22",
+      "year": 2019,
+      "recommendation": "The Municipal Accountant locates/reconciles and corrects the errors that affect the reliability of the Reciprocal Accounts in all transactions affecting the Due to Other Funds and Due from Other Funds accounts in accordance with PPSAS.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Implemented |"
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY24",
+      "year": 2019,
+      "recommendation": "Require the Municipal Accountant to discuss or disclose in the Notes to Financial Statements of the agency the amounts and details of the unexpended balance of the LDRRMF and the Disaster Action Officer to include in the Physical and Financial Accomplishment Report the utilization of the net accumulated LDRRMF and other dedicated disaster reduction and management resources in the previous years.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Not implemented | Overlooked by the Municipal Accountant. Only current unexpended LDRRMF was disclosed in the NTFS."
+    },
+    {
+      "id": "Libona_Bukidnon-2019-PY26",
+      "year": 2019,
+      "recommendation": "Instruct the BAC Chairman to comply the requirements set forth under Section 12.12 of the IRR of RA 9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Implemented |"
+    },
+    {
+      "id": "Libona_Bukidnon-2018-PY2",
+      "year": 2018,
+      "recommendation": "Require the Liquidating Officer to strictly implement the provision of Section 26 of COA Circular No. 92-382.   Require all revenue collectors to remit on a daily basis and thoroughly check as to the completeness of the remittance made.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of internal control in the Treasury department"
+    },
+    {
+      "id": "Libona_Bukidnon-2018-PY10",
+      "year": 2018,
+      "recommendation": "Require immediate liquidation of all outstanding cash advances as of December 31, 2016 by issuing demand letters to the concerned parties; Require the issuance of Certification by the Municipal Accountant that the previous cash advance has been liquidated and accounted for in the books before granting a new cash advance; Strictly adhere to the provisions on the granting and utilization of cash advances as prescribed by Section 89 of PD 1445 and COA Circular No. 97-002.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Laxity of management."
+    },
+    {
+      "id": "Libona_Bukidnon-2018-PY11",
+      "year": 2018,
+      "recommendation": "The management should retrieve the copies of the MOA executed between the LGU and the NGO/PO and review the provisions therein and institute action against the NGO/PO and their officers pursuant to the provisions of the said agreements.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Inaction of management"
+    },
+    {
+      "id": "Libona_Bukidnon-2018-PY15",
+      "year": 2018,
+      "recommendation": "The Local Chief Executive require a period physical of supplies or property, by type, semestrally. Then, instruct the Designated General Services Offer to maintain stock cards for proper control of inventory purchases and issuances and to prepare a Report of the Physical Count of Inventories (RPCI). Also instruct the Accountant and the Property Officer to reconcile their respective records to ascertain the existence of the asset account and reliability of the financial data.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Physical count was focused on the PPE."
+    },
+    {
+      "id": "Libona_Bukidnon-2018-PY16",
+      "year": 2018,
+      "recommendation": "The Municipal Accountant locates/reconciles and corrects the errors that affect the reliability of the Reciprocal Accounts in all transactions affecting the Due to Other Funds and Due from Other Funds accounts in accordance with PPSAS.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "On- going reconciliation."
+    },
+    {
+      "id": "Libona_Bukidnon-2018-PY19",
+      "year": 2018,
+      "recommendation": "Require the Municipal Accountant to discuss or disclose in the Notes to Financial Statements of the agency the amounts and details of the unexpended balance of the LDRRMF and the Disaster Action Officer to include in the Physical and Financial Accomplishment Report the utilization of the net accumulated LDRRMF and other dedicated disaster reduction and management resources in the previous years.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Overlooked by the Municipal Accountant. Only current unexpended LDRRMF was disclosed in the NTFS."
+    },
+    {
+      "id": "Libona_Bukidnon-2018-PY20",
+      "year": 2018,
+      "recommendation": "Instruct the BAC Chairman to comply the requirements set forth under Section 12.12 of the IRR of RA 9184.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The complexity of the report and the numerous data required prevented timely submission of the report."
+    },
+    {
+      "id": "Libona_Bukidnon-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended the following courses of action:\nEvaluate the receivable accounts presented as current assets by determining whether collections will be realized within one year from the reporting date to enable correct presentation of accounts in the financial statements.\nWe also reiterate the prior year recommendations to institute actions and exhaust all remedies in collecting the receivable accounts.\nWhen all remedies are exhausted, request for write off of those accounts aging 10 years or more by following the procedures set forth in COA Circular No. 2016-005.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We recommended the management and the Municipal Accountant to:\nDelegate the preparation of the Subsidiary Ledgers to one of the Accounting Staffs to enable timely updating, to be reviewed by the Municipal Accountant.\nImmediately trace and prepare SL and schedules for the 3 accounts in order for us to verify and validate the recorded amounts.\nAfter the completion of the SL and supporting schedule, take proper actions to enforce collections from the debtors.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive:\nStrictly require a periodic physical inventory of supplies or property. by type, semestrally to enable them to prepare and submit a Report of the Physical Count of Inventories (RPCI) and reconcile them with the Accounting records to ascertain the existence of the asset account and reliability of the financial data.\nRequire from the MHO the details of the Issuances of drugs, medicines and laboratory supplies on a monthly basis and submit them to the Accounting Office for the preparation of JEV to adjust the corresponding inventory accounts.\nRequire the Municipal Accountant to provide the GSO the details of the unadjusted Fuel and Agricultural inventories for them to trace back the issuances and consumption so that these long outstanding inventories will be adjusted accordingly.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended that management monitor and specify a timeline to complete of the RPCPPE for CY 2018 and years thereafter, to enable immediate reconciliation and identification of discrepancies so that adjustments can be made in the books or adequate disclosures can be made in the Notes to Financial Statements as of year-end.  Ensure that reconciliation is made between the RPCPPE and the subsidiary ledgers to reflect a reliable figure of the PPE account as of reporting date.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We recommended to management that before effecting payments, ensure completeness of documents evidencing complete deliveries including the dates of complete delivery and acceptance. Also, refrain from making advance payment for goods not yet delivered. If mode of delivery is on a per schedule basis, payment shall be made only for the delivered goods.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We recommended that management require the General Services Office to conduct actual inventory of goods on hand, relative to the supplemental feeding program and provide the Municipal Accounting Office with the result of the inventory to record the cost as inventory, if there are any. Submit records and documents evidencing distribution to various day care centers, such as duly acknowledged and dated Requisition and Issue Slips (RIS). For subsequent procurement, observe proper recording and documentation on the receipt and distribution of goods.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2018-OBS7",
+      "year": 2018,
+      "recommendation": "We recommended that management instruct the BAC Secretariat to adhere strictly to the provision of COA Circular No. 2009-001 on the timely and complete submission of contract documents for review. Stipulations and specific provisions shall be clearly indicated in the contract to safeguard the interest of the government.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2018-OBS8",
+      "year": 2018,
+      "recommendation": "We recommended to management the following courses of action:\nRequire the Municipal Accountant to comply and submit the lacking documentary requirements, as applicable, with the provisions abovementioned as reference to the auditor for review and verification in order to fully substantiate and to clearly establish the propriety and validity of the transfer and the transaction, in general;\nTo strictly adhere to the provisions of Section 2.1 of COA Circular 2012-001 when the need to transfer fund to an NGO/PO with a valid cause/purpose arises in the near future.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2018-OBS9",
+      "year": 2018,
+      "recommendation": "We recommended management to closely observe the one (1) year defects liability period before it issues a Certificate of Final Acceptance (CFA). To safeguard the interest of the government for those projects with prematurely issued CFA, require the contractor to post a warranty security as stipulated in Section 62.2.3 of the 2016 Revised IRR of R.A. 9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2018-OBS10",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Accountant strictly observe the submission of mandatory documents before the payment of the 15% advance payment to adhere with the minimum requirement set forth in the 2016 Revised IRR of R.A. 9184 to avoid any legal risk that may arise due to the said lapses.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2018-OBS11",
+      "year": 2018,
+      "recommendation": "Require the MEO to implement an effective monitoring system of all the implemented infrastructure projects whether it be locally or externally funded to enable early corrective actions of projects exhibiting negative slippage. Proper and complete filing, on a per project basis, shall be made on all documents in the execution of the project.\nTo submit status reports of the projects listed in Appendix B as of the target date of completion to identify the unperformed portion as of such date and enable computation of uncollected liquidated damages. Exert effort to collect the said liquidated damages.\nLocally funded projects should be given the same preferential attention as the externally funded projects to optimize the delivery of services to the constituents of LGU Libona.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2018-OBS12",
+      "year": 2018,
+      "recommendation": "Require the BAC Secretariat to furnish the Office of the Auditor copies of the perfected contracts, as listed above, together with all the supporting documents. Ensure also that for subsequent transactions, contracts are submitted within the prescribed timeframe to enable us to conduct timely review and evaluation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2018-OBS13",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2018-OBS14",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2018-OBS15",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2018-PY1",
+      "year": 2018,
+      "recommendation": "The Management must immediately conduct a thorough reconciliation of the Cashbooks- Cash In Bank and the SL and take up the adjustments to reconcile both books; After the cashbook and SL are reconciled, both books shall take up the adjustments to record the identified reconciling items between the two books and the bank statements;\nEnsure that, at least, a quarterly reconciliation between the Accountant and the Treasurer shall be practiced; If additional manpower cannot be pursued, the preparation of the BRS have to be delegated to a capable and knowledgeable personnel in the Accounting Office, who will also be tasked to reconcile with the Treasurer’s Cashbooks. The preparation of the BRS shall be done on a timely manner so that any reconciling items found therein can be adjusted immediately; Update the BRS of the General Fund PPSB # 8-002366-231, since this account contains the bulk of the transactions of the LGU.",
+      "managementAction": "Some major bank accounts such as PPSB and LBP Capistrano accounts were not reconciled",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The long period coverage and numerous transactions attributed to the failure to complete the reconciliation."
+    },
+    {
+      "id": "Libona_Bukidnon-2018-PY3",
+      "year": 2018,
+      "recommendation": "Require the Municipal Accountant and the Municipal Treasurer to analyze and verify the identified reconciling items in the initial reconciliation made during the cash examination. After analysis and verification, effect the necessary adjustment in the corresponding books of accounts; Any adjustments that will be made both in the cashbook and in the books of accounts shall be properly supported and explained; Designate additional manpower to delegate the function of the Liquidating Officer, so that the Municipal Treasurer can undertake reconciliation of the transactions after June 30, 2017; Ensure monthly reconciliation of balances to avoid any unaccounted collections and deposits and to aid in the discovery of any unremitted collections; Immediately deposit any balances in the Cash in Treasury accounts to avoid shortages; Ensure that every SCD prepared by Municipal Treasurer be supported with Validated Deposit Slips corresponding to the amount of the SCD.",
+      "managementAction": "Reconciliation was completed",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2018-PY4",
+      "year": 2018,
+      "recommendation": "Require the Local Chief Executive to legally designate a Special Disbursing Officer (SDOs) out of these officers and employees for other legally authorized purposes; Once designated, the officers and employees should be properly and sufficiently bonded and should maintain distinct and separate Official Cashbooks for handy monitoring and easy validation of their spending. For remaining unliquidated cash advances, we further recommended that these outstanding balances be settled and liquidated immediately.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2018-PY5",
+      "year": 2018,
+      "recommendation": "Instruct the Municipal Accountant to reclassify the entries of these transactions to the Construction-in-Progress account and secure Statement of Work Accomplished (SWA) or any similar documents like certification that would attest to the total completion of the project before recognizing and reporting the total project cost to its corresponding asset account; Ensure coherence in the recording of these specific PPE accounts by firstly, determining the intended purpose of the project being constructed and secondly, properly match it and account it based on the recently released PPSAS definition of account titles and other pertinent COA rules and regulations.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2018-PY6",
+      "year": 2018,
+      "recommendation": "Instruct the Supply Officer to conduct inventory of the abovementioned items which should be done annually and reclassify as inventory those that remain unutilized with the Inventory report as the basis; End users of the inventory items should submit Utilization Schedules or Consumption Reports to completely substantiate and fully justify recognition of expense on these goods; Thus, require the Accountant to account purchase of supplies and materials, whether they are consumed or not within the accounting period, and record as debit to Inventory Account. For check and balance, the Property and Supply Office shall maintain Stock cards (SC) for inventories. The balance in quantity per SC should always reconcile with the ledger cards of the Accounting Units.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2018-PY7",
+      "year": 2018,
+      "recommendation": "Instruct the Bids and Awards Committee (BAC) to put this improper practice to a halt by cautiously checking every single Purchase Request received; Management should pass a memorandum informing all departments (usually the requisitioning parties) to exclude brand names in devising Purchase Requests in times when the necessity to acquire goods like IT equipment will arise.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2018-PY8",
+      "year": 2018,
+      "recommendation": "Management should properly observe the correct procedure of Negotiated Procurement – Small Value Procurement by preparing Requests for Quotation from a minimum of three (3) suppliers in purchasing commodities and must stop buying directly from LIBEMCO or MOFE’s Pastries & Catering Services unless they quote the lowest cost among other sellers; Management should bear in mind that the Approved Budget in the Purchase Request is the threshold in every procurement and the amount of its corresponding Purchase Order must not exceed or go beyond it.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2018-PY9",
+      "year": 2018,
+      "recommendation": "The Municipal Accountant should make further analysis on the above cited reconciling items and gather data to support its adjustments; Adjust promptly all stale checks and maintain records and documents of those transactions to support subsequent claims for payment; Update the BRS of the GF-EE PPSB 0008-004260-271, TF-LBP PAMANA 3532-0033-17, GF PPSB account 0008-002366-231 and GF LBP account 3532-0003-26; Transfer the remaining Cash In Bank balances in the General Fund totaling P12,900.53 to the Trust Fund.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2018-PY12",
+      "year": 2018,
+      "recommendation": "Direct the BAC Secretariat to furnish the Office of the Auditor copies of the perfected contracts and purchase orders together with all the supporting documents within the prescribed timeframe to enable us to conduct timely review and evaluation.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Lack of manpower compliment in the bac Secretariat Office"
+    },
+    {
+      "id": "Libona_Bukidnon-2018-PY13",
+      "year": 2018,
+      "recommendation": "Prioritize the implementation of the projects funded under the 20% LDF in order to deliver optimum results and benefits to its constituents.\n.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2018-PY14",
+      "year": 2018,
+      "recommendation": "The Municipal Mayor should create an Inventory Committee and issue a directive to conduct physical inventory",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Physical count was made, however, no report was finalized since the Municipal Inventory Committee was pre- occupied on their respective functions thus, the report was not materialized."
+    },
+    {
+      "id": "Libona_Bukidnon-2018-PY17",
+      "year": 2018,
+      "recommendation": "Require the Municipal Accountant to reclassify in the accounts of the agency all current portion of its long-term loan as at year-end by a debit to Loans Payable- Domestic (444) and a credit to Other Payables (439) and/or properly and adequately disclose in the Notes to Financial Statements.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2018-PY18",
+      "year": 2018,
+      "recommendation": "Require the Municipal Accountant to provide depreciation expenses for the agency’s building and similar structures and for depreciable serviceable assets though not used in operations and to review the details of the “Buildings” account of the agency for the needed reclassification of some items to their appropriate asset of public infrastructure accounts.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2017-PY2",
+      "year": 2017,
+      "recommendation": "Require immediate liquidation of all outstanding cash advances as of December 31, 2016 by issuing demand letters to the concerned parties; Require the issuance of Certification by the Municipal Accountant that the previous cash advance has been liquidated and accounted for in the books before granting a new cash advance; Strictly adhere to the provisions on the granting and utilization of cash advances as prescribed by Section 89 of PD 1445 and COA Circular No. 97-002.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Laxity of management."
+    },
+    {
+      "id": "Libona_Bukidnon-2017-PY4",
+      "year": 2017,
+      "recommendation": "The management should retrieve the copies of the MOA executed between the LGU and the NGO/PO and review the provisions therein and institute action against the NGO/PO and their officers pursuant to the provisions of the said agreements.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Laxity of management."
+    },
+    {
+      "id": "Libona_Bukidnon-2017-PY8",
+      "year": 2017,
+      "recommendation": "Prioritize the implementation of the projects funded under the 20% LDF in order to deliver optimum results and benefits to its constituents.\n.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Prioritization of externally funded projects i.e. NGAs and Provincial Funded Infra Projects"
+    },
+    {
+      "id": "Libona_Bukidnon-2017-PY9",
+      "year": 2017,
+      "recommendation": "The Municipal Mayor should create an Inventory Committee and issue a directive to conduct physical inventory",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Physical count was made, however, no report was finalized since the Municipal Inventory Committee was pre- occupied on their respective functions thus, the report was not materialized."
+    },
+    {
+      "id": "Libona_Bukidnon-2017-PY10",
+      "year": 2017,
+      "recommendation": "The Local Chief Executive require a period physical of supplies or property, by type, semestrally. Then, instruct the Designated General Services Offer to maintain stock cards for proper control of inventory purchases and issuances and to prepare a Report of the Physical Count of Inventories (RPCI). Also instruct the Accountant and the Property Officer to reconcile their respective records to ascertain the existence of the asset account and reliability of the financial data.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Physical count was focused on the PPE."
+    },
+    {
+      "id": "Libona_Bukidnon-2017-PY12",
+      "year": 2017,
+      "recommendation": "Require the Municipal Accountant to reclassify in the accounts of the agency all current portion of its long-term loan as at year-end by a debit to Loans Payable- Domestic (444) and a credit to Other Payables (439) and/or properly and adequately disclose in the Notes to Financial Statements.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Municipal Accountant believed that there is no reason to reflect current portion of long-term liabilities as of Dec. 31, 2017 because 2017 payables were settled before the year ends."
+    },
+    {
+      "id": "Libona_Bukidnon-2017-PY13",
+      "year": 2017,
+      "recommendation": "Require the Municipal Accountant to provide depreciation expenses for the agency’s building and similar structures and for depreciable serviceable assets though not used in operations and to review the details of the “Buildings” account of the agency for the needed reclassification of some items to their appropriate asset of public infrastructure accounts.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The municipal accountant believed that the buildings used for public purposes were not provided with depreciation. However, she committed to provide for depreciation in the subsequent years."
+    },
+    {
+      "id": "Libona_Bukidnon-2017-PY14",
+      "year": 2017,
+      "recommendation": "Require the Municipal Accountant to discuss or disclose in the Notes to Financial Statements of the agency the amounts and details of the unexpended balance of the LDRRMF and the Disaster Action Officer to include in the Physical and Financial Accomplishment Report the utilization of the net accumulated LDRRMF and other dedicated disaster reduction and management resources in the previous years.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Overlooked by management. However, a quarterly report was made on the utilization and status of the LDRRM Fund."
+    },
+    {
+      "id": "Libona_Bukidnon-2017-PY15",
+      "year": 2017,
+      "recommendation": "The Municipal Treasurer and Municipal Accountant should coordinate with each other in performing reconciliation of their records.\n\nCompare the transactions, make the proper adjustments and ensure that both accounts report the same amount of cash.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Laxity of management in the implementation of the recommendation"
+    },
+    {
+      "id": "Libona_Bukidnon-2017-PY17",
+      "year": 2017,
+      "recommendation": "Instruct the BAC Chairman to comply the requirements set forth under Section 12.12 of the IRR of RA 9184.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Overlooked by management."
+    },
+    {
+      "id": "Libona_Bukidnon-2017-OBS1",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended that the following actions be undertaken by management:\nImmediately conduct a thorough reconciliation of the Cashbooks- Cash In Bank and the SL and take up the adjustments to reconcile both books.\nAfter the cashbook and SL are reconciled, both books shall take up the adjustments to record the identified reconciling items between the two books and the bank statements.\nEnsure that, at least, a quarterly reconciliation between the Accountant and the Treasurer shall be practiced.\nIf additional manpower cannot be pursued, the preparation of the BRS have to be delegated to a capable and knowledgeable personnel in the Accounting Office, who will also be tasked to reconcile with the Treasurer’s Cashbooks. The preparation of the BRS shall be done on a timely manner so that any reconciling items found therein can be adjusted immediately.\nUpdate the BRS of the General Fund PPSB # 8-002366-231, since this account contains the bulk of the transactions of the LGU.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2017-OBS2",
+      "year": 2017,
+      "recommendation": "Recommendation:\nRequire the Liquidating Officer to strictly implement the provision of Section 26 of COA Circular No. 92-382.   Require all revenue collectors to remit on a daily basis and thoroughly check as to the completeness of the remittance made.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2017-OBS3",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended that the following actions be undertaken by management immediately:\nRequire the Municipal Accountant and the Municipal Treasurer to analyze and verify the identified reconciling items in the initial reconciliation made during the cash examination. After analysis and verification, effect the necessary adjustment in the corresponding books of accounts.\nAny adjustments that will be made both in the cashbook and in the books of accounts shall be properly supported and explained.\nDesignate additional manpower to delegate the function of the Liquidating Officer, so that the Municipal Treasurer can undertake reconciliation of the transactions after June 30, 2017.\nEnsure monthly reconciliation of balances to avoid any unaccounted collections and deposits and to aid in the discovery of any unremitted collections.\nImmediately deposit any balances in the Cash in Treasury accounts to avoid shortages.\nEnsure that every SCD prepared by Municipal Treasurer be supported with Validated Deposit Slips corresponding to the amount of the SCD.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2017-OBS4",
+      "year": 2017,
+      "recommendation": "Recommendation:\nRequire the Local Chief Executive to legally designate a Special Disbursing Officer (SDOs) out of these officers and employees for other legally authorized purposes; Once designated, the officers and employees should be properly and sufficiently bonded and should maintain distinct and separate Official Cashbooks for handy monitoring and easy validation of their spending. For remaining unliquidated cash advances, we further recommended that these outstanding balances be settled and liquidated immediately.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2017-OBS5",
+      "year": 2017,
+      "recommendation": "Recommendation:\nInstruct the Municipal Accountant to reclassify the entries of these transactions to the Construction-in-Progress account and secure Statement of Work Accomplished (SWA) or any similar documents like certification that would attest to the total completion of the project before recognizing and reporting the total project cost to its corresponding asset account; Ensure coherence in the recording of these specific PPE accounts by firstly, determining the intended purpose of the project being constructed and secondly, properly match it and account it based on the recently released PPSAS definition of account titles and other pertinent COA rules and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2017-OBS6",
+      "year": 2017,
+      "recommendation": "Recommendation:\nInstruct the Supply Officer to conduct inventory of the abovementioned items which should be done annually and reclassify as inventory those that remain unutilized with the Inventory report as the basis; End users of the inventory items should submit Utilization Schedules or Consumption Reports to completely substantiate and fully justify recognition of expense on these goods.\nThus, require the Accountant to account purchase of supplies and materials, whether they are consumed or not within the accounting period, and record as debit to Inventory Account. For check and balance, the Property and Supply Office shall maintain Stock cards (SC) for inventories. The balance in quantity per SC should always reconcile with the ledger cards of the Accounting Units.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2017-OBS7",
+      "year": 2017,
+      "recommendation": "Recommendation:\nInstruct the Bids and Awards Committee (BAC) to put this improper practice to a halt by cautiously checking every single Purchase Request received; Management should pass a memorandum informing all departments (usually the requisitioning parties) to exclude brand names in devising Purchase Requests in times when the necessity to acquire goods like IT equipment will arise.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2017-OBS8",
+      "year": 2017,
+      "recommendation": "Recommendation:\nManagement should properly observe the correct procedure of Negotiated Procurement – Small Value Procurement by preparing Requests for Quotation from a minimum of three (3) suppliers in purchasing commodities and must stop buying directly from LIBEMCO or MOFE’s Pastries & Catering Services unless they quote the lowest cost among other sellers; Management should bear in mind that the Approved Budget in the Purchase Request is the threshold in every procurement and the amount of its corresponding Purchase Order must not exceed or go beyond it.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2017-OBS9",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2017-OBS10",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2017-OBS11",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2017-OBS12",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2017-PY1",
+      "year": 2017,
+      "recommendation": "The Municipal Accountant should make further analysis on the above cited reconciling items and gather data to support its adjustments; Adjust promptly all stale checks and maintain records and documents of those transactions to support subsequent claims for payment; Update the BRS of the GF-EE PPSB 0008-004260-271, TF-LBP PAMANA 3532-0033-17, GF PPSB account 0008-002366-231 and GF LBP account 3532-0003-26; Transfer the remaining Cash In Bank balances in the General Fund totaling P12,900.53 to the Trust Fund.",
+      "managementAction": "Some reconciling items were already taken up in the books in CY 2017",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Lack of manpower to update the BRS thus adjustments cannot be taken up immediately."
+    },
+    {
+      "id": "Libona_Bukidnon-2017-PY3",
+      "year": 2017,
+      "recommendation": "Require all transfer of funds to Barangays, to implement the projects and programs of the Municipality, be covered by a Memorandum of Agreement (MOA) and other documentary requirements as enumerated in Section 3.1.1 of COA Circular No. 2012-001 to establish proper accountability and monitoring of the proper utilization of the funds.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2017-PY5",
+      "year": 2017,
+      "recommendation": "Direct the BAC Secretariat to furnish the Office of the Auditor copies of the perfected contracts and purchase orders together with all the supporting documents within the prescribed timeframe to enable us to conduct timely review and evaluation.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Not all contracts were submitted to COA for review."
+    },
+    {
+      "id": "Libona_Bukidnon-2017-PY6",
+      "year": 2017,
+      "recommendation": "Require immediate submission of the consumption/utilization report and distribution sheets to the Municipal Accounting Office as basis for the drawing up of JEV for the reversal of the inventory account and proper recognition of the corresponding expense.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2017-PY7",
+      "year": 2017,
+      "recommendation": "Require the Municipal Accountant to ensure the completeness of supporting documents to every disbursement voucher before processing the claims to establish its propriety, validity and regularity by requiring each and every attachment as mentioned above, depending on the nature of the claim.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2017-PY11",
+      "year": 2017,
+      "recommendation": "The Municipal Accountant locates/reconciles and corrects the errors that affect the reliability of the Reciprocal Accounts in all transactions affecting the Due to Other Funds and Due from Other Funds accounts in accordance with PPSAS.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "On- going reconciliation."
+    },
+    {
+      "id": "Libona_Bukidnon-2017-PY16",
+      "year": 2017,
+      "recommendation": "Instruct the Municipal Treasurer and Municipal Accountant to observe strictly proper recording and correct classification of Trust Funds in accordance with the New Government Accounting System",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2016-PY9",
+      "year": 2016,
+      "recommendation": "Require the Municipal Accountant to reclassify in the accounts of the agency all current portion of its long-term loan as at year-end by a debit to Loans Payable- Domestic (444) and a credit to Other Payables (439) and/or properly and adequately disclose in the Notes to Financial Statements.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Municipal Accountant believed that there is no reason to reflect current portion of long-term liabilities as of Dec. 31, 2016 because 2015 payables were settled before the year ends. A commitment was made that current portion will be reflected in the FS in the next years."
+    },
+    {
+      "id": "Libona_Bukidnon-2016-PY10",
+      "year": 2016,
+      "recommendation": "Require the Municipal Accountant to provide depreciation expenses for the agency’s building and similar structures and for depreciable serviceable assets though not used in operations and to review the details of the “Buildings” account of the agency for the needed reclassification of some items to their appropriate asset of public infrastructure accounts.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The municipal accountant commented that the buildings used for publicpurposes were not provided with depreciation."
+    },
+    {
+      "id": "Libona_Bukidnon-2016-PY11",
+      "year": 2016,
+      "recommendation": "Require the Municipal Accountant to discuss or disclose in the Notes to Financial Statements of the agency the amounts and details of the unexpended balance of the LDRRMF and the Disaster Action Officer to include in the Physical and Financial Accomplishment Report the utilization of the net accumulated LDRRMF and other dedicated disaster reduction and management resources in the previous years.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Overlooked by management. However, a quarterly report was made on the utilization and status of the LDRRM Fund."
+    },
+    {
+      "id": "Libona_Bukidnon-2016-PY13",
+      "year": 2016,
+      "recommendation": "The Municipal Treasurer and Municipal Accountant should coordinate with each other in performing reconciliation of their records.\n\nCompare the transactions, make the proper adjustments and ensure that both accounts report the same amount of cash.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Laxity of management in the implementation of the recommendation."
+    },
+    {
+      "id": "Libona_Bukidnon-2016-PY15",
+      "year": 2016,
+      "recommendation": "Instruct the BAC Chairman to comply the requirements set forth under Section 12.12 of the IRR of RA 9184.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Overlooked by management."
+    },
+    {
+      "id": "Libona_Bukidnon-2016-OBS1",
+      "year": 2016,
+      "recommendation": "Werecommendedmanagement require the Municipal Accountant to:\nMake further analysis on the above cited reconciling items and gather data to support its adjustments.\nAdjust promptly all stale checks and maintain records and documents of those transactions to support subsequent claims for payment.\nUpdate the BRS of the GF-EE PPSB 0008-004260-271, TF-LBP PAMANA 3532-0033-17, GF PPSB account 0008-002366-231 and GF LBP account 3532-0003-26.\nTransfer the remaining Cash In Bank balances in the General Fund totaling P12,900.53 to the Trust Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We recommended management:\nRequire immediate liquidation of all outstanding cash advances as of December 31, 2016 by issuing demand letters to the concerned parties;\nRequire the issuance of Certification by the Municipal Accountant that the previous cash advance has been liquidated and accounted for in the books before granting a new cash advance; and\nStrictly adhere to the provisions on the granting and utilization of cash advances as prescribed by Section 89 of PD 1445 and COA Circular No. 97-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommended management require all transfer of funds to Barangays, to implement the projects and programs of the Municipality, be covered by a Memorandum of Agreement (MOA) and other documentary requirements as enumerated in Section 3.1.1 of COA Circular No. 2012-001 to establish proper accountability and monitoring of the proper utilization of the funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We recommended management retrieve the copies of the MOA executed between the LGU and the NGO/PO and review the provisions therein and institute action against the NGO/PO and their officers pursuant to the provisions of the said agreements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommended management direct the BAC Secretariat to furnish the Office of the Auditor copies of the perfected contracts and purchase orders together with all the supporting documents within the prescribed timeframe to enable us to conduct timely review and evaluation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommended managementrequire immediate submission of the consumption/utilization report and distribution sheets to the Municipal Accounting Office as basis for the drawing up of JEV for the reversal of the inventory account and proper recognition of the corresponding expense.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We recommended management require the Municipal Accountant to ensure the completeness of supporting documents to every disbursement voucher before processing the claims to establish its propriety, validity and regularity by requiring each and every attachment as mentioned above, depending on the nature of the claim.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We recommended management prioritize the implementation of the projects funded under the 20% LDF in order to deliver optimum results and benefits to its constituents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2016-PY1",
+      "year": 2016,
+      "recommendation": "The Municipal Mayor should create an Inventory Committee and issue a directive to conduct physical inventory",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "An inventory committee was already created and the physical count was already started but was not yet completed."
+    },
+    {
+      "id": "Libona_Bukidnon-2016-PY2",
+      "year": 2016,
+      "recommendation": "The Local Chief Executive require a period physical of supplies or property, by type, semestrally. Then, instruct the Designated General Services Offer to maintain stock cards for proper control of inventory purchases and issuances and to prepare a Report of the Physical Count of Inventories (RPCI). Also instruct the Accountant and the Property Officer to reconcile their respective records to ascertain the existence of the asset account and reliability of the financial data.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "An inventory committee was already created and the physical count was already started but was not yet completed."
+    },
+    {
+      "id": "Libona_Bukidnon-2016-PY3",
+      "year": 2016,
+      "recommendation": "The Municipal Mayor and the Municipal Accountant should strictly observe and follow the provisions of Joint Circular No. 2015-01, otherwise administrative disciplinary action as well as disallowing the cash advances granted will be imposed.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2016-PY4",
+      "year": 2016,
+      "recommendation": "Management should stop the granting of rice allowance every month and require the officials and employees who received said allowance to refund. The Head of the Agency shall see to it that the financial resources of the municipality must be prudently used.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2016-PY5",
+      "year": 2016,
+      "recommendation": "Management limithe payment of communication expense only up to the allowable monthly credit limit. The excess billing shall be shouldered personally by the employees. Compute and record the previous payments made by the Municipality in excess of the credit limit, per employee, per month as Due from Officers and Employees, since the effectivity  of the contract. Establish a collection scheme for the employees to fully refund the excess payments.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2016-PY6",
+      "year": 2016,
+      "recommendation": "The Municipal Accountant locates/reconciles and corrects the errors that affect the reliability of the Reciprocal Accounts in all transactions affecting the Due to Other Funds and Due from Other Funds accounts in accordance with PPSAS.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reconciliation was already started but still on- going"
+    },
+    {
+      "id": "Libona_Bukidnon-2016-PY7",
+      "year": 2016,
+      "recommendation": "Management instructs the Municipal Accountant to record the funds received from the Provincial Government as Due to LGUs. Upon billing or charging of the actual expenses to the provincial fund, require the Municipal Engineer to submit to the Municipal Accountant a computation of the equipment utilization, fuel consumption, labor component, materials and other expenses incurred in the maintenance of provincial roads. Then, this is the right time to recognize the expense and the related income derived from the equipment operation.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2016-PY8",
+      "year": 2016,
+      "recommendation": "Management instructs the Acting General Services Officer (GSO) not to tolerate delayed deliveries. Also instruct the Municipal Accountant to strictly impose liquidated damages for every day of delay incurred by the suppliers in the delivery of ordered items.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2016-PY12",
+      "year": 2016,
+      "recommendation": "We hereby request for the submission of the copy of the under-oath addendum on cost- cutting measures/ systems improvement duly adopted by both parties to the CNA for the year 2014, and the computation of savings as defined in CNA regulations that are used as source for the grant of the incentives for the same year. Further, to observe strict compliance with the provisions of the subsisting PSLMC resolutions, the provisions of the Compensation Plan under RA 6758, and those expressly provided by Presidential issuance/s respecting the grant of CNA.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Libona_Bukidnon-2016-PY14",
+      "year": 2016,
+      "recommendation": "Instruct the Municipal Treasurer and Municipal accountant to observe strictly proper recording and correct classification of Trust Funds in accordance with the New Government Accounting System.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Funds transferred from Philhealth for maternal care Program and PCB still remained in the General Fund"
+    }
+  ]
+}

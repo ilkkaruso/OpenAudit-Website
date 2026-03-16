@@ -1,0 +1,2406 @@
+{
+  "lguCode": "102802000",
+  "lguName": "Bacarra",
+  "province": "Ilocos Norte",
+  "region": "Region I (Ilocos Region)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2024-PY7",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Accountant to:\n\nexert all efforts to find and furnish sufficient evidence and proper documentation for all outstanding Receivables in order to enforce collection and to preserve all related documents for proper turnover in accordance with Section 111 (1) of PD No. 1445;\n\nmaintain subsidiary ledgers and proper aging for each payor/agency to monitor the need for estimation on the allowance for impairment of receivables that remained dormant/uncollectible for many years in accordance with IPSAS 29; and\n\nrequest for the approval of this Commission for the write-off/derecognition of the dormant balances in accordance with COA Circular No. 2016-005 as amended by COA Circular No. 2023-008 dated August 17, 2023.",
+      "managementAction": "Demand letters were sent to identified debtors.\n\n\n\n\n\nManagement started locating, collecting and assessing the payors' data to determine collectability of the outstanding receivables. \n\nManagement started the analysis and verification of accounts.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2024-PY9",
+      "year": 2024,
+      "recommendation": "We recommended that Management require the Municipal Accountant to undertake the necessary procedures and validate the existence of the receivable accounts before filing a written request for authority to write-off the accounts pursuant to COA Circular No. 2016-005 dated December 19, 2016 to establish the existence and legitimacy of the receivable accounts for fair presentation in the FS.",
+      "managementAction": "The Agricultural Technicians has already started determining the whereabouts and conditions of the recipients and the projects undertaken.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2024-PY10",
+      "year": 2024,
+      "recommendation": "We recommended that Management release the retention money to the concerned contractors/suppliers.   \n\n\n\n\nWe recommended further that for payables whose creditors could not already be determined, revert the account to the Government Equity, while for guaranty payables due to known contractors/suppliers, management has to inform them to file requests for their claims.",
+      "managementAction": "Suppliers have been informed about the process for claiming their guarantee deposits. Most suppliers have complied, and their guarantee deposits have already been released.\n\nNo action/s taken yet.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2024-OBS1",
+      "year": 2024,
+      "recommendation": "We recommended and the Management agreed to constitute an appraisal committee to appraise the current values and determine the remaining useful lives of the assets, and for the Municipal Accountant to compute the depreciation of the assets as of the current year and prepare the necessary adjusting entries to correct the related balances of the accounts reported in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2024-OBS2",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Accountant to reclassify the Garbage Truck recorded under Other Transportation Equipment as Disaster Response and Rescue Equipment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2024-OBS3",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Accountant to record succeeding transactions in strict compliance with the provisions of COA Circular Nos. 2015-009 and 2024-006, and to capitalize the recorded R&M Expense – Infrastructure Asset costing ₱589,387.57 under the Other Infrastructure Asset account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2024-OBS4",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to instruct the BAC to strictly comply with the provisions of the Revised IRR of RA No. 9184, DPWH DO No. 79, and Section 4, Item 6 of PD No. 1445 on the required documentation to avoid disallowance or suspensions in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2024-OBS5",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Treasurer to certify the availability of funds for succeeding transactions before the checks are issued for payment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2024-OBS6",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to instruct the BAC to strictly comply with the provisions of the Revised IRR of RA No. 9184 in the procurement of goods, particularly on the prohibition of reference to brand names, to ensure wider participation of suppliers, obtain more competitive bids and to ensure procurement activities are most advantageous to the government.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2024-OBS7",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Accountant to check that all disbursement vouchers are duly supported with the required documents to ensure that all are legal and valid charges against the funds of the LGU. Furthermore, all supporting documents should provide all the necessary information to facilitate the verification of the transactions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2024-OBS8",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2024-OBS9",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2024-OBS10",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2024-OBS11",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2024-PY1",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Accountant to prepare a journal entry voucher to adjust the following accounts;",
+      "managementAction": "The Municipal Accountant complied with the audit recommendation.\nJournal Entry Voucher No. 100-24-04-036 was taken up in the Books to recognize the actual CIP for the Municipal Hall Building Extension and Rehabilitation of Old Municipal Building.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2024-PY2",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Accountant to record succeeding mobilization fees to the Advances to Contractors account and reclassify the existing Other Receivables account pertaining to the mobilization fee in the CY 2023 FS as Advances to Contractors.",
+      "managementAction": "The Municipal Accountant complied with the audit recommendation.\nJournal Entry Voucher No.  100-24-02-16 was taken up to reclassify the 15% mobilization fee balance from the Other Receivables account to the Advances to Contractors account.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2024-PY3",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Accountant to immediately transfer the unexpended balance of the LDRRMF-MOOE/Mitigation Fund-MOOE for CY 2023 to the Trust Liability – DRRM account under the TF books.",
+      "managementAction": "The Municipal Accountant complied with the audit recommendation.\nJournal Entry Voucher No. 300-24-03-05 was taken up in the Books to transfer the unexpended 2023 LDRRMF – MOOE balance as Trust Liability – DRRM in the Trust Fund Book of Accounts. Likewise, the actual transfer of the fund from the General Fund to the Trust Fund has also been made per Disbursement Voucher No. 2024-04-0658 dated April 03, 2024.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2024-PY4",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Accountant to prepare a journal entry voucher to book up the following accounts;",
+      "managementAction": "The Municipal Accountant complied with the audit recommendation.\nJournal Entry Voucher No. 100-24-04-037 was taken up in the Books to capitalize the borrowing costs incurred in 2023 for the Construction of the Municipal Hall Building Extension and the Rehabilitation of the Old Municipal Building as the New Government Center.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2024-PY5",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to direct the Municipal Accountant, in coordination with the Budget Officer, to prepare the NFS in accordance with the pertinent provisions of IPSAS 1 and COA Circular No. 2016-004 dated September 30, 2016 and make certain the propriety and completeness of required disclosures for fair and accurate presentation of FS.",
+      "managementAction": "The Municipal Accountant prepared the mandatory disclosures in the NFS as of December 31, 2024.\nTransactions were monitored and reconciled in the 2024 FS.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2024-PY6",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Accountant and Municipal Budget Officer to stop paying prior years’ expenses out from the current appropriation.",
+      "managementAction": "Management has complied with the recommendation.\nNo transaction of similar nature was incurred for CY 2024, thus deemed implemented.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2024-PY8",
+      "year": 2024,
+      "recommendation": "We recommended that Management require the:\n\nMunicipal Treasurer to prepare a Schedule of Unreleased Commercial Checks, particularly at the end of the year and provide a copy to the Accounting Office, and\n\nMunicipal Accountant to prepare JEV for the adjustments of the affected accounts at the end of the year and thereafter, in the ensuing year, another JEV shall be drawn to reverse the previous entries made and recognize the availability of the checks for release.",
+      "managementAction": "The Municipal Treasurer complied with the audit recommendation. \n\n\nThe Municipal Accountant complied with the audit recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2024-PY11",
+      "year": 2024,
+      "recommendation": "We recommended that Management through the Municipal Accountant to first recognize/set up the procured office supplies and materials, drugs and medicines, other materials and agricultural supplies as inventories and record only as expenses through Journal Entry Voucher upon the issuance and/or withdrawal of supplies from stock as supported by the Requisition and Issue Slip (RIS) prepared by the Supply Custodian.",
+      "managementAction": "The Municipal Accountant has already complied in setting up the procured supplies as inventories and subsequently recorded them as expenses upon issuance.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2023-PY1",
+      "year": 2023,
+      "recommendation": "We recommended that Management require the:\n\nMunicipal Treasurer to prepare a Schedule of Unreleased Commercial Checks, particularly at the end of the year and provide a copy to the Accounting Office, and\n\n\n\nMunicipal Accountant to prepare JEV for the adjustments of the affected accounts at the end of the year and thereafter, in the ensuing year, another JEV shall be drawn to reverse the previous entries made and recognize the availability of the checks for release.",
+      "managementAction": "No action taken.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2023-PY2",
+      "year": 2023,
+      "recommendation": "We recommended that Management require the Municipal Accountant to undertake the necessary procedures and validate the existence of the receivable accounts before filing a written request for authority to write-off the accounts pursuant to COA Circular No. 2016-005 dated December 19, 2016 to establish the existence and legitimacy of the receivable accounts for fair presentation in the FS.",
+      "managementAction": "Further assessments are still being conducted by the Agricultural Technicians on the whereabouts and conditions of the recipients and the projects undertaken.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2023-PY6",
+      "year": 2023,
+      "recommendation": "We recommended that Management through the Municipal Accountant to first recognize/set up the procured office supplies and materials, drugs and medicines, other materials and agricultural supplies as inventories and record only as expenses through Journal Entry Voucher upon the issuance and/or withdrawal of supplies from stock as supported by the Requisition and Issue Slip (RIS) prepared by the Supply Custodian.",
+      "managementAction": "No action taken.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2023-PY12",
+      "year": 2023,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant and responsible officers to  immediately seek legal remedies to settle/collect the long overdue receivables particularly the SEAP;  continue monitoring and visiting those delinquent borrowers and issue Demand Letters to ensure the recovery and realization of the receivables;   immediately determine and evaluate those borrowers who are deceased and unknown/missing in accordance with COA Circular No. 2016-005 and prepare requests for write-off if collections are already remote; and cause the collections of account receivables totaling ₱11,383.00 immediately.",
+      "managementAction": "Management did not exert efforts to enforce collections.  Receivables remained dormant.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2023-OBS1",
+      "year": 2023,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Accountant to prepare a journal entry voucher to adjust the following accounts;",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2023-OBS2",
+      "year": 2023,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Accountant to record succeeding mobilization fees to the Advances to Contractors account and reclassify the existing Other Receivables account pertaining to the mobilization fee in the CY 2023 FS as Advances to Contractors.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2023-OBS3",
+      "year": 2023,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Accountant to immediately transfer the unexpended balance of the LDRRMF-MOOE/Mitigation Fund-MOOE for CY 2023 to the Trust Liability – DRRM account under the TF books.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2023-OBS4",
+      "year": 2023,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Accountant to prepare a journal entry voucher to book up the borrowing costs incurred in order to present the correct balances of the related accounts:",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2023-OBS5",
+      "year": 2023,
+      "recommendation": "We recommended and Management agreed to direct the Municipal Accountant, in coordination with the Budget Officer, to prepare the NFS in accordance with the pertinent provisions of IPSAS 1 and COA Circular No. 2016-004 dated September 30, 2016 and make certain the propriety and completeness of required disclosures for fair and accurate presentation of FS.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2023-PY3",
+      "year": 2023,
+      "recommendation": "We recommended that Management through the Municipal Accountant to determine the unreconciled balances due from other offices and determine legal measures for the probability of collection of the cash shortages of the former Municipal Treasurer, otherwise provision for impairment loss is necessary.",
+      "managementAction": "Provision of Impairment Loss was recognized by the Management for the unreconciled portion of the receivable accounts as of year-end.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2023-PY4",
+      "year": 2023,
+      "recommendation": "We recommended that Management release the retention money to the concerned contractors/suppliers pursuant to Section 62.1 and 6.1 and 6.2 of the Revised IRR of RA No. 9184.   \n\n\n\nWe recommended further that for payables whose creditors could not already be determined, revert the account to the Government Equity, while for guaranty payables due to known contractors/suppliers, management has to inform them to file requests for their claims.",
+      "managementAction": "Suppliers have been informed about the process for claiming their guarantee deposits. Most suppliers have complied, and their guarantee deposits have already been released.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2023-PY5",
+      "year": 2023,
+      "recommendation": "We recommended that Management require the Municipal Accountant to properly and/or appropriately classify and record the expenses in accordance with the Revised Chart of Accounts and in correspond with the specific purpose of the expenditures.",
+      "managementAction": "The Municipal Accountant has recorded and classified the transactions in accordance with the Revised Chart of Accounts.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2023-PY7",
+      "year": 2023,
+      "recommendation": "We recommended that Management through the Municipal Treasurer to refrain and/or avoid errors, erasures or alterations and be more cautious in the preparation of checks so as to minimize wastage or misuse of accountable forms and to strengthen the internal control system on the handling and use of accountable forms.",
+      "managementAction": "The Municipal Treasurer and staff have minimized the number of canceled accountable forms.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2023-PY8",
+      "year": 2023,
+      "recommendation": "We recommended that Management through the Municipal Accountant and Municipal Engineer to submit the lacking documents and see to it that payments for projects are supported with complete documents in order to establish the validity and regularity of the transactions pursuant to Section 4 of PD No. 1445 and COA Circular No. 2012-001.",
+      "managementAction": "Management complied with the recommendations.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2023-PY9",
+      "year": 2023,
+      "recommendation": "We recommended that Management through the Municipal Agriculturist to look into the desirable programs and projects funded against the Excise Tax that will exclusively benefit the quality of life of farmers and increase their production and income.\n\nFurther, we recommended that Management through the Municipal Accountant to ensure the completeness of the documents before payment in order to establish the validity and regularity of transactions pursuant to Section 4 of PD No. 1445.",
+      "managementAction": "Management complied with the recommendation.\n\n\n\nManagement complied with the recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2023-PY10",
+      "year": 2023,
+      "recommendation": "We recommended that Management require the Municipal Accountant to appropriately withhold taxes before making any payment to the local suppliers including delivery of services pursuant to the above cited Revenue Regulations and the same be remitted to the Bureau of Internal Revenue within the prescribed period.\n\nFurther, we recommended that Management remind the personnel responsible on the provision of RA No. 8424 on the sanctions for failure to withhold taxes and require the supplier to pay the taxes due to the government.",
+      "managementAction": "Management complied with the recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2023-PY11",
+      "year": 2023,
+      "recommendation": "We recommended that Management instruct the GAD Focal Person to continuously coordinate with all department heads responsible for the implementation of GAD PPAs to come up with strategic plans for the timely, efficient and effective implementation of these GAD PPAs in order to attain and deliver desirable benefits and outcomes to the beneficiaries.",
+      "managementAction": "Management complied with the recommendations.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2023-PY13",
+      "year": 2023,
+      "recommendation": "We recommended that Management instruct the GSO to prepare the Inventory and Inspection Report of Unserviceable Property (IIRUP) for those unserviceable PPE items to be inspected and be sold through public auction if found valuable and to conduct investigation for the non-existing/missing properties and submit the results thereof to the Local Chief Executive for its final disposal.",
+      "managementAction": "The unserviceable properties were disposed in accordance with the laws, rules, and regulations.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2022-OBS1",
+      "year": 2022,
+      "recommendation": "We recommended and Management agreed that:\na) the Municipal Treasurer to prepare a Schedule of Unreleased\nCommercial Checks particularly at the end of the year and provide a\ncopy to the Accounting Office, and\nb) the Municipal Accountant to prepare Journal Entry Voucher (JEV) for\nthe adjustments of the affected accounts at the end of the year and\nthereafter, in the ensuing year, another JEV shall be drawn to reverse\nthe previous entries made and recognize the availability of the checks for\nrelease.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2022-OBS2",
+      "year": 2022,
+      "recommendation": "We recommended and Management agreed for the Municipal Accountant\nto undertake the necessary procedures and validate the existence of the\nreceivable accounts before filing a written request for authority to write-\noff the accounts pursuant to COA Circular No. 2016-005 dated December\n19, 2016 to establish the existence and legitimacy of the receivable accounts\nfor fair presentation in the financial statement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2022-OBS3",
+      "year": 2022,
+      "recommendation": "We recommended and Management agreed through the Municipal\nAccountant to determine the unreconciled balances due from other offices\nand determine legal measures for the probability of collection of the cash\nshortages of the former Municipal Treasurer, otherwise provision for\nimpairment loss is necessary.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2022-OBS4",
+      "year": 2022,
+      "recommendation": "We recommended and Management agreed to release the retention money\nto the concerned contractors/suppliers pursuant to Section 62.1 and 6.1 and\n6.2 of the Revised IRR of RA No. 9184.\nWe recommended further that for payables whose creditors could not\nalready be determined, revert the account to the Government Equity, while\nfor guaranty payables due to known contractors/suppliers, management\nhas to inform them to file requests for their claims.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2022-OBS5",
+      "year": 2022,
+      "recommendation": "We recommended and Management agreed for the Municipal Accountant\nto properly and/or appropriately classify and record the expenses in\naccordance with the Revised Chart of Accounts and in correspond with the\nspecific purpose of the expenditures.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2022-OBS6",
+      "year": 2022,
+      "recommendation": "We recommended and Management agreed through the Municipal\nAccountant to first recognize/set up the procured office supplies and\nmaterials, drugs and medicines, other materials and agricultural supplies\nas inventories and record only as expenses through JEV upon the issuance\nand/or withdrawal of supplies from stock as supported by the RIS\nprepared by the Supply Custodian.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2022-PY1",
+      "year": 2022,
+      "recommendation": "We recommended that the Local Chief Executive (LCE):\na) Direct the Municipal Accountant to: (1) prepare and maintain the ledgers and subsidiary ledgers supplied with complete data as prescribed by pertinent provisions of MNGAS so that the relevant information may be provided to internal and external users; (2) examine or investigate the unreconciled balances and make necessary actions in compliance with regulations, in order to reconcile the items and present fairly the financial statements; (3) take a lead in the compliance of the one time cleansing of the PPE in compliance with COA Circular No. 2020-006 dated January 31, 2020.\nb) Direct the GSO, to: (1) conduct physical inventory taking annually to establish valid existence of each item of properties recorded in the RPCPPE; (2) maintain a Property Card for each item and (2) make reconciliation with the accounting records of the unreconciled balances.\nc) Unreconciled balances of PPE between the Accounting and Property Units should be looked into immediately and make the necessary accounting adjustments.\nd) Direct the GSO to create an Inventory Committee to conduct physical inventory taking annually and invite a representative from the Audit Team to witness.\ne) Direct the GSO to dispose the unserviceable properties and prepare an Inventory and Inspection of Unserviceable Properties to be inspected by a representative of the Audit Team.",
+      "managementAction": "Implemented\nImplemented\nImplemented\nImplemented\nImplemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2022-PY2",
+      "year": 2022,
+      "recommendation": "We recommended that the Management through the Assessors’ Office to exert all possible means and apply to the DENR-PENRO for the titling of the government lots used by the Municipality in order to substantiate the legality of ownership of the lots through these Transfer Certificates of Title in the name of the Municipality, as required under Section 39 (2) of PD No. 1445 and to ascertain the validity and reliability of the Land account presented in the financial statements.",
+      "managementAction": "Implemented",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2022-PY3",
+      "year": 2022,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant and responsible officers to immediately seek legal remedies to settle/collect the long overdue receivables particularly the SEAP; continue monitoring and visiting those delinquent borrowers and issue Demand Letters to ensure the recovery and realization of the receivables; immediately determine and evaluate those borrowers who are deceased and unknown/missing in accordance with COA Circular No. 2016-005 and prepare requests for write-off if collections are already remote; and cause the collections of account receivables totaling ₱11,383.00 immediately.",
+      "managementAction": "Management did not exert efforts to enforce collections.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2022-PY4",
+      "year": 2022,
+      "recommendation": "We recommended that Management instruct the Livestock Coordinator and Agriculture Technologist to seek assistance from the Punong Barangay and Barangay Kagawad to visit those barangay recipients and evaluate /monitor the status of their swine. Also, enforce collections from the recipients who have not yet complied to pay the financial assistance given to them after the agreed five months, regardless of the status of the swine.",
+      "managementAction": "Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2022-PY5",
+      "year": 2022,
+      "recommendation": "We recommended that Management through the BAC and TWG to carefully examine and evaluate the documents submitted by the bidder in order to ensure that they complied with and are responsive to all the requirements and conditions as specified in the 2016 Revised IRR in order to avoid disallowance or suspension in the audit.",
+      "managementAction": "Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2022-PY6",
+      "year": 2022,
+      "recommendation": "We recommended that Management instruct the GSO to conduct investigations for the non-existing/missing properties and submit the results thereof to the Local Chief Executive for its final disposal pursuant to COA Circular No. 2020-006.",
+      "managementAction": "Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2022-PY7",
+      "year": 2022,
+      "recommendation": "We recommended Management to conduct a regular monitoring to the beneficiaries of this program to ensure that the objective and purpose of this program is attained effectively and efficiently. As Stipulated in the agreement, retrieve the Starter Kits provided to the recipients if the kits were not properly used to sustain their livelihood and shall be given to other qualified recipients in order that the goals and objective of NICOMEDES Program could satisfactorily be attained.",
+      "managementAction": "Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IlocosNorte-2022-PY8",
+      "year": 2022,
+      "recommendation": "We recommended that Management instruct the GSO to prepare the IIRUP for those unserviceable PPE items to be inspected and be sold through public auction if found valuable and to conduct investigation for the non-existing/missing properties and submit the results thereof to the Local Chief Executive for its final disposal.",
+      "managementAction": "Management through the GSO is under the process of cleansing the properties that are unserviceable.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant and responsible officers to:\n\nImmediately seek legal remedies to settle/collect the long overdue receivables particularly the SEAP;\n\nContinue monitoring and visiting those delinquent borrowers and issue Demand Letters to ensure the recovery and realization of the receivables; \n\nImmediately determine and evaluate those borrowers who are deceased and unknown/missing in accordance with COA Circular No. 2016-005 and prepare requests for write-off if collections are already remote; and \n\nMake an immediate representation and reconciliation of the un-reconciled items with the Provincial Treasury.",
+      "managementAction": "Management did not exert efforts to enforce collections.  Receivables remain dormants",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated under Finding No. 3 of this AAR"
+    },
+    {
+      "id": "Bacarra_IN_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended that Management instruct the GSO to prepare the IIRUP for those unserviceable PPE items to be inspected and be sold through public auction if found valuable and to conduct investigation for the non-existing/missing properties and submit the results thereof to the Local Chief Executive for its final disposal.",
+      "managementAction": "Management through the GSO is under the process of cleansing the properties that are unserviceable",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Audit Team required the GSO to classify all properties that are no longer use and prepare an IIRUP for proper disposal of the unserviceable items."
+    },
+    {
+      "id": "Bacarra_IN_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "We recommended that Management endeavor to locate documents pertaining to the two heavy equipment. Conduct an investigation to determine the officers and employees accountable at the date of loss for the unaccounted heavy equipment and hold them liable as per Section 73 of PD No. 1445.",
+      "managementAction": "Management have no action.  During the exit conference, they ensure that the unit be relocated and execute proper disposal of the items",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "There is no showing of compliance to the audit recommendation yet.\n\nReiterated under Finding No. 6 of this AAR."
+    },
+    {
+      "id": "Bacarra_IN_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "We recommended that Management prepare the Inventory and Inspection Report of Unserviceable Properties for the 2 units dump truck as the project proponent and inform the TESDA Regional Office of the status of the units for their proper disposal in as much as the units are now beyond repair. Management is reminded for the proper recording of donations received in the future to protect the best interest of the Municipality and safeguard government assets from loss or deterioration.",
+      "managementAction": "Documents for the two dump trucks had not been located, however, the PESO officer had been further asked to coordinate with TESDA for the possible reproduction of the needed documents.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "There is no showing of compliance to the audit recommendation yet.\n\nReiterated in Finding No. 6 of this AAR"
+    },
+    {
+      "id": "Bacarra_IN_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended that the Local Chief Executive (LCE):\nDirect the Municipal Accountant to: (1) prepare and maintain the ledgers and subsidiary ledgers supplied with complete data as prescribed by pertinent provisions of MNGAS so that relevant information may be provided to internal and external users; (2) examine or investigate the unreconciled balances and make necessary actions in compliance with regulations, in order to reconcile the items and present fairly the financial statements; (3) take a lead in the compliance of the one time cleansing of the PPE in compliance with COA Circular No. 2020-006 dated January 31, 2020.\nDirect the GSO, to: (1) conduct physical inventory taking annually to establish valid existence of each item of properties recorded in the RPCPPE; (2) maintain a Property Card for each item of property; and (2) make reconciliation with the accounting records of the unreconciled balances.\nUnreconciled balances of PPE between the Accounting and Property Units should be looked into immediately and make the necessary adjustments.\nDirect the GSO to create an Inventory Committee to conduct physical inventory taking annually and invite a representative from the Audit Team to witness.\nDirect the GSO to dispose the unserviceable properties and prepare an Inventory and Inspection of Unserviceable Properties to be inspected by a representative of the Audit Team.\nDirect the Municipal Accountant to further analyze the inconsistency of records of PPE appearing in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "2.5   \tWe recommended that the Management through the Assessors’ Office to exert all possible means and apply to the DENR-PENRO for the titling of the government lots used by the Municipality in order to substantiate the legality of ownership of the lots through these Transfer Certificates of Title in the name of the Municipality, as required under Section 39 (2) of PD No. 1445 and to ascertain the validity and reliability of the Land account presented in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "3.9   We recommended that Management instruct the Municipal Accountant and responsible officers to:\nImmediately seek legal remedies to settle/collect the long overdue receivables particularly the SEAP.\nContinue monitoring and visiting those delinquent borrowers and issue Demand Letters to ensure the recovery and realization of the receivables.\nImmediately determine and evaluate those borrowers who are deceased and unknown/missing in accordance with COA Circular No. 2016-005 and prepare requests for write-off if collections are already remote.\nCause the collections of account receivables totaling ₱11,383.00 immediately.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "4.7   We recommended that Management instruct the Livestock Coordinator and Agriculture Technologist to seek assistance from the Punong Barangay and Barangay Kagawad to visit those barangay recipients and evaluate /monitor the status of their swine. Also, enforce collections from the recipients who have not yet complied to pay the financial assistance given to them after the agreed five months, regardless of the status of the swine.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "5.9  \tWe recommended that Management through the BAC and TWG to carefully examine and evaluate the documents submitted by the bidder in order to ensure that they complied with and are responsive to all the requirements and conditions as specified in the 2016 Revised IRR in order to avoid disallowance or suspension in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "6.7 We recommended that Management instruct the GSO to conduct  investigations for the non-existing/missing properties and submit the results thereof to the Local Chief Executive for its final disposal pursuant to COA Circular No. 2020-006.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "7.6  We recommended Management to conduct a regular monitoring to the beneficiaries of this program to ensure that the objective and purpose of this program is attained effectively and efficiently.  As Stipulated in the agreement, retrieve the Starter Kits provided to the recipients if the kits were not properly used to sustain their livelihood and shall be given to other qualified recipients in order that the goals and objective of NICOMEDES Program could satisfactorily be attained.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN_aar2021-OBS8",
+      "year": 2021,
+      "recommendation": "8.2 \tWe recommended and Management agreed to instruct the GAD Focal Person to continuously coordinate with all department heads responsible for the implementation of GAD PPAs to come up with strategic plans for the timely, efficient and effective implementation of these GAD PPAs in order to attain and deliver desirable benefits and outcomes to the beneficiaries.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to provide depreciation for the Local Road Networks following the straight line method pursuant to Paragraph 59 of IPSAS 17 and the accounting guidelines and procedures set under COA Circular No. 2015-008.",
+      "managementAction": "Management thru the Municipal Accountant already provided depreciation of the Local Road Networks.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to direct the Municipal Accountant to present the current and non-current portions of the liability as separate classifications on the face of the Statement of Financial Position in accordance with Paragraph 80 of IPSAS 1.",
+      "managementAction": "The Municipal Accountant already complied with the recommendation",
+      "status": "IMPLEMENTED",
+      "reason": "Verification of records showed substantial compliance."
+    },
+    {
+      "id": "Bacarra_IN_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended that Management instruct the Municipal Treasurer to prepare and  provide the Municipal Accountant a copy of list of taxpayers and the corresponding amount due and collectible for the year as the basis of the latter in recording/book up  the  RPT and SET Receivables Accounts.",
+      "managementAction": "Management already complied with the recommendations",
+      "status": "IMPLEMENTED",
+      "reason": "Verification of records showed substantial compliance"
+    },
+    {
+      "id": "Bacarra_IN_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to analyze the payable accounts to ensure the accuracy of the balances in the financial statements and only record transactions/set up liability based on valid obligations with complete evidences or documents, and to revert the balances of Accounts Payable that have been outstanding for more than two years which are undocumented and no longer valid to the Unappropriated Surplus pursuant to COA Circular No. 99-004.",
+      "managementAction": "Management comply with the recommendations",
+      "status": "IMPLEMENTED",
+      "reason": "Verification of records showed substantial compliance."
+    },
+    {
+      "id": "Bacarra_IN_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended that Management through the Municipal Accountant to:\n\nMake a representation relative to the prepayments made to determine if the amounts have already been expended considering the length of time that has lapsed and prepare a Journal Entry Voucher (JEV) to adjust the unexpired portion of the Other Prepayments account that were not used, if any; and\n\nCoordinate with the City Government of Laoag and the MMMH and MC regarding the remaining balances of the deposits to be refunded and to be receipted by the Local Government Unit, if any.",
+      "managementAction": "Management complied with the recommendations",
+      "status": "IMPLEMENTED",
+      "reason": "Verification of records showed substantial compliance"
+    },
+    {
+      "id": "Bacarra_IN_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to strictly observe the execution of contract by the contractor in the delivery of goods in case there is a delay pursuant to Section 68 of the IRR of RA No. 9184.  Likewise, we recommended and Management also agreed to instruct the officers and employees responsible in every procurement activity to be vigilant in accomplishing the prescribed forms completely specifically on the dates portion to ascertain the authenticity of the transactions and to promote operational efficiency and effectiveness of the Municipality.\n\nLastly, we recommended and Management agreed to instruct the Municipal Accountant to demand payment for the Liquidated Damages of ₱24,925.00 from the contractor to be receipted by the Municipal Treasurer.",
+      "managementAction": "Management complied with the recommendaions.",
+      "status": "IMPLEMENTED",
+      "reason": "Post audit of disbursement vouchers and other related similar records showed substantial compliance."
+    },
+    {
+      "id": "Bacarra_IN_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Accountant to properly review all supporting documents as to their propriety, regularity and accuracy specifically on the correctness of amounts.  Likewise, we recommended and Management agreed to direct all heads of end-user departments to stop the practice of making erasures, alterations or tampering of amounts in the documents as these are considered forgery.",
+      "managementAction": "Management through the Municipal Accountant complied with the recommendations.",
+      "status": "IMPLEMENTED",
+      "reason": "Post audit of Disbursement vouchers and review of related records showed substantial compliance."
+    },
+    {
+      "id": "Bacarra_IN_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We recommended that Management through the BAC to require the winning bidders to submit the approved CHSPs duly received/acknowledged by the DOLE as evidence of the pending approval of their CSHPs, so as not to prevent Management for the issuance of the NTP.\n\nIn case the contractors will not comply on the submission of the said documents after the infrastructure projects were satisfactorily completed, this would cause Management to hold the payment of their billings.\n\nFurther, we recommended that Management require the BAC and TWG to carefully scrutinize the sufficiency of the Contractor’s manpower and equipment on all projects to be awarded and not on an individual project especially in cases where only one bidder bids in several projects, which have the same or overlapping implementation period to avoid slippage/delay and substandard quality of work.",
+      "managementAction": "Management complied with the recommendations.",
+      "status": "IMPLEMENTED",
+      "reason": "Verification of records showed substantial compliance. The BAC already required the Contractor to submit the CSHP which form part of the contract."
+    },
+    {
+      "id": "Bacarra_IN_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "We recommended that Management strictly impose fairly and consistently the use of Biometric Attendance Recording System to all LGUs personnel whether its status is regular, temporary, casual or job orders.\n\nThe non-submission of the said document to support the payment of their salaries would compel the auditor to issue Notice of Suspension.",
+      "managementAction": "Biometric Attendance Recording System is now being used by the personnel because pandemic already becomes normal hence, all personell exercise this attendance system.",
+      "status": "IMPLEMENTED",
+      "reason": "The Audit Team urged management to continuously use this attendance system to fairly monitor the reporting time of the personnels."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended that Management exhaust all efforts to collect the receivables, issue Demand Letters and make frequent visits to the delinquent borrowers, establish other legal measures for the recovery of uncollected past due receivable accounts and direct the Municipal Agriculturist to conduct a regular monitoring and evaluation in the implementation of the assistance program and to make a periodic report.",
+      "managementAction": "Monitoring and collection is still on going.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated under Finding No. 2 of this AAR."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY10",
+      "year": 2020,
+      "recommendation": "We recommended that Management strictly impose fairly and consistently the use of Biometric Attendance Recording System to all LGUs personnel whether its status is regular, temporary, casual or job orders.",
+      "managementAction": "Biometric Attendance Recording System has been put on hold to avoid the spread of virus in this time of pandemic.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Audit Team is flexible and considerate in this time of pandemic.  However, when the situation will return to normal condition, implementation of the recommendation will be enforced."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY19",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant provide depreciation on recognized Road Networks accounts following the straight line method.",
+      "managementAction": "As agreed during the Exit Conference, depreciation will be recorded on the basis of the Report of the Local Road Network to be provided by the Engineering Office. But there was no report submitted by the Engineering Office yet.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated under Finding No. 1 of this AAR."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY23",
+      "year": 2020,
+      "recommendation": "We recommended that Management endeavor to locate documents pertaining to the two heavy equipment. Conduct an investigation to determine the officers and employees accountable at the date of loss for the unaccounted heavy equipment and hold them liable as per Section 73 of PD No. 1445.",
+      "managementAction": "Records were reviewed for the dump truck costing ₱150,000 and adjustment has been made and was recorded in the books as of August 31, 2019. The Bulldozer was not in the custody of the Municipality since the administration of the then Mayor Leonardo Velasco and was reported in an Annual Audit Report",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "We required Management to follow the procedures set forth under COA Circular NO. 2020-006 re: Non-existing and missing properties for the retrieval and/or dropping of the one unit Bulldozer."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY24",
+      "year": 2020,
+      "recommendation": "We recommended that Management prepare the Inventory and Inspection Report of Unserviceable Properties for the 2 units dump truck as the project proponent and inform the TESDA Regional Office of the status of the units for their proper disposal in as much as the units are now beyond repair. Management is reminded for the proper recording of donations received in the future to protect the best interest of the Municipality and safeguard government assets from loss or deterioration.",
+      "managementAction": "Documents for the two dump trucks had not been located, however, the PESO officer had been further asked to coordinate with TESDA for the possible reproduction of the needed documents.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "There is no showing of compliance to the audit recommendations yet."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to provide depreciation for the Local Road Networks following the straight line method pursuant to Paragraph 59 of IPSAS 17 and the accounting guidelines and procedures set under COA Circular No. 2015-008.\nFurther, we recommended that Management instruct the Municipal Accountant to coordinate with the General Services Officer (GSO) to maintain separate subsidiary ledgers for the roads with complete description and classify every component to establish accuracy and correctness in the provision of depreciation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant and responsible officers to:\nImmediately seek legal remedies to settle/collect the long overdue receivables particularly the SEAP;\nContinue monitoring and visiting those delinquent borrowers and issue Demand Letters to ensure the recovery and realization of the receivables;\nImmediately determine and evaluate those borrowers who are deceased and unknown/missing in accordance with COA Circular No. 2016-005 and prepare requests for write-off if collections are already remote; and\nMake an immediate representation and reconciliation of the un-reconciled items with the Provincial Treasury.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to direct the Municipal Accountant to present the current and non-current portions of the liability as separate classifications on the face of the Statement of Financial Position in accordance with Paragraph 80 of IPSAS 1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommended that Management instruct the Municipal Treasurer to prepare and  provide the Municipal Accountant a copy of list of taxpayers and the corresponding amount due and collectible for the year as the basis of the latter in recording/book up  the  RPT and SET Receivables Accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We recommended that Management instruct the GSO to prepare the IIRUP for those unserviceable PPE items to be inspected and be sold through public auction if found valuable and to conduct investigation for the non-existing/missing properties and submit the results thereof to the Local Chief Executive for its final disposal\nWe further recommended that Management instruct the Municipal Accountant to coordinate with the GSO to update their records to come up with reconciled balances of PPE.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to analyze the payable accounts to ensure the accuracy of the balances in the financial statements and only record transactions/set up liability based on valid obligations with complete evidences or documents, and to revert the balances of Accounts Payable that have been outstanding for more than two years which are undocumented and no longer valid to the Unappropriated Surplus pursuant to COA Circular No. 99-004.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We recommended that Management through the Municipal Accountant to:\nMake a representation relative to the prepayments made to determine if the amounts have already been expended considering the length of time that has lapsed and prepare a Journal Entry Voucher (JEV) to adjust the unexpired portion of the Other Prepayments account that were not used, if any; and\nCoordinate with the City Government of Laoag and the MMMH and MC regarding the remaining balances of the deposits to be refunded and to be receipted by the Local Government Unit, if any.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to strictly observe the execution of contract by the contractor in the delivery of goods in case there is a delay pursuant to Section 68 of the IRR of RA No. 9184.  Likewise, we recommended and Management also agreed to instruct the officers and employees responsible in every procurement activity to be vigilant in accomplishing the prescribed forms completely specifically on the dates portion to ascertain the authenticity of the transactions and to promote operational efficiency and effectiveness of the Municipality.\nLastly, we recommended and Management agreed to instruct the Municipal Accountant to demand payment for the Liquidated Damages of ₱24,925.00 from the contractor to be receipted by the Municipal Treasurer.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-OBS9",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Accountant to properly review all supporting documents as to their propriety, regularity and accuracy specifically on the correctness of amounts.  Likewise, we recommended and Management agreed to direct all heads of end-user departments to stop the practice of making erasures, alterations or tampering of amounts in the documents as these are considered forgery.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-OBS10",
+      "year": 2020,
+      "recommendation": "We recommended that Management through the BAC to require the winning bidders to submit the approved CHSPs duly received/acknowledged by the DOLE as evidence of the pending approval of their CSHPs, so as not to prevent Management for the issuance of the NTP.\nIn case the contractors will not comply on the submission of the said documents after the infrastructure projects were satisfactorily completed, this would cause Management to hold the payment of their billings.\nFurther, we recommended that Management require the BAC and TWG to carefully scrutinize the sufficiency of the Contractor’s manpower and equipment on all projects to be awarded and not on an individual project especially in cases where only one bidder bids in several projects, which have the same or overlapping implementation period to avoid slippage/delay and substandard quality of work.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-OBS11",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to instruct the GAD Focal Person to coordinate with all department heads responsible for the implementation of GAD PPAs to come up with strategic plans for the timely, efficient and effective implementation of these GAD PPAs in order to attain and deliver desirable benefits and outcomes to the beneficiaries.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommended that Management to prepare and submit Report on Physical Count of PPE for the current year 2019 to determine the actual physical count and condition of PPE at a given date including those unreconciled balances and those properties which were not be included in the report; prepare/maintain and update Property Cards and the PPE Ledger Cards by the Property Officer and Accountant to facilitate reconciliation of the PPE Account; and direct the Property Custodian to identify those unserviceable properties already subjected for disposal, then prepare the Inventory and Inspection Report of Unserviceable Property which serves as basis by the Accountant to derecognize the unserviceable properties carried in the PPE Account.",
+      "managementAction": "The GSO prepared and submitted the Physical Inventory Report \n \nThe GSO already prepared IIRUP and those items were sold out and has been dropped from the books. \n \nConsolidation of other unserviceable properties is still on going.",
+      "status": "IMPLEMENTED",
+      "reason": "The GSO has submitted the Physical Inventory Report and made reconciliation with the Municipal Accountant. Copy of the IIRUP was also furnished to the Audit Team."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended that Management require all officers and employees concerned to account and settle cash advances immediately after carrying out the purpose for which these were granted in conformity with COA Circular No. 97-002 dated February 10, 1997; Section 89 of PD 1445; immediately issue demand letters to those employees and to the members of the family of those who already passed away and no longer in the service with unsettled/ unliquidated cash advances; and refrain from granting additional cash advances to officers and employees with existing cash advances unless the previous cash advances are first settled and cause the refund of any unused/unspent/unutilized cash advances and/or no longer needed to the collecting officer to be receipted and shall be deposited to the authorized government depository bank.",
+      "managementAction": "Cash advances granted to the concerned officers and employees were already settled.\n\nManagement also required previous cash advances to be settled first before the grant of additional cash advance/s and accountable officers were required to refund the balances of their cash advances.",
+      "status": "IMPLEMENTED",
+      "reason": "Verification of records showed substantial compliance."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended that the General Service Officer prepare a Summary of Supplies and Materials Issued (SSMI) together with the Requisition and Issue Slips and submit the same to the Chief Accountant as her basis to prepare a JEV to record the appropriate expense account and compute the cost of supplies issued and ending inventory\n\nFurther, we recommended that the Chief Accountant make the necessary adjustment to the inventory account and reflect the appropriate expense account for the inventories that were already used or distributed based on the Summary of Supplies and Materials Issued.",
+      "managementAction": "Entries were based only on Requisition and Issue Slips and not on SSMI, the GSO was further instructed to prepare the SSMI and submit to the Accounting Office.",
+      "status": "IMPLEMENTED",
+      "reason": "Used inventories were already adjusted/ recorded as expenses.  However, no SSMI was prepared, thus we required the GSO to prepare the SSMI and submit the same to the Accounting Office as basis to prepare a JEV in recording the appropriate expense account."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant should first recognize/set up the procured office supplies and materials, drugs and medicines, and construction materials as Inventory and record as Expense only upon the issuance and/or withdrawal of office supplies from stock as supported by the RIS prepared by the Supply Custodian.",
+      "managementAction": "The Municipal Accountant already complied with the recommendation where goods purchased were first recorded as inventories.",
+      "status": "IMPLEMENTED",
+      "reason": "Review of purchases on goods and related records showed substantial compliance."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommended that Management revert all outstanding balances of Accounts Payable for more than two years to Unappropriated Surplus pursuant to the aforementioned COA Circular.  Further, Management should instruct the Municipal Accountant to analyze the payable accounts to ensure the accuracy of the balances in the financial statements and record transactions/set up liability based on valid obligations with complete evidences or documents.",
+      "managementAction": "Some Payable Accounts that lacked evidences of claim were already reverted.",
+      "status": "IMPLEMENTED",
+      "reason": "Review of the schedules of accounts payable showed compliance. \nHowever, some still remained in the books for more than two years.  An updated observation was presented under Finding No. 6 of this AAR."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended that the Human Resource Management Officer adhere to the Omnibus Rules on Leave and COA Circular No. 2012-001 in the processing of the transactions and submit immediately the lacking/deficient documents. It is further recommended that the accountant review the correctness and completeness of all supporting documents pursuant to COA Circular No. 2012-001 before subjecting disbursement vouchers for payment to avoid suspensions or disallowances in audit.",
+      "managementAction": "Succeeding payments of Retention Fees and Terminal Leave Benefits were paid with complete supporting documents.",
+      "status": "IMPLEMENTED",
+      "reason": "Post audit of disbursement vouchers and review of related records showed substantial compliance."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant make the necessary adjustment of expenditures that remained outstanding for almost two years to Surplus Adjustment pursuant to Section 97 of PD No. 1445.\n\nFurther, we recommended that Management cancel the stale checks and if it requires replacement, a new check may be issued upon submission of the stale check by the payee and chargeable to the current general fund.",
+      "managementAction": "The Municipal Accountant already made the necessary adjustments.",
+      "status": "IMPLEMENTED",
+      "reason": "Review of bank reconciliations submitted to the Audit Team showed compliance to the recommendation/s,"
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY9",
+      "year": 2020,
+      "recommendation": "We recommended that Management through the Municipal Accountant and Municipal Treasurer submit the required Report of Checks Issued and Report of Disbursement for every month pursuant to Section 43 and Section 46 of NGAS for LGUs.",
+      "managementAction": "The Municipal Treasurer already submitted the Report of Checks Issued and Report of Cash Disbursement to the Office of the Auditor",
+      "status": "IMPLEMENTED",
+      "reason": "The required reports were already submitted to the Audit Team."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY11",
+      "year": 2020,
+      "recommendation": "We recommended that Management to submit annually APP-CSE to PS-DBM within the prescribed deadline, thus helping PS-DBM in delivering more efficiently the requirements of the Municipality; submit/attach a PS Certificate of Non-Availability of stocks if goods were purchase from a private dealer.  Non submission of the document would compel the auditor to disallow the transaction pursuant to paragraph 4.9 of DBM Circular 2013-14; and adhere with the provision of Section 53.5 of IRR of RA 9184 and continue its practice of filing the agency procurement request to the PS-DBM as a modest contribution to achieve good governance.",
+      "managementAction": "Management submitted the APP-CSE to PS-DBM and those stock not available, PS Certificate of Non Availability of stocks was issued by PS-DBM",
+      "status": "IMPLEMENTED",
+      "reason": "Verification on all procurements made for common use supplies showed substantial compliance.\nThe Audit Team enjoined Management to continue its practice of filling the agency procurement request to the PS-DBM as a modest contribution to achieve good governance."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY12",
+      "year": 2020,
+      "recommendation": "We recommended that the BAC and TWG carefully scrutinize the sufficiency of the Contractor’s manpower and equipment on all projects to be awarded and not on an individual project only especially in cases where only one bidder bid in several projects which have the same or overlapping implementation period.\n\nFurther, we recommended that management invite more qualified bidders to participate in the public bidding to undertake a more competitive procurement activity which will result in a more acceptable implementation of infrastructure projects.",
+      "managementAction": "Post Qualifications were conducted before the awarding of projects to efficiently scrutinize the capability of the contractors in the implementation of the projects through multiple projects were undertaken by a sole contractor.",
+      "status": "IMPLEMENTED",
+      "reason": "Multiple contracts with simultaneous implementation were still awarded to a single contractor, however, BAC ensured that the contractor has the capacity to implement all these projects in accordance with the approved contracts,"
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY13",
+      "year": 2020,
+      "recommendation": "We recommended that Management strictly observe the execution of contract by the contractor in the delivery of goods in case there is a delay pursuant to Section 68 of the IRR of RA No. 9184. \n\nFurther, we recommended that management collect the Liquidated Damages of ₱26,895.41 from the contractor and issue an official receipt in acknowledgement thereof.",
+      "managementAction": "Management is now vigilant for the execution of the contracts agreement.",
+      "status": "IMPLEMENTED",
+      "reason": "Review of contract implementation showed substantial compliance.  Notice of Disallowance was issued under ND No.20-005 dated June 4, 2020"
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY14",
+      "year": 2020,
+      "recommendation": "We recommended that Management direct the Municipal Engineer to strictly comply with the guidelines in the preparation of the ABC for all succeeding infrastructure projects of the municipality as prescribed by the DPWH.   Further, we recommended that the Municipal Engineer stop the practice of allocating an OCM mark up to non-civil works specifically to health and safety.  The OCM mark up on OSHP in every project implemented is not allowed in audit, hence the auditor may issue Notice of Disallowances in the subject matter in the future.",
+      "managementAction": "The Municipal Engineer already complied with the guidelines set forth by the DPWH in the succeeding implementation of infrastructure projects. The amount of ₱26,402.00 has also been collected and deposited to the municipality’s account.",
+      "status": "IMPLEMENTED",
+      "reason": "Review of infrastructure projects including the ABCs showed substantial compliance."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY15",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant record the transaction into the appropriate expense account in accordance with the fund and purpose to present fairly the financial statements.",
+      "managementAction": "The Municipal Accountant already recorded transactions into the appropriate expense account",
+      "status": "IMPLEMENTED",
+      "reason": "Analysis of financial statements showed compliance to the recommendation"
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY16",
+      "year": 2020,
+      "recommendation": "We recommended that Management submit the APP to ensure that such procurement of construction materials for the implementation of the projects were consistent with the duly approved budget.  Further, we recommended that Management submit the print-out copies of the NOA and NTP posted in the PhilGEPS to establish transparency and information in the conduct of procurement process.",
+      "managementAction": "The documents mentioned in the audit observation were all on file.  Rest assured, succeeding transactions of the same nature will be submitted to COA.",
+      "status": "IMPLEMENTED",
+      "reason": "Subject transactions of the observation were already submitted with the required supporting documents to the audit team."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY17",
+      "year": 2020,
+      "recommendation": "We recommended that Management create and promote projects and programs that may support the needs of the tobacco farmers to generate higher/sizeable income in which these farmers are the center of the Virginia Tobacco Industry.   Initiate a sound financial plan in the utilization of funds in order to ensure that the needs and aspirations of the people especially the tobacco farmers are attained.  Monitor the immediate implementation of the projects so that the benefits due to the tobacco farmers and constituents of the municipality are delivered.",
+      "managementAction": "Implemented in the 1st quarter of 2020. The fund was received in the last week of November 2019.",
+      "status": "IMPLEMENTED",
+      "reason": "Projects under RA No. 7171 were already implemented that supported and benefited the needs of the tobacco farmers."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY18",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to instruct the Inventory Committee to conduct the inventory taking ahead of the deadline of submission of the RPCPPE to give ample time for the reconciliation of balances with the accounting records to ascertain the accuracy of the balances in the financial statements.",
+      "managementAction": "The conduct of Physical Inventory Taking was already done.  Reconciliation between accounting and property records is done periodically",
+      "status": "IMPLEMENTED",
+      "reason": "Report of Physical Inventory was submitted at the end of the year for further evaluation and validation."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY20",
+      "year": 2020,
+      "recommendation": "We recommended that Management enter into a Memorandum of Agreement with the Department of Education to transfer ownership of the lots where schools are situated in accordance with PPSAS 17 for fair presentation of financial statements.",
+      "managementAction": "The documents necessary for the Donation of the said lots were already prepared and was forwarded to the DepEd for their review.",
+      "status": "IMPLEMENTED",
+      "reason": "Lots used and occupied by the schools were properly turned over to DepEd with Certification of Acceptance of the School Principals."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY21",
+      "year": 2020,
+      "recommendation": "We recommended that management instruct the GSO-Designate to prepare the Inventory and Inspection Report for Unserviceable Properties (IIRUP) for inspection and appraisal. After which, the proper disposal will be determined and the corresponding value shall be dropped from the books in order to reflect the correct value of Property, Plant and Equipment in the financial statements.",
+      "managementAction": "Inventory and inspection of Unserviceable properties were already conducted by the team. The disposed items were drop from the books of accounts.",
+      "status": "IMPLEMENTED",
+      "reason": "Unserviceable properties ready for disposal were inspected by a Technical Audit Specialist from the Regional Office."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY22",
+      "year": 2020,
+      "recommendation": "Require the Municipal Accountant to record the 1 unit dump truck costing ₱580,000.00, appraised value of Nissan Urvan and KIA ambulance in accordance with Section 63 of PD No. 1445 to present fairly the balances of PPE in the financial statements.",
+      "managementAction": "Records were reviewed for the Dump Truck costing ₱580,000 and made adjustment and have been recorded as of August 31, 2019. \nCopy of the Deed of Donation was submitted to the COA.",
+      "status": "IMPLEMENTED",
+      "reason": "A copy of the Deed of Donation was furnished to the Audit Team."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY25",
+      "year": 2020,
+      "recommendation": "We recommended that Management grant cash advances only to properly bond organic employees of the Municipality. Further, require the concerned persons to submit the liquidation of the cash advances granted them.",
+      "managementAction": "As agreed during the exit conference, the suggested new system of releasing the Subsidy was strongly followed",
+      "status": "IMPLEMENTED",
+      "reason": "Cash Advances for specific purpose were only granted to Bonded officials and employees."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Bacarra_IN-2020-PY26",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Agriculture Officer continue to monitor the implementation of the subproject by the Proponent Group. Advise them to formulate a realistic and attainable work plan to ensure subprojects and activities are ready for implementation upon the onset of the cropping season so that more recipients could benefit from the fund.",
+      "managementAction": "Management complied with the audit recommendations.",
+      "status": "IMPLEMENTED",
+      "reason": "Evaluated and assessed beneficiaries/ recipients for the implementation of the program or projects and it showed substantial compliance."
+    },
+    {
+      "id": "Bacarra_IN-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\nPrepare and submit Report on Physical Count of PPE for the current year 2019 to determine the actual physical count and condition of PPE at a given date including those unreconciled balances and those properties which were not be included in the report.\nPrepare/maintain and update Property Cards and the PPE Ledger Cards by the Property Officer and Accountant to facilitate reconciliation of the PPE Account.\nDirect the Property Custodian to identify those unserviceable properties already subjected for disposal, then prepare the Inventory and Inspection Report of Unserviceable Property which serves as basis by the Accountant to derecognize the unserviceable properties carried in the PPE Account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\nExhaust all efforts to collect the receivable;\nIssue a Demand Letter and frequent visitations to the delinquent borrowers\nEstablish other legal measures for the recovery of uncollected past due receivable accounts.\nDirect the Office of the Municipal Agriculture to conduct a regular monitoring and evaluation in the implementation of the assistance program and task to make a periodic report.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended that Management :\nRequire all officers and employees concerned to account and settle cash advances immediately after carrying out the purpose for which these were granted in conformity with COA Circular No. 97-002 dated February 10, 1997; Section 89 of PD 1445.\nImmediately issue demand letters to those employees and to the members of the family of those who already passed away and no longer in the service with unsettled/ unliquidated cash advances.\nRefrain from granting additional cash advances to officers and employees with existing cash advances unless the previous cash advances are first settled;\nCause the refund of any unused/unspent/unutilized cash advances and/or no longer needed to the collecting officer to be receipted and shall be deposited to the authorized government depository bank.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended that the General Service Officer prepare a Summary of Supplies and Materials Issued (SSMI) together with the Requisition and Issue Slips and submit the same to the Chief Accountant as her basis to prepare a JEV to record the appropriate expense account and compute the cost of supplies issued and ending inventory\n\nFurther, we recommended that the Chief Accountant make the necessary adjustment to the inventory account and reflect the appropriate expense account for the inventories that were already used or distributed based on the Summary of Supplies and Materials Issued.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accountant should first  recognize/set up the procured office supplies and materials, drugs and medicines, and construction materials as Inventory and record as Expense only upon the issuance and/or withdrawal of office supplies from stock as supported by the RIS prepared by the Supply Custodian.\n\nFor proper recording of the office supplies and materials procured and the issuance of the same pursuant with the above cited IPSAS, hereunder are the recommended accounting entries:\nDebit\t   Credit\nTo record procurement of office supplies\nOffice Supplies Inventory \t\t\t     xxx\nCash in Bank\t\t\t\t\t      xxx\nTo record issuance of office supplies\nOffice Supplies Expense\t\t                 xxx\nOffice Supplies Inventory\t\t\t\t      xxx\nTo record procurement of construction materials\nConstruction Materials Inventory\t\t      xxx\nCash in Bank\t\t\t\t\t      xxx\nTo record issuance of construction materials\nConstruction Materials Expense\t\t     xxx\nConstruction Materials Inventory\t\t\t      xxx\nTo record procurement of drugs and medicines\nDrugs and Medicines Inventory\t\t     xxx\nCash in Bank\t\t\t\t\t      xxx\nTo record issuance of drugs and medicines\nDrugs and Medicines Expense\t\t     xxx\nDrugs and Medicines Inventory\t\t\t      xxx",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended that Management revert all outstanding balances of Accounts Payable for more than two years to Unappropriated Surplus pursuant to the aforementioned COA Circular.\n\nFurther, management should instruct the municipal accountant to analyze the payable accounts to ensure the accuracy of the balances in the financial statements and record transactions/set up liability based on valid obligations with complete evidences or documents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-OBS7",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-OBS8",
+      "year": 2019,
+      "recommendation": "We recommended that the Human Resource Management Officer adhere to the Omnibus Rules on Leave and COA Circular 2012-001 in the processing of the transactions and submit immediately the lacking/deficient documents. It is further recommended that the accountant review the correctness and completeness of all supporting documents pursuant to COA Circular No. 2012-001 before subjecting disbursement vouchers for payment to avoid suspensions or disallowances in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-OBS9",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accountant make the necessary adjustment of expenditures that remained outstanding for almost two years to Surplus Adjustment pursuant to Section 97 of P.D. 1445.\n\nFurther, we recommend that management cancel the stale checks and if it requires replacement, a new check may be issued upon submission of the stale check by the payee and chargeable to the current general fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-OBS10",
+      "year": 2019,
+      "recommendation": "We recommended that Management through the Municipal Accountant and Municipal Treasurer submit the required Report of Checks Issued and Report of Disbursement for every month pursuant to Section 43 and Section 46 of NGAS for LGUs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-OBS11",
+      "year": 2019,
+      "recommendation": "We recommended that management strictly impose fairly and consistently the use of Biometric Attendance Recording System to all LGUs personnel whether its status is regular, temporary, casual or job orders.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-OBS12",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\na.  \tSubmit annually APP-CSE to PS-DBM within the prescribed deadline, thus helping PS-DBM in delivering more efficiently the requirements of the Municipality; and\nb.  Submit/attach a PS Certificate of Non-Availability of stocks if goods were purchase from a private dealer.  Non submission of the document would compel the auditor to disallow the transaction pursuant to paragraph 4.9 of DBM Circular 2013-14.\nAdhere with the provision of Section 53.5 of IRR of RA 9184 and continue its practice of filing the agency procurement request to the PS-DBM as a modest contribution to achieve good governance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-OBS13",
+      "year": 2019,
+      "recommendation": "We recommended that management continue with the prompt and regular remittance of withheld taxes within the period prescribed by the BIR Regulation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-OBS14",
+      "year": 2019,
+      "recommendation": "We recommended that the BAC and TWG carefully scrutinize the sufficiency of the Contractor’s manpower and equipment on all projects to be awarded and not on an individual project only especially in cases where only one  bidder bid in several projects which have the same or overlapping implementation period.\n\nFurther, we recommended that management invite more qualified bidders to participate in the public bidding to undertake a more competitive procurement activity which will result in a more acceptable implementation of infrastructure projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-OBS15",
+      "year": 2019,
+      "recommendation": "We recommended that Management strictly observe the execution of contract by the contractor in the delivery of goods in case there is a delay pursuant to Section 68 of the IRR of RA 9184.\n\nFurther, we recommended that management collect the Liquidated Damages of P26,895.41 from the contractor and issue an official receipt in acknowledgement thereof.  The Auditor is compelled to issue Notice of Disallowance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-OBS16",
+      "year": 2019,
+      "recommendation": "We recommended that management direct the Municipal Engineer to strictly comply with the guidelines in the preparation of the ABC for all succeeding infrastructure projects of the municipality as prescribed by the DPWH.\n\nFurther, we recommended that the Municipal Engineer stop the practice of allocating an OCM mark up to non-civil works specifically to health and safety.  The OCM mark up on OSHP in every project implemented is not allowed in audit, hence the auditor may issue Notice of Disallowances in the subject matter in the future.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-OBS17",
+      "year": 2019,
+      "recommendation": "We recommended that Management come up with more GAD programs, projects and activities that may address, strengthen and equalize the status and condition of relationships between men and women which shall be integrated in the regular activities of the LGU in accordance with its mandate.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-OBS18",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accountant record the transaction into the appropriate expense account in accordance with the fund and purpose to present fairly the financial statements.\nReclassify or make the necessary adjustment in its proper account as follows:\na)     Disaster Response and Rescue Equipment                     xxx\nOther Miscellaneous and Operating Expenses                         xxx\nWelfare Goods for Distribution\t\t\t\txxx\nOther Miscellaneous and Operating Expenses                         xxx",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-OBS19",
+      "year": 2019,
+      "recommendation": "We recommended that Management submit the APP to ensure that such procurement of construction materials for the implementation of the projects are consistent with the duly approved budget.\n\nFurther, we recommended that Management submit the print-out copies of the NOA and NTP posted in the PhilGEPS to establish transparency and information in the conduct of procurement process.\nA Certification by the BAC that the Invitation to Bid, Notice to Award and Notice to Proceed has been posted at the conspicuous place within 7 calendar days at the municipality should not be of the same date.\nNon submission of the required documents may compel the Auditor to issue Notice of Suspension.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-OBS20",
+      "year": 2019,
+      "recommendation": "We recommended that Management create and promote projects and programs that may support the needs of the tobacco farmers to generate higher/sizeable income in which these farmers are the center of the Virginia Tobacco Industry.   Initiate a sound financial plan in the utilization of funds in order to ensure that the needs and aspirations of the people especially the tobacco farmers are attained.  Monitor the immediate implementation of the projects so that the benefits due to the tobacco farmers and constituents of the municipality are delivered.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-OBS21",
+      "year": 2019,
+      "recommendation": "For the remaining disallowances, we recommended that the concerned personnel and officials responsible and/or liable immediately settle the subject of their audit disallowances in accordance with the rules and regulations on the settlement of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed to instruct the Inventory Committee to conduct the inventory taking ahead of the deadline of submission of the RPCPPE to give ample time for the reconciliation of balances with the accounting records to ascertain the accuracy of the balances in the financial statements.",
+      "managementAction": "The conduct of Physical Inventory Taking was already done.  Reconciliation between accounting and property records is on-going.",
+      "status": "UNKNOWN",
+      "reason": "Report of Physical Inventory was submitted at the end of the year for further evaluation and validation."
+    },
+    {
+      "id": "Bacarra_IN-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accountant provide depreciation on recognized Road Networks accounts following the straight line method.",
+      "managementAction": "As agreed during the Exit Conference, depreciation will be recorded on the basis of the Report of the Local Road Network to be provided by the Engineering Office.",
+      "status": "UNKNOWN",
+      "reason": "Depreciation for Local Road Network was computed and presented in the financial statement to recognize the current value of the asset."
+    },
+    {
+      "id": "Bacarra_IN-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended that Management enter into a Memorandum of Agreement with the Department of Education to transfer ownership of the lots where schools are situated in accordance with PPSAS 17 for fair presentation of financial statements.",
+      "managementAction": "The documents necessary for the Donation of the said lots were already prepared and was forwarded to the DepEd for their review.",
+      "status": "UNKNOWN",
+      "reason": "Lots used and occupied by the schools were properly turned over to DepEd with Certification of Acceptance of the School Principal"
+    },
+    {
+      "id": "Bacarra_IN-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended that management instruct the GSO-Designate to prepare the Inventory and Inspection Report for Unserviceable Properties (IIRUP) for inspection and appraisal. After which, the proper disposal will be determined and the corresponding value shall be dropped from the books in order to reflect the correct value of Property, Plant and Equipment in the financial statements.",
+      "managementAction": "Inventory and inspection of Unserviceable properties were already conducted by the team. The team is in the process of summarizing the report to be forwarded to COA for its technical inspection /valuation in order for the municipality to dispose the items and drop from the books of accounts",
+      "status": "UNKNOWN",
+      "reason": "Unserviceable properties ready for disposal were inspected by a Technical Audit Specialist from the Regional Office."
+    },
+    {
+      "id": "Bacarra_IN-2019-PY5",
+      "year": 2019,
+      "recommendation": "Require the Municipal Accountant to record the 1 unit dump truck costing P580,000.00, appraised value of Nissan Urvan and KIA ambulance in accordance with Section 63 of PD 1445 to present fairly the balances of PPE in the financial statements.",
+      "managementAction": "Records were reviewed for the DT costing  P580,000 and made adjustment and have been recorded as of August 31, 2019. \nDeed of Donation is still being drafted.",
+      "status": "UNKNOWN",
+      "reason": "A copy of the Deed of Donation was furnished to the COA"
+    },
+    {
+      "id": "Bacarra_IN-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended that Management endeavor to locate documents pertaining to the two heavy equipment. Conduct an investigation to determine the officers and employees accountable at the date of loss for the unaccounted heavy equipment and hold them liable as per Section 73 of PD 1445.",
+      "managementAction": "Records were reviewed for the DT costing  P150,000 and  adjustment has been made and was recorded in the books as of August 31, 2019. The Bulldozer was not in the custody of the municipality since the administration of the then Mayor Leonardo Velasco and was reported in an Annual Audit Report",
+      "status": "UNKNOWN",
+      "reason": "Exerted more efforts for the retrieval of the property."
+    },
+    {
+      "id": "Bacarra_IN-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended that Management prepare the Inventory and Inspection Report of Unserviceable Properties for the 2 units dump truck as the project proponent and inform the TESDA Regional Office of the status of the units for their proper disposal in as much as the unit are now beyond repair. Management is reminded for the proper recording of donations received in the future to protect the best interest of the municipality and safeguard government assets from loss or deterioration.",
+      "managementAction": "Documents for the two (2) dump trucks had not been located, however, the PESO officer had been further asked to coordinate with TESDA for the possible reproduction of the needed documents",
+      "status": "UNKNOWN",
+      "reason": "Facilitated the processing of documents for proper recognition of the donated properties."
+    },
+    {
+      "id": "Bacarra_IN-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed to adhere to the provisions of project proposal to enhance collection under the Self Employment Assistance Program. Further, instruct the Municipal Agriculturist to monitor and enforce payment for the overdue balances.",
+      "managementAction": "As agreed during the Exit Conference, succeeding capital assistance were directly released to the beneficiaries",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-PY9",
+      "year": 2019,
+      "recommendation": "We recommended that Management direct the concerned offices to accomplish the necessary attachment to the disbursement as well as submit the monthly reports required to support the propriety and validity of charges made.",
+      "managementAction": "Succeeding Payments were already attached with the required documents",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-PY10",
+      "year": 2019,
+      "recommendation": "Payment of Representation and Transportation Allowance to the Department Interior and Local Government Officer assigned to the municipality and Market Supervisor IV amounting to P16,000.00 monthly was not in accordance with Local Budget Circular No. 103 rendering the propriety of its payment doubtful.",
+      "managementAction": "Succeeding Aid to DILG Officer were being recorded as Subsidy to NGAs as being agreed upon.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-PY11",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accountant ensure that taxes are correctly computed and properly deducted from payments of goods and services so as not to deprive the national government of additional income that could be generated from purchases made by the municipality and also to avoid penalties that maybe imposed for non-compliance to the revenue regulation mentioned.",
+      "managementAction": "Succeeding Aid to DILG Officer were being recorded as Subsidy to NGAs as being agreed upon.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-PY12",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accountant use the appropriate expense account in recording transactions pertaining to the expenses incurred as assistance to NGAs assigned within the municipality to present fairly the financial statements.",
+      "managementAction": "Succeeding disbursement incurred by the PNP and BFP were already recorded as Subsidy to NGAs.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-PY13",
+      "year": 2019,
+      "recommendation": "We recommended to Management to enforce immediate response and initiate procurement/distribution/issuance of procured materials to its intended recipients or victim affected by calamities to ultimately meet the purpose of the DRRM Fund.",
+      "managementAction": "The recommenda-tion is being observed for calamities being funded by the local funds. The said assistance was being funded by the National Housing Authority.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2019-PY14",
+      "year": 2019,
+      "recommendation": "We recommended that Management grant cash advances only to properly bonded organic employees of the municipality. Further, require the concerned persons to submit the liquidation of the cash advances granted them.",
+      "managementAction": "As agreed during the exit conference, the suggested new system of releasing the Subsidy will be followed",
+      "status": "UNKNOWN",
+      "reason": "Cash Advances for specific purpose were only granted to Bonded officials and employees"
+    },
+    {
+      "id": "Bacarra_IN-2019-PY15",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Agriculture Officer continue to monitor the implementation of the subproject by the Proponent Group. Advise them to formulate a realistic and attainable work plan to ensure subprojects and activities are ready for implementation upon the onset of the cropping season so that more recipients could benefit from the fund.",
+      "managementAction": "Selection of recipients is ongoing for orientation on the last week of September\nFor Implementation on the next release 2nd cycle",
+      "status": "UNKNOWN",
+      "reason": "Evaluated and assessed beneficiaries/recipients for the implementation of the program or projects."
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended and Management agreed to instruct the Inventory Committee to conduct the inventory taking ahead of the deadline of submission of the RPCPPE to give ample time for the reconciliation of balances with the accounting records to ascertain the accuracy of the balances in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Accountant provide depreciation on recognized Road Networks accounts following the straight line method.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended that Management enter into a Memorandum of Agreement with the Department of Education to transfer ownership of the lots where schools are situated in accordance with PPSAS 17 for fair presentation of financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended that management instruct the GSO-Designate to prepare the Inventory and Inspection Report for Unserviceable Properties (IIRUP) for inspection and appraisal. After which, the proper disposal will be determined and the corresponding value shall be dropped from the books in order to reflect the correct value of Property, Plant and Equipment in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-OBS5",
+      "year": 2018,
+      "recommendation": "Require the Municipal Accountant to record the 1 unit dump truck costing P580,000.00, appraised value of Nissan Urvan and KIA ambulance in accordance with Section 63 of PD 1445 to present fairly the balances of PPE in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We recommended that Management endeavor to locate documents pertaining to the two heavy equipment. Conduct an investigation to determine the officers and employees accountable at the date of loss for the unaccounted heavy equipment and hold them liable as per Section 73 of PD 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-OBS7",
+      "year": 2018,
+      "recommendation": "We recommended that Management prepare the Inventory and Inspection Report of Unserviceable Properties for the 2 units dump truck as the project proponent and inform the TESDA Regional Office of the status of the units for their proper disposal in as much as the unit are now beyond repair. Management is reminded for the proper recording of donations received in the future to protect the best interest of the municipality and safeguard government assets from loss or deterioration.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-OBS8",
+      "year": 2018,
+      "recommendation": "We recommended and Management agreed to adhere to the provisions of project proposal to enhance collection under the Self Employment Assistance Program. Further, instruct the Municipal Agriculturist to monitor and enforce payment for the overdue balances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-OBS9",
+      "year": 2018,
+      "recommendation": "We recommended that Management direct the concerned offices to accomplish the necessary attachment to the disbursement as well as submit the monthly reports required to support the propriety and validity of charges made.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-OBS10",
+      "year": 2018,
+      "recommendation": "We recommended that Management stop providing Representation and Transportation Allowance for employees not entitled under LBC No. 103 to avoid future disallowances in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-OBS11",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Accountant ensure that taxes are correctly computed and properly deducted from payments of goods and services so as not to deprive the national government of additional income that could be generated from purchases made by the municipality and also to avoid penalties that maybe imposed for non-compliance to the revenue regulation mentioned.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-OBS12",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Accountant use the appropriate expense account in recording transactions pertaining to the expenses incurred as assistance to NGAs assigned within the municipality to present fairly the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-OBS13",
+      "year": 2018,
+      "recommendation": "We recommended to Management to enforce immediate response and initiate procurement/distribution/issuance of procured materials to its intended recipients or victim affected by calamities to ultimately meet the purpose of the DRRM Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-OBS14",
+      "year": 2018,
+      "recommendation": "We recommended that Management grant cash advances only to properly bonded organic employees of the municipality. Further, require the concerned persons to submit the liquidation of the cash advances granted them.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-OBS15",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Agriculture Officer continue to monitor the implementation of the subproject by the Proponent Group. Advise them to formulate a realistic and attainable work plan to ensure subprojects and activities are ready for implementation upon the onset of the cropping season so that more recipients could benefit from the fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-OBS16",
+      "year": 2018,
+      "recommendation": "For the remaining suspension and disallowances, we recommended that the concerned personnel and officials responsible and/or liable immediately settle the subject of their audit suspensions and disallowances in accordance with the rules and regulations on the settlement of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommended that management take the following courses of action:\n\na.\tCreation of Inventory Committee to facilitate the periodic physical count of all properties with the prescribed report to be submitted accordingly.\n\nb.\tMaintain adequate subsidiary records for PPE so that relevant details are available to users thereof.\n\nc.\tGive considerable time and additional personnel to work on the inventory tagging of all PPE and assignment of property codes for a more facilitative identification and tracking the location of properties. Inventory Tag should be attached to the newly acquired equipment before these are distributed to the intended end-users.",
+      "managementAction": "Created Municipal Inventory and Disposal Committee per EO 2018-006.\n\nMaintained subsidiary records for Heavy Equipment and Motor Vehicles.\nDone inventory tagging on several offices.",
+      "status": "UNKNOWN",
+      "reason": "The inventory report was still not submitted on time.\n\nIncomplete subsidiary records."
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommended that GSO Designate conduct semestral physical count of inventory items and prepare and submit the result of inventory taking to the Municipal Accountant for the latter to prepare the necessary adjusting entries when appropriate, to fairly present the Inventory account balances.",
+      "managementAction": "The concerned department was instructed to comply with the audit recommendation.",
+      "status": "UNKNOWN",
+      "reason": "Only the inventory of accountable forms as of June 30, 2018 was prepared by the GSO-Designate."
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommended and management agreed to effect the increase of the fidelity bonds of the accountable officers commensurate to their accountabilities to provide adequate protection on the municipality’s resources. Also, conduct a periodic review of accountability in order to determine whether the amount of bond is still adequate.",
+      "managementAction": "Payments of fidelity bonds were made in reference to Treasury Circular No. 02-2009.",
+      "status": "UNKNOWN",
+      "reason": "Complied."
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY4",
+      "year": 2018,
+      "recommendation": "We recommended and management agreed to make sure that collection functions are carried out only by duly bonded personnel.",
+      "managementAction": "Secured fidelity bond of collecting officers.",
+      "status": "UNKNOWN",
+      "reason": "Complied."
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommended and management agreed that it should strengthen their internal control on proper accountability and stop the practice of two collectors issuing receipts from the same booklet, unless proper turn-over is performed.",
+      "managementAction": "The Municipal Treasurer was instructed to comply with the recommendation and further monitor the issuance of accountable forms to the collecting officers.",
+      "status": "UNKNOWN",
+      "reason": "Complied."
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY6",
+      "year": 2018,
+      "recommendation": "We recommended and management agreed to strengthen their internal control of its payroll funds to protect government funds and minimize operating costs by fully utilizing the automated teller machine (ATM) payroll system.",
+      "managementAction": "The municipality availed the ATM payroll system for salaries and bonuses for regular employees only to avoid additional paper works.",
+      "status": "UNKNOWN",
+      "reason": "Complied."
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommended and management agreed to stop the practice of accommodating payroll deductions for personal loans of its job order workers.",
+      "managementAction": "Stopped the accommodation of payroll deductions.",
+      "status": "UNKNOWN",
+      "reason": "Complied."
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommended and management agreed to create an Inspection Committee who will perform the set forth responsibilities and furnish COA copy of the Order. Also, the Municipal Accountant is advised to require that Acceptance and Inspection Report be properly filled-out before effecting payment to suppliers.",
+      "managementAction": "Management created an Inspection Committee.",
+      "status": "UNKNOWN",
+      "reason": "Complied."
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY9",
+      "year": 2018,
+      "recommendation": "We recommended that management ensure that the Purchase Order is properly and completely accomplish so that sanctions may be imposed to erring suppliers for the delay and/or non-delivery of goods.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Complied."
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY10",
+      "year": 2018,
+      "recommendation": "We recommended and management agreed that procurement process should be done properly in accordance with the provisions of R.A. No. 9184 and its Implementing Rules and Regulations and not to accept advance delivery in order to effect the legality of the procurement.\n \nAlso, required the concerned personnel (BAC, GSO-Designate and MHO) to submit explanation why deliveries of drugs and medicines were made prior to the conduct of public bidding and receipt of the Purchase Order by the supplier.\n \nFurther, conduct investigation on the existence and materiality of non-delivery and partial delivery.",
+      "managementAction": "The concerned offices were instructed to properly plan all procurement to avoid violations on RA 9184.",
+      "status": "UNKNOWN",
+      "reason": "Complied."
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY11",
+      "year": 2018,
+      "recommendation": "We recommended that the Bids and Awards Committee and the Technical Work Group perform their responsibilities accordingly and be guided with the DPRI when procuring medicines to ensure that the government achieves the best value for money in sourcing essential medicines.",
+      "managementAction": "The management reasoned out that the procurement was posted in the Philgeps and the lone bidder passed the qualifications to supply the medicines.",
+      "status": "UNKNOWN",
+      "reason": "Complied."
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY12",
+      "year": 2018,
+      "recommendation": "We recommended that the Requisitioning Officer certify that the drug products being procured fall within and conform to PNDF. In cases when the medicines to be purchased are not listed in the PNDF, an approval from the Head of the National Drug Policy Office must be seek by the management through a written request with justification to ensure that effective medicines are provided to the general public.",
+      "managementAction": "The Requisitioning Officer certified as to the conformity of procured medicines with the essential drug list as contained in the PNDF.",
+      "status": "UNKNOWN",
+      "reason": "Complied."
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY13",
+      "year": 2018,
+      "recommendation": "We recommended and management agreed to strictly comply with the provisions of Section 39.4 and 39.5 of the Revised IRR of RA No. 9184 in order that the government is fully protected in case of any defects or damages that may occur in the project from the date of completion until their final acceptance.",
+      "managementAction": "The Contractors/ Suppliers were required to submit the surety bond in lieu of the performance security withdrawn.",
+      "status": "UNKNOWN",
+      "reason": "Surety bond is submitted upon withdrawal of performance security before the final acceptance."
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY14",
+      "year": 2018,
+      "recommendation": "We recommended and management agreed to require the contractors to immediately post the Warranty Securities of completed infrastructure to guarantee for the protection against possible structural defects/failures that may occur, otherwise, perpetual disqualification from participating in any public bidding will be imposed because of the contractors’ deliberate non- compliance of the provision of the General Condition of the Contract they have entered into with the LGU. \n\nLikewise, the Municipal Engineer and Municipal Accountant should maintain a list of completed projects as a reference for posting the required warranty security.",
+      "managementAction": "The concerned department were instructed to comply with the Audit Observation.",
+      "status": "UNKNOWN",
+      "reason": "The Municipal Engineer did not require the submission of warranty security after final acceptance of the project."
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY15",
+      "year": 2018,
+      "recommendation": "We recommended and management agreed to direct the Municipal Engineer and Municipal Planning and Development Officer to integrate the Construction Safety and Health Program in the computation of construction costs of all projects to be implemented to ensure the protection and welfare of the general public within and around the immediate vicinity of any construction worksite as well as the promotion of harmonious employer-employee relationships in the construction industry.\n\nAlso, Bids and Awards Committee to require Contractors to submit DOLE-approved CSHP to ensure the latter’s compliance with Occupational Safety and Health Standards set by the DOLE.",
+      "managementAction": "The Municipal Engineering and Municipal Planning and Development Officer integrated the Construction Safety and Health Program in the computation of construction costs of all succeeding projects.  The DOLE approved CHSP is attached to the disbursement voucher.",
+      "status": "UNKNOWN",
+      "reason": "Complied."
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY16",
+      "year": 2018,
+      "recommendation": "We recommended and management agreed that the liable persons refund the total amount of improperly charged expenses. Likewise, recommended that the Municipal Budget Officer and Municipal Accountant monitor the proper utilization and ensure that the fund be expended only to activities enumerated in DEPED, DBM, and DILG Joint Circular No. 1, series of 2017 dated 19 January 2017. Also the members of the Local School Board should maximize the utilization of SEF for priority projects as identified in the latest guidelines.",
+      "managementAction": "The amount of P44,500 was not yet refunded. Succeeding charges were based on Joint Circular No. 1 series of 2017 of DepEd, DBM and DILG.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY17",
+      "year": 2018,
+      "recommendation": "We recommended the Municipal Government technically supervise the implementation of projects to avoid the improper use of government funds/properties.\n\t\nLikewise, we required the submission of the (a) Statement of Work Accomplished and Certificate of Project Completion; (b) Project monitoring committee report; and (c) explanation why the District Supervisor received the materials intended for Cabaruan Elementary School and Casilian Primary School to enable us to make a decision in audit.",
+      "managementAction": "Statement of Work Accomplished, PMC Certification and Certificate of Completion are now attached to the payment of construction materials.",
+      "status": "UNKNOWN",
+      "reason": "Complied."
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY18",
+      "year": 2018,
+      "recommendation": "We recommended that management properly evaluate the clients to ensure that financial assistance will be given only to qualified beneficiaries. Also, consider using the other forms of assistance like food packs, cash for work, repair/upgrading/construction of Day Care Centers and Senior Citizen Centers as enumerated in the MOA for the implementation of Protective Services Program.",
+      "managementAction": "The MSWDO was instructed to assess properly the clients.",
+      "status": "UNKNOWN",
+      "reason": "Complied."
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY19",
+      "year": 2018,
+      "recommendation": "We have recommended that management comply with the system stated therein for the proper transfer of Local Road Networks to its appropriate account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "No action undertaken"
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY20",
+      "year": 2018,
+      "recommendation": "We have recommended that the collectors issue the pre-numbered official receipts in strict numerical sequence.",
+      "managementAction": "Collectors have been instructed to observe strict compliance for the “first in fist out” order in acknowledging pre-numbered receipts and in issuing receipts of collection",
+      "status": "UNKNOWN",
+      "reason": "Complied."
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY21",
+      "year": 2018,
+      "recommendation": "We have recommended and management agreed to exert efforts for the immediate liquidation/settlement of the Receivable accounts. If the probability of collection or liquidation is remote, the Municipal Accountant take responsibility to conduct a final review, analysis and reconciliation of all dormant accounts pursuant to the guidelines and procedures in reconciling and cleaning the books of accounts of LGUs of dormant receivable accounts for fair presentation of accounts in the Financial Statements provided by COA Circular 2016-005.",
+      "managementAction": "Part of the SEAP has been submitted for condonation of loan receivables",
+      "status": "UNKNOWN",
+      "reason": "Request for condonation was not acted upon because COA does not grant condonation of dormant receivables instead advised the management to request for the write-off of these SEAP loan receivables."
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY22",
+      "year": 2018,
+      "recommendation": "We have recommended that management stop receiving advance delivery of goods and strictly observe the procurement process provided in R.A. 9184 and its Implementing Rules and Regulations in order to effect the legality of the procurement and to avoid disallowances in the audit.",
+      "managementAction": "The Requisitioning Office is instructed to follow the procurement process.",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY23",
+      "year": 2018,
+      "recommendation": "We have recommended that BAC comply strictly with the provisions of Sections 37.1.6 and 37.4.2 of the Revised IRR of RA 9184 in order to attain transparency in the conduct of procurement.",
+      "managementAction": "Attended seminar on Philgeps posting.",
+      "status": "UNKNOWN",
+      "reason": "Not all NOA and NTP for   procurement projects were posted in the Philgeps."
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY24",
+      "year": 2018,
+      "recommendation": "We have recommended that the Bids and Awards Committee give justifiable reason on their basis of the number of days to complete the project which has wide disparity on the Program of Work.",
+      "managementAction": "No justification given by management, however, the number of days to complete as stated in the Program of Work is the same as in the contract implementation for succeeding projects.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY25",
+      "year": 2018,
+      "recommendation": "We have recommended that management require the Municipal Engineer to provide justification on the delayed completion of the abovementioned projects and implement an efficient monitoring system for all on-going projects. Also, the Municipal Accountant is advice to impose liquidated damages.",
+      "managementAction": "Submitted the required documents.",
+      "status": "UNKNOWN",
+      "reason": "Complied."
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY26",
+      "year": 2018,
+      "recommendation": "We have recommended that management direct the GSO-Designate and Municipal Accountant to obtain the necessary documents as the basis of determining the cost of the properties to be reflected in the RPCPPE and in the books of accounts to show the correct balances of the affected asset accounts.",
+      "managementAction": "The unrecorded motor vehicles were already recorded in the books of accounts and in the RPCPPE with their corresponding cost under JEV # 48 on August 2016.",
+      "status": "UNKNOWN",
+      "reason": "The Slaughterhouse and RHU are not yet recognized on both the RPCPPE and books of accounts"
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY27",
+      "year": 2018,
+      "recommendation": "We have recommended and the management agreed to strictly comply with the provisions of Section 48 of GAA 2015 by screening the loan  application of its employees so that the monthly net take home pay will not be reduced to an amount below P3,000 after all the authorized deductions. Also, restructure the deductions particularly debt servicing of the concerned employees to conform to the required amount of net take home pay.",
+      "managementAction": "No loan renewal were granted to officials and employees who have a net take home pay belowP3,000.00",
+      "status": "UNKNOWN",
+      "reason": "Complied."
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY28",
+      "year": 2018,
+      "recommendation": "We have recommended that management require the persons responsible to properly budget the funds for supplemental feeding program, any future overspending will be disallowed in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Refunded the amount disallowed."
+    },
+    {
+      "id": "Bacarra_IlocosNorte-2018-PY29",
+      "year": 2018,
+      "recommendation": "We have recommended the refund of the excess amount of Productivity Enhancement Incentive granted to officials and employees.  Also, management should strictly adhere with the provision of EO No. 80 specifically on the authorized amount to be granted for the payment of PEI.",
+      "managementAction": "Refunded a total of P1,090,000.00",
+      "status": "UNKNOWN",
+      "reason": "COA Decision had been issued denying the appeal of the Notice of Disallowance. Partial settlement totalling to P1,090,000 had been made by employees."
+    },
+    {
+      "id": "Bacarra_IN-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommended that management take the following courses of actin:\nCreation of Inventory Committee to facilitate the periodic physical count of all properties with the prescribed report to be submitted accordingly.\nMaintain adequate subsidiary records for PPE so that relevant details are available to users thereof.\nGive considerable time and additional personnel to work on the inventory tagging of all PPE and assignment of property codes for a more facilitative identification and tracking the location of properties. Inventory Tag should be attached to the newly acquired equipment before these are distributed to the intended end-users.\nReiterate that the GSO Designate cause the proper disposal of unserviceable assets in accordance with applicable rules and regulations on disposal procedures.\nMunicipal Accountant ensures that all government property officially received by the Municipality are accounted for and recognized in the books at acquisition cost or at appraised value, as applicable.\nWe recommended that the Municipal Accountant provide for depreciation on recognized Road Networks accounts following the straight line method.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommended that GSO Designate conduct semestral physical count of inventory items and prepare and submit the result of inventory taking to the Municipal Accountant for the latter to prepare the necessary adjusting entries when appropriate, to fairly present the Inventory account balances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recommended that GSO Designate verify the Monthly Official Travels prepared by the drivers of each motor vehicles and based thereon prepare the Monthly Report of Fuel Consumption showing the type of vehicle, total distance travelled, total fuel used and the normal fuel consumption for each vehicles so that the use of the LGU’s motor vehicle can be properly monitored. Submit the same to the Auditor as required in the regulations to determine the reasonableness of the fuel consumed during the period and to avoid suspension and/or disallowance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We recommended and management agreed to effect the increase of the fidelity bonds of the accountable officers commensurate to their accountabilities to provide adequate protection on the municipality’s resources. Also, conduct a periodic review of accountability in order to determine whether the amount of bond is still adequate.\nWe recommended and management agreed to make sure that collection functions are carried out only by duly bonded personnel.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommended and management agreed that it should strengthen their internal control on proper accountability and stop the practice of two collectors issuing receipts from the same booklet, unless proper turn-over is performed.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We recommended and management agreed to strengthen their internal control of its payroll funds to protect government funds and minimize operating costs by fully utilizing the automated teller machine (ATM) payroll system.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2017-OBS7",
+      "year": 2017,
+      "recommendation": "We recommended and management agreed to stop the practice of accommodating payroll deductions for personal loans of its job order workers.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2017-OBS8",
+      "year": 2017,
+      "recommendation": "We recommended and management agreed to create an Inspection Committee who will perform the set forth responsibilities and furnish COA copy of the Order. Also, the Municipal Accountant is advised to require that Acceptance and Inspection Report be properly filled-out before effecting payment to suppliers.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2017-OBS9",
+      "year": 2017,
+      "recommendation": "We recommended that management ensure that the Purchase Order is properly and completely accomplish so that sanctions may be imposed to erring suppliers for the delay and/or non-delivery of goods.\nAlso, the Supply Officer responsible for this activity answers for damages that were caused due to delay of delivery of goods.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2017-OBS10",
+      "year": 2017,
+      "recommendation": "We recommended and management agreed that procurement process should be done properly in accordance with the provisions of R.A. No. 9184 and its Implementing Rules and Regulations and not to accept advance delivery in order to effect the legality of the procurement.\nAlso, required the concerned personnel (BAC, GSO-Designate and MHO) to submit explanation why deliveries of drugs and medicines were made prior to the conduct of public bidding and receipt of the Purchase Order by the supplier.\nFurther, conduct investigation on the existence and materiality of non-delivery and partial delivery.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2017-OBS11",
+      "year": 2017,
+      "recommendation": "We recommended that the Bids and Awards Committee and the Technical Work Group perform their responsibilities accordingly and be guided with the DPRI when procuring medicines to ensure that the government achieves the best value for money in sourcing essential medicines.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2017-OBS12",
+      "year": 2017,
+      "recommendation": "We recommended that the Requisitioning Officer certify that the drug products being procured fall within and conform to PNDF. In cases when the medicines to be purchased are not listed in the PNDF, an approval from the Head of the National Drug Policy Office must be seek by the management through a written request with justification to ensure that effective medicines are provided to the general public.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2017-OBS13",
+      "year": 2017,
+      "recommendation": "We recommended and management agreed to strictly comply with the provisions of Section 39.4 and 39.5 of the Revised IRR of RA No. 9184 in order that the government is fully protected in case of any defects or damages that may occur in the project from the date of completion until their final acceptance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2017-OBS14",
+      "year": 2017,
+      "recommendation": "We recommended and management agreed to require the contractors to immediately post the Warranty Securities of completed infrastructure to guarantee for the protection against possible structural defects/failures that may occur, otherwise, perpetual disqualification from participating in any public bidding will be imposed because of the contractors’ deliberate non- compliance of the provision of the General Condition of the Contract they have entered into with the LGU.\nLikewise, the Municipal Engineer and Municipal Accountant should maintain a list of completed projects as a reference for posting the required warranty security.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2017-OBS15",
+      "year": 2017,
+      "recommendation": "We recommended and management agreed to direct the Municipal Engineer and Municipal Planning and Development Officer to integrate the Construction Safety and Health Program in the computation of construction costs of all projects to be implemented to ensure the protection and welfare of the general public within and around the immediate vicinity of any construction worksite as well as the promotion of harmonious employer-employee relationships in the construction industry.\nAlso, Bids and Awards Committee to require Contractors to submit DOLE-approved CSHP to ensure the latter’s compliance with Occupational Safety and Health Standards set by the DOLE.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2017-OBS16",
+      "year": 2017,
+      "recommendation": "We recommended and management agreed that the liable persons refund the total amount of improperly charged expenses. Likewise, recommended that the Municipal Budget Officer and Municipal Accountant monitor the proper utilization and ensure that the fund be expended only to activities enumerated in DEPED, DBM, and DILG Joint Circular No. 1, series of 2017 dated 19 January 2017. Also the members of the Local School Board should maximize the utilization of SEF for priority projects as identified in the latest guidelines.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2017-OBS17",
+      "year": 2017,
+      "recommendation": "We recommended the Municipal Government technically supervise the implementation of projects to avoid the improper use of government funds/properties.\nLikewise, we required the submission of the (a) Statement of Work Accomplished and Certificate of Project Completion; (b) Project monitoring committee report; and (c) explanation why the District Supervisor received the materials intended for Cabaruan Elementary School and Casilian Primary School to enable us to make a decision in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2017-PY1",
+      "year": 2017,
+      "recommendation": "We have recommended that management comply with the system stated therein for the proper transfer of Local Road Networks to its appropriate account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "No action undertaken"
+    },
+    {
+      "id": "Bacarra_IN-2017-PY2",
+      "year": 2017,
+      "recommendation": "We have recommended and the management agreed to instruct the Municipal Accountant and GSO-Designate to reconcile the balances between the subsidiary ledger and the RPCPPE to reflect the correct PPE year-end balances for fair presentation in the Financial Statement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "No action undertaken\nReiterated in this report"
+    },
+    {
+      "id": "Bacarra_IN-2017-PY3",
+      "year": 2017,
+      "recommendation": "We have recommended and the management agreed to make the necessary adjusting entries to derecognize the structures built over properties not owned by the municipality.",
+      "managementAction": "Several structures have been derecognized from the books od accounts.",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Bacarra_IN-2017-PY4",
+      "year": 2017,
+      "recommendation": "We have recommended and the management agreed to create the necessary committees in order to facilitate the proper disposal of identified unserviceable and obsolete properties.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "No  action undertaken .\n\nReiterated in this report"
+    },
+    {
+      "id": "Bacarra_IN-2017-PY5",
+      "year": 2017,
+      "recommendation": "We have recommended the following:\n \n1. The GSO-Designate and Accounting Department work together to reconcile the physical inventory count and accounting record and verify the unaccounted properties.  \n\n2. The management collects from the accountable officers the value of the properties that were lost and those which cannot be ascertained on its whereabouts. \n\n3. PAR be renewed every three years or as often as necessary",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "No  action undertaken .\nReiterated in this report"
+    },
+    {
+      "id": "Bacarra_IN-2017-PY6",
+      "year": 2017,
+      "recommendation": "We have recommended and management agreed to reclassify the proper inventory account of the tangible assets with estimated useful life of more than one year but small enough to be considered as PPE. An Inventory Custodian Slip (ICS) be prepared upon issuance of small tangible items for monitoring, control and accountability.",
+      "managementAction": "Reclassification of proper inventory account",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Bacarra_IN-2017-PY7",
+      "year": 2017,
+      "recommendation": "We have recommended that management direct the personnel under the Office of the Treasury to revisit and implement accordingly the provisions of the current Municipal Tax Ordinance. Notice of Charge will be issued to accountable officer/s for the under-assessment and/or under collection of mayor’s permit fee. Also, require the submission of the other 168 approved business for audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Bacarra_IN-2017-PY8",
+      "year": 2017,
+      "recommendation": "We have recommended that management require the treasury personnel to strictly implement the provision of their Municipal Tax Ordinance on the imposition of surcharges and interest on late payment of permit fees. Notice of Charge will be issued to accountable officers on the non-collection of surcharges and interest for late payment of permit fee.",
+      "managementAction": "Collectors liable under the notice of charge made full settlement of surcharges and interests.",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Bacarra_IN-2017-PY9",
+      "year": 2017,
+      "recommendation": "We have recommended that management require the treasury personnel to be more focus and strictly implement the prescribed rates. For the improper rate of governor’s permit fee collected, the actual fee is to be established and necessary action must be enforced.",
+      "managementAction": "The prescribed rate for Governor’s Permit Fee has been taken into effect.",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Bacarra_IN-2017-PY10",
+      "year": 2017,
+      "recommendation": "We have recommended that the collectors issue the pre-numbered official receipts in strict numerical sequence.",
+      "managementAction": "Collectors have been instructed to observe strict compliance for the “first in fist out” order in acknowledging pre-numbered receipts and in issuing receipts of collection",
+      "status": "UNKNOWN",
+      "reason": "There are still collectors who does not issue the pre-numbered Official Receipt chronologically."
+    },
+    {
+      "id": "Bacarra_IN-2017-PY11",
+      "year": 2017,
+      "recommendation": "We have recommended and management agreed to exert efforts for the immediate liquidation/settlement of the Receivable accounts. If the probability of collection or liquidation is remote, the Municipal Accountant take responsibility to conduct a final review, analysis and reconciliation of all dormant accounts pursuant to the guidelines and procedures in reconciling and cleaning the books of accounts of LGUs of dormant receivable accounts for fair presentation of accounts in the Financial Statements provided by COA Circular 2016-005.",
+      "managementAction": "Part of the SEAP has been submitted for condonation of loan receivables",
+      "status": "UNKNOWN",
+      "reason": "Request for condonation was not acted upon because COA does not grant condonation of dormant receivables instead advised the management to request for the write-off of these SEAP loan receivables."
+    },
+    {
+      "id": "Bacarra_IN-2017-PY12",
+      "year": 2017,
+      "recommendation": "We have recommended that management comply with the provisions of the travel law. And the excessive disbursements should be refunded by the concerned personnel.",
+      "managementAction": "Disallowed amount had been refunded.",
+      "status": "UNKNOWN",
+      "reason": "Complied\n\nRefunded P17,881 on June 15, 2017 with OR No. 246105"
+    },
+    {
+      "id": "Bacarra_IN-2017-PY13",
+      "year": 2017,
+      "recommendation": "We have recommended for the strict observance of the provisions of Executive Order No. 298 that valid travel order be issued by proper authorities",
+      "managementAction": "LCE stopped approving travel order of officers of NGA detailed in the municipality.",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Bacarra_IN-2017-PY14",
+      "year": 2017,
+      "recommendation": "We have recommended that the Municipal Accountant prepare the necessary adjusting entries of the affected accounts and be guided to the provisions of COA-DBM-DILG-GCG-DND Joint Circular No. 2015-01 on the entitlement, release, use, reporting and audit of confidential and/or intelligence fund.",
+      "managementAction": "Management did not release any Intelligence Fund for CY 2017.",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Bacarra_IN-2017-PY15",
+      "year": 2017,
+      "recommendation": "We have recommended that the Local Finance Committee and the Municipal School Board stop the utilization of the SEF to programs and projects not included in the provisions under RA 7160 and the new DECS, DBM and DILG Joint Circular No. 01 s. 2017 dated January 19, 2017 in order to maximize the benefits that the students and teachers could avail under this fund.",
+      "managementAction": "Management implemented the recommendation for       succeeding transactions.",
+      "status": "UNKNOWN",
+      "reason": "There are still inappropriate SEF charges for CY 2017 which was part of this Audit Report."
+    },
+    {
+      "id": "Bacarra_IN-2017-PY16",
+      "year": 2017,
+      "recommendation": "We have recommended that the Municipal Accountant prepare adjusting entries of the affected accounts. Immediate liquidation of the fund transferred be required if the purpose for which it has been transferred has been served.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Bacarra_IN-2017-PY17",
+      "year": 2017,
+      "recommendation": "We have recommended and the management agreed to follow the guidelines in the granting, utilization and accounting of the funds released to NGOs/POs provided under COA Circular 2007-001 and to require the submission of documents mentioned in Items 2.1 and 2.2 of COA Circular 2012-001 in order that the municipality be able to verify the implementation of the projects as agreed upon and ensure that government funds be spent in accordance with the purposes for which the same are granted.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Complied\n\nAssistance to BMEMPC worth P100,000 had been returned to the municipality."
+    },
+    {
+      "id": "Bacarra_IN-2017-PY18",
+      "year": 2017,
+      "recommendation": "We have recommended that management instruct the Office of the MSWD to strengthen their evaluation process on the applicants for financial assistance so that more appropriate recipients will benefit on the AICS program.",
+      "managementAction": "Observation was well taken",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Bacarra_IN-2017-PY19",
+      "year": 2017,
+      "recommendation": "We have recommended and the Municipal Accountant agreed more to be prudent in recording government transactions such that the correct account should be used properly to avoid misperception as to the nature of the transactions when viewed by the end users of the financial statements.",
+      "managementAction": "Adjustments were recognized in the books as of December 31, 2017",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Bacarra_IN-2017-PY20",
+      "year": 2017,
+      "recommendation": "We have recommended that the Secretariat of the Scholarship Committee properly observe the conditions contained in the Agreement, nonconformity thereof is ground for termination of the educational assistance. Also, unnecessary payment of educational assistance be refunded by concerned personnel.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Bacarra_IN-2017-PY21",
+      "year": 2017,
+      "recommendation": "We have recommended and the management agreed to  require the MDRRMO-Designate to submit the needed documents to ascertain the completeness and validity of the disbursement.",
+      "managementAction": "Lacking documents were already submitted",
+      "status": "UNKNOWN",
+      "reason": "Complied\n\nThe submitted documents were found in order."
+    },
+    {
+      "id": "Bacarra_IN-2017-PY22",
+      "year": 2017,
+      "recommendation": "We have recommended that management stop receiving advance delivery of goods and strictly observe the procurement process provided in R.A. 9184 and its Implementing Rules and Regulations in order to effect the legality of the procurement and to avoid disallowances in the audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Management failed to comply with the audit recommendation.\n\nReiterated in this report because some procurement of drugs and medicines had been delivered in advance."
+    },
+    {
+      "id": "Bacarra_IN-2017-PY23",
+      "year": 2017,
+      "recommendation": "We have recommended that  Bids and Awards Committee strictly adhere to the  provisions of RA 9184 and its Implementing Rules and Regulations on proper notice and execution of awards on procurement in order to effect the propriety, validity and legality of the transactions.",
+      "managementAction": "Started to implement the audit recommendation on proper notice and execution of awards on May 2017 in all public biddings, except to projects funded by GAA which allows short of award upon release of funds and schedule of bidding is set.",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Bacarra_IN-2017-PY24",
+      "year": 2017,
+      "recommendation": "We have recommended that BAC comply strictly with the provisions of Sections 37.1.6 and 37.4.2 of the Revised IRR of RA 9184 in order to attain transparency in the conduct of procurement.",
+      "managementAction": "BAC Secretariat made reservation for the first quarter CY 2018 to attend the PhilGEPS Posting seminar. The Posting of 2017 and 2018 NOA, NTP and Contract will be done after the training.",
+      "status": "UNKNOWN",
+      "reason": "Not complied as of December 31, 2017"
+    },
+    {
+      "id": "Bacarra_IN-2017-PY25",
+      "year": 2017,
+      "recommendation": "We have recommended that the Bids and Awards Committee give justifiable reason on their basis of the number of days to complete the project which has wide disparity on the Program of Work.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "No justification given by management."
+    },
+    {
+      "id": "Bacarra_IN-2017-PY26",
+      "year": 2017,
+      "recommendation": "We have recommended and the management agreed to strictly follow  the provisions embodied in COA Circular No. 101C to facilitate action on papers relative to suspension orders on government infrastructure contracts.",
+      "managementAction": "Management shall comply for the succeeding implementation of infrastructure projects if there is such a need to issue suspension order.",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Bacarra_IN-2017-PY27",
+      "year": 2017,
+      "recommendation": "We have recommended that the Municipal Engineer provide justification as to the observed difference on the materials placed in the projects and submit the Variation or Change Order duly approved by the Local Chief Executive, including all the necessary supporting documents to support the modification.",
+      "managementAction": "Change order had been submitted to the Audit Team.",
+      "status": "UNKNOWN",
+      "reason": "Complied\n\nThe submitted documents were found to be in order"
+    },
+    {
+      "id": "Bacarra_IN-2017-PY28",
+      "year": 2017,
+      "recommendation": "We have recommended that management require the Municipal Engineer to provide justification on the delayed completion of the abovementioned projects and implement an efficient monitoring system for all on-going projects. Also, the Municipal Accountant is advice to impose liquidated damages.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "After reviewing the Resume Order vis a vis the Statement of Work Accomplished from DPWH notice of suspension was issued requiring justification for the delayed resume of work which was on Dec. 2017 when the DPWH work was finished on April 4, 2017."
+    },
+    {
+      "id": "Bacarra_IN-2017-PY29",
+      "year": 2017,
+      "recommendation": "We have recommended that management should properly observe the guidelines embodied in Annex “E” of the IRR of RA 9184. Further, the Municipal Engineer and Project Monitoring Committee should consistently monitor the infrastructure projects of the municipality to ensure its completion within the target date.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Bacarra_IN-2017-PY30",
+      "year": 2017,
+      "recommendation": "We have recommended that management direct the GSO-Designate and Municipal Accountant to obtain the necessary documents as the basis of determining the cost of the properties to be reflected in the RPCPPE and in the books of accounts to show the correct balances of the affected asset accounts.",
+      "managementAction": "The unrecorded motor vehicles were already recorded in the books of accounts and in the RPCPPE with their corresponding cost under JEV # 48 on August 2016.",
+      "status": "UNKNOWN",
+      "reason": "The Slaughterhouse and RHU are not yet recognized on both the RPCPPE and books of accounts"
+    },
+    {
+      "id": "Bacarra_IN-2017-PY31",
+      "year": 2017,
+      "recommendation": "We have recommended and the management agreed to strictly comply with the provisions of Section 48 of GAA 2015 by screening the loan  application of its employees so that the monthly net take home pay will not be reduced to an amount below P3,000 after all the authorized deductions. Also, restructure the deductions particularly debt servicing of the concerned employees to conform to the required amount of net take home pay.",
+      "managementAction": "No loan renewal were granted to officials and employees who have a net take home pay belowP3,000.00",
+      "status": "UNKNOWN",
+      "reason": "Although no loan renewal were granted to officials and employees, the personnel in-charge failed to restructure the deductions thus there are still net pay below P3,000.00 for CY 2017."
+    },
+    {
+      "id": "Bacarra_IN-2017-PY32",
+      "year": 2017,
+      "recommendation": "We have recommended that management require the persons responsible to properly budget the funds for supplemental feeding program, any future overspending will be disallowed in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Disallowed had been issued which was appealed in the Regional Office."
+    },
+    {
+      "id": "Bacarra_IN-2017-PY33",
+      "year": 2017,
+      "recommendation": "We have recommended that the GSO-Designate and Accounting Department work together to reconcile the physical inventory count and accounting record and verify the unaccounted properties. Attention should be given to properties held by individuals no longer connected with the agency, and those which cannot be ascertained on its whereabouts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "No action undertaken\n\nReiterated in this report"
+    },
+    {
+      "id": "Bacarra_IN-2017-PY34",
+      "year": 2017,
+      "recommendation": "We have recommended, and management agreed to exhaust all possible means to obtain the proof of ownership from the supplier.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "No action undertaken"
+    },
+    {
+      "id": "Bacarra_IN-2017-PY35",
+      "year": 2017,
+      "recommendation": "We have recommended, and management agreed, that the agency determine the market value and the remaining estimated life of the buildings which will be the basis in providing the depreciation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Due to the agency’s failure to ascertain the market value and remaining estimated life of the buildings, the Municipal Accountant does not have a basis on the provision of depreciation."
+    },
+    {
+      "id": "Bacarra_IN-2017-PY36",
+      "year": 2017,
+      "recommendation": "We have recommended the refund of the excess amount of Productivity Enhancement Incentive granted to officials and employees.  Also, management should strictly adhere with the provision of EO No. 80 specifically on the authorized amount to be granted for the payment of PEI.",
+      "managementAction": "Refunded a total of P1,040,000.00",
+      "status": "UNKNOWN",
+      "reason": "COA Decision had been issued denying the appeal of the Notice of Disallowance. Partial settlement totalling to P1,040,000 had been made by employees."
+    },
+    {
+      "id": "Bacarra_IN-2017-PY37",
+      "year": 2017,
+      "recommendation": "We have recommended that management always incorporate in the bidding documents for infrastructure projects the posting of warranty security and ensure the compliance thereof by the winning bidder/contractor as prescribed in Section 62.2.3 of the IRR of RA 9184 to ensure the agency’s protection against any structural defects/ failure within the warranty period. \n\nAlso, the management is advised to strengthen the inspection activity to determine if there are any defects on the projects completed in 2013 so they could take the necessary remedial action.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "No action undertaken\n\nReiterated in this report"
+    },
+    {
+      "id": "Bacarra_IN-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We have recommended that management comply with the system stated therein for the proper transfer of Local Road Networks to its appropriate account.\nWe have recommended and the management agreed to instruct the Municipal Accountant and GSO-Designate to reconcile the balances between the subsidiary ledger and the RPCPPE to reflect the correct PPE year-end balances for fair presentation in the Financial Statement.\nWe have recommended and the management agreed to make the necessary adjusting entries to derecognize the structures built over properties not owned by the municipality.\nWe have recommended and the management agreed to create the necessary committees in order to facilitate the proper disposal of identified unserviceable and obsolete properties.\nWe have recommended the following:\nThe GSO-Designate and Accounting Department work together to reconcile the physical inventory count and accounting record and verify the unaccounted properties.\nThe management collects from the accountable officers the value of the properties that were lost and those which cannot be ascertained on its whereabouts.\nProperty Acknowledgement Receipt be renewed every three years or as often as necessary\nWe have recommended and management agreed to reclassify the proper inventory account of the tangible assets with estimated useful life of more than one year but small enough to be considered as PPE. An Inventory Custodian Slip (ICS) be prepared upon issuance of small tangible items for monitoring, control and accountability.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We have recommended that management direct the personnel under the Office of the Treasury to revisit and implement accordingly the provisions of the current Municipal Tax Ordinance. Notice of Charge will be issued to accountable officer/s for the under-assessment and/or under collection of mayor’s permit fee. Also, require the submission of the other 168 approved business for audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We have recommended that management require the treasury personnel to strictly implement the provision of their Municipal Tax Ordinance on the imposition of surcharges and interest on late payment of permit fees. Notice of Charge will be issued to accountable officers on the non-collection of surcharges and interest for late payment of permit fee.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We have recommended that management require the treasury personnel to be more focus and strictly implement the prescribed rates. For the improper rate of governor’s permit fee collected, the actual fee is to be established and necessary action must be enforced.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We have recommended that the collectors issue the pre-numbered official receipts in strict numerical sequence.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We have recommended and management agreed to exert efforts for the immediate liquidation/settlement of the Receivable accounts. If the probability of collection or liquidation is remote, the Municipal Accountant take responsibility to conduct a final review, analysis and reconciliation of all dormant accounts pursuant to the guidelines and procedures in reconciling and cleaning the books of accounts of LGUs of dormant receivable accounts for fair presentation of accounts in the Financial Statements provided by COA Circular 2016-005.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We have recommended that management comply with the provisions of the travel law. And the excessive disbursements should be refunded by the concerned personnel.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We have recommended for the strict observance of the provisions of Executive Order No. 298 that valid travel order be issued by proper authorities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-OBS9",
+      "year": 2016,
+      "recommendation": "We have recommended that the Municipal Accountant prepare the necessary adjusting entries of the affected accounts and be guided to the provisions of COA-DBM-DILG-GCG-DND Joint Circular No. 2015-01 on the entitlement, release, use, reporting and audit of confidential and/or intelligence fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-OBS10",
+      "year": 2016,
+      "recommendation": "We have recommended that the Local Finance Committee and the Municipal School Board stop the utilization of the SEF to programs and projects not included in the provisions under RA 7160 and the new DECS, DBM and DILG Joint Circular No. 01 s. 2017 dated January 19, 2017 in order to maximize the benefits that the students and teachers could avail under this fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-OBS11",
+      "year": 2016,
+      "recommendation": "We have recommended that the Municipal Accountant prepare adjusting entries of the affected accounts. Immediate liquidation of the fund transferred be required if the purpose for which it has been transferred has been served.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-OBS12",
+      "year": 2016,
+      "recommendation": "We have recommended and the management agreed to follow the guidelines in the granting, utilization and accounting of the funds released to NGOs/POs provided under COA Circular 2007-001 and to require the submission of documents mentioned in Items 2.1 and 2.2 of COA Circular 2012-001 in order that the municipality be able to verify the implementation of the projects as agreed upon and ensure that government funds be spent in accordance with the purposes for which the same are granted.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-OBS13",
+      "year": 2016,
+      "recommendation": "We have recommended that management instruct the Office of the MSWD to strengthen their evaluation process on the applicants for financial assistance so that more appropriate recipients will benefit on the AICS program.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-OBS14",
+      "year": 2016,
+      "recommendation": "We have recommended and the Municipal Accountant agreed more to be prudent in recording government transactions such that the correct account should be used properly to avoid misperception as to the nature of the transactions when viewed by the end users of the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-OBS15",
+      "year": 2016,
+      "recommendation": "We have recommended that the Secretariat of the Scholarship Committee properly observe the conditions contained in the Agreement, nonconformity thereof is ground for termination of the educational assistance. Also, unnecessary payment of educational assistance be refunded by concerned personnel.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-OBS16",
+      "year": 2016,
+      "recommendation": "We have recommended and the management agreed to  require the MDRRMO-Designate to submit the needed documents to ascertain the completeness and validity of the disbursement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-OBS17",
+      "year": 2016,
+      "recommendation": "We have recommended that management stop receiving advance delivery of goods and strictly observe the procurement process provided in R.A. 9184 and its Implementing Rules and Regulations in order to effect the legality of the procurement and to avoid disallowances in the audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-OBS18",
+      "year": 2016,
+      "recommendation": "We have recommended that  Bids and Awards Committee strictly adhere to the  provisions of RA 9184 and its Implementing Rules and Regulations on proper notice and execution of awards on procurement in order to effect the propriety, validity and legality of the transactions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-OBS19",
+      "year": 2016,
+      "recommendation": "We have recommended that BAC comply strictly with the provisions of Sections 37.1.6 and 37.4.2 of the Revised IRR of RA 9184 in order to attain transparency in the conduct of procurement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-OBS20",
+      "year": 2016,
+      "recommendation": "We have recommended that the Bids and Awards Committee give justifiable reason on their basis of the number of days to complete the project which has wide disparity on the Program of Work.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-OBS21",
+      "year": 2016,
+      "recommendation": "We have recommended and the management agreed to strictly follow  the provisions embodied in COA Circular No. 101C to facilitate action on papers relative to suspension orders on government infrastructure contracts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-OBS22",
+      "year": 2016,
+      "recommendation": "We have recommended that the Municipal Engineer provide justification as to the observed difference on the materials placed in the projects and submit the Variation or Change Order duly approved by the Local Chief Executive, including all the necessary supporting documents to support the modification.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-OBS23",
+      "year": 2016,
+      "recommendation": "We have recommended that management require the Municipal Engineer to provide justification on the delayed completion of the abovementioned projects and implement an efficient monitoring system for all on-going projects. Also, the Municipal Accountant is advice to impose liquidated damages.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-OBS24",
+      "year": 2016,
+      "recommendation": "We have recommended that management should properly observe the guidelines embodied in Annex “E” of the IRR of RA 9184. Further, the Municipal Engineer and Project Monitoring Committee should consistently monitor the infrastructure projects of the municipality to ensure its completion within the target date.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-OBS25",
+      "year": 2016,
+      "recommendation": "For the remaining suspension and disallowances, we have recommended that the concerned personnel and officials responsible and/or liable to immediately settle the subject of their audit disallowances in accordance with the rules and regulations on the settlement of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-PY1",
+      "year": 2016,
+      "recommendation": "We have recommended that management direct the GSO-Designate and Municipal Accountant to obtain the necessary documents as the basis of determining the cost of the properties to be reflected in the RPCPPE and in the books of accounts to show the correct balances of the affected asset accounts.",
+      "managementAction": "The unrecorded motor vehicles were already recorded in the books of accounts and in the RPCPPE with their corresponding cost under JEV # 48 on August 2016.",
+      "status": "UNKNOWN",
+      "reason": "The Slaughterhouse and RHU are not yet recognized on both the RPCPPE and books of accounts"
+    },
+    {
+      "id": "Bacarra_IN-2016-PY2",
+      "year": 2016,
+      "recommendation": "We have recommended and the GSO-Designate agreed to prepare and use the proper format of the IIRUP for the unserviceable property and facilitate its proper disposal in accordance with prescribed rules and regulations.",
+      "managementAction": "The GSO Designate had started preparing the IIRUP for the unserviceable properties.",
+      "status": "UNKNOWN",
+      "reason": "No request or report of IIRUP \n\nReiterated in this report"
+    },
+    {
+      "id": "Bacarra_IN-2016-PY3",
+      "year": 2016,
+      "recommendation": "We have recommended that the Municipal Accountant prepare the JEV to adjust the cost of upgrading and major repairs undertaken to its properties which should had been capitalized.",
+      "managementAction": "The unrecorded motor vehicles were already recorded in the books of accounts and in the RPCPPE with their corresponding cost under JEV # 48 on August 2016.",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Bacarra_IN-2016-PY4",
+      "year": 2016,
+      "recommendation": "We have recommended and the management agreed to implement measures to ensure prompt reporting, remittances and deposit of collections in order to reflect the correct cash balances in the financial statements:\n\nRevenue collectors should be required to prepare RCD’s at the close of each business day and effect remittance of ALL their daily collections. For computerized receipts, the collectors should generate their daily collections and not by the OR series that they wanted to remit. Also, stop ante-dating the receipt of collections.\n   \nThe liquidating officer should strengthen its verification and remittance function. Procedures for verification of receipts should be streamlined to ensure prompt recording and remittance of collections.\n\nThe Treasurer’s Office should be provided with a link/network on the computerized collection system to be utilized as added controls to ensure correctness of amounts and proper cut-off of transactions.",
+      "managementAction": "The liquidating officer required the revenue collectors to also present the unused accountable forms when they remit their collections.\n\n\nA link was set-up in the Office of the Municipal Treasurer",
+      "status": "UNKNOWN",
+      "reason": "There are still collectors who do not remit all their collection of the day."
+    },
+    {
+      "id": "Bacarra_IN-2016-PY5",
+      "year": 2016,
+      "recommendation": "We have recommended that Management require the Municipal Accountant to prepare the appropriate adjusting entries to attain the correctness and accuracy of the cash balance.\n\nAlso, a subsidiary ledger and file of documents for all transactions in which checks became stale be maintained separately to facilitate processing of future claims, if there will be any.\n\nFurthermore, the records of the Municipal Treasurer’s Office  and Accounting Office be reconciled regularly to closely monitor checks already issued but remained outstanding.",
+      "managementAction": "Necessary adjusting entries was made as of December 31, 2016",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Bacarra_IN-2016-PY6",
+      "year": 2016,
+      "recommendation": "We have recommended the LCE to always observe the austerity measures hence refrain from approving travel order which is deemed not necessary or improper.",
+      "managementAction": "Management will comply with the recommendations",
+      "status": "UNKNOWN",
+      "reason": "There are still approved travel order that are deemed unnecessary in CY 2016 which had been disallowed in audit."
+    },
+    {
+      "id": "Bacarra_IN-2016-PY7",
+      "year": 2016,
+      "recommendation": "We have recommended and the management agreed to strictly comply with the provisions of Section 48 of GAA 2015 by screening the loan  application of its employees so that the monthly net take home pay will not be reduced to an amount below P3,000 after all the authorized deductions. Also, restructure the deductions particularly debt servicing of the concerned employees to conform to the required amount of net take home pay.",
+      "managementAction": "No loan renewal were granted to officials and employees who have a net take home pay belowP3,000.00",
+      "status": "UNKNOWN",
+      "reason": "Although no loan renewal were granted to officials and employees, the personnel in-charge failed to restructure the deductions thus there are still net pay below P3,000.00 for CY 2016."
+    },
+    {
+      "id": "Bacarra_IN-2016-PY8",
+      "year": 2016,
+      "recommendation": "We have recommended and management agreed to enforce the ceiling of P1,200.00 set for seminars, conventions etc. sponsored by non-government and private organization. Transactions occurred with registration fees beyond what is permissible should be refunded by the concerned officials and employees.",
+      "managementAction": "Implemented in the latter part of CY 2016",
+      "status": "UNKNOWN",
+      "reason": "Some disbursements still considered registration fee above the allowable amount which was disallowed in audit."
+    },
+    {
+      "id": "Bacarra_IN-2016-PY9",
+      "year": 2016,
+      "recommendation": "We have recommended the following:\n\nManagement requires all employees to appropriately key-in in the fingerprint biometric machine.  \n\nManagement should uniformly implement existing policies and mechanism of monitoring attendance of employees regardless of the office they are assigned.\n\nRequire the Human Resource Management Officer to enforce all employees to enrol and use the biometric machine.",
+      "managementAction": "As of April 2017, all employees had been enrolled to the biometric machine.",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Bacarra_IN-2016-PY10",
+      "year": 2016,
+      "recommendation": "We have recommended that management change their existing biometrics finger scanning machine into another biometric system that could provide or generate the needed output automatically.",
+      "managementAction": "Procured new biometric machine that automatically generate the needed output.",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Bacarra_IN-2016-PY11",
+      "year": 2016,
+      "recommendation": "We have recommended and the management agreed that the Project Monitoring Committee perform the duties and functions lodged to them in order to comply with the contemplated transparency of governance. Hence, the proper monitoring on the implementation and status of projects are made on time and any deviation maybe timely addressed and issues pertaining thereto maybe resolved accordingly.",
+      "managementAction": "PMC reported are submitted/attached in the disbursement vouchers for payment of infrastructure projects.",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Bacarra_IN-2016-PY12",
+      "year": 2016,
+      "recommendation": "We have recommended that Management strictly adhere with Section 77 of the Local Government Code. Further, review the contracts entered into with Job Orders and make the necessary corrections.",
+      "managementAction": "Job Order contracts assigned to the Office of the SB have been approved by the LCE",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Bacarra_IN-2016-PY13",
+      "year": 2016,
+      "recommendation": "We recommend that management shun from granting travel order to job order personnel considering the nature of their employment in order to avoid incurrence of additional expenses. In case where a job order is deemed warranted attending a seminar, a justification should be attached to each approved travel authority.",
+      "managementAction": "The management will comply with the recommendation",
+      "status": "UNKNOWN",
+      "reason": "There are still disbursements were Job Order are given authority to travel with per diem which had been disallowed in audit."
+    },
+    {
+      "id": "Bacarra_IN-2016-PY14",
+      "year": 2016,
+      "recommendation": "We have recommended that the procuring entity be more cautious in determining the nature of procurement to be implemented and must abide with the provisions of R.A. 9184. The personnel directly or indirectly involved in the procurement process must see to it that the pertinent laws and procedures are faithfully complied with in the discharge of their respective functions to avoid any error or violation like awarding a contract to unqualified contractor/supplier which may prejudice the interest of the agency.",
+      "managementAction": "Complied",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Bacarra_IN-2016-PY15",
+      "year": 2016,
+      "recommendation": "We have recommended that the BAC evaluate and review thoroughly the qualifications of bidders on every projects to be implemented by the municipality to ensure that the contract would be awarded to the most capable and competent supplier to undertake the project itself to prevent the entry of a third party leading to overcharges on the project cost.",
+      "managementAction": "Complied",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Bacarra_IN-2016-PY16",
+      "year": 2016,
+      "recommendation": "We have recommended that the Bids and Awards Committee strictly apply the defined procedures in conducting and awarding of bids to ensure that contracts are awarded only to eligible bidders.\n\nAlso, the management should require the concerned supplier to submit immediately the required document, otherwise, payment to the subject project shall be suspended in audit.",
+      "managementAction": "Complied",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Bacarra_IN-2016-PY17",
+      "year": 2016,
+      "recommendation": "We have recommended that management require the persons responsible to properly budget the funds for supplemental feeding program, any future overspending will be disallowed in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "There had been disbursement for CY 2016 for supplemental feeding under General Fund. Disallowed had been issued."
+    },
+    {
+      "id": "Bacarra_IN-2016-PY18",
+      "year": 2016,
+      "recommendation": "We have recommended that management properly plan its project to avoid the inclusion of unnecessary items which is not in congruence to the objectives of the project, to avoid disallowance in audit.",
+      "managementAction": "The management will comply with the recommendation",
+      "status": "UNKNOWN",
+      "reason": "One similar transaction for CY 2016 where equipment (bag closer) were given to BOFWA as assistance for their sack-making project. The said equipment is considered unnecessary."
+    },
+    {
+      "id": "Bacarra_IN-2016-PY19",
+      "year": 2016,
+      "recommendation": "We have recommended that management strictly implement the approved programs and scrutinized its details set forth by the provisions on the utilization of R.A. No. 7171 so as to cater to more appropriate beneficiaries thus avoiding improper disbursement.",
+      "managementAction": "Complied",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Bacarra_IN-2016-PY20",
+      "year": 2016,
+      "recommendation": "We have recommended that the GSO-Designate and Accounting Department work together to reconcile the physical inventory count and accounting record and verify the unaccounted properties. Attention should be given to properties held by individuals no longer connected with the agency, and those which cannot be ascertained on its whereabouts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "No action undertaken to ascertained the whereabouts of the properties\n\nReiterated in this report"
+    },
+    {
+      "id": "Bacarra_IN-2016-PY21",
+      "year": 2016,
+      "recommendation": "We have recommended, and management agreed to exhaust all possible means to obtain the proof of ownership from the supplier.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "No action undertaken"
+    },
+    {
+      "id": "Bacarra_IN-2016-PY22",
+      "year": 2016,
+      "recommendation": "We have recommended, and management agreed, that the agency determine the market value and the remaining estimated life of the buildings which will be the basis in providing the depreciation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Due to the agency’s failure to ascertain the market value and remaining estimated life of the buildings, the Municipal Accountant does not have a basis on the provision of depreciation."
+    },
+    {
+      "id": "Bacarra_IN-2016-PY23",
+      "year": 2016,
+      "recommendation": "We have recommended the following to the management: \nCoordinate with the Provincial Treasury to reconcile the floating amount of P276,486.27\nThe concerned municipal officials and employees to exert more effort to effectively monitor and collect capital assistance granted to various group and individual, take legal action if warranted.\nFor the unliquidated advances of the deceased employees, to go after their estate for the possible settlement of their accounts",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "No action undertaken\n\nReiterated in this report"
+    },
+    {
+      "id": "Bacarra_IN-2016-PY24",
+      "year": 2016,
+      "recommendation": "We have recommended that management strictly adhere to DOF Department Order No. 27-05 to ensure that government funds are adequately safeguarded and duly protected.",
+      "managementAction": "PNB bank account had been closed.",
+      "status": "UNKNOWN",
+      "reason": "The PVB bank account is still maintained by the municipality without authority from DOF"
+    },
+    {
+      "id": "Bacarra_IN-2016-PY25",
+      "year": 2016,
+      "recommendation": "We have recommended the refund of the excess amount of Productivity Enhancement Incentive granted to officials and employees.  Also, management should strictly adhere with the provision of EO No. 80 specifically on the authorized amount to be granted for the payment of PEI.",
+      "managementAction": "Refunded a total of P1,040,000",
+      "status": "UNKNOWN",
+      "reason": "COA Decision had been issued denying the appeal of the Notice of Disallowance. Partial settlement totalling to P1,040,000 had been made by employees."
+    },
+    {
+      "id": "Bacarra_IN-2016-PY26",
+      "year": 2016,
+      "recommendation": "We have recommended the management to remit the amount of P113,348.05 to the concerned agencies in conformity with COA Circular No. 94-013 and with the decision of the Supreme Court.",
+      "managementAction": "Refunded the unexpended balances to some source agencies.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Bacarra_IN-2016-PY27",
+      "year": 2016,
+      "recommendation": "We have recommended that management always incorporate in the bidding documents for infrastructure projects the posting of warranty security and ensure the compliance thereof by the winning bidder/contractor as prescribed in Section 62.2.3 of the IRR of RA 9184 to ensure the agency’s protection against any structural defects/ failure within the warranty period. \n\nAlso, the management is advised to strengthen the inspection activity to determine if there are any defects on the projects completed in 2013 so they could take the necessary remedial action.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "No action undertaken"
+    }
+  ]
+}

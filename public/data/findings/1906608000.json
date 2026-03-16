@@ -1,0 +1,806 @@
+{
+  "lguCode": "1906608000",
+  "lguName": "Pangutaran",
+  "province": "Sulu",
+  "region": "BARMM",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "Pangutaran_Sulu_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended to the management for the completion of the physical inventory taking and reporting and require the accountant to reconcile the balances appearing in the report with that of the concerned officer and effect the necessary adjustment after establishing the correctness of the balance of the PPE account.",
+      "managementAction": "AAR 2020 Part II Audit Finding # 1",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended that Municipal Engineer must submit immediately the necessary documents for inspection of various Infrastructure project by the COA Engineers from Technical and Information Technology Services. Likewise the MPDC should strictly follow the guidelines stated in the DILG and DBM Circular in programming the 20% Local Development Fund.",
+      "managementAction": "AAR 2020 Part II Audit Finding # 2",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommend that the Solid Waste Management be formalize and change management strategy in the implementation of a realistic and doable Solid Waste Management Plan. Develop an Action/Implementation Plan. Plan and identify possible risks in a comprehensive manner in order to facilitate proper implementation, monitoring and measurement of results, and to establish accountability of the responsible person.",
+      "managementAction": "AAR 2020 Part II Audit Finding # 3",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommend that proper internal control over supplies or property be adopted and it demands that, proper and accurate recording as to its valuation, existence, ownership and completeness shall be kept for all incoming and out-going supplies or property in pursuant to Sec. 42, 45 to 46 of NGAS Manual Vol. I",
+      "managementAction": "AAR 2020 Part II Audit Finding # 6",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended that the monitoring team should be created to ensure the proper disbursement of the GAD Fund, monitor, evaluate and review the implementation of the Municipality’s policy on Gender and Development, thereby, conduct advocacy programs promoting partnership between men and women, discouraging gender based violence between them and encouraging a greater role for men in raising a family.",
+      "managementAction": "AAR 2020 Part II Audit Finding # 8",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommend that management observe the general guideline stipulated in COA Cir. No. 2013-004 dated January 30, 2013 RE: Information and Publicity of Programs, Projects and Activities of government agencies. This is to promote good governance through transparency and accountability.",
+      "managementAction": "AAR 2020 Part II Audit Finding # 9",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We have recommended that the group tasked to function as the municipality’s LDRRMO be required to prepare a report on the utilization of LDRRMF to be submitted in accordance with the provisions of paragraph 5.1.5 of COA Circular No. 2012-002. Further, QRF should be transferred immediately from GF to TF books at the end of the year.",
+      "managementAction": "AAR 2020 Part II Audit Finding # 10",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended to the management for the completion of the physical inventory\ntaking and reporting and require the accountant to reconcile the balances\nappearing in the report with that of the concerned officer and effect the necessary\nadjustment after establishing the correctness of the balance of the PPE account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended that Municipal Engineer must submit immediately the necessary\ndocuments for inspection of various Infrastructure project by the COA Engineers\nfrom Technical and Information Technology Services. Likewise the MPDC should\nstrictly follow the guidelines stated in the DILG and DBM Circular in programming\nthe 20% Local Development Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "We recommend that management should direct the procuring department to notify\nthe Audit Team Leader or any of its representatives on any procurement of\nsupplies, materials and office equipment consummated for the agency’s operational\npurposes during the procuring period within 24 hours after acceptance thereof.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "We recommend that proper internal control over supplies or property be adopted\nand it demands that, proper and accurate recording as to its valuation, existence,\nownership and completeness shall be kept for all incoming and out-going supplies or\nproperty in pursuant to Sec. 42, 45 to 46 of NGAS Manual Vol. I",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "We recommended that the management to support all claims with the required\ndocumentations prior to release of payments / checks to validate disbursements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "We recommend that the Local Chief Executive direct the DRRM officer and other\nconcerned officials to support all claims with sufficient and required\ndocumentations, particularly, on the utilization of the COVID 19 appropriated funds\nin their procurement of medical related goods and services. Likewise, management\nmust strictly observe laws, rules and regulations as provided for in Section 4(6) of\nPD 1445, COA Cir. No. 2012-001 dated June 14, 2012 on proper and sufficient\nrequired documentations and Section 52.1 of RA 9184 on Shopping as an alternative\nmode of procurement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "We recommend the concerned accountable officers particularly the Provincial\nTreasurer and the Provincial Accountant to strictly observe the schedule for rendition\nof accounts as required for under Section 100 and 122 of PD 1445 otherwise known\nas the “State Audit Code of the Philippines” and likewise Section 6.03 of COA Cir.\nNo. 95-006 dated May 18, 1995.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu_aar2021-OBS8",
+      "year": 2021,
+      "recommendation": "We recommend that management observe the general guideline stipulated in COA\nCir. No. 2013-004 dated January 30, 2013 RE: Information and Publicity of\nPrograms, Projects and Activities of government agencies. This is to promote good\ngovernance through transparency and accountability.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu_aar2021-OBS9",
+      "year": 2021,
+      "recommendation": "We have recommended that the group tasked to function as the municipality’s\nLDRRMO be required to prepare a report on the utilization of LDRRMF to be\nsubmitted in accordance with the provisions of paragraph 5.1.5 of COA Circular No.\n2012-002. Further, QRF should be transferred immediately from GF to TF books at\nthe end of the year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu_aar2021-OBS10",
+      "year": 2021,
+      "recommendation": "We recommended that cash advances shall be liquidated immediately and refrain\nfrom obtaining cash advances for purposes other than travelling expenses. Payment\nof operating expenses either for administrative or infrastructure purposes should be\nmade directly to the supplier/contractor and not through cash advance nor\nreimbursement except for emergency cases as determined by proper authorities\nwherein cash advances/reimbursements shall be allowed. Accountable officers must\nlikewise strictly adhere to the COA guidelines that no additional cash advance shall\nbe allowed to any officials or employees unless the previous cash advance is first\nsettled or proper accounting thereof is made. Furthermore, liquidation of cash\nadvances should be made as required by regulation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommend that the Local Chief Executive direct the DRRM officer and other concerned officials to support all claims with sufficient and required documentations, particularly, on the utilization of the COVID 19 appropriated funds in their procurement of medical related goods and services. Likewise, management must strictly observe laws, rules and regulations as provided for in Section 4(6) of PD 1445, COA Cir. No. 2012-001 dated June 14, 2012 on proper and sufficient required documentations and Section 52.1 of RA 9184 on Shopping as an alternative mode of procurement.",
+      "managementAction": "AAR 2020 Part II Audit Finding # 4",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "Pangutaran_Sulu_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommend that the management direct the concerned accountant to observe the perpetual system in recording purchases and to use the RSMI in recording issuances and consumption of stocks and prepare adjusting entries for all noted errors in recording to correct the balances of inventory accounts",
+      "managementAction": "AAR 2020 Part II Audit Finding # 5",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended that the management to support all claims with the required documentations prior to release of payments / checks to validate disbursements.",
+      "managementAction": "AAR 2020 Part II Audit Finding # 7",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "Pangutaran_Sulu_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "We recommended that cash advances shall be liquidated immediately and refrain from obtaining cash advances for purposes other than travelling expenses. Payment of operating expenses either for administrative or infrastructure purposes should be made directly to the supplier/contractor and not through cash advance nor reimbursement except for emergency cases as determined by proper authorities wherein cash advances/reimbursements shall be allowed. Accountable officers must likewise strictly adhere to the COA guidelines that no additional cash advance shall be allowed to any officials or employees unless the previous cash advance is first settled or proper accounting thereof is made. Furthermore, liquidation of cash advances should be made as required by regulation.",
+      "managementAction": "AAR 2020 Part II Audit Finding # 11",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Sulu__Pangutaran_Sulu-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommended to the management for the completion of the physical inventory taking and reporting and require the accountant to reconcile the balances appearing in the report with that of the concerned officer and effect the necessary adjustment after establishing the correctness of the balance of the PPE account.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Part II Audit Finding # 1"
+    },
+    {
+      "id": "BARMM__Municipalities__Sulu__Pangutaran_Sulu-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended that Municipal Engineer must submit immediately the necessary documents for inspection of various Infrastructure project by the COA Engineers from Technical and Information Technology Services. Likewise the MPDC should strictly follow the guidelines stated in the DILG and DBM Circular in programming the 20% Local Development Fund.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Part II Audit Finding # 2"
+    },
+    {
+      "id": "BARMM__Municipalities__Sulu__Pangutaran_Sulu-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommend that the Solid Waste Management be formalize and change management strategy in the implementation of a realistic and doable Solid Waste Management Plan. Develop an Action/Implementation Plan. Draw an arrangement for the Plan and identify possible risks in a comprehensive manner in order to facilitate proper implementation, monitoring and measurement of results, and to establish accountability of the responsible person.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Part II Audit Finding # 3"
+    },
+    {
+      "id": "BARMM__Municipalities__Sulu__Pangutaran_Sulu-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended that the monitoring team should be created to ensure the proper disbursement of the GAD Fund, monitor, evaluate and review the implementation of the Municipality’s policy on Gender and Development, conduct advocacy programs promoting partnership between men and women, discouraging gender based violence between them and encouraging a greater role for men in raising a family.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Part II Audit Finding # 5"
+    },
+    {
+      "id": "BARMM__Municipalities__Sulu__Pangutaran_Sulu-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommend that management observe the general guideline stipulated in COA Cir. No. 2013-004 dated January 30, 2013 RE: Information and Publicity of Programs, Projects and Activities of government agencies. This is to promote good governance through transparency and accountability.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Part II Audit Finding # 6"
+    },
+    {
+      "id": "BARMM__Municipalities__Sulu__Pangutaran_Sulu-2020-PY7",
+      "year": 2020,
+      "recommendation": "We have recommended that the group tasked to function as the municipality’s LDRRMO be required to prepare a report on the utilization of LDRRMF to be submitted in accordance with the provisions of paragraph 5.1.5 of COA Circular No. 2012-002. Further, QRF should be transferred immediately from GF to TF books at the end of the year.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Part II Audit Finding # 7"
+    },
+    {
+      "id": "BARMM__Municipalities__Sulu__Pangutaran_Sulu-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended that cash advances shall be liquidated immediately and refrain from obtaining cash advances for purposes other than travelling expenses. Payment of operating expenses either for administrative or infrastructure purposes should be made directly to the supplier/contractor and not through cash advance nor reimbursement except for emergency cases as determined by proper authorities wherein cash advances/reimbursements shall be allowed. Accountable officers must likewise strictly adhere to the COA guidelines that no additional cash advance shall be allowed to any officials or employees unless the previous cash advance is first settled or proper accounting thereof is made. Furthermore, liquidation of cash advances should be made as required by regulation.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Part II Audit Finding # 8"
+    },
+    {
+      "id": "BARMM__Municipalities__Sulu__Pangutaran_Sulu-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended to the management for the completion of the physical inventory\ntaking and reporting and require the accountant to reconcile the balances\nappearing in the report with that of the concerned officer and effect the necessary\nadjustment after establishing the correctness of the balance of the PPE account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Sulu__Pangutaran_Sulu-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended that Municipal Engineer must submit immediately the necessary\ndocuments for inspection of various Infrastructure project by the COA Engineers\nfrom Technical and Information Technology Services. Likewise the MPDC should\nstrictly follow the guidelines stated in the DILG and DBM Circular in programming\nthe 20% Local Development Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Sulu__Pangutaran_Sulu-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommend that the Solid Waste Management be formalize and change\nmanagement strategy in the implementation of a realistic and doable Solid Waste\nManagement Plan. Develop an Action/Implementation Plan. Draw an arrangement\nfor the Plan and identify possible risks in a comprehensive manner in order to\nfacilitate proper implementation, monitoring and measurement of results, and to\nestablish accountability of the responsible person.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Sulu__Pangutaran_Sulu-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommend that the Local Chief Executive direct the DRRM officer and other\nconcerned officials to support all claims with sufficient and required\ndocumentations, particularly, on the utilization of the COVID 19 appropriated funds\nin their procurement of medical related goods and services. Likewise, management\nmust strictly observe laws, rules and regulations as provided for in Section 4(6) of\nPD 1445, COA Cir. No. 2012-001 dated June 14, 2012 on proper and sufficient\nrequired documentations and Section 52.1 of RA 9184 on Shopping as an alternative\nmode of procurement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Sulu__Pangutaran_Sulu-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We recommend that the management direct the concerned accountant to observe the\nperpetual system in recording purchases and to use the RSMI in recording issuances\nand consumption of stocks and prepare adjusting entries for all noted errors in\nrecording to correct the balances of inventory accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Sulu__Pangutaran_Sulu-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommend that proper internal control over supplies or property be adopted\nand it demands that, proper and accurate recording as to its valuation, existence,\nownership and completeness shall be kept for all incoming and out-going supplies or\nproperty in pursuant to Sec. 42, 45 to 46 of NGAS Manual Vol. I",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Sulu__Pangutaran_Sulu-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We recommended that the management to support all claims with the required\ndocumentations prior to release of payments / checks to validate disbursements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Sulu__Pangutaran_Sulu-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We recommended that the GAD focal person must prepare plans & programs of\nGAD activities and monitoring team should be created to ensure the proper\ndisbursement of the GAD Fund, monitor, evaluate and review the implementation of\nthe Municipality’s policy on Gender and Development, conduct advocacy programs\npromoting partnership between men and women, discouraging gender based\nviolence between them and encouraging a greater role for men in raising a family.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Sulu__Pangutaran_Sulu-2020-OBS9",
+      "year": 2020,
+      "recommendation": "We recommend that management observe the general guideline stipulated in COA\nCir. No. 2013-004 dated January 30, 2013 RE: Information and Publicity of\nPrograms, Projects and Activities of government agencies. This is to promote good\ngovernance through transparency and accountability.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Sulu__Pangutaran_Sulu-2020-OBS10",
+      "year": 2020,
+      "recommendation": "We have recommended that the group tasked to function as the municipality’s\nLDRRMO be required to prepare a report on the utilization of LDRRMF to be\nsubmitted in accordance with the provisions of paragraph 5.1.5 of COA Circular No.\n2012-002. Further, QRF should be transferred immediately from GF to TF books at\nthe end of the year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Sulu__Pangutaran_Sulu-2020-OBS11",
+      "year": 2020,
+      "recommendation": "We recommended that cash advances shall be liquidated immediately and refrain\nfrom obtaining cash advances for purposes other than travelling expenses. Payment\nof operating expenses either for administrative or infrastructure purposes should be\nmade directly to the supplier/contractor and not through cash advance nor\nreimbursement except for emergency cases as determined by proper authorities\nwherein cash advances/reimbursements shall be allowed. Accountable officers must\nlikewise strictly adhere to the COA guidelines that no additional cash advance shall\nbe allowed to any officials or employees unless the previous cash advance is first\nsettled or proper accounting thereof is made. Furthermore, liquidation of cash\nadvances should be made as required by regulation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Sulu__Pangutaran_Sulu-2020-OBS12",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Sulu__Pangutaran_Sulu-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended that the management to support all claims with the required documentations prior to release of payments / checks to validate disbursements.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Part II Audit Finding # 4"
+    },
+    {
+      "id": "Pangutaran_Sulu-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended to the management for the completion of the physical inventory taking and reporting and require the accountant to reconcile the balances appearing in the report with that of the concerned officer and effect the necessary adjustment after establishing the correctness of the balance of the PPE account.",
+      "managementAction": "AAR 2018 Part II Audit Finding # 1",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended that Municipal Engineer must submit immediately the necessary documents for inspection of various Infrastructure project by the COA Engineers from Technical and Information Technology Services. Likewise the MPDC should strictly follow the guidelines stated in the DILG and DBM Circular in programming the 20% Local Development Fund.",
+      "managementAction": "AAR 2018 Part II Audit Finding # 2",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommend that the Solid Waste Management be formalize and change management strategy in the implementation of a realistic and doable Solid Waste Management Plan. Develop an Action/Implementation Plan. Draw an arrangement for the Plan and identify possible risks in a comprehensive manner in order to facilitate proper implementation, monitoring and measurement of results, and to establish accountability of the responsible person.",
+      "managementAction": "AAR 2018 Part II Audit Finding # 3",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended that the monitoring team should be created to ensure the proper disbursement of the GAD Fund, monitor, evaluate and review the implementation of the Municipality’s policy on Gender and Development, conduct advocacy programs promoting partnership between men and women, discouraging gender based violence between them and encouraging a greater role for men in raising a family.",
+      "managementAction": "AAR 2018 Part II Audit Finding # 5",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommend that management observe the general guideline stipulated in COA Cir. No. 2013-004 dated January 30, 2013 RE: Information and Publicity of Programs, Projects and Activities of government agencies. This is to promote good governance through transparency and accountability.",
+      "managementAction": "AAR 2018 Part II Audit Finding # 6",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended that cash advances shall be liquidated immediately and refrain from obtaining cash advances for purposes other than travelling expenses. Payment of operating expenses either for administrative or infrastructure purposes should be made directly to the supplier/contractor and not through cash advance nor reimbursement except for emergency cases as determined by proper authorities wherein cash advances/reimbursements shall be allowed. Accountable officers must likewise strictly adhere to the COA guidelines that no additional cash advance shall be allowed to any officials or employees unless the previous cash advance is first settled or proper accounting thereof is made. Furthermore, liquidation of cash advances should be made as required by regulation.",
+      "managementAction": "AAR 2018 Part II Audit Finding # 7",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended to the management for the completion of the physical inventory\ntaking and reporting and require the accountant to reconcile the balances\nappearing in the report with that of the concerned officer and effect the necessary\nadjustment after establishing the correctness of the balance of the PPE account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended that Municipal Engineer must submit immediately the\nnecessary documents for inspection of various Infrastructure project by the COA\nEngineers from Technical and Information Technology Services. Likewise the\nMPDC should strictly follow the guidelines stated in the DILG and DBM Circular\nin programming the 20% Local Development Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommend that the Solid Waste Management be formalize and change\nmanagement strategy in the implementation of a realistic and doable Solid Waste\nManagement Plan. Develop an Action/Implementation Plan. Draw an arrangement\nfor the Plan and identify possible risks in a comprehensive manner in order to\nfacilitate proper implementation, monitoring and measurement of results, and to\nestablish accountability of the responsible person.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended that the management to support all claims with the required\ndocumentations prior to release of payments / checks to vali date disbursements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended that the GAD focal person must prepare plans & programs of\nGAD activities and monitoring team should be created to ensure the proper\ndisbursement of the GAD Fund, monitor, evaluate and review the implementation of\nthe Municipality’s policy on Gender and Development, conduct advocacy programs\npromoting partnership between men and women, discouraging gender based\nviolence between them and encouraging a greater role for men in raising a family.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommend that management observe the general guideline stipulated in COA\nCir. No. 2013-004 dated January 30, 2013 RE: Information and Publicity of\nPrograms, Projects and Activities of government agencies. This is to promote good\ngovernance through transparency and accountability.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We have recommended that the group tasked to function as the municipality’s\nLDRRMO be required to prepare a report on the utilization of LDRRMF to be\nsubmitted in accordance with the provisions of paragraph 5.1.5 of COA Circular No.\n2012-002. Further, QRF should be transferred immediately from GF to TF books at\nthe end of the year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2019-OBS8",
+      "year": 2019,
+      "recommendation": "We recommended that cash advances shall be liquidated immediately and refrain\nfrom obtaining cash advances for purposes other than travelling expenses. Payment\nof operating expenses either for administrative or infrastructure purposes should be\nmade directly to the supplier/contractor and not through cash advance nor\nreimbursement except for emergency cases as determined by proper authorities\nwherein cash advances/reimbursements shall be allowed. Accountable officers must\nlikewise strictly adhere to the COA guidelines that no additional cash advance shall\nbe allowed to any officials or employees unless the previous cash advance is first\nsettled or proper accounting thereof is made. Furthermore, liquidation of cash\nadvances should be made as required by regulation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2019-OBS9",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended that the management to support all claims with the required documentations prior to release of payments / checks to validate disbursements.",
+      "managementAction": "AAR 2018 Part II Audit Finding # 4",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommended to the management for the completion of the physical inventory taking and reporting and require the accountant to reconcile the balances appearing in the report with that of the concerned officer and effect the necessary adjustment after establishing the correctness of the balance of the PPE account.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Part II Audit Finding # 1"
+    },
+    {
+      "id": "Pangutaran_Sulu-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommend that the Solid Waste Management be formalize and change management strategy in the implementation of a realistic and doable Solid Waste Management Plan. Develop an Action/Implementation Plan. Draw an arrangement for the Plan and identify possible risks in a comprehensive manner in order to facilitate proper implementation, monitoring and measurement of results, and to establish accountability of the responsible person.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Part II Audit Finding # 3"
+    },
+    {
+      "id": "Pangutaran_Sulu-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommended that the monitoring team should be created to ensure the proper disbursement of the GAD Fund, monitor, evaluate and review the implementation of the Municipality’s policy on Gender and Development, conduct advocacy programs promoting partnership between men and women, discouraging gender based violence between them and encouraging a greater role for men in raising a family.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Part II Audit Finding # 5"
+    },
+    {
+      "id": "Pangutaran_Sulu-2018-PY7",
+      "year": 2018,
+      "recommendation": "We have recommended that accountable officers must strictly adhere to the COA guidelines that no additional cash advance shall be allowed to any officials or employees unless the previous cash advance is first settled or proper accounting thereof is made. Furthermore, liquidation of cash advances should be made as required by regulation.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Part II Audit Finding # 7"
+    },
+    {
+      "id": "Pangutaran_Sulu-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended to the management for the completion of the physical inventory\ntaking and reporting and require the accountant to reconcile the balances\nappearing in the report with that of the concerned officer and effect the necessary\nadjustment after establishing the correctness of the balance of the PPE account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We recommended that Municipal Engineer must submit immediately the necessary\ndocuments for inspection of various Infrastructure project by the COA Engineers\nfrom Technical and Information Technology Services. Likewise the MPDC should\nstrictly follow the guidelines stated in the DILG and DBM Circular in programming\nthe 20% Local Development Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommend that the Solid Waste Management be formalize and change\nmanagement strategy in the implementation of a realistic and doable Solid Waste\nManagement Plan. Develop an Action/Implementation Plan. Draw an arrangement\nfor the Plan and identify possible risks in a comprehensive manner in order to\nfacilitate proper implementation, monitoring and measurement of results, and to\nestablish accountability of the responsible person.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended that the management to support all claims with the required\ndocumentations prior to release of payments / checks to vali date disbursements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We recommended that the monitoring team should be created to ensure the proper\ndisbursement of the GAD Fund, monitor, evaluate and review the implementation of\nthe Municipality’s policy on Gender and Development, conduct advocacy programs\npromoting partnership between men and women, discouraging gender based\nviolence between them and encouraging a greater role for men in raising a family.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We recommend that management observe the general guideline stipulated in COA\nCir. No. 2013-004 dated January 30, 2013 RE: Information and Publicity of\nPrograms, Projects and Activities of government agencies. This is to promote good\ngovernance through transparency and accountability.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2018-OBS7",
+      "year": 2018,
+      "recommendation": "We recommended that cash advances shall be liquidated immediately and refrain\nfrom obtaining cash advances for purposes other than travelling expenses. Payment\nof operating expenses either for administrative or infrastructure purposes should be\nmade directly to the supplier/contractor and not through cash advance nor\nreimbursement except for emergency cases as determined by proper authorities\nwherein cash advances/reimbursements shall be allowed. Accountable officers must\nlikewise strictly adhere to the COA guidelines that no additional cash advance shall\nbe allowed to any officials or employees unless the previous cash advance is first\nsettled or proper accounting thereof is made. Furthermore, liquidation of cash\nadvances should be made as required by regulation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2018-OBS8",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommended that Municipal Engineer must submit immediately the necessary documents for inspection of various Infrastructure project by the COA Engineers from Technical and Information Technology Services. Likewise the MPDC should strictly follow the guidelines stated in the DILG and DBM Circular in programming the 20% Local Development Fund.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Part II Audit Finding # 2"
+    },
+    {
+      "id": "Pangutaran_Sulu-2018-PY4",
+      "year": 2018,
+      "recommendation": "We recommended that the management to support all claims with the required documentations prior to release of payments / checks to validate disbursements.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Part II Audit Finding # 4"
+    },
+    {
+      "id": "Pangutaran_Sulu-2018-PY6",
+      "year": 2018,
+      "recommendation": "We have recommended that the group tasked to function as the municipality’s LDRRMO be required to prepare a report on the utilization of LDRRMF to be submitted in accordance with the provisions of paragraph 5.1.5 of COA Circular No. 2012-002.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Part II Audit Finding # 6"
+    },
+    {
+      "id": "Pangutaran_Sulu-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommended to the management for the  completion  of  the  physical\n     inventory taking and reporting and require the accountant to  reconcile\n     the balances appearing in the report with that of the concerned officer\n     and effect the necessary adjustment after establishing the  correctness\n     of the balance of the PPE account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommended that  Municipal  Engineer  must  submit  immediately  the\n   necessary documents for inspection of various Infrastructure project  by\n   the COA Engineers from Technical and  Information  Technology  Services.\n   Likewise the MPDC should strictly follow the guidelines  stated  in  the\n   DILG and DBM Circular in programming the 20% Local Development Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recommend that the Solid Waste Management  be  formalize  and  change\n   management strategy in the implementation  of  a  realistic  and  doable\n   Solid Waste Management Plan.   Develop  an  Action/Implementation  Plan.\n   Draw an arrangement for the  Plan  and  identify  possible  risks  in  a\n   comprehensive manner  in  order  to  facilitate  proper  implementation,\n   monitoring and measurement of results, and to  establish accountability\n   of the responsible person.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We recommended that the  management  to  support  all  claims  with  the\n    required documentations  prior  to  release  of  payments  /  checks  to\n    validate disbursements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommended that the monitoring team should be created to ensure  the\n   proper disbursement of the GAD Fund, monitor, evaluate  and  review  the\n   implementation of the Municipality’s policy on Gender  and  Development,\n   conduct advocacy programs promoting partnership between men  and  women,\n   discouraging gender  based  violence  between  them  and  encouraging  a\n   greater role for men in raising a family.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We  have  recommended  that  the  group  tasked  to  function   as   the\n   municipality’s LDRRMO be required to prepare a report on the utilization\n   of LDRRMF to be submitted in accordance with the provisions of paragraph\n   5.1.5 of COA Circular No. 2012-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2017-OBS7",
+      "year": 2017,
+      "recommendation": "We have recommended that accountable officers must  strictly  adhere  to\n   the COA guidelines that no additional cash advance shall be  allowed  to\n   any officials or employees unless the previous  cash  advance  is  first\n   settled or proper accounting thereof is made.  Furthermore,  liquidation\n   of cash advances should be made as required by regulation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2017-PY1",
+      "year": 2017,
+      "recommendation": "We recommended to the management for the completion of the physical inventory taking and require the accountant to reconcile the balances appearing in the report with that of the concerned officer and effect the necessary adjustment after establishing the correctness of the balance of the PPE account.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2017-PY2",
+      "year": 2017,
+      "recommendation": "We recommended that Municipal Engineer must submit immediately the necessary documents for inspection of various Infrastructure project by the COA Engineers from Technical and Information Technology Services. Likewise the MPDC should strictly follow the guidelines stated in the DILG and DBM Circular in programming the 20% Local Development Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2017-PY3",
+      "year": 2017,
+      "recommendation": "We recommend that the Solid Waste Management be formalize and change management strategy in the implementation of a realistic and doable Solid Waste Management Plan. Develop an Action/Implementation Plan. Draw an arrangement for the Plan and identify possible risks in a comprehensive manner in order to facilitate proper implementation, monitoring and measurement of results, and to establish accountability of the responsible person.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2017-PY4",
+      "year": 2017,
+      "recommendation": "We recommended that the management to support all claims with the required documentations prior to release of payments / checks to validate disbursements.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2017-PY5",
+      "year": 2017,
+      "recommendation": "We recommended that Management program properly the procurement of commonly used supplies in the Annual Procurement Plan so as to warrant the procurement from the Procurement Service, DBM, Davao City despite the distance as it is a requirement of law.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2017-PY6",
+      "year": 2017,
+      "recommendation": "We recommended that the monitoring team should be created to ensure the proper disbursement of the GAD Fund, monitor, evaluate and review the implementation of the Municipality’s policy on Gender and Development, conduct advocacy programs promoting partnership between men and women, discouraging gender based violence between them and encouraging a greater role for men in raising a family.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2017-PY7",
+      "year": 2017,
+      "recommendation": "We have recommended that accountable officers must strictly adhere to the COA guidelines that no additional cash advance shall be allowed to any officials or employees unless the previous cash advance is first settled or proper accounting thereof is made. Furthermore, liquidation of cash advances should be made as required by regulation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2016-PY3",
+      "year": 2016,
+      "recommendation": "We recommended that the management to support all claims with the required documentations prior to release of payments / checks to validate disbursements.",
+      "managementAction": "Mgt. assured the Auditor that appropriate action be done on this recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2016-PY4",
+      "year": 2016,
+      "recommendation": "We recommended that Management program properly the procurement of commonly used supplies in the Annual Procurement Plan so as to warrant the procurement from the Procurement Service, DBM, Davao City despite the distance as it is a requirement of law.",
+      "managementAction": "Mgt. assured the Auditor that appropriate action will be done on this recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We recommended to the management for the  completion  of  the  physical\n     inventory taking and reporting and require the accountant to  reconcile\n     the balances appearing in the report with that of the concerned officer\n     and effect the necessary adjustment after establishing the  correctness\n     of the balance of the PPE account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We recommended that  Municipal  Engineer  must  submit  immediately  the\n   necessary documents for inspection of various Infrastructure project  by\n   the COA Engineers from Technical and  Information  Technology  Services.\n   Likewise the MPDC should strictly follow the guidelines  stated  in  the\n   DILG and DBM Circular in programming the 20% Local Development Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommend that the Solid Waste Management  be  formalize  and  change\n   management strategy in the implementation  of  a  realistic  and  doable\n   Solid Waste Management Plan.   Develop  an  Action/Implementation  Plan.\n   Draw an arrangement for the  Plan  and  identify  possible  risks  in  a\n   comprehensive manner  in  order  to  facilitate  proper  implementation,\n   monitoring and measurement of results, and to  establish  accountability\n   of the responsible person.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We recommended that the  management  to  support  all  claims  with  the\n    required documentations  prior  to  release  of  payments  /  checks  to\n    validate disbursements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommended that Management  program  properly  the  procurement  of\n     commonly used supplies in the Annual Procurement Plan so as to  warrant\n     the procurement from the Procurement Service, DBM, Davao  City  despite\n     the distance as it is a requirement of law.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommended that the monitoring team should be created to ensure the\n     proper disbursement of the GAD Fund, monitor, evaluate and  review  the\n     implementation of the Municipality’s policy on Gender and  Development,\n     conduct advocacy programs promoting partnership between men and  women,\n     discouraging gender based  violence  between  them  and  encouraging  a\n     greater role for men in raising a family.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We have recommended that accountable officers must strictly  adhere  to\n    the COA guidelines that no additional cash advance shall be allowed  to\n    any officials or employees unless the previous cash  advance  is  first\n    settled or proper accounting thereof is made.  Furthermore, liquidation\n    of cash advances should be made as required by regulation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2016-PY1",
+      "year": 2016,
+      "recommendation": "We recommended to the management for the completion of the physical inventory taking and reporting and require the accountant to reconcile the balances appearing in the report with that of the concerned officer and effect the necessary adjustment after establishing the correctness of the balance of the PPE account.",
+      "managementAction": "Mgt. assured the Auditor that appropriate action be done on this recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2016-PY2",
+      "year": 2016,
+      "recommendation": "We recommended that Municipal Engineer must submit immediately the necessary documents for the completion of inspection reports of various Infrastructure project by the COA Engineers from Technical and Information Technology Services. Likewise the MPDC should strictly follow the guidelines stated in the DILG and DBM Circular in programming the 20% Local Development Fund.",
+      "managementAction": "Mgt. assured the Auditor that appropriate action be done on this recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2016-PY5",
+      "year": 2016,
+      "recommendation": "We recommended that the monitoring team should be created to ensure the proper disbursement of the GAD Fund, monitor, evaluate and review the implementation of the Municipality’s policy on Gender and Development, conduct advocacy programs promoting partnership between men and women, discouraging gender based violence between them and encouraging a greater role for men in raising a family.",
+      "managementAction": "Mgt. assured the Auditor that appropriate action be done on this recommendation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pangutaran_Sulu-2016-PY6",
+      "year": 2016,
+      "recommendation": "The LDRRMO must prepare Local Disaster Risk Reduction Management Plan (LDRRMP) in support of disaster risk reduction and management activities of the LDRRMC; Management must also evaluate the basic needs as against the capability to timely procure and distribute goods or deliver on time, needed social/health services during crisis time. This effective and efficient delivery of immediate concerns during crisis time can best be addressed following the guidelines and procedures in the adoption of an appropriate disaster preparedness plan incorporating all crisis preparedness and prevention activities subject to the declaration of imminent danger of calamity by the local sanggunian; and The group tasked to function as the Municipality’s LDRRMO be required to prepare a report on the utilization of LDRRMF to be submitted in accordance with the provisions of paragraph 5.1.5 of COA Circular No. 2012-002.",
+      "managementAction": "Mgt. assured the Auditor that appropriate action be done on this recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    }
+  ]
+}

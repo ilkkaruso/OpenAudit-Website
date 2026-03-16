@@ -1,0 +1,710 @@
+{
+  "lguCode": "201523000",
+  "lguName": "Santa Ana",
+  "province": "Cagayan",
+  "region": "CAR (Cordillera Administrative Region)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "Region-II__Municipalities__Cagayan__SantaAna_Cagayan-2022-PY10",
+      "year": 2022,
+      "recommendation": "We have recommended that the Management secure the proper permits and licenses of its radio communication equipment and radio station from the NTC to avoid possible fines and penalties arising from non-compliance, pursuant to RA 3846 or the Radio Laws of the Philippines.",
+      "managementAction": "No action was taken by Management.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-II__Municipalities__Cagayan__SantaAna_Cagayan-2022-PY11",
+      "year": 2022,
+      "recommendation": "We have recommended that the Management submit legal basis to support the grant of the Financial Assistance to all its officials and employees and barangay personnel and all other required documents necessary to establish the validity, legality and propriety of the payment amounting to P3,640,000.00 to avoid disallowance in audit, and henceforth, disburse only the claims against government funds with complete documentation.",
+      "managementAction": "The Management has submitted Sangguniang Bayan (SB) Resolution No. 173-2021 to support the grant of the Financial Assistance, however, the said document was not sufficient to establish the validity, legality and propriety of payment.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Audit Team has issued ND No. 2022-001 (2021) dated November 8, 2022, which was received by the Management on November 17, 2022."
+    },
+    {
+      "id": "Region-II__Municipalities__Cagayan__SantaAna_Cagayan-2022-OBS1",
+      "year": 2022,
+      "recommendation": "We recommended and Management agreed to require the concerned officials and employees of the Municipality to liquidate immediately their outstanding cash advances and ensure that the rules and regulations on the liquidation of cash advances, as provided in Section 89 of PD 1445 and COA Circular No. 97-002 dated February 10, 1997, are strictly observed to avoid the sanctions provided by law.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-II__Municipalities__Cagayan__SantaAna_Cagayan-2022-OBS2",
+      "year": 2022,
+      "recommendation": "We recommended and Management agreed to submit the Inventory Report using the prescribed form of Report of Physical Count of Property, Plant and Equipment showing relevant information, such as property number, unit value, balance of PPE per property cards and per count pursuant to COA Circular No. 2020-006 dated January 31, 2020 and undertake all other procedures prescribed under the same Circular to come up with the reconciled and correct balances of PPE accounts in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-II__Municipalities__Cagayan__SantaAna_Cagayan-2022-OBS3",
+      "year": 2022,
+      "recommendation": "We recommended that the Management, thru the Local Chief Executive:\nInstruct the Municipal Accountant to prepare the adjusting entries for the reclassification of PPE items below the capitalization threshold of P15,000.00 to appropriate accounts; and\nInstruct the GSO-Designate to cancel the Property Acknowledgement Receipts of the properties below the capitalization threshold and issue an Inventory Custodian Slip in lieu thereof.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-II__Municipalities__Cagayan__SantaAna_Cagayan-2022-OBS4",
+      "year": 2022,
+      "recommendation": "We recommended and Management agreed to cause the transfer of the unexpended/unobligated balances of the Quick Response Fund and the DRRMF-MOOE at the end of the year to the Special Trust Fund under the account “Trust Liabilities-DRRMF” and strictly comply with the accounting guidelines and disclosures of LDRRMF under COA Circular No. 2012-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-II__Municipalities__Cagayan__SantaAna_Cagayan-2022-OBS5",
+      "year": 2022,
+      "recommendation": "We recommended and Management agreed, through its MDRRMO, to strictly comply with COA Circular No. 2012-02 dated September 12, 2012 and NDRRMC, DBM and DILG Joint Memorandum Circular (JMC) No. 2013-1 dated March 25, 2013 by ensuring that the LDRRMFIP shall include the list of projects and activities charged to the unexpended LDRRMF of previous years.\nFurther, we recommended that the Management refrain from disbursing the unexpended LDRRMF of previous years without the proper approval of the revised AIP or LDRRMFIP from the Local Sanggunian and the LCE.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-II__Municipalities__Cagayan__SantaAna_Cagayan-2022-OBS6",
+      "year": 2022,
+      "recommendation": "We recommended and the Municipal Mayor agreed to require:\nThe Municipal Treasurer, in coordination with the Municipal Assessor, to prepare and furnish the Municipal Accountant a duly certified list of taxpayers showing the names and the amounts due and collectible based on updated Real Property Tax Account Register/Taxpayer’s Index Card to provide an accurate and reliable basis in setting up the Receivables from RPT and SET;\nThe Municipal Accountant to draw a Journal Entry Voucher to record the RPT/SET Receivables established at the beginning of the year based on the submitted duly certified list of taxpayers with the amount due and collectible for the year and maintain the corresponding subsidiary ledgers to monitor tax collections and delinquencies; and\nThe Municipal Assessor to undertake thorough review on the assessments of real properties within the Municipality for taxation so that the Accounting Department could take up a more realistic RPT/SET Receivables in the books of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-II__Municipalities__Cagayan__SantaAna_Cagayan-2022-PY1",
+      "year": 2022,
+      "recommendation": "We have recommended that the Management ensure that payments for the SRA are supported with relevant and pertinent documents pursuant to Section 4 of PD 1445 to establish compliance with the conditions set in DBM – DOH Joint Circulars No. 2, s. 2020 dated November 25, 2020 and No. 1 dated June 16, 2021.",
+      "managementAction": "The Management has submitted the relevant supporting documents to support the payment of COVID-19 SRA.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-II__Municipalities__Cagayan__SantaAna_Cagayan-2022-PY2",
+      "year": 2022,
+      "recommendation": "We have recommended that the Management submit the required documents to the Auditor and, henceforth, ensure that payments for the AHDP are supported with relevant and pertinent documents pursuant to Section 4 of PD 1445 to establish compliance with the conditions set under the DBM – DOH Joint Circular No. 1, s. 2020 dated November 25, 2020.",
+      "managementAction": "The Management has submitted the relevant supporting documents to support the payment of AHDP.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-II__Municipalities__Cagayan__SantaAna_Cagayan-2022-PY3",
+      "year": 2022,
+      "recommendation": "We have recommended that the Accountable Officer immediately discontinue the payment of regular expenses from the Petty Cash Fund and ensure that the Petty Cash Fund should only be used for cash payment of non-recurring expenses, which could not conveniently be paid in checks or which require immediate payment in compliance with the provisions of COA Circular No. 97-002 dated February 10, 1997.",
+      "managementAction": "The Accountable Officer has discontinued the payments of regular expenses from the Petty Cash Fund.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-II__Municipalities__Cagayan__SantaAna_Cagayan-2022-PY4",
+      "year": 2022,
+      "recommendation": "We have recommended that the Management, thru the Local Chief Executive:\n\na.\tExhaust all possible remedies available to collect from the persons liable, such as resorting to all legal remedies available to the LGU; \n\nb.\tFile the request for authority to write-off the dormant Other Receivables account, after exhausting all possible remedies, to the Office of the Auditor supported with the required documents enumerated in Item 8.3 of COA Circular 2016-005 dated December 19, 2016; and\n\nc.\tStrictly comply with Section 6.1 of COA Circular 2016-005 and pertinent provisions of COA Circular 2012-004 on the regular monitoring and analysis of receivable accounts to ensure that these are collected when due and the immediate liquidation and settlement of all cash advances.",
+      "managementAction": "The Management has filed a request for authority to write off some of its receivable accounts while there are still items of dormant Receivables under the Trust Fund, which were not requested for authority to write-off.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-II__Municipalities__Cagayan__SantaAna_Cagayan-2022-PY5",
+      "year": 2022,
+      "recommendation": "We have recommended that the Management:\n\nThru the Inventory Committee, conduct physical inventory of all items of PPE of the Municipality, whether acquired through purchase or donation, including those constructed by administration and found at station, within the period prescribed under the aforementioned COA Circular;\n\nb. Update the property records based on the results of physical inventory, and reconcile the same with accounting records to make the records reflective of the actual count of PPEs;\n\nc. Undertake all other procedures prescribed under COA Circular 2020-006 dated January 31, 2020 to come up with the reconciled and correct balances of PPE accounts in the financial statements; and \n\nd. Direct the Municipal Accountant and GSO Designate to prepare, maintain and update Property Ledger Cards and Property Cards, respectively, for each item of the PPE pursuant to Section 114, Paragraph 4 of the MNGAs for LGUs, Volume I.",
+      "managementAction": "The Management conducted a physical inventory of all its PPE relative to the one-time cleansing of the said account. However, they have not yet submitted the Report on Physical Count of Property, Plant and Equipment and all other necessary documents in order to validate the LGU’s compliance to the said procedure.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reiterated in Finding No. 5, Part II of this report."
+    },
+    {
+      "id": "Region-II__Municipalities__Cagayan__SantaAna_Cagayan-2022-PY6",
+      "year": 2022,
+      "recommendation": "We have recommended that the Management, thru the Local Chief Executive:\n\na.\tDirect all the accountable officers, who are in custody of unserviceable properties, to return the same to the GSO-Designate for proper accounting and disposal;\n\nb.\tInstruct the GSO-Designate to institute measures for the appropriate disposal of these properties in accordance with Title V of COA Circular No. 92-386 dated October 20, 1992; and\n\nc.\tInstruct the Municipal Accountant to drop from the books the unserviceable properties only upon the completion of the disposal procedures using the Inventory and Inspection Report of Unserviceable Property provided by the COA to the Disposal Committee.",
+      "managementAction": "The Management has started its one-time cleansing procedure. This finding will be addressed once the one-time cleansing is completed.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-II__Municipalities__Cagayan__SantaAna_Cagayan-2022-PY7",
+      "year": 2022,
+      "recommendation": "We have recommended that the Management:\n\na.\tRequire the suppliers/ contractors to post warranty security in accordance with Section 62 of the IRR of RA 9184, which shall remain effective for minimum period of one (1) year from the date of acceptance by the Procuring Entity of the delivered supplies;\n\nb.\tReview all procurement contracts during CY2021 and ensure that all goods procured are covered with warranty securities.\n\nc.\tComply with the rules on warranties and all other related requirements provided in the IRR of RA 9184.",
+      "managementAction": "The Management has complied with the audit recommendations.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-II__Municipalities__Cagayan__SantaAna_Cagayan-2022-PY8",
+      "year": 2022,
+      "recommendation": "We have recommended that the Management require the contractors to refund the required retention money pursuant to Section 6 of the IRR of RA 9184, which shall be due for release upon final acceptance of the works and comply with the rules on warranties and all other related requirements provided in the IRR of RA 9184. Likewise, we have recommended that the Management review all payments made to different contractors and ensure that the retention money for each project is sufficient.",
+      "managementAction": "The Management has complied with the audit recommendations.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-II__Municipalities__Cagayan__SantaAna_Cagayan-2022-PY9",
+      "year": 2022,
+      "recommendation": "We have recommended that Management, through its MDRRMO, strictly comply with COA Circular No. 2012-02 dated September 12, 2012 and NDRRMC, DBM and DILG Joint Memorandum Circular No. 2013-1 dated March 25, 2013 by ensuring that the LDRRMFIP shall include the list of projects and activities charged to the unexpended LDRRMF of previous years.\n\nFurther, we have recommended that the Management refrain from disbursing the unexpended LDRRMF of previous years without an approved budget as reflected in the AIP or LDRRMFIP.",
+      "managementAction": "The Management submitted its LDRRMIP for CY 2022, however, it does not include the list of projects and activities charged to the unexpended LDRRMF of previous years.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reiterated in Finding No. 8, Part II of this Report."
+    },
+    {
+      "id": "Region-II__Municipalities__Cagayan__SantaAna_Cagayan-2022-PY12",
+      "year": 2022,
+      "recommendation": "We have recommended that the Management strictly enforce the complete and proper accomplishment of drivers’ trip tickets to support payments of fuel, oil and lubricants to prevent wasteful, excessive and unnecessary expenditures for fuel consumption and to avoid disallowance/suspension in audit as well as administrative, criminal or civil prosecutions.\n\nMoreover, management to direct the General Services Officer-Designate to prepare the Monthly Report of Fuel Consumption and submit the same to the Auditor to determine the reasonableness of fuel consumption during the period.",
+      "managementAction": "The management implemented our audit recommendation on the proper accomplishment of Driver’s Trip Tickets, however, Monthly Report of Fuel Consumption were not prepared and submitted.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-II__Municipalities__Cagayan__SantaAna_Cagayan-2022-PY13",
+      "year": 2022,
+      "recommendation": "We have recommended Management to:\n\nRevert the unexpended balances of fund transfers to the source agencies or seek authority from source agency for the utilization of the unexpended balance for purposes as may be allowed by these agencies.\nFast track the implementation of the on-going projects to optimize the timely utilization thereof and timely bring the desired welfares to the intended beneficiaries.",
+      "managementAction": "The Management has complied with the audit recommendations.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-II__Municipalities__Cagayan__SantaAna_Cagayan-2022-PY14",
+      "year": 2022,
+      "recommendation": "We have recommended that management optimally utilize the municipality’s 20% Development Fund by ensuring that all planned programs, projects and activities under the fund will be implemented timely in order to achieve the desired welfare intended for its beneficiaries. \n\nFurthermore, we have also recommended that the Local Chief Executive require Local Development Council to conduct feasibility of all projects included in the 20% Development Fund to avoid delay in the implementation and ensure that the full intention of development would benefit all the constituents and carefully choose each project to be included in the planned program.",
+      "managementAction": "The Management has complied with the audit recommendations.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-II__Municipalities__Cagayan__SantaAna_Cagayan-2022-PY15",
+      "year": 2022,
+      "recommendation": "We have recommended that the Local Chief Executive initiate the termination of the contract for the construction of the Sanitary Landfill, take appropriate action for the recovery of the unrecouped advance payment for mobilization and liquidated damages, forfeiture of the contractor's performance security and takeover of the prosecution of the project or award to a qualified contractor through negotiated contract in accordance to the provisions of the IRR of RA 9184 particularly on Section 68 and Annex “E” prescribing Contract Implementation Guidelines for the Procurement of Infrastructure Projects as amended under GPPB Resolution No. 02-2020 dated 27 February 2020,  and Annex “I” prescribing Guidelines on Termination of Contracts.",
+      "managementAction": "The contract with the defaulted contractor has been terminated. Likewise, a demand letter was sent to the contractor for the immediate settlement of the liquidated damages. However, the Team observed that the LGU failed to verify/validate whether the advance payment for mobilization was recouped.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended that Management:\n\na.\tCreate the Inventory Committee composed of adequate number of members to conduct physical inventory of all PPEs of the Municipality within the period prescribed under the aforementioned COA Circular;\n\nb.\tThru the Inventory Committee created, update the property records based on the results of physical inventory, and reconcile with accounting records;\n\nc.\tUndertake all other procedures prescribed under COA Circular 2020-006 dated January 31, 2020 to come up with the reconciled and correct balances of PPE accounts in the financial statements; and \n\nd.\tAfter the inventory taking, direct the Municipal Accountant to prepare the updated ledger cards for each item of the PPE pursuant to the Section 269 of the GAM for LGUs.",
+      "managementAction": "An RPCPPE was submitted but the conduct of annual physical count was not in accordance with COA Circular 2020-006 dated January 31, 2020.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "This is reiterated as Finding No. 5 in Part II of this report."
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended that the Management ensure that payments for the SRA are supported with relevant and pertinent documents pursuant to Section 4 of PD 1445 to establish compliance with the conditions set in DBM – DOH Joint Circulars No. 2, s. 2020 dated November 25, 2020 and No. 1 dated June 16, 2021.\nThe Management agreed to comply with the audit recommendation. They committed to submit the lacking documents as soon as possible.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended that the Management submit the required documents to the Auditor and, henceforth, ensure that payments for the AHDP are supported with relevant and pertinent documents pursuant to Section 4 of PD 1445 to establish compliance with the conditions set under the DBM – DOH Joint Circular No. 1, s. 2020 dated November 25, 2020.\nThe Management agreed to comply with the audit recommendation. They committed to submit the lacking documents as soon as possible.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "We recommended that the Accountable Officer immediately discontinue the payment of regular expenses from the Petty Cash Fund and ensure that the Petty Cash Fund should only be used for cash payment of non-recurring expenses, which could not conveniently be paid in checks or which require immediate payment in compliance with the provisions of COA Circular No. 97-002 dated February 10, 1997.\nThe Management agreed to comply with the audit recommendation. They also informed the Audit Team that they have discontinued paying regular expenses from the Petty Cash Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "We recommended that the Management, thru the Local Chief Executive:\nExhaust all possible remedies available to collect from the persons liable, such as resorting to all legal remedies available to the LGU;\nFile the request for authority to write-off the dormant Other Receivables account, after exhausting all possible remedies, to the Office of the Auditor supported with the required documents enumerated in Item 8.3 of COA Circular 2016-005 dated December 19, 2016; and\nStrictly comply with Section 6.1 of COA Circular 2016-005 and pertinent provisions of COA Circular 2012-004 on the regular monitoring and analysis of receivable accounts to ensure that these are collected when due and the immediate liquidation and settlement of all cash advances.\nThe Municipal Accountant explained that they have already sent out demand letters to persons liable. However, since most of them are dead, they could no longer collect form these persons. He also added that they are in the process of complying with all the required documents for the filing of request for authority to write-off the dormant Other Receivables account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "We recommended that the Management:\nThru the Inventory Committee, conduct physical inventory of all items of PPE of the Municipality, whether acquired through purchase or donation, including those constructed by administration and found at station, within the period prescribed under the aforementioned COA Circular;\nUpdate the property records based on the results of physical inventory, and reconcile the same with accounting records to make the records reflective of the actual count of PPEs;\nUndertake all other procedures prescribed under COA Circular 2020-006 dated January 31, 2020 to come up with the reconciled and correct balances of PPE accounts in the financial statements; and\nDirect the Municipal Accountant and GSO Designate to prepare, maintain and update Property Ledger Cards and Property Cards, respectively, for each item of the PPE pursuant to Section 114, Paragraph 4 of the MNGAs for LGUs, Volume I.\nThe Management explained that they have already identified some of the items that have caused the discrepancy between the Report on Physical Count of Property, Plant and Equipment and the accounting records. They agreed to correct and reconcile their records and reports.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "We recommended that the Management, thru the Local Chief Executive:\nDirect all the accountable officers, who are in custody of unserviceable properties, to return the same to the GSO-Designate for proper accounting and disposal;\nInstruct the GSO-Designate to institute measures for the appropriate disposal of these properties in accordance with Title V of COA Circular No. 92-386 dated October 20, 1992; and\nInstruct the Municipal Accountant to drop from the books the unserviceable properties only upon the completion of the disposal procedures using the Inventory and Inspection Report of Unserviceable Property provided by the COA to the Disposal Committee.\nThe Management agreed to conduct the one-time cleansing procedures in its physical inventory as discussed in Audit Observation No. 5, in order to establish all the existing properties of the LGU and to identify the actual conditions of all recorded PPEs. They also agreed to undertake the proper disposal of all unserviceable properties.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "We recommended that the Management:\nRequire the suppliers/contractors to post warranty security in accordance with Section 62 of the IRR of RA 9184, which shall remain effective for minimum period of one (1) year from the date of acceptance by the Procuring Entity of the delivered supplies;\nReview all procurement contracts during CY2021 and ensure that all goods procured are covered with warranty securities.\nComply with the rules on warranties and all other related requirements provided in the IRR of RA 9184.\nThe Management agreed to comply with the audit recommendations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-OBS8",
+      "year": 2021,
+      "recommendation": "We recommended that the Management require the contractors to refund the required retention money pursuant to Section 6 of the IRR of RA 9184, which shall be due for release upon final acceptance of the works and comply with the rules on warranties and all other related requirements provided in the IRR of RA 9184. Likewise, we recommended that the Management review all payments made to different contractors and ensure that the retention money for each project is sufficient.\nThe Municipal Accountant explained that they stop deducting retention money when the project is 50% completed. He also explained that retention money is no longer deducted from progress billing that are billed one-time and where completion of the project is already at 100%.\nAuditor’s Rejoinder:\nThe Audit Team reminded the Management that the Retention Money is intended to cover uncorrected discovered defects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-OBS9",
+      "year": 2021,
+      "recommendation": "We recommended that Management, through its MDRRMO, strictly comply with COA Circular No. 2012-02 dated September 12, 2012 and NDRRMC, DBM and DILG Joint Memorandum Circular No. 2013-1 dated March 25, 2013 by ensuring that the LDRRMFIP shall include the list of projects and activities charged to the unexpended LDRRMF of previous years.\nFurther, we recommended that the Management refrain from disbursing the unexpended LDRRMF of previous years without an approved budget as reflected in the AIP or LDRRMFIP.\nThe Management explained that all charges against the Special Trust Fund passed through the approval of the Sangguniang Bayan and the LCE and all disbursements to that fund were all supported with SB Resolutions.\nAuditor’s Rejoinder:\nThe Audit Team explained to the Management that the SB Resolutions were not attached to all the charges made against the Special Trust Fund, thus, they required the submission of all the SB Resolutions supporting the subject transactions. Likewise, the Audit Team emphasized that the unexpended balance of the DRRM of the previous years should have already been included in the overall LDDRMF AIP for the current year, duly approved by the Sanggunian and the LCE.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-OBS10",
+      "year": 2021,
+      "recommendation": "We recommended that the Management secure the proper permits and licenses of its radio communication equipment and radio station from the NTC to avoid possible fines and penalties arising from non-compliance, pursuant to RA 3846 or the Radio Laws of the Philippines.\nThe Management explained that they started securing the necessary permits and licenses from the NTC. They have submitted the necessary documents required by the NTC and still awaiting for the status of their application. They also committed to closely monitor the progress of their application and assured the Audit Team that they will comply with the Audit recommendation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-OBS11",
+      "year": 2021,
+      "recommendation": "We recommended that the Management submit legal basis to support the grant of the Financial Assistance to all its officials and employees and barangay personnel and all other required documents necessary to establish the validity, legality and propriety of the payment amounting to P3,640,000.00 to avoid disallowance in audit, and henceforth, disburse only the claims against government funds with complete documentation.\nThe Management committed to submit the legal basis on the grant of the financial assistance to its officials and employees.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-OBS12",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended management thru the Municipal Accountant to ensure that only the unexpended balance of QRF and the DRRMF-MOOE at the end of the year will be transferred to the Special Trust Fund Account and will be recorded under the Trust Liabilities – DRRMF account while the Continuing Appropriations/Capital Outlay of DRRMF will continue to be recorded under the General Fund books until the projects funded therefor are completed and should never be transferred to STF.\n\nWe further recommend that the Municipal Accountant reconcile and correct the Notes to Financial Statements by reflecting the correct balances of special trust fund by year.",
+      "managementAction": "The unexpended balance of QRF and the DRRMF-MOOE at the end of the year was transferred to the Special Trust Fund Account and was recorded under the Trust Liabilities – DRRMF account.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended that Management direct the LDRRM Officer to submit the LDRRMF Plan and revised Annual Investment Plan for CY 2020 and comply with the aforementioned provisions of COA Circular No. 2012-002 dated September 12, 2012 and NDRRMC, DBM and DILG Joint Memorandum Circular No. 2013-1 dated March 25, 2013 to ensure a timely verification of the charges made in the LDRRMF.",
+      "managementAction": "The LDRRM Plan and Annual Investment Plan for CY 2020 was prepared and submitted to the Audit Team.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended to management the following: \n\n\na.\tDirect the MSWDO and the Municipal Accountant to submit the lacking documents to determine the propriety and validity of the disbursement and to avoid suspension and/or disallowance in audit;\n\nb.\tInstruct the Municipal Accountant to ensure that DVs are supported by complete documents in compliance with Section 4(6) of PD 1445;\n\nc.\tDirect the GSO and MSWDO to account the 178 bags of rice to determine whether these were not yet distributed and should be taken as inventory or if distributed, provide for the proof of acknowledgement from recipients; and\n\nd.\tInstruct all concerned departments who are receiving goods to inform and coordinate with the GSO for the inspection, receipt, preparation and maintenance of inventory list and stock cards of such goods, before issuance to the concerned end users or recipients.",
+      "managementAction": "Documents required by PD 1445 were submitted to support the purchase of rice charged from the BGCM.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended management to direct the Bids and Awards Committee to register the Municipality in the GPPB Online Portal and post all the required information relating to emergency procurement and comply with all other requirements to ensure transparency and accountability in the implementation of the Bayanihan Act in government procurement.",
+      "managementAction": "Posting requirements were complied by the Municipality.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended that management:\n\na.\tDirect all concerned departments who are receiving goods in-kind from local and foreign sources, to inform and coordinate with the General Services Office (GSO), who shall be responsible for the inspection, receipt, preparation and maintenance of inventory list and stock cards of such goods, before issuance to the concerned end users or recipients; \n\nb.\tInstruct the DRRM Officer to submit the Summary/List of Donation Received, Distributed and Balances, and the Inventory of Undistributed Items at the end of each quarter to NDRRMC, through the OCD, copy furnished the Auditor, as mandated under COA Circular No. 2014-002 dated April 15, 2014 to attain transparency and accountability for all in-kind donations thereby ensuring that the donations have reached the intended recipients; and\n\nc.\tInstruct the MSWDO to furnish the GSO and DRRMO all the necessary documents in order for them to accomplish and submit the required reports and records.\n\nd.\tInstruct the Municipal Accountant to reflect the disclosures in the Notes to Financial Statements pertinent to the receipt, distribution and undistributed balances as at year-end of all donations in-kind received by the Municipality as required in Section VII (2) of COA Circular No. 2014-002 dated April 15, 2014.",
+      "managementAction": "The required reports on the receipt, distribution and balance of undistributed donations in-kind were prepared and submitted to this Office.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor instruct Municipal Social Welfare and Development Officer (MSWDO) to submit promptly the lacking documents for audit to determine the completeness, authenticity and regularity of the SAP transactions, in compliance with Parts VIII (B) and (E) of DSWD Memorandum Circular No. 09, series 2020 dated April 9, 2020. Moreover, the Municipal Accountant should henceforth ensure that liquidations of SAP fund transfers and the like are supported by complete documents in compliance with COA Circular No. 2012-001 dated June 14, 2012 and Section 4(6) of Presidential Decree No. 1445.",
+      "managementAction": "Supporting documents relative to the payout of SAP were submitted to the Audit Team.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended that the Local Chief Executive instruct the Municipal Accountant to effect immediate adjustments of the affected Receivable accounts and adopt the account titles prescribed in the Revised Chart of Accounts of Local Government Units in accordance with COA Circular 2015-009 dated December 1, 2015 in recording and reporting the financial transactions of the municipality.",
+      "managementAction": "Cash advances granted to the Disbursing Officer for the payment of fuel expenses were properly recorded by the Municipality.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommended that management direct the Municipal Accountant to:\n\nReconcile the reciprocal accounts and effect immediate adjustments in the books.\nSubmit the subsidiary schedule of these accounts for proper review and evaluation.\nComply strictly with the provisions of COA Circular No. 2010-001 by ensuring that all accounts presented in the financial statements are supported with necessary subsidiary schedules and submit the same to COA in order to furnish the necessary information relevant to audit.",
+      "managementAction": "The balances of the accounts were reconciled.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We recommended that management strictly enforce the complete and proper accomplishment of drivers’ trip tickets to support payments of fuel, oil and lubricants to prevent wasteful, excessive and unnecessary expenditures for fuel consumption and to avoid disallowance/suspension in audit as well as administrative, criminal or civil prosecutions.\n\nMoreover, management to direct the General Services Officer-Designate to prepare the Monthly Report of Fuel Consumption and submit the same to the Auditor to determine the reasonableness of fuel consumption during the period.",
+      "managementAction": "There were still Drivers’ Trip Tickets which were not completely accomplished.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "We recommended management to:\n\nRevert the unexpended balances of fund transfers to the source agencies or seek authority from source agency for the utilization of the unexpended balance for purposes as may be allowed by these agencies.\nFast track the implementation of the on-going projects to optimize the timely utilization thereof and timely bring the desired welfares to the intended beneficiaries.",
+      "managementAction": "There are still savings from implemented projects which remained in the Trust Fund account.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "We recommended the Local Chief Executive to revisit the DBM Local Budget Circular No. 109 dated March 17, 2016 and seek authority from source agency for the reprogramming of the unutilized balance of the LGSF- Financial Assistance to LGUs received in CY 2016 in order to comply with the proposed LGSF 2016 Project Menu.\n\nFurther, we recommended that management fast track the full implementation of the priority programs and projects under the said fund in order to optimize the utilization thereof and timely bring the desired welfare to intended beneficiaries.",
+      "managementAction": "The projects funded under the LGSF-Financial Assistance to LGUs were all implemented accordingly.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "We recommended that management optimally utilize the municipality’s 20% Development Fund by ensuring that all planned programs, projects and activities under the fund will be implemented timely in order to achieve the desired welfare intended for its beneficiaries. \n\nFurthermore, we also recommended that the Local Chief Executive require Local Development Council to conduct feasibility of all projects included in the 20% Development Fund to avoid delay in the implementation and ensure that the full intention of development would benefit all the constituents and carefully choose each project to be included in the planned program.",
+      "managementAction": "There are still projects amounting to P2,069,497.00, which remained unimplemented during the year.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan_aar2021-PY14",
+      "year": 2021,
+      "recommendation": "We recommended that the Local Chief Executive initiate the termination of the contract for the construction of the Sanitary Landfill, take appropriate action for the recovery of the unrecouped advance payment for mobilization and liquidated damages, forfeiture of the contractor's performance security and takeover of the prosecution of the project or award to a qualified contractor through negotiated contract in accordance to the provisions of the IRR of RA 9184 particularly on Section 68 and Annex “E” prescribing Contract Implementation Guidelines for the Procurement of Infrastructure Projects as amended under GPPB Resolution No. 02-2020 dated 27 February 2020,  and Annex “I” prescribing Guidelines on Termination of Contracts.\n\nFurthermore, we recommended that management, through its Solid Waste Management Board, exert utmost effort in the implementation of all the LGU’s projects under the SWM Program to ensure the protection of the public against health hazards and the environment against ecological destruction and to avoid administrative sanctions that may be imposed by the National Solid Waste Management Commission and other regulatory agencies.",
+      "managementAction": "The Management committed to submit proof that they have terminated its contract with HPL Construction and to collect liquidated damages (LD) related thereto.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended that management strictly comply with the provisions embodied in the COA Circular No. 2015-008 dated November 25, 2015 and IPSAS 17 by ensuring the following:\n\na.\tInventory Committee conducts inventory of Local Roads under the LGUs jurisdiction at year-end;\n\nb.\tGeneral Service Officer maintains and updates a Local Road Inventory and Road Map and keep a complete Local Road Network Property Card for all road and its component;\n\nc.\tMunicipal Engineer provides the Municipal Accountant and the General Services Officer with the complete description and cost segregation of road components of road projects; and\n\nd.\tMunicipal Accountant ensures compliance with the transitory provisions of the Circular by updating the records of the Road Network account and keeps and maintains subsidiary records for roads and road components for every road network. Moreover, the Municipal Accountant must compute the depreciation expense, prepare the lapsing schedule and draw necessary journal entry to take up depreciation expense for the current year, update the related accumulated depreciation and record adjustment in government equity account for unrecorded prior years’ depreciation expense to present fairly the financial statements in accordance with IPSAS 17.",
+      "managementAction": "The management committed to implement the audit recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended that Management return immediately to the source NGAs the idle funds aggregating P3,043,475.97 pursuant to Section 4 of COA Circular No. 94-013 dated December 13, 1994 and Section 3.1.2 of COA Circular No. 2012-01 dated June 14, 2012 on the submission, and liquidation of fund transfer received from National Government Agencies (NGAs) to make these funds available for appropriation to other priority programs, projects and activities of the government. \n\nFurther, we recommended that the Municipal Accountant review the transactions recorded in the said account in order to determine the cause of abnormal balance and initiate corrections or adjustments to come up with the normal balance of the said account.",
+      "managementAction": "The management committed to implement the audit recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\n\na)\tRequire the Municipal Accountant to verify and ascertain that payments for fuel, oil and lubricants are duly supported with completely filled up driver’s trip tickets for proper evaluation on the propriety and reasonableness of fuel consumption;\n\nb)\tDirect the vehicle drivers concerned to completely fill up or indicate the following data or information on the Driver’s Trip Tickets:\ni.\tVehicle Plate Number\nii.\tTime of departure and arrival of the trip\niii.\tBalance in Tank at the beginning and end of the trip\niv.\tDistance Travelled\nv.\tOdometer reading, if available\nvi.\tLiters of gasoline purchased and consumed for the trip\nvii.\tPlace of Destination\nviii.Purpose of Travel\nix.\tName of Driver and Passengers and their respective signatures\n\nc)\tThe Monthly Report of Official Travels and the Monthly Report of Fuel Consumption must be submitted regularly to the Office of the Auditor for analysis, verification and other related audit actions.\n\nFurther, we recommended that the management discontinue the processing of claims for fuel, oil and lubricants used for private vehicles to forestall audit suspensions and/or disallowances",
+      "managementAction": "The management committed to implement the audit recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended that Management direct the LDRRM Officer to submit the Report on Sources and Utilization of the DRRMF using the prescribed format embodied in COA Circular 2012-002 on or before the 15th day after the end of each month to the Office of the Auditor. Further, we recommend that management comply with the provision of Sections 5 of COA Circular No. 2012-002 dated September 12, 2012 and NDRRMC, DBM and DILG Joint Memorandum Circular No. 2013-1 dated March 25, 2013 by conducting a regular review and update of its LDRRMF Investment Plan to be responsive to the needs of the constituents of the Municipality.",
+      "managementAction": "The management committed to implement the audit recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommended that management thru the GAD Focal Point System to comply with Sections 4.3, 5.2 and 5.7 of the PCW, DILG, DBM and NEDA Joint Memorandum Circular No. 2016-01 dated January 12, 2016 on the timely preparation and submission to the PPDO and DILG Provincial Office the GPB of the municipality to ensure that the PPAs therein is in response to the gender issues and concerns of the locality.",
+      "managementAction": "The management committed to implement the audit recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2019-PY12",
+      "year": 2019,
+      "recommendation": "We recommended that the management:\n\n1. \tAdhere to the provision of Section 5 DILG-DBM Joint Memorandum Circular No. 2017-1 dated February 22, 2017 to ensure the optimal utilization of 20% development fund to help achieve the desirable socio-economic development and environmental management outcomes of the municipality.\n\n2. \tSubmit justifications for the delay and non-implementation/completion of the above-mentioned priority projects totaling P12.74 million and P6.3 million in CY 2018 and CY 2017, respectively.\n\n3. \tInitiate corrective measures to fast-track the implementation and completion of unimplemented and ongoing priority projects for CY 2017 and 2018 in order to avoid accumulation of unimplemented projects and to ensure the optimal utilization of 20% development fund in the ensuing year at lower cost due to soaring prices of commodities.",
+      "managementAction": "The management committed to implement the audit recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2019-PY13",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\n\n1. \tFast track the completion of the Sanitary Landfill and require a written justification from the contractor of the delay and refusal to correct the deficiencies noted in the subject project;\n\n2. \tRequire the Municipal Accountant to impose liquidated damages to the contractor, where appropriate; and,\n\n3. \tThrough the MSWMB, fully implement all the programs contained in the ESWMP of the municipality to address the present issues and concerns on solid waste management towards public health and environment protection and for the local government officials to avoid administrative sanctions provided for by the Act.",
+      "managementAction": "The management committed to implement the audit recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2019-PY14",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive create a committee to conduct physical inventory of the properties of the municipality and prepare a report thereon to be submitted to the Municipal Accountant for reconciliation with that of the accounting records, pursuant to the provisions of Section 156 of COA Circular No. 92-386 dated October 20, 1992.",
+      "managementAction": "The management committed to implement the audit recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended that management strictly comply with the provisions embodied in the COA Circular No. 2015-008 dated November 25, 2015 and IPSAS 17 by ensuring the following:\na.\tInventory Committee conducts inventory of Local Roads under the LGUs jurisdiction at year-end;\nb.\tGeneral Services Officer maintains and updates a Local Road Inventory and Road Map and keeps a complete Local Road Network Property Card for all local roads and their components;\nc.\tMunicipal Engineer provides the Municipal Accountant and the General Services Officer with the complete description and cost segregation of road components of road projects; and\nd.\tMunicipal Accountant ensures compliance with the transitory provisions of the Circular by updating the records of the Road Network account and keeps and maintains subsidiary records for roads and road components for every road network.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended that management direct the Municipal Accountant to:\nReconcile the reciprocal accounts and effect immediate adjustments in the books.\nSubmit the subsidiary schedule of these accounts for proper review and evaluation.\nComply strictly with the provisions of COA Circular No. 2010-001 by ensuring that all accounts presented in the financial statements are supported with necessary subsidiary schedules and submit the same to COA in order to furnish the necessary information relevant to audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accountant carefully analyze the entries made on the accounts affected to correct the existence of negative/abnormal balances and prepare the necessary adjusting entries, as needed, for the fair presentation of the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended that management submit the lacking supporting documents to avoid suspension in audit. Likewise, management should submit complete supporting documents as required by Item 5.13 of COA Circular No. 2012-001 dated June 14, 2012 in the payment of terminal leave benefits.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended that management strictly enforce the complete and proper accomplishment of drivers’ trip tickets to support payments of fuel, oil and lubricants to prevent wasteful, excessive and unnecessary expenditures for fuel consumption and to avoid disallowance/suspension in audit as well as administrative, criminal or civil prosecutions.\nMoreover, management to direct the General Services Officer-Designate to prepare the Monthly Report of Fuel Consumption and submit the same to the Auditor to determine the reasonableness of fuel consumption during the period.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended management the following:\nRevert back to the unappropriated surplus of the General Fund the total of P3,319,114.80 pertaining to unrecorded deposits or transfers to DRRM bank account in CYs 2011 and 2012;\nEnsure that the unexpended balance of QRF and the DRRMF-MOOE at the end of the year will be transferred to the Special Trust Fund Account and will be recorded under the Trust Liabilities – DRRMF account;\nEnsure that Continuing Appropriations/Capital Outlay of DRRMF will continue to be recorded under the General Fund books until the projects funded therefor are completed and should never be transferred to STF;\nSet-up and maintain subsidiary ledgers for the special trust fund for unutilized DRRMF by year of transfer, receipts of NDRRMF by transferring agency, DRRMF from other LGUs by LGU, and other sources by donor in order to readily determine the balances of transfers/receipts; and\nReconcile and correct the Notes to Financial Statements by reflecting the correct balances of special trust fund by year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended that management instruct the Municipal Accountant to reclassify the land and other properties held for rent recorded under Land, Market and Hostels and Dormitories accounts to Investment Property-Land and Building accounts to conform with \nIPSAS 16-Investment Property for fair presentation of the financial statements.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accountant reconcile the Municipality’s record with DOH RO 2 and ensure the timely submission of the required liquidation reports to DOH RO 2 to settle this liability pursuant to Section 111 Presidential Decree No. 1445.\n\nFurther, we recommended that the Municipal Accountant review the transactions recorded in the said account in order to determine the cause of abnormal balance and initiate corrections or adjustments to come up with the normal balance of the said account.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended that the Disbursing Officer stop the practice of paying salaries, wages and benefits other than the purpose for which it was granted and refund/return the excess cash advance to the Municipal Treasurer. Further, the Municipal Accountant and Municipal Treasurer should not grant cash advance to the Disbursing Officer unless previous cash advances were settled or a proper accounting thereof is made.",
+      "managementAction": "The management committed to implement the audit recommendation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2019-PY9",
+      "year": 2019,
+      "recommendation": "We recommended the Local Chief Executive require the Bids and Awards Committee to submit a written explanation or justification on the mode procurement used in the procurement of drugs and medicines.\n\nFurther, we recommended management to adhere to Sections 54.1 of the Revised IRR of RA 9184 on the general policy on competitive bidding and prohibition of splitting of contracts and resort only to alternative modes of procurement if the conditions are met as provided under in the IRR of RA 9184 in order to avoid disallowances in audit.",
+      "managementAction": "The management committed to implement the audit recommendation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2019-PY10",
+      "year": 2019,
+      "recommendation": "In view of the foregoing observations we recommended the following:\n\n1. \tRequire the BAC Chairman to submit copies of approved contracts and purchase orders (POs) irrespective of amount and all related documents forming part thereof to COA within five (5) working days upon perfection of the contract and issuance of POs. \n\n2. \tAlso, instruct the Supply Officer to notify the Auditor’s Office within twenty-fours (24) hours from acceptance of deliveries as required under COA Circular No. 96-010.",
+      "managementAction": "The management committed to implement the audit recommendation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2019-PY11",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive directs all the Department Heads/employees concerned to submit their action plans on the audit findings and recommendations including that of prior years, related/connected to their departments/offices and the information gathered therein be used to properly accomplish the AAPSI, and submit the same to the COA Auditor.\n\nWe also recommended that henceforth, the submission to the COA, either in printed form or by way of electronic document, a status report on the actions taken on said audit findings and recommendations within sixty (60) days from their receipt of the COA Annual Audit Report.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive create a committee to conduct physical inventory of the properties of the municipality and prepare a report thereon to be submitted to the Municipal Accountant for reconciliation with that of the accounting records, pursuant to the provisions of Section 156 of COA Circular No. 92-386 dated October 20, 1992.",
+      "managementAction": "The management committed to implement the audit recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "This was discussed during the Exit Conference on April 25, 2019."
+    },
+    {
+      "id": "SantaAna_Cagayan-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommended that Management direct the concerned officer to submit Report on Sources and Utilization of DRRMF using the prescribed format, on or before the 15th day after the end of each month to the Office of the Auditor. Further, we recommend management to comply with the provision of Sections 5.1.2 and 5.1.15 of COA Circular No. 2012-002 dated September 12, 2012 by conducting a regular review and update of its LDRRMFIP and submit the same to Office of the Auditor.",
+      "managementAction": "The management committed to implement the audit recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in Finding No. 6 of this report."
+    },
+    {
+      "id": "SantaAna_Cagayan-2018-PY9",
+      "year": 2018,
+      "recommendation": "We recommended that  Management through the MSWMB fully implement all the programs contained in the ESWMP of the municipality to address the present issues and concerns on solid waste management towards public health and environment protection.",
+      "managementAction": "The management committed to send a demand letter to the contractor for the completion of the Construction of the Sanitary Landfill.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in Finding No. 13 of this report."
+    },
+    {
+      "id": "SantaAna_Cagayan-2018-PY12",
+      "year": 2018,
+      "recommendation": "We recommended that management strictly comply with the submission/transmittal of executed contracts together with the supporting documents within five (5) days after its perfection to afford the audit team a prompt review and evaluation thereof and an opportunity to communicate earlier the noted defects/deficiency which may be utilized by management as a tool to adopt corrective measures and/or improve their operational and procurement processes.",
+      "managementAction": "The management committed to implement the audit recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in Finding No.10 of this report."
+    },
+    {
+      "id": "SantaAna_Cagayan-2018-PY13",
+      "year": 2018,
+      "recommendation": "We recommended that management follow strictly the provisions of Section 96 of RA 10717 for the timely review, monitoring and evaluation of management’s action on previous year’s audit recommendations.",
+      "managementAction": "The management committed to implement the audit recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in Finding No.11 of this report."
+    },
+    {
+      "id": "SantaAna_Cagayan-2018-PY14",
+      "year": 2018,
+      "recommendation": "We recommended that Management optimally utilize its 20% Development Fund by ensuring that all planned programs, projects and activities under the said fund will be implemented timely in order to achieve the desired benefit intended for its beneficiaries. Also, submit your justification why these projects remained unimplemented.",
+      "managementAction": "The management committed to implement the audit recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in Finding No. 12 of this report."
+    },
+    {
+      "id": "SantaAna_Cagayan-2018-PY15",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipality carefully plan the implementation of projects funded by other agencies to effect the timely delivery of basic services to the people most especially the intended beneficiaries of these programs.",
+      "managementAction": "The management committed to implement the audit recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in Finding No. 4 of this report."
+    },
+    {
+      "id": "SantaAna_Cagayan-2018-PY16",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the timely preparation of the annual GAD Plan and Budget and GAD Accomplishment Report and submit the same to the concerned agencies for review and audit purposes.",
+      "managementAction": "The management committed to implement the audit recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in Finding No. 8 of this report."
+    },
+    {
+      "id": "SantaAna_Cagayan-2018-OBS1",
+      "year": 2018,
+      "recommendation": "1.13 We recommended that management strictly comply with the provisions embodied in the COA Circular No. 2015-008 dated November 25, 2015 and IPSAS 17 by ensuring the following:\nInventory Committee conducts inventory of Local Roads under the LGUs jurisdiction at year-end;\nGeneral Service Officer maintains and updates a Local Road Inventory and Road Map and keep a complete Local Road Network Property Card for all road and its component;\nMunicipal Engineer provides the Municipal Accountant and the General Services Officer with the complete description and cost segregation of road components of road projects; and\nMunicipal Accountant ensures compliance with the transitory provisions of the Circular by updating the records of the Road Network account and keeps and maintains subsidiary records for roads and road components for every road network. Moreover, the Municipal Accountant must compute the depreciation expense, prepare the lapsing schedule and draw necessary journal entry to take up depreciation expense for the current year, update the related accumulated depreciation and record adjustment in government equity account for unrecorded prior years’ depreciation expense to present fairly the financial statements in accordance with IPSAS 17.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2018-OBS2",
+      "year": 2018,
+      "recommendation": "2.5\tWe recommended that management instruct the Municipal Accountant to reclassify the land and other properties held for rent recorded under Land, Market and Hostels and Dormitories accounts to Investment Property-Land and Building accounts to conform with \nIPSAS 16-Investment Property for fair presentation of the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2018-OBS3",
+      "year": 2018,
+      "recommendation": "3.6\tWe recommended that the Municipal Accountant reconcile the Municipality’s record with DOH RO 2 and ensure the timely submission of the required liquidation reports to DOH RO 2 to settle this liability pursuant to Section 111 Presidential Decree No. 1445.\n3.7\tFurther, we recommended that the Municipal Accountant review the transactions recorded in the said account in order to determine the cause of abnormal balance and initiate corrections or adjustments to come up with the normal balance of the said account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Treasurer to stop the practice of issuing Pre-Numbered receipts made by the Golden Press without any approval from the NPO or the Bureau of Internal Revenue for the collection of eco-park fees pursuant to Section 4 of COA Circular No. 92-382 and Part IV- Section 27 ( C ) of republic Act 8792.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Treasurer/Cashier, Liquidating Officers, Collectors and other Local Accountable Officers maintain and use cashbooks of collections and safeguarding of cash books for a strong internal control system of the municipality.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2018-PY4",
+      "year": 2018,
+      "recommendation": "We recommended that Management strictly enforce the rules and regulation on the granting, utilization and liquidation of cash advances by requiring the concerned officials and employees to submit immediately the complete supporting documents for the liquidation of cash advances and require the Municipal Accountant to avoid the grant of additional cash advance to officials and employees unless the previous cash advance is liquidated or a proper accounting thereof is made. \n\nLikewise, management must exert efforts to cause the liquidation of all cash advances most especially those who are terminated or separated from the service.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Accountant disclosed in financial statement the amount due to be settled after twelve months from the reporting date after the to present fairly the financial statements of the Agency and in accordance with PPSAS I.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2018-PY6",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Accountant reconcile its record with DSWD and that the Municipal Social Worker Development Officer ensure the timely submission of liquidation reports to DSWD.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Accountant make an adjusting entry to reclassify the cost of the aforementioned equipment to Construction and Heavy Equipment account from Disaster and Response and Rescue Equipment account for a fair presentation of these account in the financial statements of the municipality.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2018-PY10",
+      "year": 2018,
+      "recommendation": "We recommended that Management through the Local School Board, include programs, projects and activities for Early Childhood Care and Development (ECCD) in the Annual Budget of Special Education Fund in adherence to Section 7(b) of Republic Act No. 10410.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2018-PY11",
+      "year": 2018,
+      "recommendation": "We recommended that Management direct the Municipal Budget Officer to provide the necessary appropriation representing one percent (1%) of the IRA for the strengthening and implementation of the programs of the LCPC.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SantaAna_Cagayan-2018-PY17",
+      "year": 2018,
+      "recommendation": "We recommended management to adopt a system of payroll payment through the Automated Teller Machine (ATM) of Government Banks. The ATM payroll system provides convenience on the part of management since payroll payments are distributed from the payroll account maintained in an authorized government depository bank to the individual account of the regular employees. The system will eliminate risk of loss or misapplication of funds and will reduce cash advances being handled by the Disbursing Officer.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    }
+  ]
+}

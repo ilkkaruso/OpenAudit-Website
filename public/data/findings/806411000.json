@@ -1,0 +1,1526 @@
+{
+  "lguCode": "806411000",
+  "lguName": "Pintuyan",
+  "province": "Southern Leyte",
+  "region": "Region VII (Central Visayas)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to require the Municipal Accountant and Municipal Treasurer to prepare written guidelines prior to the inventory taking with clear instructions that all tangible assets are to be counted and to define roles of the members of the Inventory Committee to ensure the timely completion and submission of the RPCPPE.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Members of the inventory committee lack training on Property Management System (PSMS)."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to require the Municipal Accountant to write demand letters signed by the Mayor for the immediate settlement of the cash advances; additional cash advance shall not be given until the previous cash advance is settled; cause the immediate withholding of salaries and claims of officers and employees who failed to settle their accounts; furnish all department heads of listings of unliquidated cash advances of employees to enhance efforts on the settlements.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not all cash advances were liquidated"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to direct the Municipal Accountant to appropriately disclose in the financial statements the details of the loan and safeguard document files of the loan for safety and future reference.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Loan documents were not furnished to Municipal Accounting Office"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to make disclosure on the dormant balances of the account Due from NGOs and other LGUs.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Debit balance cannot be traced due to lack of supporting documents"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY9",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to direct the Municipal Accountant to request for the write-off of the dormant accounts with validation for identified the dead debtors, no pending cases, with unknown whereabouts and have exhausted all possible means for the collection.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of supporting documents identified the dead debtors, no pending cases, unknown whereabouts and have exhausted all possible means for the collection"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY11",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to direct the Municipal Engineer and the Bids and Awards Committee to implement immediately the projects under the 20% Development Fund and to prioritize the conduct of bidding over other activities pursuant to pertinent provisions of RIRR of RA No. 9184.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not all 20% Development Fund projects are implemented"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY12",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to direct the LDRRMO to implement programs of LDRRMP that are being monitored in order to efficiently respond to calamity thereby ensuring sustained recovery.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Current LDRRMF was not fully utilized"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY13",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor and the local sanggunian to: a) craft ordinances and issue executive orders relative to waste management and environmental protection; b) make current waste management system doable by enhancing garbage classification, collection, and recycling; c) add facilities to the landfill to improve recycling methods.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Implementation is still on-going."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY16",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to direct the GAD FPS to adhere to the rules and regulations on cost attribution of GAD, in order to address efficiently and effectively the streamlined gender issues.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Implementation is still on-going."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY17",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to direct the Municipal Accountant to make the necessary disclosure on the dormant balances of NGA-BIR account.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Implementation is still on-going."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY18",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to direct the Municipal Accountant make the necessary disclosure with the dormant balances of the account.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Implementation is still on-going."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY21",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to require the Municipal Health Officer facilitate the licensing of the ambulance vehicles.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY22",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to direct the Municipal Accountant to enforce stringent measures for the settlement of disallowances.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Settling of disallowances is on-going"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY26",
+      "year": 2020,
+      "recommendation": "We recommended that a proper gate at the entrance to the RCA must be built so that it is easier for the personnel at the RCA to inspect and direct the segregation of waste to the designated area and, implement appropriate means of identification to ensure that wastes are properly segregated at the RCA.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of manpower"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY27",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the Solid Waste Management Program Focal Person to maintain disposal site records in the sanitary landfill.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of manpower and budget constraints"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY28",
+      "year": 2020,
+      "recommendation": "We recommended that the RCA be fenced with a secured gate at the entrance to minimize illegal visitors or scavengers on the RCA. This will also help address the occupational health and safety issues by limiting access.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Phase 1 construction of Perimeter Fence was done."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY29",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the GAD Focal Person to train personnel assigned to man VAW Help Desks in the barangays to capacitate them to fully address cases on women violations in a gender-responsive manner.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not all VAW Help Desks in the barangays are manned by competent personnel"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY30",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the GAD Focal Person to establish a GAD Monitoring and Evaluation System.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of manpower and budget constraints"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-OBS1",
+      "year": 2020,
+      "recommendation": "1. Municipal Accountant to maintain subsidiary ledger card for each group of\nPPEs;\n2. Property custodian to record promptly each transaction and update its\nproperty cards as prescribed in the GAM for LGUs; and\n3. Inventory Committee to prepare RPCPPE with complete data for each item,\nas basis for reconciliation with the SLCs and PCs. Also, furnish the Audit\nTeam a copy of the duly accomplished RPCPPE not later than January 31\nof each year in accordance with the GAM for LGUs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-OBS2",
+      "year": 2020,
+      "recommendation": "1. Direct the Municipal Accountant and Supply Officer to: a) maintain\nSupplies Ledger Cards and Stock Cards, respectively, complete with all the\nrequired information; and b) reconcile their records periodically;\n2. Require the inventory committee to prepare the RPCI with complete data\nfor each item, as basis for reconciliation with the SLCs and SCs. Also,\nfurnish the Audit Team a copy of the duly accomplished RPCI not later\nthan January 31 of each year in accordance with the GAM for LGUs;\n3. Direct the Municipal Accountant to follow the proper accounting\nprocedures for inventories as prescribed in the GAM for LGUs; and\n4. Prepare Adjusting Journal Entries to record the inventories found on hand\nto present fairly the Financial Statements of the Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-OBS3",
+      "year": 2020,
+      "recommendation": "a. Prepare and certify a monthly Report on Sources and Utilization of\nLDRRMF;\nb. Verify the variances between the Report on the Utilization of DRRMF and\nthe amount presented in the Notes to Financial Statements and to make the\nnecessary corrections in the balances; and\nc. Prepare the necessary adjusting entries to correct the balances of the Trust\nLiabilities-DRRMF and Government Equity in the General Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-OBS4",
+      "year": 2020,
+      "recommendation": "1. The Municipal Accountant to prepare Adjusting Journal Entries (AJE) to\nrecord the receivables as follows:\nAccounts Receivable 1,087,303.00\nPrior Period Adjustment 1,087,303.00\nPrior Period Adjustment 1,087,303.00\nGovernment Equity 1,087,303.00\n2. The Municipal Treasurer to demand payment from PDH for the unpaid\namount of the Waterworks System Fees and ensure to collect the exact\namount of monthly billings for the ensuing year; and\n3. For the succeeding years, the Municipal Treasurer’s Office to furnish the\nAccounting Section a copy of the Monthly Statement of Account so as the\nAccountant can record the transactions accordingly.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-OBS5",
+      "year": 2020,
+      "recommendation": "1. Supply and/or Property Officer to fill out the date and other necessary\ndetails in the Purchase Order;\n2. Supply and/or Property officer and Inspecting Officer to fill out the date in\nthe Acceptance and Inspection Report to assure that the items received are\nin accordance with the contract; and\n3. Municipal Accountant to ensure completeness of supporting documents\nfor all disbursement transactions so as to ascertain the propriety of the\ntransactions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended that local government officials concerned to read and follow\nguidelines that are created/issued for the implementation of the ESP thereby,\nenabling the measures adopted to respond to the crisis brought by the COVID-\n19 pandemic and become effective and efficient.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We recommended that the officials concerned to read and follow the guidelines\ncreated for the proper implementation of the selection, utilization and/or paying\nof the cash assistance of the program.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Budget\nOfficer, Municipal Planning and Development Officer, and Municipal\nEngineer to properly optimize the utilization of the 20% Development Fund\nallocated for the implementation of various Programs/Projects/Activities to\nhelp achieve desirable socio-economic development and environmental\noutcomes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to direct the Municipal Accountant to reconcile the balances of the book with the bank and prepare the necessary adjusting journal entries to correct the error.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to direct the Municipal Treasurer to submit the afore-cited 46 cancelled checks for validation, and, control mechanism should design a control mechanism in the preparation of monthly reports including Report of Checks Issued.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to direct the Municipal Treasurer to discontinue the collection of proceeds from the Eco-Tourism activity other than what were stated in the MOA.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to direct the officials concerned to stop the grant of the Cash Advances in compliance with provisions of Sections 4.1.4 to 4.1.5 and 4.3.1 of COA Circular No. 97-002, dated February 10, 1997.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY10",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to direct the Municipal Budget Officer to properly classify expenditures under social and economic development funds in order for funds to be properly utilized.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY14",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to require the Municipal Treasurer takes action on the imposed updates in local tax laws in order to increase the collection of revenues and taxes of the municipality.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY15",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to direct the Human Resource Management Officer to adhere to the guidelines set forth in hiring J.O. workers.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY19",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to require the Municipal officials concerned to make concerted efforts in acquiring the certificate of title so that the costs of infrastructure projects will not be subjected to suspension for lack of evidence of the right to possess.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY20",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Mayor to require the Municipal Accountant to close the CIP account to the appropriated asset account upon completion of the project.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY23",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor compel the Municipal Accountant to strictly adhere to the practice of checking the completeness of documentations before claims are to be paid. Likewise, suppliers of goods must be required to submit required documentations as mandated under Section 9.2 of COA Circular No. 2012-001 to ensure that procured items are from legitimate sources.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY24",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Assessor to expedite the processing of documents for the titling of lands owned by the Municipality. We further recommended that before any construction is made, land ownership is established thru a certificate of title.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__Pintuyan_SoLeyte-2020-PY25",
+      "year": 2020,
+      "recommendation": "We recommended that a mechanism to measure the volume of waste and type of waste should be placed at the site, which will provide baseline data to assist in developing effective waste minimization strategies and future plans for waste management.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to direct the Municipal Accountant\nto strictly comply with the provisions of Section 74 of PD No. 1445; to regularly\nprepare the BRS in reconciling with the cash in bank balances as recorded in\nthe books of accounts in comparison with the bank records, and consequently\nmake the necessary adjustments where appropriate. For the bank reconciling\nitems, the Municipal Accountant must make a representations with the bank to\neffect whatever adjustments needed.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to require the Municipal Accountant\nand Municipal Treasurer to prepare written guidelines prior to the inventory\ntaking with clear instructions that all tangible assets are to be counted and\ndefine roles of the members of the Inventory Committee to ensure the timely\ncompletion and submission of the RPCPPE.\n\nWe further recommended that members of the Inventory Committee shall\nundergo a training on Property and Supply Management System (PSMS), to\ngain adequate understanding and working knowledge of the systems,\nprocesses, policies and other regulations pertaining to property and supply\nmanagement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to require the Municipal Treasurer\nto turn over the forty six issued and cancelled checks for validation and\nconsequently thereafter submit the checks issued cancelled or not together\nwith the RCI every end of the month or five days from the ensuing month for\nthe post-audit of said disbursements, and, that the Municipal Accountant\nformulate stringent measures to adopt sound control over cash management\nespecially on the monthly rendering of the Report of Checks Issued.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to require the Municipal Treasurer\nto stop the collection of proceeds from the Eco-Tourism activity other than\nwhat were stated in the MOA.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to direct the officials concerned to\ndiscontinue the grant of the Cash Advances in compliance with provisions of\nSections 4.1.4 to 4.1.5 and 4.3.1 of COA Circular No. 97-002, dated February\n10, 1997.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to require the Municipal Accountant\nto:\nFor the current year collectibles-\n-to send within ten days before the expiration of the prescribed period as\nwritten reminder under signature of the Mayor or his duly authorized\nrepresentative enjoining officials and employees concerned to settle their\ncash advance;\n-not to sign claims for additional cash advance until the previous cash\nadvance is settled;\n-cause immediate withholding of salaries and claims of officers and\nemployees who failed to settle their cash advances within the prescribe\nperiod after being sent notice and demand letter;\n-furnish all department/ division heads listings of all unliquidated cash\nadvances of employees under their charge to enhance efforts to effect\nliquidation.\n\nFor three to more than 5 years outstanding unliquidated cash advances-\n-exhaust means to cause the effect of collection of the receivables\n-make dialogues with the heirs of deceased accountable officers for possible\nout of court settlements\n-find the accountable officers whose addresses longer speak of their\ncurrent locations by using the social media and/or imposing strategy like\nconnecting with the closest kinship or friends.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to direct the Municipal Accountant to\nappropriately disclose in the financial statements the details of the loan of the\nLGU and in so doing, pertinent documents relative to the loan availed of by\nthe Municipality should be strictly kept in file for future reference.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2019-OBS8",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to require the Municipal Accountant\nto make the necessary disclosure pertaining to the dormant balances of the\naccount Due from NGOs and other LGUs and demand from NGOs and LGUs\nthrough written communications, the immediate liquidation of projects granted\nto them.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2019-OBS9",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to direct the Municipal Accountant\nto request for write-off of the dormant account in accordance with COA\nCircular No. 2016-005 together with an aging of the dormant receivables and\nfund transfers, indicating on the remarks column the above-mentioned\napplicable conditions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2019-OBS10",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to direct Municipal Budget Officer to\nadhere to DBM-DILG JMC 2017-01 and properly classify expenditures under\nsocial and economic development funds in order for funds to be utilized in\naccordance with regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2019-OBS11",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor who is at the same time the HOPE\nof the local government, together with the officials concerned, to be sensitive\nin addressing the needs of constituents. Delivery of socio-economic welfare\nis a top priority concern that should never be discounted of a fact such as\nproclamation of election bans. This political intervention should not deter the\nimplementation of projects addressed to this need.\n\nThe BAC should implement strategic plans in the carrying out of all priority\nprojects because it is their responsibility to attend to the procurement needs\nof the LGU.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2019-OBS12",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to direct the LDRRMO to\nimplement the programs in the LDRRMP and the Local Disaster Risk\nReduction Management Council to monitor the utilization of the LDRRMF in\norder to efficiently manage all types of emergencies and achieve orderly\ntransition from response to sustained recovery.\n\nThe BAC should implement strategic plans in the carrying out of all priority\nprojects because it is their responsibility to attend to the procurement needs\nof the LGU.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2019-OBS13",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor and the local sanggunian to :\n1. craft ordinances and issuing executive orders related to waste\nmanagement and environmental protection;\n2. strengthen the current waste management system of the Municipality,\nincluding, garbage classification, collection, and recycling;\n3. add more waste recycling facilities; and,\n4. focus on the recycling methods of the recyclables.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2019-OBS14",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to require the Municipal Treasurer\nto take action in imposing the updates on the assessment of Local Business\nTax (LBT), Registration and Renewal of Business Permits and Licenses, and\nthe imposition of Local Taxes, Fees and Charges in order to increase the\ncollection of revenues and taxes of the municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2019-OBS15",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to direct the Human Resource\nManagement Officer to adhere to the guidelines set forth in Section 77 of\nR.A. No. 7160.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2019-OBS16",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to direct the GAD FPS to\nadhere to the provisions of JMC Circular Nos. 2013-01 and 2016-01\nin the application of cost attribution of the annual expenditure to the\nannual GADPB, in order to address efficiently and effectively the\nstreamlined gender issues of the locality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2019-OBS17",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to direct the Municipal Accountant\nto make the necessary disclosure on the reclassification made with the debit\nbalances of the account Due to NGA-BIR.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2019-OBS18",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to direct the Municipal Accountant\nmake the necessary disclosure with the dormant balances of the account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2019-OBS19",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to require the Municipal Assessor\nto facilitate the processing of land titles of those lots in various barangays\nwherein structures were build.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2019-OBS20",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to require the Municipal\nAccountant to make an AJE in order to close the CIP account to the\nappropriate asset account upon completion of the project.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2019-OBS21",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to require the Municipal Health\nOfficer to adhere to the provisions of the DOH Administrative Order No.\n2018-001 dated January 28, 2018.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2019-OBS22",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to direct the Municipal Accountant\nto enforce to persons liable stringent measures for the immediate settlement\nof the issued disallowances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2019-PY1",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY13",
+      "year": 2018,
+      "recommendation": "1. Compel the Municipal Accountant to review the details of the Due from NGAs, Due from NGOs/POs and Other Receivable accounts and exert all efforts to locate records to prove the validity of claim from identified recipients of these funds; 2. Direct the Municipal Accountant to comply with the reportorial requirements on funds transferred to local or national government agencies or other debtors in order to avoid accumulation of unliquidated balances of the accounts.",
+      "managementAction": "Not implemented",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Due to non-availability of documents to support claims."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY17",
+      "year": 2018,
+      "recommendation": "that the Local Chief Executive should consider creating an organizing an Internal Audit Services, in compliance with R.A. 4177 and AO for a sound and adequate internal control system in the operations of the municipality.",
+      "managementAction": "Not acted by the management.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No action taken due to lack of fund resources and management."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-OBS1",
+      "year": 2018,
+      "recommendation": "1.6 We recommended that the Municipal Mayor cause the creation of an\nInventory Committee to complete the conduct of physical count of all\nproperties of the Municipality and come up with the RPCPPE.\n1.7 We further recommended that whoever is appointed to perform physical count\nshall undergo a training on Property and Supply Management System (PSMS),\nto gain adequate understanding and working knowledge of the systems,\nprocesses, policies and other regulations pertaining to property and supply\nmanagement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-OBS2",
+      "year": 2018,
+      "recommendation": "2.7 We recommended that the Municipal Mayor direct the Municipal Accountant to\nimmediately prepare Bank Reconciliation Statements on all bank accounts of the\nMunicipality and reconcile balances with the bank.\n2.8 Management is amendable to the above-mentioned recommendation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-OBS3",
+      "year": 2018,
+      "recommendation": "3.5 We recommended that the Municipal Mayor require the Municipal Accountant\nto adopt stern regulations in the pursuit of zeroing-in the due and demandable\ncash advances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-OBS4",
+      "year": 2018,
+      "recommendation": "4.5 We recommended that the Municipal Mayor direct the Bid and Awards\nCommittee to stop splitting in regard to procurement of goods and infrastructures.\nThe Municipal Accountant shall likewise see to it that transactions of these type\nshall not be repeated again. Provisions of Republic Act No. 9184 should be\nadhered to by the BAC.\n4.6 Nevertheless, officials concerned are required to render their explanations why\nthey resorted to splitting.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-OBS5",
+      "year": 2018,
+      "recommendation": "5.5 We recommended that the Municipal Mayor compel the Municipal Accountant to\nstrictly adhere to the practice of checking the completeness of documentations\nbefore claims are to be paid. Said measure must be carried out to avoid\nsuspension or disallowance of transactions during post-audit.\n5.6 Likewise, suppliers of goods must be required to submit required documentations\nas mandated under Section 9.2 of COA Circular No. 2012-001 to ensure that\nprocured items are from legitimate sources.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-OBS6",
+      "year": 2018,
+      "recommendation": "6.5 We recommended that the Municipal Mayor compel the Municipal Accountant to\nstrictly adhere to the practice of checking the completeness of documentations\nbefore claims are to be paid. Said measure must be carried out to avoid\nsuspension or disallowance of transactions during post-audit. Likewise, suppliers\nof goods must be required to submit required documentations as mandated under\nSection 9.2 of COA Circular No. 2012-001 to ensure that procured items are from\nlegitimate sources.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-OBS7",
+      "year": 2018,
+      "recommendation": "7.6 We recommended that the Municipal Mayor require the Municipal Assessor to\nexpedite the processing of documents for the titling of lands owned by the\nMunicipality. We further recommended that before any construction is made, land\nownership thru a certificate of title is obtained.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-OBS8",
+      "year": 2018,
+      "recommendation": "8.10 We recommended that the Municipal Mayor direct the SWM Focal Person to\nconsider the appropriate means of communication depending on the information\nthat it wishes to pass on to the public and its stakeholders. For instance, there\nshould be public notices on television and on the radio about who can access the\ndumpsite, the working hours at the area to limit after-hours access and the\nschedule for collection of wastes from households for different zones. Websites\nhave become increasingly effective and economical in disseminating\ninformation. Therefore, it is important to have a specific link for SWM within\nthe Municipality’s website so that it is easier for the public to have access to\ninformation and policy on solid waste management as well as any issue\nconcerning SWM.\n8.11 To ensure effective implementation of the solid waste management plan, a well-\ndesigned, current and targeted community awareness program is required. The\ntargeted audience should be considered when determining how the information\nshould be given to the public. The urgency of the matter should also be\nconsidered so that everyone is aware as soon as possible.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-OBS9",
+      "year": 2018,
+      "recommendation": "9.4 We recommended that a mechanism to measure the volume of waste and type of\nwaste should be placed at the site, which will provide baseline data to assist in\ndeveloping effective waste minimization strategies and future plans for waste\nmanagement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-OBS10",
+      "year": 2018,
+      "recommendation": "10.3 We recommended that a proper gate at the entrance to the RCA be built so that\nit is easier for the personnel at the RCA to stop vehicles coming to the gate,\ninspect the waste to confirm the type of waste to be disposed then direct the\nvehicle to the designated area depending on the type of waste already inspected.\n10.4 We further recommended that the SWM Focal Person should implement a color\ncoding or appropriate means of identification to ensure that wastes are properly\nsegregated at the RCA.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-OBS11",
+      "year": 2018,
+      "recommendation": "11.4 We recommended that the Municipal Mayor direct the SWM Focal Person to\nmaintain disposal records in the RCA.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-OBS12",
+      "year": 2018,
+      "recommendation": "12.3 We recommended that the landfill be fenced with a secured gate at the\nentrance to minimize illegal visitors or scavengers. This will also help address\nthe occupational health and safety issues by limiting access.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-OBS13",
+      "year": 2018,
+      "recommendation": "13.8 We recommended that the Municipal Mayor require the Human Resource\nManagement Officer to adhere to the provisions set forth in Section 77 of RA\nNo. 7160.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-OBS14",
+      "year": 2018,
+      "recommendation": "14.5 We recommended that personnel assigned to man the VAW Help Desks in the\nbarangays be made to attend trainings to capacitate them to handle cases of\nwomen violations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-OBS15",
+      "year": 2018,
+      "recommendation": "15.6 We recommended that the Municipal Mayor direct the GAD Focal Person to\nestablish a GAD Monitoring and Evaluation System.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-OBS16",
+      "year": 2018,
+      "recommendation": "16.4 We recommended that the Municipal Mayor direct the Municipal Accountant\nto make reconciliation of their records against that of the GSIS. Furthermore,\nthe municipal accountant shall also verify who among the employees is\ndeficient in paying its loan obligations so that an adjustment in his/her\ndeduction shall be made.\n16.5 Management adheres to the recommendation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-OBS17",
+      "year": 2018,
+      "recommendation": "17.6 We recommended that the Municipal Mayor require the Municipal\nAccountant to exert effort in enforcing the immediate settlement of audit\ndisallowances and, ensure that all employees who are retiring or transferring\nto other agencies shall first settle the disallowances and charges for which\nthey are liable in accordance with Section 7 of COA Circular No. 2009-006\ndated September 15, 2009.\n17.7 Management adheres to the recommendation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY1",
+      "year": 2018,
+      "recommendation": "a) Direct the Municipal Accountant to prepare the required BRS; b) Make written representations with the depository banks to ensure prompt submission of the Bank Statements; c) Compel the Municipal Accountant to maintain an updated subsidiary ledger which will show the details or breakdown of the balance of the controlling account appearing in the general ledger.",
+      "managementAction": "Submitted BRSs only the Bank Office.",
+      "status": "UNKNOWN",
+      "reason": "Partially implemented"
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY2",
+      "year": 2018,
+      "recommendation": "that the Local Chief Executive direct the Municipal Accountant-designate to revert back the outstanding checks debited to Cash in Bank and credited to prior year’s adjustment duly supported with necessary required documents.",
+      "managementAction": "Submitted BRSs to the Audit Team.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY3",
+      "year": 2018,
+      "recommendation": "1. Direct the Inventory Committee to: a. Conduct complete physical count of properties; b. Submit to the Auditor the Report on the Physical Count of Property, Plant and Equipment (RCPPE) duly reconciled with the accounting records; c. List all Property, Plant and Equipment found on hand, classifying them into serviceable or unserviceable; d. Maintain updated Property Cards per category on all property, plant and equipment of accounting records; e. Reconcile property records ensuring that the balances shown in the prepared RCPPE agree with the supply records and the book balances in the accounting records, and vice versa; f. Renew and maintain all Acknowledgement Receipt for Equipment (ARE) for the signature of the holder of each item listed in the prepared RCPPE. 2. Direct the Municipal Assessor to produce a listing of all the properties owned by the government and reconcile them with those properties counted by the committee with an explanation for those items that are recorded in the books but could not be physically located. 3. Direct the Municipal Treasurer and the Municipal Accountant to determine the validity of PPE account through reconciliation of the accounting records and the actual inventory. 4. Require the Municipal Accountant to: a. Prepare the Property, Plant and Equipment Ledger Cards (PPELC) for each class of property, plant and equipment listing therein the data as to its acquisition, description, custody, estimated life, rate of depreciation, disposal, and other information about the property, plant and equipment, based on the source documents of the transactions; b. Drop from the books of accounts the unserviceable properties after the Waste Material Report and the Inventory and Inspection Report of Unserviceable Property are duly approved and evaluated by the COA.",
+      "managementAction": "Inventory List already submitted to the Inventory department but remained unreliable after the year-end of 2018.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY4",
+      "year": 2018,
+      "recommendation": "a. Require the Municipal Accountant to send within ten (10) days before the expiration of the prescribed period a written reminder under signature of the LCE or his duly authorized representative, enjoining officials and employees concerned to settle their cash advance; b. Cause the immediate withholding of salaries and claims of officers and employees who failed to settle their cash advances within the prescribed period pursuant to Section 5.1.3. and 5.9 of COA Circular No. 97-002 after being sent notice and demand. The Municipal Accountant is authorized to delete the name of the official and/or employee from the subsequent payroll until such time that the cash advance has been fully liquidated pursuant to COA Circular 96-004.",
+      "managementAction": "The Municipal Accountant sent demand letters to Persons’ liable only in the government service.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipal management will no longer allow the employee if he/she has still outstanding balances through cash or payroll deduction."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY5",
+      "year": 2018,
+      "recommendation": "that the Local Chief Executive direct the Municipal Assessor, Municipal Engineer, Municipal Agricultural Officer and Municipal Health Officer to fast-track the implementation of all the BUB projects.",
+      "managementAction": "management’s projects, some projects are now in the process for implementation and were already realigned as supplemental fund.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "some projects implemented due to the reason that the MDRRO got sick in CY 2018 and she had undergone kidney transplant as revealed by the Municipal Accountant."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY6",
+      "year": 2018,
+      "recommendation": "that the Local Chief Executive direct the Municipal Budget Officer to strictly adhere to Section 287 of RA 7160 and joint Memorandum Circular No. 2017-01 dated February 22, 2017 requiring the LGU to utilize the 20% component of the Internal Revenue Allotment (IRA) for the development social projects and environmental management.",
+      "managementAction": "In 2018, the salaries of the garbage collectors were charged against the MOOE of the 20% DF. But after the exit conference, the said salaries were charged against the General Fund of the Municipal Engineer’s Office.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY7",
+      "year": 2018,
+      "recommendation": "a. Require the Municipal Risk Management Council to maximize the utilization of the MDRRMF in order to achieve the objectives of the fund and ensure readiness of the LGU in time of calamity; b. Compel the Municipal Disaster Risk Reduction Officer to conduct a case study for financial assistance extended to victims of calamity.",
+      "managementAction": "Projects under MDRRMO to maximize the utilization of the Realigned fund.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY8",
+      "year": 2018,
+      "recommendation": "that the Local Chief Executive compel the Municipal Social Work Development Officer to fast tract the implementation of LCPC plans & programs.",
+      "managementAction": "MWDO is implementing the LCPC plans and programs.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "MWDO is now undergoing implementation."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY9",
+      "year": 2018,
+      "recommendation": "that the Local Chief Executive require the Local School Board to strictly observe the provision of DepEd, DBM, DILG Joint Circular No. 1, s. 2017 on Special Education Fund and direct the Municipal Treasurer to submit liquidations of cash advances made out of the SEF regulation.",
+      "managementAction": "After the exit conference in CY 2018, the Local School Board adheres to DepEd, DBM, DILG Joint Circular No. 1 and follow to disburse on expenditures authorized and to be charged against the SEF.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY10",
+      "year": 2018,
+      "recommendation": "that the Local Chief Executive direct: 1. The Human Resource Management Officer to review the duties and functions of the Job Order Workers so as not to duplicate the duties and functions of the regular plantilla employees: 2. The Municipal Budget Officer to adjust the rates of Job Order Workers in compliance to regulations.",
+      "managementAction": "As revealed by the Municipal Accountant, management had already given an increase of salaries to all Job Order employees as stipulated in the DOLE Wage Order.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY11",
+      "year": 2018,
+      "recommendation": "1. Require the Municipal remits the same to GSIS as reflected in bills. 2. Require the Municipal Treasurer that the amount withheld shall be remitted to GSIS in full within 10 days following the end of the month the withholding was made or the withholding was accrued; 3. Require the concerned employee in-charge in the preparation of GSIS remittances and municipal accountant to conduct thorough reconciliation with its records with that of the GSIS and give priority to those affected employees with negative balances for one (1) month to three (3) years, and request from GSIS for refund; 4. Require the Municipal Accountant to prepare a subsidiary ledger for Due to GSIS account.",
+      "managementAction": "The Municipal Accountant instructed the personnel in-charge in the preparation of the remittances to GSIS to strictly adhere to the provisions of RA 8291 so that failures and lapses will be avoided.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipal Treasurer remits the amounts to GSIS but not all discrepancies resolved; Municipal Accountant to prepare subsidiary ledger."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY12",
+      "year": 2018,
+      "recommendation": "that the Municipal Mayor compel the LGU’s Solid Waste Management Board to strictly implement feasible re-use, recycling, and composting programs and other prescribed procedures of RA No. 9003. Also, implement the projects, programs and activities listed in the AIP especially those related to effective solid waste management. We also recommended that the Mayor provide the necessary financial and technical support in enjoining the barangays to establish their own Materials Recovery Facility according to standards and strictly implement waste segregation.",
+      "managementAction": "The Local Government has implemented some projects and activities in some selected barangays; in the town proper some households are connected to the LGU system and the LGU collects garbage only in the town proper facility.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "MRF implemented in some selected barangays only; not in all barangays; more technical and financial support needed."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY14",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive direct the Water System Board to formulate strategies to increase collections and to expand distribution lines and increase targeted households to increase LGU’s income.",
+      "managementAction": "The Local Government already implemented strategies to increase income from the operation of its water system and expansion of water distribution lines to targeted households to increase LGU’s income.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Not all households connected; expansion ongoing."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY15",
+      "year": 2018,
+      "recommendation": "We recommend that the Local Chief Executive remind the concerned officials to refrain from claiming full transportation allowances if they are actually using government vehicle during travel.",
+      "managementAction": "Transportation Allowance are already deducted from department heads if he/she was using government vehicle during travel.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY16",
+      "year": 2018,
+      "recommendation": "that the Local Chief Executive compel the GAD Council to prioritize the implementation of the CBMS for the creation of GAD database to serve as inputs or basis for planning, programming and policy formulation.",
+      "managementAction": "The Municipal GAD Focal Point prepared Local GAD Code.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY18",
+      "year": 2018,
+      "recommendation": "that the Local Chief Executive require the BAC to strictly adhere to Section 37.4.2 of RA 9184, i.e. to post Notices of Awards, Notices to Proceed and Approved Contracts of Agreements for transparency and information in all procurement processes.",
+      "managementAction": "The BAC posted almost all of the Notices of Awards, Notices to Proceed and Approved Contracts of Agreement for transparency and information in all procurement processes.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Internet Connection is not always available; some documents were submitted late."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY19",
+      "year": 2018,
+      "recommendation": "that the Local Chief Executive direct the Municipal Accountant to regularly reconcile the amounts withheld and remitted to Pag-IBIG in order to ascertain the accuracy and reliability of the balances of Due to Pag-IBIG account. A subsidiary ledger must be maintained for each employee’s Pag-IBIG contributions/loan amortizations.",
+      "managementAction": "The Municipal Accountant revealed.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There is a balance from previous years which is still unreconciled due to absence of available documents turned over to the Municipal Accountant."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY20",
+      "year": 2018,
+      "recommendation": "We recommended that the Chief Executive direct the Municipal Agriculturist to submit to the Accounting Section any addition or disposal of the breeding stocks being monitored for recording. Direct also the Municipal Accountant to verify the unreconciled balance of the breeding stocks and make necessary adjustment entries.",
+      "managementAction": "Not implemented by the Inventory Committee of the LGU as revealed by the Municipal Accountant because they prioritized the implementation of some BUB projects during the passed years of 2017 & 2018.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY21",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive enjoin the Sangguniang Bayan through the Committee on the Women and Family to spearhead the formulation of the Local GAD Code and to prepare the GAD Accomplishment Report together with the attachments and submit it to COA in accordance with the provisions set forth under COA Circular No. 2014-0011 dated March 18, 2014 and PCW-DILG-DBM-NEDA Joint memorandum Circular (JMC) No. 2013-01 as well as the formulation of Local GAD Code or Ordinance.",
+      "managementAction": "The Local GAD Code was prepared by the GAD Focal Point of the LGU.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY22",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Accountant to strictly comply with the provision of COA Circular No. 2015-009 dated December 1, 2015; Implement necessary adjustments and reclassify the said disbursements to appropriate accounts.",
+      "managementAction": "There are already ledgers recorded in the PPE Accounts and the Municipal Accountant already recorded all disbursements to other structures on the PPE accounts.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY23",
+      "year": 2018,
+      "recommendation": "that the Local Chief Executive direct the Municipal Accountant to prepare and maintain Subsidiary Ledgers for these liabilities and also to prepare the Schedules that support each liability account.",
+      "managementAction": "There are ledgers for these liabilities but these ledgers are still not yet supported with schedules of each liability account.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY24",
+      "year": 2018,
+      "recommendation": "that the Local Chief Executive direct the Bids and Awards Committee (BAC) to submit perfected contract and purchase orders with its supporting documents to COA within the prescribed period.",
+      "managementAction": "The BAC submitted only some required supporting documents to COA audit team.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Based on the dated received of transmittals, some of the perfected contracts were submitted late."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY25",
+      "year": 2018,
+      "recommendation": "that the Local Chief Executive direct the Accountant to strictly observe the provisions of COA Circular No. 97-002 dated February 10, 1997 and intensify the liquidation of outstanding cash advances by sending demand letters to persons liable.",
+      "managementAction": "The Municipal Accountant sent demand letters but not all responded and some difficulties found in sending those who are no longer in government service.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY26",
+      "year": 2018,
+      "recommendation": "that the LCE exert efforts to facilitate the titling of the lots in the name of the Municipality as ownership over the properties to avoid disallowance thereof. We also recommend that the Municipal Accountant make proper disclosures in the Notes to Financial Statements on the actual status of the land.",
+      "managementAction": "Titling is still in process according to the Municipal Assessor-Designate.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY27",
+      "year": 2018,
+      "recommendation": "that the Local Chief Executive cause the provision of financial and technical assistance to the barangays for the establishment and operations of functional and standard-based MRFs and to implement programs for source reduction, recycling and composting.",
+      "managementAction": "The MENRO-Designate is implementing some MRF projects in some selected barangays only. The LGU prioritized some barangays and MRFs due to limited resources.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2018-PY28",
+      "year": 2018,
+      "recommendation": "that the Local Chief Executive direct the BAC to submit to COA the supporting documents of the 16 contracts and to adhere to the provisions of the Revised IRR of RA 9184 and COA Circular No. 2009-0001 dated February 12, 2009.",
+      "managementAction": "The BAC submitted only few required documents to the Audit Team.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some required documents not submitted due to internet connectivity and late submissions."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-PY16",
+      "year": 2017,
+      "recommendation": "that the Local Chief Executive enjoin the Sangguniang Bayan through the Committee on Women and Family to spearhead the formulation of the Local GAD Code and to facilitate understanding and application of the guidelines. Also recommended that the municipality through its GAD Focal Point System prepare the GAD Accomplishment Report together with its attachments and submit it to COA in accordance with COA Circular No. 2014-001 dated March 18, 2014 and PCW-DILG-DBM-NEDA Joint memorandum Circular (JMC) No. 2013-01.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The management did not prepare the Local GAD code or submit the GAD Accomplishment Report."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive:\na) Direct the Municipal Accountant to immediately prepare the required BRS;\nb) Make written representations with the depository banks to ensure prompt submission\nof the Bank statements;\nc) Compel the Municipal Accountant to maintain an updated subsidiary ledger which will\nshow the details or breakdown of the balance of the controlling account appearing in\nthe general ledger.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal\nAccountant-designate to revert back the outstanding checks ranging from two (2) years\nto five (5) years in the books as debit to cash in bank and credit to prior year’s\nadjustment duly supported with necessary required documents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive:\n1. Direct the Municipal Inventory Committee to:\na. conduct complete physical count of Property, Plant and equipment;\nb. submit to the Auditor the Report on the Physical Count of Property,\nPlant and Equipment (RCPPE) duly reconciled with the accounting\nrecords;\nc. list all property, Plant and Equipment found on hand, classifying them\ninto serviceable or unserviceable;\nd. maintain updated property cards per category on all property, plant and\nEquipment of accounting records;\ne. reconcile property records enduring that the balances shown in the\nprepared RCPPE agree with the supply records and the book balances\nin the accounting records, and vice versa;\nf. renew and maintain all acknowledgement Receipt for Equipment (ARE)\nfor the signature of the holder of each item listed in the prepared\nRCPPE;\ng. prepare the necessary Inventory and Inspection Report of Unserviceable\nProperty and Waste Materials Report for the unserviceable properties\nfound on hand, taking into consideration EO No. 888 March 1983, COA\nMemorandum No. 2005-027.\n2. Direct the Municipal Assessor to produce a listing of all the properties\nowned by the government and reconcile them with those properties counted\nby the committee with an explanation for those items that are recorded un\nthe books but could not be physically located;\n3. Direct the Municipal Treasurer and the Municipal Accountant to determine\nthe validity of PPE account through reconciliation of the accounting records\nand the actual inventory;\n4. Require the Municipal Accountant to:\na. Prepare the Property, Plant and Equipment Ledger Cards (PPELC) for\neach class of property, plant and equipment listing therein the data as to\nits acquisition, description, custody, estimated life, rate of depreciation,\ndisposal, and other information about the property, plant and equipment,\nbased on the source documents of the transactions;\nb. Drop from the books of accounts the unserviceable properties after the\nWaste Material Report and the Inventory and Inspection Report of\nUnserviceable Property are duly approved and evaluated by the COA.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive:\na. Require the Municipal Accountant to send within ten (10) days before the\nexpiration of the prescribed period a written reminder under signature of the LCE or\nhis duly authorized representative enjoining officials and employees concerned to\nsettle their cash advance;\nb. Direct the Municipal Accountant not to sign claims for additional cash advance until the\nprevious cash advance is settled;\nc. Compel the Municipal Accountant to cause the immediate withholding of salaries and\nclaims of officers and employees who failed to settle their cash advances within the\nprescribed period after being sent notice and demand;",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Engineer,\nMunicipal Assessor, Municipal Agricultural Officer and Municipal Health Officer to\nfast-track the implementation of priority programs, projects and activities funded by the\nBUB fund and LGSF to provide constituents of the benefits due them.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Budget\nOfficer to strictly adhere to Section 287 of RA 7160 and Joint Memorandum Circular\nNo. 1 s. 2017 dated February 22, 2017, requiring the LGU to utilize the 20% component\nof the Internal Revenue Allotment (IRA) for development projects that will contribute\nto the attainment of a desirable socio-economic development and environmental\nmanagement outcomes and make sure to utilize the fund for capital expenditures or in\nthe nature of investment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-OBS7",
+      "year": 2017,
+      "recommendation": "We recommended the Local Chief Executive:\na. Require the Municipal Disaster Risk Reduction Management Council to maximize\nthe utilization of the MDRRMF in order to achieve the objectives of the fund and\nwill ensure readiness of the LGU in times of calamity;\nb. Compel the Municipal Disaster Risk Reduction Management Officer to conduct a\ncase study for financial assistance extended to victims of calamity.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-OBS8",
+      "year": 2017,
+      "recommendation": "We recommended the Local Chief Executive compel the Municipal Social\nWork Development Officer to fast track the implementation of LCPC plans &\nprograms.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-OBS9",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive require the Local School\nBoard to strictly observe the provision of DepEd, DBM, DILG Joint Circular No. 1, s.\n2017 on Special Education Fund and direct the Municipal Treasurer to submit\nliquidations of cash advances made out of the SEF.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-OBS10",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive direct:\n1. the Human Resource Management Officer to review the duties and functions of the\nJob Order Workers so as not to duplicate the duties and functions of the regular\nplantilla employees;\n2. the Municipal Budget Officer to adjust the rates of Job Order Workers in\ncompliance to regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-OBS11",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive:\n1. Require the Municipal Accountant to instruct the personnel in-charge in the\npreparation of the remittance of employees and employer due to GSIS to\nadhere strictly to the provisions of RA 8291 so that failures and lapses will be\navoided.\n2. Require the Municipal Treasurer that the amount withheld shall be remitted to GSIS\nin full within 10 days following the end of the month the withholding was made or the\nwithholding was accrued.\n3. Require the concerned employee in-charge in the preparation of GSIS remittances and\nmunicipal accountant to conduct thorough reconciliation with its records with that of\nthe GSIS and give priority to those affected employees with negative balances for one\n(1) month to three (3) years, and request from GSIS for refund.\n4. Require the Municipal Accountant to prepare a subsidiary ledger for Due to GSIS\naccount.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-OBS12",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor compel the Municipal Solid Waste\nManagement Board to strictly implement feasible re-use, recycling, and composting\nprograms and other prescribed procedures of RA No. 9003. Also, implement the\nprojects, programs and activities listed in the AIP especially information dissemination\ncampaign to adopt measures toward effective solid waste management at the barangay\nlevel.\n\nWe also recommended that the Mayor provide the necessary financial and\ntechnical support in enjoining the barangays to establish their own Materials Recovery\nFacility according to standards and strictly implement waste segregation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-OBS13",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive:\n1. Compel the Municipal Accountant to review the details of the Due from\nNGAs, Due from NGOs/POs and Other Receivable accounts and exert all\nefforts to locate records to prove the validity of claim from the identified\nrecipients of these funds.\n2. Direct the Municipal Accountant to comply with the reportorial requirements\non funds transferred to local or national government agencies or and other\ndebtors in order to avoid accumulation of unliquidated balances of the\naccounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-OBS14",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive direct the Water System\nPolicy Board to formulate strategies to increase its income from operation of its water\nsystem.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-OBS15",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive remind concerned officials to\nrefrain from claiming full transportation allowances if they are actually using\ngovernment vehicle. Full adherence to Section 56 of the General Appropriation Act of\n2015 and COA Circular No. 2000-005",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-OBS16",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive compel the GAD Council to\nprioritize the implementation of the CBMS for the creation of GAD database to serve\nas inputs or basis for planning, programming and policy formulation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-OBS17",
+      "year": 2017,
+      "recommendation": "The Local Chief Executive should consider creating and organizing an Internal\nAudit Services, in compliance with R.A. No. 4177 and AO 70 to give assurance for a\nsound and adequate internal control system in the operations of the Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-OBS18",
+      "year": 2017,
+      "recommendation": "We recommended to the Local Chief Executive require the BAC to strictly\nadhere to Section 37.4.2 of RA 9184, i.e. to post in the PHilGEPS Notices of Awards,\nNotice to Proceed, and Approved Contract of Agreement for transparency and\ninformation in all procurement processes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-OBS19",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal\nAccountant to regularly reconcile the amounts withheld and remitted to Pag-IBIG in\norder to ascertain the accuracy and reliability of the balances of Due to Pag-IBIG\naccount in the financial statements. A subsidiary ledger must be maintained for each\nemployee’s Pag-IBIG contributions / loan amortizations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-PY1",
+      "year": 2017,
+      "recommendation": "that the Local Chief Executive direct the Municipal Accountant to strictly comply with the provision of COA Circular No. 2015-009 dated December 1, 2015 and make the necessary adjustment.",
+      "managementAction": "Some disbursements recorded in the PPE disbursements",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipal Accountant still recorded some disbursements to other structures under the Property, Plant and Equipment accounts."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-PY2",
+      "year": 2017,
+      "recommendation": "that the Local Chief Executive direct the Municipal Accountant to make the necessary adjustments and henceforth adhere to the provisions stated in Chapter 17 of the Government Accounting Manual Volume 1.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-PY3",
+      "year": 2017,
+      "recommendation": "that the Local Chief Agriculturist to submit to the Accounting Office any additions or disposal of the breeding stocks being monitored for recording. Direct also, the Municipal Accountant to verify the unreconciled balance of the breeding stocks and make necessary adjusting entries.",
+      "managementAction": "None",
+      "status": "IMPLEMENTED",
+      "reason": "No report received by the Accounting Office regarding any addition or disposal of the breeding stocks"
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-PY4",
+      "year": 2017,
+      "recommendation": "that the Local Chief Accountant prepare and maintain the Subsidiary Ledgers and also to prepare the Schedules that support each liability account.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Subsidiary Ledgers are not yet updated by the Office of the Municipal Accountant."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-PY5",
+      "year": 2017,
+      "recommendation": "that the Local Chief Executive cause the creation of an inventory committee who shall conduct physical count of all its inventories.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-PY6",
+      "year": 2017,
+      "recommendation": "that the Local Chief Executive direct the Bids and Award Committee (BAC) to submit perfected contract and Purchase Orders with its supporting documents to COA within the prescribed period as mandated in COA Circular No. 2009-001 dated February 12, 2009.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Not all perfected contracts and Purchase Orders are submitted to COA."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-PY7",
+      "year": 2017,
+      "recommendation": "that the Local Chief Executive cause the preparation of Memorandum of Agreement with the contracting party to include a provision specifying the duties and responsibilities of the funding agency, the municipality and the third-party beneficiaries. The MOA must also include a work and financial plan that would identify and address all details of the project.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-PY8",
+      "year": 2017,
+      "recommendation": "that the Local Chief Executive intensify their efforts in the liquidation of outstanding cash advances by sending demand letters to persons liable.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Despite the sending of demand letters to persons liable, not all responded positively; and we found difficulty in sending to those who are not anymore."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-PY9",
+      "year": 2017,
+      "recommendation": "that the concerned officials include in the LDRRMF the unutilized portion of the 70% MOOE and 30% QRF of prior years as stated in Section 21 of Republic Act No. 10121 dated May 27, 2010 and COA Circular No. 2012-002 dated September 12, 2012.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-PY10",
+      "year": 2017,
+      "recommendation": "that the LCE exert efforts to facilitate the titling of the lots in the name of the Municipality as proof of ownership of the Municipality. We also recommend that the Municipal Accountant make proper disclosures in the Notes to Financial Statements on the actual status of the land.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipal Assessor-Designate has taken action on the titling of the Municipality."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-PY11",
+      "year": 2017,
+      "recommendation": "that the Local Chief Executive, being the chair of the Local School Board officials strictly observe the provisions of Section 272 of RA 7160 and advise the administrators in their respective locality to revise their School Improvement Plan to include the expenses enumerated under DepEd Order No. 12, s. 2012.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-PY12",
+      "year": 2017,
+      "recommendation": "that the local Chief Executive cause the provision of financial and technical assistance to the barangays for the establishment and operations of functional and standard-based MRFs.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The MENRO had already conducted monitoring on some MRF to cause the provision of financial and technical assistance to the barangays. However, the establishment and operations of functional and standard-based MRFs remain incomplete."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-PY13",
+      "year": 2017,
+      "recommendation": "that the Local Chief Executive cause the provision of financial and technical assistance to the barangays for the establishment and operations of functional and standard-based MRFs and intensify information dissemination programs.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The MENRO had already conducted monitoring on some MRF to cause the barangays to establish functional MRFs."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-PY14",
+      "year": 2017,
+      "recommendation": "that the Local Chief Executive direct the BAC to submit to COA supporting documents of the 16 contracts and to adhere to the provisions of the Revised IRR of RA 9184 and COA Circular No. 2009-0001 dated February 12, 2009.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some projects were submitted but supporting documents required by COA were not all provided."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-PY15",
+      "year": 2017,
+      "recommendation": "that the BAC discontinue the practice of delaying the procurement process and adhere strictly to Annex C of the RIRR which sets the minimum and maximum allowable time to act on various activities from posting/advertisement for issuance of Notice to Proceed.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some procurement activities were acted upon late causing delays in project implementation."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2017-PY17",
+      "year": 2017,
+      "recommendation": "that the LCE direct all concerned officials of the LGU to be vigilant and strictly adhere to the provisions of National Budget Circular No. 446-A dated January 30, 1998 regarding procurement of second hand vehicles so as to avoid wastage of government funds.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Lack of funds; management had already made some repairs to the particular equipment but full compliance with procurement guidance remains outstanding."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive direct the accountant and the Municipal Engineer to:\n\n\n        a. Strictly comply with  the  provision  under  PD  No.  1445;  COA\n           Resolution No. 2014-003 dated January 4, 2014 and  COA  Circular\n           No. 2015-009 dated December 1, 2015;\n\n\n        b. Make the necessary adjustment:\n                      Donations                                 950,000.00\n                                            Other                Structures\n                 950,000.00\n                                   To   adjust   overstatement   of   Other\n              Structure\n\n\n        c. Make sure that all fund transfers be covered by a Memorandum  of\n           Agreement to include a provision that the infrastructure project\n           must be inspected by the Municipal Engineer upon completion.  An\n           Inspection  Report  should  then  be  attached   to   the   fund\n           utilization report.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-OBS2",
+      "year": 2016,
+      "recommendation": "Based on the aforementioned guidelines,  we  recommended  that  the\n   Local Chief  Executive  direct  the  Municipal  Accountant  to  make  the\n   necessary adjustments and henceforth adhere to the provisions  stated  in\n   Chapter 17 of the Government Accounting Manual Volume 1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommended  that the Local Chief Executive direct the Municipal\n   Agriculturist to submit  to  the  Accounting  Section  any  additions  or\n   disposal of the breeding stocks being monitored  for  recording.   Direct\n   also, the Municipal Accountant to verify the unreconciled balance of  the\n   breeding stocks and make necessary adjusting entries. Henceforth,  adhere\n   to the standards, policies, procedures and guidelines on the recognition,\n   measurement, presentation and  disclosure  requirements  of  agricultural\n   activity discussed in Chapter 11  of  the  Government  Accounting  Manual\n   volume I.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive direct the  Municipal\n   Accountant to prepare and maintain the necessary Subsidiary  Ledgers  and\n   also to prepare the schedules that support each liability account and  to\n   adhere to the provisions of P.D. 1445 and Government Accounting Manual.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommended that the Local chief Executive direct the  officials\n   concerned to:\n\n          Cause a  creation  of  inventory  committee  who  shall  conduct\n           physical count of all its inventories.\n           Require  the  preparation  of  Report  on  Physical  Count   of\n           Inventory, a copy of which to be submitted to the auditor within\n           the reglementary period.\n          Reconcile the results of the actual count  with  the  accounting\n           records.\n          Address the lack of manpower of the accounting section  so  that\n           Supplies Ledger Card can be prepared.\n          Refrain  from  assigning  multiple  functions  to  the  Property\n           Custodian so she can focus on her duties and tasks as a Property\n           Custodian  like the preparation of Stock Cards  and  conduct  of\n           physical count of inventories.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive direct the  Bids  and\n   Award Committee (BAC) to submit perfected contract  and  Purchase  Orders\n   (PO) with its supporting documents to COA within the prescribe period  as\n   mandated in COA Circular No. 2009-001 dated February 12, 2009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We recommended that the local Chief Executive direct the  Municipal\n   Accountant to strictly observe the provisions of COA Circular  No.  2012-\n   001 and that all funds received must have a Memorandum of Agreement  with\n   the contracting party to include a provision specifying  the  duties  and\n   responsibilities of the funding agency, the municipality and  the  third-\n   party beneficiaries.  The MOA must also include a work and financial plan\n   that would identify and address all details of the project.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We  recommended  that  the  Local  Chief  Executive    direct   the\n   Accountant to strictly observe the provisions of COA Circular No.  97-002\n   dated February 10, 1997 and intensify their efforts for  the  liquidation\n   of outstanding cash advances by sending demand  letters,  otherwise,  the\n   consequences provided under Circular 2012-004 dated November 28, 2012 may\n   be imposed. For those accountable  officers  who  are  already  deceased,\n   management should exert  effort  for  the  collections/liquidations  from\n   their heirs, else, ask for write off of such  accounts.   For  those  not\n   connected in LGU-Pintuyan anymore and  those  that  have  transferred  to\n   another office, demand letters should be sent or else  seek  other  means\n   for the liquidations and collections of  their  past  due  accounts.  For\n   those negative accounts and telephone charges, the Local Chief  Executive\n   should direct the Accountant to verify  the  said  accounts  and  prepare\n   adjusting entries, if necessary, to correct the affected accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-OBS9",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive direct the  concerned\n   officials to include in the LDRRMFIP the unutilized portion  of  the  70%\n   MOOE and 30% QRF of prior years as stated in Section 21 of  Republic  Act\n   No. 10121 dated  May  27,  2010  and  COA  Circular  No.  2012-002  dated\n   September 12, 2012.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-OBS10",
+      "year": 2016,
+      "recommendation": "We recommended that the LCE exert efforts to facilitate the titling\n   of the lots in the name of the Municipality as proof  of  ownership  over\n   the properties to avoid disallowance thereof.\n\n\n        We also recommended  that  the  Municipal  Accountant  make  proper\n   disclosures in the Notes to Financial Statements on the actual status  of\n   the land.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-OBS11",
+      "year": 2016,
+      "recommendation": "We recommended  that the Local Chief Executive, being the chair  of\n   the Local School Board strictly observe the provisions of Section 272  of\n   RA 7160 and advise the school administrators in their respective locality\n   to  revise  their  School  Improvement  Plan  to  include  the   expenses\n   enumerated under DepEd Order No. 12, s. 2012.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-OBS12",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive cause  the  provision\n   of  financial  and  technical  assistance  to  the  barangays   for   the\n   establishment and operations of functional and standard-based MRFs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-OBS13",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive:\n\n        a. Cause the discontinuance of the  use  of  open  dump  sites  and\n           identification of possible  sanitary  landfill  to  develop  and\n           operate as a final disposal site for solid wastes. This landfill\n           shall  be  designed  and  operated  in   accordance   with   the\n           guidelines/criteria mentioned under RA 9003.\n\n\n        a. Cause the strict implementation of the  policy  on  the  use  of\n           personal protective gear by the garbage collectors.\n\n\n        b. Direct the municipal official concerned to instill awareness  to\n           the public on the No littering and No open burning  policies\n           and   the   conduct    of    information/education/communication\n           activities  pertaining  to  solid  waste  management  among  the\n           constituents  through  several   strategies.   One   recommended\n           strategy is  incorporating  issues  on  solid  waste  management\n           during pre-marriage counseling conducted by the LGU. Another  is\n           the inclusion of the subject during seminars  conducted  by  the\n           Department  of  Health,  Department  of  Agriculture  and  other\n           government line agencies.  Calling  the  attention  of  barangay\n           officials and conducting  dialogues  on  the  issues  concerning\n           solid waste management is also an offered strategy.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-OBS14",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive  direct  the  BAC  to\n   submit to COA supporting documents of the 16 contracts and to adhere  the\n   provisions of the Revised IRR of Republic Act (RA) 9184 and COA  Circular\n   No. COA Circular No. 2009-0001 dated February 12, 2009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-OBS15",
+      "year": 2016,
+      "recommendation": "We recommended that the  BAC  shall  discontinue  the  practice  of\n   delaying the procurement process and adhere strictly to Annex  C  of  the\n   RIRR which sets the minimum and maximum allowable time to act on  various\n   activities from posting /advertisement for issuance of NTP.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-OBS16",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive enjoin the Sanggunian\n   Bayan through the Committee on Women and Family to spearhead the\n   formulation of the Local GAD Code and  to  facilitate  understanding  and\n   application of the guidelines, the municipality may refer to the GAD Code\n   Guidelines of the Philippine Commission of Women (PCW) for a step-by-step\n   tutoring.\n\n\nWe recommended that the municipality through its GAD Focal Point System\n   prepare  the  GAD  Accomplishment  Report  together  with  its  attachments\n   and submit it to COA in accordance with the provisions set  forth  under\n   COA Circular No. 2014-001 dated March 18,  2014  and  PCW-DILG-DBM-NEDA\n   Joint memorandum Circular (JMC) No. 2013-01 as  well  as  the formulation\n   of Local GAD Code or Ordinance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-OBS17",
+      "year": 2016,
+      "recommendation": "We recommended that the LCE must direct all concerned officials  of\n   the LGU to be vigilant and strictly adhere to the provisions of  National\n   Budget Circular No. 446-A dated January 30, 1998 regarding procurement of\n   second hand vehicles so as to avoid wastage of government funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY1",
+      "year": 2016,
+      "recommendation": "We recommended\nthat management\nto instruct the\nMunicipal\nAccountant review\nand investigate\nthe details of\nthe inclusion of\nthe completed\nprojects in the\naccount and\nthereafter effect\nthe adjustment.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Managemen\nt still\non the\nprocess\nof\nverifying\naffected\naccounts."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY2",
+      "year": 2016,
+      "recommendation": "Instruct the\nfocal person of\nGAD to submit to\nNCRFW and DBM the\nrequired reports\nfor their\nevaluation,\nreview and\nassessment.  The\nresults thereof\nshall be the\nbasis of the\nagency and as a\nguide to the\neffective\nimplementation of\nGAD.  Likewise\nour initial\nevaluation shall\nalso be modified\naccordingly.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "No GAD\nAccomplis\nhment\nReport\nwere\nsubmitted"
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY3",
+      "year": 2016,
+      "recommendation": "We recommended\nthat management\nstrictly adhere\nto the required\nproper recording\nand maintenance\nof records\nconcerning\nprocurement as\nwell as\nconsumption of\nsupplies pursuant\nto relevant\nrules.  In\naddition, the\nfollowing courses\nof action\nconcerning\ninventories are\nfurther proposed:\n\nInstruct the\nAccounting Unit\nto record all\nregular purchases\nof supplies and\nmaterials to the\ninventory account\nand issuances\nthereof shall be\nrecorded as they\ntake place based\non the\nRequisition Issue\nSlips and Summary\nof Supplies and\nMaterials issued\nby the Property\nCustodian;\n\nInstruct both\nAccountant and\nProperty\nCustodian to\nmaintain Supplies\nLedger Cards\n(SLC) and Stock\nCards (SC) for\neach type of\ninventory item\nwith balances\nreconciled;\n\nInstruct the\nProperty\nCustodian to\nregularly conduct\nphysical count of\ninventories for\nvalidation of\ntheir existence\nand condition of\nthe asset to\neffect fair\npresentation of\nthe inventory\naccounts in the\nfinancial\nstatements;\n\nInstruct those\nconcerned\npersonnel to\nadhere to the\nprovisions of COA\nCircular 2002-003\ndated June 20,\n2002.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "No\ncomplete\nphysical\ncount\nconducted.\n No\nSupplies\nLedger\nCard\nbeing\nmaintaine\nd."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY4",
+      "year": 2016,
+      "recommendation": "We recommended\nthat management:\n1.Instruct the\nofficial\nconcerned to\nstrictly\nimplement Section\n114  and Section\n124 of the Manual\non the New\nGovernment\nAccounting System\nfor Local\nGovernment Units,\nVolume I;\n\n2.  Create\nProperty\nInventory Team\nwith\nrepresentatives\nfrom the offices\nof the Municipal\nMayor, Municipal\nTreasurer,\nMunicipal\nAssessor, and the\naccountable\nofficer of every\ndepartment of the\nLGU to conduct\ncomplete physical\ncount in\ninventory of all\nproperties owned\nby the\nmunicipality at\nleast once a\nyear;\n\n3.  Direct the\ninventory team to\nprepare inventory\nreport thereof\nusing the\nprescribed form\nof the Report on\nthe Physical\nCount of\nProperty, Plant\nand Equipment\n(RCPPE), properly\naccomplished, and\nfurnish the\nMunicipal\nAccountant a copy\nof the report for\nreconciliation\npurposes, all\nunserviceable\nequipment,\nproperties should\nbe included in\nthe physical\ncount and render\na report thereon\nfor possible\ndisposal and or\ndropping from the\nbooks of account;\n\n4. Direct the\nMunicipal\nAccountant and\nthe General\nServices\nOfficer/Municipal\nTreasurer to\nmaintain updated\nPPE ledger cards\nand Property\nCards for all\nPPEs.  Periodic\nreconciliation of\nthe accounting\nrecords and\ninventory reports\nof PPE should be\nundertaken, and\nif there are\ndiscrepancies\nnoted between the\ntwo records,\neffect\nimmediately the\naffected\naccounts, so that\nnecessary\nadjustments on\nthe correct\nbalances of PPE\naccounts be\nreflected in the\nfinancial\nstatements.\n\nDirect the\nMunicipal\nAccountant to\nmake adjusting\nentries to\ncorrect affected\naccounts.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Physical\nCount\nwere\nconducted\nas of\nyear end\ndid not\nbear\nacquisiti\non cost"
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY5",
+      "year": 2016,
+      "recommendation": "We recommended\nthat Management\nhenceforth, instruct\nthe BAC\nChairman/Secretar\niat to furnish\nCOA with copies\nof the perfected\ncontracts/purchas\ne orders together\nwith complete\nsupporting\ndocuments within\nfive (5) days\nafter approval in\ncompliance with\nCOA Circular Nos.\n87-278 dated\nNovember 12,\n1987; 89-299\ndated March 21,\n1989; 96-010\ndated August 15,\n1996 and 2009-001\ndated February\n12, 2009.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Contracts\nwere not\nsubmitted\nwithin 5\ndays from\nperfectio\nn."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY6",
+      "year": 2016,
+      "recommendation": "We recommended\nthat the Local\nChief Executive\ndirect the Municipal\nAccountant and\nBAC to see to it\nthat all\ninformation\nrequired in the\npurchase order\nare accurately\nstated and\nfilled,\nparticularly, the\ndelivery period\nand the date the\nsupplier receives\nthe purchase\norder and the\napproving\nofficial as\nrequired  by COA\nCircular No.\n96-010 dated\nAugust 15, 1996\nan COA Circular\n2002-003 dated\nJune 20, 2002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY7",
+      "year": 2016,
+      "recommendation": "We recommended\nthat whenever\nmedicines were\nprocured,\nManagement should\nadhere to the\nrelated\nprovisions cited\nin EO no. 49, DOH\nAO no. 163 series\nof 2002 and COA\nCircular No.\n2012-001 dated\nJune 14, 2012 to\nensure that items\nprocured\noriginated from\nlegitimate sources\nand that they are\neffective as well\nas genuine.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "There are\nDisbursem\nent\nvouchers\nthat still\nlacked the\nnecessary\nsupportin\ng"
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY8",
+      "year": 2016,
+      "recommendation": "We recommended\nfor management to\nsubmit lacking\ndocuments\nnecessary for\naudit and to\ninstruct\nconcerned\npersonnel to\nstrictly comply\nwith the required\nreport\npreparations\ninvolving fuel\nconsumptions.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There are\nDisbursem\nent\nvouchers\nthat still\nlacked the\nnecessary\nsupportin\ng"
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY9",
+      "year": 2016,
+      "recommendation": "We recommended\nthat Management\ncreate GAD Focal\nPoint System, get\nhold and adhere to\nthe guidelines laid\nin the\nPCW-NEDA-DBM\nJoint Circular No.\n2012-01 and COA\nCircular No.\n2014-001 dated\nMarch 18, 2014 in\norder to deliver\nGAD related\nactivities to its\nconstituents in an\neffective and\nefficient manner.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "GAD plan\nwas not\nsubmitted\nto DILG for\napproval.\nGAD Focal\nPoint\nSystem was\nnot created."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY10",
+      "year": 2016,
+      "recommendation": "We recommended\nthat whenever\nmedicines were\nprocured,\nManagement should\nadhere to the\nrelated\nprovisions cited\nin EO no. 49, DOH\nAO no. 163 series\nof 2002 and COA\nCircular No.\n2012-001 dated\nJune 14, 2012 to\nensure that items\nprocured\noriginated from\nlegitimate sources\nand that they are\neffective as well\nas genuine. Also, we\nrequire that the\nProperty\nCustodian should\nsubmit to\nAccounting\nMonthly Report of\nMedicines Issued\nas a basis for\ndropping from\ninventory account\nand taking up\nMedicines\nExpenses.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY11",
+      "year": 2016,
+      "recommendation": "We recommended\nthat contracts of\njob order workers\nshould contain\nstatements of\nduties and\nresponsibilities or\nequivalent\nterm to serve as\nstandard with\nwhich to base the\naccomplishment.\nAlso, Payrolls\nfor Job Order\nContracts should\nbe supported with\nContracts/Emergen\ncy Employment,\nDTR,\nAccomplishment\nReport and other\nsupporting\ndocuments deemed\nnecessary in the\npayment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY12",
+      "year": 2016,
+      "recommendation": "We recommend that\nmanagement fully\nadhere with the\nPS limitation\nimposed under\nSection 325a of the\nLocal Government\nCode to avoid\ndisallowances in\nbudget review and\nin audit.\nResults of the\nbudget review by\nthe Provincial\nBudget Office and\nthe Sangguniang\nPanlalawigan\nshould be fully\nconsidered with\nand\nrecommendations be\nimplemented.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY13",
+      "year": 2016,
+      "recommendation": "We recommended\nthat the Local\nChief Executive:\na. Convene the\nSolid Waste\nManagement Board\nin order to\nintegrate the\nvarious solid\nwaste management\nplans and\nstrategies of the\nbarangays in its\narea of\njurisdiction.\nInvite the active\nparticipation of\nthe barangay\nofficials in the\ninformation,\ndissemination to\ntheir\nconstituents on\nthe proper\nsegregation of\nthe reusable or\nrecyclable\nmaterials from the\ncompostable waste\nto support the\nsolid waste\nmanagement\nprogram of the\ngovernment.; and\n\nMaterialize the\nprocurement of\nLot for Municipal\nDump Site as\nstated in the\nMunicipal’s\nAnnual Investment\nProgram in order\nto facilitate\nproper dump site\nof residual\nwaste.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Procureme\nnt of\ndump site\ndid not\nmateriali\nzed."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY14",
+      "year": 2016,
+      "recommendation": "We recommended\nthat Management\nadhere strictly to\nthe requirements\nenumerated in\nItems No. 9.1.3.4\nof COA Circular\nNo. 2002-003\ndated June 20,\n2002 in additions\nto the common\nrequirements of\nsupporting\ndocuments\nessential in\ngovernment\ntransactions in\norder to avoid\ndoubts in the\nvalidity of the\ntransactions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY15",
+      "year": 2016,
+      "recommendation": "We recommended\nthat Management\nand Local School\nBoard should\nrefrain from\ncharging\nnon-related\nexpenses to the\nSEF and\nhenceforth should\nstrictly observe\nthe provisions of\nSection 272 of the\nLGC, Article 363 of\nits Implementing\nRules and\nRegulations and\nItem 4 of Joint\nCircular No. 01, s.\n1998 of the DECS,\nDBM and DILG,\nresulting in the\nutilization of the\nSpecial\nEducation Fund.\nWe recommended\nthat the Municipal\nAccountant should\nexamine the\ncompleteness of\nthe supporting\ndocuments for\nevery\ntransactions of\nthe municipality\nbefore approving\nthe same.  If\nthere are claims\nsubmitted that\nlacked the\nrequired\ndocumentation, it\nshall be returned\nto the claimant\nfor compliance.\nWe also recommend\nthat management\nshould comply\nwith the\nrequirements\nstated in COA\nCircular No.\n2012-001 dated\nJune 14, 2012.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There are\nstill\nminor\ndisbursem\nents that\nwere\ncontrary\nto\nSection\n272 of\nthe LGC,\nArticle\n363 of\nits\nImplement\ning Rules\nand\nRegulatio\nns and\nItem 4 of\nJoint\nCircular\nNo. 01,\ns. 1998\nof the\nDECS,\nDBM and\nDILG,"
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY16",
+      "year": 2016,
+      "recommendation": "We recommended\nthat the agency\nshould create a Gad\nFocal Point\nSystem, (GFPS)\nand ensure active\nparticipation of its\nmember.\nAlso, management\nshould exert effort\nin obtaining a copy\nof the GAD Plan\nreviewed and\napproved by DILG\nand enjoined to\nadhere to the\nprovisions stated\nin PCW-DILG-DBM-\nNEDA Joint\nMemorandum\nCircular (JMC) No.\n2013-01  in order to\ndeliver GAD related\nactivities to its\nconstituents in an\neffective and\nefficient manner\nand address\ngender issues and\npromote women’s\nempowerment and\ngender equality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY17",
+      "year": 2016,
+      "recommendation": "We recommended\nthat the Local\nChief Executive\ndirect the\nMunicipal\nAccountant to:\nRegularly submit\nto COA office the\nReport on the\nSources and\nUtilization of\nDRRMF on or\nbefore the 15th\nday after the end\nof each month;\nMaintained\nSubsidiary\nLedgers for\ntransfers of\nagency’s\nunutilized DRRMF\nto the special\ntrust fund;\nInclude the\nunexpended\nbalance of LDRRMF\nin the Notes to\nthe Financial\nStatements.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Did not\nsubmit to\nCOA\nUtilizati\non Report\non\nprescribe\nd time."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY18",
+      "year": 2016,
+      "recommendation": "We recommended\nthat management\nshould strictly\nadhere to the\nprovisions cited\nin DILG-DBM Joint\nMemorandum\nCircular No.\n2011-1  dated\nApril 13, 2011 and\ncarefully\nformulate budget\nof the 20%\ndevelopment plan\nthat directly\nsupport the\nPhilippine\nDevelopment Plan,\nthe Medium-Term\nPublic Investment\nProgram and the\nAnnual Investment\nProgram of the\ngovernment.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There were\nprojects\nnot\nimplement\ned  in\n2016\nunder the\n20% \nDevelopme\nnt fund."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY19",
+      "year": 2016,
+      "recommendation": "We recommended\nthat the Local\nChief Executive\ndirect the\nAccountant to\nstrictly observe\nthe provisions of\nCOA Circular No.\n97-002 dated\nFebruary 10, 1997\nand intensify their\nefforts for the\nliquidation of\noutstanding cash\nadvances by sending\ndemand letters,\notherwise, the\nconsequences\nprovided under\nCircular 2012-004\ndated November 28,\n2012 may take\neffect. For those\naccountable officers\nwho are already\ndeceased, management\nshould exert more\neffort for the\ncollections/liquida\ntions from their\nheirs, else, ask for\nwrite off of such\naccounts. For those\nnot connected in\nLGU-Pintuyan\nanymore and those\nthat have\ntransferred to\nanother office,\nsend demand\nletters or else seek\nother means for the\nliquidations and\ncollections of their\npast due accounts.\nFor those negative\naccounts and\ntelephone charges,\nthe Local Chief\nExecutive direct the\nAccountant to\nverify the said\naccounts and\nprepare adjusting\nentries if\nnecessary to\ncorrect the\naffected accounts.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Cash\nadvance\nwas still\ngranted\nby\nmanagemen\nt even\nthough\nprevious\ncash\nadvance\nwas not\nyet\nliquidate\nd."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY20",
+      "year": 2016,
+      "recommendation": "We recommended\nthat the Local\nChief Executive\ndirect the Municipal\nAccountant to\nsubmit lacking\ndocuments and to\nstrictly adhere to\nthe COA Circular\nNo. 2012-001 dated\nJune 14, 2012 and\nPD 1445.  We also\nadvise management\nto evaluate the\ncontractor’s\ncapacity to finish\nthe construction on\nthe targeted date\nof completion to\navoid liquidated\ndamages.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There are\nstill\ndocuments\nnot\nsubmitted\nto COA"
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY21",
+      "year": 2016,
+      "recommendation": "We recommended\nthat\ninfrastructure\ncontracts be\nreviewed and\nrevised to include\nthe required\nprovision so that\nsubsequent\ncontracts would\ncomply with the\nrelevant\nrequirements of\nthe IRR of RA\n9184 and the\nrelated laws.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Documents\naddends to\nthe contract\nagreements\nare now\nbeing\nprepared\nby BAC\nSecretari\nat"
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY22",
+      "year": 2016,
+      "recommendation": "We recommend that\nthe Local Chief\nExecutive direct the\nMunicipal Treasurer\nto reissue Demand\nLetters to person\nconcerned for the\nsettlement of\ndelinquent taxes\nand if demand\nletters are\nunheeded, direct\nthe Municipal\nTreasurer to\nelevate the matter\nto the Provincial\nGovernor for the\nof the following\nprovisions of the\nLocal Government\nCode of 1991 to\nensure the\ncollection of\ndelinquent real\nproperty taxes.\n\nPublication of\nnotices of\ndelinquency\nLevy on real\nproperty\nSale of Property\nCollection\nthrough courts\n\nWe also\nrecommended that\nthe Local Chief\nExecutive direct\nalso the\nMunicipal\nAccountant to\nprepare and\nmaintain\nSubsidiary Ledger\nfor RPT and SET\nreceivables.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The\nMunicipal\ntreasurer\nstill on\nthe\nprocess of\ncollectio\nn of\ndelinquen\nt accounts."
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY23",
+      "year": 2016,
+      "recommendation": "We recommended\nthat the Local\nChief Executive\ndirect the Municipal\nTreasurer to\nreconcile the\ncashbook balance\nwith the\naccounting\nrecords every end\nof the month. \nTake up\nimmediately the\nnecessary\ncorrections in\nthe books to\nreconcile both the\ncashbook and the\nledger.  We also\nrecommend that the\nLCE also direct the\nMunicipal\nAccountant to\nmake an effort to\nprepare and\nsubmit monthly\nBank\nReconciliation to\nCOA for\nverification. \nAlso, the\nAccountant to\nverify the\ndormant accounts\nand if possible\ninitiate closure\nand transfer of\nfunds so that it\ncan be used by the\nmunicipality to\nfinance projects or\naugment funds for\nmaintenance and\nother operating\nexpenses.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY24",
+      "year": 2016,
+      "recommendation": "We recommended\nthat the Local\nChief Executive\ndirect the\nAccountant to\nrequire the\nconcerned schools\nto submit the\nFund Utilization\nReport and the\nauthorized\nOfficial Receipts\n(AF51) as\nrequired in\nSection 68 of\nPresidential\nDecree No. 1445.\nAlso, require the\nMunicipal\nAccountant to\nobserve proper\naccount\nclassification.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY25",
+      "year": 2016,
+      "recommendation": "We reiterated our\nrecommendations\nthat management\nstrictly adhere to\nthe required\nproper recording\nand maintenance\nof records\nconcerning\nprocurement as\nwell as\nconsumption of\nsupplies pursuant\nto relevant\nrules.  In\naddition, the\nfollowing courses\nof action\nconcerning\ninventories are\nfurther proposed:\n\nInstruct the\nAccounting Unit to\nrecord all regular\npurchases of\nsupplies and\nmaterials to the\ninventory account\nand issuances\nthereof shall be\nrecorded as they\ntake place based\non the\nRequisition Issue\nSlips and Summary\nof Supplies and\nMaterials issued\nby the Property\nCustodian;\n\nInstruct both\nAccountant and\nProperty\nCustodian to\nmaintain Supplies\nLedger Cards\n(SLC) and Stock\nCards (SC) for\neach type of\ninventory item\nwith balances\nreconciled;\n\nInstruct the\nProperty\nCustodian to\nregularly conduct\nphysical count of\ninventories for\nvalidation of\ntheir existence\nand condition of\nthe asset to\neffect fair\npresentation of\nthe inventory\naccounts in the\nfinancial\nstatements.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The\nMunicipal\nAccountant,\ntogether\nwith the\nProperty\nCustodian\n-Designat\ne exerted\nefforts to\ncomply\nwith the\nnecessary\nrequireme\nnts, docu\nments and\nother\nrecords\npertainin\ng to\nprocureme\nnt"
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY26",
+      "year": 2016,
+      "recommendation": "We recommended\nthat management\nshould refrain from\ncharging\nexpenditures that\ndo not partake the\nnature of\ninvestment or\ncapital to the 20%\ndevelopment fund\npursuant to the\nDILG-DBM Joint\nMemorandum\nCircular No. 2011-1\ndated April 13,\n2011.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY27",
+      "year": 2016,
+      "recommendation": "We recommended\nthat Management\nhenceforth, instruct\nthe BAC\nChairman/Secretar\niat to furnish\nCOA with copies\nof the perfected\ncontracts/purchas\ne orders together\nwith complete\nsupporting\ndocuments within\nfive (5) days\nafter approval in\ncompliance with\nCOA Circular Nos.\n87-278 dated\nNovember 12,\n1987; 89-299\ndated March 21,\n1989; 96-010\ndated August 15,\n1996 and 2009-001\ndated February\n12, 2009.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some\ncontracts\nwere\nsubmitted\non time\nwhile\nothers\nwere not;\nhopefully,\nthat we\nhave a\nnew BAC\nSecretari\nat that\ncould\nattend to\nthe needs\nof the\nBody and\nthe\nAccountin\ng Office\nand the\nCOA as\nwell, we\ncan\nsubmit\nContracts\non time"
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY28",
+      "year": 2016,
+      "recommendation": "We recommended\nthat the\nmanagement\nrefrain from\ngranting full\nTransportation\nAllowances to LGU\nofficials who are\nissued or\nactually using\ngovernment\nvehicle. Full\nadherence to\nSection 56 of the\nGeneral\nAppropriations Act\nof 2015, Section\nVI of COA Circular\nNo. 75-6 and Local\nBudget Circular No.\n103 is required.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY29",
+      "year": 2016,
+      "recommendation": "We recommended\nthat the\nMunicipal\nTreasurer and the\nMunicipal\nAccountant\nimmediately\nsubmit the\ncorresponding\ndisbursement\nvouchers together\nwith the related\nsupporting\ndocuments\npertaining to the\ntwenty four (24)\nchecks totaling\nP2,057,588.62.\nHenceforth, they\nmust see to it\nthat the reports\nsubmitted are\ncomplete and\nintact.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pintuyan_SoLeyte-2016-PY30",
+      "year": 2016,
+      "recommendation": "We recommended\nthat the\nMunicipal\nAccountant should\nexamine the\ncompleteness of\nthe supporting\ndocuments for\nevery\ntransactions of\nthe municipality\nbefore approving\nthe same.  If\nthere are claims\nsubmitted that\nlacked the\nrequired\ndocumentation, it\nshall be returned\nto the claimant\nfor compliance.\nWe also recommend\nthat management\nshould comply\nwith the\nrequirements\nstated in COA\nCircular No.\n2012-001 dated\nJune 14, 2012.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    }
+  ]
+}

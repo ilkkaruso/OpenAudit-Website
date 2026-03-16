@@ -1,0 +1,774 @@
+{
+  "lguCode": "405610000",
+  "lguName": "Catanauan",
+  "province": "Quezon",
+  "region": "Region III (Central Luzon)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "Catanauan_Quezon_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor create an Inventory Committee to\nconduct physical count of PPE taking into consideration the guidelines prescribed in\nCOA Circular no. 2020-006, for the one-time cleansing of PPE account balances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to\nsubmit relevant supporting documents for the request for write-off required under\nCOA Circular No. 2016-005 for evaluation of the Audit Team.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to verify\nwith the Provincial Accountant the discrepancies of P923,348.13 and P13,384.60\nbetween the recorded balances of the reciprocal accounts reflected in the books of\nthe Province and adjust the same to present the correct balances of the said\naccounts in the Municipality’s financial statement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Municipal\nAccountant to revert the amount to the Unappropriated Surplus of the GF, subject to\nan authority from the Sangguniang Bayan through a Resolution with the condition\nthat appropriation should be made in the event that a claim arises in the future\npursuant to the provisions of Section 98 of PD No. 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to submit the lacking documents.",
+      "managementAction": "Submitted the documents.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the: a. Municipal Assessor to expedite the cleansing of property records to have a reliable Real Property Tax Assessment Roll and consequently, a reliable RPT and SET Receivables accounts; b. Municipal Assessor to expedite the revision of the Assessment Rolls and submit to the Municipal Administration and Treasurer the report pertaining for CY 2020; c. Municipal Accountant to record the receivables for those accounts once the verified report is received from the Municipal Treasurer; and d. Municipal Accountant to make the necessary adjustments to reflect the correct balance of these receivable accounts.",
+      "managementAction": "Municipal Assessor expedited the cleansing of property records to have a reliable Real Property Tax Assessment Roll and consequently, a reliable RPT and SET Receivables accounts; Municipal Assessor revised the Assessment Rolls and submit to the Municipal Administration and Treasurer the report pertaining for CY 2020; Municipal Accountant made a partial adjustment for those accounts that were already verified; Partial adjustment was made.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Cleansing of property records was still not complete."
+    },
+    {
+      "id": "Catanauan_Quezon_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the: a. Inventory Committee to complete the physical inventory of all property of the Municipality and prepare and submit immediately the pertinent inventory reports; b. Municipal General Services Office (MGSO) and Municipal Accountant to reconcile their records; c. MGSO to prepare and update PAR and renew it every three years; and d. MGSO to submit the Inventory and IIRUP, and Inspection Report of Unserviceable Property (IIRUP) and its supporting documents to the Audit Team for unserviceable PPE and constantly monitor the status of physical inventory taking to ensure its completion and submission of complete RPCPPE.",
+      "managementAction": "Inventory Committee conducted partial physical count and still on-going. Some accounts were reconciled. PAR is being issued but not all are covered. IIRUP is being prepared and disposal is not yet conducted. Submitted the Inventory and IIRUP, and Inspection Report of Unserviceable Property (IIRUP).",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partial physical count conducted and still on-going; discrepancy with the recorded PPE and RPCPPE; no property cards maintained by the MGSO; updating of PAR is still on-going; disposal not yet fully conducted."
+    },
+    {
+      "id": "Catanauan_Quezon_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the: a. Appraisal Committee/Team to properly appraise the donated land as to their fair values at the time of acquisition and apply the same to the purchased land if the acquisition costs cannot be determined; b. Municipal Accountant to record the land once the fair value are established and copy of titles are received; c. Municipal Assessor to submit the Schedule of Land to the Audit Team for verification and in compliance with Section 111 of PD No. 1445; and d. Municipal Assessor to ensure that all land owned by the Municipality are declared in the name of the Municipality.",
+      "managementAction": "Reorganized the Appraisal Committee. Appraisal is on-going. Submitted the Schedule of Land. Municipal Assessor revised the Assessment Rolls and declared parcels with copy of title where available. Some parcels are still untitled. Secured five copy of titles from the Registry of Deeds and four parcels are already titled in the name of the Municipality.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Appraisal of the fair value of the land was not made for all parcels; various parcels are still untitled."
+    },
+    {
+      "id": "Catanauan_Quezon_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to revert the amount to the Unappropriated Surplus of the GF, subject to an authority from the Sangguniang Bayan through a Resolution with the condition that appropriation should be made in the event that a claim arises in the future pursuant to the provisions of Section 98 of PD No. 1445.",
+      "managementAction": "A total of P279,692.47 guaranty deposits were refunded to its respective suppliers. The Municipal Mayor and Municipal Accountant commented that a request will be submitted to the Sangguniang Bayan (SB) to pass a resolution for the reversion of the amount totaling P690,068.68.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The remaining amount (CY 2018 and below) and the CY 2019 balances amounting to P679,795.38 and P37,529.75, respectively or with a total amount of P717,325.13 was still not reverted to the Unappropriated Surplus to the GF as of year-end."
+    },
+    {
+      "id": "Catanauan_Quezon_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Human Resource Management Officer to send a final written notice to the heirs and former employee to settle the amount; and in case of non-settlement of the amount, file appropriate charges against the concerned persons, otherwise require the Municipal officials who authorized the use of Municipal funds for payment of personal loans of employees to settle/refund the same.",
+      "managementAction": "Sent the final Demand Letter. For collection. The retired employee promised to pay in installment.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the MGSO to see to it that all the Government properties of the Municipality are covered with insurance with the GSIS in compliance with the provisions of COA Circular No. 92-390 and RA No. 656.",
+      "managementAction": "Various buildings and motor vehicles are now insured with Government Service Insurance System (GSIS).",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the MGSO to: a. submit to the Audit Team the IIRUP for those disposed through sale and destroyed with corresponding appraisal value and duly certified by the concerned officials; b. list of transferred property with corresponding Invoice and Receipt of Property; c. photos of valueless property before and during condemnation either by burning, pounding and the likes; d. documents on the public auction conducted; and e. other documents that will substantiate the regularity of such disposal; organize the PAR in accordance with the sequence of PPE in IIRUP to facilitate verification; and ensure that the complete details of the PPE are indicated in all PAR. Henceforth, ensure that the disposal of the Municipality’s PPE is in accordance with Section 79 of PD No. 1445 and COA Circular No. 89-296.",
+      "managementAction": "Submitted IIRUP. Disposal through sale and destroyed is being processed. PAR is being organized. Photos and other supporting documents are being prepared.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor instruct the MGSO to: a. expedite the registration of the motor vehicles with the LTO in compliance with Section 5 of RA No. 4136; and b. ensure that the recorded information such as acquisition date and cost of the motor vehicle is complete in the preparation of the report, in compliance with Section 111 (1) of PD No. 1445.",
+      "managementAction": "Vehicles are now registered with LTO. Submitted the report with complete details.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the MGSO to prepare and submit the consolidated PIF to the GSIS and to the Audit Team on or before April 30 of each year in compliance with COA Circular No. 2018-002.",
+      "managementAction": "Submitted the PIF for the year.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Planning and Development Coordinator and/or the Municipal Engineer to submit to this Office the list of all on-going government projects/programs/activities (PPAs) and those that are to be implemented for the year together with the monthly monitoring report on implementation of PPAs.",
+      "managementAction": "The list of all on-going government projects/programs/activities (PPAs) and those that are to be implemented for the year were submitted.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Planning and Development Coordinator and the Municipal Engineer to ensure the immediate implementation of development projects so that the intended beneficiaries could avail of the maximum benefits that can be derived therefrom.",
+      "managementAction": "All of the projects funded under the current and continuing appropriations were implemented this CY 2021.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Disaster Risk Reduction and Management Officer to submit to the Audit Team the Monthly Report on the Sources and Utilization of DRRMF on or before the 15th day after the end of each month.",
+      "managementAction": "Submitted the lacking documents and ensure that the documents for procurements through negotiated procurement (emergency cases) are complete before payments are made in accordance with the provisions of GPPB Circular No. 2020-01 and Section 4(6) of PD No. 1445. Monthly report for the sources and utilization for CY 2021 were partially submitted. The MDRMO promised to submit the report regularly in CY 2022.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Monthly report for CY 2021 was partially submitted; MDRMO promised to submit the report regularly in CY 2022."
+    },
+    {
+      "id": "Catanauan_Quezon_aar2021-PY14",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the MENRO to: a. coordinate with the NSWMC regarding the status of review on the Municipality’s 10-Year SWMP in order to know the next steps to be undertaken that will facilitate approval of the said Plan; and b. provide assistance for the establishment of MRF in two barangays to ensure protection of public health and environment. We also recommended that the Municipal Mayor require the Municipal Solid Waste Management Board to ensure that all MRFs are functional, and is being monitored/maintained.",
+      "managementAction": "The 10-year SWMP is still in process. Barangay 10 has a new MRF. Barangay San Antonio Pala still has no MRF, only construction. MRFs are now functional. The Municipality’s 10-year SWMP is already for approval.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The 10-year SWMP is still in process; some barangays still lack functional MRFs though progress made; one barangay's MRF construction ongoing."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Catanauan_Quezon-2020-PY10",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor direct the MGSO to prepare and submit the consolidated PIF to the GSIS and to the Audit Team on or before April 30 of each year in compliance with COA Circular No. 2018-002.",
+      "managementAction": "The Municipal Mayor informed the Audit Team, that he instructed the MGSO to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Consolidated PIF was not submitted to the GSIS and to the Audit Team."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Catanauan_Quezon-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to\nsubmit the lacking documents and ensure that the required documents for\nprocurements through negotiated procurement (emergency cases) are complete\nbefore payments are made in accordance with the provisions of the GPPB Circular\nNo. 2020-01 and Section 4(6) of PD No. 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Catanauan_Quezon-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the:\na. Municipal Assessor to expedite the immediate cleansing of property tax records\nto have a reliable Real Property Tax Assessment Roll and consequently, a reliable\nRPT and SET Receivables accounts;\nb. Municipal Assessor to expedite the revision of the Assessment Rolls and submit to\nthe Municipal Treasurer the report pertaining for CY 2020;\nc. Municipal Accountant to record the receivables for CY 2020 once the report is\nreceived from the Municipal Treasurer; and\nd. Municipal Accountant to make the necessary adjustments to reflect the correct\nbalance of these receivable accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Catanauan_Quezon-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the:\n Inventory Committee to complete the physical inventory of all property of the\nMunicipality and prepare and submit immediately the pertinent inventory reports;\n MGSO and Municipal Accountant to reconcile their records;\n Municipal General Services Officer (MGSO) to prepare and maintain complete\nand updated property cards and a complete copy of PAR and renew it every\nthree years; and\n MGSO to submit the IIRUP and its supporting documents to the Audit Team for\nunserviceable PPE and constantly monitor the status of physical inventory\ntaking to ensure its completion and submission of complete RPCPPE.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Catanauan_Quezon-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the:\n Appraisal Committee/Team to properly appraise the donated land as to their fair\nvalues at the time of acquisition and apply the same to the purchased land if the\nacquisition costs cannot be determined reliably;\n Municipal Accountant to record the land once the fair value are established and\ncopy of titles are received;\n Municipal Assessor to submit the Schedule of Land to the Audit Team for\nverification and in compliance with Section 111 of PD No. 1445; and\n Municipal Assessor to ensure that all land owned by the Municipality are declared\nin the name of the Municipality.\nWe also reiterated our recommendation that the Municipal Mayor instruct the MGSO\nto request from the RD regarding the owner’s copy of title for the six parcels of land\nand expedite the titling of eight parcels of land owned by the Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Catanauan_Quezon-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to\nrevert the amount to the Unappropriated Surplus of the GF, subject to an authority\nfrom the Sangguniang Bayan through a Resolution with the condition that\nappropriation shall be made in the event that claim arises in the future pursuant to the\nprovisions of Section 98 of PD No. 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Catanauan_Quezon-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor:\n require the Municipal Human Resource Management Officer to send a final written\nnotice to the heirs and former employee to settle the amount; and\n in case of non-settlement of the amount, file appropriate charges against the\nconcerned persons, otherwise require the Municipal officials who authorized the\nuse of Municipal funds for payment of personal loans of employees to settle/refund\nthe same.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Catanauan_Quezon-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the MGSO to\nsee to it that all the insurable properties of the Municipality are covered with\ninsurance with the GSIS in compliance with the provisions of COA Circular No. 92-390\nand RA No. 656.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Catanauan_Quezon-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the MGSO to:\na. submit to the Audit Team the following:\n IIRUP for those disposed through sale and destroyed with corresponding\nappraisal value and duly certified by the concerned officials;\n list of transferred property with corresponding Invoice and Receipt of Property;\n photos of valueless property before and during condemnation either by burning,\npounding and the likes;\n documents on the public auction conducted; and\n other documents that will substantiate the regularity of such disposal.\nb. organize the Property Acknowledgement receipt (PAR) in accordance with the\nsequence of PPE in IIRUP to facilitate verification; and\nc. ensure that the complete details of the PPE are indicated in all PAR.\nHenceforth, ensure that the disposal of the Municipality’s PPE is in accordance with\nSection 79 of PD No. 1445 and COA Circular No. 89-296.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Catanauan_Quezon-2020-OBS9",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the MGSO to:\n expedite the registration of the motor vehicles with the LTO in compliance with\nSection 5 of RA No. 4136; and\n ensure that the information such as acquisition date and cost of the motor vehicle\nis complete in the preparation of the report, in compliance with Section 111 (1) of\nPD No. 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Catanauan_Quezon-2020-OBS10",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor direct the MGSO to\nprepare and submit the consolidated PIF to the GSIS and to the Audit Team on or\nbefore April 30 of each year in compliance with COA Circular No. 2018-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Catanauan_Quezon-2020-OBS11",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Planning and\nDevelopment Coordinator and/or the Municipal Engineer to submit to this Office the\nlist of all on-going government projects/programs/activities (PPAs) and those that are\nto be implemented for the year together with the monthly monitoring report on\nimplementation of PPAs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Catanauan_Quezon-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the:\na. Municipal Treasurer (MT) to prepare a list of its individual taxpayers with delinquencies for CY 2001 and below and another list for CYs 2002 to 2019 as of December 31, 2019 and furnish it to the Municipal Accountant;\nb. Municipal Accountant to facilitate the adjustment of RPT/SET Receivables once the list is received from the MT;\nc. Municipal Accountant to ensure that all collections are properly recorded;\nd. Municipal Assessor to facilitate the immediate cleansing of property tax records to have a reliable Real Property Tax Assessment Roll and thereafter, a reliable RPT and SET Receivables accounts; and\ne. MT to continue the enforcement of the remedies as provided in RA No. 7160.",
+      "managementAction": "a. Municipal Treasurer Prepared and furnished the required report to the Municipal Accountant.\nb. Municipal Accountant to record the receivables once received from the MT to reflect the correct balance of these receivable accounts.\nc. Municipal Accountant to ensure that all collections are properly recorded.\nd. Municipal Assessor to facilitate the immediate cleansing of property tax records to have a reliable Real Property Tax Assessment Roll and thereafter, a reliable RPT and SET Receivables accounts.\ne. MT to continue the enforcement of the remedies as provided in RA No. 7160.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Catanauan_Quezon-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the:\n Inventory Committee to complete the physical inventory of all property of the Municipality and prepare and submit immediately the pertinent inventory reports;\n MGSO and Municipal Accountant to reconcile their records;\n Municipal General Services Officer (MGSO) to prepare and maintain complete and updated property cards, PAR and renew the same every three years; and\n MGSO to submit the Inventory and Inspection Report for Unserviceable Property (IIRUP) and its supporting documents to the Audit Team and constantly monitor the status of physical inventory taking to ensure its completion and submission of complete RPCPPE.",
+      "managementAction": "The Municipal Mayor explained to the Audit Team that the Inventory Committee, headed by the MGSO, is in the process of completing the physical inventory of all property of the Municipality. He stated that the RPCPPE was submitted to the Audit Team on June 4, 2021. He further mentioned that all other pertinent reports will be submitted to the Audit Team once completed.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Completion of inventory was not made due to the large volume of PPE in every department."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Catanauan_Quezon-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the:\n Appraisal Committee/Team to properly appraise the donated land as to their fair values at the time of acquisition and apply the same to the purchased land if the acquisition costs cannot be determined reliably;\n Municipal Accountant to record the land once the fair value are established and copy of titles are received;\n Municipal Assessor to submit the Schedule of Land to the Audit Team for verification and in compliance with Section 111 of PD No. 1445; and\n Municipal Assessor to ensure that all land owned by the Municipality are declared in the name of the Municipality.\nWe also recommended that the Municipal Mayor instruct the MGSO to request from the RD regarding the owner’s copy of title for the six parcels of land and expedite the titling of eight parcels of land owned by the Municipality.",
+      "managementAction": "The Municipal Mayor instructed the concerned Municipal Officials to undertake the necessary measures to establish the ownership of lots. The Municipal Treasurer and the Municipal Assessor were also directed to exert effort to locate and secure the documents to support and establish the ownership of lots owned by Municipality.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Appraisal was not yet made due to pandemic; various donated parcels of land still not appraised; copy of title not yet secured from RD due to current situation; absence of fair values. Non-recording was not made due to absence of fair values."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Catanauan_Quezon-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to:\na. confirm with the contractor and to request him to submit documents pertaining to his claims, otherwise revert the account to the Unappropriated Surplus of the GF, subject to an authority from the Sangguniang Bayan through a Resolution with the condition that appropriation shall be made in the event that claim arises in the future pursuant to the provisions of Section 98 of PD No. 1445; and\nb. trace down the accounts named as “collection” and provide for “collection” subsidiary ledgers for each supplier tracked down for easy facilitation and monitoring of each account.",
+      "managementAction": "The Municipal Mayor stated that he instructed the Municipal Accountant to send notices to the concerned contractors informing them to communicate with the Municipality regarding their unclaimed/unrefunded retention money relative to their previous transactions with the Municipality. For the retention money of non- responsive suppliers, the amount will be reverted to Unappropriated Surplus of the GF. Copies of notices sent to the four suppliers on June 21, 2021 issued by the Municipal Accountant were submitted to the Audit Team.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There were amounts outstanding since CY 2011 and some have no information, hence suggested that those should have been reverted to the Unappropriated Surplus of the GF."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Catanauan_Quezon-2020-PY5",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor:\n require the Municipal Human Resource Management Officer to send a final written notice to the heirs and former employee to settle the amount; and\n in case of non-settlement of the amount, file appropriate charges against the concerned persons, otherwise require the Municipal officials who authorized the use of Municipal funds for payment of personal loans of employees to settle/refund the same.\nWe further recommended that the Municipal Mayor require the Municipal Accountant to make an adjustment of the books by debiting the Other Receivables account and crediting the Due to Officers and Employees account both by P78,838.69, for proper presentation of accounts in the financial statements.",
+      "managementAction": "The Municipal Mayor stated that instructions were given to the HRMO to adhere with the audit recommendations.\nThe HRMO furnished the Audit Team a copy of final written notice sent and received by Ms. Rosalina B. Bragais on May 26, 2016. The same notice was also sent to the heir of Ms. Melchie L. Ebitner through registered mail.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Receivables were still not collected; continuous sending of demand letters suggested; otherwise filing of appropriate charges emphasized."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Catanauan_Quezon-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor and the Municipal Treasurer see to it that all the insurable properties of the Municipality are covered with insurance with the GSIS in compliance with the provisions of COA Circular No. 92-390 and RA No. 656.",
+      "managementAction": "The Municipal Mayor informed the Audit Team that he instructed the concerned Municipal Officials to ensure that the properties of the Municipality are covered with insurance with the GSIS. He also stated that the MGSO is in the process of complying/collecting the documents needed to insure the properties. Various building plans/drawings were attached to the SAOR as proof of compliance by the MGSO.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Various building plans/drawings attached; properties still not fully insured due to various reasons."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Catanauan_Quezon-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the:\na. Municipal Accountant in coordination with the BAC Chairman to submit the lacking supporting documents to the Audit Team for further evaluation of the paid procurement transactions;\nb. BAC Chairman to ensure that the Notice of Award (NOA) and Notice to Proceed (NTP) are duly received by the Contractor;\nc. BAC Chairman to ensure strict compliance with the documentary requirements to substantiate the correct procurement activities of the Municipality; and\nd. Municipal Accountant to ensure that the Disbursement Voucher is supported with proper and complete documents before processing its payment.",
+      "managementAction": "a. Municipal Accountant in coordination with the BAC Chairman to submit the lacking supporting documents to the Audit Team for further evaluation of the paid procurement transactions;\nb. BAC Chairman to ensure that the NOA and NTP are duly received by the Contractor;\nc. BAC Chairman to ensure strict compliance with the documentary requirements to substantiate the correct procurement activities of the Municipality; and\nd. Municipal Accountant to ensure that the DV is supported with proper and complete documents before processing its payment.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some supporting documents for post-audited DVs procured through negotiated procurement are missing."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Catanauan_Quezon-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the MGSO to:\na. submit to the Audit Team the following:\n IIRUP for those disposed through sale and destroyed with corresponding appraisal value and duly certified by the concerned officials;\n list of transferred property with corresponding Invoice and Receipt of Property;\n photos of valueless property before and during condemnation either by burning, pounding and the likes;\n documents on the public auction conducted; and\n other documents that will substantiate the regularity of such disposal.\nb. organize the PAR in accordance with the sequence of PPE in IIRUP to facilitate verification; and\nc. ensure that the complete details of the PPE are indicated in all PAR.\nHenceforth, ensure that the disposal of the Municipality’s PPE is in accordance with Section 79 of PD No. 1445 and COA Circular No. 89-296.",
+      "managementAction": "The Municipal Mayor commented that the Municipality exerted utmost efforts to ensure that the disposal process of the fully depreciated and unserviceable properties was in accordance with Section 79 of PD No. 1445 and COA Circular No. 89-296. He added that the MGSO had invited the COA Audit Team Leader on October 16, 2019 to inspect the various unserviceable properties subject of disposal. Submitted together with the comments are the documents supporting the process on disposal made by the Municipality. Nevertheless, he instructed the MGSO to adhere to the audit recommendations.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "No documents were submitted to the Audit Team; no action undertaken by the Municipality to produce required supporting documents at time of report."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Catanauan_Quezon-2020-PY9",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the MGSO to:\n expedite the registration of the motor vehicles with the LTO in compliance with Section 5 of RA No. 4136; and\n ensure that the information such as acquisition date and cost of the motor vehicle is complete in the preparation of the report, in compliance with Section 111 (1) of PD No. 1445.",
+      "managementAction": "The Municipal Mayor mentioned that the MGSO is currently in the process of facilitating the registration of the motor vehicles with the LTO. In fact, the rescue vehicle is now registered with the Land Transportation Office (LTO). Copy of the OR was submitted together with their comments.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Registration not fully facilitated due to lost/missing Official papers and Receipts; some vehicles now registered but others remain unregistered."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Catanauan_Quezon-2020-PY11",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor ensure that all members of the HGDG including elected local officials and department heads undergo capacity building programs on GAD which shall include but not be limited to gender mainstreaming, gender analysis, gender-responsive planning and budgeting, and GAD-related tools in order for the MGFPS to be fully functional.",
+      "managementAction": "The Municipal Mayor informed the Audit Team that the Municipality prepared the GAD Plan and Budget and presented the same as support to its budget.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Catanauan_Quezon-2020-PY12",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Planning and Development Coordinator to strictly follow the Project Procurement Management Plan particularly the timetable for the implementation of development projects and to enhance its monitoring to ensure timely completion so that intended beneficiaries avail the maximum benefits that can be derived therefrom.",
+      "managementAction": "Most of the projects funded under the 20 percent DF were implemented; some projects funded under continuing appropriations were reprogrammed.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some projects funded under continuing appropriation were reprogrammed for CY 2021; projects under current appropriation on-going; four projects with continued appropriation and four with current appropriation remained partially or not implemented as of year-end."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Catanauan_Quezon-2020-PY13",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the MDRRMO to:\na. carefully study the feasibility of the projects/activities before inclusion in the MDRRMP to ensure its implementation in order for the Municipality to be adequately prepared for any upcoming disaster/calamity and reduce its risk;\nb. strictly comply with the regulation regarding the proper utilization of DRRMF to avoid audit disallowance; and\nc. submit to the Audit Team the Monthly Report on the Sources and Utilization of DRRMF on or before the 15th day after the end of each month.",
+      "managementAction": "The Municipal Mayor stated that he instructed the concerned Municipal Officials to comply with the recommendations. He also directed them to gather the lacking supporting documents. He further mentioned that he assured the immediate submission of said documents to the Audit Team as soon as the same has been completed.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Monthly Report on the Sources and Utilization of DRRMF for CY 2020 was not submitted; some supporting documents missing for purchases; some procurements later supported or refunded."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Catanauan_Quezon-2020-PY14",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor:\n require the MENRO-Designate to coordinate with the NSWMC regarding the status of review on the Municipality’s 10-Year SWMP in order to know the next steps to be undertaken that will facilitate approval of the said Plan; and\n provide assistance for the establishment of MRF in two barangays to ensure protection of public health and environment.\nWe also recommended that the Municipal Mayor require the Municipal Solid Waste Management Board to ensure that all MRFs are functional, and is being monitored/maintained.",
+      "managementAction": "The Municipal Mayor informed the Audit Team that he instructed the MENRO-Designate to undertake necessary measures to know the status of the review on the Municipality’s 10-year SWMP and to ensure the timely approval of the said plan. Likewise, the Municipal Mayor instructed the MSWMB to comply with the audit recommendations.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "No approved SWMP as of report date; MENRO-Designate initiated update; two MRFs not functional; assistance needed for establishment and maintenance of MRFs."
+    },
+    {
+      "id": "Catanauan_Quezon-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Assessor and the MT to:\n facilitate the titling of the lands owned by the Municipality;  exert effort to locate and secure the documents that will support the ownership for all the lots owned by the Municipality;  review and reconcile their inventory and schedules of land and verify the ownership of each lots; and  coordinate with the Municipal Accountant for the recording of all the lots owned by the Municipality.",
+      "managementAction": "No action.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Titling of land was still not facilitated. Also, the documents to support the ownership were still not secured."
+    },
+    {
+      "id": "Catanauan_Quezon-2019-PY2",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the:\n Inventory Committee to complete the physical inventory of all property of the Municipality and prepare and submit immediately the pertinent inventory reports;  Municipal General Services Officer (MGSO) to prepare and maintain complete and updated property cards; and  MGSO and Municipal Accountant to reconcile their records.",
+      "managementAction": "No action.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No inventory reports were submitted. Also, property cards were incomplete."
+    },
+    {
+      "id": "Catanauan_Quezon-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the:\n\na. MT to prepare a list of individual taxpayers with delinquencies for CY 2001 and\nbelow and another list for CYs 2002 to 2019 as of December 31, 2019 and\nfurnish it to the Municipal Accountant;\n\nb. Municipal Accountant to facilitate the adjustment of RPT/SET Receivables\nonce the lists of delinquent taxpayers for CYs 2001 and below and CYs 2002 to\n2019 are received from the MT to reflect the correct balance of these receivable accounts;\n\nc. Municipal Accountant to ensure that all collections are properly recorded;\n\nd. Municipal Assessor to facilitate the immediate cleansing of property tax\nrecords to have a reliable Real Property Tax Assessment Roll and thereafter, a\nreliable RPT and SET Receivables accounts; and\n\ne. MT to continue the enforcement of the remedies as provided in RA No. 7160.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the:\n\na. Inventory Committee to complete the physical inventory of all property of the\nMunicipality and prepare and submit immediately the pertinent inventory\nreports;\n\nb. Municipal General Services Officer (MGSO) to prepare and maintain complete\nand updated property cards; and\n\nc. MGSO and Municipal Accountant to reconcile their records.\n\nWe also recommended that the Municipal Mayor require the:\n\na. MGSO to submit to the Audit Team the copy of PAR corresponding the\npurchases of PPE during CY 2019 for review;\n\nb. MGSO to maintain complete copy of PAR and renew it every three years;\n\nc. Municipal Accountant to prepare and submit the Schedule of Depreciation and\nAccumulated Depreciation for SEF;\n\nd. Municipal Accountant to maintain complete and updated PPELC;\n\ne. Municipal Accountant to identify the composition of the recorded PPE under\nGF totaling P36,495,919.74; and\n\nf. Municipal Accountant to strictly observe the regulation on depreciation.\n\nWe further recommended that the Municipal Mayor constantly monitor the status\nof physical inventory taking to ensure its completion and submission of complete\ninventory reports within the deadline.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor Instruct the Municipal\nAssessor and the MT to:\n facilitate the titling of eight parcels of land owned by the Municipality; and\n exert effort to locate and secure the documents that will support the ownership\nof all the lots owned by the Municipality;\nWe also recommended that the Municipal Mayor:\n require the Appraisal Committee/Team to properly appraise the donated land\nas to the fair values at the time of acquisition and apply the same to the\npurchased land if the acquisition costs cannot be determined reliably;\n instruct the Municipal Assessor and MT to request the owner’s copy of title for\nthe six parcels of land from the RD; and\n require the Municipal Accountant to record the land once the fair values are\nestablished and copy of titles are received.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to:\n\na. confirm with the contractor and to request him to submit documents\npertaining to his claims, otherwise revert the account to the Unappropriated\nSurplus of the GF, subject to an authority from the Sangguniang Bayan\nthrough a Resolution with the condition that appropriation shall be made in the\nevent that claim arises in the future pursuant to the provisions of Section 98 of\nPD No. 1445; and\n\nb. trace down the accounts named as “collection” and provide for subsidiary\nledgers for each supplier tracked down for easy facilitation and monitoring of\neach account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal\nTreasurer to exert effort to collect the remaining receivables from the former\nMunicipal employees.\n\nWe also recommended that the Municipal Mayor, in case of non-settlement of the\namount, file appropriate charges against the concerned persons, otherwise\nrequire the Municipal officials who authorized the use of Municipal funds for\npayment of personal loans of employees to settle the same.\n\nWe further recommended that the Municipal Mayor require the Municipal\nAccountant to make an adjustment of the books by debiting the Other Receivables\naccount and crediting the Due to Officers and Employees account both by\nP78,838.69, for proper presentation of accounts in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor and the Municipal Treasurer see to it\nthat all the insurable properties of the Municipality are covered with insurance\nwith the GSIS in compliance with the provisions of COA Circular No. 92-390 and\nRA No. 656.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the:\n\na. Municipal Accountant in coordination with the BAC Chairman to submit the\nlacking supporting documents to the Audit Team for further evaluation of paid\nprocurement transactions;\n\nb. BAC Chairman to ensure that the NOA and NTP are duly received by the\nContractor;\n\nc. BAC Chairman to ensure strict compliance with the documentary requirements\nto substantiate the procurement activities of the Municipality; and\n\nd. Municipal Accountant to ensure that the DV is supported with proper and\ncomplete documents before processing its payment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2019-OBS8",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the MGSO to:\n\na. submit to the Audit Team the following:\n Inventory and Inspection Report of Unserviceable Property (IIRUP) for those\ndisposed through sale and destroyed with corresponding appraisal value and\nduly certified by the concerned officials;\n list of transferred property with corresponding Invoice and Receipt of Property;\n photos of valueless property before and during condemnation either by burning,\npounding and the like;\n documents on the public auction conducted; and\n other documents that will substantiate the regularity of such disposal.\n\nb. organize the PAR in accordance with the sequence of PPE in IIRUP to facilitate\nverification; and\n\nc. ensure that the complete details of the PPE are indicated in all PAR.\n\nHenceforth, ensure that the disposal of the Municipality’s PPE is in accordance with\nSection 79 of PD No. 1445 and COA Circular No. 89-296.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2019-OBS9",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the MGSO to facilitate the timely\nregistration of the motor vehicles with the LTO in compliance with Section 5 of RA No.\n4136.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2019-OBS10",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal General Services\nOfficer (MGSO) to prepare and submit the consolidated PIF to the GSIS and to the\nAudit Team on or before April 30 of each year in compliance with COA Circular\nNo. 2018-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2019-PY3",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the MGSO to:\n prepare the updated physical inventory of the unserviceable properties of the Municipality;  prepare and submit the IIRUP as part of the disposal procedures; and  dispose the unserviceable properties in accordance with the steps and procedures enumerated under Section 79 of PD No. 1445 to generate additional income out of the proceeds from the sale thereof.",
+      "managementAction": "Submitted the IIRUP.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Various deficiencies were noted from the submitted IIRUP and from the IIRUP. The Municipality disposed the unserviceable properties."
+    },
+    {
+      "id": "Catanauan_Quezon-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Treasurer to continue exerting extra effort and adopt the remedies to enforce collection of delinquent real property taxes in accordance with RA No. 7160.",
+      "managementAction": "Properties were subjected for public auction.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "A huge amount of real property taxes is still not collected."
+    },
+    {
+      "id": "Catanauan_Quezon-2019-PY5",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor:\n require the concerned officials and employees to settle immediately the amount collectible from them;  require the Municipal Treasurer to deduct the amount of P106,758.45 from the salaries or whatever amount payable to the officers and employees; and  in case of non-settlement of the amount, file appropriate charges for against the officers and employees.",
+      "managementAction": "Loans collected.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The remaining loans receivable totaling P27,999.94 was collected. (adjusted balance of P106,838.63 less P27,999.94) uncollected."
+    },
+    {
+      "id": "Catanauan_Quezon-2019-PY6",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor, thru the offices concerned, establish proper coordination in the implementation and monitoring of the projects under the 20 percent DF in order to enhance the rate of implementation and ensure that benefits are delivered to the constituents of the Municipality.",
+      "managementAction": "Various",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Six out of nine development projects were implemented. Three continued from the CYs 2017 and 2018 were still not implemented during CY 2019."
+    },
+    {
+      "id": "Catanauan_Quezon-2019-PY7",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the GAD Focal Person to maximize the utilization of the GAD funds through the implementation of GAD related programs and projects in order to attain the objective for which GAD funds were provided in accordance with RA No. 9710 or the MCW and PCW-DILG-DBM-NEDA JMC No. 2013-01, as amended by PCW-DILG-DBM-NEDA JMC No. 2016-01 dated January 12, 2016.",
+      "managementAction": "Various GAD projects were implemented.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "GAD budget was not utilized."
+    },
+    {
+      "id": "Catanauan_Quezon-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Assessor and\nMunicipal Treasurer to:\n• facilitate the titling of the lands owned by the Municipality;\n• exert effort to locate and secure the documents that will support the ownership for\nall the lots owned by the Municipality;\n• review and reconcile their records of inventory and schedules of land and verify\nthe ownership of each lots; and\n• coordinate with the Municipal Accountant for the recording of all the lots owned by\nthe Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the:\n• Inventory Committee to complete the physical inventory of all property of the\nMunicipality and prepare and submit immediately the pertinent inventory\nreports;\n• MGSO to prepare and maintain complete and updated property cards; and\n• MGSO and Municipal Accountant to reconcile their records regularly.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the General\nServices Officer to:\n• prepare the updated physical inventory of the unserviceable properties of the\nMunicipality;\n• prepare and submit the IIRUP as part of the disposal procedures; and\n• dispose the unserviceable properties in accordance with the steps and\nprocedures enumerated under Section 79 of P.D. No. 1445 to generate additional\nincome out of the proceeds from the sale thereof.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Treasurer to\ncontinue exerting extra effort and adopt the remedies to enforce collection of\ndelinquent real property taxes in accordance with RA No. 7160.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor:\n• require the concerned officials and employees to settle immediately the amount\ncollectible from them;\n• require the Municipal Treasurer to deduct the amount of P106,758.45 from the\nsalaries or whatever amount payable to the officers and employees; and\n• in case of non-settlement of the amount, file appropriate charges against the\nofficers and employees.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2018-PY1",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the:\na. Inventory Committee to complete the physical inventory of all property of the Municipality and prepare and submit immediately the pertinent inventory reports;\nb. Municipal General Services Officer (MGSO) to prepare and maintain complete and updated property cards; and\nc. The MGSO and Municipal Accountant to reconcile their records regularly.",
+      "managementAction": "Not Implemented\nPreparation of updated property cards was started.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Volume of properties to be inventoried (Reiterated in Audit Observation No. 2, Page No. 51)"
+    },
+    {
+      "id": "Catanauan_Quezon-2018-PY2",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal Treasurer to exert extra effort and adopt the remedies to enforce collection of delinquent real property taxes in accordance with RA No. 7160.",
+      "managementAction": "With the assistance of Barangay Officials the enforced collection through registered mail and door to door deliveries of Notice of Delinquencies. Identification of duplicated tax declarations were also made, thus, giving a more accurate collection target for CY 2018. Total RPT Collections during CY 2018 amounted to 10,545,527.24.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Delinquent Real property taxes totaling P83,031,156.05 are still for collection. (Reiterated in Audit Observation No. 4, Page No. 54)"
+    },
+    {
+      "id": "Catanauan_Quezon-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to:\na) ensure the proper granting, utilization and liquidation of all cash advances within the prescribed period in accordance with the above-cited rules and regulation; and\nb) send written notice or demand to the Accountable Officer to immediately settle his cash advance, otherwise, implement the withholding of his salary to be applied to their accounts",
+      "managementAction": "Proper granting, utilization and liquidation of all cash advances was observed.\nSettlement was made by the Accountable Officers with outstanding unliquidated cash advance.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2018-PY4",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor:\n• require the concerned officials and employees to settle immediately the amount collectible from them;\n• require the Municipal Treasurer to deduct the amount of P106,758.45 from the salaries or whatever amount payable to the officers and employees; and\n• in case of non-settlement of the amount, file appropriate charges against the officers and employees.",
+      "managementAction": "The Human Resource Officer sent a Notice to the concerned officials reiterating the demand to immediately settle the amount collectible from them. During 2018, P41,400.00 was collected.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "A balance of P106,712.24 is still for collection. (Reiterated in Audit Observation No. 5, Page No. 55)"
+    },
+    {
+      "id": "Catanauan_Quezon-2018-PY5",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor make representation with the Sangguniang Bayan to pass a resolution authorizing her to request from COA the write-off of the accounts pursuant to COA Circular No. 2016-005. Upon approval of the Resolution, submit to COA the request for write-off supported with the required documentation.",
+      "managementAction": "Sangguniang Bayan Resolution No. 2016-048 was made authorizing the Municipal Mayor for the request of write-off of the accounts. In connection with the said resolution, a request for write off was also submitted to the Commission on Audit.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2018-PY6",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the General Services Officer to:\n a. conduct the physical inventory of the unserviceable properties of the Municipality;\n b. prepare and submit the IIRUP as part of the disposal procedures; and\n c. dispose the unserviceable properties in accordance with the steps and procedures enumerated under Section 79 of P.D. No. 1445 to generate additional income out of the proceeds from the sale thereof.",
+      "managementAction": "Physical inventory of the unserviceable properties of the Municipality was conducted.\nIIRUP prepared but no appraised value yet. Executive Order No. 09-2016 creating the Municipal Committee on the Disposal and Appraisal of Government Properties of Catanauan was issued. A request was already made to the said Committee for the submission of the appraisal of all unserviceable properties of the Municipality in preparation for the disposal procedure.",
+      "status": "IMPLEMENTED",
+      "reason": "Non-submission of the IIRUP and lack of appraisal on the unserviceable PPE."
+    },
+    {
+      "id": "Catanauan_Quezon-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Budget Officer (MBO) to appropriate at least 1 percent of their IRA for LCPC as required under DILG Memorandum Circular No. 2012-120.",
+      "managementAction": "Appropriation of at least 1 percent of the IRA for LCPC was made for CY 2018.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor, through the offices concerned, establish proper coordination in the implementation and monitoring of the projects under the 20 percent DF in order to enhance the rate of implementation and ensure that benefits are delivered to the constituents of the Municipality.",
+      "managementAction": "Coordination with the offices concerned with regard to the implementation and monitoring of the projects under 20 percent Development Fund was made.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Other projects are still for implementation (Reiterated in Audit Observation No. 6, Page No. 57)"
+    },
+    {
+      "id": "Catanauan_Quezon-2016-PY5",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "2015 AAR \nFinding No. 5 | The Municipal Mayor filed an Appeal to the Regional Director, Commission on Audit on February 24, 2017",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2016-PY6",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "2015 AAR \nFinding No. 6 | No action was undertaken in CY 2016",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Failure of the General Services Officer to prepare and submit the IIRUP and undertake the necessary action for the disposal of the said properties as she  prioritized the other activities in her  office.\nReiterated in  Part II.\nObservation No. 4"
+    },
+    {
+      "id": "Catanauan_Quezon-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the:\nInventory Committee to complete  the physical inventory of all property of the Municipality and prepare and submit immediately the pertinent inventory reports;\nMunicipal Accountant to prepare and maintain complete and updated PPE Ledger Cards;\nMunicipal General Services Officer (MGSO)  to prepare and maintain complete and updated property cards; and\nThe MGSO and Municipal Accountant  to reconcile their records regularly.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal Treasurer to exert extra effort and adopt remedies to enforce collection of delinquent real property taxes in accordance with RA No. 7160.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor:\nrequire the concerned officials and employees to settle immediately the amount collectible from  them;\nrequire the Municipal Treasurer to deduct the amount of P164,812.24 from the salaries or whatever amount payable to the officers and employees; and\nin case of failure to settle the amount, file appropriate charges against the officers and employees  for continued disregard of  the law.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the GSO to prepare and submit the Inventory and Inspection Report of Unserviceable Property and undertake the necessary action for the disposal of the said properties in accordance with applicable rules and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor make representation with the Sangguniang Bayan to pass a resolution authorizing her to request  COA for the write-off of the accounts pursuant to COA Circular No. 2016-005.  Upon approval of the Resolution, submit to COA the request for write-off supported with the required documentation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Budget Officer (MBO) to appropriate at least 1% of their IRA for LCPC as required under DILG Memorandum Circular No. 2012-120.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We recommended that the  Municipal Mayor:\nrequire the  concerned Local Poverty Reduction Action Team (LPRAT) composed of the following members, to spearhead the implementation of the above listed  projects:\nChairperson: Local Chief Executive (LCE)\nCo-Chairperson: A CSO-representative elected by the CSO  Assembly\nMembers: Representatives from the Government, to wit:\nSangguniang Panlungsod/Bayan Member who is the Chairperson of the Committee on Appropriation;\nLiga ng Barangay President;\nAll local government department heads such as the Planning Officer, Budget Officer, Fishery and Agriculture Officer, Social Welfare and Development Officer, Health Officer, Public Employment Service Office (PESO) Manager and Tourism Officer.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2016-OBS8",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2016-OBS9",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2016-OBS10",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2016-OBS11",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2016-PY1",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "2015 AAR \nFinding No. 1 | Inventory Committee already conducted  physical count of the PPE but still incomplete.\nThe Municipal Accountant  already prepared and maintained complete and updated PPE Ledger Cards.\n\nThe MGSO   prepared and maintained complete and updated property cards per available records\n\nNo action was undertaken in CY 2016.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Lack/unavailability of supporting documents for some PPEs\n\n\n\n\n\nProperty Cards were not made for properties without available records.\n\n\nThe Inventory Report made by the GSO did not tally with the Accounting records because she did the physical count by Office and not by classification of PPE.\nReiterated in  Part II.  Observation No. 1"
+    },
+    {
+      "id": "Catanauan_Quezon-2016-PY2",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2016-PY3",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "2015 AAR \nFinding No. 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOut of the balance in the Due from Officers and Employees account of  P167,812.24  in 2015, only a total of  P3,000.00   was settled in 2016,  leaving an uncollected balance of  P164,812.24 at year end.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "On-going distribution of 1st and final notice of delinquency.\nReiterated in  Part II.  Observation No. 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSome personnel did not pay their personal loans as they have been separated from the service. \nReiterated in  Part II.\nObservation No. 3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRelatives of some officers and employees with loans have promised to take-over the payment thru installment basis."
+    },
+    {
+      "id": "Catanauan_Quezon-2016-PY4",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "2015 AAR \nFinding No. 4 | Complied with regulations provided in  \nSections 4 and 5 of COA Circular No. 97-002 dated February 10, 1997\nComplied with regulations provided in  \nSections 4 and 5 of COA Circular No. 97-002 dated February 10, 1997",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2016-PY7",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "2015 AAR \nFinding No. 7 | The Municipal Mayor already directed the BAC Secretariat  to consolidate the Municipality’s PPMPs and  stop the practice of procuring supplies and materials  by piecemeal through shopping as alternative mode of  procurement and adopt  Public Bidding as the primary mode of procurement.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2016-PY8",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "2015 AAR \nFinding No. 8 | Request for write-off has been made per Sanguniang Bayan Resolution No. 2016-048 dated June 27, 2016.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Other Receivables are still uncollected due to non availability of documents from the previous administration.\nReiterated in  Part II.\nObservation No. 5"
+    },
+    {
+      "id": "Catanauan_Quezon-2016-PY9",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "2015 AAR \nFinding No. 9 | The Municipal Social Welfare Officer already  submitted the masterlist of  Senior Citizens showing the names, ID Numbers, birthdays and complete addresses duly certified by the Chairman of the Office of the Senior Citizens Affair (OSCA).\n\n\n\n\nThe Municipal Accountant already submitted authorization issued by the beneficiaries for other persons to receive the incentives in their behalf.\n\nThe Municipal Accountant already submitted justification for the alterations in the payrolls.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2016-PY10",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "2015 AAR \nFinding No. 10 | The Municipal Treasurer already prepared checks payable directly to the accredited  government drugstores for medical assistance and funeral  parlor for burial assistance\n\n\nThe Disbursing Officer already stop the granting of cash assistance from the petty cash fund.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Catanauan_Quezon-2016-PY11",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "2015 AAR \nFinding No. 11 | The Municipal Mayor already reviewed the amounts of cell card load allowance in relation to the available landlines/mobile phones and internet connection and already consider  its reduction.\n\nThe Municipal Mayor already instructed all offices to refrain from calling cellular phones using the landlines unless very urgent in order to minimize expenses.\n\n\nThe Municipal Mayor already instructed all offices to refrain from calling cellular phones using the landlines unless very urgent in order to minimize expenses.\n\nThe General Services Officer already consider the purchase in bulk of cell cards.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    }
+  ]
+}

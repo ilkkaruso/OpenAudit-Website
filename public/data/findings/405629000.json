@@ -1,0 +1,2158 @@
+{
+  "lguCode": "405629000",
+  "lguName": "Padre Burgos",
+  "province": "Quezon",
+  "region": "Region III (Central Luzon)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended that: a. The Municipal Mayor direct the Municipal Accountant to strictly follow the guidelines provided in the submission of the Bank Reconciliation Statements (BRS) and attach the necessary supporting documents to support the reconciling items enumerated in the BRS; b. The Municipal Mayor direct the Municipal Treasurer to send written notices to the payees one month before the checks become stale. Stale checks shall be reported and attached to the RCI prepared at the period of cancellation; c. The accountant shall make the necessary adjusting entries for stale-dated checks as follows; i. For stale checks over 6 months but not over 2 year: DR: Cash in Bank-LCCA Pxxx recognized in the books. CR: Accounts payable Pxxx ii. For checks over 2 year: DR: Cash in Bank – LCCA Pxxx CR: Prior Years Adjustment* Pxxx (*to represent surplus adjustment)",
+      "managementAction": "a) Not Implemented b) Not Implemented c) Per latest BRSs of the LGU, identified reconciling items are still forwarded thus, are not adjusted",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Updated BRSs are not prepared and submitted as of year-end. Stale checks are still carried forward thus, are not adjusted in the books."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended to the Municipal Mayor to: a. Require the Inventory Team to conduct complete annual physical inventory-taking of PPE by type and submit a Report on the Physical Count of Property, Plant and Equipment (RPCPPE) not later than January 31 of each year and reconcile the RPCPPE with the ledgers balances; b. Require the GSO-Designate to maintain property cards and reconciled with the ledger cards of the Municipal Accounting Office; c. Require the GSO/MTO to determine to whom the missing properties were issued. He shall then issue a demand for the production, otherwise the accountable officer should be asked to apply for relief of accountability following prescribed procedures/requirements; and d. Direct the Municipal Accountant to: (a) recognize depreciation expense monthly on all the PPE accounts; (b) make necessary adjustments in books to correct unrecognized deprecation of identified four PPE accounts and make necessary disclosure as to the four PPE accounts that are fully depreciated but still in use; and (c) adopt all the principles prescribed in IPSAS 17 for proper accounting of the Municipality’s PPE and for a fair presentation the asset accounts in the financial statements.",
+      "managementAction": "a) Not Implemented b) Not Implemented c) Not Implemented d) Not Implemented",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "RPCPPE not submitted and implemented actions to reconcile PPEs with ledger balances not yet completed; depreciation not recognized on a monthly basis; unserviceable/missing PPEs still not disposed or written-off."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to transfer and record the unexpended balance of the QRF and DRRMF to the Special Trust Fund under the Trust Liability-DRRM account in the Trust Fund book. Moreover, prepare adjusting entries to correct the errors in recording of related transactions. The Municipal Accountant should also be reminded to follow the prescribed format (Annex D of COA Circular 2012-002) to discuss the unexpended balance in the Notes to Financial Statement.",
+      "managementAction": "Not Implemented",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The unexpended balances were not transferred to Special Trust Fund; required subsidiary ledgers not maintained; notes disclosures not prepared as prescribed."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require all the Revenue Collection Clerks to remit to the Municipal Treasurer the full amount of their collections on a daily basis regardless of the nature of collections and that the Municipal Treasurer deposit intact all her collections, as well as all collection turned over to her by the collectors/tellers, daily or not later than the next banking day. We further recommended that the Municipal Mayor direct the Municipal Treasurer to immediately stop the practice of the immediate use of the funding for operations and that the Municipal Mayor should require that casual employees should not perform collection functions unless duly designated and bonded.",
+      "managementAction": "Not Implemented",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Collections continued to be deposited late; casual collectors still performing collections; accumulation of undeposited collections remained as noted in CY 2021."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require both the BAC Chairman and Secretariat, in coordination with the Municipal Accountant, to: a. For each procurement, submit notarized Omnibus Sworn Statement of suppliers and written recommendations from End-user or any unit authorized by the Head of Procuring/Project Award; b. For each supplier, submit Mayor’s Permit or Business Permit and Income Tax Returns in accordance to GPPB Circular No. 01-2020 dated April 6, 2020; and c. Henceforth, submit all the documentary requirements in the GPPB Circular for succeeding transactions.",
+      "managementAction": "Not Implemented",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Some required procurement documents (notarized OSS, supporting documentary requirements) were still not consistently submitted for COVID-19 procurements during CY 2021."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor: a. Require the Members of the Sangguniang Bayan to enact a supplemental budget for any changes in the AIP and Annual Budget to cover new PPAs from realigned funds or available funds from new revenue source as certified by the Municipal Treasurer; b. Require the members of the Local Disaster Risk Reduction and Management Council to prepare a supplemental AIP to support the changes in the Annual AIP; and c. Direct the Municipal Budget Officer and Disaster Risk Reduction and Management Council to revise the LDRRMFIP and include new programmed appropriations and obligations for disaster risk reduction and management programs, projects & activities to be funded from the unexpended QRF and DRRMF-MOOE of the previous years which were transferred to the Special Trust Fund.",
+      "managementAction": "Not Implemented",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Supplemental AIP and necessary budgetary approvals for the re-aligned PPAs were not prepared/approved; LDRRMFIP revision not fully implemented."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "We recommended strict adherence to Section 4(6) of PD 1445 and that the Municipal Accountant and Municipal Treasurer exercise due diligence in the processing of claims and ensure complete documentation before effecting payment. The Accountant should submit the lacking documents for evaluation.",
+      "managementAction": "Not Implemented",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Supporting documents for infrastructure payments were not fully submitted as of audit; deficiencies persisted in CY 2021."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor: a. Monitor the implementation of the programs, projects and activities (PPA); b. Coordinate with the BAC on the prompt scheduling of procurements activities of PPAs included in the LDRRMFIP; c. Coordinate with the Municipal Accountant in the preparation of the Monthly Report on Sources and Utilization of DRRMF to ensure that disbursements are in accordance with the approved LDRRMFIP; and d. Submit the required Monthly Report on Sources and Utilization of DRRMF to the COA for onward submission to the Audit Team on or before the 15th day after the end of each month.",
+      "managementAction": "Not Implemented",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Monthly reports either not prepared or not submitted timely; LDRRMFIP monitoring and procurement scheduling coordination not fully implemented; utilization remained low (63.49% reported for CY2021)."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-PY16",
+      "year": 2021,
+      "recommendation": "We recommended that the LCE: a) cause the creation of a Disposal Committee to take charge of the disposal of unserviceable assets b) require the Supply Officer to submit to the Disposal Committee the Inventory and Inspection of Unserviceable Property and Waste Material Report.",
+      "managementAction": "Not Implemented",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Unserviceable properties not yet disposed; Disposal Committee not created; inventory and inspection reports not submitted."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-PY17",
+      "year": 2021,
+      "recommendation": "We recommended that the Local Chief Executive consider creating and organizing an Internal Audit Services, in compliance with R.A. 4177 and AO 70 to give assurance for a sound and adequate internal control system in the operations of the Municipality.",
+      "managementAction": "Not Implemented",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "IAS not yet organized; municipality has not designated an Internal Audit head or established IAS functions."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-PY18",
+      "year": 2021,
+      "recommendation": "We recommended strict adherence to Sec. 4(6) of PD 1445 and that claims be paid only upon submission of complete documents. Said measure must be carried out to prevent suspension or disallowance during post-audit.",
+      "managementAction": "Not Implemented",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Supporting documents remained not submitted; payments still processed without full documentation."
+    },
+    {
+      "id": "PadreBurgos_Quezon_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendations that the Municipal Mayor gives utmost\nimportance on presenting in the financial statements PPE account balances that\narevalidand reliableby requiring theInventoryCommittee andtheGSOto:\n\na. Conduct a complete physical inventory of all the Municipality’s assets and\nprepare and submit the required report thereon. Investigate any\ndiscrepancies between the inventory report and the accounting and property\nrecords and make the necessary adjustments where the error was committed;\n\nb. Maintain complete and updated property cards, as a counter check to the\ncorrectnessof theaccounting records;\n\nc. Prepareandmaintain PAR withcompletedetails; and\n\nd. Prepare and submit the approved Physical Inventory Plan to the Audit Team\nat least 10 days before the scheduled start of inventory-taking activities in\nadopting COA Circular 2020-006 relative to the one-time cleansing of PPE\naccounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer to\nsubmit to the Municipal Accountant a duly certified list of taxpayers showing the\nname of the taxpayers and amount due and collectible at the start of each year to\nserve as basis in setting-up the Real Property Tax/Special Education tax\nReceivables in order to reflect a reliable RPT and SET Receivables accounts\nbalances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to\nverify with the Provincial Accountant the discrepancies of P586,029.27 and\nP88,464.28 between the recorded balances of the reciprocal accounts reflected in\nthe books of the Province and adjust the same to present the correct balances of\nthesaidaccountsintheMunicipality’sfinancial statement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Social Welfare\nand Development Officer (MSWDO) to coordinate with the DSWD Region IV-A on\ntheguidelinesand properutilizationof thefunds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor instruct the MPDO to incorporate in\nthe Annual Investment Plan of the Municipality the unutilized funds from the PCA\nMunicipal Share in cutting permit fees and utilize the same in compliance with\nSection2of RA No. 10593.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "Werecommendedthat theMunicipal Mayor:\na.Require the Bids and Award Committee (BAC) to strictly observe the\nregulationsset forthunder RA No. 9184 intheprocurement of goods; and\n\nb.Stopthe practiceof purchasingfuelinbulk.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the preparation and\nsubmission of Daily Gas Issue Record, Monthly Summary of RIV, Monthly Report\nof Official Travel for each vehicle and Monthly Report of Fuel Consumption and\nensure that Driver’s Trip Tickets are serially numbered and all information\nnecessaryareindicatedfor every tripundertakenfor proper control.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "1.19 We recommendedthat the General Services Officer and Accountant update\nand reconcile their records, and avail of the one-time cleansing of PPE\naccounts per COA Circular No. 2020-006 dated January 31, 2020.\n\n1.20 We also recommended that the Municipal Accountant strictly comply with the\nrecognition criteria for PPE and prepare a journal entry voucher (JEV) to:\n(a) Adjust the incorrect recognition of PPE amounting P1,100,000.00 duly\nsupported with the original JEV and the JEVs of the recipient barangays on the\nasset recognition, and\n(b) Recognize depreciation on PPEs duly supported with a schedule of depreciated\nproperties.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "2.16 We recommended that:\na) The Municipal Treasurer submit at year-end the list of unreleased checks\nfor all funds to the Municipal Accountant; and\nb) The Municipal Accountant to:\ni. regularly and timely prepare bank reconciliation statements for all\nbank accounts.\nii. make the necessary JEVs to recognize the unrecorded bank accounts,\nadjust identified book reconciling items, and cancel stale checks\nprovided that the foregoing is properly supported withappropriate\ndocumentation.\niii. Restore unreleased checks by preparing a journal entry voucher at the\nend of the year based on the list submitted from the MTO. At the start\nof the ensuing year, draw another entry to reverse the previous entry\nmade and recognize the availability of the checks for release.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "3.7 We recommended that the Municipal Accountant trace to prior years’ accounting\nentries to ascertain the cause of the negative balances and effect the necessary\nadjustments, and/or the Municipal Treasurer demand refund of overpayment where\nnecessary.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "4.14 We recommended that the Municipal Social and Development Officer together with\nthe Property/Supply Officer:\na. Conduct physical count of all the remaining donated items.\nb. Prepare inventory list of the remaining donated items for DRRM every month or\nevery quarter or until all donations are fully distributed.\nc. Henceforth, prepare all the reports and documents required to account and monitor\nthe receipt and issuances of all donations in kind and submit a copy of all the reports\nto the Audit Team.\n\n4.15 We recommended that the Municipal Property Officer furnish the Municipal\nAccountant with the duplicate copies of all Acknowledgment Receipts of in-kind\ndonations, invoice receipt and inventory list of donated items.\n\n4.16 We also recommended that the Municipal Accountant prepare a journal entry\nvoucher to reclassify donations in cash from Other Payables to Trust\nLiabilities–DRRM. Also, summarize data from the documents submitted by the\nMunicipal Social and Development Officer and Property Officer, compare\nrecords with the Registry of Donated Relief Goods for DRRM maintained by the\nMunicipal Social and Development Officer for check and balance, and disclose the\nnecessary information in the Notes to the Financial Statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "5.15 We recommended that:\na) the Municipal Accountant, Budget Officer and MDRRMO reconcile\ntheir records to determine the correct available balance of the\nLDDRMF. And revert to the general fund the prior years QRF and\nMOOE unexpended balances that are beyond five years.\nb) The Budget Officer to maintain the RAAO for LDRRM Funds.\nc) The Accountant trace the prior years entries of transactions charged\nagainst the Special Trust Fund and prepare an adjusting entry to\nreflect those transactions in the Trust Liabilities-DRRM account; and\nprepare a subsidiary ledger of the Trust Liabilities-DRRM account by\nyear of transfer/ by LGU/ by donor, as applicable.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "6.18 We recommended:\na) the Municipal Mayor, through the Municipal Planning and Development\nCoordinator to specify the projects to be undertaken from the\nappropriations and to prepare a revised and/or supplemental AIP to\nsupport changes in the projects before they are implemented.\nb) the Budget Officer and MPDC coordinate in the monitoring of utilization\nand implementation of PAPs under the 20% Development Fund to prevent\noverutilization, and the latter to request augmentation of funds, where\nnecessary.\n\n6.19 We also recommended the Municipal Accountant to recognize in the books the\nloan amortization on the New LGU Building for the 1st semester 2021\namounting to P506,602.55.\n\n6.20 It was further recommended during the exit conference that a Supplemented AIP\nbe executed for the PAPs in Table 19.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "7.9 We recommended that the Municipal Mayor approve the Purchase Orders on all\nfuture transactions of the Municipality, and through the Bids and Awards\nCommittee (BAC), require requesting office/s to indicate all necessary\nspecifications of items for purchase. We also recommend the Accountant to\nrefrain from processing payments that are not supported with the proper\ndocumentation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-OBS8",
+      "year": 2021,
+      "recommendation": "8.11 In order to establish the regularity of the grant of the AHDP/SRA, we\nrecommend that the Rural Health Unit personnel and other concerned offices\nto submit lacking documents.\n\n8.12 We also recommended the Municipal Accountant ensure all necessary\nsupporting documents are attached to claims before processing payments.\nHenceforth, only disbursement vouchers/payrolls with complete supporting\ndocuments should be processed for payment. This is without prejudice to the\nissuance of Notice of Disallowance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-OBS9",
+      "year": 2021,
+      "recommendation": "9.8 We recommended that the Municipal Mayor direct the Revenue Collection\nClerks to remit their collections daily before 5:00pm or before leaving the office in\ncase of emergency leave to the Municipal Treasurer. Also, direct the Municipal\nTreasurer to deposit intact all her collection, as well as collections turned over to\nher by the Revenue Collecting Clerks, daily or not later than the next banking day.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-OBS10",
+      "year": 2021,
+      "recommendation": "10.9 We recommended that the Municipal Mayor direct:\ni. the refund of unexpended fund transfers to their respective source\nagencies, and immediate reversion of the P40,000.00 Countrywide\nDevelopment Fund (CDF) to the Bureau of Treasury. The CDF was\ndeclared unconstitutional by the Supreme Court in the case of Belgica\nvs. Ochoa (G.R. No. 208566, November 19, 2013, En Banc).\nii. the Accountant retrieve prior years’ records as proof of double\npayment on DSWD-Supplemental Feeding, and require the supplier to\nrefund the overpaid amount,\niii. the Accountant prepare the aging of fund transfers and provide\ndisclosures on the complete composition and dormant balances of Due\nto NGA in the Notes to Financial Statements, and\niv. reconcile with the source agency and request for write-off the dormant\nfund transfers, if warranted, in accordance with COA Circular No.\n2016-005 dated December 19, 2016.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to faithfully carry out objectives by which the BGCM Fund has been created and adhere to the guidelines on the use of the said fund to avoid inappropriate charging and misuse of funds.",
+      "managementAction": "The Municipal Accountant justified the charging of tires for the government vehicles which is strictly due to an emergency situation during the COVID-19 outbreak. No BGCM Fund was received in CY2021.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to immediately present for audit the lacking documents to substantiate the aforementioned BGCM transactions and practice more efficiency and economy in succeeding transactions despite its urgency in order to address the COVID-19 emergency in the Municipality.",
+      "managementAction": "Lacking documents were already submitted on June 2021.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the MDRRMO to submit the Summary/List of Donations Received, Distributed and Balances together with the required supporting documents to the NDRRMC through the OCD, copy furnish the Audit Team within 10 working days after the end of each quarter pursuant to COA Circular No. 2020-009 in order for the Audit Team and the oversight agencies to conduct timely evaluation of the receipt and utilization of the aids and donations received by the Municipality.",
+      "managementAction": "List was already submitted on May 2021. There were no donations received from other agency or private citizen for CY 2021",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Municipal Treasurer, in coordination with the Municipal Assessor, to submit to the Municipal Accountant a duly Certified List of Taxpayers showing the name of the taxpayers and amount due and collectibles at the start of each year to serve as basis in setting-up the RPT/SET Receivables in order to reflect a reliable RPT and SET Receivable accountsbalances.",
+      "managementAction": "The Municipal Assessor stated that the Assessment Roll was submitted to the Municipal Treasurer on March 25, 2022 and mentioned that they were not able to furnish the copy of the Assessment Roll before the end of December 2021 due to some revision/re-assessment/correction done on the file. They assured that they will continue with the practice of submitting the monthly transactions with the Municipal Treasurer to keep them updated on the changes in the Assessment Roll.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "This observation was already noted in Annual Audit Reports (AAR) for CYs 2019 - 2020. However, there was still no set-up made by the Municipal Accountant at the start of the year because the Certified List of Taxpayers was not submitted at the beginning of CY 2022 due to the late submission of the Assessment Roll."
+    },
+    {
+      "id": "PadreBurgos_Quezon_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendations that the Municipal Mayor gives utmost importance on presenting in the financial statements PPE account balances that are valid and reliable by requiring the Inventory Committee to conduct a complete physical inventory of all the Municipality’s assets and prepare and submit the required report thereon. Investigate any discrepancies between the inventory report and the accounting and property records and make the necessary adjustments where the error was committed; and Municipal Treasurer to maintain complete and updated property cards, as a counter check to the correctness of the accounting records.",
+      "managementAction": "The Management’s conduct of physical count is still on-going. However, the Municipality still fails to conduct a complete physical count as can be seen on the submitted RPCPPE.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "This observation was already noted in Annual Audit Reports (AAR) for Cys 2012-2020. Reiterated in Part II, Observation No. 1, Page No. 39"
+    },
+    {
+      "id": "PadreBurgos_Quezon_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal Treasurer/GSO-Designate to institute measures to properly completely dispose of all fully-depreciated and unserviceable properties in accordance with Section 79 of PD No. 1445 and Sections 379 to 381 of RA No. 7160.",
+      "managementAction": "The Municipality initiated the disposal of the unserviceable properties but did not push through because no willing buyer was qualified to the criteria set by the GSO. The Designated GSO wanted to reconcile first the PPE before disposing the said properties.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "In CY 2021, the Municipality initiated the disposal of the unserviceable properties but did not push through because no willing buyer was qualified to the criteria set by the GSO."
+    },
+    {
+      "id": "PadreBurgos_Quezon_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Municipal Assessor and the Municipal Treasurer to facilitate the immediate titling of subject lots in the name of the Municipality and continuously coordinate with other government agencies to avoid contingent claims that may arise in the future in compliance with Section 148 of COA Circular No. 92-386.",
+      "managementAction": "The titling of land is still on-going.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipal Assessor and the Municipal Treasurer was not able to transfer any of the remaining untitled lots in the name of the Municipality."
+    },
+    {
+      "id": "PadreBurgos_Quezon_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Market Administrator and the Municipal Treasurer to implement measures to improve the financial performance of the public market. If the identified strategies are still not viable, consider the possibility of converting the vacant/unoccupied space of the building to other economic enterprise or other purposes.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Bids and Awards Committee and the Municipal Accountant to make representation with any of the contractor to provide any of the securities mentioned in the IRR of RA No. 9184 for the above-mentioned advance payments. We also recommended to ensure that all subsequent advance payments are supported with the required security.",
+      "managementAction": "The Municipal Accountant deducted from the contractor's first billing on March and May 2021.",
+      "status": "IMPLEMENTED",
+      "reason": "No payment for mobilization was incurred in CY 2021."
+    },
+    {
+      "id": "PadreBurgos_Quezon_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor directs the Municipal Engineer to:  conduct detailed engineering activities prior to the design and bidding of the project so as to avoid issues that could delay the implementation of the PPAs; and  explain/justify why no liquidated damages were imposed against the Contractor for late completion of the Construction/Improvement/Rehabilitation of various municipal streets.",
+      "managementAction": "Detailed engineering activities prior to design and bidding was being conducted by the Municipal Engineer. The Municipal Engineer has already submitted an explanation letter including the schedule of time elapse and the actual survey of the road on May 19, 2021, justifying the non imposition of the liquidated damages to the contractor.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the MPDO and the Municipal Engineer to: • submit the list of all on-going government PPAs and those that are to be implemented during the year to the Office of the Auditor at the beginning of the year; • inform the Auditors within 10 days after the award of the infrastructure project or before the start of the program/activity that the appropriate project signboards and/or public notices were already posted for validation; • submit the monthly monitoring report as current as possible and updated; and • ensure the inclusion of all necessary information on project signboards in compliance with the above-cited circular.",
+      "managementAction": "List was already submitted at the beginning of the year. The Municipal Engineer informed the Auditors within 10 days after the award of the appropriate project contract. The Municipal Engineer submit regularly the Monthly monitoring report. The Municipality has already complied with the inclusion of all necessary information on project signboards.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor directs the MGFP and the MPDO in coordination with the different offices, the full establishment of the GAD Database that will assist the gender-responsive planning, programming and policy formulation of the Municipality to ensure that the GAD programs and activities implemented are responsive to the distinct gender issues of the Municipality.",
+      "managementAction": "GAD Database was already established by the Municipality.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the GAD Focal Person: a. together with the Heads of the Implementing Units, to ensure that all programs, plans and activities are properly planned and that problems that may arise be considered in planning the PPAs to be implemented; and b. to regularly observe/monitor the effective implementation and utilization of GAD Funds for the benefit of its intended beneficiaries.",
+      "managementAction": "The GAD Focal Person ensured that all PPAs are properly planned. The Municipality has implemented 65 percent accomplishment of GAD PPAs despite the presence of COVID -19 pandemic",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon_aar2021-PY14",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the MDRRMO to maximize the use of available resources on the LDRRMF for disaster mitigation and preparedness in order to build the resilience of the Municipality against disasters.",
+      "managementAction": "The MDRRMO utilized the DRRM Fund.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Of the P3,599,728.23 utilized the DRRM Mitigation Fund, only 55 percent were utilized. Furthermore, Continuing Appropriation from CY 2019 for the Construction of Evacuation Center, was still not implemented in CY2021."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require all the Revenue Collection Clerks to remit to the Municipal Treasurer the full amount of their collections on a daily basis regardless of the nature of collections and that the Municipal Treasurer deposit intact all her collections, as well as all collections turned over to her by the collectors/tellers, daily or not later than the next banking day.",
+      "managementAction": "a) Implemented b) Not Implemented c) Not Implemented",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Updated BRSs are not prepared and submitted as of year-end; there are still collectors who are casual employees performing collection functions."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor: a. Strictly require each Department Head to comply with the monitoring and reporting of inventories issued and prepare the RSMI on a monthly basis and submit the same to the Municipal Accountant; b. Direct the Municipal Accountant to draw a JV to base on RSMIs and record inventory expenses on a monthly basis; c. Constitute an Inventory Committee which shall conduct the physical count of inventories at least once a year, prepare the Report on the Physical Count of Inventories and submit the same to the Audit Team not later than January 31 each year; d. Require the GSO-Designate to submit the RIS for procured items costing P4,520,072.50. Henceforth all issuance of supplies should be done by the GSO Designate and no longer by the Municipal Treasurer; e. Direct the MDRRMO to submit the list of recipients of rice distributed complete with details on quantity received and signatures of the recipients. Submit also the distribution list for Barangay Tangkaan and Barangay Lungsodaan for evaluation; f. Direct the Municipal Accountant to draw an adjusting entry to record unused medical supplies costing P176,420.00; and g. Require the RHU to submit to GSO-Designate and Municipal Accountant the Monthly Report of Inventory of Medicines for Distribution for reconciliation of records.",
+      "managementAction": "a) Implemented b) Not Implemented c) Not Implemented d) Implemented e) Not Implemented f) Not Implemented g) Not Implemented",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "RIS are signed by the GSO Designate and issuance procedures adjusted; some required reports (e.g., RSMIs, distribution lists, monthly reports) not submitted or prepared; adjustments for unused medical supplies not yet recorded."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended the Municipal Mayor cause the implementation of a Payroll System to distribute salaries via Automated Teller Machines (ATMs). We further recommended that the Municipal Mayor limit cash advances granted to the Disbursing Officers within the limit of their maximum cash accountability or increased their fidelity bond sufficient to cover their maximum cash accountability. Also, the Disbursing Officer should liquidate cash advances for salaries and wages within five (5) days from after each fifteen/end of month pay period.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": "The Municipality started paying salaries via ATM on May 2021; other controls regarding cash advances were to be enforced."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor: a. Direct the Local Sanggunian to enact a supplemental budget to cover new PPAs funded by new revenue source or additional fund received; b. Direct the Local Development Council to prepare and update its Annual Investment Program or Supplemental AIP to cover new PPAs in the Supplemental Budget; c. Direct the BAC to post the updated APP, NOA and other information relative to the Procurement Projects undertaken out of the BGCM funds; and d. Henceforth, submit all documentary requirements in the GPPB Circular for succeeding transactions.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": "Supplemental PPAs were enacted and APP/NOA and related procurement documentation were posted; supplemental budget executed."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor: a. Direct the Municipal Treasurer to submit the paid payrolls for meal subsidies complete with signatures by all payees. Also, the Municipal Treasurer should make sure that paid payrolls should be signed and received by all payees; b. Direct the in-charge of the Municipal quarantine facility to submit the list of returning OFW and LSI who were isolated in the facility. The list must include details on the actual time of their arrival in the facility; and c. Direct the RHU to submit the DTRs of front liners on duty in the quarantine facility and submit to COA for validation of payments of cash subsidies for the front liners.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": "Paid payrolls and supporting documents were submitted (e.g., on Sep. 2, 2021), and DTRs were provided for validation."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-PY14",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor: a. Cause the creation of policies and guidelines to address the issue on the necessity and propriety of hiring JO workers taking into consideration the existing regular personnel; b. Limit the hiring of Job Order workers to those extremely necessary and within the age limit, and deploy only to offices that actually are in need of their services; c. Require the Human Resource Officer to require Job Order workers to submit primary personal identification, undergo interview and evaluate the performance of each to give assurance that those hired have the skills required by the office; d. Require the Human Resource Officer to incorporate in the contract the number of man hours, quantity and duration of the work to be performed by the JO worker and require them to submit quantified accomplishment reports to support payment of wages; and e. Cause the reduction of number of job-order workers to accommodate the increase of daily rate pursuant to minimum wage required under Wage Order No. RB VIII-21.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": "HR measures instituted: policies/guidelines on JO hiring implemented; JO workers limited to essential roles; interviews and documentation required; however, daily rate adjustments for JO not fully aligned with Wage Order (some JO daily rate noted at P315 which is below required P325)."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte_aar2021-PY15",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the HRMO to adhere to provision of Section 77 of RA No. 7160 which provides that the Municipality may hire Job-order for local projects only, authorized by the Sangguniang Bayan.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": "Job Orders deemed necessary by the Municipality were designated for local projects and an IAS/HR controls instituted to prevent duplication."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__PadreBurgos_Quezon-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer, in coordination with the Municipal Assessor, to submit to the Municipal Accountant a duly Certified List of Taxpayers showing complete detail of the amount due and collectibles at the start of each year to serve as basis in setting-up the RPT/SET Receivables in order to reflect a reliable RPT and SET Receivable accountsbalances.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Municipal Treasurer failed to submit a duly Certified List of Taxpayers."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__PadreBurgos_Quezon-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to\nfaithfully carry out objectives by which the BGCM Fund has been created and\nstrictly adhere to the guidelines on the use of the said fund to avoid inappropriate\nchargingandmisuse of funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__PadreBurgos_Quezon-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to\nimmediately present for audit the lacking documents to substantiate\naforementioned BGCM transactions and practice more efficiency and economy in\nsucceeding transactions despite its urgency in order to address the COVID-19\nemergencyintheMunicipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__PadreBurgos_Quezon-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the MDRRMO to submit the\nSummary/List of Donations Received, Distributed and Balances together with the\nrequired supporting documents to the NDRRMC through the OCD, copy furnish\nthe Audit Team within 10 working days after the end of each quarter pursuant to\nCOA Circular No. 2020-009 in order for the Audit Team and the oversight\nagencies to conduct timely evaluation of the receipt and utilization of the aids\nand donationsreceived bytheMunicipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__PadreBurgos_Quezon-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the\nMunicipal Treasurer, in coordination with the Municipal Assessor, to submit to\nthe Municipal Accountant a duly Certified List of Taxpayers showing the name of\nthe taxpayers and amount due and collectibles at the start of each year to serve\nas the basis in setting-up the RPT/SET Receivables in order to reflect a reliable\nRPTand SETReceivable accountsbalances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__PadreBurgos_Quezon-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendations that the Municipal Mayor gives utmost\nimportance on presenting in the financial statements PPE account balances that\narevalid andreliablebyrequiringthe:\na.Inventory Committee to conduct a complete physical inventory of all the\nMunicipality’s assets and prepare and submit the required report thereon.\nInvestigate any discrepancies between the inventory report and the accounting\nand property records and make the necessary adjustments where the error was\ncommitted;and\nb.Municipal Treasurer to maintain complete and updated property cards, as a\ncountercheck tothecorrectnessof theaccountingrecords.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__PadreBurgos_Quezon-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal\nTreasurer/GSO-Designate to institute measures to properly and completely\ndispose all fully-depreciated and unserviceable properties in accordance with\nSection79of PD No. 1445 andSections379to381of RA No. 7160.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__PadreBurgos_Quezon-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Municipal\nAssessor and the Municipal Treasurer to facilitate the immediate titling of subject lots in\nthe name of the Municipality and continuously coordinate with other government\nagencies to avoid contingent claims that may arise in the futureincompliancewithSection148of COACircular No. 92-386.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__PadreBurgos_Quezon-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Market\nAdministrator and the Municipal Treasurer to implement measures to improve the\nfinancial performance of the public market. If the identified strategies are still not\nviable, consider the possibility of converting the vacant/unoccupied space of the\nbuildingtoothereconomic enterpriseor otherpurposes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__PadreBurgos_Quezon-2020-OBS9",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Bids and Awards\nCommittee and the Municipal Accountant to make representation with the\ncontractors to provide any of the securities mentioned in the IRR of RA No. 9184 for the above-mentioned advance payments.\n\nWe also recommended to ensure that all subsequent advance payments are supported\nwith therequiredsecurity.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__PadreBurgos_Quezon-2020-OBS10",
+      "year": 2020,
+      "recommendation": "We recommended thattheMunicipalMayor directstheMunicipal Engineer to:\n conduct detailed engineering activities prior to the design and bidding of the\nprojects so as to avoid issues that could delay the implementation of the\nPPAs; and\n explain/justify why no liquidated damages were imposed against the\nContractor for late completion of the Construction/Improvement/ Rehabilitation\nof various municipal street.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__PadreBurgos_Quezon-2020-OBS11",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the MPDO and the Municipal\nEngineerto:\n submit the list of all on-going government PPAs and those that are to be\nimplemented during the year to the Office of the Auditor at the beginning of the\nyear;\n inform the Auditors within 10 days after the award of the infrastructure project\nor before the start of the program/activity that the appropriate project\nsignboardsand/or public noticeswerealreadypostedforvalidation;\n submit themonthlymonitoringreportas currentaspossible andupdated;and\n ensure the inclusion of all necessary information on project signboards in\ncompliancewiththeabove citedcircular.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__PadreBurgos_SoLeyte-2020-OBS1",
+      "year": 2020,
+      "recommendation": "1.16 We recommended that:\na. The Municipal Mayor direct the Municipal Accountant to strictly follow the\nguidelines provided in the submission of the Bank Reconciliation\nStatements (BRS) and attach the necessary supporting documents to support\nthe reconciling items enumerated in the BRS;\nb. The Municipal Mayor direct Municipal Treasurer to send a written notices to the\npayees one month before the checks become stale. Stale checks shall be reported\nand attached to the RCI prepared at the period of cancellation; and\nc. The Municipal Accountant should make the necessary adjusting entries for stale-\ndated checks as follows;\ni. For stale checks over 6 months but not over 2 years:\nDR: Cash in Bank-LCCA P xxx\nCR: Accounts Payable P xxx\nii. For checks over 2 years:\nDR: Cash in Bank – LCCA P xxx\nCR: Prior Years Adjustment* P xxx\n(*to represent surplus adjustment)",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__PadreBurgos_SoLeyte-2020-OBS2",
+      "year": 2020,
+      "recommendation": "2.7. We recommended that the Municipal Mayor direct the Municipal Accountant\nand the Municipal Treasurer to conduct regular reconciliation of the cash book\nand SL/GL balances to ensure completeness and accuracy of the recorded\ntransactions and the balances of Cash in Local Treasury, Petty Cash Fund and\nCash in Bank accounts as of a given period",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__PadreBurgos_SoLeyte-2020-OBS3",
+      "year": 2020,
+      "recommendation": "3.18 We recommended that the Municipal Mayor:\na. Require the Inventory Team to conduct complete annual physical\ninventory-taking of PPE by type and submit a Report on the Physicial\nCount of Property, Plant and Equipment (RPCPPE) not later than January\n31 of each year and reconcile the RPCPPE with the ledgers balances;\nb. Require the GSO-Designate to maintain property cards and reconciled\nwith the ledgers cards of the Municipal Accounting Office;\nc. Require the GSO/MTO to determine to whom the missing properties were\nissued. He shall then issue a demand for the production, otherwise the\naccountable officer should be asked to apply for relief of accountability\nfollowing prescribed procedures/requirements; and\nd. Direct the Municipal Accountant to: (a) recognize depreciation expense monthly on\nall the PPE accounts; (b) make necessary adjustments in books to correct\nunrecognized deprecation of identified four PPE accounts and make necessary\ndisclosure as to the four PPE accounts that are fully depreciated but still in use; and\n(c) adopt all the principles prescribed in IPSAS 17 for proper accounting of the\nMunicipality’s PPE and for a fair presentation the asset accounts in the financial\nstatements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__PadreBurgos_SoLeyte-2020-OBS4",
+      "year": 2020,
+      "recommendation": "4.23 We recommended to the Municipal Mayor to:\na. Strictly require each Department Head to comply with the monitoring and\nreporting of inventories issued and prepare the RSMI on a monthly basis\nand submit the same to the Municipal Accountant;\nb. Direct the Municipal Accountant to draw a JV to base on RSMIs and RSI\nto record inventory expenses on a monthly basis;\nc. Constitute an Inventory Committee which shall conduct the physical\ncount of inventories at least once a year, prepare the Report on the Physical\nCount of Inventories and submit the same to the Audit Team not later than\nJanuary 31 each year;\nd. Require the GSO Designate to submit the RIS for procured items costing\nP4,520,072.50. Henceforth all issuance of supplies should be done by the GSO\nDesignate and no longer by the Municipal Treasurer;\ne. Direct the MDRRMO to submit the list of recipients of rice distributed\ncomplete with details on quantity received and signatures of the recipients.\nSubmit also the distribution list for Barangay Tangkaan and Barangay\nLungsodaan for evaluation;\nf. Direct the Municipal Accountant to draw an adjusting entry to record\nunused medical supplies costing P176,420.00; and\ng. Require the RHU to submit to GSO-Designate and Municipal Accountant\nthe Monthly Report of Inventory of Medicines for Distribution for\nreconciliation of records.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__PadreBurgos_SoLeyte-2020-OBS5",
+      "year": 2020,
+      "recommendation": "5.13 We recommended to the Municipal Mayor require the Municipal Accountant\nto transfer and record the unexpended balance of the QRF and DRRMF-MOOE to the\nSpecial Trust Fund under the Trust Liabilities – DRRM account in the Trust Fund\nbook. Moreover, prepare adjusting entries to correct the errors in recording of related\ntransactions. The Municipal Accountant should also be reminded to follow the\nprescribed format (Annex D of COA Circular 2012-002) to discuss the unexpended\nbalance in the Notes to Financial Statement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__PadreBurgos_SoLeyte-2020-OBS6",
+      "year": 2020,
+      "recommendation": "6.16 We recommended that the Municipal Mayor require all the Revenue Collection\nClerks to remit to the Municipal Treasurer the full amount of their collections\non a daily basis regardless of the nature of collections madethat the Municipal\nMayor require all the Revenue Collection Clerks to remit to the Municipal\nTreasurer the full amount of their collections on a daily basis regardless of the\nnature of collections made.\n\n6.17 We also recommended that the Municipal Treasurer deposit intact all her\ncollections, as well as collections turned over to her by the Revenue Collecting\nClerks, daily or not later than the next banking day.\n\n6.18 We further recommended that Municipal Mayor should direct the Municipal\nTreasurer to immediately stop the practice of allowing casual employees from\nperforming the collection function unless they are duly designated as revenue\ncollectors and adequately bonded in accordance with existing regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__PadreBurgos_SoLeyte-2020-OBS7",
+      "year": 2020,
+      "recommendation": "7.14 We recommended Municipal Mayor cause the implementation of a Payroll\nSystem to distribute salaries via Automated Teller Machines (ATMs).\n\n7.15 We further recommended that the Municipal Mayor should limit cash advances\ngranted to the Disbursing Officers within the limit of their maximum cash\naccountability or increased their fidelity bond sufficient to cover their maximum\ncash accountability\n\n7.16 Also, we recommended that the Disbursing Officer should make sure to\nliquidate his cash advances for salaries and wages within five (5) days from\nafter each fifteen/end of month pay period.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__PadreBurgos_SoLeyte-2020-OBS8",
+      "year": 2020,
+      "recommendation": "8.16 We recommended that the Municipal Mayor must:\na. Direct the Local Sanggunian to enact a supplemental budget to cover new PPAs\nfunded by new revenue source or additional fund received;\nb. Direct the Local Development Council to prepare and update its Annual\nInvestment Program or Supplemental Investment Program/s to cover new PPAs\nin the Supplemental Budget;\nc. Direct the BAC to post the updated APP, NOA and other information relative to\nthe Procurement Projects undertaken out of the BGCM funds; and\nd. Henceforth, the Municipal Accountant should recognize the expenditures or assets\npurchased out of the fund transfer from the National Government Agencies.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__PadreBurgos_SoLeyte-2020-OBS9",
+      "year": 2020,
+      "recommendation": "9.24 We recommended that the Municipal Mayor require both the BAC Chairman\nand Secretariat, in coordination with the Municipal Accountant, to take the\nfollowing courses of actions:\na. For each procurement, submit notarized Omnibus Sworn Statement of\nsuppliers and written recommendations from the BAC, End-user or any unit\nauthorized by HoPE of the award of contract;\nb. For each supplier, submit Mayor’s Permit or Business Permit and Income\nTax Returns in accordance to GPPB Circular No. 01-2020 dated April 6,\n2020; and\nc. Henceforth, submit all the documentary requirements in the GPPB Circular\nfor succeeding transactions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__PadreBurgos_SoLeyte-2020-OBS10",
+      "year": 2020,
+      "recommendation": "10.17 We recommended to the Municipal Mayor to:\na. Require the Members of the Sangguniang Bayan to enact a supplemental\nbudget for any changes in the Annual Budget to cover new PPAs from\nrealigned funds or available funds from new revenue source as certified by the\nMunicipal Treasurer;\nb. Require the members of the Local Development Council and Municipal\nDisaster Risk Reduction and Management Council to prepare a\nsupplemental AIP to support the changes in the Annual budget; and\nc. Direct the Municipal Budget Officer and Disaster Risk Reduction\nManagement Council to revise the Local Disaster Risk Reduction\nManagement Fund Investment Plan (LDRRMFIP) and embodied therewith new\nprogrammed appropriations and obligations for disaster risk reduction and\nmanagement program, project & activities to be funded from the unexpended\nQRF and DRRMF-MOOE of the previous years which were transferred to\nthe Special Trust Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__PadreBurgos_SoLeyte-2020-OBS11",
+      "year": 2020,
+      "recommendation": "11.16 We recommended to the Municipal Mayor to:\na. Direct the Municipal Treasurer to submit the paid payrolls for meal\nsubsidies complete with signatures by all payees. Also, the Municipal\nTreasurer should make sure that paid payrolls should be signed received by\nall payees;\nb. Direct the in-charge of the Municipal quarantine facility to submit the list\nof returning OFW and LSI who were isolated in the facility. The list must\ninclude details on the actual time of their arrival in the facility; and\nc. Direct the RHU to submit the DTRs of front liners on duty in the\nquarantine facility and submit to COA for validation of payments of cash\nsubsidies for the cost meals for front liners.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__PadreBurgos_SoLeyte-2020-OBS12",
+      "year": 2020,
+      "recommendation": "12.9 We recommended that the Municipal Mayor direct the Municipal Accountant\nand Municipal Treasurer to comply with the provisions of COA Circular No. 2012-001\nand exercise due diligence in the processing of claims and complete documentations\nmust be observed before effecting payment.\n\n12.10 Furthermore, we recommended that the Municipal Accountant to submit the\nlacking documents for evaluation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__PadreBurgos_Quezon-2020-PY1",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendations that the Municipal Mayor gives utmost importance on presenting in the financial statements PPE account balances that are valid and reliable by requiring the:\na.Inventory Committee to conduct a complete physical inventory of all the Municipality’s assets and prepare and submit the required report thereon. Investigate any discrepancies between the inventory report and the accounting and property records and make the necessary adjustments where the error was committed; and\nb.Municipal Treasurer to maintain complete and updated property cards, as a counter check to the correctness of the accounting records.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The submitted Inventory Report was incomplete and details of the properties were not properly indicated. Property cards were only updateduptoCY 2016."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__PadreBurgos_Quezon-2020-PY2",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Treasurer/GSO-Designate to institute measures to properly and completely dispose all fully-depreciated and unserviceable properties in accordance with Section 79 of PD No. 1445 and Sections 379 to 381 of RA No. 7160.",
+      "managementAction": "The Municipal Engineer appraised values of the unserviceable properties posted in the IIRUP.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipality was preparing for disposal in early CY 2020, but due to the pandemic, the disposal of the fully-depreciated and unserviceable propertieswerenot facilitated."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__PadreBurgos_Quezon-2020-PY3",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Municipal Assessor and the Municipal Treasurer to facilitate the immediate titling of subject lots in the name of the Municipality and continuously coordinate with other government agencies to avoid contingent claims that may arise in the future in compliance with Section 148 of COA Circular No. 92-386.\nWe further recommended that the Municipal Budget Officer include in the appropriated budget appropriation the funds for the titling of the said lots.",
+      "managementAction": "The Municipal Assessor stated that the Municipality has continuously exerting effort to immediately facilitate the titling of the subject lots. She mentioned that they have coordinated with the LRA and as per verification with the said agency, the Municipality found out that the lot located in Barangay Burgos was identified as lot no. 1716 and was registered in the Ordinary Land Registration proceeding under GLRO Record No. 29639 with a Decree No. 336394 issued on July 14,1928, previously named “Tayabas” as its location. She also stated that she requested funds for the research of these Municipal Lots in the Supplemental Budget of the Municipality. Likewise, she proposed a relocation survey for the Municipal property in support of the requirements and the immediate titling of the said lots.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Land remains untitled since further verification of the ownership of the land is still on-going."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__PadreBurgos_Quezon-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to confirm with the account owners/suppliers and to request them to submit to the creditors documents pertaining to their claims. If they failed to do so within a reasonable period of time after they were notified, revert the accounts to the Unappropriated Surplus of the GF, subject to an authority from the Sangguniang Bayan (SB) through a resolution, with a condition that appropriation shall be made in the event that claims arises in the future pursuant to the provisions of Section 98 of PD No. 1445.",
+      "managementAction": "The Municipality refunded the said Guaranty/Security Deposits Payable refunded the creditors and informed various creditors for the claims/refund of creditors.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__PadreBurgos_Quezon-2020-PY6",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Market Administrator and the Municipal Treasurer to formulate strategies and implement measures to improve the financial performance of the public market. If the identified strategies are still not viable, consider the possibility of converting the vacant/unoccupied space of the building to other economic enterprise or otherpurposes.",
+      "managementAction": "The Municipal Market Administrator stated in his letter dated June 3, 2021 that the Market Committee is currently evaluating the application of new stallholders. Once completed, additional stallholders will occupy the public market that will increase the collections of the Municipality",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Public Market operation still incurred loss and not yet self-liquidating."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__PadreBurgos_Quezon-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the concerned municipal officials to immediately take action since the funds were remain already available for more than three years, with the end of providing immediate and adequate social and livelihood services projects for the benefit of the intended beneficiaries.",
+      "managementAction": "The Municipality refunded the said amount to the Bureau of Treasury under Check No. 3077050 dated June 4, 2020.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__PadreBurgos_Quezon-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Planning and Development Coordinator to utilize the unexpended balance of funds allocated funds for the intended purposes after due evaluation whether these are still priority concerns taking into consideration current developments and to accordingly realign the funds of projects/program/activity which have become irrelevant or not responsive to current priority undertakings.",
+      "managementAction": "The Municipality implemented projects under 20 percent DF and reprogrammed the projects which were no longer relevant.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__PadreBurgos_Quezon-2020-PY9",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor initiates, through the MGFP and the MPDC, the establishment of a GAD database that will assist the gender-responsive planning, programming and policy formulation of the Municipality to ensure that the GAD programs and activities implemented are responsive to the distinct gender issues of the Municipality.",
+      "managementAction": "The GAD Focal Person distributed questionnaires to the concerned agencies as initial measure in Reiterated in Audit Observation no. 12, page56",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The GAD database was still insufficient since only 35 percent of the data werecollected."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__PadreBurgos_Quezon-2020-PY10",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the GAD Focal Person:\na.together with the Heads of the Implementing Units, to ensure that all programs, plans and activities (PPAs) are properly planned and that problems that may arise be considered in planning the PPAs to be implemented; and\nb.to regularly observe/monitor the effective implementation and utilization of GAD Funds for the benefit of its intended beneficiaries.",
+      "managementAction": "The Municipal GAD Focal Person, through her letter dated May 31, 2021, agreed to comply with the recommendation and ensure that all PPAs for the year 2021 are properly monitored, and that problems that may arise are considered in planning the PPAs for the effective implementation and utilization of GAD Funds.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Due to the COVID-19 pandemic in CY 2020, effective implementation and utilization of the GAD funds were not properly monitored."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__PadreBurgos_Quezon-2020-PY11",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the LDRRMO to maximize the use of available resources on the LDRRMF for disaster mitigation and preparedness in order to build the resilience of the Municipality against disasters.",
+      "managementAction": "The MDRRMO informed the Audit Team through his letter dated May 19, 2021, that the Construction of the Operation Center was not implemented since the supplemental budget amounting to P2,500,000.00 that was supposed to be an additional allotment for the said project was re-programmed to respond to the national health emergency due to COVID-19 pandemic, but he averred that fund was allotted this year, subject for approval by the Local Development Council. He also stated that purchase of rescue vehicle amounting to P2,200,000.00 was implemented in the first half of CY 2021, and that the remaining balance is still for implementation in the succeeding months. He assured that they will do their best to maximize the use of available resources of the LDRRMF for disaster preparedness and disaster prevention and mitigation and strictly implement the LDRRMFIP in the following years to come.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some plan, projects and activities were still not implemented."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__PadreBurgos_Quezon-2020-PY12",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor:\n• directs the LDRRMO to include under a separate caption, the list of projects and activities charged to the unexpended LDRRMF of previous years in the LDRRMFIP in accordance with Section 5.1.2 of COA Circular No. 2012-002;\n• requires the Municipal Accountant and LDRRMO to prepare and timely submit a duly certified Report on the Sources and Utilization of LDRRMF within the period prescribed, which is on or before the 15th day after the end of each month in compliance with Item 5.1.5 of COA Circular No. 2012-002; and\n• instructs the LDRRMO to furnish the Office of the Civil Defense (OCD) and the Department of the Interior and Local Government-Local Government Operations Office (DILG-MLGOO) a copy each of the annual LDRRMFIP and the Monthly Report on Sources and Utilization of DRRMF as required in Item 5.1.6 of COA Circular No. 2012-002.",
+      "managementAction": "The LDRRMO prepared the LDRRMFIP in accordance with the said Circular. The LDRRMO submitted duly certified Report on Sources and Utilization of DRRMF to the OCD and DILG-MLGOO.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__PadreBurgos_Quezon-2020-PY13",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor prioritize the establishment of the LDRRMO in compliance with RA No. 10121 to ensure the safety and protection of the Municipality’s constituents during the times of disaster and emergency.",
+      "managementAction": "The Management filled up the vacant position to fully establish the LDRRM Office.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__PadreBurgos_Quezon-2020-PY14",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the MSWMB to:\na.Compel the barangays to follow all provisions of RA No. 9003 particularly the establishment of MRF and segregation of waste at source in order to reduce the volume of waste being disposed to the final facility; and\nb.Ensure close supervision with Barangay Officials relative to the supervising the “segregation at source” policy and MRFs of the Barangays in supervising the establishment of fully functional MRFs in all its Barangays.",
+      "managementAction": "The MSWMB coordinated with the Barangay Officials in supervising the Barangays relative to the \"segregation at source\" policy and supervising the establishment of fully functional MRFs in all its Barangays.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Southern-Leyte__PadreBurgos_SoLeyte-2020-PY1",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2019-PY6",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Market Administrator and the Municipal Treasurer to formulate strategies and implement measures to improve the financial performance of public market. If the identified strategies are still not viable, consider the possibility of converting the vacant/unoccupied space of the building to other economic enterprise or other purposes.",
+      "managementAction": "Not implemented",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No action was taken by the Management"
+    },
+    {
+      "id": "PadreBurgos_Quezon-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the:  Municipal Engineer and the MPDC to work together in the implementation of the projects to ensure the timely implementation; and  MPDC to coordinate with the DA for the provision of the implementing guidelines for the project.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Coordination for the guidelines not yet done"
+    },
+    {
+      "id": "PadreBurgos_Quezon-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendations that the Municipal Mayor gives utmost\nimportance on presenting in the financial statements PPE account balances that\nare valid and reliable by requiring the:\na. Inventory Committee to conduct a complete physical inventory of all the\nMunicipality’s assets and prepare and submit the required report thereon.\nInvestigate any discrepancies between the inventory report and the accounting\nand property records and make the necessary adjustments where the error was\ncommitted; and\nb. Municipal Treasurer to maintain complete and updated property cards, as a\ncounter check to the correctness of the accounting records.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal\nTreasurer/GSO-Designate to institute measures to properly and completely\ndispose all fully-depreciated and unserviceable properties in accordance with\nSection 79 of PD No. 1445 and Sections 379 to 381 of RA No. 7160.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Municipal\nAssessor and the Municipal Treasurer to facilitate the immediate titling of subject\nlots in the name of the Municipality and continuously coordinate with other\ngovernment agencies to avoid contingent claims that may arise in the future in\ncompliance with Section 148 of COA Circular No. 92-386.\n\nWe further recommended that the Municipal Budget Officer include in the budget\nappropriation the funds for the titling of the said lots.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer, in\ncoordination with the Municipal Assessor, to submit to the Municipal Accountant a\nduly certified list of taxpayers showing the name of the taxpayers and amount due\nand collectible at the start of each year to serve as basis in setting-up the Real\nProperty Tax/Special Education tax Receivables in order to reflect a reliable RPT\nand SET Receivable accounts balances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to\nconfirm with the account owners/suppliers and to request them to submit\ndocuments pertaining to their claims. If they failed to do so within a reasonable\nperiod of time after they were notified, revert the accounts to the Unappropriated\nSurplus of the GF, subject to an authority from the Sangguniang Bayan (SB)\nthrough a resolution, with a condition that appropriation shall be made in the event\nthat claims arises in the future pursuant to the provisions of Section 98 of PD No.\n1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Market\nAdministrator and the Municipal Treasurer to formulate strategies and implement\nmeasures to improve the financial performance of the public market. If the\nidentified strategies are still not viable, consider the possibility of converting the\nvacant/unoccupied space of the building to other economic enterprise or other\npurposes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to require the Municipal Accountant, General\nServices Officer and Municipal Engineer to strictly follow the accounting and reporting\nprocedures mentioned in COA Circular No. 2015-008 and COA Circular No. 2016-004 for\ntheir guidance in making necessary journal entries to record back to Property, Plant and\nEquipment all Public Infrastructures that was transferred to Registry of Public Infrastructure so that\nfair presentation of the financial statements could be attained.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to:\na. require the inventory committee to include in its annual inventory taking\nthe road network account and reconcile the RCPPE with the records of\nthe Municipal Engineer and Municipal Accountant;\nb. require the Municipal Accountant to determine the cost of the road lot and\nrecognize it as part of the road network component including the cost of\nconstructing the drainage and slope protection and other miscellaneous\nstructure, if there is any;\nc. require the Municipal Accountant to periodically assess the local roads\nwhether there is any indication that a component of the local road may be\nimpaired and recognize an Impairment Loss to be presented as a contra-\nasset account;\nd. cause the creation of an Inventory Committee and require the Committee\n50\nto conduct an inventory of all the local roads under its jurisdiction, prepare\nand submit a verified Report on the Physical Count of the Road Network\nSystem (RPCRNS); and\ne. require the Municipal Accountant to maintain and update subsidiary\nledgers. and disclose in the notes to financial statements the local road\nnetwork system as prescribed by regulation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to require the General Services\nOfficer to institute measures for the immediate and proper disposal of all\nobsolete and unserviceable properties stipulated in Section 370 of RA No.\n7160. Also, once proper disposal has been undertaken, the Municipal\nAccountant should derecognize in the books said unserviceable PPE items.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to require the Municipal Accountant\nto adopt monitoring mechanism to detect variances in the amount to be remitted from the\nsalaries withheld for the GSIS, Pag-IBIG and Philhealth contributions/loan payments of\nemployees. Furthermore, we also recommend that accounting records such as cash\nreceipts journal, check disbursement journal, cash disbursement journal, general and\nsubsidiary ledgers must be updated monthly in order to determine the exact amount to be\nremitted to the GSIS, Pag-IBIG and Philhealth.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to require the Municipal Accountant\nto properly classify the current portion of the Loans Payable-Domestic at year-\nend in compliance with IPSAS 1 and provide sufficient appropriate disclosure\non the Loans Payable-Domestic account in the Notes to Financial Statements\nto provide sufficient and adequate information so that the liquidity and solvency\nof the municipality could be properly assessed",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to:\na. require the BAC to give utmost priority to the bidding process and shall be\non a “jury duty” until the Notice of Award is issued by the HOPE in order to\ncomplete the entire procurement process at the earliest possible time; and\nb. require the Municipal Budget Officer to make sure that all programs and\nactivities that are to be implemented by the Municipality under the 20% DF\nshould be covered with an appropriation ordinance and approved Annual\nInvestment Plan and make sure that 20% DF shall be available exclusively\nfor the specific purpose for which they have been appropriated.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to require the Municipal Disaster\nRisk Reduction and Management Officer to:\na. monitor the implementation of the programs, projects and activities (PPA);\nb. coordinate with the BAC on the prompt scheduling of procurements\nactivities of PPAs included in the LDRRMFIP;\nc. coordinate with the Municipal Accountant in the preparation of the Monthly\nReport on Sources and Utilization of DRRMF to ensure that disbursements are\nin accordance with the approved LDRRMFIP; and\nd. submit the required Monthly Report on Sources and Utilization of DRRMF\nto the Municipal Accountant for onward submission on or before the 15th\nday after end of each month to the Audit Team pursuant to COA Circular\nNo. 2012-002.\n64\nWe likewise recommended to the Municipal Mayor to require the Municipal\nDisaster Risk Reduction and Management Council to formulate programs,\nprojects and activities related to DRRM corresponding to the available funds\nand incorporate in the LDRRMFIP to maximize utilization thereof.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-OBS8",
+      "year": 2019,
+      "recommendation": "We recommend that the Municipal Mayor to require the Municipal\nAccountant and Municipal Engineer, Municipal Planning and Development\nOfficer, and the Municipal Agriculturist:\na. to disburse funds strictly in accordance with the work and financial plan\ntimelines, otherwise, a revised and approved disbursement schedule shall\nbe submitted;\nb. to fast track the disbursement process while ensuring complete and\nadequate supporting documents to facilitate submission of liquidation to the\nAudit Team; and\nc. to make sure that the proposed line item budget of the project funded by\nfund transfer is in concurrence with the current market price.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-OBS9",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to:\na. cause the creation of policies and guidelines to address the issue on the\nnecessity and propriety of hiring JO workers taking into consideration the\nexisting regular employees;\nb. limit the hiring of personnel under Job Order contracts to those extremely\nnecessary and within the age limit, and deploy only to offices that actually\nare in need of their services;\nc. require the Human Resource Officer to require Job Order workers to submit\nprimary personal identification, undergo interview and evaluate the\nperformance of each to give assurance that those hired have the skills\nrequired by the office; and\nd. require the Human Resource Officer to incorporate in the contract the\nnumber of man hours, quantity and duration of the work to be performed by\nthe JO worker and require them to submit quantified accomplishment\nreports to support payment of wages.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-OBS10",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to:\na. require the Local Finance Committee to adhere to Paragraph (a) and (b)\nof Section 316 of the Local Government Code of 1991 which requires that\nbudget should be lodged in the income reasonably projected and collectible\nfor the ensuing fiscal year and that appropriately support the budget;\nb. require the Municipal Treasurer to submit Status Report on the Income\nfrom Waterworks System Fees; and\nc. coordinate with the members of the Sangguniang Bayan to look into the\npossible updating of the Ordinances on Water Rates based on the report\nof the Municipal Treasurer.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-OBS11",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to:\na. require the Municipal Treasurer, In-charge of the Public Market Operation\nand other members of the Local Finance Committee to review the\nprovisions in the Contract of Lease and make the necessary revisions\nthereon especially on penalties of delinquent lessees; and\nb. execute Water Service Contracts to its concessionaires stipulating the\nterms, conditions and penalties in case of non-payments.\nSecondly, we recommended to the Municipal Mayor to require the Municipal\nTreasurer:\na. issue demand letters to delinquent market lessees; and\nb. issue notices to vacate for failure to pay the rent after the issuance of\ndemand letters.\nLastly, we recommended to the Municipal Mayor to require the Municipal\nTreasurer to:\na. continue to monitor the monthly collections of the billed water\nconsumption for the Office and take proper action on non-paying\nconsumers; and\nb. issue demand letters to delinquent water service concessionaires and\nexercise the right to disconnect service lines for reasons of failure to\ncomply with the demand letter within the stipulated period.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-OBS12",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to require the GAD Focal Person\nto conduct gender analysis in the formulation of programs and projects and\nactivities so that the intended beneficiaries are assured of the services,\nprotection and other assistance that may be provided.\n\nFurthermore, we recommended to the Municipal Mayor to require the GAD\nFocal Person to exert all efforts to fast-track the implementation of\nprogrammed activities in the Gender and Development Plan and Budget or\nreprogrammed those GAD activities whose implementation was funded by\nNational Government Agencies.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-OBS13",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to require the Municipal Accountant:\na. to identify the payees/accountable officers of all unsettled disallowances;\nb. to issue demand letter with the signature of the Mayor to the\npayees/accountable officers concerned with unsettled disallowances;\nc. to enforce withholding of payment or any amount due to the persons liable\nto settle said disallowances; and\nd. to ensure that all employees who are retiring or transferring to other\nagencies shall first settle the disallowances and charges for which they are\nliable in accordance with Section 7 of COA Circular No. 2009-006 dated\nSeptember 15, 2009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-OBS14",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to require the Municipal Health\nOfficer to facilitate the licensing of its ambulance with the DOH and secure\nthe transfer documents of the donated vehicle from the DOH.\n\nWe further recommended to the Municipal Mayor to require the Municipal\nAccountant to record in its books the cost of the donated vehicle supported\nwith the transfer documents from the DOH.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-OBS15",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor and the Local Sanggunian to:\na. craft ordinances and issue executive orders related to waste management\nand environmental protection;\nb. strengthen the current waste management system of the Municipality,\nincluding, garbage classification, collection, and recycling;\nc. add more waste recycling facilities; and\nd. focus on the recycling methods of the recyclables.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Treasurer to complete the RPCPPE and submit the same to the Audit Team for verification, maintain complete and updated Property Cards and reconcile her records regularly with the Accounting Office pursuant to Sections 111, 119 and 124 of the MNGAS.",
+      "managementAction": "The Municipal Trasurer/ designated GSO conducted the Physical Inventory of PPE for the year 2019 and submitted their Inventory Report.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reconciliation of records and preparation of property cards and reports not properly submitted their observation no. 1, page 39"
+    },
+    {
+      "id": "PadreBurgos_Quezon-2019-PY2",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal Treasurer/GSO-Designate to complete the disposal of the unserviceable properties in accordance with Section 79 of P.D. No. 1445 and Section 125, Chapter 7 of the MNGAS for LGUs, by providing the needed storage room and additional personnel.",
+      "managementAction": "The Municipal Treasurer commented in her letter dated June 18, 2020 that the list of properties for disposal has already been forwarded to the Engineering Office for determination of its fair market value. The results of this assessment revealed that these unserviceable properties are valueless as to date and are ready for disposal.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Because the assessment of the the said properties still on-going."
+    },
+    {
+      "id": "PadreBurgos_Quezon-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Assessor to facilitate the titling of the 15 parcels of land by allocating funds for the titling and continuous coordination with the other government agencies to avoid contingent claims that may arise in the future in compliance with Section 148 of COA Circular No. 92-386.",
+      "managementAction": "The Municipal Assessor explained in her letter dated June 11, 2020 that since the parcel of lots located in barangay Burgos has been verified with the Land Registration Authority (LRA) that Lots 1730 and 1734 of the Cadastral Survey of Padre Burgos was decreed in the ordinary Land Registration Proceeding under GLRO No. 36012, further verification from the Registry of Deeds will be conducted as to whom the title was issued. She also commented therein that Lot 1731 was already subdivided and was still for verification with the LRA. They averred that they will continue to do their best to facilitate the titling of the parcels of land.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Land remains untitled since further verification of the ownership of the land is still on going."
+    },
+    {
+      "id": "PadreBurgos_Quezon-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to revert the account to the Unappropriated Surplus of the General Fund pursuant to the provisions of Section 98 of PD No. 1445, subject to the authority from the Sangguniang Bayan (SB) with a condition that appropriation shall be made in the event that claim arises in the future.",
+      "managementAction": "The Municipal Accountant stated in her letter dated June 11, 2020 that they have drafted letters for the suppliers to submit response/demand letter to process refund of their accounts within one month from its receipt. She also mentioned therein that after the lapse of the given period, they will request from the Sangguniang Bayan, a resolution for the approval of the reversion of these accounts to the Unappropriated Surplus to comply with the audit recommendation. JEV No. 308 dated 12/27/2019 amounting to P27,210.44 per SB Res. 99, S. 2019; Reverted to GF JEV No. 2348 dated 12/27/2019 amounting to P98,865.52; remitted to LGU Agdangan amounting to P3,126.76 with check no. 3180911 dated 10/21/19.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Engineer and the MPDC to work together in the implementation of the planned projects and activities for timely implementation so that the appropriate signboards and/or public notices are already posted and inform the Audit Team within 10 days after the award of the infrastructure project or before the start of the program/activity.",
+      "managementAction": "The Municipality submitted the list of all on-going Government PPAs and those that are to be implemented.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Engineer and the MPDC to work together in the implementation of the planned projects and activities for 20 percent DF to ensure timely implementation so that the desirable socio-economic development and environmental management outcomes are fully achieved.",
+      "managementAction": "The Municipality partially implemented the projects under 20 percent DF.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipality was not able to fully utilized the fund due to other prioritized activities after the change of administration."
+    },
+    {
+      "id": "PadreBurgos_Quezon-2019-PY9",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the LDRM Officer, in coordination with the MPDC and the Municipal Engineer, with regards to infrastructure projects, to implement the LDRRMIP as mandated by law to lessen the socio-economic and environmental impacts of disasters in the community and disaster risks, including projected climate risks, and to enhance disaster preparedness and response capabilities of the community.",
+      "managementAction": "The Municipality partially implemented the LDRRMF. Appropriation for the fund were not expended due to inadequate planning.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Appropriation for the fund were not expended due to inadequate planning."
+    },
+    {
+      "id": "PadreBurgos_Quezon-2019-PY10",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor initiate, through the MGFP and the MPDC, the establishment of a GAD Database that will assist the gender-responsive planning, programming and policy formulation of the Municipality to ensure that the GAD programs and activities implemented are responsive to the distinct gender issues of the Municipality.",
+      "managementAction": "The Municipality is still gathering data to be established.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The GAD Database was not yet established due to lack of available data."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor:  direct the Municipal Accountant to finish the physical count of PPE and come up with the RPCPPE.  direct the General Service Officer- Designate and the Municipal Accountant to determine the validity of the PPE account through reconciliation of the accounting records and the actual inventory. Any adjustment in the RPCPPE should be properly identified.  require the Municipal Accountant to prepare the PPE Ledger Card (PPELC) for each class of PPE listing therein the data as to its acquisition, description, custody, estimated life, rate of depreciation, disposal, and other information about the property, plant and equipment, based on the source documents of the transactions and drop from the books of accounts the unserviceable properties after the Waste Material Report and the Inventory and Inspection Report of Unserviceable Property are duly approved and evaluated by the COA.",
+      "managementAction": "Partially Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant:  to make written representations with the depository banks to ensure the prompt submission of the bank statements.  to draw the necessary journal entries to correct errors that affects the Cash in Bank accounts.  to return the outstanding checks for more than two (2) years back in the books as debit to cash in bank and credit prior year’s adjustment duly supported with necessary required documents.",
+      "managementAction": "Partially Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor: a) direct the Municipal Accountant to conduct a thorough analysis to determine the depreciation of the Municipal building and derecognize the carrying value of the demolished building; and b) direct the property officer to prepare a Waste Materials Report to record the remnants salvaged from the said demolition.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Engineer and the Municipal Planning and Development Coordinator to facilitate the preparation of the program of works and fast-track the implementation of programs, projects and activities that are included in the Annual Investment Plan (AIP) for 20% DF to attain socio-economic development and environmental goals of the municipality. Also, direct the Municipal Accountant to send demand letters to the recipient barangays for the submission of Fund Utilization Report.",
+      "managementAction": "Fully Implemented",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant and Municipal Treasurer to comply with the provisions of COA Circular No. 2012-001 and to exercise due diligence in the processing of claims. We further recommend that before effecting payment complete documentations must be observed.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Budget Officer and Disaster Risk Reduction Management Focal Person to formulate a Local Disaster Risk Reduction and Management Investment Plan (LDRRMFIP) for programs/projects/activities related to disaster management and prevention. Also, direct that LDRRMFIP will include the unexpended QRF and DRRMF-MOOE of previous years which were transferred to the Special Trust Fund.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the BAC Chairman, Municipal Engineer, MPDC, Municipal Agricultural Officer and Municipal Social Welfare Development Officer to judiciously plan proposed projects and fast-track the implementation of programs, projects and activities funded by the National Government Agencies in accordance with the timeline provided for in the MOA.",
+      "managementAction": "Partially Implemented",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Mayor to: a. ensure that all conditions preliminary to the commencement of construction have been addressed and that a certification stating be executed by the Municipal Engineer prior to the start of procurement activities to ensure that necessary arrangements and documents have been done for the project to be completed and utilized as planned; b. review thoroughly the request for time extension by contractors based on complete and relevant documents that will enable the assessment of the reasonableness of the reasons cited; c. specify in the notice of suspension of work the period within which work is suspended and the reason for granting the request to facilitate monitoring; d. ensure the timely issuance of notice of resumption of work, so work is started by the contractors immediately after the period of work suspension; and e. maintain complete and orderly files of documents pertaining to project implementation such as approved contract time extensions, notices of suspension of work and resumption of work to facilitate review and monitoring, and to ensure that appropriate action are acted on time. We further recommended that the Municipal Mayor: f. direct the Bids and Awards Committee (BAC) (a) to properly plan the procurement of infrastructure projects; (b) to initiate the forfeiture of Performance Security of erring contractors in favor of the Municipality in case of non-completion of projects within the contract period; and (c) to initiate the sanction of blacklisting erring contractors, if warranted. g. require the Municipal Accountant and the Municipal Treasurer to see to it that liquidated damages will be effected on every day of delay until the project is completed and accepted by the Municipality; We also recommended that the BAC must plan to ensure their completion and use within the planned period.",
+      "managementAction": "Partially Implemented",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY9",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the members of the Bids and Awards Committee (BAC) to rescind the contract and to impose appropriate sanctions on top of the liquidated damages to be paid for contracts whose liquidated damages exceeded the 10% ceiling per RIRR of RA No. 9184 to address the continuing delay in the delivery of goods.",
+      "managementAction": "Partially Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY10",
+      "year": 2019,
+      "recommendation": "Considering the LGU would continuously secure loans and borrowings to finance development and investment projects, we recommended the following measures to address these deficiencies: - The maximum borrowing capacity should not consider the 20% debt service but also the net available funds prior to contracting of loans/borrowings; - The LGU through the LCE should conduct self-assessment of their capacity to repay the loan taking into consideration their net available funds, ensure that utilization of loan proceeds is covered by appropriation ordinance, determine the most cost effective borrowing scheme, contract loan only upon proper evaluation of priority projects, and allocate sufficient funds to cover total contracted liabilities.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY11",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Treasurer to execute contract of lease to the lessees of the public market. The contract must stipulate the terms, conditions and penalties in case of non-payments. Also, the corresponding rental fee should be based on the approved revenue code of the Municipality. The Treasury Office must establish a system of collection to enforce collection of market stall rental fee periodically and demand for the collection of the unpaid amount.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY12",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the SWM Officer to consider the appropriate means of communication depending on the information that it wishes to pass on to the public and its stakeholders. For instance, there should be public notices on television and on the radio about who can access the Residual Containment Area (RCA), the working hours at the RCA to limit after-hours access and the schedule for collection of wastes from households for the different zones. Websites have become increasingly effective and economical in disseminating information. Therefore it is important to have a specific link for Solid Waste Management within the Municipality’s website so that it is easier for the public to have access to information and policy on solid waste management as well as any issue concerning solid waste management. To ensure effective implementation of the solid waste management plan, a well-designed, current and targeted community awareness program is required. The targeted audience should be considered when determining how the information should be given to the public. The urgency of the matter should also be considered so that everyone is aware of the matter as soon as possible.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY13",
+      "year": 2019,
+      "recommendation": "We recommended that the RCA be enforced at the source, and that the wastes be placed at the site, which will provide baseline data to assist in developing effective waste minimization strategies and future plans for waste management. The SWM Focal Person must ensure that waste records are maintained to monitor the volumes and types of waste disposed.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY14",
+      "year": 2019,
+      "recommendation": "We recommended that the SWM Focal Person should implement a color coding or appropriate means of identification to ensure that wastes are properly segregated at the RCA.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY15",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the SWM Focal Person to maintain disposal site records in the RCA.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY16",
+      "year": 2019,
+      "recommendation": "We recommended that the RCA be fenced with a secured gate at the entrance to minimize illegal visitors or scavengers. This will also help address the occupational health and safety issues by limiting access.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY17",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor: a) cause the allocation of funds to purchase the appropriate safety clothing as prescribed in the Manual for Operation and Maintenance at the Landfill; b) Direct the SWM Focal Person to ensure that any person entering the RCA must wear the proper safety clothing so that the operations at the RCA are effective and safe.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY18",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive require the HRMO to adhere to provision of Section 77 of RA No. 7160 which provides that the Municipality may hire Job-order for local projects only, authorized by the Sangguniang Bayan.",
+      "managementAction": "Not Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY19",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the GAD Focal Person to see to it that gender-related programs, projects and activities are aligned with GAD-related undertakings so that the intended beneficiaries are assured of the services, protection and other assistance that may be provided.",
+      "managementAction": "Partially Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY20",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to exert effort in enforcing settlement of audit disallowances. Ensure that all employees who are retiring or transferring to other agencies shall first settle the disallowances and charges for which they are liable in accordance with Section 7 of COA Circular No. 2009-006 dated September 15, 2009.",
+      "managementAction": "Not Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY21",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to analyze the Due to BIR account and prepare necessary documents to support the remittances.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY22",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Accountant as well as the General Service Office to reconcile their respective RPCPPE regularly to reflect an accurate and realistic amount in the financial statements.",
+      "managementAction": "Partially Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY23",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive: compel the Municipal Accountant to make representation with the LBP-Maasin to ask for the total loan amount of the LGU considering that a portion of the original loan was unreleased, and to prepare adjusting/correcting entries of the loans receivable account so as to reflect a fair presentation of the financial statements.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY24",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive: a) Direct the Municipal Accountant to revert back checks which have been outstanding for over six (6) months from the date of issue duly supported with the required documents. b) Compel the Municipal Treasurer to send confirmation to the payees that they have pending claims and whether they are still interested to claim. Thus, a check replacement shall be issued with the certified photo copy of the paid DV to be attached thereon by the payee.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY25",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive require the officers and employees to refund the amount collected and to ensure compliance with existing legal provisions on personnel benefits.",
+      "managementAction": "Partially Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY26",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require each program and project coordinator or the Municipal Engineer to fast-track the implementation of programs and projects funded by the National Government Agencies in accordance with the timeline provided for in the MOA.",
+      "managementAction": "Partially Implemented",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY27",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive compel the Municipal Accountant to maintain special account for all loan proceeds from which financial reports shall be prepared.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY28",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Budget Officer and Municipal Accountant to use the 20% Development Fund solely for the purpose they were allocated.",
+      "managementAction": "Fully Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY29",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive compel the Municipal Accountant and the Municipal Engineer the submission of the lacking documents previously mentioned. Likewise, for evaluation purposes, the concerned department heads should always attach all documentary requirements for the final payments in the procurements of infrastructure projects.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY30",
+      "year": 2019,
+      "recommendation": "We recommended that the BAC prepares the Procurement Monitoring Report (PMR) as required under Section 12.2 of the Revised IRR of RA 9184 and follow the prescribed form by the GPPB.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY31",
+      "year": 2019,
+      "recommendation": "We recommended that the LCE: a) cause the creation of a Disposal Committee to take charge of the disposal of unserviceable property; b) require the Supply Officer to submit to the Disposal Committee the Inventory and Inspection of Unserviceable Property and Waste Material Report.",
+      "managementAction": "Not Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY32",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive require the District Supervisor through the Municipal Accountant to prepare and attach/submit the Fund Utilization Reports supported with the documentary requirements of funds transferred from the LGU to implementing agency so as to easily determine the validity and propriety of the funds disbursed.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY33",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct that the required allocation of 1% of its IRA for the LCPC be appropriated and that the LCE cause the creation of the Local Council for the Protection of Children and direct the said council to prepare its Annual Work and Financial Plan for the attainment of the LCPC projects and activities for the welfare of the children.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY34",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive: a) re-evaluate the operation, billing and collection process of the water system project and identify the problems that hampered its operation and collection; b) immediately effect the necessary corrective measures; and c) initiate strategies to collect unpaid water bills from consumers who are remiss in paying their obligations to the LGU.",
+      "managementAction": "Partially Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY35",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive: a) Direct the Local Risk Reduction Management to prepare its Financial Plan of Programs/Activities and Utilization Report in accordance with the provision of Section5.0 of NDRRMC-DBM-DILG Joint Memorandum Circular No. 2013-01 dated March 25, 2013. b) Compel the Municipal Budget Officer and the Municipal Accountant not to charge the expenses for meals and snacks or catering services to the LDRRM Funds.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY36",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Environment and Natural Resources Officer (MENRO) for the proper implementation of the program to avoid the wastage of government resources through the non-utilization of donated equipment. With coordinated activities in the system problems encountered in its implementation are immediately addressed.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY37",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Accountant to regularly reconcile the balances in accounting records with the records of the GSIS in order to ascertain the accuracy and reliability of the amount Due to GSIS in the financial statements.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY38",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Accountant to regularly reconcile the balances in accounting records with the records of the Pag-IBIG in order to ascertain the accuracy and reliability of the amount Due to Pag-IBIG in the financial statements.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY39",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive direct the GAD Council to prioritize the implementation of the Community-Based Monitoring System (CBMS) for the creation of GAD database to serve as inputs of basis for planning, programming and policy formulation.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY40",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive consider creating and organizing an Internal Audit Services, in compliance with R.A. 4177 and AO 70 to give assurance for a sound and adequate internal control system in the operations of the Municipality.",
+      "managementAction": "Partially Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY41",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive: 1. Direct the Human Resource Management Office to review the duties and functions of the Job Order Workers so as not to duplicate the duties and functions of the regular plantilla employees; 2. Compel the Municipal Budget Officer to adjust the rates of Job Order Workers in compliance to regulations.",
+      "managementAction": "Not Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY42",
+      "year": 2019,
+      "recommendation": "We recommended that the LCE direct the Municipal Accountant as well as the General Service Office to reconcile their respective RPCPPE regularly to reflect an accurate and realistic amount in the financial statements.",
+      "managementAction": "Partially Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY43",
+      "year": 2019,
+      "recommendation": "We recommended the submission of the lacking documents mentioned in the detailed audit observations in order to be compliant with RA 9184 and COA Circular 2012-001 dated June 14, 2012.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY44",
+      "year": 2019,
+      "recommendation": "We recommended that the BAC require the contractors to issue another warranty that is compliant to the provisions of IRR of RA 9184. Likewise, the Municipal Accountant must see to it that the correct amount of warranty security which is 30% of the total contract price be imposed if surety bond is used for the same future transaction.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY45",
+      "year": 2019,
+      "recommendation": "We recommended strict adherence to the mandates on continuous disaster monitoring as part of its management of LDRRMF and in the process, use available resources towards the implementation of projects, programs and activities that are necessary for the public to ensure readiness of the LGU during emergencies. Further, we recommended for the utilization of the unexpended balance for disaster risk reduction and management programs and activities.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY46",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive cause the constitution of an Inventory Committee composed of the Municipal Treasurer or/her representative and two (2) management officials that will be responsible in conducting the physical count and prepare Inventory Report of all Property, Plant and Equipment of the local government unit. The Report on the Physical Count of Property, Plant and Equipment (RPCPPE) shall be submitted to the Auditor concerned not later than January of each year. Updated Property Ledger cards (PLC) and Property cards shall be maintained by the municipal bookkeeper and treasurer.",
+      "managementAction": "Partially Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY47",
+      "year": 2019,
+      "recommendation": "We recommended strict adherence to Sec. 4(6) of PD 1445 and to comply with the completeness of documentations before payment. Said measure must be carried out to prevent the suspension or disallowance during post-audit.",
+      "managementAction": "Not Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY48",
+      "year": 2019,
+      "recommendation": "We recommended measures: - The maximum borrowing capacity should not consider the 20% debt service but also the net available funds prior to contracting of loans/borrowings; - The LCE should conduct self-assessment of capacity to repay taking into consideration net available funds; ensure utilization of loan proceeds is covered by appropriation ordinance, determine most cost effective borrowing scheme, contract loans only upon proper evaluation of priority projects, and allocate sufficient funds to cover total contracted liabilities.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY49",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant Designate to maintain Property, Plant and Equipment Ledger Cards (PPELC) for each category of assets and the GSO-Designate to maintain Property Cards of all PPE by type to facilitate the reconciliation of records.",
+      "managementAction": "Partially Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY50",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accountant-Designate to record individual employee’s ledger for Philhealth contributions/deductions to support the balances in the subsidiary and general ledgers and regularly reconcile to ascertain the accuracy and reliability of the balance of Due to Philhealth in the financial statements pursuant to Sec. 111(2) of PD 1445.",
+      "managementAction": "Partially Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2019-PY51",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accountant-Designate to maintain individual employee’s ledger for GSIS contributions/deductions to support the balances in the subsidiary and general ledgers and regularly reconcile to ascertain the accuracy and reliability of the balance of Due to GSIS in the financial statements pursuant to Sec. 111(2) of PD 1445.",
+      "managementAction": "Fully Implemented",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Treasurer to\ncomplete the RPCPPE and submit the same to the Audit Team for verification,\nmaintain complete and updated Property Cards and reconcile her records\nregularly with the Accounting Office pursuant to Sections 111, 119 and 124 of the\nMNGAS.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Municipal\nTreasurer/GSO-Designate to complete the disposal of unserviceable properties in\naccordance with Section 79 of P.D. No. 1445 and Section 125, Chapter 7 of the\nMNGAS for LGUs, Volume I, by providing the needed storage room and additional\npersonnel.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Assessor to\nfacilitate the titling of the 15 parcels of land by allocating funds for the titling and\ncontinuous coordination with the other government agencies to avoid contingent\nclaims that may arise in the future and in compliance with Section 148 of COA\nCircular No. 92-386.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to\nrevert the account to the Unappropriated Surplus of the General Fund pursuant to\nthe provisions of Section 98 of PD No. 1445, subject to the authority from the\nSangguniang Bayan (SB) with a condition that appropriation shall be made\navailable in the event that claim arises in the future.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Municipal\nEngineer to submit the list of all on-going PPAs and those that are to be\nimplemented during the year at the beginning of the year; and inform the Audit\nTeam within 10 days after the award of the infrastructure project or before the start\nof the program/activity that the appropriate project signboards and/or public\nnotices are already posted.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Market\nAdministrator and the Municipal Treasurer to formulate strategies and implement\nmeasures to improve the financial performance of public market. If the identified\nstrategies are still not viable, consider the possibility of converting the\nvacant/unoccupied space of the building to other economic enterprise or other\npurpose which will require amendments in the market code and subject to\napproval of the Sanggunian.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2018-OBS1",
+      "year": 2018,
+      "recommendation": "1.12 We recommended that the Municipal Mayor:\n direct the Municipal Inventory Committee to finish the physical count of\nPPE and come up with the RPCPPE.\n direct the General Service Officer-Designate and the Municipal\nAccountant to determine the validity of the PPE account through\nreconciliation of the accounting records and the actual inventory. Any\nadjustment in the RPCPPE should be properly identified.\n require the Municipal Accountant to prepare the PPE Ledger Card\n(PPELC) for each class of PPE listing therein the data as to its acquisition,\ndescription, custody, estimated life, rate of depreciation, disposal, and\nother information about the property, plant and equipment, based on the\nsource documents of the transactions and drop from the books of accounts\nthe unserviceable properties after the Waste Material Report and the\nInventory and Inspection Report of Unserviceable Property are duly\napproved and evaluated by the COA.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2018-OBS2",
+      "year": 2018,
+      "recommendation": "2.6 We recommended that the Municipal Mayor direct the Municipal Accountant:\n to make written representations with the depository banks to ensure\nprompt submission of the bank statements.\n to draw the necessary journal entries to correct errors that affects the Cash\nin Bank accounts.\n to return the outstanding checks for more than two (2) years back in the\nbooks as debit to cash in bank and credit prior year’s adjustment duly\nsupported with necessary required documents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2018-OBS3",
+      "year": 2018,
+      "recommendation": "3.9 We recommended that the Municipal Mayor: a) direct the Municipal\nAccountant to conduct a thorough analysis to determine the accumulated\ndepreciation of the Municipal building and derecognize the carrying value of\nthe demolished building; and b) direct the property officer to prepare a Waste\nMaterials Report to record the remnants salvaged from the said demolition.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2018-OBS4",
+      "year": 2018,
+      "recommendation": "4.10 We recommended that the Municipal Mayor direct the Municipal Engineer\nand the Municipal Planning and Development Coordinator to facilitate the\npreparation of the program of works for each projects and fast-track the\nimplementation of programs, projects and activities that are included in the\nAnnual Investment Plan (AIP) for 20% DF to attain socio-economic\ndevelopment and environmental goals of the municipality. Also, direct the\nMunicipal Accountant to send demand letters to the recipient barangays for\nthe submission of Fund Utilization Report.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2018-OBS5",
+      "year": 2018,
+      "recommendation": "5.9 We recommended that the Municipal Mayor direct the Municipal Accountant\nand Municipal Treasurer to comply with the provisions of COA Circular No.\n2012-001 and to exercise due diligence in the processing of claims. We\nfurther recommend that before effecting payment complete documentations\nmust be observed.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2018-OBS6",
+      "year": 2018,
+      "recommendation": "6.10 We recommended that the Municipal Mayor direct the Municipal Budget\nOfficer and Disaster Risk Reduction Management Focal Person to formulate a\nLocal Disaster Risk Reduction Management Fund Investment Plan\n(LDRRMFIP) that will include the unexpended QRF and DRRMF-MOOE of\nthe previous years which were transferred to the Special Trust Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2018-OBS7",
+      "year": 2018,
+      "recommendation": "7.9 We recommended that the Municipal Mayor direct the BAC Chairman,\nMunicipal Engineer, MPDC, Municipal Agricultural Officer and Municipal\nSocial Welfare Development Officer to judiciously plan proposed projects and\nfast-track the implementation of said programs, projects and activities funded\nby the BUB, AM, ECCD and PCF to provide constituents of the benefits due\nthem.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2018-OBS8",
+      "year": 2018,
+      "recommendation": "8.14 We recommended that the Municipal Mayor require the Municipal Engineer\nto:\n ensure that all conditions preliminary to the commencement of\nconstruction have been addressed and that a certification stating such be\nexecuted by the Municipal Engineer prior to the start of procurement\nactivities to ensure that necessary arrangements and documents have been\ndone for the project to be completed and utilized as planned;\n review thoroughly the request for time extension by contractors based on\ncomplete and relevant documents that will enable the assessment of the\nreasonableness of the reasons cited;\n specify in the notice of suspension of work the period within which work\nis suspended and the reason for granting the request to facilitate\nmonitoring;\n ensure the timely issuance of notice of resumption of work, so work is\nstarted by the contractors immediately after the period of work suspension;\nand\n maintain complete and orderly files of documents pertaining to project\nimplementation such as approved contract time extensions, notices of\nsuspension of work and resumption of work to facilitate review and\nmonitoring, and to ensure that appropriate action are acted on time.\n\n8.15 We further recommended that the Municipal Mayor:\n direct the Bids and Awards Committee (BAC) (a) to properly plan the\nprocurement of infrastructure projects; (b) to initiate the forfeiture of\nPerformance Security of erring contractors in favor of the Municipality in\ncase of non-completion of projects within the contract period; and (c) to\ninitiate the sanction of blacklisting erring contractors, if warranted.\n require the Municipal Accountant and the Municipal Treasurer to see to it\nthat liquidated damages will be effected on every day of delay until the\nproject is completed and accepted by the Municipality;\n8.16 We also recommended that the BAC must plan to ensure their completion and\nuse within the planned period.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2018-OBS9",
+      "year": 2018,
+      "recommendation": "9.9 We recommended that the Municipal Mayor direct the Municipal Accountant\nto send billings to the contractors for the unpaid liquidated damages or may\ncollect such liquidated damages from other securities posted by the\nsuppliers/contractors, pursuant to regulations.\n\n9.10 We further recommended that the Municipal Mayor instruct the members of\nthe Bids and Awards Committee (BAC) to rescind the contract and to impose\nappropriate sanctions on top of the liquidated damages to be paid for contracts\nwhose liquidated damages exceeded the 10% ceiling per RIRR of RA No.\n9184 to address the continuing delay in the delivery of goods.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2018-OBS10",
+      "year": 2018,
+      "recommendation": "10.14 Considering that the Municipality would continuously secure loans and\nborrowings to finance development and investment projects, we\nrecommended that the Municipal Mayor together with the Sangguniang Bayan\nMembers, should consider the Municipality’s’ net available funds prior to\ncontracting of loans/borrowings, and that is, not to exceed 20% of the regular\nincome of the Municipality after allocating full provision for statutory and\ncontractual obligations. They should conduct self-assessment of the\nMunicipality’s capacity to repay the loan taking into consideration the net\navailable funds, ensure that utilization of loan proceeds is covered by\nappropriation ordinance, determine the most cost effective borrowing scheme,\ncontract loans only upon proper evaluation of priority projects, and allocate\nsufficient funds to cover total contracted liabilities",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2018-OBS11",
+      "year": 2018,
+      "recommendation": "11.8 We recommended that the Municipal Mayor direct the Municipal Treasurer to\nexecute contract of lease to the lessees of the public market. The contract must\nstipulate the terms, conditions and penalties in case of non-payments. Also,\nthe corresponding rental fee should be based on the approved revenue code of\nthe Municipality. The Treasury Office must establish a system of collection to\nenforce collection of market stall rental fee periodically and demand for the\ncollection of the unpaid amount.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2018-OBS12",
+      "year": 2018,
+      "recommendation": "12.11 We recommended that the Municipal Mayor direct the SWM Officer to\nconsider the appropriate means of communication depending on the\ninformation that it wishes to pass on to the public and its stakeholders. For\ninstance, there should be public notices on television and on the radio about\nwho can access the Residual Containment Area (RCA), the working hours at\nthe RCA to limit after-hours access and the schedule for collection of wastes\nfrom households for the different zones. Websites have become increasingly\neffective and economical in disseminating information. Therefore it is\nimportant to have a specific link for Solid Waste Management within the\nMunicipality’s website so that it is easier for the public to have access to\ninformation and policy on solid waste management as well as any issue\nconcerning solid waste management.\n\n12.12 To ensure effective implementation of the solid waste management plan, a\nwell-designed, current and targeted community awareness program is\nrequired. The targeted audience should be considered when determining how\nthe information should be given to the public. The urgency of the matter\nshould also be considered so that everyone is aware of the matter as soon as\npossible.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2018-OBS13",
+      "year": 2018,
+      "recommendation": "13.5 We recommended that a mechanism to measure the volume and type of\nwastes should be placed at the site, which will provide baseline data to assist\nin developing effective waste minimization strategies and future plans for\nwaste management.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2018-OBS14",
+      "year": 2018,
+      "recommendation": "14.7 We recommended that a proper segregation of waste be enforced at source so\nthat wastes being disposed at the RCA are already properly separated.\n\n14.8 We further recommended that the SWM Focal Person should implement a\ncolor coding or appropriate means of identification to ensure that wastes are\nproperly segregated at the RCA.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2018-OBS15",
+      "year": 2018,
+      "recommendation": "15.5 We recommended that the Municipal Mayor direct the SWM Focal Person to\nmaintain disposal site records in the RCA.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2018-OBS16",
+      "year": 2018,
+      "recommendation": "16.5 We recommended that the RCA be fenced with a secured gate at the entrance\nto minimize illegal visitors or scavengers. This will also help address the\noccupational health and safety issues by limiting access.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2018-OBS17",
+      "year": 2018,
+      "recommendation": "17.6 We recommended that the Municipal Mayor: a) cause the allocation of funds\nto purchase the appropriate safety clothing as prescribed in the Manual for\nOperation and Maintenance at the Landfill; b) Direct the SWM Focal Person\nto ensure that any person entering the RCA must wear the proper safety\nclothing so that the operations at the RCA are effective and safe.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2018-OBS18",
+      "year": 2018,
+      "recommendation": "18.8 We recommended that the Municipal Mayor require the HRMO to adhere to\nprovision of Section 77 of RA No. 7160 which provides that the Municipality\nmay hire Job-order for local projects only, authorized by the Sangguniang\nBayan..",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2018-OBS19",
+      "year": 2018,
+      "recommendation": "19.9 We recommended that the Municipal Mayor direct the GAD Focal Person to\nsee to it that programs, projects and activities are aligned with GAD-related\nundertakings so that the intended beneficiaries are assured of the services,\nprotection and other assistance that may be provided.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2018-OBS20",
+      "year": 2018,
+      "recommendation": "20.8 We recommended that the Municipal Mayor require the Municipal\nAccountant to exert effort in enforcing settlement of audit disallowances.\nEnsure that all employees who are retiring or transferring to other agencies\nshall first settle the disallowances and charges for which they are liable in\naccordance with Section 7 of COA Circular No. 2009-006 dated September\n15, 2009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2018-OBS21",
+      "year": 2018,
+      "recommendation": "21.7 We recommended that the Municipal Mayor direct the Municipal Accountant\nto analyze the Due to BIR account and prepare necessary documents to\nsupport the remittances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Treasurer to complete the RPCPPE and submit the same to the Audit Team for verification, maintain complete and updated Property Cards and reconcile her records regularly with the Accounting Office.",
+      "managementAction": "The Municipal Treasurer commented that the RPCPPE shall be submitted a week after the exit conference together with the summary of reconciliation between the RPCPPE and the Schedule of PPE of the Accounting Office.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "No report was submitted. The preparation was delayed due to lack of manpower and time constraint."
+    },
+    {
+      "id": "PadreBurgos_Quezon-2018-PY2",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Inventory Committee to: • prepare the IIRUP complete with the necessary information and data in the columns provided therein for evaluation, and, in case where technical knowledge is needed for the determination of the true condition or actual current value of the property to be inspected, a technical inspector with the required knowledge and training shall inspect the same; and • dispose the unserviceable properties in accordance with the steps and procedures enumerated under Section 79 of P.D. No. 1445 to generate additional income out of the proceeds from sale thereof.",
+      "managementAction": "The Municipal Treasurer committed and noted by the Municipal Mayor, to submit the duly accomplished IIRUP within 60 – 90 days from the date of the exit conference.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The IIRUP was drafted. The appraised costs of properties are not yet determined. The IIRUP was not fully accomplished."
+    },
+    {
+      "id": "PadreBurgos_Quezon-2018-PY3",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor: • instruct the Municipal Assessor to facilitate the titling of the 20 parcels of land including the two donated parcels of land without valuation to avoid contingent claims that may arise in the future and in compliance with Section 148 of COA Circular No. 92-386; and • form an Appraisal Committee for the proper valuation of the two donated parcels of land in accordance with Paragraph 27 of PPSAS No. 17.",
+      "managementAction": "The Municipal Mayor and the Municipal Assessor committed to prioritize the titling of the parcels of land. The Municipal Mayor issued Executive Order No. 24 for the creation of the Municipal Appraisal Committee.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The status and classification of lands are still for verification with DENR. Lack of fund and the status and classification of the lands are still for verification with the Department of Environment and Natural Resources and Land Registration Authority (LRA)."
+    },
+    {
+      "id": "PadreBurgos_Quezon-2018-PY4",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the: • Municipal Treasurer to remit immediately to the Provincial Government of Quezon, and the concerned municipalities the corresponding amounts due them; and • Municipal Accountant to trace and retrieve the pertinent documents relative to the beginning balances since year 2008 and prepare the necessary adjustments.",
+      "managementAction": "The Municipal Accountant traced the documents from prior year’s records.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "No supporting documents. The Municipal Accountant traced the documents from prior records but no available documents to fully support."
+    },
+    {
+      "id": "PadreBurgos_Quezon-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to confirm with the account owners/creditors/employees and to request them to submit documents pertaining to their claims, to revert the account to the Unappropriated Surplus of the General Fund, subject to an authority from the Sangguniang Bayan (SB) through a resolution with the condition that appropriation shall be made in the event that claim arises in the future pursuant to the provisions of Section 98 of P.D. No. 1445.",
+      "managementAction": "The amount of P355,511.25 was reverted to the General Fund (GF) under JEV No. 1906 through SB Resolution No.134, S. 2018; the amount of P4,000.00 was reclassified to Other Payables under JEV No. 321; and the amount of P32,227.50 was refunded through check number 2972066 dated 10/24/2018.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2018-PY6",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the: • Municipal Accountant to revert back to the General Fund the unexpended balance of LDRRM Fund for CYs 2011-2012 totaling P1,002,728.24 and to prepare the Report on Sources and Utilization of DRRMF using the prescribed format as provided in Section 5.1.5 of COA Circular No. 2012-002; and • LDRRMO to submit the monthly Report on Sources and Utilization of DRRMF to the COA Auditor for monitoring and evaluation.",
+      "managementAction": "The Municipal Mayor concurred with our recommendation. The Municipal Accountant reverted the fund to the General Fund under check number 2817175 dated 5/18/2018. The LDRRMO submitted the reports.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Treasurer to transfer the amount of P58,680.00 which pertains to the 50% share in collections from Mangayao Ecological Agricultural Tourism Park to the General Fund in accordance with the above-cited Ordinance.",
+      "managementAction": "The amount was transferred to the General Fund in accordance with the above-cited Ordinance under check number 2817229 dated 5/18/2018.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor: • inform the Audit Team within ten days after the award of the infrastructure project or before the start of the program/activity that the appropriate project signboards and/or public notices are already posted; and • instruct the OIC-Municipal Engineer/Municipal Planning and Development Coordinator (MPDC) to submit the list of all on-going PPAs and those that are to be implemented during the year at the beginning of the year.",
+      "managementAction": "The Municipality submitted the report for CY 2018 on 01/14/2019. The Municipal Engineer committed to submit the reports within the prescribed period.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The report preparation was not prioritized due to lack of manpower and time constraint."
+    },
+    {
+      "id": "PadreBurgos_Quezon-2018-PY9",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor: • coordinate with the SB for the provision of P150,000.00 used for purchase of lot in the General Fund so that this amount can be reverted to the 20% Development Fund. Otherwise, refund the amount; and • ensure that the use of 20 percent Development Fund is in accordance with the provisions of DILG-DBM Joint Memorandum Circular No. 2017-1.",
+      "managementAction": "The amount was reverted to the 20% Development Fund through fund transfer on 3/11/2019. The Municipality ensured that future 20 percent Development Fund projects are in accordance with the guidelines.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2018-PY10",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer to stamp \"PAID\" all the paid vouchers including its supporting documents using the prescribed stamp as provided under the above-cited COA Circular.",
+      "managementAction": "The Municipal Treasurer is already using the prescribed stamp.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2018-PY11",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Market Administrator and the Municipal Treasurer to undertake thorough study and implement immediate solutions to attain effective operations of the public market. Adopt immediate solutions to stop the incurrence of losses in market operations in order to avoid further wastage of Municipal funds.",
+      "managementAction": "The Market Administrator commented that they are considering other alternatives like entering into Public-Private-Partnership (PPP). The Market Administrator commented that they are considering other alternatives like entering into Public-Private-Partnership (PPP).",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Not enough income is still generated to cover the operating expenses. No concrete solution has been made."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-PY10",
+      "year": 2017,
+      "recommendation": "We recommend strict adherence to Sec. 4(6) of PD 1445 and check claims as to the completeness of documentations before it shall be paid.",
+      "managementAction": "No reply had been received for the communication sent to the PNP Chief due to his reassignment.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No reply had been received for the communication sent to the PNP Chief due to his reassignment."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Accountant as\nwell as the General Services Officer to reconcile their respective PPE records regularly to\nreflect an accurate and realistic amount in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to make\nrepresentation with the LBP-Maasin to ask for the total loan amount of the LGU considering\nthat a portion of the original loan was unreleased, and to prepare adjusting/correcting\nentries of the loans receivable account so as to reflect a fair presentation of the financial\nstatements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive:\na) Direct the Municipal Accountant to revert back checks which have been\noutstanding for over six (6) months from the date of issue duly supported with the required\ndocuments. The recommended entry is:\nDr Cr\nCash in Bank – LCCA xxx\nPrior Year’s Adjustment xxx\n#\nTo take up cancellation of stale checks.\nc) Send confirmation to the payees that they have pending claims and whether they are still\ninterested to claim. Thus, a check replacement shall be issued with the certified photo\ncopy of the paid DV to be attached thereon by the payee.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive require the officers and employees\nto refund the amount collected in the absence of legal basis.\n\nManagement should desist and stop granting additional benefits unless in pursuance\nof a lawful appropriation and/or other statutory authority.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor require each program and project\ncoordinator or the Municipal Engineer to fast-track the implementation of programs and\nprojects funded by the National Government Agencies in accordance with the timeline\nprovided for in the MOA and require the Municipal Accountant to submit the Liquidation\nReports and other documentary requirements to the source agency immediately.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive compel the Municipal Accountant\nto maintain special accounts for all loan proceeds from which financial reports shall be\nprepared.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-OBS7",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Budget\nOfficer and Municipal Accountant to use the 20% Development Fund solely for the purpose\nthey were allocated otherwise uses of funds shall be questioned in audit aside from defeating\nthe attainment of development programs, projects and activities for the benefit of the targeted\npublic.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-OBS8",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive compel the Municipal Accountant\nand the Municipal Engineer to submit the lacking documents previously mentioned.\nLikewise, for evaluation purposes also require the concerned department heads to always\nattach all documentary requirements for the final payments in the procurements of\ninfrastructure projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-OBS9",
+      "year": 2017,
+      "recommendation": "We recommended that the BAC prepares the Procurement Monitoring Report (PMR)\nas required under Section 12.2 of the Revised IRR of RA 9184 and the form prescribed by\nthe GPPB.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-OBS10",
+      "year": 2017,
+      "recommendation": "We recommended that the LCE : a) cause the creation of a Disposal Committee to take charge of the\ndisposal of unserviceable assets b) require the Supply Officer to submit to the Disposal Committee\nthe Inventory and Inspection of Unserviceable Property and Waste Material Report.\n\nIt is further recommended that upon disposal of property, the pertinent portions of the\nreports shall be accomplished and that the Supply Officer provide the Accountant a copy\nthereof which shall be the basis for dropping the properties from the books of accounts and\nfor taking up the proceeds, if any from the sale of said properties.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-OBS11",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive require the District Supervisor\nthrough the Municipal Accountant to prepare and attach/submit the Fund Utilization Reports\nsupported with the documentary requirements of funds transferred from the LGU to\nimplementing agency so as to easily determine the validity and propriety of the funds\ndisbursed.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-OBS12",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor direct the Local Budget Officer to\nstrictly adhere to the provisions of Section 15 of Republic Act 9344 known as Juvenile\nJustice and Welfare Act of 2006 and appropriate the required allocation of 1% of its IRA\nfor the LCPC activities. Furthermore, the LCE should cause the creation of the Local\nCouncil for the Protection of Children and direct the said council to prepare its Annual Work\nand Financial Plan for the attainment of the LCPC projects and activities for the welfare of\nthe children.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-OBS13",
+      "year": 2017,
+      "recommendation": "We recommended that the LCE orders the official concerned:\na) to re-evaluate the operation, billing and collection process of the water system project\nand identify the problems that hampered its operation and collection;\nb) Immediately effect the necessary corrective measures; and\nc) Initiate strategies to collect unpaid water bills from consumers who are remiss in\npaying their obligations to the LGU.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-OBS14",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive:\na) Direct the Local Risk Reduction Management Council to prepare its Financial Plan of\nPrograms/Activities and Utilization Report in accordance with the provision of Section5.0\nof NDRRMC-DBM-DILG Joint Memorandum Circular No. 2013-01 dated March 25,\n2013.\nb) Compel the Municipal Budget Officer and the Municipal Accountant not to charge the\nexpenses for meals and snacks or catering services to the LDRRM Funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-OBS15",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Environmental\nand Natural Resources Officer (MENRO) for the proper implementation of the program to\navoid the wastage of government resources through the utilization of the acquired\nequipments. With coordinated activities in the system problems encountered in its\nimplementation are immediately addressed into.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-OBS16",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to\nregularly reconcile the balances in accounting records with the records of the GSIS in order\nto ascertain the accuracy and reliability of the amount Due to GSIS in the financial\nstatements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-OBS17",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Accountant to\nregularly reconcile the balances in accounting records with the records of the Pag-IBIG in\norder to ascertain the accuracy and reliability of the amount Due to Pag-IBIG in the\nfinancial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-OBS18",
+      "year": 2017,
+      "recommendation": "We recommend that the Local Chief Executive through the GAD council prioritize\nthe implementation of the CBMS for the creation of GAD database to serve as inputs of basis\nfor planning, programming and policy formulation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-OBS19",
+      "year": 2017,
+      "recommendation": "The Local Chief Executive should consider creating and organizing an Internal Audit\nServices, in compliance with R.A. 4177 and AO 70 to give assurance for a sound and\nadequate internal control system in the operations of the Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-OBS20",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive:\n1. Direct the Human Resource Management Office to review the duties and\nfunctions of the Job Order Workers so as not to duplicate the duties and functions of the\nregular plantilla employees;\n2. Compel the Municipal Budget Officer to adjust the rates of Job Order Workers in\ncompliance to regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor require the:\n\n* lonventory committee to conduct the physical count of PPE of the\nMunicipality and submit the RPCPPE to the Audit Team for validation\npursuant to Section 124 of the MNGAS for LGU: and\n\n# Municipal Treasurer to prepare and maintain complete and updated\nPPELC and Property Cards, and reconcile their records regularly with the\nAccounting Office.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We reiterated our recommendation that the Municipal Mavor require the Inventory\nCommittee to:\n\n¢ prepare the [IRUP complete with the necessary information and data in the\ncolumns provided therein for evaluation, and, in case where technical knowledge\nis needed for the determination of the true condition or actual current value of the\nproperty to be inspected, a technical inspector with the required knowledge and\ntraining shall inspect the same; and\n\n* dispose the unserviceable properties in accordance with the steps and procedures\nenumerated under Section 79 of P.D. No. 1445 to generate additional income out\nof the proceeds from sale thereof.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor:\n\n* instruct the Municipal Assessor to facilitate the titling of the 20 parcels of\nland including the two donated parcels of land without valuation to avoid\ncontingent claims that may arise in the future and in compliance with\nSection 148 of COA Circular No. 92-386; and\n\n« form an Appraisal Committee for the proper valuation of the two donated\nparcels of land in accordance with Paragraph 27 of PPSAS No. 17.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the:\n\n* Municipal Treasurer to remit immediately to the Provincial Government of\nQuezon, and concerned municipalities the corresponding amounts due\nthem; and\n\ne Municipal Accountant to trace and retrieve the pertinent documents\nrelative to the beginning balances since year 2008 and prepare the\nnecessary adjustments.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal\nAccountant to confirm with the account owners/creditors/employees and to\nrequest them to submit documents pertaining to their claims, revert the account\nto the Unappropriated Surplus of the General Fund, subject to an authority from the Sangguniang Bayan\nthrough a resolution with the condition that appropriation shall be made in the event\nthat claim arises in the future pursuant to the provisions of Section 98 of P.D. No.\n1445,",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor require the:\n\n* Municipal Accountant to revert back to the General Fund the unexpended\nbalance of LDRRM Fund for CYs 2011-2012 totaling £1,002,728.24 and to\nprepare the Report on Sources and Utilization of DRRMF using the\nprescribed format as provided in Section 5.1.5 of COA Circular No. 2012-\n002; and\n\n* LDRRMO to submit the monthly Report on Sources and Utilization of\nDRRMF to the COA Auditor for monitoring and evaluation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2017-OBS7",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal\nTreasurer to transfer the amount of P58,680.00 which pertains to the 50% share\nin collections from Mangayao Ecological Agricultural Tourism Park to the\nGeneral Fund in accordance with the above-cited Ordinance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2017-OBS8",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor:\n\n+ inform the Audit Team within ten days afier the award of the\ninfrastructure project or before the start of the program/activity that the\nappropriate project signboards and/or public notices are already posted; and\n\ne instruct the OIC-Municipal Engineer/Municipal Planning and\nDevelopment Coordinator (MPDC) to submit the list of all on-going PPAs\nand those that are to be implemented during the year at the beginning of\nthe year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2017-OBS9",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor:\n* coordinate with the SB for the provision of R150,000.00 used for the\npurchase of lot in the General Fund budget so that this amount can be\nreverted to the 20% Development Fund. Otherwise. refund the amount.\n\n* ensure that the use of the 20% Development Fund is in accordance with the\nprovisions of DILG-DBM Joint Memorandum Circular No, 2017-1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_Quezon-2017-OBS10",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer 1o\nstamp “PAID™ all the paid vouchers including its supporting documents using the\nprescribed stamp as provided under the above-cited Section.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-PY1",
+      "year": 2017,
+      "recommendation": "We recommend that the LCE direct the Municipal Accountant as well as the General Service Office to reconcile their respective PPE records regularly to reflect an accurate and realistic amount in the financial statements.",
+      "managementAction": "The physical inventory on 2016 PPEs is still going on.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The RPCPPE are still to be reconciled with the accounting records."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-PY2",
+      "year": 2017,
+      "recommendation": "We recommend the submission of the lacking documents mentioned in the detailed audit observations in order to be compliant with RA 9184.",
+      "managementAction": "Submitted supporting documents are still subject for review whether these are in compliance with RA 9184.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Supporting documents are still subject for review whether these are in compliance with RA 9184."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-PY3",
+      "year": 2017,
+      "recommendation": "We recommend that the BAC require the contractors to issue another warranty that is compliant to the provisions of IRR of RA 9184. Likewise, the Municipal Accountant must see to it that the correct amount of warranty security which is 30% of the total contract price be imposed if surety bond is used for the same future transaction.",
+      "managementAction": "Submitted supporting documents are still subject for review whether these are in compliance with RA 9184.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Supporting documents are still subject for review whether these are in compliance with RA 9184."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-PY4",
+      "year": 2017,
+      "recommendation": "We recommend for the strict adherence to the mandates on the use of the 20% Development Fund and that projects included in the Agency’s Annual Investment Plan for the 20% Development Fund should be in consonance with the development projects listed under the DILG and DBM Joint Memorandum Circular No. 1 s. 2011 dated April 13, 2011.",
+      "managementAction": "The LGU’s Annual Investment Plan for the 20% Development Fund should be in consonance with the development projects listed under the DILG and DBM Joint Memorandum Circular No. 1 s. 2011 dated April 13, 2011.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-PY5",
+      "year": 2017,
+      "recommendation": "We recommend that the Local School Board officials strictly observe the provisions of Section 272 and Section 100(c) of RA 7160 and that of the proceeds of the Special Education Fund be limited to the prioritized projects, programs and activities therein.",
+      "managementAction": "The Local School Board officials are to strictly observe the provisions and limit use of SEF to prioritized projects, programs and activities.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-PY6",
+      "year": 2017,
+      "recommendation": "We recommend for the strict adherence to the mandates on continuous disaster monitoring as part of its management of LDRRMF and in the process, use available resources towards the implementation of the projects, programs and activities that are necessary for the public to ensure readiness of the LGU during emergencies.",
+      "managementAction": "P758,450.75 – reverted to GF for the construction of San Juan Seawall; P808,810.00 – construction of Sta. Sofia Seawall; P1.5M – for construction of evacuation center at Laca; P1.8M – for procurement of service vehicle.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Utilization of unexpended balance for disaster risk reduction and management programs and activities."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-PY7",
+      "year": 2017,
+      "recommendation": "We recommend that management to: a) Indicate the mode of procurement in the APP; b) Prepare PPMP to support the APP; c) Require the BAC to prepare the Procurement Monitoring Report (PMR) in compliance with the provisions of RA 9184.",
+      "managementAction": "The APP was updated to indicate mode of procurement and PPMPs were prepared; BAC to prepare PMR.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-PY8",
+      "year": 2017,
+      "recommendation": "We recommend that the LCE: a) provide the necessary support in enjoining the barangays to establish their own MRFs and to implement waste segregation at source; b) strictly enforce and intensify the information campaign on the no-littering policy among the residents; and c) consider embarking on effective projects and programs to support the LGU’s ecological solid waste management programs.",
+      "managementAction": "Partially Implemented. On going: Strictly comply with all other prescribed procedures and guidelines under RA No. 9003.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "On going compliance with required measures and establishment of MRFs at barangay level."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-PY9",
+      "year": 2017,
+      "recommendation": "We recommend that the Local Chief Executive cause the constitution of an Inventory Committee composed of the Municipal Treasurer or/her representative and two (2) management officials that will be responsible in conducting the physical count and prepare the Report on the Physical Count of Property, Plant and Equipment (RPCPPE). The RPCPPE shall be submitted to the Auditor concerned not later than January of each year. Updated Property Ledger cards (PLC) and Property cards shall be maintained by the municipal bookkeeper and treasurer.",
+      "managementAction": "Partially Implemented.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reiterated in CY 2017."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-PY11",
+      "year": 2017,
+      "recommendation": "We recommend that the LGU strictly observe the provisions of Section 272 of the Local Government Code, Article 363 of its Implementing Rules and Regulations and Section 4 of Joint Circular No. 01, s. 1998 of the DECS, DBM and DILG in the utilization of the SEF.",
+      "managementAction": "Fully Implemented.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-PY12",
+      "year": 2017,
+      "recommendation": "We recommend measures to address these deficiencies: - The maximum borrowing capacity should not consider the 20% debt service only but also the LGU’s net available fund prior to contracting of loan/borrowings; - The LGU through the LCE should conduct self-assessment of their capacity to repay the loan taking into consideration their net available funds, ensure that utilization of loan proceeds is covered by appropriation ordinance, determine the most cost effective borrowing scheme, contract loan only upon proper evaluation of priority projects, and allocate sufficient funds to cover total contracted liabilities.",
+      "managementAction": "Partially Implemented.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "On going measures to assess capacity and ensure appropriate allocation of funds prior to contracting loans."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-PY13",
+      "year": 2017,
+      "recommendation": "We recommend that the LCE direct officials concerned to conduct annual physical inventory which shall be reported on the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) to be submitted on the prescribed date. Likewise, designate personnel to maintain Property, Plant and Equipment Ledger Cards (PPELC) and Property Cards for all PPE to facilitate reconciliation of records.",
+      "managementAction": "Partially Implemented.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reiterated in CY 2017."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-PY14",
+      "year": 2017,
+      "recommendation": "We recommend that the Municipal Mayor direct the Municipal Accountant- Designate to record individual employee’s deductions to support the balances in the subsidiary and general ledgers and regularly reconcile the amounts withheld for and remitted to Philhealth in order to ascertain the accuracy and reliability of the balance of Due to Philhealth in the financial statements.",
+      "managementAction": "Partially Implemented.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Although individual employee ledger cards are maintained there are still unreconciled balances of prior years that need to be tranced."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-PY15",
+      "year": 2017,
+      "recommendation": "We recommend that the Municipal Mayor direct the Municipal Accountant – Designate to maintain individual employee’s ledger for GSIS and regularly reconcile the amounts withheld and remitted to GSIS in order to ascertain the accuracy and reliability of the amount Due to GSIS in the financial statements.",
+      "managementAction": "Partially Implemented.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Although individual employee ledger cards are maintained there are still unreconciled balances of prior years that need to be tranced."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2017-PY16",
+      "year": 2017,
+      "recommendation": "We recommend that the Municipal Accountant – Designate should submit the Pre-Closing Trial Balance, year-end Financial Statements and their supporting schedules to COA pursuant to Section 41 (2) of PD 1445.",
+      "managementAction": "Implemented.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2016-PY7",
+      "year": 2016,
+      "recommendation": "Considering the LGU would continuously secure loans and borrowings to finance development and investment projects, recommended measures to address these deficiencies: - The maximum borrowing capacity should not consider the 20% debt service but also the LGUs’ net available funds prior to contracting of loans/borrowings; and - The LGUs through the Local Chief Executive should conduct self-assessment of their capacity to repay the loan taking into consideration their net available funds, ensure that utilization of loan proceeds is covered by appropriation ordinance, determine the most cost effective borrowing scheme, contract loans only upon proper evaluation of priority projects, and allocate sufficient funds to cover total contracted liabilities.",
+      "managementAction": "The LGU has only based what required by the Department of Finance as to its borrowing capacity.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "LGU has only based what required by the Department of Finance as to its borrowing capacity."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Accountant as well as the\nGeneral Services Officer to reconcile their respective PPE records regularly to reflect an accurate\nand realistic amount in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We recommended the submission of the lacking documents previously mentioned in\norder to be compliant with RA 9184 and COA Circular 2012-001 dated June 14, 2012.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommended that the BAC require the above contractors to issue another warranty that\nis compliant to the provisions of the IRR of RA 9184. Likewise, the Municipal Accountant\nmust see to it that the correct amount of warranty security which is 30% of the total contract\nprice be imposed if surety bond is used for the same future transactions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We recommended that the programs/projects included in the agency’s Annual Investment Plan for the 20% Development Fund should be in consonance with the\ndevelopment projects listed under the DILG and DBM Joint Memorandum Circular No. 1 s.\n2011 dated April 13, 2011.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommended that Local School Board officials strictly observe the provisions of Section\n272 and Section 100 (c) of RA 7160 and that the utilization of the proceeds of the Special\nEducation Fund be limited to the prioritized projects, programs and activities mandated\ntherein.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommended for the strict adherence to the mandates on continuous disaster\nmonitoring as part of its management of LDRRMF and in the process, use available\nresources towards the implementation of projects, programs and activities that are necessary\nfor the public to ensure readiness of the LGU during emergencies. Further, we recommend\nfor the utilization of the unexpended balance for disaster risk reduction and management\nprogram and activities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We recommended management to: a) Indicate the mode of procurement in the APP; b)\nPrepare PPMP to support the APP and c) Require the BAC to prepare the Procurement\nMonitoring Report (PMR) in compliance with the provisions of RA 9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive: (a) provide the necessary support in\nenjoining the barangays to establish their own MRFs and to implement waste segregation at\nsource; (b) strictly enforce and intensify the information campaign on the no-littering policy\namong the residents; (c) consider embarking on effective projects and programs to\nsupport the LGUs ecological solid waste management program; (d) strictly comply with all\nother prescribed procedures and guidelines under RA No. 9003.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2016-PY1",
+      "year": 2016,
+      "recommendation": "We recommend that the Local Chief Executive direct officials concerned to conduct annual physical inventory which shall be reported on the Report on the Physical Count of Property, Plant and Equipment (RCPPE) to be submitted to COA not later than January 31 of each year. Likewise, we also recommend that the Municipal Mayor direct that Municipal Accountant Designate to maintain Property, Plant and Equipment Ledger Cards (PPELC) for each category of assets and the GSO-Designate to maintain Property Cards of all PPEs by type to facilitate the reconciliation of records.",
+      "managementAction": "A GSO is designated to take custody of this 2015 designated to take custody of this 2015 to take just started custody of this 2015 complying all government records of all properties & supplies and maintain records of the accounting unit.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "GSO designate has just started custody of this 2015"
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2016-PY2",
+      "year": 2016,
+      "recommendation": "We recommend that the Local Mayor direct the Municipal Accountant- Designate to maintain individual employee’s ledger cards to support the balances in the subsidiary and general ledgers and regularly reconcile the records amounts withheld for Philhealth in order to ascertain the accuracy and reliability of the balance of Due to Philhealth in the financial statements pursuant to Sec. 111 (2) of PD 1445.",
+      "managementAction": "Individual employee’s ledger card has been maintained by the accounting unit. There are still unreconciled balances of employee’s previous year ledger for that need to be traced.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "there are still unreconciled balances of employee’s previous year that need to be traced."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2016-PY3",
+      "year": 2016,
+      "recommendation": "We recommend that the Local Mayor direct the Municipal Accountant-Designate to maintain individual employee ledger card for GSIS and regularly reconcile the records amounts withheld for and remitted to GSIS in order to ascertain the accuracy and reliability of the balance of Due to GSIS in the financial statements pursuant to Sec. 111 (2) of PD 1445.",
+      "managementAction": "Mayor direct the Municipal Accountant-Designate to maintain individual employee’s ledger card by the accounting unit. There are still unreconciled balances of employee’s previous year ledger for GSIS that need to be traced.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "there are still unreconciled balances of employee’s previous year that need to be traced."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2016-PY4",
+      "year": 2016,
+      "recommendation": "We recommend that the Municipal Accountant- Designate should submit the financial statements and their supporting reports and schedules to COA pursuant to Section 41 of PD 1445.",
+      "managementAction": "Financial statements were prepared based on the NGAS.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Municipal Accountant Designate did not submit the financial statements due to the implementatio n of PPSAS."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2016-PY5",
+      "year": 2016,
+      "recommendation": "We recommend that the LGU strictly observe the provisions of Section 272 of the LGC, Article 363 of its Implementing Rules and directed to adhere to item 4 of Joint Circular No. 01, s. 1998 of the DECS, DBM and DILG, in the utilization of the Special Education Fund.",
+      "managementAction": "SEF manageme nt has been informed and the District Office/ and the District Principal/Sup ervisor to submit justification of the expenditures that are not aligned to the provision. The District promised to get copy of the budget from the Division Office as attachment of their disbursements in case the necessity of the expenditure arise which are part of the item under SEF budget. Reiterated in Finding No. 1 of this report.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The District promised to get copy of the budget from the Division Office as attachment of their disbursements in case the necessity of the expenditure arise which are part of the item under SEF budget. Reiterated in Finding No. 1 of this report."
+    },
+    {
+      "id": "PadreBurgos_SoLeyte-2016-PY6",
+      "year": 2016,
+      "recommendation": "We recommend that the Local Chief Executive exercise prudence in the use of government funds specifically: a)Seminars/trainings where participants come from the province should be conducted within the province in order to minimize the cost of the conduct of these activities and save funds for other related projects. b)Send participants only to seminars with their area of concern. c) Make representation with the Officers of the PCL to conform with the regulations on seminars/trainings as mandated by COA and DILG. d) Documentary requirements such as Activity Design, Post Activity Report and other necessary documents (e.g approval/authority from the DILG Regional Director (if seminar is outside of Region 8)) should be attached once the participant attend a seminar/training.",
+      "managementAction": "Finding has issued Executive Order implementing austerity measures of the local government.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    }
+  ]
+}

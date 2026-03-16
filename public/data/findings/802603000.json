@@ -1,0 +1,1830 @@
+{
+  "lguCode": "802603000",
+  "lguName": "Balangkayan",
+  "province": "Eastern Samar",
+  "region": "Region VII (Central Visayas)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY1",
+      "year": 2024,
+      "recommendation": "We recommended that the OIC- Municipal Accountant:\n\nDraw the necessary journal entry vouchers (JEV) to restore cash balance from the unreleased checks, and to record the disbursement and debit memos; and\n\nInclude in the subsidiary ledgers the unrecorded existing bank accounts of the Agency to establish the correct Cash balance.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Some unrecorded transactions are yet to be determined before making the necessary JEVs."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY2",
+      "year": 2024,
+      "recommendation": "We recommended that the:\n\nAccounting Unit updates the PPELCs and ensures that the total balance of PPELCs tallies with the balances of controlling PPE accounts in the General Ledger\n\nGSO or Property Officer update the Property records based on the results of the physical inventory.\n\nProperty and Accounting Units undertake collaborative efforts to reconcile their respective records with the RCPPE to achieve a complete and accurate year-end PPE account balance",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Ongoing update of records."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY4",
+      "year": 2024,
+      "recommendation": "7. We recommended that the OIC-Municipal Accountant adhere to the highest degree of objectivity and consistency in keeping the accounts to ascertain correspondence in the balances and amounts reflected and presented in the financial statements and the corresponding notes.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "OIC – Municipal Accountant was not able to review the balances due to time constraint."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY5",
+      "year": 2024,
+      "recommendation": "8. We recommended that the Municipal Accountant supply the required disclosures in the notes to financial statements on the reported accounts to expound the user’s understanding of the financial statements.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "OIC – Municipal Accountant was not able to follow the prescribed format for disclosure of the PPE account in the notes."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY8",
+      "year": 2024,
+      "recommendation": "We recommended that the:\n\n12. Local Sanggunian determine at the onset the presence of the required conditions before enactment of a Supplemental Budget, such as, funds are actually available, generated new revenue sources, and state declaration of public calamity.\n\n13. Local Chief Executive strictly consider the required conditions before augmentation of funds to other items of the same expense class are approved to ascertain propriety and validity of the changes made to the budget",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "LGU has still realigned some projects during CY 2024 without complying with the required conditions."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY10",
+      "year": 2024,
+      "recommendation": "We recommended that the OIC- Municipal Accountant -\n\n16. Record the adjustment of the funds due to LGUs, NGAs or other government agencies upon liquidation of the funds to the Source Agency.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Ongoing verification of records."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY11",
+      "year": 2024,
+      "recommendation": "17. We recommended that the OIC- Municipal Accountant identify/trace the noted unreconciled variance between the accounts Due from Other Funds and Due to Other Funds, transfer the long overdue amounts to the appropriate funds, and immediately effect the necessary adjustments/corrections in the books upon verification.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reciprocal accounts still do not tally in  CY 2024 FS."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY13",
+      "year": 2024,
+      "recommendation": "21. Comply with the required disclosures as provided in Paragraph 88 of IPSAS 17 to attain fair presentation and compliance with existing accounting standards",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "OIC – Municipal Accountant was not able to follow the prescribed format for disclosure of the PPE account in the notes."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY14",
+      "year": 2024,
+      "recommendation": "We recommended that the OIC- Municipal Accountant:\n\n22. Submit an explanation/clarification of the discrepancies of amounts noted and effect necessary adjustments to ensure the fair presentation of the financial statements.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "OIC – Municipal Accountant was not able to follow the prescribed format for disclosure of the PPE account in the notes. Moreover, there are variances in the balances between the FS and the Notes to FS."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY15",
+      "year": 2024,
+      "recommendation": "23. We recommended that the Local Chief Executive direct the Accountant to strictly follow the disclosure requirement in Item 47 of IPSAS 24 and Annex G, Note 33 of COA Circular 2016-004 and immediately submit to the Audit Team",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Disclosure of the reconciliation between the SCBAA and SFP is not in accordance with the required format."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY16",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive:\n\n24. Require the agency officials to see to it that monies held in trust be used only for its intended purpose, pursuant to Section 305 of RA No. 7160 and Section 4 of PD No. 1445.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Condition still exists."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY18",
+      "year": 2024,
+      "recommendation": "We recommended that the OIC-Municipal Accountant:\n\n26. Conduct periodic monitoring of the submission of liquidation reports to facilitate timely accounting thereof and prevent undue accumulation of outstanding cash advances; and\n\n27. Refrain from granting additional cash advances to AOs until their previous cash advances are fully settled or liquidated in the books.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Cash advances were still granted to Aos with existing unliquidated cash advances."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY19",
+      "year": 2024,
+      "recommendation": "We recommended that the OIC-Municipal Accountant:\n\n28. Cause the transfer of the unexpended balance as of year-end of LDRRMF for QRF from the General Fund to the Trust Fund account; and\n\nWe likewise recommended that the:\n\n29. OIC-MDRRMO submit the monthly report on sources and utilization on or before the 15th day after the end of each month through the LDRRMC and Local Development Council (LDC) to the COA auditor of the LGU;",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No transfer yet to STF due to non-opening of a Trust Fund bank account.\n\n\n\n\nMDRRMO still did not submit the monthly reports."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY21",
+      "year": 2024,
+      "recommendation": "31. We recommended that the OIC-Municipal Accountant maintain separate books of accounts and prepare separate financial statements for each Local Economic Enterprise (LEE) and public utility, in accordance with Sections 105, 107, and 110 of the NGAS Manual Volume I for LGUs, in order that adequate information as to the amounts of assets, liabilities and equity, cash flows and results of operations will be available for Management’s decision making and monitoring; and\n\n32. We also recommended that the OIC-Municipal Budget Officer prepare a separate budget and maintain separate books and registries for each LEE and public utility.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No creation of special account for LEE and public utility yet.\n\n\n\n\nLGU still did not prepare a separate budget and maintain separate books."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY22",
+      "year": 2024,
+      "recommendation": "We recommended that the:\n\n33. Sangguniang Bayan Secretary transmit to the Sangguniang Panlalawigan for review and approval all appropriation;\n\n34. Members of the Sangguniang Bayan require the submission of the Supplemental Annual Investment Plans and Certification of Funding Source before enacting proposed appropriation ordinances on the realignment of funds;\n\n35. Members of the Local Development Council to prepare a supplemental Annual Investment Program to support the changes in the annual budget; and\n\n36. OIC-Municipal Budget Officer and OIC-Municipal Accountant process payment for the utilization of realigned funds only for programs, activities and projects which are included in the supplemental Annual Investment Plan to ensure legality of the transactions.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "LGU has still realigned some projects during CY 2024 without complying with the required conditions."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY23",
+      "year": 2024,
+      "recommendation": "a. The OIC-Accountant to-\n\n37. Submit to the Audit Team the bank statements, original copies of bank credit/debit memos and such other supporting documents to the BRS, for review/verification purposes; and\n\n38. Ascertain the cause of the cash overdraft/deficit incurred in the GF and TF totaling ₱37,385,473.32.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Condition still exists."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY26",
+      "year": 2024,
+      "recommendation": "44. We recommended that the Mayor designate a licensed professional for the position of the Municipal Accountant in adherence to the provisions of Section 474 of RA No. 7160 and Section 13 of the 2017 ORAOHRA, revised under CSC Resolution No. 1800692, thereby, ensuring the reliability of the accounting and internal audit services of the LGU.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The LCE is yet to designate a CPA as Municipal Accountant."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY31",
+      "year": 2024,
+      "recommendation": "49. We recommended and management agreed that the Local Chief Executive require the concerned municipal officials to strictly follow the provision of COA Circular No. 2015-008 on the proper accounting and reporting for local road and road network system to ensure that all roads are properly valued and recorded, and to assure the fair presentation of the account infrastructure assets in the financial statements.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "To update records after conduct of one-time cleansing."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY33",
+      "year": 2024,
+      "recommendation": "51. We recommended that the management form its Solid Waste Management Board and through it, comply strictly all the provisions of the Republic Act No. 9003 in order to achieve the intended purpose of the law and to ensure protection of public health and environment and lessen against air pollution.\n\n52. Moreover, prepare and submit Local Solid Waste Management Plans (10-year) to DENR-EMB for approval by the National Solid Waste Management Commission and make representation with the SB Council for the inclusion in the annual budget Solid Waste Management Programs, Projects and Activities for immediate.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "LGU still did not form Solid Waste Management Board."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY34",
+      "year": 2024,
+      "recommendation": "53. Require the Municipal Treasurer to submit immediately the eight (8) DVs with a total amount of ₱714,234.11 to the Accountant for review and recording.  Then the Accountant should submit immediately the subject DVs to the Audit Team for verification/audit purposes",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "DVs are yet to be submitted to the Accounting Office."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY35",
+      "year": 2024,
+      "recommendation": "54. The recorded valuation of the Land, Land Improvement & Buildings be traced to its historical cost & be reconciled with the real property records of the Municipal Assessor.\n\n55. Likewise, the parcels of Land, together with the buildings or structures built on them, owned by the municipality should be supported either with an original or transfer certificate of title registered in the name of the LGU.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "To update records after conduct of one-time cleansing.\n\n\n\n\nLGU is still in the process of retrieving/securing land titles."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-OBS1",
+      "year": 2024,
+      "recommendation": "We recommended –\nThe OIC-Municipal Accountant:\nclosely coordinate with the Municipal Treasurer to retrieve the missing disbursement vouchers and lacking documents, and to draw the necessary Journal Entry Vouchers (JEVs).\nreclassify the two (2) bank accounts from the current account to Cash in Bank – Local Currency, Savings Account, to maintain the faithful presentation of the Cash account in the financial statements.\nThe Municipal Treasurer:\nclosely coordinate with the OIC – Municipal Accountant and take immediate action for any dormant bank account under custody.\nDuring the exit conference, the OIC-Municipal Accountant and the Municipal Treasurer assured the audit team that the recommendations would be implemented.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-OBS2",
+      "year": 2024,
+      "recommendation": "We recommended that:\nThe City Accountant draws a journal entry to record the motor vehicle received from the DOH;\nThe Supply Officer issues the PAR of the motor vehicles to the end-user; and\nHenceforth, the Management provides the Supply Officer and Municipal Accountant copies of transfer and receipt invoices, such as Property Transfer Report and Deed of Donations for subsequent donations that the Municipality may receive.\nThe LGU assured the audit team that they will coordinate with the Donors to secure the Deed of Donation and Property Transfer Report. Once they secure the supporting documents, the OIC-Municipal Accountant will draw the JEV to record the motor vehicles, and the Supply Officer will issue the PAR.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-OBS3",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Accountant draw journal entries to derecognize in the books of account the PPEs costing below ₱50,000.00, that were issued to end-users prior to CY 2024.\nWe also recommended that the Supply Officer ensure the issuance of the corresponding Inventory Custodian Slips for monitoring and proper accountability of these semi-expendable property.\nThe Accountant assured the audit team that she would draw the journal entries to derecognize the recorded PPEs costing below ₱50,000.00.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-OBS4",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive spearhead the compliance and strict adherence to the COA Circular No. 2020-006 in order to come up with reliable PPE balances that are verifiable as to their existence, condition, and accountability.\nThe LGU assured the audit team that they will conduct the one-time cleansing of PPE.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-OBS5",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Accountant-\neffect the adjustments corresponding to the noted accounting errors based on relevant and sufficient documents; and\nrecognize an Accounts Payable only for obligations on completed infrastructure projects or for goods/services which have been accepted/rendered, and the claims are with proper and complete documents.\nThe accountant said that she will make the necessary adjustments and the LGU further assured the audit team that the recommendations will be implemented.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-OBS6",
+      "year": 2024,
+      "recommendation": "We recommended that the OIC - Municipal Accountant strictly complies with the pertinent provisions of Section 127 of IPSAS 1, Annex G of COA Circular No. 2016-004 dated September 30, 2016, regarding the disclosure of relevant information in the Notes to Financial Statements, particularly for Cash in Bank – LCCA, PPE, and Reconciliation of Net Cash Flows from Operating Activities.\nThe Accountant committed to implement the audit recommendation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-OBS7",
+      "year": 2024,
+      "recommendation": "We recommended that the OIC - Municipal Accountant adhere to the highest degree of objectivity and consistency in keeping the accounts to ascertain correspondence in the balances and amounts reflected and presented in the financial statements and the corresponding notes.\nThe OIC-Municipal Accountant assured the audit team that she would comply with the recommendation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-OBS8",
+      "year": 2024,
+      "recommendation": "We recommended that –\nthe LCE to instruct the officials and personnel concerned to open a Trust Fund bank account; and\nthe Municipal Accountant to transfer the unexpended CY 2024 LDRRMF to the Special Trust Fund.\nThe LCE assured the audit team that they will open a Trust Fund bank account this 2025, and the unexpended CY 2024 LDRRMF will be transferred to the Special Trust Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-OBS9",
+      "year": 2024,
+      "recommendation": "We recommend that the OIC – Municipal Budget Officer, the MDRRMO, and the OIC - Municipal Accountant reconcile the LDRRMF balances presented in their respective reports.\nManagement assured the audit team that they will comply with the recommendation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-OBS10",
+      "year": 2024,
+      "recommendation": "We recommended that the OIC - MDRRMO submit to the Audit Team the Monthly Report of Sources and Utilization of DRRMF on or before the 15th day after the end of each month.\nThe LGU assured the audit team that they will comply with the recommendation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-OBS11",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive strictly consider the required conditions before augmentation of funds to other items of the same expense class are approved to ascertain propriety and validity of the changes made to the budget\nThe LGU assured the audit team that the recommendation will be implemented.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-OBS12",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipality execute an Individual Job Order Contract when they engage the services of a Job Order Personnel.\nManagement committed to implement the recommendation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-OBS13",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive instruct all accountable officers and employees concerned to liquidate immediately their outstanding cash advances in accordance with the pertinent provisions of COA Circular No. 97-002, otherwise, withhold the payment of any money due them in accordance with Section 37 of PD No. 1445.\nManagement assured the audit team that they will send demand letters to all accountable officers and employees concerned and they will instruct them to immediately liquidate their outstanding cash advances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-OBS14",
+      "year": 2024,
+      "recommendation": "We recommended that the LGU immediately renew the registration of its motor vehicles to prevent the accumulation of penalties and fines that may result therefrom.\nManagement committed to immediately renew the registration of their motor vehicles.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-OBS15",
+      "year": 2024,
+      "recommendation": "We recommended that the GFPS of the Municipality submits the GAD Plan and Budget and GAD Accomplishment Report within the period prescribed by regulation.\nThe GFPS committed to submit the GPB and GAD AR within the prescribed deadline.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-OBS16",
+      "year": 2024,
+      "recommendation": "We recommended that the TWG of the Municipality’s GFPS to prepare the GAD Agenda to ensure proper monitoring and evaluation of GAD results and outcomes.\nThe Municipality’s GFPS assured the audit team that they will prepare the GAD Agenda.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-OBS17",
+      "year": 2024,
+      "recommendation": "We recommended that the OIC-Municipal Accountant trace the exact amount of fund transfers erroneously credited to the Due to Philhealth account, and make the necessary adjustments.\nThe OIC-Accountant assured the audit team that she will trace the exact amount of fund transfers credited to the Due to Philhealth and make the necessary adjustments.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-OBS18",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-OBS19",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-OBS20",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-OBS21",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY3",
+      "year": 2024,
+      "recommendation": "6. We recommended that the OIC-Municipal Accountant prepare the necessary adjusting entries to achieve appropriate and correct balance of the Due to NGAs account in the financial statements.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY6",
+      "year": 2024,
+      "recommendation": "9. We recommended that the Local Chief Executive immediately initiate the return of the undisbursed LGSF to the National Treasury to avoid inadvertent use of the fund other than its intended purpose.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY7",
+      "year": 2024,
+      "recommendation": "We strongly recommended to the Local Chief Executive:\n\n10. Formally demand from the Supplier on the complete delivery of procured items in accordance with the agreed specifications, and\n\n11. Approve payment only for fully delivered items in good condition to safeguard the government funds from loss or wastage.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY9",
+      "year": 2024,
+      "recommendation": "We recommended that the LCE strictly ensure that:\n\n14. Traveling expenses of personnel attending the disaster-related training and seminars be charged against the regular appropriation of the MDRRM Office; and\n\n15. Funds from LDRRMF are utilized for expenses relevant to disaster preparedness that will capacitate the community in efficiently managing all types of emergencies.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY12",
+      "year": 2024,
+      "recommendation": "We recommended that the:\n\n18. OIC-Municipal Assessor update the assessment rolls, and submit the same to the OIC-Municipal Treasurer on or before December 31 of each year, in accordance with Section 248 of the Local Government Code of 1991;\n\n19. OIC-Municipal Treasurer furnish the Municipal Accountant, at the beginning of each year, a duly certified list of taxpayers and the amount due and collectible for the year based on the Real Property Tax Account Register (PRTAR) or Taxpayer’s Index Card; and\n\n20. OIC-Municipal Accountant set-up the Real Property Tax Receivables and Special Education Tax Receivables based on the list submitted by the OIC-Municipal Treasurer, in compliance with the modified accrual method of accounting for income from real property taxes, in accordance with the NGAS Manual Volume I for LGUs.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY17",
+      "year": 2024,
+      "recommendation": "25. We strongly recommended to the Local Chief Executive to stop the practice of using the Trust Fund other than its specific purpose and strictly adhere to the provisions of Section 305 (e) of the Local Government Code and Section 4 (3) of PD No. 1445 to properly attain the objectives for which the trust fund was established.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY20",
+      "year": 2024,
+      "recommendation": "30. OIC-Budget Officer and OIC-Municipal Accountant utilize the LDRRM funds for the specific purpose it was created and refrain from incurring and charging expenses that do not contribute to the advancement of LDRRM objectives",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY24",
+      "year": 2024,
+      "recommendation": "39. immediately cause the return to the TF the borrowed amount of ₱400,000.00 taken from the LGSF, and henceforth, only utilize the transferred funds for their intended specific purposes.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY25",
+      "year": 2024,
+      "recommendation": "a. Instruct the OIC-Accountant to –\n\n40. Recognize in the books all existing inventories of DRRM, and henceforth, coordinate with the designated Supply/Property Officer for the list of undistributed supplies, materials or relief goods at year end; and\n\n41. Include in the Notes to Financial Statements the disclosure requirements on DRRM prescribed under COA Circular Nos. 2012-002 and 2014-002.\n\nb. Require the designated Supply/Property Officer for DRRM to –\n\n42. Comply with the preparation and submission of the Inventory List of Items for DRRM, duly supported with Annexes P-1 and P-2, as required under COA Circular No. 2014-002; and\n\n43. Conduct periodic reconciliation of property records with the accounting records and furnish the Accounting Office of pertinent reports relating to procured DRRM items, their distribution and balances at year end, in order that the OIC-Accountant could record the same in the books.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY27",
+      "year": 2024,
+      "recommendation": "45. We recommended and management agreed that the Local Chief Executive instruct the Municipal Accountant to prepare Lapsing Schedule for Depreciation, to be updated regularly, to serve as guide in the computation of periodic provision of depreciation.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY28",
+      "year": 2024,
+      "recommendation": "46. We recommended that the Municipal Mayor require the Municipal Accountant to make adequate disclosure in the Notes to the Financial Statements the details of the Loans Payable pursuant to paragraph 127 of PPSAS No. 1.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY29",
+      "year": 2024,
+      "recommendation": "47. We recommended and that Local Chief Executive strictly observe the timetable set in the LGU’s Annual Procurement Plan to ensure timely disbursements and direct the Municipal Treasurer to exercise more diligence in the monitoring of disbursements to ensure the availability of funds and prevent incurring bank service charges due to bounced checks.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY30",
+      "year": 2024,
+      "recommendation": "48. We recommended that the LGU refrain from this irregular practice of borrowing funds from the Trust Fund to finance operating expenditures of the General Fund.  Moreover, stop charging Trust Fund for expenses which are not in accordance with the purpose for which the fund was received.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Balangkayan_EaSamar-2024-PY32",
+      "year": 2024,
+      "recommendation": "50. We recommended and management agreed that the Municipal Mayor require the Accountant to disclose in the Notes to the Financial Statements the details of the Loans Payable pursuant to paragraph 127 of PPSAS No. 1.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2023-OBS1",
+      "year": 2023,
+      "recommendation": "We recommended that the OIC-Municipal Accountant:\na. Draw the necessary journal entry vouchers (JEVs) to restore the cash balance\nfrom the unreleased checks, and to record the disbursements and debit memos; and\nb. Include in the subsidiary ledgers the unrecorded existing bank accounts of the\nAgency to establish the correct Cash balance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2023-OBS2",
+      "year": 2023,
+      "recommendation": "We recommended that the:\na. Accounting Unit updates the PPELCs and ensures that the total balance\nof PPELCs tallies with the balances of controlling PPE accounts in the\nGeneral Ledger.\nb. GSO or Property Officer update the Property records based on the\nresults of the physical inventory.\nc. Property and Accounting Units undertake collaborative efforts to\nreconcile their respective records with the RCPPE to achieve a complete\nand accurate year-end PPE account balance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2023-OBS3",
+      "year": 2023,
+      "recommendation": "We recommended that the OIC-Municipal Accountant prepare the necessary\nadjusting entries to achieve appropriate and correct balance of the Due to\nNGAs account in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2023-OBS4",
+      "year": 2023,
+      "recommendation": "We recommended that the OIC-Municipal Accountant adhere to the highest\ndegree of objectivity and consistency in keeping the accounts to ascertain\ncorrespondence in the balances and amounts reflected and presented in the\nfinancial statements and the corresponding notes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2023-OBS5",
+      "year": 2023,
+      "recommendation": "We recommended that the Municipal Accountant supply the required\ndisclosures in the notes to financial statements on the reported accounts to\nexpound the user’s understanding of the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2023-OBS6",
+      "year": 2023,
+      "recommendation": "We recommended that the Local Chief Executive immediately initiate the\nreturn of the undisbursed LGSF to the National Treasury to avoid inadvertent\nuse of the fund other than its intended purpose.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2023-OBS7",
+      "year": 2023,
+      "recommendation": "We strongly recommended to the Local Chief Executive:\na. Formally demand from the Supplier on the complete delivery of procured\nitems in accordance with the agreed specifications, and\nb. Approve payment only for fully delivered items in good condition to\nsafeguard the government funds from loss or wastage.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2023-OBS8",
+      "year": 2023,
+      "recommendation": "We recommended that the:\na. Local Sanggunian determine at the onset the presence of the required\nconditions before enactment of a Supplemental Budget, such as, funds are\nactually available, generated new revenue sources, and state declaration of\npublic calamity.\nb. Local Chief Executive strictly consider the required conditions before\naugmentation of funds to other items of the same expense class are\napproved to ascertain propriety and validity of the changes made to the\nbudget.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2023-OBS9",
+      "year": 2023,
+      "recommendation": "We recommended that the LCE strictly ensure that:\na. Traveling expenses of personnel attending the disaster-related training and\nseminars be charged against the regular appropriation of the MDRRM\nOffice; and\nb. Funds from LDRRMF are utilized for expenses relevant to disaster\npreparedness that will capacitate the community in efficiently managing\nall types of emergencies.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2023-OBS10",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2023-PY1",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended that the Mayor require:\na. the OIC-Accountant to -\n1. record adjustments corresponding to the book reconciling items and\nstale checks, duly supported by documents;\n2. submit to the Audit Team the bank statements, original copies of\nbank credit/debit memos and such other supporting documents to the\nBRS, for review/verification purposes; and\n3. ascertain the cause of the cash overdraft/deficit incurred in the GF\nand TF totaling ₱37,385,473.32.\n\nb. the Treasurer to -\n1. monitor closely the transactions in the bank statements/snapshots and\nforward promptly to the Accounting Office all paid Disbursement\nVouchers (DVs), bank statements, reports, copies of debit and credit\nmemos and related supporting documents for timely recording of\ntransactions;\n2. send written notices to the payees at least one month before checks\nbecome stale, so they may be made aware of the existence of the\nchecks; and\n3. reconcile the cash records with those of the accounting records on a\nregular basis, to ensure the accuracy and reliability of the reported\nbalances of the Cash accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended that the Mayor instruct the OIC-Accountant to:\na. determine the cause of the negative balance in the Due to National\nGovernment Agencies account and effect adjusting entries as necessary;\nb. immediately cause the return to the TF the borrowed amount of\n₱400,000.00 taken from the LGSF, and henceforth, only utilize the\ntransferred funds for their intended specific purposes;\nc. reclassify the misclassified funds to their proper accounts and effect\nadjustments in the books pertaining to the recording errors/deficiencies\nnoted; and\nd. draw adjusting journal entries for the misclassified funds and other\nrecording errors, and henceforth, record the proper accounting\ntreatment of the transactions in the books.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "We recommended that the Mayor require the OIC-Accountant to:\na. send out demand letters/notices to the Accountable Officers, enforcing\nthe immediate liquidation of their outstanding cash advances;\nb. conduct periodic monitoring of the submission of liquidation reports to\nfacilitate timely accounting thereof and prevent undue accumulation of\noutstanding cash advances; and\nc. stop granting additional advances to AOs until previous cash advances\nare fully settled /liquidated in the books.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "We recommended that the Mayor:\n1. instruct the OIC-Accountant to –\na. recognize in the books all existing inventories of DRRM, and\nhenceforth, coordinate with the designated Supply/Property\nOfficer for the list of undistributed supplies, materials or relief\ngoods at year end; and\nb. include in the Notes to Financial Statements the disclosure\nrequirements on DRRM prescribed under COA Circular\nNos. 2012-002 and 2014-002.\n2. require the designated Supply/Property Officer for DRRM to –\na. comply with the preparation and submission of the Inventory\nList of Items for DRRM, duly supported with Annexes P-1 and\nP-2, as required under COA Circular No. 2014-002; and\nb. conduct periodic reconciliation of property records with the\naccounting records and furnish the Accounting Office of\npertinent reports relating to procured DRRM items, their\ndistribution and balances at year end, in order that the OIC-\nAccountant could record the same in the books.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "We recommended that the Mayor:\na. direct the BAC officials to strictly comply with the pertinent rules and\nregulations pertaining to the Municipality’s procurements of goods;\nand\nb. instruct the OIC-Accountant to thoroughly check the completeness of\nsupporting documents for all claims against government funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "We recommended that the Mayor designate a licensed professional for the\nposition of the Municipal Accountant in adherence to the provisions of\nSection 474 of RA No. 7160 and Section 13 of the 2017 ORAOHRA, revised\nunder CSC Resolution No. 1800692, thereby, ensuring the reliability of the\naccounting and internal audit services of the LGU.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant:\n\nSpearhead the immediate liquidation of the cash advances granted to LGU officials/employees. \nIntroduce controls that would assure that cash advances are liquidated or reported as soon as the purpose of the cash advance is served;\nRefrain from granting additional cash advances to officers and employees with unsettled cash advances to avoid the accumulation of unliquidated cash advances; \nRequest write-off of long outstanding/dormant cash advances and attached therein complete documents as enumerated in COA Circular 2016-005;\nCause the withholding of salaries or any money due the officers and employees with overdue unliquidated cash advances to compel its settlement; and\nFile appropriate charges against persons liable if warranted, for continuous failure to settle their accountabilities upon demand.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The accountant attached a schedule of unliquidated cash advances of employees, listing down the unliquidated balances for each employee which has a balance of P2,689,322.27 as of December 31, 2020. But audit recommendation were still taken for granted as there was no decrease in the balance of CA to officers and Employees."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Chief Executive direct the concerned officials to refrain from charging administrative and non-development related expenses against the 20% Development Fund and strictly comply with the provisions of DILG-DBM JMC No. 2017-1.  \n\nMoreover, charge the wages of the JO’s/Casuals assigned to income generating enterprise like the Minasangay Island Beach Resort to income from its operations.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management maintained its contention that repairs and rehabilitation of infrastructure can be charged to DF."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended that the LGU refrain from this irregular practice of borrowing funds from the Trust Fund to finance operating expenditures of the General Fund.  Moreover, stop charging Trust Fund for expenses which are not in accordance with the purpose for which the fund was received.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The LGU resorted to borrowing from the Trust Fund because of instances of immediate need of funds for the operations of the municipality and the non-availability/insufficiency of fund at that particular time in the general fund.  Though they intend to return the borrowed funds once they became available."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended and management agreed that the Local Chief Executive:\nDirect the Inventory Committee, if any to complete the conduct of physical inventory of all properties of LGU.\nDirect the GSO to submit the complete Report of Physical Count of Property, Plant and Equipment (RPCPPE) to the Audit Team; and\nDirect the Municipal Accountant & the GSO to maintain appropriate Property, Plant and Equipment Ledger Cards and Property Cards (PPELC), respectively and conduct a periodic reconciliation of records in accordance with Section 114 and 124 of NGAS Manual for LGU, Volume I.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The LGU still has no General Services Officer who can focus on the implementation of the recommendation."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-PY9",
+      "year": 2020,
+      "recommendation": "We recommended and management agreed that the Local Chief Executive require the concerned municipal officials to strictly follow the provision of COA Circular No. 2015-008 on the proper accounting and reporting for local road and road network system to ensure that all roads are properly valued and recorded, and to assure the fair presentation of the account infrastructure assets in the financial statements.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management already started inventory of current road networks but failed to prepare and submit the report because there was no focal person assigned to accomplish the task."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-PY12",
+      "year": 2020,
+      "recommendation": "We recommended and management agreed that the Local Chief Executive, in accordance with the provisions of COA Circular No. 2012-002, direct:\n\nThe Municipal Budget Officer to maintain Registries of Appropriations, Allotments and Obligations for each of the QRF, MOOE & CO.\nThe Municipal Disaster Risk Reduction and Management Officer (MDRRMO) to regularly prepare the monthly Report on Sources and Utilization of DRRM Fund and submit to the Audit Team;\nFurther, the Municipal Accountant should determine the unexpended balances for QRF & MOOE and transfer the same to a special trust fund to be used solely for the purpose of supporting disaster risk reduction and management activities of the Municipality within the next five years.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Budget Officer did not prepare the RAO separately for QRF, MOOE & CO.\n\nCoordination with the MDRRMO and the Municipal accountant was not in place to facilitate on-time submission of the report to the audit team."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-PY13",
+      "year": 2020,
+      "recommendation": "We recommend that the Local Chief Executive direct the Municipal Accountant to prepare and submit monthly bank reconciliation statements for all funds maintained for Cash in Bank in pursuance to Section 74 of PD 1445 and Sections 3.2 to 3.4 of COA Circular No. 96-011 in order to present a reliable and accurate balance of the account.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "While the accountant was able to submit a bank reconciliation statement for the year end, preparation of the bank reconciliation statements should be made on a monthly basis to ease year-end report preparation."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-PY14",
+      "year": 2020,
+      "recommendation": "We recommend that the Municipal Mayor direct the Municipal Accountant to provide depreciation on all Property, Plant and Equipment (PPE) accounts and ensure correct computation based on the guidelines set in PPSAS 17. Then, prepare all the necessary journal entries to correct the account balances.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The accountant was able to apply depreciation for some PPEs for CY 2019, however, records were not available to them for other PPEs."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-PY15",
+      "year": 2020,
+      "recommendation": "We recommend that the Local Chief Executive direct the Accountant to submit the accounts, financial statements and reports and accompanying schedules within the period prescribed by existing rules and regulations.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Quarterly reports are submitted but timeliness is not observed."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-PY17",
+      "year": 2020,
+      "recommendation": "We recommend that the management form its Solid Waste Management Board and through it, comply strictly all the provisions of the Republic Act No. 9003 or otherwise known as the Solid Waste Management Act of 2000 in order to achieve the intended purpose of the law and to ensure protection of public health and environment and lessen against air pollution.\n\nMoreover, prepare and submit Local Solid Waste Management Plans (10-year) to DENR-EMB for approval by the National Solid Waste Management Commission and make representation with the SB Council for the inclusion in the annual budget Solid Waste Management Programs, Projects and Activities for immediate and proper implementation.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The LGU is still making revisions for their 10-year EcoSWAM Plan to be submitted to EMB for review. They were also on the process of procuring a lot to be used as a sanitary landfill."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-PY18",
+      "year": 2020,
+      "recommendation": "We recommend that the Local Chief Executive direct the\n\nThe concerned local officials to refrain charging Trust Fund transactions against the General Fund and immediately replenish the General Fund.\nThe OIC-Municipal Accountant to make appropriate journal entries to correct the erroneous entry made.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The LGU still practice using Trust Fund for General Fund disbursements when the General Fund is depleted."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-PY19",
+      "year": 2020,
+      "recommendation": "We recommend that the Local Chief Executive submit immediately all the stated required documents for the granted cash advances for Confidential Fund to the COA Audit Team for verification.  \n\nLikewise, the Liquidation Reports with complete supporting documents should be submitted to ICFAU-COA Central Office in a sealed envelope for auditing purposes, and furnish the Audit Team a copy of Transmittal Letter duly received by ICFAU.  \n\nHenceforth, the Local Chief Executive and the Accountant should follow strictly the guidelines on the entitlement, release, use, reporting and audit of confidential and/or intelligence funds per COA, DBM, DILG, GCGOCCs & DND Joint Circular No. 2015-01 dated January 8, 2015, to avoid recurrence of this observation and to facilitate the immediate audit of the confidential funds for prompt communication of audit results.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The LGU has already committed to comply with the submission of the documents but is unable to recover said files."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-PY20",
+      "year": 2020,
+      "recommendation": "Require the Municipal Accountant and the Municipal Treasurer to submit all the financial reports and related documents to the Audit Team for audit.  \n\nHenceforth, the Municipal Mayor should ensure that all officials and employees of the municipality faithfully discharge their duties and functions as provided under Section 444.b.1.x of RA 7160, and  should see to it that laws, rules and regulations shall be strictly complied/followed.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Coordination between the Municipal Treasurer and Municipal Accountant on the submission of DVs was not properly in place to facilitate the timely submission to the audit team."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-PY21",
+      "year": 2020,
+      "recommendation": "We recommend that the Local Chief Executive shall establish a GAD Focal Point System in order to efficiently come up with a GAD Plan and Budget and GAD Accomplishment Report in accordance with the provisions in the afore-cited Joint Circular.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Though there is a designated focal person for GAD, accomplishment report on GAD activities were not made because the designated personnel seems to be unable to do additional work load."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-PY22",
+      "year": 2020,
+      "recommendation": "Require the Municipal Treasurer to submit immediately the eight (8) DVs with a total amount of P714,234.11 to the Accountant for review and recording.  Then the Accountant should submit immediately the subject DVs to the Audit Team for verification/auditpurposes.   \nHenceforth, the Local Chief Executive (LCE) should require the Municipal Treasurer to prepare or update his daily RCI which cover all paid vouchers during the day and should ensure that all vouchers are supported with required documents and intact. These should be submitted intact and within the prescribed period to the accountant. Likewise, the Accountant should institute internal controls in the processing of transactions to ensure that all DVs are intact and completely recorded in the books and submit the same to the Audit Team within the reglementary period.                                            \nMoreover, the LCE should ensure that all officials and employees of the municipality faithfully discharge their duties and functions as provided under Section 444.b.1.x of RA 7160, and Section 111 of PD 1445.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Some check disbursement that were not recorded in the book but were negotiated on the depository bank were already taken up and recorded in the book. The unrecorded disbursement consist of five negotiated checks with total of P308,310.11. Management still continues to look on these unrecorded Disbursement Vouchers."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-PY23",
+      "year": 2020,
+      "recommendation": "The recorded valuation of the Land, Land Improvement & Buildings be traced to its historical cost & be reconciled with the real property records of the Municipal Assessor.  Likewise, the parcels of Land, together with the buildings or structures built on them, owned by the municipality should be supported either with an original or transfer certificate of title registered in the name of the LGU.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management still in the process of reconciling the records. Title for the land which the Municipal building is occupying is also still on the process."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended and management agreed that the Local Chief Executive:\nInstruct the Municipal Accountant to maintain complete supply ledger cards and strictly adhere to the regulations on the recording of receipt and issuance of inventory items, as well as controlling and monitoring of the same. Also, to prepare adjusting entries for the noted deficiencies; and\nDirect the Property Custodian to maintain complete stock cards, regularly prepare the RIS and RSMI, conduct the annual physical count of all inventories on stock as well as those transferred to distributing site to determine any balances on hand, and to prepare and submit the RPCI to the Auditor not later than January 31 of each year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended and management agreed that the Local Chief Executive instruct the Municipal Accountant to:\nStrictly abide with the prevailing regulations in computing for depreciation; do a recomputation and effect the appropriate adjustments to each PPE account;\nCompute the correct depreciation for the completed infrastructure projects and adjust accordingly; and\nPrepare Lapsing Schedule for Depreciation, to be updated regularly, to serve as guide in the computation of periodic provision of depreciation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended and management agreed that the LCE will direct the accountant to make the necessary adjustments to the affected accounts according to Paragraph 44 and 45 of IPSAS 23 and to make appropriate disclosure in the Notes to FS regarding the balance of the BGCM Fund to provide a more accurate and reliable financial statement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommended and management agreed that they will comply with the provision in Section 3.7 of LBC 125 for the creation of SAGF for the BGCM.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We recommended and management agreed to strictly adhere to the provisions of LBC 125 on the allowable PPAs and expenses for the benefit of its constituents especially on the COVID-19 pandemic.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended and management agreed that they will immediately submit the lacking documents and ensure that the required documents for emergency procurements (negotiated) are complete before payments are made in accordance with the provisions of the Section 4 of PD No. 1445 and Section 9 of COA Circular No. 2012-001.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We recommended and management agreed to strictly adhere to the guidelines set by GPPB Circular No. 01-2020 dated April 6, 2020 to prevent the possibility of abuses and corruption in the undertaking of its emergency procurements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We recommended and management agreed to immediately comply on the posting and reporting requirements provided in Section 4 of LBC 125 for the utilization of its BGCM to provide adequate information and disclosure to its constituents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-OBS9",
+      "year": 2020,
+      "recommendation": "We recommended and management agreed that the Local Chief Executive require the liquidating officer to immediately apply for bond so as not to expose government funds to the risk of loss or misuse.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-OBS10",
+      "year": 2020,
+      "recommendation": "We recommended and management agreed that the Local Chief Executive:\na)\tensure that henceforth, all PPAs that are to be implemented by the Municipality should be clearly specified as to the amount, name, nature and place to be undertaken, and avoid lump sum appropriation; and\nb)\tinstruct the MDC to prepare a Supplemental or Amended AIP for newly identified PPAs and cause the approval by the Sanggunian.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to make adequate disclosure in the Notes to the Financial Statements the details of the Loans Payable pursuant to paragraph 127 of PPSAS No. 1.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended that the BAC submit APP-CSE either printed copy or electronic copy through online to PS-DBM for the succeeding years in order to include the needs of the Municipality of the commonly-use supplies in the projection of inventory requirements, scheduling of procurement activities, and overall management in order to subsequently purchase all CSE in the PS-DBM depot.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended and that Local Chief Executive strictly observe the timetable set in the LGU’s Annual Procurement Plan to ensure timely disbursements and direct the Municipal Treasurer to exercise more diligence in the monitoring of disbursements to ensure the availability of funds and prevent incurring bank service charges due to bounced checks.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended that:\nThe Treasurer should send a written notice to the payees one month before the check becomes stale as required in Section 59 of the NGAS Manual. Stale checks shall be reported and attached to the RCI prepared at the period of cancellation.\nFor improperly reported stale checks, the Office of the Municipal Treasurer and the Office of Municipal Accountant, provide evidence that the checks are not outstanding; that they have been voided and no obligations exist.\nThe Accountant should make the necessary adjusting entries for stale-dated checks.\nThe Treasurer and Accountant should coordinate in the preparation of the monthly Bank Reconciliation Statements.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-PY10",
+      "year": 2020,
+      "recommendation": "We recommended and management agreed that the Municipal Mayor require the City Accountant to reconcile her Loans Payable record with that of the lending institutions so as to present fairly the financial statements.  Moreover, to disclose in the Notes to the Financial Statements the details of the Loans Payable pursuant to paragraph 127 of PPSAS No. 1.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-PY11",
+      "year": 2020,
+      "recommendation": "We recommended and management agreed that the Local Chief Executive direct: \na) the OIC – Treasurer to be more diligent and consistent in his records to comply with the high standards set about by Section 111(2) of PD 1445. \nb) the OIC - Municipal Treasurer to submit all pertaining receipts, deposit slips and reports; and assist the OIC - Accountant to determine the cause/s of discrepancies and adjust the books accordingly in order to correct the reported balance of the Cash, Local Treasury account for a fair presentation of the financial statements.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Balangkayan_EaSamar-2020-PY16",
+      "year": 2020,
+      "recommendation": "We recommend that the Local Chief Executive designate permanent employees to act as collecting officers and require their immediate application for bond so as not to expose government funds to the risk of loss or misuse.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended and management agreed that the Local Chief Executive require the concerned municipal officials to strictly follow the provision of COA Circular No. 2015-008 on the proper accounting and reporting for local road and road network system to ensure that all roads are properly valued and recorded, and to assure the fair presentation of the account infrastructure assets in the financial statements.",
+      "managementAction": "Not implemented already started inventory of current road networks but failed to prepare and submit the report because there was no focal person assigned to accomplish the task.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended and management agreed that the Local Chief Executive to direct the concerned officials to refrain from charging administrative and non-development related expenses against the 20% Development Fund.",
+      "managementAction": "Management maintained its contention that repairs and rehabilitation of infrastructure can be charged to DF. The management agreed to direct the concerned officials to refrain from charging administrative and non-development related expenses against the 20% DF.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in CY 2019 AAR. Management maintained its contention and reduced charging of items not considered appropriate for DF. This was also reiterated in 2019 AAR."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY11",
+      "year": 2019,
+      "recommendation": "We recommend that the Local Chief Executive designate permanent regular employees to act as collecting officers for these positions and require them to apply for bond so as not to expose government funds to the risk of loss or misuse.",
+      "managementAction": "Management is making efforts to hire permanent regular employees to act as collecting officers for these positions.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY29",
+      "year": 2019,
+      "recommendation": "We recommended that management to create an Inventory Committee to conduct the physical inventory of properties; require the GSO to prepare the Report of Physical Count and submit to the Audit Team; require the Municipal Accountant to maintain PPELC and the GSO to maintain Property Cards; and ensure real properties supported with proof of ownership such as certificates of land title and/or declaration of real properties and registered with the Register of Deeds in the name of the municipality.",
+      "managementAction": "Not Implemented",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management still in the process of reconciling the records. Title for the land which occupying the municipal building is still on the process."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to make adequate disclosure in the Notes to the Financial Statements the details of the Loans Payable pursuant to paragraph 127 of PPSAS No. 1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accountant:\na. Spearhead the immediate liquidation of the cash advances granted to\nLGU officials/employees.\nb. Introduce controls that would assure that cash advances are liquidated\nor reported as soon as the purpose of the cash advance is served;\nc. Refrain from granting additional cash advances to officers and\nemployees with unsettled cash advances to avoid the accumulation of\nunliquidated cash advances;\nd. Request write-off of long outstanding/dormant cash advances and\nattached therein complete documents as enumerated in COA Circular\n2016-005;\ne. Cause the withholding of salaries or any money due the officers and\nemployees with overdue unliquidated cash advances to compel its\nsettlement; and\nf. File appropriate charges against persons liable if warranted, for\ncontinuous failure to settle their accountabilities upon demand.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended that the BAC submit APP-CSE either printed copy or electronic copy through online to PS-DBM for the succeeding years in order to include the needs of the Municipality of the commonly-use supplies in the projection of inventory requirements, scheduling of procurement activities, and overall management in order to subsequently purchase all CSE in the PS-DBM depot.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive strictly observe the timetable set in the LGU’s Annual Procurement Plan to ensure timely disbursements and direct the Municipal Treasurer to exercise more diligence in the monitoring of disbursements to ensure the availability of funds and prevent incurring bank service charges due to bounced checks.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended that:\ne) The Treasurer should send a written notice to the payees one month\nbefore the check becomes stale as required in Section 59 of the NGAS\nManual. Stale checks shall be reported and attached to the RCI prepared\nat the period of cancellation.\nf) For improperly reported stale checks, the Office of the Municipal\nTreasurer and the Office of Municipal Accountant, provide evidence that\nthe checks are not outstanding; that they have been voided and no\nobligations exist.\ng) The Accountant should make the necessary adjusting entries for stale-\ndated checks.\nh) The Treasurer and Accountant should coordinate in the preparation of\nthe monthly Bank Reconciliation Statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended and management instructed the Local Chief Executive: a) Direct the Inventory Committee, if any to conduct physical inventory of all properties of LGU. b) Direct the GSO to submit the complete Report of Physical Count of Property, Plant and Equipment (RPCPPE) to the Audit Team; and c) Direct the Municipal Accountant & the GSO to maintain appropriate Property, Plant and Equipment Ledger Cards and Property Cards (PPELC), respectively and conduct a periodic reconciliation of records in accordance with Section 114 and 124 of NGAS Manual for LGU, Volume I",
+      "managementAction": "The LCE agreed that the Municipal Administrator to help the Inventory GSO in the conduct of inventory of all properties of LGU. b) Direct the GSO to submit the complete Report of Physical Count of Property, Plant and Equipment RPCPPE and PPE ledger cards were also prepared.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Submitted Municipal ledger cards were incomplete. Items which are not yet included in the inventory, especially those unserviceable or have it lost items."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended and management agreed that the Municipal Mayor require the City Accountant to reconcile her Loans Payable record with that of the lending institutions so as to present fairly the financial statements. Moreover, to disclose in the Notes to the Financial Statements the details of the Loans Payable pursuant to paragraph 127 of PPSAS No. 1.",
+      "managementAction": "The Municipal Mayor agreed that the Accountant was able to reconcile the records and made the journal entries.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Although accounting records were corrected, disclosure on the Notes to FS was not made."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended and management agreed that the Local Chief Executive direct: a) the OIC – Treasurer to be more diligent and consistent in his records to comply with the standards set by Section 111(2) of PD 1445. b) the OIC - Municipal Treasurer to submit all the pertaining receipts, deposit slips and reports; and assist the OIC - Accountant to determine the cause/s of discrepancies and adjust the books accordingly in order to correct the reported balance of the Cash, Local Treasury account for a fair presentation of the financial statements.",
+      "managementAction": "The LCE agreed and directed the OIC-Treasurer to be more diligent and consistent in his records.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Submitted its contention"
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended and management agreed that the Local Chief Executive, in accordance with the provisions of COA Circular No. 2012-002, direct: 1. The Municipal Budget Officer to maintain registries of Appropriations, Allotments and Obligations for each of the QRF, MOOE & CO. 2. The Municipal Disaster Risk Reduction and Management Officer (MDRRMO) to regularly prepare the monthly Report on Sources and Utilization of DRRM Fund and submit to the Audit Team; and determine the unexpended balances for QRF & MOOE and transfer the same to a special trust fund to be used solely for the purpose of supporting disaster risk reduction and management activities of the Municipality within the next five years.",
+      "managementAction": "Registries are prepared but submission of report to the Audit Team remains to be inconsistent.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Coordination with the MDRRMO and the Municipal Accountant was not in place to facilitate the time submission of the report to the Audit Team."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommend that the Local Chief Executive direct the Municipal Accountant to prepare and submit monthly bank reconciliation statements for all funds maintained in Cash in Bank in pursuance to Section 74 of PD 1445 and Sections 3.2 to 3.4 of COA Circular No. 96-011 in order to present a reliable and accurate balance of the account.",
+      "managementAction": "The Local Chief Executive direct the Municipal Accountant to prepare and submit monthly bank statements for all funds maintained.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reconciliation should be made on a monthly basis to ease reconciliation in the accounts except for 2 accounts because of lack of updated Bank Statements. The bank reconciliation were not prepared."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommend that the Local Chief Executive: a) Direct the Inventory Committee, if any to conduct the conduct of physical inventory of all properties and submit the complete Report of Physical Count of Property, Plant and Equipment (RPCPPE) to the Audit Team; and b) Direct the Municipal Accountant & the GSO to maintain appropriate Property, Plant and Equipment Ledger Cards and Property Cards (PPELC), respectively and conduct a periodic reconciliation of records in accordance with Section 114 and 124 of NGAS Manual for LGU, Volume I",
+      "managementAction": "The LCE instructed the Municipal Administrator to help the Inventory Committee in the conduct of physical inventory of all properties of LGU. Direct the GSO to submit the complete Report of Physical Count of Property, Plant and Equipment RPCPPE and PPE ledger cards were also prepared.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Submitted RPCCPE and ledger cards were incomplete. There were still items which are not yet included in the inventory, especially those unserviceable or lost items."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY9",
+      "year": 2019,
+      "recommendation": "We recommend that the Municipal Mayor direct the Municipal Accountant to apply depreciation on all Property, Plant and Equipment (PPE) accounts and ensure correct computation based on the guidelines set in PPSAS 17. Then, prepare all the necessary journal entries to correct the account balances.",
+      "managementAction": "The Municipal accountant was able to apply depreciation for some PPEs for CY 2019.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Depreciation for some PPEs for CY 2019 were applied; records were not available to apply depreciation for all PPEs."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY10",
+      "year": 2019,
+      "recommendation": "We recommend that the Local Chief Executive direct the Accountant to submit the accounts, financial statements and reports and accompanying schedules within the period prescribed by existing rules and regulations.",
+      "managementAction": "Quarterly reports are submitted but timeliness is not observed.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY12",
+      "year": 2019,
+      "recommendation": "We recommend that the LGU form its Solid Waste Management Board and through it, comply strictly all the provisions of Republic Act No. 9003 or otherwise known as the Solid Waste Management Act of 2000 in order to achieve the intended purpose of the law and to ensure protection of public health and environment and lessen against air pollution. Moreover, prepare and submit Local Solid Waste Management Plans (10-year) to DENR-EMB for approval by the National Solid Waste Management Commission and make representation with the SB Council for the inclusion in the annual budget Solid Waste Management Programs, Projects and Activities for immediate and proper implementation.",
+      "managementAction": "Management still maintained its contention to form its Solid Waste Management Board and through it, comply strictly all the provisions of RA 9003. They were also in the process of procuring a lot to be used as a sanitary landfill.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY13",
+      "year": 2019,
+      "recommendation": "We recommend that the Local Chief Executive constitute an Inventory Committee to conduct the physical inventory of properties; require the GSO to prepare the Report of Physical Count of Property, Plant and Equipment and submit to the audit team; and Direct the Municipal Accountant & GSO to maintain appropriate PPELC and conduct periodic reconciliation in accordance with Section 114 and 124 of NGAS Manual for LGU, Volume I.",
+      "managementAction": "Partially implemented. Require the GSO to prepare the Report of Physical Count of Property, Plant and Equipment and submit to the audit team; and Direct the Municipal Accountant & the GSO to maintain appropriate Property, Plant and Equipment Ledger Card (PPELC).",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "In the process."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY14",
+      "year": 2019,
+      "recommendation": "We recommend that the Local Chief Executive direct the concerned officials to refrain from charging administrative and non-development related expenses against the 20% DF.",
+      "managementAction": "Management maintained its contention that repairs and rehabilitation of infrastructure can be charged to DF.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Management complied partially. Also reiterated in 2019 AAR."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY15",
+      "year": 2019,
+      "recommendation": "We recommend that the Local Chief Executive direct the concerned local officials to refrain charging Trust Fund transactions against the General Fund and immediately replenish the General Fund. The OIC-Municipal Accountant to make appropriate journal entries to correct the erroneous entry made.",
+      "managementAction": "The concerned local officials to refrain charging Trust Fund transactions against the General Fund and immediately replenish the General Fund.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY16",
+      "year": 2019,
+      "recommendation": "We recommend that the Local Chief Executive, in accordance with the provisions of COA Circular No. 2012-002, direct: 1. The Municipal Accountant to regularly prepare the monthly Report on Sources and Utilization of DRRM Fund and submit to the Audit Team; and 2. Municipal Budget Officer to maintain Registries of Appropriations, Allotments and Obligations for each of the QRF, MOOE & CO. Further, determine the unexpended balances for QRF & MOOE and transfer the same to a special trust fund to be used solely for the purpose of supporting disaster risk reduction and management activities of the Municipality within the next five years.",
+      "managementAction": "The Municipal Accountant to regularly prepare the monthly Report on Sources and Utilization of DRRM Fund and submit to the Audit Team. The Municipal Budget Officer to maintain Registries of Appropriations, Allotments and Obligations for each of the QRF, MOOE & CO.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Registries are prepared but submission of report to the Audit Team remains inconsistent."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY17",
+      "year": 2019,
+      "recommendation": "We recommend that the Local Chief Executive shall establish a GAD Focal Point System to efficiently come up with a GAD Plan and Budget and GAD Accomplishment Report in accordance with the provisions in the afore-cited Joint Circular.",
+      "managementAction": "The Local Chief Executive shall accomplish a GAD report on GAD activities.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Designated focal person for GAD, accomplishment report were not made because the designated personnel seems to be unable to do additional work load."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY18",
+      "year": 2019,
+      "recommendation": "Require the Municipal Treasurer to submit immediately the DVs with a total amount of P714,234.11 to the Accountant for review and recording. Then the Accountant should submit immediately the subject DVs to the Audit Team for verification/audit poses. Henceforth, the Local Chief Executive should require the Municipal Treasurer to prepare or update his daily RCI which cover all paid vouchers during the day and should ensure that all vouchers are supported with required documents and intact. These should be submitted intact and within the prescribed period to the accountant.",
+      "managementAction": "The Local Chief Executive required the Municipal Treasurer to submit the subject DVs to the Accountant for review and recording.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some check disbursements that were not recorded in the books but were negotiated on the depository bank were already taken up and recorded in the voucher book. Management still continues to look on these unrecorded disbursement that were not properly in place."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY19",
+      "year": 2019,
+      "recommendation": "Require the Local Chief Executive to submit immediately all the stated required documents to the Chairman of the Commission on Audit in a sealed envelope for auditing purposes. Henceforth, the management should comply strictly with the provisions of COA Circular No. 2003-003 to avoid recurrence of this observation and to facilitate the immediate audit of the intelligence funds for prompt communication of audit results.",
+      "managementAction": "Management still continues to implement the said recommendations, the liquidation of the confidential fund were submitted to ICFAU-COA Central Office in a sealed envelope for auditing purposes and furnish the Audit Team a copy of Transmittal Letter duly received by ICFAU.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The management is in the process of complying all the said necessary documents for the liquidation of confidential intelligence fund."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY20",
+      "year": 2019,
+      "recommendation": "Management should strictly adhere with the afore-cited laws and regulations. The Honorable Mayor should direct the concerned LGU officials and employees to comply and submit the above-listed reports with complete documentations to the COA Audit Team to enable them to come up with audit results which may support management decisions.",
+      "managementAction": "Management complied and directed the Treasurer and Accountant to submit required reports to the Audit Team.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There is improvement but some reports were still not made available timely."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY21",
+      "year": 2019,
+      "recommendation": "We recommended that all concerned accountable officers should immediately liquidate all cash advances and that current cash advances for travel should first be settled before new ones be allowed in compliance with the provisions of the cited rules in the granting, utilization and liquidation of cash advances.",
+      "managementAction": "Demand letters were given to the concerned officials and personnel to immediately liquidate their outstanding cash advances.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Although there was an improvement on the liquidation of cash advances of some personnel, delayed liquidation still persists."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY22",
+      "year": 2019,
+      "recommendation": "We recommend immediate liquidation of outstanding cash advances in accordance with COA Circular No. 97-002 and Accounting Circular No. 2006-001. Further, enforce Section 5.9 of COA Circular No. 97-002 and Section 37 of PD 1445 where appropriate.",
+      "managementAction": "Demand Letters were given to the concerned officials and employees to liquidate their outstanding cash advances.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some already settled their outstanding cash advances. Delayed liquidation still persists."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY23",
+      "year": 2019,
+      "recommendation": "We recommend the Municipal Accountant to regularly prepare the monthly Report on Sources and Utilization of DRRM Fund and submit to the Audit Team; and the Municipal Budget Officer to maintain Registries of Appropriations, Allotments and Obligations for each of the QRF, MOOE & CO.",
+      "managementAction": "The Municipal Accountant to regularly prepare the monthly Report on Sources and Utilization of DRRM Fund and submit to the Audit Team.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Coordination with the MDRRMO and the Municipal Accountant was not in place to facilitate the timely submission of the report to the audit team. Was reiterated in 2018 AAR."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY24",
+      "year": 2019,
+      "recommendation": "We recommend that the Local Chief Executive shall establish a GAD Focal Point System to efficiently come up with a GAD Plan and Budget and GAD Accomplishment Report in accordance with the provisions in the afore-cited Joint Circular.",
+      "managementAction": "The Local Chief Executive shall accomplish a GAD report on GAD activities.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Designated focal person for GAD, accomplishment report were not made because the designated personnel seems to be unable to do additional work load."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY25",
+      "year": 2019,
+      "recommendation": "Require the Municipal Treasurer to submit immediately the DVs with a total amount of P714,234.11 to the Accountant for review and recording. Then the Accountant should submit immediately the subject DVs to the Audit Team for verification/audit poses. Henceforth, the Local Chief Executive should require the Municipal Treasurer to prepare or update his daily RCI which cover all paid vouchers during the day and should ensure that all vouchers are supported with required documents and intact. These should be submitted intact and within the prescribed period to the accountant.",
+      "managementAction": "The Local Chief Executive required the Municipal Treasurer to submit the subject DVs to the Accountant for review and recording.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "***Moreover, the LCE should ensure that all officials and employees of the municipality faithfully discharge their duties and functions as provided under Section 444.b.1.x of RA 7160, and Section 111 of PD 1445."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY26",
+      "year": 2019,
+      "recommendation": "Require the Local Chief Executive to submit immediately all the stated required documents to the Chairman of the Commission on Audit in a sealed envelope for auditing purposes. Henceforth, the management should comply strictly with the provisions of COA Circular No. 2003-003 to avoid recurrence of this observation and to facilitate the immediate audit of the intelligence funds for prompt communication of audit results.",
+      "managementAction": "Management still continues to implement the said recommendations, the liquidation of the confidential fund were submitted to ICFAU-COA Central Office in a sealed envelope for auditing purposes. Henceforth, the Local Chief Executive committed to comply.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The management is in the process of complying all the said necessary documents for the liquidation of confidential intelligence fund."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY27",
+      "year": 2019,
+      "recommendation": "Management should strictly adhere with the afore-cited laws and regulations. The Honorable Mayor should direct the concerned LGU officials and employees to comply and submit the above-listed reports with complete documentations to the COA Audit Team to enable them to come up with audit results which may support management decisions.",
+      "managementAction": "Management complied and directed the Treasurer and Accountant to submit required reports to the Audit Team.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There is improvement but some reports were still not made available timely."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2019-PY28",
+      "year": 2019,
+      "recommendation": "We recommended that all concerned accountable officers should immediately liquidate all cash advances and that current cash advances for travel should first be settled before new ones be allowed in compliance with the provisions of the cited rules in the granting, utilization and liquidation of cash advances.",
+      "managementAction": "Demand letters were given to the concerned officials and personnel to immediately liquidate their outstanding cash advances.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Although there was an improvement on the liquidation of cash advances of some personnel, delayed liquidation still persists."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-PY4",
+      "year": 2018,
+      "recommendation": "We recommend that the Local Chief Executive direct the Accountant to submit the accounts, financial statements and schedules and accompanying documents within the period prescribed by existing rules and regulations.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Accounts and schedules were submitted late, depriving management and auditors of timely information and review."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommend that the Local Chief Executive designate permanent employees to act as collecting officers and require their immediate application for bond so as not to expose government funds to the risk of loss or misuse.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-PY13",
+      "year": 2018,
+      "recommendation": "We recommend the Local Chief Executive submit immediately all the required documents for the granted cash advances for Confidential Fund to the COA Audit Team for verification. Likewise, all related Liquidation Reports with complete supporting documents should be submitted to ICFAU-COA Central Office in a sealed envelope for auditing purposes, and furnish the Audit Team a copy of Transmittal Letter duly received by ICFAU.",
+      "managementAction": "The Local Chief Executive and the Accountant should follow strictly the guidelines on the entitlement, release, use, reporting and audit of confidential and/or intelligence funds per Joint Circular and submit the required documents.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The designated personnel seems to be unable to do additional work load; necessary documents were not furnished timely."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-PY17",
+      "year": 2018,
+      "recommendation": "We recommend that the Local Chief Executive, in accordance with the provisions of COA Circular No. 2012-002, direct: 1. The Municipal Accountant to regularly prepare the monthly Report on Sources and Utilization of DRRM Fund and submit to the Audit Team; and 2. The Municipal Budget Officer to maintain Registries of Appropriations, Allotments and Obligations for each of the QRF, MOOE & CO. Further, the Municipal Accountant should determine the unexpended balances for QRF & MOOE and transfer the same to a special trust fund to be used solely for DRRM activities within the next five years.",
+      "managementAction": "The Municipal Accountant to prepare the monthly report and the Municipal Budget Officer to maintain registries.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Coordination with the MDRRMO and the Municipal Accountant was not in place to facilitate timely submission; reports were incomplete."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-PY20",
+      "year": 2018,
+      "recommendation": "Require the Local Chief Executive to submit immediately all the stated required documents to the Chairman of the Commission on Audit in a sealed envelope for auditing purposes. Henceforth, management should comply strictly with the provisions of COA Circular No. 2003-003 to avoid recurrence of this observation and to facilitate the immediate audit of the intelligence fund for prompt communication of audit results.",
+      "managementAction": "Management committed to follow the required guidelines and submit necessary documents; the Local Chief Executive committed to comply.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management continues to be in the process of complying; necessary documents were not all submitted."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-PY21",
+      "year": 2018,
+      "recommendation": "Management should strictly adhere to laws and regulations and the Honorable Mayor should direct concerned LGU officials and employees to comply and submit the above-listed reports with complete documentations to the COA Audit Team for CY 2014 to enable proper audit.",
+      "managementAction": "Management was advised to comply and submit the required reports; improvements were to be made.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The agency did not fully submit the required reports; some improvements were noted in later years but full compliance not achieved."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-PY23",
+      "year": 2018,
+      "recommendation": "The recorded valuation of the Land, Land Improvement & Buildings be traced to its historical cost and be reconciled with the real property records of the Municipal Assessor. Further, parcels of Land together with the buildings or structures built on them owned by the municipality should be supported either with an original or transfer certificate of title registered in the name of the LGU.",
+      "managementAction": "Management is in the process of reconciling the records. Title for the land on which the Municipal building is occupying is still on the process.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reconciliation of records is still ongoing; titles are still in process."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended and management agreed that the Local Chief Executive:\na) Direct the Inventory Committee, if any, to complete the conduct of\nphysical inventory of all properties of LGU;\nb) Direct the GSO to submit the complete Report of Physical Count of\nProperty, Plant and Equipment (RPCPPE) to the Audit Team; and\nc) Direct the Municipal Accountant & the GSO to maintain appropriate\nProperty, Plant and Equipment Ledger Cards and Property Cards\n(PPELC), respectively and conduct a periodic reconciliation of records in\naccordance with Section 114 and 124 of NGAS Manual for LGU, Vol. I",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We recommended and management agreed that the Local Chief Executive\ndirect the Municipal Accountant to provide depreciation on all Property,\nPlant and Equipment (PPE) accounts and ensure correct computation based\non the guidelines set in PPSAS 17. Then, prepare all the necessary journal\nentries to correct the account balances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended and management agreed that the Local Chief Executive\nrequire the concerned municipal officials to strictly follow the provision of\nCOA Circular No. 2015-008 on the proper accounting and reporting for\nlocal road and road network system to ensure that all roads are properly\nvalued and recorded, and to assure the fair presentation of the account\ninfrastructure assets in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended and management agreed that the Municipal Mayor\nrequire the City Accountant to reconcile her Loans Payable record with that of the\nlending institutions so as to present fairly the financial statements. Moreover,\nto disclose in the Notes to the Financial Statements the details of the Loans\nPayable pursuant to paragraph 127 of PPSAS No. 1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We recommended and management agreed that the Local Chief Executive\ndirect:\na) the OIC – Treasurer to be more diligent and consistent in his records to\ncomply with the high standards set about by Section 111(2) of PD 1445.\nb) the OIC - Municipal Treasurer to submit all pertaining receipts, deposit\nslips and reports; and assist the OIC - Accountant to determine the\ncause/s of discrepancies and adjust the books accordingly in order to\ncorrect the reported balance of the Cash, Local Treasury account for a\nfair presentation of the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommend that the Local Chief Executive direct the Municipal Accountant to prepare and submit the monthly bank reconciliation statements for all funds maintained for Cash in Bank in pursuance to Section 74 of PD 1445 and Sections 3.2 to 3.4 of COA Circular No. 96-011 in order to present a reliable and accurate balance of the account.",
+      "managementAction": "The LCE instructed the Municipal Accountant to prepare and submit the bank reconciliation statements.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Preparation of bank reconciliation statements should be made on a monthly basis to ease year-end report preparation."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommend that the Local Chief Executive: a) Direct the Inventory Committee, if any, to complete the conduct of physical inventory of all PPEs and unserviceable or lost items; b) Direct the GSO to submit the complete Report of Physical Count of Property, Plant and Equipment (RPCPPE) to the Audit Team; and c) Direct the Municipal Accountant & the GSO to maintain appropriate Property, Plant and Equipment Ledger Cards and Property Cards (PPELC), respectively and conduct a periodic reconciliation of records in accordance with Section 114 and 124 of NGAS Manual for LGU, Volume I.",
+      "managementAction": "The LCE instructed the RPCCPE and Municipal Administrator to help the Inventory GSO in the conduct. The RPCPPE and PPE ledger cards were also prepared.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There were still items which are not yet included in the inventory, especially those unserviceable or have it lost items."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to provide depreciation on all Property, Plant and Equipment (PPE) accounts and ensure correct computation based on the guidelines set in PPSAS 17. Then, prepare all the necessary journal entries to correct the account balances.",
+      "managementAction": "The accountant was able to apply depreciation for some PPEs for CY 2018. Records for other PPEs were not available to them.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Depreciation for some PPEs for CY 2018 was applied; records were not available for other PPEs."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-PY6",
+      "year": 2018,
+      "recommendation": "We recommend that the Local Executive form its Solid Waste Management Board and through it, comply strictly all the provisions of the Republic Act No. 9003 or otherwise known as the Solid Waste Management Act of 2000 in order to achieve the intended purpose of the law and to ensure protection of public health and environment. Moreover, prepare and submit Local Solid Waste Management Plans (10-year) to DENR-EMB for approval by the National Solid Waste Management Commission and make representation with the SB Council for the inclusion in the annual budget Solid Waste Management Programs, Projects and Activities for immediate and proper implementation.",
+      "managementAction": "Management still making its form its Solid Waste Management Board and through it, comply with the intended purpose of the law.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The LGU is in the process of procuring a lot to be used as a sanitary landfill."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommend that management constitute an Inventory Committee to conduct the physical inventory of properties; require the GSO to prepare the Report of Physical Count of Property, Plant and Equipment (RPCPPE) and submit to the audit team; and direct the Municipal Accountant & GSO to maintain proper PPELC and Property Cards and conduct periodic reconciliation of records in accordance with Section 114 and 124 of NGAS Manual for LGU, Volume I.",
+      "managementAction": "Constitute an inventory committee to conduct the physical inventory of all properties. Require the GSO to prepare the Report of Physical Count of Property, Plant and Equipment (RPCPPE) and submit to the audit team; and Direct the Municipal Accountant & the GSO to maintain appropriate Property, Plant and Equipment Ledger Card (PPELC), respectively and conduct a periodic reconciliation of records in accordance with Section 114 and 124 of NGAS Manual for LGU, Volume I.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Submitted RPCPPE and PPE ledger cards were also prepared. There were still items which are not yet included in the inventory."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommend that the Local Chief Executive direct the concerned officials to refrain from charging administrative and non-development related expenses against the 20% Development Fund.",
+      "managementAction": "Management maintained its contention that repairs and reduced rehabilitation not considered appropriate for DF. This was reiterated in 2018 AAR.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Management complied partially with the recommendation; some repairs and items charged were considered by management as allowable but audit team maintained otherwise."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-PY9",
+      "year": 2018,
+      "recommendation": "We recommend that the concerned local officials refrain charging transactions against the General Fund and immediately replenish the General Fund. The OIC-Municipal Accountant to make appropriate journal entries to correct the erroneous entry made.",
+      "managementAction": "The concerned local officials were instructed to refrain charging transactions against the General Fund and immediately replenish the General Fund. The OIC-Municipal Accountant to make appropriate journal entries to correct the erroneous entry made.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-PY10",
+      "year": 2018,
+      "recommendation": "We recommend the Local Chief Executive to direct the OIC Municipal Account to make appropriate adjusting journal entries to correct the erroneous entry made pursuant to Section 02, Annex B of COA Circular No. 2015-009.",
+      "managementAction": "Management committed to apply the recommendation and that adjustment entries were partially made. Reconciliation of records is still being done.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Adjusting journal entries were partially made; reconciliation of records is still being done."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-PY11",
+      "year": 2018,
+      "recommendation": "We recommend that the Local Chief Executive, in accordance with the provisions of COA Circular No. 2012-002, direct: 1. The Municipal Budget Officer to maintain Registries of Appropriations, Allotments and Obligations for each of the QRF, MOOE & CO. 2. The Municipal Disaster Risk Reduction and Management Officer (MDRRMO) to regularly prepare the monthly Report on Sources and Utilization of DRRM Fund and submit to the Audit Team; 3. Further, the Municipal Accountant should determine the unexpended balances for QRF & MOOE and transfer the same to a special trust fund to be used solely for the purpose of supporting disaster risk reduction and management activities of the Municipality within the next five years.",
+      "managementAction": "The Municipal Accountant and MDRRMO were instructed to prepare the required reports and maintain the registries. The Municipal Accountant has determined the exact unexpended amount of the 30% QRF funds for the last three years.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Coordination with the MDRRMO and the Municipal Accountant was not in place to facilitate timely submission of reports; submission of monthly reports was only for January to May 2018."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-PY12",
+      "year": 2018,
+      "recommendation": "We recommend that management should create an Inventory Committee to conduct the physical inventory of properties; require all heads of departments to prepare a list of all existing properties under their respective offices and submit the same to the Inventory Committee for validation and consolidation; require Municipal Accountant-designate to maintain PPELC and GSO-designate to maintain Property Cards; conduct periodic reconciliation; and ensure proof of ownership such as certificates of land title be registered in the name of the municipality.",
+      "managementAction": "Management constituted an Inventory Committee and required departments to prepare lists; Municipal Accountant-designate and GSO-designate assigned to maintain PPELC and Property Cards and to conduct reconciliation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some inventory and ledger cards were prepared; some properties still require supporting proof of ownership and registration."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-PY14",
+      "year": 2018,
+      "recommendation": "Require the Municipal Accountant and the Municipal Treasurer to submit all the financial reports and related documents to the Audit Team for audit in a timely manner. Ensure that all officials and employees of the municipality faithfully discharge their duties and functions as provided under existing laws.",
+      "managementAction": "The Municipal Treasurer and Municipal Accountant were advised to submit the subject DVs and supporting documents immediately to the Audit Team for verification/audit purposes.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There was improvement on submission timeliness but some disbursement vouchers remained unrecorded and delayed."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-PY15",
+      "year": 2018,
+      "recommendation": "We recommend the Local Chief Executive require the Municipal Accountant – Designate to send demand letters to the concerned officials and employees to immediately liquidate their outstanding cash advances in accordance with COA Circular No. 97-002 and Accounting Circular No. 2006-001. Enforce Section 5.9 of COA Circular No. 97-002 and Section 37 of PD 1445 in the event concerned personnel fail to submit liquidation reports without valid reason.",
+      "managementAction": "Demand Letters were given to the concerned officials and employees. Some personnel already settled their outstanding advances.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Although there was improvement on the liquidation of advances, delayed liquidation continues to persist for some personnel."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-PY16",
+      "year": 2018,
+      "recommendation": "We recommend that the Local Chief Executive require the concerned LGU Officials to submit necessary requirements relative to the Fund Transfers to Barangay and other NGA in compliance with Section 3.1.1 of COA Circular No. 2012-001 dated June 14, 2012. Further, require the Municipal Accountant to institute controls in processing of similar claims and refrain from granting additional Fund Transfers to Barangays with previously unliquidated Fund Transfers.",
+      "managementAction": "Local Officials were required to submit the necessary requirements relative to the Fund Transfers and Municipal Accountant to institute controls in processing of similar claims.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-PY18",
+      "year": 2018,
+      "recommendation": "We recommend that the Local Chief Executive shall establish a GAD Focal Point System in order to come up with a GAD Plan and Budget and to prepare GAD Accomplishment Report in accordance with the provisions in the cited Joint Circular.",
+      "managementAction": "The Local Chief Executive shall establish a GAD Focal Point System and the designated focal person to prepare GAD report on activities.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There is a designated focal person for GAD, however, accomplishment reports were not made because the designated personnel had additional workload."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-PY19",
+      "year": 2018,
+      "recommendation": "Require the Municipal Treasurer to immediately submit the subject DVs with a total amount of P714,234.11 to the Accountant for review and recording. Henceforth, the Local Chief Executive should require the Municipal Treasurer to prepare or update his daily RCI which covers all paid vouchers and ensure that all vouchers are supported with required documents and submitted timely to the Accountant.",
+      "managementAction": "The Local Chief Executive required the Municipal Treasurer to prepare/update daily RCI and submit supporting documents; some unrecorded disbursement vouchers were negotiated and later recorded.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some check disbursements were not recorded in the books but were later negotiated and recorded; reconciliation and recording continues."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2018-PY22",
+      "year": 2018,
+      "recommendation": "Instruct all accountable officers to immediately liquidate all cash advances and that current cash advances for travel should first be settled before new advances be allowed in compliance with the cited rules.",
+      "managementAction": "Management instructed accountable officers to settle advances; some already settled.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some cash advances were settled; outstanding advances remained but were reduced."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-PY4",
+      "year": 2017,
+      "recommendation": "We recommend that the Local Chief Executive direct the concerned local officials to refrain charging transactions against the General Fund and immediately replenish the General Fund. The OIC- Municipal Accountant to make appropriate journal entries to correct the erroneous entry made.",
+      "managementAction": "The concerned local officials were required to refrain charging transactions against the General Fund and immediately replenish the General Fund. The OIC- Municipal Accountant to make appropriate journal entries to correct the erroneous entry made.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-PY6",
+      "year": 2017,
+      "recommendation": "We recommend that the Local Chief Executive, in accordance with the provisions of COA Circular No. 2012-002, direct: The Municipal Budget Officer to maintain Registries of Appropriations, Allotments and Obligations for each of the QRF, MOOE & CO and The Municipal Accountant to regularly prepare the monthly Report on Sources and Utilization of DRRM Fund and submit to the Audit Team.",
+      "managementAction": "The Municipal Accountant was instructed to prepare Registries of Appropriations, Allotments and Obligations for each QRF, MOOE & CO and to regularly prepare the monthly Report on Sources and Utilization of DRRM Fund and submit to the Audit Team.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Coordination with the MDRRMO and the Municipal accountant was not in place to facilitate the time submission of the report to the audit team."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-PY10",
+      "year": 2017,
+      "recommendation": "We recommend the Local Chief Executive require immediately all the stated required documents for the granted cash advances for Confidential Fund to the COA Audit Team for verification. Likewise, the granted cash advances should be submitted to ICFAU-COA Central Office in a sealed envelope for auditing purposes, and furnish the Audit Team a copy of Transmittal Letter duly received by ICFAU. Henceforth, the Local Chief Executive and the Accountant should follow strictly the guidelines on the entitlement, release, use, reporting and audit of confidential and/or intelligence funds per COA, DBM, DILG, GCGOCCs & DND Joint Circular No. 2015-01 dated January 8, 2015, to avoid recurrence of this observation and to facilitate the immediate audit of the confidential funds for prompt communication of audit results.",
+      "managementAction": "Demand Letters were given to the concerned officials to submit their supporting documents for verification. Likewise the Municipal Accountant to submit required documents for the granted cash advances for Confidential Fund to the COA Audit Team.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-PY13",
+      "year": 2017,
+      "recommendation": "We recommend that the Local Chief Executive require the concerned LGU Officials to submit necessary requirements relative to the Fund Transfers to Barangay and other NGA in compliance with Section 3.1.1 of COA Circular No. 2012-001 dated June 14, 2012. Further, require the Municipal Accountant to institute controls in processing of similar claims. Henceforth, refrain from granting additional Fund Transfers to Barangays previously unliquidated.",
+      "managementAction": "The Team is not precluded from issuing Notice of Suspension/Disallowance in the event that flagrant violations of the law and the rules are observed from the transactions submitted.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-PY14",
+      "year": 2017,
+      "recommendation": "We recommend that the Municipal Accountant to regularly prepare the monthly Report on Sources and Utilization of DRRM Fund and submit to the Audit Team; and Municipal Budget Officer to maintain Registries of Appropriations, Allotments and Obligations for each of the QRF, MOOE & CO. Further, the Municipal Accountant should determine the unexpended balances for QRF & MOOE and transfer the same to a special trust fund to be used solely for the purpose of supporting disaster risk reduction and management activities of the Municipality within the next five years.",
+      "managementAction": "The Municipal Accountant to regularly prepare the monthly Report on Sources and Utilization of DRRM Fund and submit to the Audit Team; and the Municipal Budget Officer to maintain Registries of Appropriations, Allotments and Obligations for each of the QRF, MOOE & CO.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Coordination between the MDRRMO and the Municipal accountant was not in place to facilitate the timely submission of the report to the audit team."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-PY15",
+      "year": 2017,
+      "recommendation": "We recommend that the Local Chief Executive shall establish a GAD Focal Point System in order to efficiently come up with a GAD Plan and Budget and to report on GAD Accomplishment Report in accordance with the provisions in the afore-cited Joint Circular.",
+      "managementAction": "The Local Chief Executive shall establish a GAD Focal Point System and ensure compliance with the Joint Circular.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Though there is a designated focal person for GAD, accomplishment report on GAD activities were not made because the designated personnel seems to be unable to do additional work load."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-PY19",
+      "year": 2017,
+      "recommendation": "Require the Local Chief Executive to submit immediately all the stated required documents to the Chairman of the Commission on Audit in a sealed envelope for auditing purposes. Henceforth, management should comply strictly with the provisions of the COA Circular No. 2003-003 to avoid recurrence of this observation and to facilitate the immediate audit of the intelligence funds for prompt communication of audit results.",
+      "managementAction": "Management still continues the process of complying all the said necessary documents for the liquidation of the confidential fund.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management is still in the process of complying all the said necessary documents for the liquidation of the confidential fund."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-PY21",
+      "year": 2017,
+      "recommendation": "The Local Chief Executive should direct the concerned LGU officials to comply with Sections A.1 and B, Part V of COA Circular No. 2014-002 dated April 15, 2014, Sections 444 and 347 of RA 7160, Section 122 of PD 1445, COA Circular No. 95-006 dated May 18, 1995, and other pertinent sections of the NGAS Manual for LGUs and ensure submission of the required documents.",
+      "managementAction": "The Honorable Mayor should direct the concerned LGU officials and employees to comply and submit the above-listed reports with complete documentations to the COA Audit Team.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The designated personnel seems to be unable to do additional work load, hence reports were not made."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-PY24",
+      "year": 2017,
+      "recommendation": "The recorded valuation of the Land, Land Improvement & Buildings be traced to its historical cost & be reconciled with the real property records of the Municipal Assessor. The parcels of Land, together with the buildings or structures built on them, owned by the municipality should be supported either with an original or transfer certificate of title registered in the name of the LGU.",
+      "managementAction": "The Management is still in the process of reconciling the records. Title for the land which the Municipal building is occupying is still on the process.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Records reconciliation is still in process. Title for the land is still being traced."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommend that the Local Chief Executive direct the Municipal Accountant\nto prepare and submit monthly bank reconciliation statements for all funds\nmaintained for Cash in Bank in pursuance to Section 74 of PD 1445 and\nSections 3.2 to 3.4 of COA Circular No. 96-011 in order to present a reliable and\naccurate balance of the account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommend that the Local Chief Executive:\nd) Direct the Inventory Committee, if any to complete the conduct of physical\ninventory of all properties of LGU.\ne) Direct the GSO to submit the complete Report of Physical Count of\nProperty, Plant and Equipment (RPCPPE) to the Audit Team; and\nf)\nDirect the Municipal Accountant & the GSO to maintain appropriate\nProperty, Plant and Equipment Ledger Cards and Property Cards\n(PPELC), respectively and conduct a periodic reconciliation of records in\naccordance with Section 114 and 124 of NGAS Manual for LGU, Volume I",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recommend that the Municipal Mayor direct the Municipal Accountant to\nprovide depreciation on all Property, Plant and Equipment (PPE) accounts and\nensure correct computation based on the guidelines set in PPSAS 17. Then,\nprepare all the necessary journal entries to correct the account balances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We recommend that the Local Chief Executive direct the Accountant to submit\nthe accounts, financial statements and reports and accompanying schedules\nwithin the period prescribed by existing rules and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommend that the Local Chief Executive designate permanent employees\nto act as collecting officers and require their immediate application for bond so\nas not to expose government funds to the risk of loss or misuse.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-PY1",
+      "year": 2017,
+      "recommendation": "We recommend that the Local Chief Executive to: Constitute an inventory committee to conduct a physical inventory of properties of LGU. Require the GSO to prepare the Report of Physical Count of Property, Plant and Equipment (RPCPPE) and submit to the audit team; and Direct the Municipal Accountant & the GSO to maintain appropriate Property, Plant and Equipment Ledger Cards (PPELC), respectively and conduct a periodic reconciliation of records in accordance with Section 114 and 124 of NGAS Manual for LGU, Volume I",
+      "managementAction": "The LCE instructed the Municipal Administrator to help the GSO in conducting the physical inventory.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Submitted RPCCPE and Municipal ledger cards were incomplete. There were still items which are not yet included in the inventory, especially those unserviceable or lost items."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-PY2",
+      "year": 2017,
+      "recommendation": "We recommend that the Local Chief Executive to require the Bids and Awards Committee (BAC) to submit copies of the approved contracts together with their supporting documents to the Commission on Audit. Henceforth, comply the submission of contracts and contract documents within the reglementary period prescribed under COA Circular No. 2009-001 dated February 12, 2009.",
+      "managementAction": "The Local Chief Executive to require the Bids and Awards Committee (BAC) to submit copies of the approved contracts together with their supporting documents to the Commission on Audit.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-PY3",
+      "year": 2017,
+      "recommendation": "We recommend that the Local Executive to direct the concerned officials to refrain from charging administrative and non-development related expenses against the 20% Development Fund.",
+      "managementAction": "Management maintained its contention that repairs and administrative related expenses can be charged to Development Fund. The OIC- Municipal Accountant to make appropriate journal entries to correct the erroneous entry made.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There were still charging of items not considered appropriate for DF."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-PY5",
+      "year": 2017,
+      "recommendation": "We recommend the Local Chief Executive to direct the OIC Municipal Account to make appropriate adjusting journal entries to correct the erroneous entry made pursuant to Section 02, Annex B of COA Circular No. 2015-009.",
+      "managementAction": "Management to apply the recommendation and that this will be reflected on the quarterly FS for CY 2018.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Adjusting journal entries were partially made. Reconciliation of records is still being done."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-PY7",
+      "year": 2017,
+      "recommendation": "We recommend that management should create an Inventory Committee to conduct the physical inventory of properties. Require all heads of departments to prepare a list of all existing properties under their respective offices and submit the same to the Inventory Committee for validation and consolidation. Further, require the Municipal Accountant - Designate to maintain Property, Plant and Equipment Ledger Card for each category of property. On the other hand require the Municipal General Service Officer – designate to maintain Property Cards. The Municipal Accountant – designate and the Municipal General Service Officer – designate shall conduct a periodic reconciliation of its records. Likewise, these real properties should be supported with proof of ownership such as certificates of land title and/or declaration of real properties and registered with the Register of Deeds in the name of the municipality.",
+      "managementAction": "management should create an Inventory Committee to conduct the physical inventory of properties and require departmental heads to prepare lists and the Municipal Accountant and GSO designate to maintain records and conduct reconciliation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The LCE instructed the Municipal Administrator to help the GSO in conducting the physical inventory. The Municipal ledgers were consolidated but incomplete."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-PY8",
+      "year": 2017,
+      "recommendation": "We recommend that officers and employees who were allowed to get a globe mobile plan should stick their communication consumption with the allowed credit limit and to refund the excess as shown in the attached schedule.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-PY9",
+      "year": 2017,
+      "recommendation": "Direct the Accountant to record purchases of office and other supplies following the Perpetual Inventory Method pursuant to Section 51 and 114 of the NGAS Manual for LGUs, Volume I and; And instruct the Property Officer to prepare and consolidate the RIS which the supplies and materials were issued using the SSMI and submit the same to the Municipal Accountant who shall compute the cost of supplies issued and the ending inventory, pursuant to Section 121 of the NGAS Manual for LGUs, Volume I.",
+      "managementAction": "The Municipal Accountant to record purchases of office and other supplies following the Perpetual Inventory Method and the Property Officer to prepare and consolidate the RIS.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-PY11",
+      "year": 2017,
+      "recommendation": "Require the Municipal Accountant and the Municipal Treasurer to submit all the financial reports and related documents to the Audit Team for audit. Henceforth, the Municipal Mayor should ensure that all officials and employees of the municipality faithfully discharge their duties and functions as provided under Section 444.b.1.x of RA 7160, and should see to it that laws, rules and regulations shall be strictly complied/followed.",
+      "managementAction": "The Local Chief Executive should ensure that all officials and employees of the municipality faithfully discharge their duties and submit the required documents.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Coordination between the Municipal Accountant and the Municipal Treasurer on submission of DVs was not properly in place to facilitate the submission to the Audit Team."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-PY12",
+      "year": 2017,
+      "recommendation": "Recommend the Local Chief Executive require the Municipal Accountant – Designate to send demand letters to these concerned officials and employees to immediately liquidate their outstanding cash advances. Further, recommend enforcement of Section 5.9 of COA Circular No. 97-002 and Section 37 of PD 1445 in case of failure to liquidate.",
+      "managementAction": "Demand Letters were given to the concerned officials and employees to settle their outstanding cash advances. Some LGU personnel already settled their unliquidated advances.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Although there was an improvement on the liquidation of LGU personnel and some already settled their advances. Delayed liquidation still persist."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-PY16",
+      "year": 2017,
+      "recommendation": "Require the Municipal Treasurer to immediately submit required DVs with a total amount of P714,234.11 to the Accountant for review and recording. Then the Accountant should submit immediately the subject DVs to the Audit Team for verification/audit. Henceforth, the Local Chief Executive should require the Municipal Treasurer to prepare or update his daily RCI which cover all paid vouchers during the day and should ensure that all vouchers are supported with required documents and intact. These should be submitted intact and within the prescribed period to the accountant. Moreover, the Accountant should institute internal controls in the processing of transactions to ensure that all DVs are intact and completely recorded in the books and submit the same to the Audit Team within the reglementary period. The LCE should ensure that all officials and employees of the municipality faithfully discharge their duties and functions as provided under Section 444.b.1.x of RA 7160, and Section 111 of PD 1445.",
+      "managementAction": "The Local Chief Executive should require the Municipal Treasurer to prepare or update his daily RCI, ensure all vouchers are supported and submit documents timely. The Accountant should institute internal controls. These actions were taken to some extent.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some check disbursements that were not recorded in the book but were negotiated on the depository bank were already taken up and recorded in the book. The unrecorded disbursement consisted of five negotiated checks with total of P308,310.11. The Management still continues to look on these unrecorded Disbursement Vouchers."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-PY17",
+      "year": 2017,
+      "recommendation": "Direct the Accountant to record purchases of medicines, dental and laboratory items following the Perpetual Inventory Method pursuant to Section 51 and 114 of the NGAS Manual for LGUs, Volume I and; Direct the Municipal Health Officer who has custody of the medicines, dental and laboratory supplies purchased to regularly prepare the consolidated monthly summary of medicines, dental and laboratory issued and submit to the Accountant pursuant to Section 121 of the NGAS Manual for LGUs, Volume I.",
+      "managementAction": "The Municipal Health Officer to regularly prepare the consolidated monthly summary of medicines, dental and laboratory issued and submit to the Accountant. The Accountant to record purchases following perpetual inventory method.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-PY18",
+      "year": 2017,
+      "recommendation": "Require the municipal accountant and other concerned officials to immediately submit all necessary supporting documents to the Audit Team for further verification. Henceforth, the provisions of Section 4(6) of PD 1445 and COA Circular No.2012-001 dated June 14, 2012 should be strictly followed to ensure the validity and propriety of the disbursements.",
+      "managementAction": "The municipal accountant and concerned officials were required to submit immediately all stated documents to the Audit Team for verification.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-PY20",
+      "year": 2017,
+      "recommendation": "The Local Chief Executive should cease from allowing or approving Job Order personnel from attending seminars and trainings/workshops, instead, delegate them to regular or permanent employees.",
+      "managementAction": "The Local Chief Executive should cease from allowing or approving Job Order personnel from attending seminars and trainings/workshops; instead, delegate them to regular or permanent employees.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-PY22",
+      "year": 2017,
+      "recommendation": "Adopt stricter measures over the travel expenditure of employees and officials at the same time strictly observe the pertinent provisions of Section 4.4 of EO No. 298.",
+      "managementAction": "Officers and employees should observe the provisions of EO 298.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2017-PY23",
+      "year": 2017,
+      "recommendation": "Instruct all accountable officers to immediately liquidate all cash advances and that current cash advances for travel should first be settled before new advances are allowed. Part of unliquidated advances should be enforced under Section 5.9 of COA Circular No. 97-002 and Section 37 of PD 1445.",
+      "managementAction": "Some accountable officers liquidated their advances. Management continues to implement the recommendations.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Parts of unliquidated advances were settled during CY 2013 and accountable officers were instructed to comply."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-PY1",
+      "year": 2016,
+      "recommendation": "We recommend that management should create an Inventory Committee to conduct the physical inventory of properties. Require all heads of departments to prepare a list of all existing properties under their respective offices and submit the same to the Inventory Committee for validation and consolidation.\n          Further, require the Municipal Accountant - Designate to maintain Property, Plant and Equipment Ledger Card for each category of property.  On the other hand require the Municipal General Service Officer – designate to maintain Property Cards. The Municipal Accountant – designate and the Municipal General Service Officer – designate shall conduct a periodic reconciliation of its records.  Likewise, these real properties should be supported with proof of ownership such as certificates of land title and/or declaration of real properties and registered with the Register of Deeds in the name of the municipality.",
+      "managementAction": "Management still continues to implement the said recommendations",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management still continues to implement the said recommendations"
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-PY5",
+      "year": 2016,
+      "recommendation": "We recommend that the Local Chief Executive submit immediately all the stated required documents for the granted cash advances for Confidential Fund to the COA Audit Team for verification.  Likewise, the Liquidation Reports with complete supporting documents should be submitted to ICFAU-COA Central Office in a sealed envelope for auditing purposes, and furnish the Audit Team a copy of Transmittal Letter duly received by ICFAU.  Henceforth, the Local Chief Executive and the Accountant should follow strictly the guidelines on the entitlement, release, use, reporting and audit of confidential and/or intelligence funds per COA,DBM,DILG,GCGOCCs & DND Joint Circular No. 2015-01 dated  January 8, 2015, to avoid recurrence of this observation and to facilitate the immediate audit of the confidential  funds for prompt communication of audit results.",
+      "managementAction": "Management still continues to implement the said recommendations",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management still continues to implement the said recommendations"
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-PY7",
+      "year": 2016,
+      "recommendation": "We recommend the Local Chief Executive require the Municipal Accountant – Designate to send demand letters to these concerned officials and employees to liquidate immediately their outstanding cash advances in accordance with COA Circular No. 97-002 and   Accounting Circular No. 2006-001.                                                  \nFurther, we recommend that Section 5.9 of COA Circular No. 97-002 and Section 37 of PD 1445 shall be enforced in the event that the concerned personnel fail to submit their liquidation reports without any valid reason.",
+      "managementAction": "Management still continues to implement the said recommendations",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management still continues to implement the said recommendations"
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-PY8",
+      "year": 2016,
+      "recommendation": "We recommend that the Local Chief Executive require the concerned LGU Officials to submit the necessary documentary requirements relative to the Fund Transfers to Barangay and other NGA in compliance with Section 3.1.1 of COA Circular No. 2012-001 dated June 14, 2012.  Further, require the Municipal Accountant to institute controls in processing of similar claims. Henceforth, refrain from granting additional Fund Transfers to Barangays with previously unliquidated Fund Transfers. \nThe Team is not precluded from issuing Notice of Suspension/Disallowance in the event that flagrant violations of the law and the rules are observed from the transactions submitted.",
+      "managementAction": "Management still continues to implement the said recommendations",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management still continues to implement the said recommendations"
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-PY10",
+      "year": 2016,
+      "recommendation": "We recommend that the Local Chief Executive, in accordance with the provisions of COA Circular No. 2012-002, direct:\n1. The Municipal Accountant to regularly prepare the monthly Report on Sources and Utilization of DRRM Fund and submit to the Audit Team;and\n2. Municipal Budget Officer to maintain Registries of Appropriations, Allotments and Obligations for each of the QRF, MOOE & CO.\nFurther, the Municipal Accountant should determine the unexpended balances for QRF & MOOE and transfer the same to a special trust fund to be used solely for the purpose of supporting disaster risk reduction and management activities of the Municipality within the next five years.",
+      "managementAction": "Management still continues to implement the said recommendations",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management still continues to implement the said recommendations"
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-PY11",
+      "year": 2016,
+      "recommendation": "We recommend that the Local Chief Executive shall establish a GAD Focal Point System in order to efficiently come up with a GAD Plan and Budget and GAD Accomplishment Report in accordance with the provisions in the afore-cited Joint Circular.",
+      "managementAction": "Management still continues to implement the said recommendations",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management still continues to implement the said recommendations"
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-PY14",
+      "year": 2016,
+      "recommendation": "Require the municipal accountant and other concerned officials to submit immediately all stated documents to the Audit Team for further verification.  Henceforth, the provisions of Section 4(6) of PD 1445 and COA Circular No.2012-001 dated June 14, 2012 should be strictly followed to ensure the validity and propriety of the disbursements.",
+      "managementAction": "Management did not yet submit the required documents to Audit Team. As such the Local Chief Executive directed the Municipal Accountant to comply the said recommendation and submit them to the Audit Team for their verification",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management did not gave emphasis on the importance of complying and submitting the required lacking documents to the audit team"
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-PY16",
+      "year": 2016,
+      "recommendation": "Require the Local Chief Executive to submit immediately all the stated required documents to the Chairman of the Commission on Audit in a sealed envelope for auditing purposes.  Henceforth, management should comply strictly with the provisions of COA Circular No. 2003-003 to avoid recurrence of this observation and to facilitate the immediate audit of the intelligence funds for prompt communication of audit results.",
+      "managementAction": "Management still continues to implement the said recommendations, meanwhile the Local Chief Executive committed to strictly follow the guidelines of the liquidation process",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management is on the process of complying all the necessary documents for the liquidation of confidential intelligence fund"
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-PY21",
+      "year": 2016,
+      "recommendation": "The recorded valuation of the Land, Land Improvement & Buildings be traced to its historical cost & be reconciled with the real property records of the Municipal Assessor.  Likewise, the parcels of Land, together with the buildings or structures built on them, owned by the municipality should be supported either with an original or transfer certificate of title registered in the name of the LGU.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management still in the process of reconciling the records"
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We recommend that the Local Chief Executive:\nConstitute an inventory committee to conduct a physical inventory of all properties of LGU. Require all department heads to prepare a list of all existing properties under their respective offices and submit the same to the inventory committee for validation and consolidation.\nRequire the GSO to prepare the Report of Physical Count of Property, Plant and Equipment (RPCPPE) and submit to the Audit Team; and\nDirect the Municipal Accountant & the GSO to maintain appropriate Property, Plant and Equipment Ledger Cards (PPELC) and Property Cards, respectively and conduct a periodic reconciliation of records.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We recommend that the Local Chief Executive require the Bids and Awards Committee (BAC) to submit copies of the approved contracts together with their supporting documents to the Commission on Audit. Henceforth, comply the submission of contracts and contract documents within the reglementary period prescribed under COA Circular No. 2009-001 dated February 12, 2009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommend that the Local Executive Chief direct the concerned officials to refrain from charging administrative and non-development related expenses against the 20% Development Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We recommend that the Local Chief Executive direct the\nThe concerned local officials to refrain charging Trust Fund transactions against the General Fund and immediately replenish the General Fund.\nThe OIC-Municipal Accountant to make appropriate journal entries to correct the erroneous entry made.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommend the Local Chief Executive to direct the OIC Municipal Account to make appropriate adjusting journal entries to correct the erroneous entry made pursuant to Section 02, Annex B of COA Circular No. 2015-009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommend that the Local Chief Executive, in accordance with the provisions of COA Circular No. 2012-002, direct:\nThe Municipal Budget Officer to maintain Registries of Appropriations, Allotments and Obligations for each of the QRF, MOOE & CO.\nThe Municipal Accountant to regularly prepare the monthly Report on Sources and Utilization of DRRM Fund and submit to the Audit Team.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-OBS7",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-OBS8",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-PY2",
+      "year": 2016,
+      "recommendation": "We recommend that officers and employees who were allowed to get a globe mobile plan should stick their communication consumption with the allowed credit limit and to refund the excess as shown in the attached schedule.",
+      "managementAction": "Management still continues to implement the said recommendations",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Management still continues to implement the said recommendations"
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-PY3",
+      "year": 2016,
+      "recommendation": "Instruct the Municipal Budget Officer to obligate only those valid transactions that were incurred during the current year, and the Municipal Accountant  to take – up accounts payable on transactions obligated but not paid during the current year.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-PY4",
+      "year": 2016,
+      "recommendation": "Direct the Accountant to record purchases of office and other supplies following the Perpetual Inventory Method pursuant to Section 51 and 114 of the NGAS Manual for LGUs, Volume I and; And instruct  the Property Officer to prepare and consolidate the RIS which the supplies and materials were issued using the SSMI and submit the same to the Municipal Accountant who shall compute the cost of supplies issued and the ending inventory,  pursuant to Section 121 of the NGAS Manual for LGUs, Volume I.",
+      "managementAction": "Management still continues to implement the said recommendations",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Management still continues to implement the said recommendations"
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-PY6",
+      "year": 2016,
+      "recommendation": "Require the Municipal Accountant and the Municipal Treasurer to submit all the financial reports and related documents to the Audit Team for audit.  Henceforth, the Municipal Mayor should ensure that all officials and employees of the municipality faithfully discharge their duties and functions as provided under Section 444.b.1.x  of RA 7160, and  should see to it that laws, rules and regulations shall be strictly complied/followed.",
+      "managementAction": "Management still continues to implement the said recommendations",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Management still continues to implement the said recommendations"
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-PY9",
+      "year": 2016,
+      "recommendation": "We recommend that the Municipal Budget Officer should properly and completely accomplished the Obligation Request in accordance with 2.0 of COA Circular No. 2006-002 dated January 31, 2006 and should maintain the prescribed Registries for PS, MOOE and CO.\n And the Municipal Accountant to look into the Obligation Request if it is properly and completely accomplished before a particular transaction is processed further.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-PY12",
+      "year": 2016,
+      "recommendation": "Require the Municipal Treasurer to submit immediately the eight (8) DVs with a total amount of P714,234.11 to the Accountant for review and recording.  Then the Accountant should submit immediately the subject DVs to the Audit Team for verification/auditpurposes.                                        ***Henceforth, the Local Chief Executive (LCE) should require the Municipal Treasurer to prepare or update his daily RCI which cover all paid vouchers during the day and should ensure that all vouchers are supported with required documents and intact. These should be submitted intact and within the prescribed period to the accountant. Likewise, the Accountant should institute internal controls in the processing of transactions to ensure that all DVs are intact and completely recorded in the books and submit the same to the Audit Team within the reglementary period.                                            ***Moreover, the LCE should ensure that all officials and employees of the municipality faithfully discharge their duties and functions as provided under Section 444.b.1.x of RA 7160, and Section 111 of PD 1445.",
+      "managementAction": "The Local Executive required the Municipal Treasurer and its concerned staff to submit their collections, deposits and paid vouchers and payrolls every week",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some check disbursement that were not recorded in the book but were negotiated on the depository bank were already taken up and recorded in the book. The unrecorded disbursement consist of five negotiated checks with total of P308310.11. Management sticll continues to look on these unrecorded Disbursement Vouchers."
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-PY13",
+      "year": 2016,
+      "recommendation": "Direct the Accountant to record purchases of supplies and materials and other items following the Perpetual Inventory Method pursuant to Section 51 and 114 of the NGAS Manual for LGUs, Volume I and;                                                                                                                                    \nDirect the Municipal Health Officer who has custody of the medicines, dental and laboratory supplies purchased to regularly prepare the consolidated monthly  summary of medicines, dental and laboratory issued and submit to the Accountant pursuant to Section 121 of the NGAS Manual for LGUs, Volume I.",
+      "managementAction": "Management still continues to implement the said recommendations",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipal Accountant – Designate is not so aware of the provisions stated in Sec. of NGAS Manual for LGUs, under Volume 1"
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-PY15",
+      "year": 2016,
+      "recommendation": "Require the Municipal Accountant and the Municipal Treasurer to submit all the financial reports and related documents to the Audit Team for audit.  Henceforth, the Municipal Mayor should ensure that all officials and employees of the municipality faithfully discharge their duties and functions as provided under Section 444.b.1.x  of RA 7160, and  should see to it that laws, rules and regulations shall be strictly complied/followed.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-PY17",
+      "year": 2016,
+      "recommendation": "The Local Chief Executive should cease from allowing or approving Job Order personnel from attending seminars and trainings/workshops, instead,   delegate them to regular or permanent employees.",
+      "managementAction": "Management still continues to implement the said recommendations",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Management still continues to implement the said recommendations"
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-PY18",
+      "year": 2016,
+      "recommendation": "Management should strictly adhere with the afore-cited laws and regulations.  In addition, the Honorable Mayor should direct the concerned LGU officials and employees to comply and submit the above-listed reports with complete documentations to the COA Audit Team to enable them to come up with audit results which may support significant management decisions.",
+      "managementAction": "Management still continues to implement the said recommendations",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Management still continues to implement the said recommendations"
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-PY19",
+      "year": 2016,
+      "recommendation": "Adopt stricter measures over the travel expenditure of employees and officials at the same time strictly observe the pertinent provisions of Sections 4.4 of EO No. 298.",
+      "managementAction": "Management still continues to implement the said recommendations",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Management still continues to implement the said recommendations"
+    },
+    {
+      "id": "Balangkayan_EaSamar-2016-PY20",
+      "year": 2016,
+      "recommendation": "Instruct all accountable officers concerned to immediately liquidate all cash advances and that current cash advances for travel should first be settled before new ones be allowed to the same accountable officers in compliance with the provisions of the cited rules in the granting, utilization and liquidation of cash advances.",
+      "managementAction": "Management still continues to implement the said recommendations, and parts of unliquidated cash advances have been settled during CY 2013",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Management still continues to implement the said recommendations"
+    }
+  ]
+}

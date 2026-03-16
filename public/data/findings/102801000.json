@@ -1,0 +1,1990 @@
+{
+  "lguCode": "102801000",
+  "lguName": "Adams",
+  "province": "Ilocos Norte",
+  "region": "Region I (Ilocos Region)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2024-PY3",
+      "year": 2024,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to immediately transfer the unexpended balance of the QRF and LDRRMF-MOOE/MF-MOOE for CY 2023 to the Trust Liability-DRRMF account under the TF books.",
+      "managementAction": "The Municipal Accountant transferred the unexpended LDRRMF, including unspent CO, to the STF at year-end.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Although the unspent QRF and LDRRMF-MOOE for CY 2023 was transferred on January 2024, an audit observation is included in Part II of this report for the overstatement of the Trust Liability-LDRRMF account due to errors in accounting for the unspent LDRRMF."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2024-PY5",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive create an Inventory Committee for the sole purpose of conducting the one-time cleansing of the Municipality's PPE and direct the said committee to immediately cause the eventual reconciliation of the PPE balances in accordance with COA Circular No. 2020-006.",
+      "managementAction": "No action taken.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Verification and inquiry revealed that the one-time cleansing of PPE was not yet implemented and no inventory committee was created yet for that purpose."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2024-PY6",
+      "year": 2024,
+      "recommendation": "We recommended that Management:\n\na. ensure the optimal utilization of the 20% DF by implementing the PPAs to help achieve the desirable socio-economic targets and developmental outcomes of the Municipality for the benefit of its constituents; and\n\n\n\n\nb. identify those fully completed PPAs with unutilized balances and PPAs that could not be implemented, and reprogram the same to other social, economic, developmental or environmental PPAs.",
+      "managementAction": "Management implemented some PPAs under the 20% DF. \n\n\n\n\nNo action taken.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2024-PY8",
+      "year": 2024,
+      "recommendation": "We recommended that Management instruct the GSO to dispose/condemn properties immediately the unserviceable and the corresponding cost or value be dropped from the books of accounts by the Municipal Accountant in order to reflect the correct value of PPE accounts in the financial statements.",
+      "managementAction": "No action taken.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Inquiry disclosed that disposal of unserviceable properties will be done in the implementation of the Municipality of one-time cleansing of its PPEs."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2024-PY9",
+      "year": 2024,
+      "recommendation": "We recommended that Management instruct the concerned head of offices to strictly observe the completeness of the documents of a certain transaction before payment to establish the completeness and validity of expenditures and to avoid suspensions in audit.",
+      "managementAction": "No action taken.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Post-audit disclosed that some disbursements were still not supported with complete and appropriate documentations."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2024-PY10",
+      "year": 2024,
+      "recommendation": "We recommended that Management instruct the GAD Focal Person to continuously coordinate with all department heads responsible for the implementation of GAD PPAs to come up with strategic plans for the timely, efficient and effective implementation of these GAD PPAs in order to attain and deliver desirable benefits and outcomes to the beneficiaries.",
+      "managementAction": "Management implemented some PPAs under the approved GAD Plan and Budget for CY 2024.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Review of the utilization of GAD Fund disclosed that the fund was, to some extent, not efficiently and effectively utilized. Only ₱2,321,293.65 or 51.60% was utilized for CY 2024."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2024-PY11",
+      "year": 2024,
+      "recommendation": "We recommended that Management instruct the accounting unit and treasury unit to process and pay only transactions with complete supporting documents in accordance with Section 4 (6) of PD No. 1445 to prevent the transactions to be suspended in audit.   Further, we recommended that Management instruct the municipal accountant in monitoring the settlement of the suspensions and disallowances in pursuance of Section 7.1.1. of COA Circular No. 2009-006.",
+      "managementAction": "The Municipal Accountant submitted lists of payments of disallowances to the Audit Team.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The lists submitted show partial settlement only and are still subject for review and verification by the Audit Team."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2024-OBS1",
+      "year": 2024,
+      "recommendation": "We recommended that the Management instruct the Municipal Accountant to restore the cash equivalent of all unreleased checks by preparing a JEV at the end of the year based on the submitted schedule from the Municipal Treasurer and thereafter, in the ensuing year, another JEV shall be made to reverse the previous entries made and recognize the availability of the checks for release. This is to ensure the fair presentation of the account balances in the FS.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2024-OBS2",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Accountant to draw the following adjusting journal entries pursuant to COA Circular No. 2012-002 dated September 12, 2012 for fair and accurate presentation of the FS:\nTo revert the erroneous recording of unspent balance of LDRRMF-CO:\nTrust Fund\nDr. Trust Liabilities-DRRMF\t\t₱\t334,036.13\nCr. Due from Other Funds\t\t\t₱\t334,036.13\nGeneral Fund\nDr. Due to Other Funds\t\t\t₱\t334,036.13\nCr. Government Equity\t\t\t₱\t334,036.13\nTo restate the transfer of unspent QRF and LDRRMF-MOOE in CY 2023 amounting to ₱805,328.62 recognized as current year expense:\nGeneral Fund\nDr. Prior Period Adjustment\t\t₱\t805,328.62\nCr. Government Equity\t\t\t₱\t805,328.62",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2024-OBS3",
+      "year": 2024,
+      "recommendation": "We recommended that the Management instruct the Municipal Accountant to draw the necessary adjusting journal entries to correct the balances of Depreciation Expense and the PPE accounts. Further, the Municipal Accountant should be meticulous in making and keeping the financial records of the Municipality to avoid inaccurate and/or misleading information.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2024-OBS4",
+      "year": 2024,
+      "recommendation": "We recommended that the Management instruct the:\nMunicipal Treasurer to furnish the Municipal Accountant a certified list of taxpayers and the amount due and collectible at the beginning of the year as basis of the latter to set up RPT/SET Receivables;\nMunicipal Treasurer and Municipal Accountant to undertake reconciliation of the balances per list of RPT delinquencies with that of the RPT/SET Receivable account balances per books of accounts to come up with more accurate and proper balances; and\nMunicipal Accountant to prepare the necessary adjustments for the errors committed in the recording of the advance collection of RPTs and collection of delinquencies.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2024-OBS5",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Engineer and BAC to:\nimprove project planning, implementation, and monitoring by ensuring strict adherence to contractual obligations and to the provisions of the Revised IRR of RA No. 9184 and by addressing the possible risks such as the seasonal and environmental conditions of the Municipality to avoid delays;\nensure that Suspension Orders are duly approved, with weather records certified by Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA) and photos of the worksite evidencing the unworkable condition. Also, monitor the prompt resumption of work once the reason/s for suspension is/are resolved; and\nimpose the withholding of liquidated damages and the forfeiting of performance security in the final billing of the contractor should they incur unreasonable delays from the contracted working days.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2024-OBS6",
+      "year": 2024,
+      "recommendation": "We recommended that the Management direct the BAC to strictly adhere with Section 54.3 of the Revised IRR of RA No. 9184 on the posting of Notice of Award, Contract or Purchase Order, including Notice to Proceed if necessary for alternative methods of procurement with ABC above ₱50,000.00. This is to promote transparency and ensure accountability in the procurement process.\n\nFurther, Management should be guided of the New Government Procurement Act prescribed by RA No. 12009 and its IRR. The Government Procurement Policy Board (GPPB) and all heads of procuring entities (HOPE), procuring entities and the BACs shall be given a three-year transitory period from the approval of the standard forms for procurement to fully comply with the requirements of the New Government Procurement Act.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2024-OBS7",
+      "year": 2024,
+      "recommendation": "We recommended that the Management instruct the head of the Municipal Planning and Development Council to closely coordinate with its members to:\nconduct regular monitoring in the implementation of PPAs to ensure the optimal utilization of the 20% DF according to its intended purpose; and\nundergo re-evaluation of programs and projects to determine PPAs that could not be implemented, and reprogram the same to other social, economic, developmental or environmental PPAs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2024-OBS8",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2024-OBS9",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2024-OBS10",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2024-PY1",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Accountant to draw the adjusting journal entries for accurate and fair presentation of the FS.",
+      "managementAction": "The Municipal Accountant effected the required adjusting journal entries.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2024-PY2",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to:\n\na. instruct the Municipal Accountant to prepare JEV to correctly record in the Trust Liabilities-DRRMF account under the TF the funds received from the OP. Henceforth, funds received for disaster risk   reduction and management be recorded as Trust Liabilities-DRRMF account under the TF unless stated otherwise in the MOA or specific rules and regulations.\n\nb. coordinate with the OP for the possibility on the extension on the period for the utilization of the ₱10,000,000.00 fund, otherwise the same should be returned in compliance with the MOA and of the letter dated October 3, 2023.",
+      "managementAction": "The Municipal Accountant effected the required adjusting journal entries.\n\n\n\n\nManagement refunded the unutilized balance as per advice of the Office of the President – Finance Department.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2024-PY4",
+      "year": 2024,
+      "recommendation": "We recommended that Management direct the Municipal Accountant, in coordination with the Municipal Budget Officer, to prepare the NFS in accordance with the pertinent provisions of IPSAS 1 and COA Circular No. 2016-004 dated September 30, 2016 and make certain the propriety and completeness of required disclosures for fair and accurate presentation of the financial statements.",
+      "managementAction": "The Municipal Accountant prepared the Reconciliation between actual amounts as presented in SCBAA and in the Statement of Financial Performance for the year ended December 31, 2024.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2024-PY7",
+      "year": 2024,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to take up the correcting/adjusting entries presented in the foregoing discussions and to ensure that reciprocal accounts reflect the same balances in the financial statements.",
+      "managementAction": "The Municipal Accountant adjusted and reconciled the accounts.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2023-PY2",
+      "year": 2023,
+      "recommendation": "We recommended that the Local Chief Executive direct the:\n\na) Municipal Accountant to: (1) prepare and maintain the ledgers and subsidiary ledgers supplied with complete data as prescribed by pertinent provisions of MNGAS so that relevant information may be provided to internal and external users; (2) examine or investigate the unreconciled balances and make necessary actions in compliance with regulations, in order to reconcile the items and present fairly the financial statements; (3) take a lead in the compliance of the one time cleansing of the PPE in compliance with COA Circular No. 2020-006 dated January 31, 2020.\n\nb)\tGeneral Services Officer (GSO), to: (1) conduct physical inventory taking annually to establish valid existence of each item of property recorded in the RPCPPE; (2) maintain a Property Card for each item of property; and (2) make reconciliation with the accounting records of the unreconciled balances. \n\nc)\tMunicipal Accountant and GSO to immediately reconcile balances of PPE between the Accounting and Property Units and make the necessary adjustments.",
+      "managementAction": "The Municipal maintains ledgers but noy yet reconciled with the GSO records.\n\n\n\n\n\nThe GSO prepared RPCPPE but not yet reconciled with the accounting records.\n\n\n\n\n\nThe GSO and the Municipal Accountant will try to reconcile the balances after the conduct of one-time cleansing.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management will try to conduct one-time cleansing this CY 2024.\n\nReiterated in Part II of this report."
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2023-PY3",
+      "year": 2023,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to take up the correcting/adjusting entries presented in the foregoing discussions and to ensure that reciprocal accounts reflect the same balances in the financial statements.",
+      "managementAction": "The Municipal Accountant tried to reconcile the discrepancies but there is still a minimal discrepancy of P50,814.55 as of year -end.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2023-PY4",
+      "year": 2023,
+      "recommendation": "We recommended that Management instruct the GSO to dispose/condemn properties immediately the unserviceable and the corresponding cost or value be dropped from the books of accounts by the Municipal Accountant in order to reflect the correct value of PPE accounts in the financial statements.",
+      "managementAction": "No action has been taken yet by management",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management committed to create an inventory committee that will conduct one-time cleansing of PPE."
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2023-PY8",
+      "year": 2023,
+      "recommendation": "We recommended that Management instruct the concerned head of offices to strictly observe the completeness of the documents of a certain transaction before payment to establish \nthe completeness and validity of expenditures and to avoid suspensions in audit.",
+      "managementAction": "No compliance from the Management yet.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Some disbursements were still not supported with complete and appropriate documentations."
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2023-PY10",
+      "year": 2023,
+      "recommendation": "We recommended that Management instruct the GAD Focal Person to continuously coordinate with all department heads responsible for the implementation of GAD PPAs to come up with strategic plans for the timely, efficient and effective implementation of these GAD PPAs in order to attain and deliver desirable benefits and outcomes to the beneficiaries.",
+      "managementAction": "Management implemented the approved GAD Plan and Budget for CY 2023.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "GAD Funds were not optimally utilized for the implementation of GAD PPAs. Only 4,635,633.62\tor 56.53% were utilized for CY 2023."
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2023-PY11",
+      "year": 2023,
+      "recommendation": "We recommended that Management instruct the accounting unit and treasury unit to process and pay only transactions with complete supporting documents in accordance with Section 4 (6) of PD No. 1445 to prevent the transactions to be suspended in audit.   Further, we recommended that Management instruct the municipal accountant in monitoring the settlement of the suspensions and disallowances in pursuance of Section 7.1.1. of COA Circular No. 2009-006.",
+      "managementAction": "The Municipal Accountant submitted lists of payments of disallowances to the Audit Team.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The lists were submitted to the Audit Team on May 30, 2024 and are still subject to verification."
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2023-OBS1",
+      "year": 2023,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Accountant to draw the following adjusting journal entries for accurate and fair presentation of the FS:",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2023-OBS2",
+      "year": 2023,
+      "recommendation": "We recommended and Management agreed to:\ninstruct the Municipal Accountant to prepare JEV to correctly record in the Trust Liabilities -DRRMF account under the TF the funds received from the OP. Henceforth, funds received for disaster risk   reduction and management be recorded as Trust Liabilities -DRRMF account under the TF unless stated otherwise in the MOA or specific rules and regulations.\ncoordinate with the OP for the possibility on the extension on the period for the utilization of the P10,000.000.00 fund, otherwise the same should be returned in compliance with the MOA and of the letter dated October 3, 2023.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2023-OBS3",
+      "year": 2023,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to immediately transfer the unexpended balance of the of the QRF and LDRRMF-MOOE/MF-MOOE for CY 2023 to the Trust Liability – DRRMF account under the TF books.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2023-OBS4",
+      "year": 2023,
+      "recommendation": "We recommended that Management direct the Municipal Accountant, in coordination with the Municipal Budget Officer, to prepare the NFS in accordance with the pertinent provisions of IPSAS 1 and COA Circular No. 2016-004 dated September 30, 2016 and make certain the propriety and completeness of required disclosures for fair and accurate presentation of the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2023-OBS5",
+      "year": 2023,
+      "recommendation": "We recommended that the Local Chief Executive create an Inventory Committee for the sole purpose of conducting the one-time cleansing of the Municipality's PPE and direct the said committee to immediately cause the eventual reconciliation of the PPE balances in accordance with COA Circular No. 2020-006.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2023-OBS6",
+      "year": 2023,
+      "recommendation": "We recommended that Management:\nensure the optimal utilization of the 20% DF by implementing the PPAs to help achieve the desirable socio-economic targets and developmental outcomes of the Municipality for the benefit of its constituents; and\nidentify those fully completed PPAs with unutilized balances and PPAs that could not be implemented, and reprogram the same to other social, economic, developmental or environmental PPAs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2023-OBS7",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2023-OBS8",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2023-OBS9",
+      "year": 2023,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2023-PY1",
+      "year": 2023,
+      "recommendation": "We recommended that Management require the :\n\na) Municipal Treasurer to prepare a Schedule of Unreleased Commercial Checks particularly at the end of the year and provide a copy to the Accounting Office; and\n\nb) Municipal Accountant to prepare Journal Entry Voucher (JEV) for the adjustments of the affected accounts at the end of the year and thereafter, in the ensuing year, another JEV shall be drawn to reverse the previous entries made and recognize the availability of the checks for release.",
+      "managementAction": "The Municipal Treasurer prepared and submitted to the Municipal Accountant the Schedule of Unreleased Checks at the end of the year.\n\nThe Municipal Accountant adjusted the affected accounts at year-end",
+      "status": "IMPLEMENTED",
+      "reason": "Verification showed substantial compliance with the audit recommendation."
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2023-PY5",
+      "year": 2023,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to properly and appropriately classify and record the expenses in accordance with the Revised Chart of Accounts in consonance with the specific purpose/s of the expenditures it was created.",
+      "managementAction": "For CY 2023, the Municipal Accountant classified and recorded expenses in accordance with the Revised Chart of Accounts",
+      "status": "IMPLEMENTED",
+      "reason": "Substantial compliance to the audit recommendation was observed."
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2023-PY6",
+      "year": 2023,
+      "recommendation": "We recommended that management instruct the Municipal Accountant to first recognize/set up the procured office supplies and materials, drugs and medicines as inventories and record only as expenses through JEV upon the issuance and/or withdrawal of supplies from stock as supported by the RIS prepared by the Supply Custodian.",
+      "managementAction": "The Municipal Accountant recorded inventory account for supplies and materials procured and recorded as expenses upon issuance to end users.",
+      "status": "IMPLEMENTED",
+      "reason": "There was substantial compliance."
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2023-PY7",
+      "year": 2023,
+      "recommendation": "We recommended that Management pay directly to the supplier for any of its obligations in order to withhold the corresponding BIR taxes due from the suppliers to avoid loss of revenue. Stop from paying such expenses through reimbursement basis.\n\t\nFurther, we recommended that Management ensure that all transactions be supported with complete supporting documents before payment be made pursuant to Section 4 (6) of PD No. 1445 to prevent the suspension and/or disallowance of the transactions in the future.",
+      "managementAction": "Reimbursements for CY 2023 were only made for valid expenses.\n\n\n\nSupporting documents of reimbursements done for CY 2023 were complete and appropriated.",
+      "status": "IMPLEMENTED",
+      "reason": "Verification showed substantial compliance."
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Norte__Adams_IlocosNorte-2023-PY9",
+      "year": 2023,
+      "recommendation": "We recommended that Management through the Officer of the Municipal Social Welfare and Development Office to closely monitor the implementation of the feeding program and prepare a progress report or nutritional status of the beneficiary children within the duration period of 120 days to determine that the objective of the program was met.\n\nFurther, we recommended that Management follow the prescribed bidding procedures before implementing such program/activity and observe the completeness of the transactions.",
+      "managementAction": "The MSWDO monitored the implementation of the feeding programs.\n\n\n\nManagement followed the prescribed procurement procedures in the implementation of feeding program.",
+      "status": "IMPLEMENTED",
+      "reason": "Implementation of the feeding programs were already monitored."
+    },
+    {
+      "id": "Adams_IN_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant with the Property Officer to reconcile and check their property records pursuant to Section C3, Chapter V of the Manual on Property Custodianship. \n\nFurther, we recommend that Management require the Property Officer to maintain Property Cards and the Municipal Accountant to maintain an Equipment Ledger Cards so that reconciliation be made periodically and any unreconciled differences be adjusted easily.",
+      "managementAction": "AAR 2020 page 41 | No action taken by Management",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to\n\nInstruct the Municipal Accountant to intensify the immediate collections of the account dues from the concerned officers and employees through salary deductions from the general payroll.\n\nInform concerned officers and employees that failure on their part to settle their accounts shall constitute a ground for the withholding of their salaries, and\t\n\nStrictly observe the provisions of Malversation or Misappropriation of government funds under Article 217 and Article 220 of the Revised Penal Code.",
+      "managementAction": "AAR 2020 page 51 | No action taken by Management.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Accountant and Municipal Treasurer to immediately comply and submit to the Office of the Auditor the necessary lacking supporting documents as mentioned above pursuant to Section 4 of PD No. 1445 and COA Circular No. 2012-001.",
+      "managementAction": "AAR 2020 page 54 | No action taken by Management",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We recommended that Management to instruct the Municipal Accountant and the Municipal Treasurer to strictly observe and deduct the employees’ obligations due the GSIS which shall be given preference over the Private Lending Institution pursuant to Section 47 of GAA 2020 in order to forestall the imposition of sanctions spelled out in the aforesaid Section 7 and 52 of RA No. 8291 for those officials who failed to deduct the applicable GSIS loan amortizations from employees’ payroll.",
+      "managementAction": "AAR 2020 page 60 | Management took no actions on the matter. Some personnel were not yet deducted their GSIS loans in the general payroll",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "We recommended that Management:\nPrepare and submit Report on Physical Count of PPE for the current year 2019 to determine the actual physical count and condition of PPE at a given date including those unrecorded newly purchased and those which could not be accounted for; \n\n Physical inventory taking of properties by type shall be conducted annually and Direct the Property Custodian to identify the unserviceable properties already subjected for disposal and prepare the Inventory and Inspection Report of Unserviceable Property.",
+      "managementAction": "AAR 2019 page 35 | The municipality will conduct a physical count on first week of July this year and create an Inventory Committee for the purpose of documenting and recording the PPE’s of the municipality.\n\n\nThe municipality will continue said management activities and will report its findings as soon as it will complete the proper documentation of acquired properties, inventories and other PPE’s pursuant to the recommendations.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN_aar2021-PY14",
+      "year": 2021,
+      "recommendation": "We recommended that the General Service Officer prepare a Summary of Supplies and Materials Issued (SSMI) together with the Requisition and Issue Slips (RIS) and submit the same to the Chief Accountant as her basis to prepare a Journal Entry Voucher (JEV) to record the appropriate expense account and compute the cost of supplies and materials issued and the corresponding cost of the ending inventory account.\n\n Further, we recommended that the Chief Accountant make the necessary adjustment to the inventory account and reflect the appropriate expense account for the inventories that were already used, consumed or distributed based on the Summary of Supplies and Materials Issued.",
+      "managementAction": "AAR 2019 page 37 | The municipality will follow with the recommendations and had device a system that all inventories will be accounted and required the personnel incharge in the proper recording of the assets of the municipality.\nThe municipality will conduct physical inventory and reconciliations of records.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN_aar2021-PY15",
+      "year": 2021,
+      "recommendation": "We recommended that Management :\n\nIntensify the immediate collections of the account dues from the officers and employees concerned; \t\n\nRefrain or stop this malpractice to use government fund for the payment of personal loan amortization of the officers and employees;\n\nNon-settlement and/or complete disregard to settle their accounts shall constitute a ground for the withholding of their salaries, and the auditor is compelled to issue Demand Letter and/or make a narrative report to apply the sanctions under the provisions of Art. 217 and 220 of the Revised Penal Code.",
+      "managementAction": "AAR 2019 page 42 | The Office of the Mayor will issue a memorandum and demand letter to the employees to pay their respective dues to the municipality and will follow the recommendations of the COA.\n\nLikewise, I will direct the Municipal Treasurer to deduct the amount of their advances to their salaries for the period of six months or one year.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN_aar2021-PY16",
+      "year": 2021,
+      "recommendation": "We recommended that Management prepare and submit the required Monthly Report of Fuel Consumption pursuant to COA Circular No. 77-61 as basis in determining the reasonableness of fuel consumption.",
+      "managementAction": "AAR 2019 page 50 | The Municipality  directed the GSO to follow the recommendations and entered a Memorandum of Agreement (MOA) to the gasoline station that best serve the interests of the municipality.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The said documents were not attached in the DVs.  We required Management to submit the same."
+    },
+    {
+      "id": "Adams_IN_aar2021-PY17",
+      "year": 2021,
+      "recommendation": "We recommended that Management instruct the accounting unit and treasury unit to process and pay only transactions with complete supporting documents in accordance with Section 4 (6) of P.D. 1445 to prevent the transactions to be suspended in audit. \n\n  Further, we recommended that Management instruct the municipal accountant in monitoring the settlement of the suspensions and disallowances in pursuance of Section 7.1.1. of COA Circular No. 2009-006. \n\nThe non compliance/submission of the documents may compel the Auditor to issue Notice of Disallowances in pursuance to Section 8.2 of PD 1445 and Section 13.1 of COA Circular 2009-006.",
+      "managementAction": "AAR 2019 page 51 | No action taken by management",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "We required Management to settle immediately the overdue suspension and disallowances.\n\nSuspensions which are already more than 90 days not settled will now mature into disallowances."
+    },
+    {
+      "id": "Adams_IN_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended that Management thru the General Service Officer to conduct a physical inventory of the goods held for sale, held for distribution and held for consumption if these are still in the stocks file.\nWe recommended, further that the General Service Officer prepare a SSMI together with the Requisition and Issue Slips (RIS) and submit the same to the Chief Accountant as her basis to prepare a Journal Entry Voucher (JEV) to record the appropriate expense account and compute the cost of supplies and materials issued and the corresponding cost of the ending inventory account.\nLastly, we recommended that the Chief Accountant make the necessary adjustment to the inventory account and reflect the appropriate expense account for the inventories that were already used, consumed or distributed based on the Summary of Supplies and Materials Issued.\n1.8    \tThe Management commented that the newly-appointed GSO is already monitoring, locating and evaluating the said inventories.  Afterwhich, the Municipal Accountant will make the necessary adjustment by the end of this year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "2.9  \tWe recommended that Management instruct the Municipal Accountant and responsible officers to:\nImmediately seek legal remedies to settle/collect the long overdue receivables particularly the SEAP.\nContinue monitoring and visiting those delinquent borrowers and issue Demand Letters to ensure the recovery and realization of the receivables.\nImmediately determine and evaluate those borrowers who are deceased and unknown/missing in accordance with COA Circular No. 2016-005 and prepare requests for write-off if collections are already remote.\n2.10 The Management commented that with regards to the SEA-K Loan, they are inclined to exercise its last resort which is to request the write-off of the said receivables since the collectability of such is remote.  Also, management plans to exhaust all possible means to collect all other outstanding receivables primarily through the issuance of demand letters.\n2.11   The Audit Team enjoined management to exert all possible means to efficiently and effectively collect and recover the receivables from delinquent borrowers.  For receivables which are already remote to recover and collect, follow the procedures of writing off the accounts as prescribed in COA Circular No. 2016-005.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "We recommended that Management:\nInstruct the Municipal Accountant to intensify the immediate collections of the accounts dues from the concerned officers and employees through salary deductions from the general payroll.\nInform concerned officers and employees that failure on their part to settle their accounts shall constitute a ground for the withholding of their salaries.\nThe Management committed to withhold the receivables from the employees in their monthly salaries or from the general payroll gradually.\n3.10. The Audit Team shall monitor the actions of management to deduct their dues from the general payroll.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "4.7 \tWe recommended that Management instruct the Municipal Accountant to properly and appropriately classify and record the expenses in accordance with the Revised Chart of Accounts in consonance with the specific purpose/s of the expenditures.\n4.8  Management commented through the Municipal Accountant to follow their previous practice of using the proper accounts.\n4.9  The Audit Team encourage management trough the Municipal Accountant to properly use the accounts in accordance with the Chart of Accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "5.7    We recommended and Management agreed:\nStrictly require and issue Demand letters to officers and employees concerned who are still in the service with the LGU to account and settle cash advances immediately in conformity with COA Circular No. 97-002 dated February 10, 1997 and Section 89 of P.D. No. 1445.\nIssue demand letters to those employees who fail to liquidate their cash advances within the prescribed period much more to those past due accounts who are no longer connected with the agency.\nCause the refund of any unused/unspent/unutilized cash advances and/or no longer needed to the collecting officer and shall be deposited to the account of the agency.\nWithhold the Salaries of the AOs with unliquidated cash advances who are still in the service and settle the cash advances within three months from receipts of this AOM.\nDirect the Municipal Accountant to monitor and strictly enforce the liquidation/ settlement of cash advances within the prescribed period.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "6.8 \tWe recommended and Management agreed to require through the BAC, the Winning Bidder to submit a copy of the CSHP duly approved by the DOLE which shall form part of the contract.\nIn case the Contractor will not submit or comply with the said document after the infrastructure project was satisfactorily completed, this would cause management to hold the billing payment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "7.10\tWe recommended and Management agreed to instruct the Municipal Accountant and the MPDC to require the Legal Consultant to submit the lacking supporting documents particularly his Consultant Progress/Final Report pursuant to COA Circular No. 2012-001.\nWe also recommended and Management further agreed to secure the requisite authority before entering into a contract of service for consultants and undertake the project in accordance with RA No. 9184 and its IRR to avoid disallowances in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN_aar2021-OBS8",
+      "year": 2021,
+      "recommendation": "8.6   \tWe recommended that Management instruct the concerned heads of offices to strictly observe the completeness of the documents of a certain transaction before payment to establish the  propriety and validity of expenditures and to avoid suspensions in audit.\n8.7   Management commented that their previous usual practice was if the supplier is compliant with the required documents during their first transactions of the year, management no longer requires these subject lacking documents in their succeeding transactions within the year.  However, management finds the recommendations with merit and committed to require the submission of the documents before it pays any transactions.\n8.8    \tThe Audit Team required management to submit the legal documents and attached the same in the disbursement vouchers to ascertain and validate the legality and completeness of any transactions before payment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN_aar2021-OBS9",
+      "year": 2021,
+      "recommendation": "9.2  \tWe recommended and Management agreed to instruct the GAD Focal Person to continuously coordinate with all department heads responsible for the implementation of GAD PPAs to come up with strategic plans for the timely, efficient and effective implementation of these GAD PPAs in order to attain and deliver desirable benefits and outcomes to the beneficiaries.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to release the retention money to the concerned contractors/suppliers pursuant to Section 62.1 and 6.1 and 6.2 of the Revised IRR of RA No. 9184 in which the contractor shall  make a request to the procuring entity for the release of the retention money and submit a security in the form of cash, bank guarantee, irrevocable standby letter of credit from a commercial bank, GSIS or surety bond callable on demand equivalent for the retention money substituted for.\n\nFurther, we recommended that Management instruct the end-users to attach a certification that the project is completed and inspected.",
+      "managementAction": "AAR 2020 page 45 | Management complied with the recommendation.  Retention money were released/paid to the concerned Contractors",
+      "status": "IMPLEMENTED",
+      "reason": "Verification showed substantial compliance."
+    },
+    {
+      "id": "Adams_IN_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to direct the Municipal Accountant to present the current and non-current portion of the liability as separate classifications on the face of the Statement of Financial Position in accordance with paragraph 80 of IPSAS 1.",
+      "managementAction": "AAR 2020 page 44 | Management already classify the current and non current portion of the liability accounts",
+      "status": "IMPLEMENTED",
+      "reason": "Liabilities were already reclassified as recommended"
+    },
+    {
+      "id": "Adams_IN_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to analyze the payable accounts to ensure the accuracy of the balances in the financial statements and only record transactions/set up liability based on valid obligations with complete evidences or documents, and revert the balances of Accounts Payable that have been outstanding for more than two years which are undocumented and no longer valid to the Unappropriated Surplus pursuant to COA Circular No. 99-004.",
+      "managementAction": "AAR 2020 page 47 | Management complied with the recommendations.",
+      "status": "IMPLEMENTED",
+      "reason": "Review of the account showed substantial compliance."
+    },
+    {
+      "id": "Adams_IN_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to properly or appropriately classify and record the expenses in accordance with the Revised Chart of Accounts corresponding with the specific purpose of the expenditures for which it was created to present fairly the accounts in the financial statement.",
+      "managementAction": "AAR 2020 page 49 | Management complied with the recommendations",
+      "status": "IMPLEMENTED",
+      "reason": "Review showed compliance with the recommendation."
+    },
+    {
+      "id": "Adams_IN_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended that Management designates proper special disbursing officers or employees for other legally purpose for which the expenditures were created. \n\nFurther, we recommended that Management instruct the Municipal Accountant to stop the granting of cash advances for the implementation of feeding program or other projects and programs for specific legal purpose.  Purchases of needed goods for the implementation of the programs are to be paid by checks directly to the supplier for purposes of the creditable tax required to be withheld on income and be remitted to the BIR.",
+      "managementAction": "AAR 2020 page 57 | Management complied with the recommendations",
+      "status": "IMPLEMENTED",
+      "reason": "Review by the audit team showed substantial compliance."
+    },
+    {
+      "id": "Adams_IN_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommended that management instruct those officers incharge of the procurement activities to accomplish completely and properly the information in the prescribed forms specifically on the “dates” portion. Likewise, the Supplier to indicate the date the goods were delivered and the date the payment was received to determine that the terms and conditions were in accordance with the contract.",
+      "managementAction": "AAR 2020 page 59 | Management complied with the recommendations",
+      "status": "IMPLEMENTED",
+      "reason": "Prescribed forms were already filled out properly."
+    },
+    {
+      "id": "Adams_IN_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "We recommended that Management instruct the Municipal Treasurer to strictly supervise his staff assigned in the Treasury Office and instruct them to avoid erasures or alterations in the preparation of checks to minimize wastage or misuse of accountable forms and to strengthen internal control system.",
+      "managementAction": "AAR 2020 page 63 | Management complied with the recommendation",
+      "status": "IMPLEMENTED",
+      "reason": "Validation conducted showed substantial compliance."
+    },
+    {
+      "id": "Adams_IN_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "We recommended that Management through the I-Plan Head and I-Build Head to serve/issue the Contract and the Notice To Proceed immediately to the Contractor as the new sites has long been approved in order to hasten the construction of the two unimplemented solar dryer.  In addition, require the Contractor to finish the two sub projects within 23 days before the end or closing of the PRDP Project which will be on May 2021.",
+      "managementAction": "AAR 2020 page65 | Management already fully and satisfactorily implemented the I-Build projects this year CY 2021",
+      "status": "IMPLEMENTED",
+      "reason": "Subject projects were already implemented"
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommended that Management:\nPrepare and submit Report on Physical Count of PPE for the current year 2019 to determine the actual physical count and condition of PPE at a given date including those unrecorded newly purchased and those which could not be accounted for; \n\n Physical inventory taking of properties by type shall be conducted annually and Direct the Property Custodian to identify the unserviceable properties already subjected for disposal and prepare the Inventory and Inspection Report of Unserviceable Property.",
+      "managementAction": "The Management will conduct a physical count on the first week of July 2021 and create an Inventory Committee for the purpose of documenting and recording the PPE of the Municipality.\n\nThe Management will continue said Management activities and will report its findings as soon as it will complete the proper documentation of acquired properties, inventories and other PPE pursuant to the recommendations.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management has not submitted the required Report of the Physical Count of PPE."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended that the General Service Officer prepare a Summary of Supplies and Materials Issued (SSMI) together with the Requisition and Issue Slips (RIS) and submit the same to the Chief Accountant as her basis to prepare a Journal Entry Voucher (JEV) to record the appropriate expense account and compute the cost of supplies and materials issued and the corresponding cost of the ending inventory account.\n\nFurther, we recommended that the Chief Accountant make the necessary adjustment to the inventory account and reflect the appropriate expense account for the inventories that were already used, consumed or distributed based on the Summary of Supplies and Materials Issued.",
+      "managementAction": "The Management will follow with the recommendations and has devised a system that all inventories will be accounted and has required the personnel in charge in the proper recording of the assets of the Municipality.\nThe municipality will conduct physical inventory and reconciliation of records.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No SSMI and RIS were prepared and submitted by the GSO to the Municipal Accountant yet.\n\nNot Implemented\n\nNo adjustment/s was made by the Municipal Accountant yet as to the issued/distributed inventories"
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended that Management intensify the immediate collections of the account dues from the officers and employees concerned; \trefrain or stop this malpractice to use government fund for the payment of personal loan amortization of the officers and employees; and non-settlement and/or complete disregard to settle their accounts shall constitute a ground for the withholding of their salaries, and the auditor is compelled to issue Demand Letters and/or make a narrative report to apply the sanctions under the provisions of Articles 217 and 220 of the Revised Penal Code.",
+      "managementAction": "The Office of the Mayor will issue a memorandum and demand letter to the employees to pay their respective dues to the Municipality and will follow the recommendations of the COA.\nLikewise, Management will direct the Municipal Treasurer to deduct the amount of their advances to their salaries for the period of six months or one year.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Review and post audit of payrolls showed non-compliance with the recommendations.\nReiterated under Finding No. 6 in this Report."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended that Management prepare and submit the required Monthly Report of Fuel Consumption pursuant to COA Circular No. 77-61 as basis in determining the reasonableness of fuel consumption.  \n\n We recommended further that Management may apply for a credit line of gasoline to a creditable gasoline station to refrain from using reimbursement basis of gasoline.",
+      "managementAction": "The Management directed the GSO to follow the recommendations and entered into a Memorandum of Agreement (MOA) with a gasoline station that best serves the interests of the Municipality.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The said documents were not attached in the DVs. We required Management to submit the same.\n\nImplemented\n\nThe LGU already made an agreement with a private gasoline station for credit line."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-PY9",
+      "year": 2020,
+      "recommendation": "We recommended that Management instruct the accounting unit and treasury unit to process and pay only transactions with complete supporting documents in accordance with Section 4 (6) of PD No. 1445 to prevent the transactions to be suspended in audit.   Further, we recommended that Management instruct the Municipal Accountant in monitoring the settlement of the suspensions and disallowances in pursuance of Section 7.1.1. of COA Circular No. 2009-006. The non- compliance/submission of the documents may compel the Auditor to issue Notice of Disallowances in pursuance to Section 8.2 of PD 1445 and Section 13.1 of COA Circular 2009-006.",
+      "managementAction": "No action taken by Management.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No submission/ compliance has been made by the Management. Suspensions which are already more than 90 days not settled will now mature into disallowances."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-PY19",
+      "year": 2020,
+      "recommendation": "We recommended that Management direct the concerned offices to accomplish the necessary attachment to the disbursement as well as submit the monthly reports required in the manual to support the propriety and validity of charges made.",
+      "managementAction": "No action was made by management.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated under Finding No. 8 in this report."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to coordinate with the GSO to reconcile and check their property records pursuant to Section C3, Chapter V of the Manual on Property Custodianship.\n\nFurther, we recommended that Management require the GSO to maintain Property Cards and the Municipal Accountant to maintain an Equipment Ledger Cards so that reconciliation be made periodically and any unreconciled differences be adjusted easily.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to direct the Municipal Accountant to present the current and non-current portions of the liability as separate classifications on the face of the Statement of Financial Position in accordance with paragraph 80 of IPSAS 1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to release the retention money to the concerned contractors/suppliers pursuant to Section 62.1 and 6.1 and 6.2 of the Revised IRR of RA No. 9184 in which the contractor shall  make a request to the procuring entity for the release of the retention money and submit a security in the form of cash, bank guarantee, irrevocable standby letter of credit from a commercial bank, GSIS or surety bond callable on demand equivalent for the retention money substituted for.\n\nFurther, we recommended that Management instruct the end-users to attach a certification that the projects were completed and inspected.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to analyze the payable accounts to ensure the accuracy of the balances in the financial statements and only record transactions/set up liability based on valid obligations with complete evidences or documents, and revert the balances of Accounts Payable that have been outstanding for more than two years which are undocumented and no longer valid to the Unappropriated Surplus pursuant to COA Circular No. 99-004.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to properly or appropriately classify and record the expenses in accordance with the Revised Chart of Accounts corresponding with the specific purpose/s of the expenditure/s for which it was created to present fairly the accounts in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to:\nInstruct the Municipal Accountant to intensify the immediate collections of the account dues from the concerned officers and employees through salary deductions from the general payroll;\nInform concerned officers and employees that failure on their part to settle their accounts shall constitute a ground for the withholding of their salaries, and\nStrictly observe the provisions of Malversation or Misappropriation of government funds under Article 217 and Article 220 of the Revised Penal Code.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Accountant and Municipal Treasurer to immediately comply and submit to the Office of the Auditor the necessary lacking supporting documents as mentioned above pursuant to Section 4 of PD No. 1445 and COA Circular No. 2012-001.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We recommended that Management instruct the GSO to prepare and submit the required Monthly Report of Fuel Consumption and Driver’s Trip Ticket in every official travel pursuant to COA Circular No. 77-61 as basis in determining the reasonableness of fuel consumption in order to control any wasteful, excessive and unnecessary consumption of gasoline.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-OBS9",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to designate proper special disbursing officers or employees for other legally purpose for which the expenditures were created.\n\nFurther, we recommended and Management also agreed to instruct the Municipal Accountant to stop the granting of cash advances for the implementation of feeding program or other projects and programs for specific legal purpose.  Purchases of needed goods for the implementation of the programs are to be paid by checks directly to the supplier for purposes of the creditable tax required to be withheld on income and be remitted to the BIR.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-OBS10",
+      "year": 2020,
+      "recommendation": "We recommended that Management instruct the:\nBids and Awards Committee to coordinate with heads of implementing offices/units to accomplish completely and properly the information in the prescribed forms specifically on the date portions for every procurement activity, and to be vigilant in accomplishing the prescribed forms to ascertain the authenticity of the transactions and to promote operational efficiency and effectiveness of the Municipality; and\nMunicipal Accountant to coordinate with the Inspection and Acceptance Committee and the GSO to require the Suppliers to indicate the date the goods were delivered and the date the payment was received to determine that the terms and conditions were in accordance with the contract.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-OBS11",
+      "year": 2020,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to coordinate with the Municipal Treasurer to strictly observe and deduct the employees’ obligations due the GSIS, which shall be given preference over the claims of Private Lending Institutions, pursuant to Section 47 of GAA FY 2020 in order to forestall the imposition of sanctions spelled out in Sections 7 and 52 of RA No. 8291 for those officials who failed to deduct the applicable GSIS loan amortizations from employees’ salaries.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-OBS12",
+      "year": 2020,
+      "recommendation": "We recommended that Management instruct the Municipal Treasurer to strictly supervise the personnel assigned in the Treasury Office and instruct them to avoid erasures or alterations in the preparation of checks to minimize wastage or misuse of accountable forms and to strengthen internal control system.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-OBS13",
+      "year": 2020,
+      "recommendation": "We recommended that Management through the I-Plan Head and I-Build Head to serve/issue the Contract and the Notice to Proceed immediately to the Contractor as the new sites have long been approved, in order to hasten the construction of the two unimplemented solar dryers and to timely deliver the socio-economic benefits to the intended beneficiaries.   Likewise, we recommended that Management instruct the BAC to require the Contractor to submit the updated legal documents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended that Management require all officers and employees with outstanding cash advances to account and settle immediately after the purpose for which these were granted in conformity with COA Circular No. 97-002 dated February 10, 1997; Section 89 of PD No. 1445; immediately issue demand letters to those employees who are no longer in the service with unsettled/ unliquidated cash advances; refrain from granting additional cash advances to officers and employees with existing cash advances unless the previous cash advances are first settled; and cause the refund of any unused/unspent/unutilized cash advances and/or no longer needed to the collecting officer to be receipted and shall be deposited to the authorized government depository bank.",
+      "managementAction": "The Office of the Mayor  issued a memorandum and demand letters to the concerned employees to pay their respective dues to the Municipality and will follow the recommendations of the COA",
+      "status": "IMPLEMENTED",
+      "reason": "Review and verification of liquidations showed compliance with the recommendations."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended that Management revert all outstanding balances of Accounts Payable for more than two years to Unappropriated Surplus pursuant to the aforementioned COA Circular. Further, we recommended that the Municipal Accountant analyze the payable accounts and ensure the accuracy of the balances in the financial statements and record transactions/set up liability based on valid obligations with complete evidences or documents.",
+      "managementAction": "The Management  required the Municipal Accountant to make a detailed report of the accounts payables and whatever remains were reverted to un-appropriated surplus",
+      "status": "IMPLEMENTED",
+      "reason": "Review of records and analysis showed substantial compliance with the recommendations"
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommended that Management evaluate the reasonableness of the cellphone plans granted to the officials and employees; and establish a managerial policy on the grant and use of cellular phones to officials and employees including the allowable amount chargeable to the municipality and limiting to one line per officer in order to avoid incurring excessive expenses as prohibited under COA Circular No. 2012-003 and Section 2 of PD No. 1445.",
+      "managementAction": "The Management  issued a memorandum consistent to the use of cellphones and internet connections in accordance to the reasonableness granted to officials and employees",
+      "status": "IMPLEMENTED",
+      "reason": "Review and evaluation of the transactions substantiated the reasonableness and correctness in the use of cell phones and internet."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended that the agency strictly abide with the prohibitions and guidelines set by DILG Memorandum Circular No. 2010-101and Section 2.2.7 of COA Circular No. 2013-004.  We recommended further, that the municipality refrain from displaying the names and/or pictures of government personnel to all sort of government facilities and properties in the implementation of project and activity of the Municipality.",
+      "managementAction": "Management adhered with the recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": "Records showed that transactions of this nature were already stop."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-PY10",
+      "year": 2020,
+      "recommendation": "We recommended that Management through the Collecting Officer deposit intact all collections with the government depository bank daily or not later than the next banking day in pursuant to Section 107 of PD No. 1445 and Section 32 of NGAS for LGUs to avoid the risk of possible loss and/or misuse of government funds.",
+      "managementAction": "The Municipal Treasurer/Collecting Officer adhered with the recommendations",
+      "status": "IMPLEMENTED",
+      "reason": "Verification of records showed substantial compliance with the recommendations. \n\nThe Auditor urged the Collecting Office to abide with the rulings that all collections be deposited intact daily or not later than the next banking day."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-PY11",
+      "year": 2020,
+      "recommendation": "We recommended that Management through the accounting unit strictly comply with the above-cited COA Circular No. 2009-006 in the submission of Report of Disbursements, and Liquidation Reports together with the supporting documents within the prescribed period. Likewise, we recommended that Management cause the suspension of payment of the salaries of the employees responsible for the delayed submission or non-submission of the required monthly reports until the same shall have been complied in pursuance of Section 122 of PD No. 1445.",
+      "managementAction": "Management already submitted the reports together with the supporting documents",
+      "status": "IMPLEMENTED",
+      "reason": "Verification of records showed compliance with the recommendations."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-PY12",
+      "year": 2020,
+      "recommendation": "We recommended that the BAC consolidate the procurement of goods with similar items and projects of the same nature in an Annual Procurement Plan (APP) with the dates of requisition approximately close to one another, into one purchase request that are being bid out to render a more competitive public bidding and in determining the single largest completed contract. It is explicitly spelled out in the above-cited Section 54.1 of RA No. 9184 that splitting of government contracts is not allowed, thus the transactions are subjected into a disallowance.",
+      "managementAction": "The purchase orders was not acted immediately during that time because the projects has its own individual program of works, and different locations so the BAC decided that it should have separate purchase orders. Likewise, the Municipal Accountant who is also the Head of the TWG acted lately because he waited for the list of projects submitted to the COMELEC before he affixed his signature in the purchase order that’s why it appears that purchase orders are submitted at the same time to the COA.",
+      "status": "IMPLEMENTED",
+      "reason": "Verification of records showed substantial compliance of the recommendations"
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-PY13",
+      "year": 2020,
+      "recommendation": "We recommended that management justify the purpose of leasing a residential house for its official use and determine the personnel to occupy the building/unit and specify the amenities used by the personnel for official purpose at a given specific time.  We recommended, further that the Municipality conduct a Cost-Benefit analysis to assess the feasibility of leasing a residential house.  If it is not contributory to the mandate of the LGU, consider the possibility of not renewing the contract.",
+      "managementAction": "Leasing an Extension Office at Laoag City is very necessary in catering the lodging of appointed, elected officials as well as teachers, students and other residents who were forced to stay at Laoag City overnight and participate with provincial activities such as live-out seminars, meetings, sports activities, provincial programs.\n\nThe Management canvassed the cheapest and more advantageous cost to the Municipality before it entered into the lease agreement.",
+      "status": "IMPLEMENTED",
+      "reason": "Evaluation of the justifications proves its practicality and reasonableness.    Records and analysis showed substantial compliance with the recommendations."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-PY14",
+      "year": 2020,
+      "recommendation": "We recommended that Management submit the needed permit issued by NTC pursuant to NTC Memorandum Circular No. 09-08-01 to ascertain the legality on the procurement of handheld radio and to give authority for its use.",
+      "managementAction": "Securing a permit will cost the Municipality more than the costs of Hand-Held Radios. The Municipality used the same frequency with the Adams Police Station where their frequency is permitted. These radios are very helpful to the 5 Poblacion which do not have cellular signals.",
+      "status": "IMPLEMENTED",
+      "reason": "Evaluation of justifications from not securing a permit from the NTC proves and substantiate its practicality and reasonableness."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-PY15",
+      "year": 2020,
+      "recommendation": "We recommended that Management initiate legal collection measure to recover the aging and dormant accounts from the persons liable; grant cash advance only to authorized/designated accountable officers.\n\nContinue to remind all accountable officers and employees to strictly abide with the provisions of Section 89 of PD No. 1445 and COA Circular No. 97-002 on the prompt liquidation of cash advances.",
+      "managementAction": "Cash Advances were partially settled and liquidated in CY 2019. Management called the attention of the AOs to settle and liquidate their cash advances in the ensuing year.",
+      "status": "IMPLEMENTED",
+      "reason": "Records and its liquidations showed compliance with the recommendations.\n\n\n\nImplemented\n\nCash Advances granted to AOs were already settled/liquidated within the prescribed period."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-PY16",
+      "year": 2020,
+      "recommendation": "We recommended Management to stop the payment of honoraria without legal basis; and refund the total amount of P1,245,600.00 paid to Municipal Task Force, Sitio Bucarot officials and Purok Leaders in accordance with COA Circular No. 2012-003.",
+      "managementAction": "Management already stopped the granting of honorarium to the officials.  Somehow, considering the status of their jobs and the place of work destination which is far flung areas and as low income earners, the concerned Municipal Task Force could hardly refund the honoraria paid.",
+      "status": "IMPLEMENTED",
+      "reason": "Management already stop the grant of Honoraria. \n\nNot Implemented\n\nNo appeal has been submitted, thus the disallowances are already final and executory."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-PY17",
+      "year": 2020,
+      "recommendation": "We recommended that Management observe prudence in the disbursement of government of funds and evaluate the necessity of travels to be undertaken in line with COA Circular No. 2012-003.",
+      "managementAction": "Management already avoided or refrained from traveling outside the province in the conduct of any seminars, conferences or similar activities.",
+      "status": "IMPLEMENTED",
+      "reason": "This nature of transaction was already stopped.  Management complied with the recommendations."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-PY18",
+      "year": 2020,
+      "recommendation": "We recommended that the concerned officials and employees submit the necessary supporting documents for its proper appraisal to avoid disallowance in audit.",
+      "managementAction": "Supporting documents were submitted to the COA.",
+      "status": "IMPLEMENTED",
+      "reason": "Review of records showed substantial compliance with the recommendations."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Norte__Adams_IN-2020-PY20",
+      "year": 2020,
+      "recommendation": "We recommended that Management stop the practice of disbursing funds on reimbursement basis. Direct the payment to the supplier or through a disbursing officer duly supported with complete documentation in accordance with Sections 4(6) and 93 of PD No.  1445.",
+      "managementAction": "Management has already complied with the recommendations.",
+      "status": "IMPLEMENTED",
+      "reason": "Records showed  substantial compliance with the recommendations."
+    },
+    {
+      "id": "Adams_IN-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\n\nPrepare and submit Report on Physical Count of PPE for the current year 2019 to determine the actual physical count and condition of PPE at a given date including those unrecorded newly purchased and those which could not be accounted for;\nPhysical inventory taking of properties by type shall be conducted annually;\nPrepare/maintain and update Property Cards and the PPE Ledger Cards by the Property Officer and the Municipal Accountant to facilitate reconciliation of the PPE Account.\nDirect the Property Custodian to identify the unserviceable properties already subjected for disposal and prepare the Inventory and Inspection Report of Unserviceable Property.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended that the General Service Officer prepare a Summary of Supplies and Materials Issued (SSMI) together with the Requisition and Issue Slips (RIS) and submit the same to the Chief Accountant as her basis to prepare a Journal Entry Voucher (JEV) to record the appropriate expense account and compute the cost of supplies and materials issued and the corresponding cost of the ending inventory account.\n\nFurther, we recommended that the Chief Accountant make the necessary adjustment to the inventory account and reflect the appropriate expense account for the inventories that were already used, consumed or distributed based on the Summary of Supplies and Materials Issued.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended that Management :\n\nRequire all officers and employees with outstanding cash advances to account and settle immediately after the purpose for which these were granted in conformity with COA Circular No. 97-002 dated February 10, 1997; Section 89 of PD 1445.\nImmediately issue demand letters to those employees who are no longer in the service with unsettled/ unliquidated cash advances.\nRefrain from granting additional cash advances to officers and employees with existing cash advances unless the previous cash advances are first settled;\nCause the refund of any unused/unspent/unutilized cash advances and/or no longer needed to the collecting officer to be receipted and shall be deposited to the authorized government depository bank.\nCause the withholding of salary of the officials and employees with outstanding cash advances specifically those AOs mentioned above.\nFailure of the AOs to settle or liquidate his outstanding cash advances, the auditor has the authority to order the head of the agency the suspension of salary of the AO.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended that Management :\n\nIntensify the immediate collections of the account dues from the officers and employees concerned;\nRefrain or stop this malpractice to use government fund for the payment of personal loan amortization of the officers and employees;\nNon-settlement and/or complete disregard to settle their accounts shall constitute a ground for the withholding of their salaries, and;\nFailure of the officers and employees to settle their accounts, the auditor is compelled to issue Demand Letter and/or make a narrative report to apply the sanctions under the provisions of Art. 217 and 220 of the Revised Penal Code.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended that Management revert all outstanding balances of Accounts Payable for more than two years to Unappropriated Surplus pursuant to the aforementioned COA Circular.\n\nFurther, we recommended that the municipal accountant  analyze the payable accounts and ensure the accuracy of the balances in the financial statements and record transactions/set up liability based on valid obligations with complete evidences or documents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\nEvaluate the reasonableness of the cellphone plans granted to the officials and employees;\nEstablish a managerial policy on the grant and use of cellular phones to officials and employees including the allowable amount chargeable to the municipality and limiting to one line per officer in order to avoid incurring excessive expenses as prohibited under COA Circular No. 2012-003; and Sec. 2 of PD 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We recommended that the agency strictly abide with the prohibitions and guidelines set by DILG Memorandum Circular No. 2010-101and Section 2.2.7 of COA Circular No. 2013-004.  We recommended further, that the municipality refrain from displaying the names and/or pictures of government personnel to all sort of government facilities and properties in the implementation of project and activity of the municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-OBS8",
+      "year": 2019,
+      "recommendation": "We recommended that Management prepare and submit the required Monthly Report of Fuel Consumption pursuant to COA Circular No. 77-61 as basis in determining the reasonableness of fuel consumption.\nWe recommended further that management may apply for a credit line of gasoline to a creditable gasoline station to refrain from using reimbursement basis of gasoline purchases.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-OBS9",
+      "year": 2019,
+      "recommendation": "We recommended that Management instruct the accounting unit and treasury unit to process and pay only transactions with complete supporting documents in accordance with Section 4 (6) of P.D. 1445 to prevent the transactions to be suspended in audit.\n\nFurther, we recommended that Management instruct the municipal accountant in monitoring the settlement of the suspensions and disallowances in pursuance of Section 7.1.1. of COA Circular No. 2009-006.\n\nThe non compliance/submission of the documents may compel the Auditor to issue Notice of Disallowances in pursuance to Section 8.2 of PD 1445 and Section 13.1 of COA Circular 2009-006.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-OBS10",
+      "year": 2019,
+      "recommendation": "We recommended that Management through the Collecting Officer deposit intact all collections with the government depository bank daily or not later than the next banking day in pursuant to Section 107 of PD 1445 and Section 32 of NGAS for LGUs to avoid the risk of possible loss and/or misuse of government funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-OBS11",
+      "year": 2019,
+      "recommendation": "We recommended that management through the accounting unit strictly comply with the above-cited COA Circular 2009-006 in the submission of Report of Disbursements, and Liquidation Reports together with the supporting documents within the prescribed period.\n\nLikewise, we recommended that management cause the suspension of payment of the salaries of the employees responsible for the delayed submission or non-submission of the required monthly reports until the same shall have been complied in pursuance of  Section 122 of PD 1445.\n\nMoreover, revisit the Flow Chart of accounting and cash operations and effect the policies and procedures that may improve the operations and performances of the accounting and cash department effectively and efficiently.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-OBS12",
+      "year": 2019,
+      "recommendation": "We recommended that the BAC consolidate the procurement of goods with similar items and projects of the same nature in an Annual Procurement Plan (APP)  with the dates of requisition approximately close to one another, into one purchase request that are being bid out to render a more competitive public bidding and in determining the single largest completed contract.\n\nIt is explicitly spelled out in the above-cited Section 54.1 of RA 9184 that splitting of government contracts is not allowed, thus the transactions are subjected into a disallowance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-OBS13",
+      "year": 2019,
+      "recommendation": "We recommended that management adhere with the provision of Section 53.5 of IRR of RA 9184 and strictly follow of what is required by the law.\n\nFurther, submit/attach a PS Certificate of Non-availability of Stocks if goods were purchased from a private dealer.  Non-submission of the document would compel the auditor to disallow the transaction pursuant to paragraph 4.9 of DBM Circular No. 2013-14.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-OBS14",
+      "year": 2019,
+      "recommendation": "We recommended that Management stop the reimbursement of gas and oil expenses incurred instead, gas and oil purchased should be paid directly to a creditable gasoline station in such a way that management is mandated to withhold a 5% creditable tax of goods purchased.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-OBS15",
+      "year": 2019,
+      "recommendation": "We recommended that management continue to withhold income taxes and expanded taxes from procured goods and services and regularly remit said taxes within the period prescribed by the BIR Regulation.\n\nFurther, we recommended that unremitted taxes withheld must be remitted to avoid penalty, fines and/or charges for late payment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-OBS16",
+      "year": 2019,
+      "recommendation": "We recommended that management justify the purpose of leasing a residential house for its official use and determine the personnel to occupy the building/unit and specify the amenities used by the personnel for official purpose at a given specific time.\nWe recommended, further that the Municipality conduct a Cost-Benefit analysis to assess the feasibility of leasing a residential house.  If it is not contributory to the mandate of the LGU, consider the possibility of not renewing the contract.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-OBS17",
+      "year": 2019,
+      "recommendation": "We recommended that Management continuously come up with more GAD programs, projects and activities that may address, strengthen and equalize the status and condition of relationships between men and women which shall be integrated in the regular activities of the LGU in accordance with its mandate.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-OBS18",
+      "year": 2019,
+      "recommendation": "We recommended that Management submit the needed permit issued by NTC pursuant to NTC Memorandum Circular No. 09-08-01 to ascertain the legality on the procurement of handheld radio and to give authority for its use.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-OBS19",
+      "year": 2019,
+      "recommendation": "We recommended that the liable personnel and officials immediately settle the subject of their audit disallowances in accordance with the rules and regulations on the settlement of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-PY1",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended that Management agreed to instruct the Inventory Committee to conduct the inventory taking ahead of the deadline of submission of the RPCPPE to give ample time for the reconciliation of balances with the accounting records for the fair presentation of PPE accounts in the financial statements.\n\nWe recommended and Management agreed to direct the Municipal Accountant and Municipal Treasurer to submit immediately the vouchers mentioned to enable us to make a decision in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\n\nInitiate legal collection measure to recover the aging and dormant accounts from the persons liable. \n\nGrant cash advance only to authorized/designated accountable officers.\n\nContinue to remind all accountable officers and employees to strictly abide with the provisions of Section 89 of PD 1445 and COA Circular 97-002 on the prompt liquidation of cash advances.",
+      "managementAction": "Cash Advances were partially settled and liquidated in CY 2019. Management called the attention of the AOs to settle and liquidate their cash advances in the ensuing year.",
+      "status": "UNKNOWN",
+      "reason": "The Auditor monitored the settlement and/or liquidation of the cash advances. And, we required management to submit the liquidation report for audit."
+    },
+    {
+      "id": "Adams_IN-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended Management to stop the payment of honoraria without legal basis and refund the total amount of P1,245,600.00 paid to Municipal Task Force, Sitio Bucarot officials and Purok Leaders in accordance with COA Circular 2012-003.",
+      "managementAction": "Management already stopped the granting of honorarium to the officials.  Somehow, considering the status of their job and the place of work destination which is far flung areas and with low income earner, management could hardly collect the settlement of their disallowances.",
+      "status": "UNKNOWN",
+      "reason": "The Auditor required the liable persons to settle their disallowances which were already final and executor.  No appeal was made by management."
+    },
+    {
+      "id": "Adams_IN-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended that Management secure the requisite authority before entering into a contract of service for consultants and undertake the project in accordance with RA 9184 and its IRR to avoid disallowances in audit. Further, effect the refund for the payments made in relation to the hiring of consultant amounting to P210,000.00 from the accountable officers.",
+      "managementAction": "Management already stopped the services of the consultant.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended that the Bids and Awards Committee strictly adhere to the declared policy of the government for the promotion of good governance, the principles of transparency, accountability, equity, efficiency and economy in its procurement process as provided under the procurement law.",
+      "managementAction": "Management already complied with the recommendations.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended that Management observe prudence in the disbursement of government of funds and evaluate the necessity of travels to be undertaken in line with COA Circular 2012-003.",
+      "managementAction": "Management already avoided or refrained from traveling outside the province in the conduct of any seminars, conferences or similar activities.",
+      "status": "UNKNOWN",
+      "reason": "The Auditor advised management that future transactions of the same case would compel the auditor to issue Notice of Disallowance."
+    },
+    {
+      "id": "Adams_IN-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed to strictly adhere to the provisions of Section 4 of Annex “D” of RA 9184 in their succeeding procurement to avoid possible losses that may arise from non fulfillment of suppliers to the contract made between them.",
+      "managementAction": "Management already stopped this practice.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-PY9",
+      "year": 2019,
+      "recommendation": "We recommended that Management determine the eligibility of personnel receiving additional compensation cited in RA 7305 and its IRR before payment. Require the concerned personnel to refund the additional allowances granted which is not in accordance with RA 7305.",
+      "managementAction": "Management complied with the recommendation.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-PY10",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed to strictly adhere to the provisions of Section 62.1 of the IRR of RA 9184 on warranty security to avoid losses that may arise from possible claims in cases of discovered manufacturing defects of goods procured.",
+      "managementAction": "Management complied with the recommendation.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-PY11",
+      "year": 2019,
+      "recommendation": "We recommended that the concerned officials and employees submit the necessary supporting documents for its proper appraisal to avoid disallowance in audit.",
+      "managementAction": "No action was made by management.",
+      "status": "UNKNOWN",
+      "reason": "The Auditor required management to submit the lacking documents the soonest possible time before ND will be issued."
+    },
+    {
+      "id": "Adams_IN-2019-PY12",
+      "year": 2019,
+      "recommendation": "We recommended that Management discontinue the payment of amortized cost of handset incorporated in communication expenses. Advise concerned officials to avail of communication lines which they could fully utilize for their functions and as such incur actual expenses that could be fully charged to the municipality’s appropriation in line with COA Circular 2012-001 and Sec 4(6) of PD 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-PY13",
+      "year": 2019,
+      "recommendation": "We recommended that Management direct the concerned offices to accomplish the necessary attachment to the disbursement as well as submit the monthly reports required in the manual to support the propriety and validity of charges made.",
+      "managementAction": "No action was made by management.",
+      "status": "UNKNOWN",
+      "reason": "Reiterated in this report."
+    },
+    {
+      "id": "Adams_IN-2019-PY14",
+      "year": 2019,
+      "recommendation": "We recommended that Management refrain from paying registration fees directly to the hotel venue and require official receipts from the sponsoring agency or group for complete documentation of government expenditures.",
+      "managementAction": "Management complied with the recommendations.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-PY15",
+      "year": 2019,
+      "recommendation": "We recommended that Management stop the practice of disbursing funds on reimbursement basis. Direct the payment to the supplier or through a disbursing officer duly supported with complete documentation in accordance with Sections 4(6) and 93 of PD 1445.",
+      "managementAction": "Management agreed to comply with the recommendations.",
+      "status": "UNKNOWN",
+      "reason": "Reiterated in this report"
+    },
+    {
+      "id": "Adams_IN-2019-PY16",
+      "year": 2019,
+      "recommendation": "We recommend that management adhere to the policies and guidelines on the appropriation and utilization of the 20% Development Fund to ensure its optimal use and delivery of the desired developmental projects.",
+      "managementAction": "Management ensured the utilization and implementation of projects and programs intended for 20% DF during the year.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-PY17",
+      "year": 2019,
+      "recommendation": "We recommended that Management fully implement the programmed projects under the 20% Development Fund in order that it could timely deliver services and benefits intended for target beneficiaries.",
+      "managementAction": "Projects were implemented during the year 2019.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-PY18",
+      "year": 2019,
+      "recommendation": "We have recommended that unexpended Share from Tobacco Excise Tax be implemented accordingly to enable the tobacco farmers to obtain the maximum benefits in the use of the said fund.",
+      "managementAction": "Projects intended for RA 7171 were implemented during the year 2019.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-PY19",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2019-PY20",
+      "year": 2019,
+      "recommendation": "We recommended for the concerned officials to include only in the Local Disaster Risk Reduction Management Plan projects and activities that are in line with the JMC 2013-01 and charge to the General Fund expenses that are general in nature so that funds to address and mitigate problems arising from calamities are readily available for its purpose.\n\nWe recommended that Management:\n\nFormulate a realistic and attainable work plans to ensure subprojects and activities are ready for implementation upon the release of the allocated funds;\n\nFast track the disbursement process in order to settle as soon as possible the due and demandable obligations and prevent accumulation of the unexpended fund balance.",
+      "managementAction": "Management complied with the recommendations. \n\nManagement already submitted the lacking documents to Dept. of Agriculture.",
+      "status": "UNKNOWN",
+      "reason": "This was reported in PRDP CY 2019."
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended and Management agreed to instruct the Inventory Committee to conduct the inventory taking ahead of the deadline of submission of the RPCPPE to give ample time for the reconciliation of balances with the accounting records for the fair presentation of PPE accounts in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We recommended and Management agreed to direct the Municipal Accountant and Municipal Treasurer to submit immediately the vouchers mentioned to enable us to make a decision in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended that Management:\nInitiate legal collection measure to recover the aging and dormant accounts from the persons liable.\nb) Grant cash advance only to authorized/designated accountable officers.\nc) Continue to remind all accountable officers and employees to strictly abide with the provisions of Section 89 of PD 1445 and COA Circular 97-002 on the prompt liquidation of cash advances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended Management to stop the payment of honoraria without legal basis and refund the total amount of P1,245,600.00 paid to Municipal Task Force, Sitio Bucarot officials and Purok Leaders in accordance with COA Circular 2012-003.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We recommended that Management secure the requisite authority before entering into a contract of service for consultants and undertake the project in accordance with RA 9184 and its IRR to avoid disallowances in audit. Further, effect the refund for the payments made in relation to the hiring of consultant amounting to P210,000.00 from the accountable officers.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We recommended that the Bids and Awards Committee strictly adhere to the declared policy of the government for the promotion of good governance, the principles of transparency, accountability, equity, efficiency and economy in its procurement process as provided under the procurement law.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-OBS7",
+      "year": 2018,
+      "recommendation": "We recommended that Management observe prudence in the disbursement of government of funds and evaluate the necessity of travels to be undertaken in line with COA Circular 2012-003.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-OBS8",
+      "year": 2018,
+      "recommendation": "We recommended and Management agreed to strictly adhere to the provisions of Section 4 of Annex “D” of RA 9184 in their succeeding procurement to avoid possible losses that may arise from non fulfillment of suppliers to the contract made between them.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-OBS9",
+      "year": 2018,
+      "recommendation": "We recommended that Management determine the eligibility of personnel receiving additional compensation cited in RA 7305 and its IRR before payment. Require the concerned personnel to refund the additional allowances granted which is not in accordance with RA 7305.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-OBS10",
+      "year": 2018,
+      "recommendation": "We recommended and Management agreed to strictly adhere to the provisions of Section 62.1 of the IRR of RA 9184 on warranty security to avoid losses that may arise from possible claims in cases of discovered manufacturing defects of goods procured.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-OBS11",
+      "year": 2018,
+      "recommendation": "We recommended that the concerned officials and employees submit the necessary supporting documents for its proper appraisal to avoid disallowance in audit.\nWe recommended that Management discontinue the payment of amortized cost of handset incorporated in communication expenses. Advise concerned officials to avail of communication lines which they could fully utilize for their functions and as such incur actual expenses that could be fully charged to the municipality’s appropriation in line with COA Circular 2012-001 and Sec 4(6) of PD 1445.\nWe recommended that Management direct the concerned offices to accomplish the necessary attachment to the disbursement as well as submit the monthly reports required in the manual to support the propriety and validity of charges made.\nWe recommended that Management refrain from paying registration fees directly to the hotel venue and require official receipts from the sponsoring agency or group for complete documentation of government expenditures.\nWe recommended that Management stop the practice of disbursing funds on reimbursement basis. Direct the payment to the supplier or through a disbursing officer duly supported with complete documentation in accordance with Sections 4(6) and 93 of PD 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-OBS12",
+      "year": 2018,
+      "recommendation": "We recommend that management adhere to the policies and guidelines on the appropriation and utilization of the 20% Development Fund to ensure its optimal use and delivery of the desired developmental projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-OBS13",
+      "year": 2018,
+      "recommendation": "We recommended that Management fully implement the programmed projects under the 20% Development Fund in order that it could timely deliver services and benefits intended for target beneficiaries.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-OBS14",
+      "year": 2018,
+      "recommendation": "We have recommended that unexpended Share from Tobacco Excise Tax be implemented accordingly to enable the tobacco farmers to obtain the maximum benefits in the use of the said fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-OBS15",
+      "year": 2018,
+      "recommendation": "We recommended for the concerned officials to include only in the Local Disaster Risk Reduction Management Plan projects and activities that are in line with the JMC 2013-01 and charge to the General Fund expenses that are general in nature so that funds to address problems arising from calamities are readily available for its purpose.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-OBS16",
+      "year": 2018,
+      "recommendation": "We recommended that Management:\nFormulate a realistic and attainable work plans to ensure subprojects and activities are ready for implementation upon the release of the allocated funds;\nFast track the disbursement process in order to settle as soon as possible the due and demandable obligations and prevent accumulation of the unexpended fund balance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-PY1",
+      "year": 2018,
+      "recommendation": "Create the necessary committees in order to facilitate the proper disposal of identified unserviceable and obsolete properties.",
+      "managementAction": "No action.",
+      "status": "UNKNOWN",
+      "reason": "Unserviceable and obsolete properties were still carried in the books."
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-PY2",
+      "year": 2018,
+      "recommendation": "Instruct the Municipal Account to effect the provision of depreciation on recognized Other Land Improvement and Infrastructure Asset accounts following the straight line method.",
+      "managementAction": "Provided depreciation for the PPE assets.",
+      "status": "UNKNOWN",
+      "reason": "Other Land Improvements with book value of P6,831,152.90 remains undepreciated."
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommended that Officials and Employees immediately refund the loan repayments made under their account. Also, the Municipal Accountant should properly perform his duties to stop the incurrence of the same problem. Lastly, management to investigate on the wrongdoings of the accounting staff in-charge of payment of different remittances, appropriate action be given, if warranted.",
+      "managementAction": "All employees and officials concerned were given three months to settle their loan amortization erroneously remitted by the Accounting Office.",
+      "status": "UNKNOWN",
+      "reason": "Although the account has normal balance, the Municipal Treasurer has yet to submit the proof of payment for the said remittances."
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-PY4",
+      "year": 2018,
+      "recommendation": "We recommended and management agreed to stop granting laundry allowance to the Social Welfare Officer and compute the allowance of the Public Health Worker according to the existing rules and regulations to avoid overpayment of benefits.",
+      "managementAction": "Implemented the recommendation.",
+      "status": "UNKNOWN",
+      "reason": "Laundry Allowance granted for the year was in accordance with prescribed rules and regulations."
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommended that management compute the subsistence allowance on a per day basis. Also, an employee must have a written authority from the LCE before he/she could avail of subsistence allowance for “on-call” days to avoid situations where employees are paid for days that they are not allowed to receive Subsistence Allowance.",
+      "managementAction": "Implemented the recommendation on the succeeding payments",
+      "status": "UNKNOWN",
+      "reason": "Proper computation of subsistence allowance was applied."
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-PY6",
+      "year": 2018,
+      "recommendation": "We recommended that management require the contractual workers to refund the claimed per diems and incidental expenses on their travel outside the official station during the year.  When the workers are directed for a task which requires travel, they could only claim for actual fare from their station to that particular place and vice versa. \n\nAlso, Management stop the practice of allowing them in attending training and seminars and claim travelling expenses.",
+      "managementAction": "Implemented the recommendation.",
+      "status": "UNKNOWN",
+      "reason": "Only the actual transportation expenses were reimbursed to job orders on travel. However, no refund was made for the previously claimed per diems and incidental expenses."
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommended and management agreed to return to the source agency all unused/excess balance of fund transfer after the implementation of the project.",
+      "managementAction": "Refunded the unutilized amount to the NGAs concerned.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommended that the HRMO update the individual ledger on leave credits deducting all the tardiness/ undertime/half-day of the employees.\n\nAlso, Management adopt appropriate mechanism to strictly monitor and record attendance of employees such as the use of biometric time clocks and other forms of attendance systems.",
+      "managementAction": "The Municipal Mayor directed the HRMO-Designate to update the leave cards of employees and erring employees to be dealt accordingly in as per CSC rules.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-PY9",
+      "year": 2018,
+      "recommendation": "We recommended that Local Chief Executive reduce the number of contractual workers especially those performing clerical, administrative, janitorial and redundant services like the Executive Assistant. Hiring of workers should be made only as the need arises and be deployed only to offices where their services are needed most. \n\nAlso, formulate policy guidelines in hiring of contractual like conditions when services may be contracted, period within which the workers will render their services, qualification standards, required documents to be submitted by applicants and screening process.\n\nLastly, furnish the Audit team with copies of contract of employment within five days after its approval in order to facilitate review thereof. Ensure that conditions are clearly stated in the Contracts of Service and specify the following: a) expected outputs to facilitate comparison with the accomplishment report; b) specific period within which the work is to be accomplished; and c) source of funds for the payment of salaries.",
+      "managementAction": "Study and evaluate the importance of hired contract of service employees.",
+      "status": "UNKNOWN",
+      "reason": "The number of hired contractual employees was not reduced."
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-PY10",
+      "year": 2018,
+      "recommendation": "We recommended and management agreed to adhere to the provisions embodied in COA Circular No. 101C to facilitate action on papers relative to suspension orders on government infrastructure contracts.",
+      "managementAction": "The Municipal Engineer was directed to submit the suspension orders.",
+      "status": "UNKNOWN",
+      "reason": "Suspension orders were not furnished to the Audit Team despite many suspended projects appearing in the quarterly report of completed and on-going projects."
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-PY11",
+      "year": 2018,
+      "recommendation": "We recommended that management properly observe the guidelines embodied in Annex E of the IRR of RA 9184 and collect the liquidated damages from the contractor. Further, the Municipal Engineer and Project Monitoring Committee to consistently monitor the infrastructure projects of the municipality to ensure its completion within the target date.",
+      "managementAction": "The Municipal Engineer and the Project Monitoring Committee  were directed to observe the guidelines and familiarize with the profile of every projects implemented by the municipality.",
+      "status": "UNKNOWN",
+      "reason": "Four projects as at year-end were unfinished and were already beyond its target completion date."
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-PY12",
+      "year": 2018,
+      "recommendation": "We recommended and management agreed to strictly observe the rules and regulations of COA Circular No. 92-386 that deliveries of purchases are first accepted by the GSO Designate and to be inspected by the Inspection Committee. Also, the Municipal Accountant is advised to require that Acceptance and Inspection Report be properly filled-out before effecting payment to suppliers.",
+      "managementAction": "Created an Inspectorate Committee to ensure that all purchases are properly inspected.",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-PY13",
+      "year": 2018,
+      "recommendation": "We have recommended that the MPDC prepare an accounting report and recognize the necessary revenue generated from the sale of the soft broom inventory. Also the Accountant and the MPDC reconcile their records regarding the fund used in the soft broom production of the municipality.",
+      "managementAction": "Directed the MPDC to prepare the  required report within thirty (30) days and  furnished his reports to  COA and Accounting Office for record and evaluation purposes.",
+      "status": "UNKNOWN",
+      "reason": "No report submitted to the Audit Team for various inventory account totalling P952,930.67"
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-PY14",
+      "year": 2018,
+      "recommendation": "We have recommended that the participants prepare and submit their terminal reports. Also, a status of activities replicated by the agency, if any be submitted. We have further recommended the agency to refrain from pursuing activities that are not related to objectives of GO-FAR activity and focus only on identified activities that are relevant to the objectives of the program.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Required reports are not yet submitted to the Audit Team."
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-PY15",
+      "year": 2018,
+      "recommendation": "We have recommended and management agreed, that the municipal officials and employees who participated in the GO-FAR Tour submit the documentary requirements needed in the payment of their traveling expenses.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Required reports are not yet submitted to the Audit Team."
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-PY16",
+      "year": 2018,
+      "recommendation": "We have recommended that the BAC strictly comply with the provisions of Sections 37.1.6 and 37.4.2 of the Revised Implementing Rules and Regulations of RA 9184 in order to establish transparency in the municipality’s procurement process.",
+      "managementAction": "NOA and NTP are now posted and submitted to the Audit Team.",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-PY17",
+      "year": 2018,
+      "recommendation": "We have recommended that authority to travel be granted only to personnel directly involved in the conduct of an activity. We have further recommended the refund of P23,322.00 by the municipal employee considering that such is an irregular expenditure.",
+      "managementAction": "Directed  the  concerned employee to pay the said amount chargeable against his/her payroll deduction until he/she fully settled the said amount dis-allowed",
+      "status": "UNKNOWN",
+      "reason": "Amount for refund is not yet settled."
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-PY18",
+      "year": 2018,
+      "recommendation": "We have recommended that management should comply with the Provisions of RA 7160 which clearly requires Sanggunian ordinance or resolutions prior to project prosecution.",
+      "managementAction": "The management is taking an appeal related to the disallowance of the payment amounting to P3,751,497.37. However, in its succeeding program/project implementation, they make certain that they will comply with the Provisions of RA 7160.",
+      "status": "UNKNOWN",
+      "reason": "A Notice of Disallowance had been issued on the payments made.  Sanggunian Resolution was required before the posting of Invitation to Bid."
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-PY19",
+      "year": 2018,
+      "recommendation": "We recommended that management require the contractors to post the Warranty Securities of the completed infrastructure projects to assure for the protection/guarantee against possible structural defects/failures that may occur during the applicable warranty period.",
+      "managementAction": "The management could hardly implement such provision but they will try to comply with the said rules and regulations.",
+      "status": "UNKNOWN",
+      "reason": "Management failed to require the contractors to post Warranty Security on completed and accepted project."
+    },
+    {
+      "id": "Adams_IlocosNorte-2018-PY20",
+      "year": 2018,
+      "recommendation": "We have recommended the refund of the excess amount of Productivity Enhancement Incentive granted to officials and employees. Also, the management should strictly adhere with the provision of EO No. 80 specifically on the authorized amount to be granted for the payment of PEI.",
+      "managementAction": "A monthly deduction from the payroll of the concerned officials and employees starting November 2016 had been made. Likewise such disallowances were deducted from the claims of Terminal Leave Pay of the affected officials and employees.",
+      "status": "UNKNOWN",
+      "reason": "Partial payment of concerned officials and employees"
+    },
+    {
+      "id": "Adams_IN-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We reiterated our recommendation that the Local Chief Executive:\nRequire the Inventory Committee to complete the physical count of all inventory items and submit the corresponding RPCI and RPCPPE, semestral and annual, respectively;\nInstruct the Municipal Accountant and GSO-Designate reconcile the existing discrepancy between the balances per book and RPCPPE;\nCreate the necessary committees in order to facilitate the proper disposal of identified unserviceable and obsolete properties.\nInstruct the Municipal Account to effect the provision of depreciation on recognized Other Land Improvement and Infrastructure Asset accounts following the straight line method.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommended that Municipal Accountant facilitate the daily recording and timely submission of the monthly accounts in compliance with the above-cited provision in order to give the auditor reasonable time to determine the validity, propriety and completeness of the transactions, otherwise necessary appropriate sanction will be imposed.  Further, all noted unsubmitted vouchers should be transmitted to the Audit Team immediately.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2017-OBS3",
+      "year": 2017,
+      "recommendation": "Require all accountable officers and employees to immediately liquidate their outstanding cash advances giving more emphasis to prior year outstanding advances by issuing Demand Letter;\nResort to the withholding of salaries of accountable officers and employees who still fail to settle their cash advances;\nExert extra effort to recover outstanding cash advances from AO who are no longer in the service or connected with the municipality.\nInstruct the Municipal Accountant to strengthen internal control by strictly enforcing the provisions of PD No. 1445 and COA Circular No. 97-002.\nWe recommended and management agreed to strictly adhere to the provision of COA Circular No. 2009-0002 on granting of cash advances to LGU officials and employees.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We recommended that Officials and Employees immediately refund the loan repayments made under their account. Also, the Municipal Accountant should properly perform his duties to stop the incurrence of the same problem. Lastly, management to investigate on the wrongdoings of the accounting staff in-charge of payment of different remittances, appropriate action be given, if warranted.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommended and management agreed to stop granting laundry allowance to the Social Welfare Officer and compute the allowance of the Public Health Worker according to the existing rules and regulations to avoid overpayment of benefits.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We recommended that management compute the subsistence allowance on a per day basis. Also, an employee must have a written authority from the LCE before he/she could avail of subsistence allowance for “on-call” days to avoid situations where employees are paid for days that they are not allowed to receive Subsistence Allowance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2017-OBS7",
+      "year": 2017,
+      "recommendation": "We recommended that management require the contractual workers to refund the claimed per diems and incidental expenses on their travel outside the official station during the year.  When the workers are directed for a task which requires travel, they could only claim for actual fare from their station to that particular place and vice versa.\nAlso, Management stop the practice of allowing them in attending training and seminars and claim travelling expenses.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2017-OBS8",
+      "year": 2017,
+      "recommendation": "We recommended and management agreed to return to the source agency all unused/excess balance of fund transfer after the implementation of the project.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2017-OBS9",
+      "year": 2017,
+      "recommendation": "We recommended that the HRMO update the individual ledger on leave credits deducting all the tardinees/undertime/half-day of the employees.\nAlso, Management adopt appropriate mechanism to strictly monitor and record attendance of employees such as the use of biometric time clocks and other forms of attendance systems.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2017-OBS10",
+      "year": 2017,
+      "recommendation": "We recommended that Local Chief Executive reduce the number of contractual workers especially those performing clerical, administrative, janitorial and redundant services like the Executive Assistant. Hiring of workers should be made only as the need arises and be deployed only to offices where their services are needed most.\nAlso, formulate policy guidelines in hiring of contractual like conditions when services may be contracted, period within which the workers will render their services, qualification standards, required documents to be submitted by applicants and screening process.\nLastly, furnish the Audit team with copies of contract of employment within five days after its approval in order to facilitate review thereof. Ensure that conditions are clearly stated in the Contracts of Service and specify the following: a) expected outputs to facilitate comparison with the accomplishment report; b) specific period within which the work is to be accomplished; and c) source of funds for the payment of salaries.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2017-OBS11",
+      "year": 2017,
+      "recommendation": "We recommended and GSO Designate agreed to verify the Monthly Official Travels prepared by the drivers of each motor vehicles and based thereon prepare the Monthly Report of Fuel Consumption showing the type vehicle, total distance travelled, total fuel used and the normal fuel consumption for each vehicles so that the use of the LGU’s motor vehicle can be properly monitored. Submit the same to the Auditor as required in the regulations to determine the reasonableness of the fuel consumed during the period to avoid suspension and/or disallowance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2017-OBS12",
+      "year": 2017,
+      "recommendation": "We recommended and management agreed to adhere to the provisions embodied in COA Circular No. 101C to facilitate action on papers relative to suspension orders on government infrastructure contracts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2017-OBS13",
+      "year": 2017,
+      "recommendation": "We recommended that management properly observe the guidelines embodied in Annex E of the IRR of RA 9184 and collect the liquidated damages from the contractor. Further, the Municipal Engineer and Project Monitoring Committee to consistently monitor the infrastructure projects of the municipality to ensure its completion within the target date.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2017-OBS14",
+      "year": 2017,
+      "recommendation": "We recommended and management agreed to strictly observe the rules and regulations of COA Circular No. 92-386 that deliveries of purchases are first accepted by the GSO Designate and toube inspected by the Inspection Committee. Also, the Municipal Accountant is advised to require that Acceptance and Inspection Report be properly filled-out before effecting payment to suppliers.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2017-OBS15",
+      "year": 2017,
+      "recommendation": "We recommended management the following:\nThe Local Development Council and the Municipal Planning and Development Office (MPDO), together with the concerned implementing offices, in coordination with the Bids and Awards Committee, immediately look into the unimplemented projects under the 20% Development Fund and determine causes of their non-implementation. Formulate/develop specific strategies/solutions to effectively implement development projects. Consider formulating a timetable within which to complete the unimplemented projects;\nThe offices concerned vigorously pursue the completion of the projects to be implemented the soonest time possible in order to achieve the objectives of the said projects in providing socio-economic benefits to the intended beneficiaries.\nThe Municipal Engineering Office improve the planning and scheduling of work activities and manpower in order to facilitate completion of the Program of Work of unimplemented projects.\nThe MPDO enhance monitoring of implementation of projects in coordination with the implementing offices and to submit regularly status reports of implementation to the Municipal Mayor for his information so that appropriate measures can be instituted to obtain optimal utilization of fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2017-OBS16",
+      "year": 2017,
+      "recommendation": "We recommended that management ensure that the 20% Development Fund is allocated to finance projects for capital expenditure and/or in the nature of investments and contribute to the attainment of desirable socio-economic development and environment management outcome of the LGU.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2017-OBS17",
+      "year": 2017,
+      "recommendation": "We recommended that the liable personnel and officials immediately settle the subject of their audit disallowances in accordance with the rules and regulations on the settlement of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2017-PY1",
+      "year": 2017,
+      "recommendation": "We have recommended that the Inventory Committee reconcile the results of the physical inventory with the Accountant and to effect the necessary adjustments, where appropriate, in order to reflect the correct PPE balance as of December 31, 2016.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "No action undertaken to reconcile the result of the physical inventory with the records maintain in the accounting office.\n\nReiterated in finding No. 1"
+    },
+    {
+      "id": "Adams_IN-2017-PY2",
+      "year": 2017,
+      "recommendation": "We have recommended that the agency create the necessary committees in order to facilitate the proper disposal of identified unserviceable and obsolete properties.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Reiterated in finding No. 1"
+    },
+    {
+      "id": "Adams_IN-2017-PY3",
+      "year": 2017,
+      "recommendation": "We have recommended that the GSO-Designate and Accounting Department work together to reconcile the physical inventory count and accounting record and verify the unaccounted properties.  Also recommended that the agency collect from the accountable officers the value of the properties that were lost and those which cannot be ascertained on its whereabouts. We have further recommended that the Property Acknowledgement Receipt be renewed every three years or as often as necessary.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "No action undertaken to ascertained the whereabouts of the properties"
+    },
+    {
+      "id": "Adams_IN-2017-PY4",
+      "year": 2017,
+      "recommendation": "We have recommended and management agreed to reclassify the proper inventory account of the tangible assets with estimated useful life of more than one year but small enough to be considered as PPE. An Inventory Custodian Slip (ICS) shall be prepared upon issuance of small tangible items for monitoring, control and accountability.",
+      "managementAction": "Reclassification of proper inventory account",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Adams_IN-2017-PY5",
+      "year": 2017,
+      "recommendation": "We have recommended and management agreed, that the Municipal Accountant facilitate the daily recording and timely submission of the monthly accounts in compliance with the above-cited provision in order to give the auditor reasonable time to determine the validity, propriety and completeness of the transactions.",
+      "managementAction": "Submitted some vouchers, payrolls and collection reports",
+      "status": "UNKNOWN",
+      "reason": "There are still unsubmitted vouchers totaling P907,072.17\n\nReiterated in finding No. 2"
+    },
+    {
+      "id": "Adams_IN-2017-PY6",
+      "year": 2017,
+      "recommendation": "We have recommended that management strictly enforce COA Circular No. 97-002 dated February 10, 1997 on the granting, utilization and liquidation of cash advances. We have further, recommended that management cause or order the withholding of any money claims against accountable officers concerned until they have fully settled their cash advances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Reiterated in finding No. 3"
+    },
+    {
+      "id": "Adams_IN-2017-PY7",
+      "year": 2017,
+      "recommendation": "We have recommended that the MPDC prepare an accounting report and recognize the necessary revenue generated from the sale of the soft broom inventory. Also the Accountant and the MPDC reconcile their records regarding the fund used in the soft broom production of the municipality.",
+      "managementAction": "Directed the MPDC to prepare the  required report within thirty (30) days and  furnished his reports to  COA and Accounting Office for record and evaluation purposes.",
+      "status": "UNKNOWN",
+      "reason": "No report submitted to Audit Team\n\nReiterated in finding No. 4"
+    },
+    {
+      "id": "Adams_IN-2017-PY8",
+      "year": 2017,
+      "recommendation": "Require the Office of the Municipal Accountant to check properly the amount on the payroll deductions as well as the corresponding amount of the remittances. Furthermore, we have strongly recommended to strictly impose the NO PAYROLL DEDUCTION NO REMITTANCE policy. Thus, no remittance be made for the account of any LGU officials and employees without corresponding deductions in the monthly payroll of the concerned LGU personnel.\n\nRequire the concerned personnel to immediately refund the over remittance made by the LGU for their accounts without corresponding salary deductions in their respective monthly payrolls.\n\nRequire the Office of the Municipal Accountant to regularly update the subsidiary ledgers for all loans availed by the municipal employees granted by GSIS and other financing institutions reflecting its respective payroll deductions and remittances to facilitate prompt and accurate amount of remittances as well as strengthening the internal control system on the loan remittances of the municipality.",
+      "managementAction": "Directed  the Office of the Municipal Accountant to  properly checked the payroll before approving the remittance, any  further omission will constraint the municipality to the employee concerned in the shared of liability\n\n\n\n\nDirected all officials and employees  concerned to pay the corresponding amount, if no sufficient amount as the case maybe shall be deducted regularly in their payroll until such time that they fully settled their obligations",
+      "status": "UNKNOWN",
+      "reason": "As of December 31, 2017 Due from Officers and  employees worth P110,337.65 represents the paid loan amortization without cash backing. The outstanding balance had been issued with Notice of Disallowances.\n\nAccounting office continued to remit loan amortization of various employees and officials without payroll deductions.\n\nReiterated in finding No. 4"
+    },
+    {
+      "id": "Adams_IN-2017-PY9",
+      "year": 2017,
+      "recommendation": "We have recommended that the participants prepare and submit their terminal reports. Also, a status of activities replicated by the agency, if any be submitted. We have further recommended the agency to refrain from pursuing activities that are not related to objectives of GO-FAR activity and focus only on identified activities that are relevant to the objectives of the program.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Required reports are not yet submitted to the Audit Team."
+    },
+    {
+      "id": "Adams_IN-2017-PY10",
+      "year": 2017,
+      "recommendation": "We have recommended and management agreed to stop the practice of splitting purchase requisitions or contracts pursuant to COA Circular No. 76-41, and Section 54.1 of IRR of RA 9184, to promote effective competition and transparency in the procurement process and obtain a fair and equitable contract for the best interest of the government.",
+      "managementAction": "Implemented the audit recommendation",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Adams_IN-2017-PY11",
+      "year": 2017,
+      "recommendation": "We have recommended and management agreed, that the municipal officials and employees who participated in the GO-FAR Tour submit the documentary requirements needed in the payment of their traveling expenses.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Required reports are not yet submitted to the Audit Team."
+    },
+    {
+      "id": "Adams_IN-2017-PY12",
+      "year": 2017,
+      "recommendation": "We have recommended that management instruct the Bids and Awards Committee (BAC) Secretariat to submit copies of perfected contracts and its supporting documents within the prescribed period to facilitate review and evaluation of the contracts.",
+      "managementAction": "Implemented the audit recommendation",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Adams_IN-2017-PY13",
+      "year": 2017,
+      "recommendation": "We have recommended that the BAC strictly comply with the provisions of Sections 37.1.6 and 37.4.2 of the Revised Implementing Rules and Regulations of RA 9184 in order to establish transparency in the municipality’s procurement process.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Management failed to post Notice of Award\nAnd Notice to Proceed in the PhiGEPS website"
+    },
+    {
+      "id": "Adams_IN-2017-PY14",
+      "year": 2017,
+      "recommendation": "We have recommended that authority to travel be granted only to personnel directly involved in the conduct of an activity. We have further recommended the refund of P23,322.00 by the municipal employee considering that such is an irregular expenditure.",
+      "managementAction": "Directed  the  concerned employee to pay the said amount chargeable against his/her payroll deduction until he/she fully settled the said amount dis-allowed",
+      "status": "UNKNOWN",
+      "reason": "Amount for refund is not yet settled."
+    },
+    {
+      "id": "Adams_IN-2017-PY15",
+      "year": 2017,
+      "recommendation": "We have recommended that the agency refrain and discontinue the grant of communication allowances to selected government officials and employees and adhere with the provisions of COA Circulars 2013-003 and 2012-001.",
+      "managementAction": "Management stopped granting communication allowance to selected government officials and employees",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Adams_IN-2017-PY16",
+      "year": 2017,
+      "recommendation": "We have recommended and management agreed, to adhere strictly to the provisions of DSWD Administrative Order No. 5, Series of 2008, as amended by DSWD Administrative Order No. 1, Series of 2011 and Section 4(6) of P. D. 1445 for proper evaluation on the necessity and propriety of the financial assistance granted to individuals in crisis situation.",
+      "managementAction": "Adhere to the required documents on granting financial assistance to individuals in crisis situation.",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Adams_IN-2017-PY17",
+      "year": 2017,
+      "recommendation": "We have recommended that the municipality refrain from entering into contracts with Kabulon Multi-Purpose Cooperative for it is contrary to Section 47.1 and 47.2 of the RIRR of RA 9184.",
+      "managementAction": "Management did not enter into any contract with Kabulon Multi-Purpose Cooperative",
+      "status": "UNKNOWN",
+      "reason": "Complied"
+    },
+    {
+      "id": "Adams_IN-2017-PY18",
+      "year": 2017,
+      "recommendation": "We have recommended that management require the Municipal Engineer to provide justification on the delayed completion of the abovementioned projects and implement an efficient monitoring system for all on-going projects. Also, the Municipal Accountant is advised to impose liquidated damages.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Management failed to timely monitor the completions of infrastructure projects.\n\nReiterated in finding No. 13"
+    },
+    {
+      "id": "Adams_IN-2017-PY19",
+      "year": 2017,
+      "recommendation": "We have recommended that management should comply with the Provisions of RA 7160 which clearly requires Sanggunian ordinance or resolutions prior to project prosecution.",
+      "managementAction": "The management is taking an appeal related to the disallowance of the payment amounting to P3,751,497.37. However, in its succeeding program/project implementation, they make certain that they will to comply with the Provisions of RA 7160.",
+      "status": "UNKNOWN",
+      "reason": "A Notice of Disallowance had been issued on the payments made.  Sanggunian Resolution was required before  the posting of Invitation to Bid."
+    },
+    {
+      "id": "Adams_IN-2017-PY20",
+      "year": 2017,
+      "recommendation": "We recommended that management require the contractors to post the Warranty Securities of the completed infrastructure projects to assure for the protection/guarantee against possible structural defects/failures that may occur during the applicable warranty period.",
+      "managementAction": "The management could hardly implement such provision but they will try to comply with the said rules and regulations.",
+      "status": "UNKNOWN",
+      "reason": "Management failed to require the contractors to post Warranty Security on completed and accepted project"
+    },
+    {
+      "id": "Adams_IN-2017-PY21",
+      "year": 2017,
+      "recommendation": "We have recommended the refund of the excess amount of Productivity Enhancement Incentive granted to officials and employees. Also, the management should strictly adhere with the provision of EO No. 80 specifically on the authorized amount to be granted for the payment of PEI.",
+      "managementAction": "A monthly deduction from the payroll of the concerned officials and employees starting November 2016 had been made. Likewise such disallowance were deducted from the claims of Terminal Leave Pay of the affected officials and employees.",
+      "status": "UNKNOWN",
+      "reason": "Partial payment of concerned officials and employees"
+    },
+    {
+      "id": "Adams_IN-2016-OBS1.1",
+      "year": 2016,
+      "recommendation": "We have recommended that the Inventory Committee reconcile the\nresults of the physical inventory with the Accountant and to effect the\nnecessary adjustments, where appropriate, in order to reflect the correct\nPPE balance as of December 31, 2016.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-OBS1.2",
+      "year": 2016,
+      "recommendation": "We have recommended that the agency create the necessary\ncommittees in order to facilitate the proper disposal of identified\nunserviceable and obsolete properties.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-OBS1.3",
+      "year": 2016,
+      "recommendation": "We have recommended that the GSO-Designate and Accounting\nDepartment work together to reconcile the physical inventory count and\naccounting record and verify the unaccounted properties. We have also\nrecommended that the agency collect from the accountable officers the value\nof the properties that were lost and those which cannot be ascertained on its\nwhereabouts. We have further recommended that the Property\nAcknowledgement Receipt be renewed every three years or as often as\nnecessary.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-OBS1.4",
+      "year": 2016,
+      "recommendation": "We have recommended and management agreed to reclassify the\nproper inventory account of the tangible assets with estimated useful life of\nmore than one year but small enough to be considered as PPE. An Inventory\nCustodian Slip (ICS) shall be prepared upon issuance of small tangible items\nfor monitoring, control and accountability.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We have recommended and management agreed, that the Municipal\nAccountant facilitate the daily recording and timely submission of the monthly\naccounts in compliance with the above-cited provision in order to give the\nauditor reasonable time to determine the validity, propriety and completeness of\nthe transactions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We have recommended that management strictly enforce COA Circular\nNo. 97-002 dated February 10, 1997 on the granting, utilization and liquidation\nof cash advances. We have further, recommended that management cause or\norder the withholding of any money claims against accountable officers\nconcerned until they have fully settled their cash advances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We have recommended that the MPDC prepare an accounting report and\nrecognize the necessary revenue generated from the sale of the soft broom\ninventory. Also the Accountant and the MPDC reconcile their records regarding\nthe fund used in the soft broom production of the municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We have recommended the following:\n1. Require the Office of the Municipal Accountant to check properly the\namount on the payroll deductions as well as the corresponding amount of\nthe remittances. Furthermore, we have strongly recommended to strictly\nimpose the NO PAYROLL DEDUCTION NO REMITTANCE policy.\nThus, no remittance be made for the account of any LGU officials and\nemployees without corresponding deductions in the monthly payroll of\nthe concerned LGU personnel.\n2. Require the concerned personnel to immediately refund the over\nremittance made by the LGU for their accounts without corresponding\nsalary deductions in their respective monthly payrolls.\n3. Require the Office of the Municipal Accountant to regularly update the\nsubsidiary ledgers for all loans availed by the municipal employees\ngranted by GSIS and other financing institutions reflecting its respective\npayroll deductions and remittances to facilitate prompt and accurate\namount of remittances as well as strengthening the internal control\nsystem on the loan remittances of the municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-OBS6.1",
+      "year": 2016,
+      "recommendation": "We have recommended that the participants prepare and submit their\nterminal reports. Also, a status of activities replicated by the agency, if any\nbe submitted. We have further recommended the agency to refrain from\npursuing activities that are not related to objectives of GO-FAR activity and\nfocus only on identified activities that are relevant to the objectives of the\nprogram.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-OBS6.2",
+      "year": 2016,
+      "recommendation": "We have recommended and management agreed to stop the practice\nof splitting purchase requisitions or contracts pursuant to COA Circular No.\n76-41, and Section 54.1 of IRR of RA 9184, to promote effective competition\nand transparency in the procurement process and obtain a fair and equitable\ncontract for the best interest of the government.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-OBS6.3",
+      "year": 2016,
+      "recommendation": "We have recommended and management agreed, that the municipal\nofficials and employees who participated in the GO-FAR Tour submit the\ndocumentary requirements needed in the payment of their traveling\nexpenses.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-OBS7.1",
+      "year": 2016,
+      "recommendation": "We have recommended that management instruct the Bids and\nAwards Committee (BAC) Secretariat to submit copies of perfected contracts\nand its supporting documents within the prescribed period to facilitate\nreview and evaluation of the contracts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-OBS7.2",
+      "year": 2016,
+      "recommendation": "We have recommended that the BAC strictly comply with the\nprovisions of Sections 37.1.6 and 37.4.2 of the Revised Implementing Rules\nand Regulations of RA 9184 in order to establish transparency in the\nmunicipality’s procurement process.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We have recommended that authority to travel be granted only to\npersonnel directly involved in the conduct of an activity. We have further\nrecommended the refund of P23,322.00 by the municipal employee considering\nthat such is an irregular expenditure.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-OBS9",
+      "year": 2016,
+      "recommendation": "We have recommended that the agency refrain and discontinue the grant\nof communication allowances to selected government officials and employees\nand adhere with the provisions of COA Circulars 2013-003 and 2012-001.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-OBS10",
+      "year": 2016,
+      "recommendation": "We have recommended and management agreed, to adhere strictly to the\nprovisions of DSWD Administrative Order No. 5, Series of 2008, as amended by\nDSWD Administrative Order No. 1, Series of 2011 and Section 4(6) of P. D. 1445\nfor proper evaluation on the necessity and propriety of the financial assistance\ngranted to individuals in crisis situation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-OBS11",
+      "year": 2016,
+      "recommendation": "We have recommended that the municipality refrain from entering into\ncontracts with Kabulon Multi-Purpose Cooperative for it is contrary to Section\n47.1 and 47.2 of the RIRR of RA 9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-PY1",
+      "year": 2016,
+      "recommendation": "We have recommended that the GSO-Designate coordinate with the Accountant to reconcile the result of the physical inventory and to effect the necessary adjustments, where appropriate, in order to reflect the correct PPE balance as of December 31, 2015.",
+      "managementAction": "An Inventory Committee has been created by the local chief executive. The GSO-Designate and Municipal Accountant had done the reconciliation however, there is still an unreconciled difference which is subject for further reconciliation.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-PY2",
+      "year": 2016,
+      "recommendation": "We have recommended that the GSO-Designate prepare the IIRUP and facilitate the disposal of the unserviceable and obsolete properties in order to reflect the correct value of Property, Plant and Equipment in the financial statements.",
+      "managementAction": "The GSO-Designate is in the process of preparing the IIRUP. However some report properties were not yet located by the GSO-Designate.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-PY3",
+      "year": 2016,
+      "recommendation": "We have recommended management to ensure strict compliance in the granting and liquidation of cash advances, and adopt the following measures:\n1. Require all accountable officers to liquidate their cash advances within the prescribed period as required under COA Circular No. 97-002.\n2. The municipality should refrain granting of cash advances to elected officials except cash advance for traveling expenses.\n3. Cause or order the withholding of any money claims against the accountable officers concerned until they have fully settled their cash advances.",
+      "managementAction": "The management required the concerned municipal officials and employees to liquidate their cash advances thus, only the amount of P26,459.00 remained unliquidated as of Dec. 2016 which relates to those accountable officers who were already living abroad and one who was already dead. The management is trying to connect with the said accountable officers or their immediate relatives.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-PY4",
+      "year": 2016,
+      "recommendation": "We have recommended that the Municipal Mayor should consider the necessity, urgency and number of participants in issuing the authority to travel in order to save funds.",
+      "managementAction": "The Municipal Mayor has been approving to travel only to those attending participants which are necessary in the exigency of their services.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-PY5",
+      "year": 2016,
+      "recommendation": "We have recommended that management require the accountable officers to submit the necessary documents and requirements for the said foreign travel. Inability to submit the required documents is subject to suspension of the accounts.",
+      "managementAction": "The management required the municipal employees were preparing their narrative report and the subject for immediate submission. The 3 municipal employees who attended the conference were already submitted to the Office of the Auditor.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-PY6",
+      "year": 2016,
+      "recommendation": "We have recommended that the Municipal Accountant prepare regularly the monthly bank reconciliation statements and submit the reports thereon. Also the following measures should be adopted.\n1. Require the Accountant to determine the cause/causes of the reconciling difference of P194,449.14 and make the necessary adjustments.\n2. Inform the bank that the BIR remittances of the municipality for the months of September and December 2015 were deducted twice in the municipality's account.\n3. Prepare adjusting entries to correct the deficiencies noted.",
+      "managementAction": "The Municipal Accountant had been preparing the monthly bank reconciliation regularly and necessary adjustments were taken up. A letter has been served to the bank but they informed management to refer the matter to the Bureau of Internal Revenue for it is already remitted to the said agency. A verbal query was made by the Municipal Accountant to the BIR representative assigned to the LGU but no reply has been received. A follow-up request letter will be made to the BIR.\nThe necessary adjustments were properly taken up.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-PY7",
+      "year": 2016,
+      "recommendation": "We recommend that the Municipal Accountant and Treasurer enjoin all officials and employees of the municipality to comply with the requirements set forth under Section 48 of the General Appropriations Act and adopt control measures to ensure that the employee’s monthly net take home pay shall not be lower than P3,000.00.",
+      "managementAction": "The management is complying with the said provision beginning March 2016 payroll. Net take home pay of employees were already P3,000.00 or more since March 2016.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-PY8",
+      "year": 2016,
+      "recommendation": "We have recommended that management should comply with the Provisions of RA 7160 which clearly requires Sanggunian ordinance or resolutions prior to project prosecution.",
+      "managementAction": "The management is taking an appeal related to the disallowance of the payment amounting to P3,751,497.37. However, in its Resolution was succeeding required before the posting of Invitation to Bid.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-PY9",
+      "year": 2016,
+      "recommendation": "We have recommended that management instruct the Municipal Treasurer to deduct from the succeeding payroll the amount remitted in favor of the above-mentioned municipal employees in order to adjust the abnormal balance of the account Due to Pag-IBIG.",
+      "managementAction": "Most of the concerned employees refunded the amount due from them totaling P2,737.46.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-PY10",
+      "year": 2016,
+      "recommendation": "We have recommended that management instruct the Municipal Accountant and Municipal Treasurer to transfer the unutilized balance of the LDRRMF to the Special Trust Fund account in the Trust Fund books in compliance with Section 5.1.10 of COA Circular 2012-002.",
+      "managementAction": "The unutilized balance of the LDRRMF had been actually transferred to the Special Trust Fund last October 2016.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-PY11",
+      "year": 2016,
+      "recommendation": "We have recommended that the Municipal Accountant should facilitate the daily recording and timely submission of the monthly accounts in compliance with the above-cited provision in order to give the auditor reasonable time to determine the validity, legality and propriety of the transactions.",
+      "managementAction": "The management see to it that they were to submit the said documents on the prescribed period of time.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-PY12",
+      "year": 2016,
+      "recommendation": "We have recommended management to require the Bids and Awards Committee (BAC) Secretariat to submit copies of perfected contracts within the prescribed period to facilitate review and evaluation of the contracts.",
+      "managementAction": "The new set of Bids and Awards Committee (BAC) had submitted some copies of contracts and their supporting documents to the Office of the Auditor within 5 days but some were submitted beyond the prescribed period.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-PY13",
+      "year": 2016,
+      "recommendation": "We recommended that management require the contractors to post the Warranty Securities of the completed infrastructure projects to assure for the protection/guarantee against possible structural defects/failures that may occur during the applicable warranty period.",
+      "managementAction": "The management could hardly implement such provision but they will try to comply with the said rules and regulations.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-PY14",
+      "year": 2016,
+      "recommendation": "We have recommended that management agreed, that agency require the Appraisal Committee in recognizing the value of these properties which will serve as their basis in recording the value of the donated properties.",
+      "managementAction": "Donated properties particularly those from the DOH were already recorded both in the RPCPPE and books of accounts. The donated properties from a private individual remained unrecorded in the books because no appraisal had been made on the value of these properties.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-PY15",
+      "year": 2016,
+      "recommendation": "We have recommend that GSO-Designate and Accounting Department work together to reconcile the physical inventory count and accounting record and verify the unaccounted properties. Attention should be given to properties held by individuals no longer connected with the agency, and those which cannot be ascertained on its whereabouts. We further recommended that the Property Acknowledgement Receipt be renewed every three years or as often as necessary.",
+      "managementAction": "Some properties were located by the GSO-Designate, however these properties were destroyed/unserviceable.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Adams_IN-2016-PY16",
+      "year": 2016,
+      "recommendation": "We have recommended that MPDO prepare an accounting report and recognize the necessary revenue generated from the sale of the soft broom inventory. Also, the Accountant and the MPDO need to reconcile their records regarding the fund used in the soft broom production.",
+      "managementAction": "No action undertaken.",
+      "status": "UNKNOWN",
+      "reason": "No report had been submitted by the MPDO."
+    },
+    {
+      "id": "Adams_IN-2016-PY17",
+      "year": 2016,
+      "recommendation": "We have recommended the refund of the excess amount of Productivity Enhancement Incentive granted to officials and employees. Also, the management should strictly adhere with the provision of EO No. 80 specifically on the authorized amount to be granted for the payment of PEI.",
+      "managementAction": "A monthly deduction from the 37 payroll of the concerned officials and employees starting November 2016 had been made. As of December 2016 the amount of P131,000.00 refunded. Likewise such disallowance were deducted from the claims of Terminal Leave Pay of the affected officials and employees.",
+      "status": "UNKNOWN",
+      "reason": ""
+    }
+  ]
+}

@@ -1,0 +1,1790 @@
+{
+  "lguCode": "701245000",
+  "lguName": "Tubigon",
+  "province": "Bohol",
+  "region": "Region VI (Western Visayas)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY2",
+      "year": 2023,
+      "recommendation": "We recommended management to require the Municipal Accountant to record all taxes due to the government using the prescribed account Due to BIR and not transfer year-end balances to Accounts Payable/Due to Other Funds or Due to Officers and Employees in order reflect the correct balances in the financial statements.  Hence, we suggest the following adjustments.\n\nAccounts Payable  \t       1,487,562.12\nDue to O/E  \t                        138,221.84 \nDue to Other Funds\t          198,688.95\nDue to BIR                         1,824,472.91\n\nFurther, we also recommended that taxes paid by the GF be immediately refunded by the SEF or TF.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY4",
+      "year": 2023,
+      "recommendation": "We recommended that management fast-track the synchronization of data between the assessment roll by the Municipal Assessor with the certified list of taxpayers by the Municipal Treasurer to ensure the accuracy of the computed real property taxes collectible – both delinquent taxes and taxes due for the current year.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY7",
+      "year": 2023,
+      "recommendation": "We recommended that management implement immediately and accordingly the purpose of trust receipts. Otherwise, evaluate the need of these unexpended balances of aid/financial assistance from different source agencies. Should these funds prove to be no longer needed, revert to the unappropriated surplus of the General Fund.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY17",
+      "year": 2023,
+      "recommendation": "We recommended that the management exert efforts in filling-up the vacant plantilla positions subject to existing civil service laws, rules and regulations. Likewise, we recommended that management properly evaluate the needs of every office or department to augment the manpower requirement to ensure fast and satisfactory delivery of services to the general public.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY22",
+      "year": 2023,
+      "recommendation": "We recommended that management instruct the Municipal Accountant to submit the disbursement vouchers together with monthly trial balances and journals on the 20th day of the following month as duly required in the NGAS Manual to facilitate the verification of transactions and reports of the LGU.  Ensure that all supporting documents are complete before processing the claims.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY23",
+      "year": 2023,
+      "recommendation": "We recommended that management has to see to it that allowable funding source for the payment of benefit (CNA) is in accordance with Section 4.3.1. of DBM BC 2021-3.  Further, we recommended the officials and employees to refund immediately the excess payment of the 2020 and 2021 CNA benefits.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY24",
+      "year": 2023,
+      "recommendation": "We recommended that management stop the practice of procuring office supplies and equipment on staggered basis thru alternative mode of small value procurement and adhere to the provisions of Section 7.2 and 7.3 of RA 9184 which requires that all procurement shall be done through competitive public bidding.  Limit the use of the alternative modes of procurement only when the circumstances warrant which fall within the provisions of Section 52 and Section 53 of RA 9184.  Henceforth, instruct the respective end-users of the different offices to meticulously and religiously plan the procurement of office supplies needed for the efficient operations of the LGU.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY25",
+      "year": 2023,
+      "recommendation": "We recommended that management submit explanation on the discrepancies noted during the initial review of the contracts.  It is recommended that the excessive contract amount caused by the higher tax rate which had disadvantaged the government be refunded by the persons liable.   Henceforth, it is reminded that the BAC review and recalculate properly all bid proposals to ensure correct computations and compliant with laws, rules and regulations.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY28",
+      "year": 2023,
+      "recommendation": "We recommended that management require the respective barangays to return the unspent financial assistance given to them because it had lapsed the period for implementation so that other recipients can benefit therefrom.  Henceforth, the Municipal Accountant has to impose immediate utilization and liquidation of fund transfers within the reglementary period, otherwise, disqualify non-compliant barangays from receiving financial assistance/fund transfer.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-OBS1",
+      "year": 2023,
+      "recommendation": "We recommended and the Municipal Accounting Office agreed to trace the entries made in the Government Equity account in the Trust Fund and prepare adjusting journal entry to correct the misstatement from prior years pursuant to the applicable accounting standards.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-OBS2",
+      "year": 2023,
+      "recommendation": "We recommended and the Municipal Accountant agreed to reconcile the balances of reciprocal accounts and prepare necessary adjusting entries thereof. Any balances which require more time to reconcile like inherited balances shall be disclosed in the notes to the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-OBS3",
+      "year": 2023,
+      "recommendation": "We recommended and the Municipal Accountant agreed to immediately stop the accrual of revenues other than the IRA and RPT. Subsequently, she agreed to reconcile with the individual records of the related economic enterprise and determine which accrued revenues remain outstanding. Lastly, outstanding accrued revenues shall be closed as follows.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-OBS4",
+      "year": 2023,
+      "recommendation": "We recommended and the management agreed to require the Inventory Committee to prioritize and ensure full implementation of the “One-time cleansing of PPE accounts” in accordance with COA Circular No. 2020-006. The management also agreed to require the Municipal Accountant and Municipal GSO/Municipal Treasurer to maintain and update the Property, Plant and Equipment Ledger Cards (PPELC) and Property Cards (PC) for proper monitoring and reconciliation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-OBS5",
+      "year": 2023,
+      "recommendation": "We recommended and the Municipal Accountant, Municipal Treasurer and the Internal Audit Service agreed to monitor and remind the Municipal Mayor’s Office on the timely submission of the Confidential Fund transmittal letters with complete documents to the Audit Team Leader within the period specified in the Joint Circular.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-OBS6",
+      "year": 2023,
+      "recommendation": "We recommended and the LDRRMO agreed to submit  the Monthly Reports on Sources and Utilization of DRRMF not later than the 15th day after the end of each month to enable the auditor to conduct the timely review, verification and monitoring of the sources and utilization of LDRRMF, thus deficiencies if any, shall be communicated to management for the latter’s immediate and appropriate action.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-OBS7",
+      "year": 2023,
+      "recommendation": "We recommended that management discontinue the practice of granting cash advances to accountable officers in amounts exceeding their corresponding maximum cash accountability. Otherwise, the management increase the fidelity bond of the AO to cater to the maximum cash accountability per cash advance drawn.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-OBS8",
+      "year": 2023,
+      "recommendation": "We recommended and the Municipal Accountant agreed to send demand letters for receivables attributable to private individuals and businesses. Furthermore, the management agreed to avail of the civil remedies if collection is difficult to enforce.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY1",
+      "year": 2023,
+      "recommendation": "We recommended that management require the Municipal Accountant to record transactions to its appropriate accounts as required in COA Circular No. 2015-009 in order to present accurate balances of the accounts in the year-end financial statements.  We also require the adjustment of the payables that remained unrecognized as of year- end to with:\n\nOffice Equipment   \t            69,296.96 \nCIP- Infrastructure Assets       432,400.00 \nR&M -Heavy Equipment           89,740.35 \nGasoline Expenses                        45,322.76 \nElectricity Expenses\t              1,646.75 \nOther MOOE\t                        331,496.12 \nSubsidy to Other Funds          243,455.77 \nDonations\t                     1,731,300.00\nPrior Year’s Adjustment          967,092.13\nAccounts Payable                      1,275,675.21 \nOther Payables   \t            1,668,983.50\nOffice Equipment\t               121,000.00\nFuel, Oil Expenses\t               235,965.75\nOther General Services               172,144.55\nOther Sup & Mat. Invty                 47,709.18\nMedical, Dental, Sup Invty          47,988.00\nOffice Supplies Inventory            39,564.48\nFood supplies for dist                  122,780.00\nRM Infra Assets\t                 90,000.00\nTraining Expenses\t                 25,000.00\nRent Expense\t                 10,000.00\nElectricity \t                                 5,702.67\nTrust Liabilities\t                 49,237.50",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY3",
+      "year": 2023,
+      "recommendation": "We recommended that management require the Municipal Accountant to record the transaction to its appropriate account in accordance with COA Circular 2015-008. Also prepare reclassification entries for these transactions, as suggested below.\n\nCIP Infra Assets                       1,217,210.30\nR&M Infra Assets                         9,600.00\nBuildings                                       1,217,210.30\nOther Land Improv.                           9.600.00",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY5",
+      "year": 2023,
+      "recommendation": "We recommended and management agreed to direct the Municipal Accountant to record the transaction to its appropriate account and effect an adjusting journal entry as follows:\n\nRoad Networks                             391,925.00\n      Land\t               391,925.00",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY6",
+      "year": 2023,
+      "recommendation": "We recommended and management agreed that the municipal accountant depreciate the depreciable components of the road network at cost and effect the necessary adjusting journal entries in the books of accounts to present the correct amount of Road Networks and Depreciation- Infrastructure Assets accounts in the financial statements. Suggested entries follow:\n\nDepreciation Expense\t          127,829.42\nPrior Year's Adjusment               12,631.17\nAccum.Depreciation                    140,461.13",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY8",
+      "year": 2023,
+      "recommendation": "We recommended that management direct the Municipal Accountant to use appropriate account titles in recording prepayments of real property tax and the related discounts, reconcile their records with the Municipal Treasurer’s records, and effect adjusting journal entries to bring the affected accounts to their accurate balances. Henceforth, ensure the regular reconciliation of records between the Accounting Office and the Treasury Office to avoid variances in recorded amounts.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY9",
+      "year": 2023,
+      "recommendation": "We recommended that trust funds have to be used only for the intended purpose of the fund.  It has to be managed based on careful selection of transactions that are allowable to be charged to avoid disallowances in audit at the same time, cater to the needs of the beneficiaries for which the financial assistance was granted.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY10",
+      "year": 2023,
+      "recommendation": "We recommended and management agreed to ensure that all procurements undertaken are within the approved annual procurement plan and the HOPE has to approve any changes in the original APP to ensure that only projects that are crucial to the effective discharge of government mandates are included.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY11",
+      "year": 2023,
+      "recommendation": "We recommended that management issue a Certificate of Final Acceptance one year after the completion date and require a warranty security in accordance with Section 62.2.3.4 of the Revised IRR of RA No. 9184 to ensure that the contractor is held liable for any structural defects and failures that might occur on the infrastructure project within the applicable period.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY12",
+      "year": 2023,
+      "recommendation": "We recommended that management require an explanation from the BAC on the absence of the approval of the HOPE that authorizes the SPP.  Henceforth, all Annual or Supplemental Procurement Plans shall bear the approval of the HOPE or his designated second ranking official.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY13",
+      "year": 2023,
+      "recommendation": "We recommended that the management, through its MDRRMO, comply with COA Circular No. 2012-02 dated September 12, 2012 and NDRRMC, DBM, and DILG Joint Memorandum Circular No. 2013-01 dated March 25, 2013 by ensuring that the LDRRMFIP shall include the list of projects and activities charged to the unexpended LDRRMF of previous years. Further, submit the investment plan for those expenditures charged to the STF.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY14",
+      "year": 2023,
+      "recommendation": "We recommend that the Local Chief Executive and the LDRRMC strictly adhere to the guidelines set under the pertinent sections of JMC No. 2013-1 in the appropriation and utilization of the LDRRMF by not charging the expenses related to the repairs and maintenance of the vehicles.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY15",
+      "year": 2023,
+      "recommendation": "We recommended that management require the AAO to perform his responsibilities as required by GSIS so that similar incidents will be avoided in the future.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY16",
+      "year": 2023,
+      "recommendation": "We recommended that management stop granting load allowance to COS since their contracts clearly stipulates that they are not entitled to benefits enjoyed by regular employees.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY18",
+      "year": 2023,
+      "recommendation": "We recommended and management agreed that brand names of the medicines be indicated on the Purchase Order as reference to the item being bid out and actual delivery. Further, we require compliance of the documentary requirements per COA Circular 2012-001 for subsequent procurement of medicines.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY19",
+      "year": 2023,
+      "recommendation": "We recommended that management review the projects appropriated in the current and continuing appropriations and determine if they are still feasible. Henceforth, ensure that developmental projects incorporated in the Annual Investment Plan (AIP) for the 20% Local Development Fund are implementation ready within an acceptable time frame.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY20",
+      "year": 2023,
+      "recommendation": "We recommended that management require the MSWDO to coordinate with the punong barangays and other focal persons to ensure that beneficiaries are properly validated to avoid duplication in the listing or inclusion of disqualified beneficiaries.  Henceforth, the MSWDO has to update its records of all the low-income and vulnerable sectors of the society to ensure that they are the actual and valid recipients of any cash assistance extended by the government.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY21",
+      "year": 2023,
+      "recommendation": "We recommended and management agreed to refrain from passing ordinances for salary differential for JOs and COs because this is contrary to laws, rules and regulations nearing year-end.  To address the financial constraints of these JOs and COs who belongs to the low income group, strategized and evaluate the necessary JOs and COs so that the daily wage stipulated in the contracts are much higher than the existing rates paid to these personnel.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY26",
+      "year": 2023,
+      "recommendation": "We recommended that management see to it that acquisition of land has to be in accordance with the provisions of RA 10792. Also, submit an explanation of its non-adherence to the requirements on the purchase of lot by government agencies. It is recommended further that any future transactions involving purchase of real property has to be in accordance with the rules and regulations to protect the interest of the government.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY27",
+      "year": 2023,
+      "recommendation": "We recommended that management require all officials and employees concerned and responsible in the preparation, approval of trip tickets and authorization of passenger/s to ensure that driver’s trip ticket is duly and properly accomplished and approved before undertaking the trip. Also, require the preparation of the Monthly Report of Official Travel for each vehicle and the Fuel Consumption Report, and submit the same to the auditor for evaluation of the reasonableness of fuel consumption.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY29",
+      "year": 2023,
+      "recommendation": "Require the Acting Municipal Treasurer to withhold the payment of the salaries or any amount due to the persons liable for the settlement of their liabilities pursuant to the ND/Decision and COA Order of Execution;\n\nRequire the Municipal Accountant to demand settlement/payment of the unpaid balance of disallowance from municipal officials/employees who had already separated from service.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Bohol__Tubigon_Bohol-2023-PY30",
+      "year": 2023,
+      "recommendation": "We recommended that Management require the Municipal Treasurer to demand for the issuance of an official receipt of the Government by the recipient Leagues concerned in order to support the release of financial aid and annual dues to the latter, pursuant to Section 69 of the GAAM, Volume I.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-PY18",
+      "year": 2021,
+      "recommendation": "It is recommended that the Municipal Treasurer shall furnish the accountant duly certified list showing the names of taxpayers and the amount due and collectible for the year to the Municipal Accountant at the beginning of the year.  Based on the list, the Municipal Accountant shall prepare the journal entry vouchers for the setting up of Real Property Tax Receivable at the beginning of the year.",
+      "managementAction": "AAR 2020 – Reiterated in Part II of this report | The amount set-up for CY 2021 was based on the delinquent taxes and not on the taxpayer’s index cards because the tax declarations of sold lots were not yet updated.  If the target collections will be based on the tax payers’s index, there is a possibility of double recording.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The audit team conducted analysis of the collections of real property tax during the year and noted that the amount set-up was indeed lower than the actual collections."
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-PY19",
+      "year": 2021,
+      "recommendation": "We recommend to that management submit explanation of its non-adherence to the provisions of RA 10752 on the acquisition of lot by government agencies. It is recommended further that any future transactions involving purchase of real property has to be in accordance with the established rules and regulations to prevent irregular disbursement of funds.",
+      "managementAction": "AAR 2020 | Management paid in full the subsequent acquisitions of lot such as the bus terminal because the owners will not agree to sell the property if not fully paid.  Further, one of the owners is already old and need the proceeds to finance their medical needs. | The price of lot offered to the owner was based on the Provincial Assessor’s assessment and lower than the market value of adjoining lots.  The Municipal Assessor has started to have the lot applied for a special patent at the DENR.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The price of lot offered to the owner was based on the Provincial Assessor’s assessment and lower than the market value of adjoining lots.  The Municipal Assessor has started to have the lot applied for a special patent at the DENR."
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-PY20",
+      "year": 2021,
+      "recommendation": "We recommend that the Local Finance Committee evaluate and review the budget proposals meticulously before the LCE submits the executive budget to the Local Sanggunian for enactment.  It is necessary that the budget be thoroughly reviewed to avoid incidents of bloated income estimates which can affect sound financial management of the agency.",
+      "managementAction": "AAR 2019 | The 2021 TCH budget still have high income estimates because of the expenses such as double set of manpower because of the Covid 19 ward.  Due to health protocols, health front liners are not allowed to work in non-Covid ward, thus the need to maintain two groups of manpower resources.  Further, some admissions in TCH come from other municipalities and they cannot refuse their admissions.\n\nThey have to track the application in DOH for Level I hospital classification. The application was deferred because of Covid 19 pandemic.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Our review of the individual financial statements of the TCH for CY 2021 P13.8M showed that it has again incurred net loss of ₱13.8M and a negative position of Ᵽ18.9M.  It was discussed during the exit conference that management will try to make representations with DOH for the possibility of turn-over of the hospital under the administration of the DOH."
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-PY21",
+      "year": 2021,
+      "recommendation": "Require the contractor to pay the amount of ₱20,235.00 as liquidated damages for the delay in the delivery of school supplies; \na) \tSubmit the Delivery Receipt/s of the 1,000 pieces of school bags and \nb) \tSubmit a List/s of Beneficiaries, for the 2,000 sets of school kits duly acknowledged by recipients to avoid suspension in audit.",
+      "managementAction": "AAR 2017 | Management still has to contact the supplier.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The LGU has to communicate with the supplier."
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-PY22",
+      "year": 2021,
+      "recommendation": "We recommend that: \nThe Local Chief Executive directs the Inventory Committee to give focus on the task of preparing the Inventory Report and comply with the provision of Section 124 of the NGAS.\nThe Municipal Accountant immediately effect the adjustments of the discrepancies between the actual and recorded balances of the affected Inventory and Property, Plant and Equipment accounts based on the results of the actual physical count.",
+      "managementAction": "AAR 2018\nAAR 2015 – Reiterated in Part II of this report. | An Inventory Committee has been formed but as to the finality of the Inventory Report, the management will still undergo a double checking process. The management committed to complete the inventory taking in the ensuing year and apply one time cleansing of the PPE Account per COA Circular 2020-06.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Due to time constraints, the report still not submitted for validation/verification."
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-PY23",
+      "year": 2021,
+      "recommendation": "We recommend that management send demand letters for the immediate liquidation of the cash advances. In case of failure by the concerned officials and employees to liquidate, withhold their salaries in accordance with Section 9.3.2 of COA Circular 97-002. Henceforth, require the liquidation of cash advances promptly as soon as the purpose for which these were granted had been served or within the reglementary period and the accountant to abide by COA Circular No. 97-002 as to the manner of granting, utilization and liquidation of cash advances.",
+      "managementAction": "AAR 2016 | This pertain to the Cash Advances for Confidential Funds for the Local chief executives which were already liquidated to COA Central Office yet the credit notices were not yet issued.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The non-issuance of the Credit Notices by COA ICFAU may have been delayed because the liquidation reports lacked the necessary supporting documents as evidenced by the various AOMs issued by ICFAU."
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-PY24",
+      "year": 2021,
+      "recommendation": "We recommend that Management require the Municipal Treasurer to demand for the issuance of an official receipt of the Government by the recipient Leagues concerned in order to support the release of financial aid and annual dues to the latter, pursuant to Section 69 of the GAAM, Volume I.",
+      "managementAction": "AAR 2014 | Management already demanded from the mentioned leagues the Official Receipts for the given financial aids but their headquarters still were unable to provide.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "In this aspect, the issue should not be raised to the LGU management side but to the national level."
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "Recommendation:\nWe reiterate our recommendation that Management require the Inventory Committee to conduct on time the physical inventory of all its property, plant and equipment, and prepare and submit the RPCCPE not later than January 31 of the ensuing year, in compliance with Section 124 of the Manual on the NGAS for LGUs Volume I. The Municipal Accountant and the Inventory Committee has to reconcile the balance of PPE per books with that of the inventory reports, verify and analyze the discrepancies, and prepare adjustments to the affected records.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "Recommendation:\nWe recommend that management require the Municipal Accountant to effect the following adjustments in the ensuing year to ensure correct valuation of the PPE accounts:\nMunicipal Books:\nGovernment Equity \t\t\t\t  Ᵽ4,924,000.00\nRoad Networks\t\t\t\t\t  Ᵽ4,924,000.00\nTo record transfer of completed assets to the barangay Ilijan Norte and Banlasan.\nBarangay Books:\nRoad Networks\t\t\t\t  Ᵽ4,924,000.00\nGovernment Equity \t\t\t\t \t Ᵽ4,924,000.00\nTo record receipt of completed project.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "Recommendation:\nWe recommended that Management require the Municipal Accountant to record the transaction to its appropriate account as required in the guidelines in order to accurately present the correct balances of the accounts in the financial statements. Henceforth, reclassify the entries made on the transaction which were inappropriately recorded as follows:\nAdjusting Journal Entries:\nTo correct entry made in the payment of the CNA and SRI Incentives to its appropriate account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "Recommendation:\nWe recommend that management require the Municipal Accountant to use the proper accounts in recording financial transactions to avoid misstatement of the financial statements and effect the necessary adjustments to wit:\nPrepaid Insurance\t\t    Ᵽ 98,449.94\nInsurance Expense\t\t            ₱98,449.94\nTo record unexpired portion of insurance and registration of government properties.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "Recommendation:\nWe recommend that management require the Municipal Accountant to record these collections to tis appropriate accounts to avoid misstatement of the financial statements. Also, effect the necessary adjustments using the suggested adjusting journal entries:",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "Recommendation:\nWe recommend that management require the Municipal Accountant to record the transaction to its appropriate account in accordance with COA Circular 2015-009. Also prepare reclassification entries for these transactions, as suggested below.\nRepairs and Maintenance –Water Supply Systems   P12,500.00\nWater Supply Systems                                                               P12,500.00",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "Recommendation:\nWe recommend that management require the Municipal Treasurer to prepare a duly certified list showing the name of the taxpayers and the amount due and collectible for the year which should come from the Real Property Tax Account Register (RPTAR) of Taxpayer’s Index Card maintained at the Municipal Treasurer’s Office and furnish the Municipal Accountant copy of the list to serve as the basis in recording the RPT Receivable and SET Receivable accounts in the books. This is in view of the need to record in the books not mere estimates from the real property taxes but actual receivables from said taxes pursuant to Section 19 and 20 of the NGAS Manual, Volume 1, in order to reflect in the books accurate amounts for RPT and SET Receivables.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-OBS8",
+      "year": 2021,
+      "recommendation": "Recommendation:\nWe recommend that management require the Municipal Accountant to record purchases of supplies and materials to its appropriate inventory account as required in COA Circular No. 2015-009 in order to present an accurate balance of the accounts in the year-end financial statements. Likewise, maintain the Perpetual Inventory Method in accounting for supplies in order to establish control in the receipt and disposition of the inventory items.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-OBS9",
+      "year": 2021,
+      "recommendation": "Recommendation:\nWe recommend management has to see to it that allowable funding source for the payment of benefit (CNA) is in accordance with Section 4.3.1. of DBM BC 2021-3. Further, we recommend the officials and employees to refund immediately the excess payment of the 2020 and 2021 CNA benefits.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-OBS10",
+      "year": 2021,
+      "recommendation": "Recommendation:\nWe recommend that management has to see to it that the grant of CNA and other has to be in accordance with the laws, rules and regulations issued by the DBM. Henceforth, see to it that CNA benefits are sourced solely from the allowable MOOE allotments.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-OBS11",
+      "year": 2021,
+      "recommendation": "Recommendation:\nWe recommend that management stop the practice of procuring office supplies and equipment on staggered basis thru alternative mode of small value procurement and adhere to the provisions of Section 7.2 and 7.3 of RA 9184 which requires that all procurement shall be done through competitive public bidding. Limit the use of the alternative modes of procurement only when the circumstances warrant which fall within the provisions of Section 52 and Section 53 of RA 9184. Henceforth, instruct the respective end-users of the different offices to meticulously and religiously plan the procurement of office supplies needed for the efficient operations of the LGU.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-OBS12",
+      "year": 2021,
+      "recommendation": "Recommendation:\nWe recommend that the Municipal officials intensifies its collections and exercise fiscal restraint in the disbursement of funds. Likewise, require the Municipal Treasurer and Municipal Accountant to limit disbursement of funds to valid obligations only as appropriated in the Approved Annual Budget to avoid the incurrence of any cash overdraft at year end. Furthermore, require the Local Finance Committee to institute remedial and corrective measures to improve its financial standing.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-OBS13",
+      "year": 2021,
+      "recommendation": "Recommendation:\nWe recommend that management has to see to it that funding source for the honoraria of the BAC Members is in accordance with DBM Budget Circular No. 2007-3. Further, we require that the BAC members refund the payment of the 2021 BAC honoraria that was sourced from the 2020 Surplus due to irregular disbursement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-OBS14",
+      "year": 2021,
+      "recommendation": "Recommendation:\nWe recommend that management evaluate whether some equipment still have to be repaired or purchase new ones rather than maintain those that need constant repairs which is counter-productive. Also, require the periodic assessment and personnel be assigned to oversee the conditions of the motor vehicles and equipment and to provide report on the operational efficiency as basis of management’s action to observe economy and efficiency in the use and operations of the motor vehicles.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-OBS15",
+      "year": 2021,
+      "recommendation": "Recommendation:\nWe recommend that management require all concerned officials and employees to exercise due care and diligence for government properties entrusted to them because accountability for any damaged or loss of property is a personal liability if there is no valid cause and there is no evidence that care and diligence for the property are observed. Further, require the end-user to refund the amount paid for the repair of the damaged laptop.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-OBS16",
+      "year": 2021,
+      "recommendation": "Recommendation:\nWe recommend that management submit explanation on the discrepancies noted during the initial review of the contracts. It is recommended that the excessive contract amount caused by the higher tax rate which had disadvantaged the government be refunded by the persons liable. Henceforth, it is reminded that the BAC review and recalculate properly all bid proposals to ensure correct computations and compliant with laws, rules and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-OBS17",
+      "year": 2021,
+      "recommendation": "Recommendation:\nWe recommend that management adhere with the rules and regulations of RA 9184 and ensure that bid opportunities be supported by a complete detailed engineering design (DED) so that project implementation will not be hampered.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-OBS18",
+      "year": 2021,
+      "recommendation": "Recommendation:\nWe recommend to that management see to it that acquisition of land has to be in accordance with the provisions of RA 10792. Also, submit an explanation of its non-adherence to the requirements on the purchase of lot by government agencies. It is recommended further that any future transactions involving purchase of real property has to be in accordance with the rules and regulations to protect the interest of the government.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-OBS19",
+      "year": 2021,
+      "recommendation": "Recommendation:\nWe recommend that management require all officials and employees concerned and responsible in the preparation, approval of trip tickets and authorization of passenger/s to ensure that driver’s trip ticket is duly and properly accomplished and approved before undertaking the trip. Also, require the preparation of the Monthly Report of Official Travel for each vehicle and the Fuel Consumption Report, and submit the same to the auditor for evaluation of the reasonableness of fuel consumption.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-OBS20",
+      "year": 2021,
+      "recommendation": "Recommendation:\nWe recommend that management immediately stop the practice of charging to SEF the transactions outside the scope for which this fund was established and observe the proper utilization thereof pursuant to the provisions of Joint Circular No. 01, s. 2017 and 2020 of DepEd, DBM and DILG to attain the government's goal in operation and maintenance of elementary and secondary schools. Moreover, require the refund of the improper charge to the SEF.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-OBS21",
+      "year": 2021,
+      "recommendation": "Recommendation:\nWe recommend that management observe the guidelines in the payment of the ADHP to avoid conflicts with the duties and responsibilities of the concerned officials and to avoid untoward incidents that may expose them to risk of contracting the Covid-19 virus. Further, require the barangay officials concerned to refund the payment received or cause the deduction of the earned leave credits for CY 2021 equivalent to the days rendered at the quarantine facility.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommend management to require the Municipal Accountant and Municipal Treasurer to coordinate that charges to the General Fund for payment of taxes and other liabilities be replenished immediately to avoid inaccurate charges and depletion of the general fund.  Further, require the personnel concerned to take extra care in preparation of checks for payment to avoid erroneous charging of transactions.",
+      "managementAction": "AAR 2020 | The GF is still the fund responsible for all the tax remittances.  However, this time, the refunds to the GF for the taxes in SEF and TF are done simultaneously with the preparation of the tax remittance by the GF.",
+      "status": "IMPLEMENTED",
+      "reason": "Checks to refund the GF were already prepared together with the taxes remittance paid by the GF to minimize piling up of unpaid taxes to the General Fund."
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommend that management require the municipal accountant to keep track of all the types of securities required from the contractors for all its projects undertaken. Further, require Municipal Engineer to observe the proper timeline when projects have to be finally accepted.  It is also recommended for the contractor to issue the required warranty securities for the three (3) projects. Finally, management is enjoined to observe the pertinent guidelines and provisions in the Revised – IRR of RA 9184.",
+      "managementAction": "AAR 2020 | Management already corrected the past error of issuing in advance Certificate of Final Acceptance and see it that certificate of final acceptance will be released only after the lapse of the Defects and Liability Period.",
+      "status": "IMPLEMENTED",
+      "reason": "Most projects are by administration and those contracted are still in the Defects and Liability Period (DLP), thus, will be verified if indeed, the Certificate of Final Acceptance will be released after the lapse of the DLP."
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommend that henceforth management observe BIR rules on the withholding of any forms of taxes due to the government as required by revenue regulations and require the refund of the taxes not withheld from the payment of the creditable and percentage taxes.",
+      "managementAction": "AAR 2020 | The management thru the Municipal Accountant communicated with the hotel management for the status of the un-withhold taxes in relation to the payment of the hotel accommodation for the OFW.  The hotel management cooperated with the request of the management and provided evidences that taxes were remitted to BIR. Some hotels also refunded to LGU Tubigon such as Belle Pacific and Panglao Bluewater",
+      "status": "IMPLEMENTED",
+      "reason": "BIR remittances of the hotels were submitted in support to the implementation of the audit recommendation.  Official Receipts also presented for those hotels that opted to refund the taxes.  Certificate of Creditable Withholding Tax  No. 2307 also issued to the hotels."
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommend that management carefully plan public spending of the 70% of the LDRRM so that LGUs can be capacitated to institutionalize measures for reducing disaster risks and hazards and to minimize potential adverse effects when disasters may occur.  Henceforth, realign the charging for the loan amortization to other appropriate fund source.",
+      "managementAction": "AAR 2020 | The utilization of the 2021 LDRRM did not include the payment of the loan for the heavy equipment.",
+      "status": "IMPLEMENTED",
+      "reason": "Loan payment was already charged to the 20% LDF."
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommend that management provide basis for the selection of the supplier if there was cost benefit analysis and if the prices offered are favorable to the government.  Further, we also require explanation from the BAC on resorting to the mode of procurement that circumvented the Procurement Law.  Finally, it is required that management has to abide with the Procurement Law in procurement of goods and services to avoid irregular disbursement of funds.",
+      "managementAction": "AAR 2020 | Already conducted public bidding .",
+      "status": "IMPLEMENTED",
+      "reason": "Post-audited some vouchers and procurement of the re-agents was thru bidding."
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommend that management require the Municipal Engineer to prepare the POW of projects in accordance with DPWH Department Order No. 197 to ensure that budgets of projects are not bloated, which ultimately result in high bid prices of contracts. Further, require the contractors of the abovementioned projects to refund the corresponding costs which should have been excluded in the bids.",
+      "managementAction": "AAR 2020 | Already refunded thru deduction of the amount of excess contract cost from subsequent billing of other projects.",
+      "status": "IMPLEMENTED",
+      "reason": "Reviewed the general ledger and vouchers showing the deduction."
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommend that health care facility has to abide the DOH Administrative Order and other issuances in the distribution of the pooled funds for Professional Fees from PHIC.  Henceforth, require that the Municipal Accountant review the payrolls prepared to ensure that all benefits  due to official and employees are proper and in accordance with laws, rules and regulations.",
+      "managementAction": "AAR 2020 | The doctors were already paid based on PHIC guidelines of pooling of professional fees.",
+      "status": "IMPLEMENTED",
+      "reason": "Reviewed payrolls."
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We require management to explain why end-users were not restrained from indicating the specifications of items that would point out to a specific brand, circumventing Section 18 of the R-IRR of RA 9184 which may result in irregular disbursement of funds.",
+      "managementAction": "AAR 2020 | Management refrained from tailor fitting requisitions for equipment.",
+      "status": "IMPLEMENTED",
+      "reason": "Reviewed Purchase Request (PR) and noted that only relevant specifications were indicated on it."
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommend management to explain on resorting to direct contracting as mode of procurement that circumvented the Procurement Law.  Finally, it is required that management has to abide with the provisions of R.A. 9184 and its RIRR  in procurement of goods and services to avoid irregular disbursement of funds.",
+      "managementAction": "AAR 2020 | Job repairs of air conditioning units undertaken by a Job Order/Contractual Employee to refrain from outsourcing the aircon maintenance.",
+      "status": "IMPLEMENTED",
+      "reason": "Outsourcing repairs of aircon minimized."
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We recommend that management require those responsible for the procurement to submit written justification for the noted price variance and defying the   DOH Memorandum Nos. 2020-0058 and 2020-0014A that were issued at the height of the pandemic. Henceforth, require the end-users and BAC to abide and be updated with rules and regulations related to Covid 19 procurement for the prevention of abuse and corruption in the procurement process.",
+      "managementAction": "AAR 2020 | The requisitions of medicines and drugs supplies already abide by the price lists issued by DOH.  The management justified that refund of the excess payments be reconsidered because at that time, the supply is very scarce and if they will not pursue the supplies available, it can prejudice the health and welfare of the constituents because they cannot provide the needed PPEs which are of outmost priority at the height of the Covid-19 pandemic.",
+      "status": "IMPLEMENTED",
+      "reason": "No refunds were made for the overpriced medicines."
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "We recommend that management ensure that all disbursement of funds has a valid and legal appropriation, otherwise, management is liable for the unauthorized disbursement.  We require the budget officer submit evidence that there was sufficient budget for the payment of the 2018 PCL Annual Due, otherwise, the excess payment with no budgetary allocation has to be disallowed in audit.  Finally, we require the Municipal Accountant to reclassify the entry made by taking up the amount released as Other Receivables.  Finally, adhere to the provisions of COA Circular 2012-003 to avoid disallowances in the disbursement of government funds.",
+      "managementAction": "AAR 2018 | The amount budgeted for the annual due was already incorporated in the Annual Budget.",
+      "status": "IMPLEMENTED",
+      "reason": "Amount released for payment in accordance with the available appropriation."
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "We recommend that management establish an IAU/IAS as required under     AO No. 278 and 70 to improve and strengthen the internal control system of the municipality.",
+      "managementAction": "AAR 2017 | The IAS was already in place and management filled up the position.",
+      "status": "IMPLEMENTED",
+      "reason": "The former MPDC has applied for the position and was appointed in CY 2021."
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "We recommend that the Municipal Mayor and the Sanggunian Bayan expedite the updating and amendment of the Municipality’s Local Revenue Code particularly in the TCH in pursuance to Section 191 of R.A. 7160 for probable increase in revenue rates and adoption of additional revenue sources to fund the Municipality’s projects and programs for the general welfare of its constituents.",
+      "managementAction": "AAR 2019 | The hospital fees were already revised effective CY 2021.",
+      "status": "IMPLEMENTED",
+      "reason": "Despite the increase in rates, the hospital still incurred net loss due to low admissions and high maintenance costs."
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-PY14",
+      "year": 2021,
+      "recommendation": "We recommend that management require the Municipal Budget Officer (MBO) to determine available funds from savings of the current year’s PS for possible appropriation of the night shift differential of the public health workers. With the concurrence of the Sangunian Bayan (SB), taking into consideration of the PS limitation, supplemental budget may be prepared for the payment of the differential.\n\nSubsequently, the SB has to enact an ordinance for the appropriation of the night shift differential of health workers in accordance with the R-IRR of RA 7305.",
+      "managementAction": "AAR 2019 | Night differential already budgeted.",
+      "status": "IMPLEMENTED",
+      "reason": "Reviewed payrolls of the health workers."
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-PY15",
+      "year": 2021,
+      "recommendation": "We recommend that management require the respective barangays to return the unspent financial assistance given to them because it had lapse the period for implementation so that other recipients can benefit therefrom.  Henceforth, the Municipal Accountant has to impose immediate utilization and liquidation of fund transfers within the reglementary period, otherwise, disqualify non-compliant barangays from receiving financial assistance/fund transfer.",
+      "managementAction": "AAR 2019 | The barangays were already reminded to fast track the liquidation of the fund transfers.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Review of the schedule and verification of the liquidation reports disclosed that balance as of 12.31.2021 is P269,185.97 which are balances from three (3) years ago.  It is reminded that the municipal accountant make follow-up the liquidation of the releases as soon as possible, otherwise, it will be recommended that it be returned to the municipal government."
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-PY16",
+      "year": 2021,
+      "recommendation": "We recommend that management with the assistance of the MPDC and other key players in the decision making of the LGU have to strategize so that projects identified be implemented within the year to address the needs of the community are fully attained. Likewise, get the maximum value of fund allocated for a specific period considering the increasing prices of materials.  Further, conduct actual studies for previously identified projects and determine if those are still feasible and practicable to be implemented, otherwise, realign funds to other projects most practical and responsive to the present needs.",
+      "managementAction": "AAR 2019\nand \nAAR 2017 | Not all of the 20% Programmed PPAs were implemented because of prioritization of the programs that are responsive of the impact of the Covid 19 pandemic.  Some projects though still showing balances in the SAAOB as not yet implemented, some were already bid out or awarded but not yet paid.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The balances of continuing appropriation from the 20% LDF of P4,278,900.46 in the continuing and P8,403,038.51 from the current or totaling P12.6M will be implemented in the ensuing year."
+    },
+    {
+      "id": "Tubigon_Bohol_aar2021-PY17",
+      "year": 2021,
+      "recommendation": "a.)    Require the Acting Municipal Treasurer to withhold the payment of the salaries or any amount due to the persons liable for the settlement of their liabilities pursuant to the ND/Decision and COA Order of Execution;\n\nb)    Require the Municipal Accountant to demand settlement/payment of the unpaid balance of disallowance from municipal officials/employees who had already separated from service.",
+      "managementAction": "AAR 2017 \nAAR 2014 | Substantial amount of the disallowance had already been liquidated. For the CNA disallowed amount of ₱1,897,200.00, the total amount refunded per issued NSSDCs amounted to ₱1,086,378.20 as of Dec. 31, 2020, leaving a balance of ₱810,821.80 per COA Records.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Several refunds were already made and for issuance of NSSDC.\n\nCOA Prosecution and Legal Office (PLO) had already granted the installment payment of the CNA benefit.  Other payrolls showing the payroll deductions of the refund by employees were not yet submitted to be verified so that we can issue the NSSDC for the partial settlements."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY25",
+      "year": 2019,
+      "recommendation": "1. Direct the inventory committee to require the property officers/GSO to review the respective inventory reports generated from the physical inventory count conducted particularly the affected property accounts. 2. Effect reconciliation of the results of the inventory count with the property records maintained by the Municipal Accountant to arrive at the correct balance of Property, Plant and Equipment accounts presented in the financial statements. 3. Effect adjustments on differences noted.",
+      "managementAction": "The personnel originally assigned in the documentation and monitoring of the government properties has already retired from government service. They have committed to focus on the PPEs in CY 2020 to ensure accuracy of the recorded assets.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The personnel originally assigned in the documentation and monitoring of the government properties has already retired from government service. They have committed to focus on the PPEs in CY 2020 to ensure accuracy of the recorded assets."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY26",
+      "year": 2019,
+      "recommendation": "We recommend that management establish an IAU/IAS as required under AO No. 278 and 70 to improve and strengthen the internal control system of the municipality.",
+      "managementAction": "No item proposed yet due to budgetary constraints. Salary Grades for mid level personnel are being proposed to upgrade salary to that salary package is at par with the private sector. It was also proposed that the item for Market Administrator be abolished to make way for the creation of the IAS.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No item proposed yet due to budgetary constraints. Salary Grades for mid level personnel are being proposed to upgrade salary to that salary package is at par with the private sector. It was also proposed that the item for Market Administrator be abolished to make way for the creation of the IAS."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY27",
+      "year": 2019,
+      "recommendation": "Require the contractor to pay the amount of ₱20,235.00 as liquidated damages for the delay in the delivery of school supplies; b) Submit the Delivery Receipt/s of the 1,000 pieces of school bags and c) Submit a List/s of Beneficiaries, for the 2,000 sets of school kits duly acknowledged by recipients to avoid suspension in audit.",
+      "managementAction": "Management still has to contact the supplier.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management still has to contact the supplier."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY28",
+      "year": 2019,
+      "recommendation": "We recommend that: a. The Local Chief Executive directs the Inventory Committee to give focus on the task of preparing the Inventory Report and comply with the provision of Section 124 of the NGAS. b. The Municipal Accountant immediately effect the adjustments of the discrepancies between the actual and recorded balances of the affected Inventory and Property, Plant and Equipment accounts based on the results of the actual physical count.",
+      "managementAction": "An Inventory Committee has been formed but as to finality of the Inventory Report, the management will still undergo a double checking process.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "An Inventory Committee has been formed but as to finality of the Inventory Report, the management will still undergo a double checking process."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY29",
+      "year": 2019,
+      "recommendation": "We recommend that Management require the Municipal Treasurer to demand for the issuance of an official receipt of the Government by the recipient Leagues concerned in order to support the release of financial aid and annual dues to the latter, pursuant to Section 69 of the GAAM, Volume I.",
+      "managementAction": "Management already demanded from the mentioned leagues the Official Receipts for the given financial aids but their headquarters still were unable to provide the official receipts.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management already demanded from the mentioned leagues the Official Receipts for the given financial aids but their headquarters still were unable to provide the official receipts."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommend that the Budget Officer determine the amount valid to be\nrecognized as unexpended appropriation and formulate the supplemental budget\nto be submitted to the Local Sanggunian for the enactment of an appropriation ordinance.\nFurther, unexpended PS and MOOE have to be reverted to unappropriated surplus\nand any disbursement charged against the continuing appropriation totaling\n₱4,929,032.14 has to be disallowed in audit since the utilization thereof was\nunauthorized.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommend that the Local Finance Committee evaluate and review the\nbudget proposals meticulously before the LCE submits the executive budget to the Local\nSanggunian for enactment. It is necessary that the budget be thoroughly\nreviewed to avoid incidents of bloated income estimates which can affect sound\nfinancial management of the agency.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommend that the Municipal Mayor and the Sanggunian Bayan expedite the\nupdating and amendment of the Municipality’s Local Revenue Code particularly in\nthe TCH in pursuance to Section 191 of R.A. 7160 for probable increase in revenue\nrates and adoption of additional revenue sources to fund the Municipality’s projects\nand programs for the general welfare of its constituents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommend that management require the respective barangays to return the\nunspent financial assistance given to them because it had lapse the period for\nimplementation so that other recipients can benefit therefrom. Henceforth, the\nMunicipal Accountant has to impose immediate utilization and liquidation of fund\ntransfers within the reglementary period, otherwise, disqualify non-compliant\nbarangays from receiving financial assistance/fund transfer.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommend that management require the Municipal Budget Officer (MBO)\nto check the appropriations properly and allocate for Representation Expenses as these\nare regularly incurred in the discharge of the different functions of the department.\nFurther, the MBO and Municipal Accountant have to coordinate so that the accounts\nused by both departments are consistent and will not result in the payment of fund\nwithout the corresponding appropriation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommend that management review and evaluate the need to allocate\nadditional benefit to the Public Social Workers and if warranted, appropriate\naccordingly in the annual budget the benefits due to the social welfare workers.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We recommend that management require the personnel in charge with the\ncomputation of personnel benefits of officials and employees be updated and\nknowledgeable of benefits due to officials and employees so that the correct and just\namounts are accorded to them and corresponding PS expenditures are properly\nreflected in the books to avoid misstatements thereof. Also, require the MBO to review\nthe appropriation for each department and ensure that personnel benefits are properly\nallocated and the likelihood of budgetary shortfall can be appropriately acted upon.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2019-OBS8",
+      "year": 2019,
+      "recommendation": "We recommend that management require the Municipal Budget Officer (MBO)\nto determine available funds from savings of the current year’s PS for possible\nappropriation of the night shift differential of the public health workers. With the\nconcurrence of the Sangunian Bayan (SB), taking into consideration of the PS\nlimitation, supplemental budget may be prepared for the payment of the differential.\nSubsequently, the SB has to enact an ordinance for the appropriation of the\nnight shift differential of health workers in accordance with the R-IRR of RA 7305.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2019-OBS9",
+      "year": 2019,
+      "recommendation": "We recommend that management require the GAD Focal Person to ensure the\nallocation of at least five percent of the total annual budget of the LGU in compliance\nwith DBM, NEDA and NCRFW Joint Circular No. 2004-1 dated April 5, 2004 and\nSection B, Part 5 of the Updated Budget Operations Manual for Local Government\nUnits.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2019-OBS10",
+      "year": 2019,
+      "recommendation": "We recommend that management require the GAD Focal Person to coordinate\nwith the Municipal Budget Officer (MBO) and look into the deficiencies noted, and\nincorporate revisions thereto if warranted. Further, it is recommended that\nmanagement maximize the utilization of the GAD fund so that the intended purpose in\naddressing gender-related issues can be fully achieved.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2019-OBS11",
+      "year": 2019,
+      "recommendation": "We recommend that management with the assistance of the MPDC and other\nkey players in the decision making of the LGU have to strategize so that projects\nidentified be implemented within the year to address the needs of the community are\nfully attained. Likewise, get the maximum value of fund allocated for a specific period\nconsidering the increasing prices of materials. Further, conduct actual studies for\npreviously identified projects and determine if those are still feasible and practicable to\nbe implemented, otherwise, realign funds to other projects most practical and\nresponsive to the present needs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2019-OBS12",
+      "year": 2019,
+      "recommendation": "We recommend that management require the Municipal Accountant and\nMunicipal Treasurer to coordinate and act on the return of the remaining funds to\nthe Bureau of Treasury so that the government can use it for other priority programs\nof the government. The following suggested adjusting entries are to be prepared for\nthe return of the fund:\nDue to Other NGAS ₱ 90,618.99\nCash in Bank ₱ 90,618.99",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2019-OBS13",
+      "year": 2019,
+      "recommendation": "We recommend that management require the Municipal Accountant to effect\nthe appropriate adjustment/reversion of the unutilized LDRRM Fund to the General\nFund. Further, require the local finance committee to convene and deliberate the\nproposals for social projects and recommend to the Local Chief Executive and the\nLocal Sanggunian to review budget proposals and the subsequent enactment of an\nAppropriation Ordinance.\nFurther, we require the following reclassifying entries and subsequent transfer\nof the funds to the General Fund:\nTrust Fund Books:\nDue to Other NGAS ₱ 29,255.03\nTrust-Liability LDRRM ₱ 29,255.03\nTo reclassify the liability accounts.\n#\nTrust-Liability LDRRM ₱ 29,255.03\nCash in Bank ₱ 29,255.03\nTo record withdrawal of funds in the TF books.\n#\nGeneral Fund Books:\nCash in Bank ₱ 29,255.03\nGovernment Equity ₱ 29,255.03\nTo record receipt of unutilized LDRRM Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY1",
+      "year": 2019,
+      "recommendation": "It is recommended that management require the Municipal Accountant to record properly all government transactions in accordance with generally accepted accounting and auditing procedures so as not to distort the fair presentation of the financial statements.",
+      "managementAction": "Checked the validated deposit slips (VDS) pertaining to the collections in the last days of December 2019 and VDS showed amounts were deposited in January 2, 2020.",
+      "status": "IMPLEMENTED",
+      "reason": "Collections are year-end remained in the Cash in Treasury Account which were deposited in the ensuing year."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY2",
+      "year": 2019,
+      "recommendation": "It is recommended that management require the Municipal Accountant and the Municipal Treasurer to coordinate and work immediately for the cancellation of outstanding checks and to prepare the required JEV for the restoration of the amount in the cash account.",
+      "managementAction": "Verified the bank reconciliation statements as well as the adjusting entries made.",
+      "status": "IMPLEMENTED",
+      "reason": "Stale checks were reverted. Verified the bank reconciliation statements as well as the adjusting entries made."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommend that management conduct immediate verification on the deficiency occurred in the remittance of the taxes, premiums and loan amortizations of officials and employees to protect the finances of the local government unit. Any future borrowings in the GF has to be replenished immediately. Further, require the municipal accountant to thoroughly check all remittances and trace back to the respective payrolls to ensure accurate figures remitted to the different government agencies to protect officials and employees who have been religiously paying their indebtedness. The payroll maker, AAO and accounting personnel have to coordinate before any remittances will be made for every month to ensure that correct remittances of the premiums and contributions. Finally, the AAO has to update immediately the GSIS on all changes of personnel records of the employees so that the contributions are properly and timely recorded in the system and avoid undue charges and arrears.",
+      "managementAction": "The municipal accountant had already monitored remittances to GSIS are monitored. Officials/employees that are not in the GSIS Billing statement for a certain month are noted and ensure that the GSIS will be updated so that in the subsequent billing, the names will be included and all withheld premiums be included in the succeeding month's remittances.",
+      "status": "IMPLEMENTED",
+      "reason": "The municipal accountant had already monitored remittances to GSIS are monitored. Officials/employees that are not in the GSIS Billing statement for a certain month are noted and ensure that the GSIS will be updated so that in the subsequent billing, the names will be included and all withheld premiums be included in the succeeding month's remittances."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommend that management require the Municipal Accountant to locate and trace the causes of said unadjusted balances of the aforementioned liability account. Henceforth, it is reminded that income has to be recognized in the year when earned in order to reflect the correct and accurate balances thereof.",
+      "managementAction": "Schedule of Other Deferred Credits reviewed.",
+      "status": "IMPLEMENTED",
+      "reason": "The accountant worked back the balances particularly the earned income portion. Balances at year end already represented advance collections of RPT for the ensuing years."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommend that management look in to the Memorandum of Agreement of the loan and enforce collection of the unpaid loans from its members based on the agreed terms and conditions, otherwise, the persons responsible for the release of the loan is liable for the unpaid balances because of the questionable use of the 20% LDF",
+      "managementAction": "Reviewed the cash receipt journals, subsidiary ledger and official receipt.",
+      "status": "IMPLEMENTED",
+      "reason": "Tubigon Loomweavers already fully paid their loan in CY 2019."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommend to management that henceforth, the municipal accountant assure that mobilization fee be released only when the contractor presents standby letter of credit, and abide by the implementing rules and regulations of the procurement law.",
+      "managementAction": "Most advance payments made to contractors. Most projects are implemented by administration thus there are a few transactions on advance payment of mobilization.",
+      "status": "IMPLEMENTED",
+      "reason": "Management required contractors to issue bank guarantee and other forms of security for all projects advance payments made to contractors. Most projects are implemented by administration thus there are a few transactions on advance payment of mobilization."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommend that management require the BAC to provide valid and authentic proofs that the LGU acquired the most advantageous price in procurement of supplies and materials through alternative methods of procurement. Likewise, the BAC has to ensure that all procurement activities be in accordance with the prescribed guidelines set forth in the R-IRR of RA 9184.",
+      "managementAction": "Post audit of transactions showed that the BAC had secured quotations to at least three (3) suppliers for Procurement.",
+      "status": "IMPLEMENTED",
+      "reason": "The canvass forms from other suppliers were inadvertently attached to the accounting file. They assert that they only abide by the Small Value Procurement law."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommend that management require the BAC to provide valid and authentic proofs that the LGU acquired the most advantageous price in conducting the strategic planning which we will evaluate. Likewise, the BAC has to ensure that all procurement activities be in accordance with the prescribed guidelines set forth in the R-IRR of RA 9184.",
+      "managementAction": "Post audit of transactions showed that the BAC had secured quotations to at least three (3) suppliers.",
+      "status": "IMPLEMENTED",
+      "reason": "The canvass forms from other suppliers were inadvertently attached to the accounting file. They assert that they abide by the procurement law."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY9",
+      "year": 2019,
+      "recommendation": "We recommend that management provide justification for passing an ordinance which contravened the Procurement Law, which defeats the purpose of competitive bidding. Further, we recommend that the legislative department propose for the amendment of Municipal Ordinance No. 2014-398 to be in harmony and consistent with the Procurement Law.",
+      "managementAction": "The collection of accreditation fees from bidders was halted.",
+      "status": "IMPLEMENTED",
+      "reason": "The collection of accreditation fees from bidders was halted."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY10",
+      "year": 2019,
+      "recommendation": "We recommend that the BAC adhere with the provisions of Municipal Ordinances particularly on the imposition of cost of bidding documents so that correct fees are being collected. Further, it is advised that the Municipal Ordinance mentioned be revisited and amended when necessary.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY11",
+      "year": 2019,
+      "recommendation": "We recommend that the BAC has to verify that brands and specifications of the product offered must be indicated on the RFQs process only those requests that indicated relevant characteristics and specifications. Further, the BAC has to ensure that business establishments selected to deliver goods wherein prices are most advantageous to the government. Lastly, we recommend that the BAC strictly adhere to the provisions of the Procurement Law to protect the interest of the government.",
+      "managementAction": "Post audit of transactions showed payments to eligible suppliers of various supplies and materials.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY12",
+      "year": 2019,
+      "recommendation": "We recommend that the Municipal Accountant check the payment of honoraria to the BAC and BAC Secretariat that has to be in accordance with the guidelines set for in the Revised Implementing Rules and Regulations of RA 9184. Further, require the BAC secretariat to refund the excess honorarium received.",
+      "managementAction": "They are already complied with this recommendation. It was emphasized that the basis or ceiling for the maximum BAC honoraria is not to exceed 25% of the annual basic salary, thus it was recommended that the accountant has to provide the BAC computations as of November of each year on how much was already granted, in order to determine as to what extent will the honoraria be given for December.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY13",
+      "year": 2019,
+      "recommendation": "We recommend that the Municipal Budget Officer, the executive and legislative departments of the agency review properly the composition of the budget and ensure that all items being appropriated in the Annual Budget are in accordance and anchored on prescribed laws, rules and regulations to avoid disbursements of funds that are not allowable.",
+      "managementAction": "Charges to the General Fund were made when supplemental budgets were already prepared as determined by savings of projects which can be a source for BAC honoraria.",
+      "status": "IMPLEMENTED",
+      "reason": "Charges to the General Fund were made when supplemental budgets were already prepared as determined by savings of projects which can be a source for BAC honoraria."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY14",
+      "year": 2019,
+      "recommendation": "We recommend that management require the Municipal Treasurer to secure Official Receipts for all fund transfers to other government agency and the accountant has to record such as receivables and not as direct debit to expenses account. Further, review the items billed by the different schools and evaluate if those fees required by the schools from the learners are authorized by DepEd. Finally, the LGU may pay directly to the different agencies the authorized contributions such as the GSP, BSP, PNRC, Anti TB, and the PTA.",
+      "managementAction": "Management no longer pay the student’s annual dues as stated in the previous billing statements because the public school still cannot provide the official receipts, thus, the LGU only paid the tuition fees which are duly receipted by the schools.",
+      "status": "IMPLEMENTED",
+      "reason": "Management no longer pay the student’s annual dues as stated in the previous billing statements because the public school still cannot provide the official receipts, thus, the LGU only paid the tuition fees which are duly receipted by the schools."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY15",
+      "year": 2019,
+      "recommendation": "We recommend that the management provide explanation on the above noted deficiency and refunds have to be made on the double-payment. Further, scrutinize properly all budget proposals and that all expenses are within the prescribed rules and regulations. Henceforth, expenses for cultural activities be incurred conscientiously and in accordance with COA Circular 2012-003.",
+      "managementAction": "There was no duplication of services. The service contract of T Events contained clerical error that was misconstrued as part of the services that the company has to provide. It was indeed a separate contract and with corresponding budgetary allocation.",
+      "status": "IMPLEMENTED",
+      "reason": "There was no duplication of services. The service contract of T Events contained clerical error that was misconstrued as part of the services that the company has to provide. It was indeed a separate contract and with corresponding budgetary allocation."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY16",
+      "year": 2019,
+      "recommendation": "We recommend that the accountant has to include prioritiization of the fund transfer of the unexpended LDRRMF at year-end to ensure proper treatment of the transaction related to the LDRRMF.",
+      "managementAction": "Transfer was already recorded at year end.",
+      "status": "IMPLEMENTED",
+      "reason": "Transfer was already recorded at year end."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY17",
+      "year": 2019,
+      "recommendation": "We recommend that the Municipal Treasurer require all claimants to fill up/provide all the payment information on the spaces provided in Box D of the disbursement vouchers.",
+      "managementAction": "All the required DVs already contained the important information.",
+      "status": "IMPLEMENTED",
+      "reason": "All the required DVs already contained the important information."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY18",
+      "year": 2019,
+      "recommendation": "We recommend that management ensure that all disbursement of funds has a valid and legal appropriation, otherwise, management is liable for the unauthorized disbursement. We require the budget officer submit evidence that there was sufficient budget for the payment of the 2018 PCL Annual Due, otherwise, the excess payment with no budgetary allocation has to be disallowed in audit. Finally, we require the Municipal Accountant to reclassify the entry made by taking up the amount released as Other Receivables. Finally, adhere to the provisions of COA Circular 2012-003 to avoid disallowances in the disbursement of government funds.",
+      "managementAction": "The budget officer presented that a Supplemental Budget was approved for the deficient amount. However, the LGU or the local sanggunian of Tubigon was not anymore contacted by the league as regards our audit finding, nor the league reached out to us to submit their explanation why Tubigon was billed a higher amount which is inequitable.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The budget officer presented that a Supplemental Budget was approved for the deficient amount. However, the LGU or the local sanggunian of Tubigon was not anymore contacted by the league as regards our audit finding, nor the league reached out to us to submit their explanation why Tubigon was billed a higher amount which is inequitable."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY19",
+      "year": 2019,
+      "recommendation": "We recommend that management: a. Require the Municipal Accountant to send demand letters to the debtors and demand payment thereof. b. Require the Municipal Accountant to enforce the submission of the required liquidation documents for the financial assistance granted to the concerned barangays where the intended projects/activities have already been implemented.",
+      "managementAction": "Other employees have already liquidated their balances. The remaining balances pertain to cash granted at the end of the year. Demand letters were also sent.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Other employees have already liquidated their balances. The remaining balances pertain to cash granted at the end of the year. Demand letters were also sent."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY20",
+      "year": 2019,
+      "recommendation": "a.) Require the Acting Municipal Treasurer to withhold the payment of the salaries or any amount due to the persons liable for the settlement of their liabilities pursuant to the ND/Decision and COA Order of Execution; b) Require the Municipal Accountant to demand settlement/payment of the unpaid balance of disallowance from municipal officials/employees who had already separated from service.",
+      "managementAction": "Substantial amount of the disallowance had already been liquidated. A request for installment payment was already requested to the COA Prosecution and Legal Office (PLO) and still awaiting resolution of the request.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Substantial amount of the disallowance had already been liquidated. A request for installment payment was already requested to the COA Prosecution and Legal Office (PLO) and still awaiting resolution of the request."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY21",
+      "year": 2019,
+      "recommendation": "We recommend that Management justify/explain why the projects funded out of the 20% development fund were not implemented as planned. Henceforth, Management ensure prompt and full implementation of the development projects as programmed in order to achieve the intended purpose for which the fund was appropriated and improve the socio-economic and environmental condition of the constituents.",
+      "managementAction": "LGU had achieved above average passing rate as per DILG Indicator of at least 60% of the current appropriation for 20% LDF are implemented. LGUs rate is 65%.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "LGU had achieved above average passing rate as per DILG Indicator of at least 60% of the current appropriation for 20% LDF are implemented. LGUs rate is 65%."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY22",
+      "year": 2019,
+      "recommendation": "We recommend that management send demand letters for the immediate liquidation of the cash advances. In case of failure by the concerned officials and employees to liquidate, withhold their salaries in accordance with Section 9.3.2 of COA Circular 97-002. Henceforth, require the liquidation of cash advances promptly as soon as the purpose for which these were granted had been served or within the reglementary period and the accountant to abide by COA Circular No. 97-002 as to the manner of granting, utilization and liquidation of cash advances.",
+      "managementAction": "Demand letters were sent by management to the concerned accountable officers/ employees.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Demand letters were sent by management to the concerned accountable officers/ employees."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY23",
+      "year": 2019,
+      "recommendation": "We recommend that management prioritize and consider filling-up the vacant positions to enhance its services to attain full implementation of programs, plans and activities of the local government unit for the optimal benefit of the constituents. Further, personnel movement has to be effected in order to acknowledge the exemplary performance of employees by way of promotion to higher rank thereby allowing the entry of new applicants for lower level positions.",
+      "managementAction": "The four (4) vacant positions were filled-up. A municipal administrator was hired in August 2019, however, the position is now again vacant because of his demise on December 26, 2019.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The four (4) vacant positions were filled-up. A municipal administrator was hired in August 2019, however, the position is now again vacant because of his demise on December 26, 2019."
+    },
+    {
+      "id": "Tubigon_Bohol-2019-PY24",
+      "year": 2019,
+      "recommendation": "It is recommended that all municipal officials and regular employees of LGU, Tubigon, Bohol refund the amount of ₱13,500.00 each for the amount they received as CNA Incentive.",
+      "managementAction": "Refund was made on staggered basis by deducting from the payroll of the salary received by the municipal officials and employees. Payroll deductions were audited covering CY 2016 and 2017 and all other years deductions are still being gathered by the Municipal Accountant for submission and audit. Further, direct refunds made by accountable persons issued Official Receipts (ORs) were not yet presented for audit and management committed to have those ORs presented for audit so that partial lifting of the disallowance can be made by the audit team thru the issuance of the NSSDC.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Refund was made on staggered basis by deducting from the payroll of the salary received by the municipal officials and employees. Payroll deductions were audited covering CY 2016 and 2017 and all other years deductions are still being gathered by the Municipal Accountant for submission and audit."
+    },
+    {
+      "id": "Tubigon_Bohol-2018-PY22",
+      "year": 2018,
+      "recommendation": "We recommend that\nmanagement establish\nan IAU/IAS as required\nunder AO No. 278\nand 70 to improve and\nstrengthen the internal\ncontrol system of the\nmunicipality.",
+      "managementAction": "No item proposed yet due to budgetary constraints. Salary Grades for mid level personnel are being proposed to upgrade salary to that package is at par with the private sector. It was also proposed that the item for Market Administrator be abolished to make way for the creation of the IAS.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No item in the budget."
+    },
+    {
+      "id": "Tubigon_Bohol-2018-PY23",
+      "year": 2018,
+      "recommendation": "Require the\ncontractor to pay the\namount of ₱20,235.00 as\nliquidated damages for\nthe delay in the delivery\nof school supplies;\nb) Submit the\nDelivery Receipt/s of the\n1,000 pieces of school\nbags and\nc) Submit a List/s\nof Beneficiaries, for the\n2,000 sets of school kits\nduly acknowledged by\nrecipients to avoid\nsuspension in audit.",
+      "managementAction": "Management still has to contact the supplier.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The LGU has to communicate with the supplier."
+    },
+    {
+      "id": "Tubigon_Bohol-2018-PY24",
+      "year": 2018,
+      "recommendation": "a. The Local Chief\nExecutive directs the\nInventory Committee\nto give focus on the\ntask of preparing the\nInventory Report and\ncomply with the\nprovision of Section\n124 of the NGAS.\nb. The Municipal\nAccountant\nimmediately effect the\nadjustments of the\ndiscrepancies between\nthe actual and recorded\nbalances of the\naffected Inventory and\nProperty, Plant and\nEquipment accounts\nbased on the results of\nthe actual physical\ncount.",
+      "managementAction": "An Inventory Committee has been formed but as to the finality of the Inventory Report, the management will still undergo a double checking process.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Due to time constraints."
+    },
+    {
+      "id": "Tubigon_Bohol-2018-PY25",
+      "year": 2018,
+      "recommendation": "We recommend that\nManagement require\nthe Municipal Treasurer\nto demand for the\nissuance of an official\nreceipt of the\nGovernment by the\nrecipient Leagues\nconcerned in order to\nsupport the release of\nfinancial aid and annual\ndues to the latter,\npursuant to Section 69\nof the GAAM, Volume\nI.",
+      "managementAction": "Management already demanded from the mentioned leagues the Official Receipts for the given financial aids but their headquarters still were unable to provide.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "In this aspect, the issue should be raised not to the management side but to the national level."
+    },
+    {
+      "id": "Tubigon_Bohol-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommend that management:\n1. Direct the inventory committee to require the property officers/GSO to review the\nrespective inventory reports generated from the physical inventory count conducted\nparticularly the affected property accounts.\n2. Effect reconciliation of the results of the inventory count with the property records\nmaintained by the Municipal Accountant to arrive at the correct balance of Property,\nPlant and Equipment accounts presented in the financial statements.\n3. Effect adjustments on differences noted.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-OBS2",
+      "year": 2018,
+      "recommendation": "It is recommended that management require the Municipal Accountant to record\nproperly all government transactions in accordance with generally accepted accounting\nand auditing procedures so as not to distort the fair presentation of the financial\nstatements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-OBS3",
+      "year": 2018,
+      "recommendation": "It is recommended that management require the Municipal Accountant and the\nMunicipal Treasurer to coordinate and work immediately for the cancellation of\noutstanding checks and to prepare the required JEV for the restoration of the amount in\nthe cash account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommend that management conduct immediate verification on the deficiency\noccurred in the remittance of the taxes, premiums and loan amortizations of officials and\nemployees to protect the finances of the local government unit. Any future borrowing in\nthe GF has to be replenished immediately. Further, require the municipal accountant to\nthoroughly check all remittances and trace back to the respective payrolls to ensure\naccurate figures remitted to the different government agencies to protect officials and\nemployees who have been religiously paying their indebtedness. The payroll maker, AAO\nand accounting personnel have to coordinate before any remittances will be made for\nevery month to ensure that correct remittances of the premiums and contributions. Finally,\nthe AAO has to update immediately the GSIS on all changes of personnel records of the\nemployees so that the contributions are properly and timely recorded in the system and\navoid undue charges and arrears.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We recommend that management require the Municipal Accountant to locate and\ntrace the causes of said unadjusted balances of the aforementioned liability account.\nHenceforth, it is reminded that income has to be recognized in the year when earned in\norder to reflect the correct and accurate balances thereof.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We recommend that management look in to the Memorandum of Agreement of the\nloan and enforce collection of the unpaid loans from its members based on the agreed\nterms and conditions, otherwise, the persons responsible for the release of the loan is liable\nfor the unpaid balances because of the questionable use of the 20% LDF",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-OBS7",
+      "year": 2018,
+      "recommendation": "We recommend to management that henceforth, the municipal accountant assure\nthat mobilization fee be released only when the contractor presents standby letter of\ncredit, and abide by the implementing rules and regulations of the procurement law.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-OBS8",
+      "year": 2018,
+      "recommendation": "We recommend that management require the BAC to provide valid and authentic\nproofs that the LGU acquired the most advantageous price in procurement of supplies and\nmaterials through alternative methods of procurement. Likewise, the BAC has to ensure\nthat all procurement activities be in accordance with the prescribed guidelines set forth in\nthe R-IRR of RA 9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-OBS9",
+      "year": 2018,
+      "recommendation": "We recommend that management require the BAC to provide valid and authentic\nproofs that the LGU acquired the most advantageous price in conducting the strategic\nplanning which we will evaluate. Likewise, the BAC has to ensure that all procurement\nactivities be in accordance with the prescribed guidelines set forth in the R-IRR of RA\n9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-OBS10",
+      "year": 2018,
+      "recommendation": "We recommend that management provide justification for passing an ordinance\nwhich contravened the Procurement Law, which defeats the purpose of competitive\nbidding. Further, we recommend that the legislative department propose for the\namendment of Municipal Ordinance No. 2014-398 to be in harmony and consistent with\nthe Procurement Law.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-OBS11",
+      "year": 2018,
+      "recommendation": "We recommend that the BAC adhere with the provisions of Municipal Ordinances\nparticularly on the imposition of cost of bidding documents so that correct fees are being\ncollected. Further, it is advised that the Municipal Ordinance mentioned be revisited and\namended when necessary.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-OBS12",
+      "year": 2018,
+      "recommendation": "We recommend that the BAC has to verify that brands and specifications of the\nproduct offered must be indicated on the RFQs process only those requests that indicated\nrelevant characteristics and specifications. Further, the BAC has to ensure that business\nestablishments selected to deliver goods wherein prices are most advantageous to the\ngovernment. Lastly, we recommend that the BAC strictly adhere to the provisions of the\nProcurement Law to protect the interest of the government.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-OBS13",
+      "year": 2018,
+      "recommendation": "We recommend that the Municipal Accountant check the payment of honoraria to\nthe BAC and BAC Secretariat that has to be in accordance with the guidelines set for in the\nRevised Implementing Rules and Regulations of RA 9184. Further, require the BAC\nsecretariat to refund the excess honorarium received.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-OBS14",
+      "year": 2018,
+      "recommendation": "We recommend that the Municipal Budget Officer, the executive and legislative\ndepartments of the agency review properly the composition of the budget and ensure that\nall items being appropriated in the Annual Budget are in accordance and anchored on\nprescribed laws, rules and regulations to avoid disbursements of funds that are not\nallowable.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-OBS15",
+      "year": 2018,
+      "recommendation": "We recommend that management require the Municipal Treasurer to secure\nOfficial Receipts for all fund transfers to other government agency and the accountant has to\nrecord such as receivables and not as direct debit to expenses account. Further, review\nthe items billed by the different schools and evaluate if those fees required by the schools\nfrom the learners are authorized by DepEd. Finally, the LGU may pay directly to the\ndifferent agencies the authorized contributions such as the GSP, BSP, PNRC, Anti TB, and\nthe PTA.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-OBS16",
+      "year": 2018,
+      "recommendation": "We recommend that management ensure that all disbursement of funds has a valid\nand legal appropriation; otherwise, management is liable for the unauthorized\ndisbursement. We require the budget officer submit evidence that there was sufficient\nbudget for the payment of the 2018 PCL Annual Due, otherwise, the excess payment with\nno budgetary allocation has to be disallowed in audit. Finally, we require the Municipal\nAccountant to reclassify the entry made by taking up the amount released as Other\nReceivables. Finally, adhere to the provisions of COA Circular 2012-003 to avoid\ndisallowances in the disbursement of government funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-OBS17",
+      "year": 2018,
+      "recommendation": "We recommend that the management provide explanation on the above noted\ndeficiency and refunds have to be made on the double-payment. Further, scrutinize\nproperly all budget proposals and that all expenses are within the prescribed rules and\nregulations. Henceforth, expenses for cultural activities be incurred conscientiously and in\naccordance with COA Circular 2012-003.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-OBS18",
+      "year": 2018,
+      "recommendation": "We recommend that the accountant has to include prioritization of the fund transfer\nof the unexpended LDRRMF at year-end to ensure proper treatment of the transaction\nrelated to the LDRRMF.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-OBS19",
+      "year": 2018,
+      "recommendation": "We recommend that the Municipal Treasurer require all claimants to fill\nup/provide all the payment information on the spaces provided in Box D of the\ndisbursement vouchers.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommend that\nmanagement require:\na) The Municipal\nAccountant to record in\nthe payable accounts,\ntransactions that are\nincurred during the year\nbut are not paid at year-\nend, in order to reflect\nthe true results of\noperations for the\nperiod.\nb) The Municipal\nBudget Officer, the\nMunicipal Treasurer and\nthe Municipal\nAccountant to reconcile\ntheir records, especially\nat year end, for the\nproper reporting of\ntransactions in the\nmunicipal books.\nc) The Municipal\nAccountant to submit\ndocuments to support\nthe payment of\nregistration and annual\ndues for LMP Bohol\nChapter for the year\n2016 to 2019 for further\nreview and evaluation to\navoid disallowance",
+      "managementAction": "Recording of expenses already reviewed and properly taken – up. Verified that charges to the current appropriations pertaining to expenditures paid at the beginning of the year were payables in the preceding year.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-PY2",
+      "year": 2018,
+      "recommendation": "Direct the Acting\nMunicipal Treasurer to\nmonitor the collections\nof the Revenue\nCollectors and enforce\nthe daily remittance of\ncollections to the\ndesignated Liquidating\nOfficer, pursuant to\nSections 15 and 29 of\nthe NGAS Manual for\nLGUs, Volume I.\nb) Require the\nActing Municipal\nTreasurer to properly\ncontrol and monitor the\nissuances of accountable\nforms to the Revenue\nCollectors. She should\nsee to it that the\ncollectors should not be\ngiven additional\naccountable forms\nunless the\nproceeds/collections of\nthe booklets previously\nissued to them are\nremitted.",
+      "managementAction": "Collectors were reminded to remit daily all collectors and Collectors who were negligent of their duty were not anymore allowed to handle collecting function. Occasional delay in deposit was due to ETRACS System error.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommend that\nthe Municipal Mayor\ninstruct the Acting\nMunicipal Treasurer to\ndeposit all her\ncollections intact daily\nor not later than the next\nbanking day to abide by\nthe regulation and to\navoid the risk of\npossible loss of\ngovernment money.",
+      "managementAction": "Collectors were reminded to remit daily all collectors and Collectors who were negligent of their duty were not anymore allowed to handle collecting function. Occasional delay in deposit was due to ETRACS System error.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-PY4",
+      "year": 2018,
+      "recommendation": "We recommend that\nthe treasurer record all\ncollections turned over\nby the collectors on\ntransaction date,\nparticularly at month\nend, to show correct\nbalance of the cash in\nvault account.",
+      "managementAction": "Proper recording of the transactions strictly followed.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommend that\nManagement require the\nconcerned accountable\nofficers to submit\nimmediately the\nliquidation reports of\ntheir outstanding cash\nadvances and/or refund\nthe unexpended cash\nbalance, if any.",
+      "managementAction": "Employees already refunded their unliquidated cash advances. Outstanding cash advances pertain to the Intelligence Fund pending the receipt of the credit notice from COA Central Office, while other balances are inherited accounts which are planned to be requested for write off.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-PY6",
+      "year": 2018,
+      "recommendation": "Please submit\nexplanation/documents\nas basis for the granting\nof cash advances to\nschool officials\nconsidering that they are\nnot a permanent\nemployee/elected\nofficial of the\nmunicipality and require\nthe immediate\nsettlement of the above\ncash advances.",
+      "managementAction": "Cash advances were still granted so that activities will not be hampered. However, the accounting division instituted control measures so that previous grants are fully liquidated.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-PY7",
+      "year": 2018,
+      "recommendation": "It is recommended\nthat management require\nthe Municipal\nAccountant to conduct a\nthorough review on the\ncircumstances\nsurrounding the\nincurrence of the\nnegative balances of the\nabove payable accounts\nand confirm the same to\nagencies concerned so\nthat appropriate\nadjustments can be made\nin the books.",
+      "managementAction": "Recording of transactions already reviewed and properly taken-up. The Municipal employees.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommend that\nthe Municipal\nAccountant take up\nthe transfer of funds\nas receivable from the\ndifferent agencies to\nensure and monitor\nthat the intended\npurpose is being met\nand adhere to the\nprovisions of COA\nCircular 94-013.",
+      "managementAction": "Recorded as Due from LGUS for the transactions.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-PY9",
+      "year": 2018,
+      "recommendation": "It is recommended\nthat the DSWD-Cash\nFor Work Focal Person\nof the LGU assists the\nrecipients on the\nnecessary\ndocumentation of the\nclaims so that the\npayroll maker, the\nMunicipal Accountant\nand the OIC-Municipal\nTreasurer prepare and\nprocess the payrolls and\nrelease or pay\nimmediately the\nfinancial assistance to\nthe beneficiaries for the\nservices they rendered in\nrepairing their damaged\nhouses.",
+      "managementAction": "Workers were paid on time because the Habitat for Humanity resumed the work.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-PY10",
+      "year": 2018,
+      "recommendation": "a.) the Municipal\nEngineer indicates in the\nProgram of Work the\ndate upon its preparation\nand approval by the\nLocal Chief Executive\nas well as the duration of\nthe project.\nb) Speedy and\nsystematic\nimplementation of the\nprojects based on the\nschedule of project\nimplementation.",
+      "managementAction": "BUB projects are already completed and turned over.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-PY11",
+      "year": 2018,
+      "recommendation": "It is recommended\nthat management submit\nan explanation on the\ndelayed/untimely\nprocurement of the\nschool kits. Ensure that\nproject proposals are\nscheduled in a manner\nthat the purpose of\nwhich is not defeated.",
+      "managementAction": "LGU ensures that all deliveries are made on time. LGU refrain from procuring school kits, instead implemented other projects that have the same benefit for the indigent day care children.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-PY12",
+      "year": 2018,
+      "recommendation": "We recommend that\nmanagement register\nwith the Bureau of\nInternal Revenue as\nregistered taxpayer in\naccordance with the\nguidelines of RA 9337\nand remit to the BIR the\nmonthly VAT on rentals\nof real property.",
+      "managementAction": "The LGU inquired from the BIR and were instructed that the LGU has to form a corporation and have own Mayor’s permit and other regulatory requirements.",
+      "status": "IMPLEMENTED",
+      "reason": "Management did not pursue because of its complexity. Besides, Local Government Units enjoy fiscal autonomy and have the power to create economic enterprises as source of income, a VAT and this includes the rental of real property to various tenants."
+    },
+    {
+      "id": "Tubigon_Bohol-2018-PY13",
+      "year": 2018,
+      "recommendation": "We recommend that\nthe Municipal Planning\nand Development\nCoordinator explain why\nthe projects were not\nlisted and specified in\nthe Annual Budget.\nHenceforth, formulation\nof future annual budgets\nhas to include\nidentification and\nspecification of projects\nparticularly for the\nbarangay.",
+      "managementAction": "Formulation of the Annual Budget is based on line item where projects are already identified including those projects intended for the barangays as the beneficiary.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-PY14",
+      "year": 2018,
+      "recommendation": "We recommend that\nthe Municipal Engineer\ninclude the project\nduration in all its\nprojects in the Program\nof Work.\nFurther, we\nrecommend that\nmanagement submit\njustification why the\ntotal cost paid for labor\nexceeded the total cost\nof labor appropriated in\nthe Program of Work.",
+      "managementAction": "POW already included the date when prepared.",
+      "status": "IMPLEMENTED",
+      "reason": "Date already indicated on program of work."
+    },
+    {
+      "id": "Tubigon_Bohol-2018-PY15",
+      "year": 2018,
+      "recommendation": "We recommend\nManagement to require\nall Department Heads to\nensure that all\nemployees under its\ndivision shall have a net\ntake home pay of not\nless than ₱4,000.00 in\nadherence to Section 47\nof the GAA of FY 2016.",
+      "managementAction": "Loan approval depends on the net take home pay of employees. Those having below the P5T cap, are not granted.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2018-PY16",
+      "year": 2018,
+      "recommendation": "a. Require the\nMunicipal Accountant to\nsend demand letters to\nthe debtors and demand\npayment thereof.\nb. Require the\nMunicipal Accountant to\nenforce the submission\nof the required\nliquidation documents\nfor the financial\nassistance granted to the\nconcerned barangays\nwhere the intended\nprojects/activities have\nalready been\nimplemented.",
+      "managementAction": "Other employees have already liquidated the remaining balances of receivables. Demand letters were also sent.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The remaining balances of the receivables are uncollected because some are no longer connected with the municipality, while some receivables are inherited accounts."
+    },
+    {
+      "id": "Tubigon_Bohol-2018-PY17",
+      "year": 2018,
+      "recommendation": "a.) Require the Acting\nMunicipal Treasurer to\nwithhold the payment of\nthe salaries or any\namount due to the\npersons liable for the\nsettlement of their\nliabilities pursuant to the\nND/Decision and COA\nOrder of Execution;\nb) Require the\nMunicipal Accountant to\ndemand\nsettlement/payment of\nthe unpaid balance of\ndisallowance from\nmunicipal\nofficials/employees who\nhad already separated\nfrom service.",
+      "managementAction": "Recorded as Due from LGUS. The disallowance had already been requested to the COA Prosecution and Legal Office (PLO) and still awaiting for the resolution of the request.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Balance as of 12/31/2018 is already ₱1.938M awaiting resolution; request for installment payment was submitted to COA PLO."
+    },
+    {
+      "id": "Tubigon_Bohol-2018-PY18",
+      "year": 2018,
+      "recommendation": "We recommend that\nManagement\njustify/explain why the\nprojects funded out of\nthe 20% development\nfund were not\nimplemented as planned.\nWe recommended\nthat henceforth,\nManagement ensure\nprompt and full\nimplementation of the\ndevelopment projects as\nprogrammed in order to\nachieve the intended\npurpose for which the\nfund was appropriated\nand improve the socio-\neconomic and\nenvironmental condition\nof the constituents.",
+      "managementAction": "LGU had achieved above average passing rate as per DILG Indicator of at least 60% of the current appropriation for 20% LDF are implemented. LGUs rate is 65%.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Part of the 20% LDF is assistance to the different barangays to augment fund source for various development projects and most of these were already released."
+    },
+    {
+      "id": "Tubigon_Bohol-2018-PY19",
+      "year": 2018,
+      "recommendation": "We recommend that\nmanagement send\ndemand letters for the\nimmediate liquidation\nof the cash advances.\nIn case of failure by\nthe concerned\nofficials and\nemployees to\nliquidate, withhold\ntheir salaries in\naccordance with\nSection 9.3.2 of COA\nCircular 97-002.\nHenceforth, require\nthe liquidation of cash\nadvances promptly as\nsoon as the purpose\nfor which these were\ngranted had been\nserved or within the\nreglementary period\nand the accountant to\nabide by COA\nCircular No. 97-002\nas to the manner of\ngranting, utilization\nand liquidation of\ncash advances.",
+      "managementAction": "Demand letters were sent by management to concerned accountable officers. Not all cash advances were liquidated.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Not all cash advances were liquidated during the year."
+    },
+    {
+      "id": "Tubigon_Bohol-2018-PY20",
+      "year": 2018,
+      "recommendation": "We recommend that\nmanagement prioritize\nand consider filling-up\nthe vacant positions to\nenhance its services to\nattain full\nimplementation of\nprograms, plans and\nactivities of the local\ngovernment unit for the\noptimal benefit of the\nconstituents.\nFurther, personnel\nmovement has to be\neffected in order to\nacknowledge the\nexemplary performance\nof employees by way of\npromotion to higher rank\nthereby allowing the\nentry of new applicants\nfor lower level positions.",
+      "managementAction": "The four (4) vacant positions were filled-up.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The position of Municipal Administrator remained vacant as of Dec. 31, 2018."
+    },
+    {
+      "id": "Tubigon_Bohol-2018-PY21",
+      "year": 2018,
+      "recommendation": "It is recommended\nthat all municipal\nofficials and regular\nemployees of LGU,\nTubigon, Bohol refund\nthe amount of\n₱13,500.00 each for the\namount they received as\nCNA Incentive.",
+      "managementAction": "Refund was made on staggered basis by deducting from the payroll of the municipal officials and employees.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Waiting for the reply of the letter that was sent by management to COA National Office requesting for a staggered payment of the amount disallowed."
+    },
+    {
+      "id": "Tubigon_Bohol-2017-PY10",
+      "year": 2017,
+      "recommendation": "We recommend that: a. The Local Chief Executive directs the Inventory Committee to give focus on the task of preparing the Inventory Report and comply with the provision of Section 124 of the NGAS. b. The Municipal Accountant immediately effect the adjustments of double discrepancies between the actual and recorded balances of the affected Inventory and Property, Plant and Equipment accounts based on the results of the actual physical count.",
+      "managementAction": "An Inventory Committee has been formed but as to the finality of the Inventory Report, the management will still undergo a double discrepancies checking process.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Due to time constraints."
+    },
+    {
+      "id": "Tubigon_Bohol-2017-PY13",
+      "year": 2017,
+      "recommendation": "We recommend that Management require the Municipal Treasurer to demand for the issuance of an official receipt of the recipient Leagues in order to support the release of the financial aid and annual dues to the latter, pursuant to Section 69 of the GAAM, Volume I.",
+      "managementAction": "Management require the Municipal Treasurer to demand for the issuance from the Leagues the Official Receipts for the financial aids but their headquarters still were unable to provide.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "In this aspect, the issue raised should be referred to the national/headquarters of the recipient leagues who were still unable to provide the official receipts."
+    },
+    {
+      "id": "Tubigon_Bohol-2017-OBS1",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommend that management:\na. Require the Municipal Accountant to send demand letters to the debtors and\ndemand payment thereof.\nb. Require the Municipal Accountant to enforce the submission of the required\nliquidation documents for the financial assistance granted to the concerned\nbarangays where the intended projects/activities have already been implemented.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-OBS2",
+      "year": 2017,
+      "recommendation": "Recommendation\nWe recommend that management require:\na) The Municipal Accountant to record in the payable accounts, transactions that are\nincurred during the year but are not paid at year-end, in order to reflect the true\nresults of operations for the period.\nb) The Municipal Budget Officer, the Municipal Treasurer and the Municipal\nAccountant to reconcile their records, especially at year end, for the proper\nreporting of transactions in the municipal books.\nc) The Municipal Accountant to submit documents to support the payment of\nregistration and annual dues for LMP Bohol Chapter for the year 2016 to 2019 for\nfurther review and evaluation to avoid disallowance thereof.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-OBS3",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommend that Management:\na) Direct the Acting Municipal Treasurer to monitor the collections of the Revenue\nCollectors and enforce the daily remittance of collections to the designated\nLiquidating Officer, pursuant to Sections 15 and 29 of the NGAS Manual for LGUs,\nVolume I.\nb) Require the Acting Municipal Treasurer to properly control and monitor the\nissuances of accountable forms to the Revenue Collectors. She should see to it that\nthe collectors should not be given additional accountable forms unless the\nproceeds/collections of the booklets previously issued to them are remitted.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-OBS4",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommend that the Municipal Mayor instruct the Acting Municipal Treasurer\nto deposit all her collections intact daily or not later than the next banking day to abide\nby the regulation and to avoid the risk of possible loss of government money.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-OBS5",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-OBS6",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommend that Management require the concerned accountable officers to\nsubmit immediately the liquidation reports of their outstanding cash advances and/or\nrefund the unexpended cash balance, if any.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-OBS7",
+      "year": 2017,
+      "recommendation": "Recommendation:\nPlease submit explanation/documents as basis for the granting of cash advances to\nschool officials considering that they are not a permanent employee/elected officials of the\nmunicipality and require the immediate settlement of the above cash advances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-OBS8",
+      "year": 2017,
+      "recommendation": "Recommendation:\nIt is recommended that management-\na) Require the Acting Municipal Treasurer to withhold the payment of the salaries or\nany amount due to the persons liable for the settlement of their liabilities pursuant\nto the ND/Decision and COA Order of Execution;\nb) Require the Municipal Accountant to demand settlement/payment of the unpaid\nbalance of disallowance from municipal officials/employees who had already\nseparated from service.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-OBS9",
+      "year": 2017,
+      "recommendation": "Recommendation:\nIt is recommended that management require the Municipal Accountant to conduct a\nthorough review on the circumstances surrounding the incurrence of the negative balances\nof the above payable accounts and confirm the same to agencies concerned so that\nappropriate adjustments can be made in the books.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-OBS10",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommend that the Municipal Accountant take up the transfer of funds as\nreceivable from the different agencies to ensure and monitor that the intended purpose is\nbeing met and adhere to the provisions of COA Circular 94-013.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-OBS11",
+      "year": 2017,
+      "recommendation": "It is recommended that management –\na) Require the contractor to pay the amount of ₱20,235.00 as liquidated damages for\nthe delay in the delivery of school supplies;\nb) Submit the Delivery Receipt/s of the 1,000 pieces of school bags and\nc) Submit a List/s of Beneficiaries, for the 2,000 sets of school kits duly acknowledged\nby recipients to avoid suspension in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-OBS12",
+      "year": 2017,
+      "recommendation": "Recommendation:\nIt is recommended that the DSWD-Cash For Work Focal Person of the LGU assists\nthe recipients on the necessary documentation of the claims so that the payroll maker, the\nMunicipal Accountant and the OIC-Municipal Treasurer prepare and process the payrolls\nand release or pay immediately the financial assistance to the beneficiaries for the services\nthey rendered in repairing their damaged houses.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-OBS13",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommend that Management justify/explain why the projects funded out of the\n20% development fund were not implemented as planned.\nWe recommended that henceforth, Management ensure prompt and full\nimplementation of the development projects as programmed in order to achieve the\nintended purpose for which the fund was appropriated and improve the socio-economic\nand environmental condition of the constituents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-OBS14",
+      "year": 2017,
+      "recommendation": "Recommendation:\nIt is recommended that -\na) The Municipal Engineer indicates in the Program of Work the date upon its\npreparation and approval by the Local Chief Executive as well as the duration of\nthe project.\nb) Speedy and systematic implementation of the projects based on the schedule of\nproject implementation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-OBS15",
+      "year": 2017,
+      "recommendation": "Recommendation:\nIt is recommended that management submit an explanation on the delayed/untimely\nprocurement of the school kits. Ensure that project proposals are scheduled in a manner\nthat the purpose of which is not defeated.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-OBS16",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommend the management register with the Bureau of Internal Revenue a\nVAT registered taxpayer in accordance with the guidelines of RA 9337 and remit to the\nBIR the monthly VAT on rentals of real property.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-OBS17",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommend that the Municipal Planning and Development Coordinator explain\nwhy the projects were not listed and specified in the Annual Budget. Henceforth,\nformulation of future annual budgets has to include identification and specification of\nprojects particularly for the barangay.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-OBS18",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommend that the Municipal Engineer include the project duration in all its\nprojects in the Program of Work.\n\nFurther, we recommend that management submit justification why the total cost\npaid for labor exceeded the total cost of labor appropriated in the Program of Work.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-OBS19",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommend that management establish an IAU/IAS as required under AO\nNo. 278 and 70 to improve and strengthen the internal control system of the municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-OBS20",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommend Management to require all Department Heads to ensure that all\nemployees under its division shall have a net take home pay of not less than ₱4,000.00 in\nadherence to Section 47 of the GAA of FY 2016.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-PY1",
+      "year": 2017,
+      "recommendation": "We recommend that management require the Municipal Accountant to use the proper accounts in recording financial transactions to avoid misstatement of the financial statements and effect the necessary adjustments.",
+      "managementAction": "Other Payables account is no longer used.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-PY2",
+      "year": 2017,
+      "recommendation": "We recommend that management terminate time deposit placements and implement the intended projects for which the funds were appropriated or created. Meanwhile, in instances when funds are determined to be idle or excess funds, it should be invested in government finance institutions and not in private banks.",
+      "managementAction": "Management had terminated time deposit placements with private banks.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-PY3",
+      "year": 2017,
+      "recommendation": "We recommend that management send demand letters for the immediate liquidation of the cash advances. In case of failure by the concerned officials and employees to liquidate, withhold their salaries in accordance with Section 9.3.2 of COA Circular 97-002. Henceforth, require the liquidation of cash advances promptly as soon as the purpose for which these were granted had been served or within the reglementary period and the accountant to abide by COA Circular No. 97-002 as to the manner of granting, utilization and liquidation of cash advances.",
+      "managementAction": "Demand letters were sent by management.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Not all cash advances were liquidated during the year."
+    },
+    {
+      "id": "Tubigon_Bohol-2017-PY4",
+      "year": 2017,
+      "recommendation": "We recommend that management plan and implement projects within the timeline of implementation to ensure delivery of benefits to the target beneficiaries at scheduled period.",
+      "managementAction": "The projects were implemented during the year.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-PY5",
+      "year": 2017,
+      "recommendation": "We recommend that management stop the practice of undertaking trainings, seminars, workshops, study tours outside their territorial jurisdictions/geographical areas funded out of public funds to avoid unnecessary expenditures of the government. Further, please require the settlement of the ND for travel.",
+      "managementAction": "Authority to travel was secured for travel.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-PY6",
+      "year": 2017,
+      "recommendation": "It is recommended that management submit explanation why deliveries of construction materials were made prior to the conduct of public bidding and receipt of the Purchase Order by the supplier.",
+      "managementAction": "Deliveries of materials were monitored properly.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-PY7",
+      "year": 2017,
+      "recommendation": "It is recommended that management submit an explanation on the delayed procurement of personal protective equipment.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2017-PY8",
+      "year": 2017,
+      "recommendation": "We recommend that management prioritize and consider filling-up the vacant positions to enhance its services to attain full implementation of programs, plans and activities of the local government unit for the optimal benefit of the constituents.",
+      "managementAction": "The four (4) vacant positions were filled-up.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The position of Municipal Administrator remained vacant as of Dec. 31, 2017."
+    },
+    {
+      "id": "Tubigon_Bohol-2017-PY9",
+      "year": 2017,
+      "recommendation": "We recommend that management require the Municipal Treasurer and Municipal Accountant to submit an explanation on allowing the check be payable to FCB-TRUST and to stop this practice to avoid risk of having it credited to other accounts.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "The practice was stopped during the year."
+    },
+    {
+      "id": "Tubigon_Bohol-2017-PY11",
+      "year": 2017,
+      "recommendation": "It is recommended that all municipal officials and regular employees of LGU, Tubigon, Bohol refund the amount of ₱13,500.00 each for the amount they received as CNA Incentive.",
+      "managementAction": "Refund was made on staggered basis by deducting from the payroll of the salary received by the municipal officials and employees. (Reiterated in Part II of the report)",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Waiting for the reply of the letter that was sent by management to COA requesting for a staggered payment of the amount disallowed."
+    },
+    {
+      "id": "Tubigon_Bohol-2017-PY12",
+      "year": 2017,
+      "recommendation": "We recommend that management terminate time deposit placements and implement the intended projects for which the funds were appropriated or created. Meanwhile, in instances when funds are determined to be idle or excess funds, it should be invested in government finance institutions and not in private banks.",
+      "managementAction": "The SB passed a resolution for termination of the Time Deposit on February 17, 2017, and management had stopped all time deposit placements with private banks.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2016-PY10",
+      "year": 2016,
+      "recommendation": "We recommend that management terminate time deposit placements and implement the intended projects for which the funds were appropriated or created. Meanwhile, in instances when funds are determined to be idle or excess funds, it should be invested in government finance institutions and not in private banks.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No SB passed a Resolution yet for the termination of Time Deposits."
+    },
+    {
+      "id": "Tubigon_Bohol-2016-PY11",
+      "year": 2016,
+      "recommendation": "We recommend that Management require the Municipal Treasurer to demand for the issuance of an official receipt of the Republic of the Philippines in regards to the release of financial aid and annual dues to the leagues.",
+      "managementAction": "Written demand was done",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "it is beyond the control of the leagues."
+    },
+    {
+      "id": "Tubigon_Bohol-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We recommend that management require the Municipal Accountant to use the\nproper accounts in recording financial transactions to avoid misstatement of the\nfinancial statements and effect the necessary adjustments.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We recommend that management terminate time deposit placements and\nimplement the intended projects for which the funds were appropriated or created.\nMeanwhile, in instances when funds are determined to be idle or excess funds, it\nshould be invested in government finance institutions and not in private banks.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommend that management send demand letters for the immediate\nliquidation of the cash advances. In case of failure by the concerned officials and\nemployees to liquidate, withhold their salaries in accordance with Section 9.3.2 of COA\nCircular 97-002. Henceforth, require the liquidation of cash advances promptly as soon\nas the purpose for which these were granted had been served or within the reglementary\nperiod and the accountant to abide by COA Circular No. 97-002 as to the manner of\ngranting, utilization and liquidation of cash advances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We recommend management to plan and implement projects within the timeline\nof implementation to ensure delivery of benefits to the target beneficiaries at scheduled\nperiod.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommend that management stop the practice of undertaking trainings,\nseminars, workshops, study tours and other similar activities outside of their territorial\njurisdictions/geographical area funded out of public funds to avoid unnecessary\nexpenditures of the government. Further, please require the settlement of the ND for\nthe above transaction.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2016-OBS6",
+      "year": 2016,
+      "recommendation": "It is recommended that management submit explanation why deliveries of\nconstruction materials were made prior the conduct of public bidding and receipt of the\nPurchase Order by the supplier.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2016-OBS7",
+      "year": 2016,
+      "recommendation": "It is recommended that management submit an explanation on the delayed\nprocurement of personal protective equipment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We recommend that management prioritize and consider filling-up the vacant\npositions to enhance its services to attain full implementation of programs, plans and\nactivities of the local government unit for the optimal benefit of the constituents.\nFurther, personnel movement has to be effected in order to acknowledge the\nexemplary performance of employees by way of promotion to higher rank thereby\nallowing the entry of new applicants for lower level positions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2016-OBS9",
+      "year": 2016,
+      "recommendation": "We recommend that management require the Municipal Treasurer and\nMunicipal Accountant to submit an explanation on allowing the check be payable to\nFCB-TRUST FUND and to stop this practice to avoid risk of having it credited to other\naccounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2016-PY1",
+      "year": 2016,
+      "recommendation": "We recommend that: a. The Local Chief Executive direct the Inventory Committee to give focus on the task of preparing the Inventory Report and comply with the provision of Section 124 of the NGAS. b. The Municipal Accountant rendered immediately effect the adjustments of the discrepancies between the actual and recorded balances of the affected Inventory and Property, Plant and Equipment accounts based on the results of the actual physical count.",
+      "managementAction": "Conducted the physical inventory but was not completed.",
+      "status": "IMPLEMENTED",
+      "reason": "Due to time constraints."
+    },
+    {
+      "id": "Tubigon_Bohol-2016-PY2",
+      "year": 2016,
+      "recommendation": "It is recommended that- a) Management stop releasing the payment directly to the Medical Officer. b) Payment of Other Professional Services to medical practitioners and staff of the Tubigon Community Hospital has to be disbursed by the municipality’s designated Disbursing Officer. c) Submit proof of receipt of the benefits of other recipients.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "COA recommendation."
+    },
+    {
+      "id": "Tubigon_Bohol-2016-PY3",
+      "year": 2016,
+      "recommendation": "It is recommended that the taxes for the benefits together with the penalty and other charges be withheld and refunded by the recipients upon release of Other Professional Services and remit the same to the BIR and submit to this office the official receipt showing the refunds made.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2016-PY4",
+      "year": 2016,
+      "recommendation": "We recommend that management stop referring to brand names in preparing Purchase Requests. Instead, specify the relevant specifications of the supplies needed.",
+      "managementAction": "Requests no longer mention the relevant brand names of the items to be purchased.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2016-PY5",
+      "year": 2016,
+      "recommendation": "We recommend that the designated Deputy Disbursing Officers of the Confidential/Intelligence Fund of the municipality apply for fidelity bond with the Bureau of the Treasury and the Head of Agency evaluate the amount of Fidelity Bond vis–a-vis the corresponding maximum accountability they handled in accordance with the Revised Schedule of Premium Rates of Fidelity Bond.",
+      "managementAction": "the accountable officer were bonded.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2016-PY6",
+      "year": 2016,
+      "recommendation": "We recommend that management require: a) The Municipal Budget Officer, the Municipal Treasurer and the Municipal Accountant to reconcile their records, especially at year end, for the proper reporting of transactions in the municipal books. b) The Municipal Accountant to record in payable accounts, transactions that are incurred during the year but are not paid during that year, in order to reflect the true results of operations for the period.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2016-PY7",
+      "year": 2016,
+      "recommendation": "It is recommended that all municipal officials and regular employees of LGU, Tubigon, Bohol refund the amount of ₱13,500.00 each for the amount they received as CNA Incentive.",
+      "managementAction": "Refund was made on staggered basis by deducting from the payroll of the salary received by the municipal officials and employees.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2016-PY8",
+      "year": 2016,
+      "recommendation": "We recommend that Management justify the charging of salaries and wages against MOOE which circumventing the above laws and regulations and which paved the way for the granting of PEI.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tubigon_Bohol-2016-PY9",
+      "year": 2016,
+      "recommendation": "We recommend that Management justify/explain why the projects funded out of the 20% development fund were not implemented as planned. We recommended that henceforth, Management ensure prompt and full implementation of the development projects as programmed in order to achieve the intended purpose for which the fund was appropriated and improve the socio-economic and environmental condition of the constituents.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    }
+  ]
+}

@@ -1,0 +1,1150 @@
+{
+  "lguCode": "1108202000",
+  "lguName": "Laak",
+  "province": "Davao de Oro",
+  "region": "Region X (Northern Mindanao)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "Laak_DdO_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommend the Local Chief Executive to: a. Instruct the General Services Officer (GSO)/ Inventory and Disposal Committee and other concerned offices to commence with the one-time cleansing of the Property PPE account by observing the guidelines prescribed in COA Circular 2020-006 dated January 31, 2020.",
+      "managementAction": "According to management, they are still in the process of adopting COA Circular No. 2020-000 dated January 31, 2020.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommend that the municipality conduct physical inventory count at least twice a year to establish the actual stock on hand as of the end of a given period and determine whether there were any losses or spoilage and submit to the Office of the Auditor the Report of the Physical Count of Inventories (RPCI) not later than July 31 and January 31 of each year for the first and second semesters, respectively.",
+      "managementAction": "Reiterated in AOM No. 2022-007",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommend to adhere with the documentary and reporting requirements of LBC 111 dated June 10, 2016 in order for them to identify and assess whether the existing LEEs are financially self-sufficient and profitable to provide them better decision making to the operation of LEEs.",
+      "managementAction": "The management failed to conduct review and assessment of LEEs",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of knowledge of the reporting and documentary requirements of LBC 111, dated June 10, 2016."
+    },
+    {
+      "id": "Laak_DdO_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "We recommend that management direct the offices concerned and/or create a task force to develop strategies to expedite collections and to enforce loan payment per provisions of the MOA/Contract.",
+      "managementAction": "Absence of Agreement/contract between the LGU and the debtors which resulted to refusal to receive the demand letters served.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "Recommendations:\nWe recommended and Management agreed that the Inventory Committee:\na. conduct physical inventory count at least twice a year to establish the\nexistence and accuracy of the reported inventories as of a given period;\nb. prepare and submit to the Office of the Auditor copy of the Report of the\nPhysical Count of Inventories (RPCI) not later than July 31 and January 31 of\neach year for the first and second semesters, respectively.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "Recommendations:\nWe recommended and Management agreed that the Municipal Accountant\n1. prepare an adjusting entry to take up the unidentified deposits by taking up the\nfollowing suggested entry, viz:\nCash In Bank P510,000.00\nTrust Liabilities P510,000.00\n2. coordinate/communicate with the Land Bank Officials and know the\nwhereabouts of the deposits made.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommend that management: 1. Require the Municipal Health Officer in this case or the authorized representative, if any to render a report stating the volume of donated items utilized or the number of issuances to end-user units as basis for the Accounting Office to record the transactions relative to the utilization/ distribution of the donated drugs, medicines and medical supplies that shall be treated as expenses for a given reporting date.\n2.Unless the personnel-in-charge is able to provide a report on the receipt/inventory and utilization of donated drugs, medicines and medical supplies from DOH, he/she will be held liable for whatever pilferages or wastages incurred from non-compliance with the applicable laws, rules and regulations for property and supply management and that the related transactions shall likewise be suspended in audit.\n3. Establish accounting requirements/guidelines or implementing rules and regulations adopted by the LGU for donated drugs, medicines and medical supplies from DOH and/or other government agencies.",
+      "managementAction": "The management implemented the suggested recommendation",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommend the Local Chief Executive to provide justification for the absence of local ordinance for the creation of Special Account in the General Fund (SAGF) as provided in DBM-LBC No. 125 and Section 313 of RA No. 7160 and to direct the Municipal Accountant to secure first an authority from the Sangguniang Bayan through the enactment of an ordinance before creating special accounts in the general fund.",
+      "managementAction": "The management implemented the suggested recommendation",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "Recommendations: 1. Direct the concerned end-user to submit justification on non-preparation and submission of Project Requirement, otherwise these expenditures will be considered as unnecessary that will subsequently disallowed in audit.\n2. Also, direct BAC to can submit justification/explanatio on processing the procurement of these items when these were not among the project requirement submitted by Requisitioning.",
+      "managementAction": "The management implemented the suggested recommendation",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommend that management submit the lacking documentary requirements to verify the regularity and propriety of the procurement transactions under the Bayanihan Act. Furthermore, the management is required to submit explanation for the afore-cited deficiencies and courses of action to be taken to avoid recurrence thereof.",
+      "managementAction": "The management implemented the suggested recommendation",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Accounting Office recognize the accrued interest during the year the expense had occurred rather than the following period in which it will be paid.\nb. Unreconciled differences between book and Report of Physical Count of the General Services Office- P83,412,875.46.\na) direct the Accounting Office and General Services Office to determine the difference of their records and make necessary adjustments if any, and;\nb) require the Inventory Committee to convene and strategize the conduct of physical count of all Properties, Plant and Equipment of the municipality to present a more realistic report.",
+      "managementAction": "Management is on the process of reconciling the unreconciled amount",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended the Municipal Mayor to direct the MEO, MAO and other concerned departments to: a.) closely monitor and ensure economic and efficient implementation of all projects under the pertinent National Programs by virtue of the fund transfer received from the National Government agencies, and; b.) submit the required documents to our office relative to the delays/suspensions/extensions of the above-cited projects.",
+      "managementAction": "The management implemented the suggested recommendation",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "Should create an inventory committee to undertake physical count of inventory item, property, plant and equipment to ascertain its assets existence and to conduct physical inventory count at least twice a year to establish the actual stock on hand as of the end of a given period and determine whether there were any losses or spoilage and submit to the Office of the Auditor the Report of the Physical Count of Inventories (RPCI) not later July 31 and January 31 of each year for the first and second semesters, respectively.",
+      "managementAction": "The management has fully implemented the recommendation",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__Laak_DdO-2020-PY9",
+      "year": 2020,
+      "recommendation": "We recommended the Municipal Mayor to:\na) Secure at all times the Sanguniang Bayan Resolution authorizing him to enter\ninto contract with concerned contractors on behalf of the Municipality, before\nperfection, for those projects under the lump-sum appropriation and fund\ntransfers from various government agencies.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The\nmanagement still have to discuss with the Sanguniang Bayan the\nResolution authorizing him to enter into contract with concerned\ncontractors in behalf of the Municipality, Builders and Development\nServices."
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__Laak_DdO-2020-PY13",
+      "year": 2020,
+      "recommendation": "We recommend Management adhere with the documentary and reporting\nrequirements of LBC 111 dated June 10, 2016 in order for them to identify and\nassess whether the existing LEEs are financially self-sufficient and profitable\nand provide them better decision relative to the operation of LEEs.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The management failed to conduct review and assessment of the operation\nof LEEs due to lack of knowledge of reporting and documentary\nrequirements of LBC 111, dated June 10, 2016."
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__Laak_DdO-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended that Management submit the lacking documentary\nrequirements to verify the regularity and propriety of the procurement\ntransactions under the Bayanihan Act. Furthermore, Management is\nrequired to submit an explanation for the afore-cited deficiencies and courses\nof action to be taken to avoid recurrence thereof.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__Laak_DdO-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended the following to Management:\n1. Direct the end-user concerned to submit justification on the non-\npreparation and non-submission of Project Requirement,\notherwise these expenditures will be considered as unnecessary\nthat will subsequently disallowed in audit.\n2. Also, direct BAC to submit justification/explanation on processing\nthe procurement of these items when these were not among the\nproject requirement submitted by Requisitioning.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__Laak_DdO-2020-PY1",
+      "year": 2020,
+      "recommendation": "a) Unrecorded\naccrued interest\nexpense amounting\nto P1,091,557.73\nb) Unreconciled\ndifferences\nbetween book and\nReport of Physical\nCount of the\nGeneral Service\nOffice – P\n83,412,875.46\nc) Non-provision of\ndepreciation\namounting to P\n501,566.35 on\ncompleted projects\nthat remained in\nthe books of the\nagency as\nConstruction In\nProgress -\nBuildings and\nOther Structures.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Fully\nImplemented\nPartially\nImplemented\nFully\nImplemented"
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__Laak_DdO-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommend that management re-assess the projects charged against the 20%\nDevelopment Fund to ensure compliance with the DILG - DBM JMC No. 2017-01.\nWe further recommend that repairs and maintenance be charged against the\nGeneral Fund’s Maintenance and Other Operating Expenses (MOOE).",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__Laak_DdO-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended that the Bids and Awards Committee (BAC) ensure that\nproper mode of procurement is implemented in all procurement transactions of\nthe municipality. Moreover, we require the management to justify the conduct of\ninappropriate procurement method for the abovementioned transactions.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__Laak_DdO-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended that the Bids and Awards Committee (BAC) adhere with\nthe advertisement and posting requirements set forth in the R.A. No. 9184 to\nassure transparency and equal opportunity among qualified suppliers is\npromoted.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__Laak_DdO-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended management to ensure that all the requirements are met in the\nconduct of Direct Contracting in the purchase of fuel, oil and lubricants and to\njustify and/or submit relevant documents to prove the validity of conducting\nDirect Contracting for the abovementioned transactions.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__Laak_DdO-2020-PY6",
+      "year": 2020,
+      "recommendation": "(a) Inappropriate use of alternative method of procurement\n(b) Posting requirement\nWe recommended that:\n(a) the Municipal Mayor, as the Head of Procuring Entity, require the Bids and\nAwards Committee to strictly comply with the provisions of the Revised IRR of\nR.A. 9184 and other issuances related to procurement.\n(b) the BAC Secretariat to ensure compliance in the posting of the invitation or\nrequest for quotations (RFQ)/proposals (RFP) in the PhilGEPS, the website of\nthe Procuring Entity concerned, if available, and in any conspicuous place\nreserved for this purpose in the premises of the Procuring Entity in conformity\nwith the above-cited provisions of the 2016 Revised IRR of RA 9184.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Fully\nImplemented"
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__Laak_DdO-2020-PY7",
+      "year": 2020,
+      "recommendation": "We therefore recommended that:\na. Refrain from approving Disbursement Vouchers (DVs) with incomplete\ndocumentation to preclude suspension in audit\nb. The accountant shall attach all the supporting documents to the Disbursement\nVouchers and process only claims with complete supporting documents, and;\nc. Strictly adhere to rules and regulations in the disbursement of government\nfunds and the provisions of Appendix A of Annex H Documentary Requirements\nfor Alternative Methods of Procurement of Revised IRR of RA 9184.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__Laak_DdO-2020-PY8",
+      "year": 2020,
+      "recommendation": "We hereby recommended management to:\na. refrain from charging items not in accordance with the creation of the\nTrust Fund, and;\nb. strictly follow the Work and Financial Plan of the project/program/activities to\nattain the program/project/activities ultimate purpose.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__Laak_DdO-2020-PY10",
+      "year": 2020,
+      "recommendation": "We recommended the Municipal Mayor to direct the concerned offices to:\na. ensure that all programs/activities undertaken by the Municipality,\nirrespective of funding sources, be reported quarterly and;\nb. direct all offices involved in the implementation, monitoring and reporting to\ncoordinate with its other so that accurate and reliable information will be\nattained.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__Laak_DdO-2020-PY11",
+      "year": 2020,
+      "recommendation": "To achieve the objectives of RA 10121 and its IRR, we recommended the\nfollowing courses of action:\na) Management must endeavor to implement disaster mitigation, preparedness\nand response capability projects and programs in accordance with its LDRRMF\nInvestment Plan to effectively prevent the onslaught on lives and properties of\nthe people of Laak in times of natural disaster.\nb) Maximization of available resources on the local DRRMF for disaster\nmitigation and preparedness in order to build the resilience of the Municipality\nof Laak against disasters including climate change impacts.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially\nImplemented"
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__Laak_DdO-2020-PY12",
+      "year": 2020,
+      "recommendation": "We recommended the Municipal Mayor to direct the MEO, MAO and other\nconcerned departments to:\na) closely monitor and ensure efficient implementation of construction of all\nprojects under the pertinent Rehabilitation component by virtue of the funds\ntransfer received from the National Government agencies, and\nb) submit the required documents to our office (approved extension letter,\nextra work order, etc.), as the case maybe, relative to the delays/suspensions/\nextensions of the above-cited projects; and,\nc) to allocate funds needed in order for the rubber processing plant to operate.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The project was suspended due to the problem encountered on the\nownership of the lot where the project was constructed.\nHowever, rehabilitation of the electric component by virtue of the\nfunds transfer received from the Provincial Government of Davao de\nOro is on process.\nLaak multipurpose cooperative as the recipient of the project initiates to\nallocate funds needed in order to operate the rubber processing plant."
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__Laak_DdO-2020-PY14",
+      "year": 2020,
+      "recommendation": "We recommended Management to:\n1. Require the Acting General Services Officer to coordinate with all\ndepartment heads on all goods purchased and issued to be able to facilitate the\nadjustments to be made on the inventory items reflected in the financial\nstatements.\n2. Should create an inventory committee to undertake physical count of\ninventory item, property, plant and equipment to ascertain its assets existence\nand to conduct physical inventory count at least twice a year to establish the\nactual stock on hand as of the end of a given period and determine whether\nthere were any losses or spoilage and submit to the Office of the Auditor the\nReport of the Physical Count of Inventories (RPCI) not later than July 31 and\nJanuary 31 of each year for the first and second semesters, respectively.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Created\nInventory\nCommittee but RPCI prepared only once in CY 2019"
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__Laak_DdO-2020-PY15",
+      "year": 2020,
+      "recommendation": "We recommended the following courses of action:\na) Complete the physical count of PPE and Inventories and submit the RPCPPE\nwithin the prescribed period.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__Laak_DdO-2020-PY16",
+      "year": 2020,
+      "recommendation": "Management consider the following courses of action to improve the\nefficiency of the project implementation:\na. Direct the concerned implementing offices to address the issues/concerns\nthat caused the delay in the completion of projects;\nb. Create a monitoring team and closely follow through the periodic progress\nimplementation of development projects to ensure their completion within the\nprogrammed timelines for the attainment of the planned socio-economic\ndevelopmental goals and provision of desired benefits without further delay to\nintended beneficiaries; and\nc. Revisit the guidelines on local planning and development and comply strictly\nwith the conditions for the determination and actual implementation of projects\nthat support the Annual Investment Plan to improve efficiency in the local\ngovernance as a whole.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__Laak_DdO-2020-PY17",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Development Council (LDC) to be keen,\nesspecially in the planning phase, in prioritizing development projects/\nprograms that could help in the attainment of desirable socio-economic\ndevelopment and environmental management outcomes for the municipality.\nWith this, realignment of projects/programs will be unnecessary, and the\nimplementation phase will be fast-tracked.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__Laak_DdO-2020-PY18",
+      "year": 2020,
+      "recommendation": "We recommended that management direct the offices concerned and/or\ncreate a task force to develop the strategies to expedite collections and to\nenforce loan payment provisions of the MOA/Contract. Moreover, if collections\nof these accounts are improbable, we recommended that management submit\nsupporting requests for authority to write-off in accordance with the provisions\nof COA Circular 2016-005 dated December 19, 2016.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially\nImplemented\nThe assigned personnel is on the process of acquiring supporting documents\nneeded for the request for authority to write-off."
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__Laak_DdO-2020-PY19",
+      "year": 2020,
+      "recommendation": "We recommended the following courses of action:\n1. Require the Municipal Property Inventory Team composed of the\nrepresentatives of the Municipal Mayor, Municipal Treasurer/Municipal\nGeneral Services Officer, Municipal Assessor and the Accountable Officer of\nevery Department of the Municipality Government to conduct a complete\nphysical inventory of all properties which should be composed of the\nAppraisal Committee. All unserviceable equipment or properties should be\nincluded in the physical count and should be included in the physical count and\nrender a report thereon for possible disposal and/or dropping from the books of\naccounts.\n2. Require the Municipal Government Services Office to prepare the Report on\nthe Physical Count of Plant, Property, and Equipment (RCPPE), and furnish the\nMunicipal Accountant a copy of the report for reconciliation purposes in\naccordance to Section 124 of the NGAS. Direct the Municipal Accountant and\nthe Municipal General Services Officer to maintain and update the necessary\nrecords on PPE as required in Section 114 of the NGAS Manual. Property, Plant\nand Equipment Ledger Card shall be maintained by the Municipal Accountant\nand Property Cards by the Municipal General Services Officer. Periodic\nreconciliation of the accounting, general services records, and inventory\nreports of PPE should be undertaken. Any discrepancies noted necessary\nadjustments shall be effected to present an accurate PPE balance in the\nfinancial statements.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially\nImplemented\nConduct of physical inventory is on-going.\nReport on RPCPPE were already prepared however, reconciliation of\nrecords are on-going."
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__Laak_DdO-2020-PY20",
+      "year": 2020,
+      "recommendation": "We recommended that the General Services Officer submit the contracts and\ntheir supporting documents to the Office of the Auditor within five (5) days\nfrom their execution, as required under COA Circular No. 2009-001 dated\nFebruary 12, 2009 in order that timely and relevant technical and auditorial\nreview and evaluation of the contract may be conducted so that the agency will\nbe promptly informed of any deficiency found during the audit, if any.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-XI__Municipalities__Davao-de-Oro__Laak_DdO-2020-PY21",
+      "year": 2020,
+      "recommendation": "Require the Philippine League of Councilors (PCL) and all other leagues\norganized by officials, to issue a government Official Form 51 (AF 51) Receipts\non their collections so that proper accountability could be established. Ensure\nthat all future registration fee payments for PCL conducted trainings/\nseminars/activities be receipted with a government official receipt which is\nAccountable Form 51 to avoid audit suspensions/disallowances.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially\nImplemented\nThe Municipal Accountant required the elected Accountable Officials to attach\nOfficial Form 51 (AF 51) for all collections/ liquidation reports; however, PCL\nstill issues personalized receipts.\nPCL collections should be deposited as trust fund and should be disbursed in\naccordance with the board of director’s resolutions, subject to the usual\naccounting and auditing rules and regulations."
+    },
+    {
+      "id": "Laak_DdO-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accounting Office recognize the accrued interest during the year the expense had occurred rather than in the following period in which it will be paid.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended Management to:\ndirect the Accounting Office and General Services Office to determine the difference of their records and make necessary adjustments if any, and;\nrequire the Inventory Committee to convene and strategize the conduct of physical count of all Properties Plant and Equipment of the municipality to present a more realistic report;",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended the Municipal Mayor to:\nDirect the Municipal Engineering Office to submit disbursement vouchers together with copies of Certificate of Completion/Statement of Work Accomplished (SWA) on completed projects to the Municipal Accountant for processing and proper recording in the books of accounts;\nAdvise the Municipal Accountant to reclassify completed projects into the appropriate asset account based on the submitted documents by the Municipal Engineering Office to its related PPE, and;\nRecognize the related depreciation expense and accumulated depreciation for the said projects from the time they were available for use.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommend that management re-assess the projects charged against the 20% Development Fund to ensure compliance with the DILG - DBM JMC No. 2017-01. We further recommend that expenses for repairs and maintenance be charged against the General Fund’s Maintenance and Other Operating Expenses (MOOE).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended that the Bids and Awards Committee (BAC) ensure that proper mode of procurement is implemented in all procurement transactions of the municipality. Moreover, we require the management to justify the conduct of inappropriate procurement method for the abovementioned transactions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended that the Bids and Awards Committee (BAC) adhere with the advertisement and posting requirements set forth in the R.A. No. 9184 to assure transparency and equal opportunity among qualified suppliers is promoted.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We recommended management to ensure that all the requirements are met before recommending an alternative mode of procurement to the HOPE which should be in accordance with the specific guidelines set forth in RA 9184 and its revised IRR. Moreover, we require the management to justify and/or submit relevant documents to prove the validity of conducting Direct Contracting for the abovementioned transactions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO-2019-OBS8",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor, as the Head of Procuring Entity, require the Bids and Awards Committee to strictly comply with the provisions of the Revised IRR of R.A. 9184 and other issuances related to procurement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO-2019-OBS9",
+      "year": 2019,
+      "recommendation": "We recommended the management to direct the BAC Secretariat to ensure compliance in the posting of the invitation or request for quotations (RFQ)/proposals (RFP) in the PhilGEPS, the website Procuring Entity concerned, if available, and in any conspicuous place reserved for this purpose in the premises of the Procuring Entity in conformity with the above-cited provisions of the 2016 Revised IRR of RA 9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO-2019-OBS10",
+      "year": 2019,
+      "recommendation": "We therefore recommended that:\nRefrain from approving Disbursement Vouchers (DVs) with incomplete documentation to preclude suspension in audit\nThe accountant shall attach all the supporting documents to the Disbursement Vouchers and process only claims with complete supporting documents, and;\nStrictly adhere to rules and regulations in the disbursement of government funds and the provisions of Appendix A of Annex H Documentary Requirements for Alternative Methods of Procurement of Revised IRR of RA 9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO-2019-OBS11",
+      "year": 2019,
+      "recommendation": "We hereby recommended management to:\nrefrain from charging items not in accordance with the creation of the Trust Fund, and;\nstrictly follow the Work and Financial Plan of the project/program/activities to attain the program/project/activities ultimate purpose.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO-2019-OBS12",
+      "year": 2019,
+      "recommendation": "We recommended the Municipal Mayor to:\nSecure at all times Sanguniang Bayan Resolution authorizing him to enter into contract with concerned contractors in behalf of the Municipality, before contract perfection, for those projects under the lump-sum appropriation and fund transfers from various government agencies",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO-2019-OBS13",
+      "year": 2019,
+      "recommendation": "We recommended the Municipal Mayor to direct the concerned offices to:\nensure that all projects/programs/activities undertaken by the Municipality, irrespective of funding sources, be reported quarterly, and;\ndirect all offices involved in the implementation, monitoring and reporting to coordinate with its other so that accurate and reliable information will be attained.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO-2019-OBS14",
+      "year": 2019,
+      "recommendation": "To achieve the objectives of RA 10121 and its IRR, we recommended the following courses of action:\nManagement must endeavor to implement disaster mitigation, preparedness and response capability programs and projects in accordance with its LDRRMF Investment Plan to effectively prevent the onslaught on lives and properties of the people of Laak in times of natural disaster.\nMaximization of available resources on the local DRRMF for disaster mitigation and preparedness in order to build the resilience of the Municipality of Laak against disasters including climate change impacts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO-2019-OBS15",
+      "year": 2019,
+      "recommendation": "We recommended the Municipal Mayor to direct the MEO, MAO and other concerned departments to:\nclosely monitor and ensure economic and efficient implementation of all projects under the pertinent National Programs by virtue of the funds transfer received from the National Government agencies, and;\nsubmit the required documents to our office (approved extension letter, extra work order, etc.), as the case maybe, relative to the delays/ suspensions/extensions of the above-cited projects; and,",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO-2019-OBS16",
+      "year": 2019,
+      "recommendation": "We recommend management to adhere with the documentary and reporting requirements of LBC 111 dated June 10, 2016 in order for them to identify and assess whether the existing LEEs are financially self-sufficient and profitable and provide them better decision making relative to the LEEs operations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO-2019-OBS17",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO-2019-OBS18",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO-2019-OBS19",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO-2019-OBS20",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_DdO-2019-PY1",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-PY9",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Development Council (LDC) to be keen, especially in the planning phase, in prioritizing development projects/programs that could help in the attainment of desirable socio-economic development/programs that could help in the attainment of desirable socio-economic development and environmental management outcomes for the municipality. With this, realignment of projects/programs will be unnecessary, and the implementation phase will be fast-tracked. \n\nFurther, we recommended the Management to justify why some projects/programs were realigned under Supplemental Budgets 1 to 3 and why the appropriation for the Cemetery Expansion amounting P2,000,000.00 was reverted and declared as savings under Supplemental Budget No. 5.",
+      "managementAction": "Submitted justification letter.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in Finding No. 5, Part 2 of this report."
+    },
+    {
+      "id": "Laak_CV-2018-OBS1",
+      "year": 2018,
+      "recommendation": "In view thereof, we recommended management to:\nInstruct the Municipal Accountant to reconcile the discrepancy noted between the balances of Subsidy from Other Funds and Subsidy to Other Funds and effect the necessary adjusting entries.\nRequire the Municipal Accountant to make the necessary adjusting entries for the misclassified transactions to reflect the correct balances of the affected accounts.\nObserve the additional information required by IPSAS that is not shown on the face of the financial statements but relevant to an understanding;",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We recommended the management to:\nRequire the Municipal Treasurer to prepare the Real Property Tax Account Register/Taxpayer’s index card based on the Assessment Roll provided by the Municipal Assessor’s Office. Then, submit the said register at the beginning of the year to the accounting office for the proper recognition of the receivable accounts.\nRequire Municipal Accountant to recognize the RPT/SET Receivable at the beginning of the year based on the certified list of tax payers’ amount due and collectible for the year prepared by the Municipal Treasurer in order to record in the books not the mere income estimates from real property taxes but actual receivables from said taxes and to fairly present the said accounts in the financial statements.\nRequire the Municipal Treasurer to verify and validate the total delinquent account balance and to report all the uncollected and delinquent RPTs of the 40 barangays to present fairly the balance of RPT/SET Receivables. Consequently, the Municipal Accountant shall make the necessary adjusting entries to conform the records of the two offices.\nMoreover, require the Municipal Accountant and the Municipal Treasurer to reconcile regularly the accounting and treasury records to verify the accuracy and validity of their records and immediately provide corrective action for discrepancies noted.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended the following courses of action:\nRequire the Acting General Services officer to regularly prepare the Summary of Supplies and Materials Issued for all inventory items of the municipality and submit the same to the Municipal Accountant for the proper recording of expenditures in accordance to Section 121 of the Manual on New Government Accounting System, Volume 1.\nRequire the Acting General Services Officer to coordinate with all department heads on all goods purchased and issued to be able to facilitate the adjustments to be made on the inventory items reflected in the financial statements.\nShould create an inventory committee to undertake physical count of inventory item, property, plant and equipment to ascertain its assets existence and to conduct physical inventory count at least twice a year to establish the actual stock on hand as of the end of a given period and determine whether there were any losses or spoilage and submit to the Office of the Auditor the Report of the Physical Count of Inventories (RPCI) not later than July 31 and January 31 of each year for the first and second semesters, respectively",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Accountant effect the necessary adjusting entry to properly classify the abovementioned financial transactions in accordance with COA Circular No. 2015-009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Development Council (LDC) to be keen, especially in the planning phase, in prioritizing development projects/programs that could help in the attainment of desirable socio-economic development and environmental management outcomes for the municipality. With this, the reversion of projects/programs will be unnecessary, and the implementation phase will be fast-tracked.\nFurther, we recommended the management to justify why some projects/programs were reverted under Supplemental Budgets 3 and 4.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Accountant should submit the required authority from the SB for the Municipal Mayor to enter into contracts or incurred expense in behalf of the LGU to implement the projects totaling P11,333,014.45.\nWe also recommended that in the preparation of the Annual and Supplemental Budget, the Municipal Mayor should provide specific and sufficient details of the proposed projects/programs in compliance with COA Memorandum No. 2010-014 to avoid disallowance in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-OBS7",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipality, through the Municipal Budget Office, appropriate funds for the LDRRMF based on its estimated income from regular sources, in compliance to RA 10121 and the Manual on Setting Up and Operation of LEE.\nWe also recommended for the Municipality, through the Municipal Budget Office, ensure that specific LDRRM projects, programs, and activities are identified first in the LDRRMF Investment Plan before appropriating funds for the implementation thereof.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-OBS8",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-OBS9",
+      "year": 2018,
+      "recommendation": "We recommended management to accomplish the lacking minimum standards on disaster preparedness and mitigation as prescribed in Disaster Preparedness Plan 2011-2028 Volume 2, most especially on the category on service delivery, and the procurement of lacking equipment be considered in the LDRRM planning in order to fully comply with the minimum requirements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-OBS10",
+      "year": 2018,
+      "recommendation": "We recommended to the management to submit a written explanation why LDRRM Fund was disbursed for the above-mentioned expenditures, in as much as the fund has its specific purpose as provided in NDRRMC-DBM-DILG Joint Memorandum Circular No. 2013-1 dated March 25, 2013; and\nFurther, refrain from charging expenses which are not among those prioritized to be charged against the LDRRM Fund as stated in the above circular.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-OBS11",
+      "year": 2018,
+      "recommendation": "We recommended to the management to attach the necessary documentary requirements and strictly comply with the rules and regulations before the approval of transactions in order to verify its validity and propriety.\nMoreover, submit the abovementioned deficiencies to prove the validity and propriety of these transactions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-OBS12",
+      "year": 2018,
+      "recommendation": "We recommended management to:\nStop the grant of registration fess of in excess of the P2,000.00 limitation per day per participant for conventions, meetings, seminars and trainings conducted by NGOs and private institutions, as provided by under National Budget Circular No. 563, otherwise the excess shall be shouldered by the participant;\nAdhere with the provisions of Executive Order No. 298 in the grant of traveling expenses for attendance of officials to conventions, meetings and conferences by submitting the required documentary requirements;\nRequire the concerned officials and employees to refund their excess claims as shown above considering the requirements that any amount in excess of the prescribed rate shall be at the expense of the participants and;\nJustify why are the claims were charged against the Disaster funds of the municipality and not in the MOOE.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-OBS13",
+      "year": 2018,
+      "recommendation": "We recommended to the management the following courses of actions:\nReview current workforce requirements of the Municipality vis-à-vis unimplemented PPAs. If the in-house capability is not adequate to implement PPAs as scheduled, consider the mode of implementation by contract for projects of substantial estimated project costs especially those where the target completion dates and/or year of implementation, have already lapsed; and\nCreate a monitoring team and closely follow through the periodic progress implementation of development projects to ensure their completion within the programmed timelines; and\nStrengthen the conduct of proper planning and timely execution of PPAs as well as continuous monitoring and evaluation of PPAs to address issues that may be needed to be resolved during their implementation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-OBS14",
+      "year": 2018,
+      "recommendation": "We recommended that the municipality’s development council headed by the Local Chief Executive shall ensure the optimum utilization of the Municipality’s 20% development fund.\nLikewise, we recommended that the management allocate properly the municipal budget to fully utilize the available resources to other important PPAs that are economically beneficial to its constituents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-OBS15",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Treasurer to:\nCoordinate with the Municipal Assessor’s Office and devise a comprehensive strategy primarily focused on:\nupdating the taxpayers’ profile in the computer program;\nidentifying the owners of the problematic properties and confer with them on how to legally divide their properties so that assessment will be made to each property; and\nthe collection of delinquent property taxes to substantially reduce the outstanding amount of delinquencies;\nRequest sufficient funding for plantilla position and for other needs of the office to facilitate effective property tax collection, monitoring, and assessment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-OBS16",
+      "year": 2018,
+      "recommendation": "We recommended that management consider the following to improve the water system operation:\nReview and revise accordingly the water rates presently adopted by the Municipality;\nIdentify strategies to improve the collection efficiency to at least 90% of its monthly billing.\nRequest for a separate transformer and electric meter from DANECO for the waterworks system operation to separately measure the electricity consumption of the water system and consequently, to properly recognize and fairly present the expense in the books of accounts.\nInclude in the report the consumption of different offices to measure accurately the results of the operation of the water system.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-OBS17",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-OBS18",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-OBS19",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-OBS20",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-OBS21",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommended the following courses of action: \nTo apply the procedures in PPSAS 21 on the determination of impaired assets and recognition of impairment loss. \n\nComplete the physical count of PPE and Inventories and submit the RPCPPE within the prescribed period.\n\nPrepare a reconciliation statement for the discrepancies noted in the balances of Due to other NGAs account vis-a-vis NGAs records and effect the necessary adjusting entries, if any and coordinate or make representation to NGAs Accountant to settle the variance.\n\nTo observe the additional information required by PPSAS that is not shown on the face of the financial statements but relevant to an understanding.",
+      "managementAction": "Prepared JEV for the recognized impairment loss.",
+      "status": "IMPLEMENTED",
+      "reason": "The GSO has not yet completed the conduct of physical count of PPE and inventories."
+    },
+    {
+      "id": "Laak_CV-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommended that the Local School Board carefully evaluate the programs/projects/activities to be included in the SEF Budget taking into consideration the specific PPAs set forth under Section 1 of R.A No. 5447 and Sections 100 (c) and 272 of R.A. No. 7160. Otherwise, expenditures not falling within those allowed under the said laws shall be disallowed in audit.",
+      "managementAction": "The LSB already adhered on the PPAs set forth under Section 1 of R.A No. 5447 and Sections 100 (c) and 272 of R.A No. 7160.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accounting Office to strictly observe compliance with the perpetual inventory method of accounting on the supplies and materials procured for construction projects by recording all purchases under the account Construction Materials Inventory, thereby providing inventory control accounts in the books of the agency.",
+      "managementAction": "Complied with the perpetual inventory method of recording all purchased supplies and materials.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-PY4",
+      "year": 2018,
+      "recommendation": "Require the Municipal Accountant to submit the related financial reports monthly and/or quarterly for the special accounts under the General Fund, namely: 20% Development Fund, Local Disaster Risk Reduction Management Fund (LDRRMF), Economic Enterprise, and such other funds that would require separate account in the general fund in order to facilitate immediate verification on the sources and uses of these funds.",
+      "managementAction": "Submitted the financial reports for special accounts under the General Fund on a monthly basis.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommended to the Municipal Accountant to adhere strictly to the accounting and reporting guidelines as prescribed under COA Circular No. 2012-02, dated September 12, 2012.\n\n\nFurther, maintain a separate subsidiary ledger (SL) for each 30% QRF and 70% DRRMF by year.",
+      "managementAction": "Transferred the unexpended LDRRMF for more than five years to the General Fund and included in the supplemental budget for appropriation to other social services.\n\nMaintained separate subsidiary ledger for each 30% QRF and 70% DRRMF by year.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-PY6",
+      "year": 2018,
+      "recommendation": "We recommended the following:\n\nSubmit justification letter on the above-noted deficiencies;\n\nAllocate 1% of the IRA for the strengthening of the LCPC and implementation of PPAs and;\n\nEstablish and/or prepare Council’s Annual Work and Financial Plan, Local Development Plan for Children (LDPC), Local Investment Plan for Children (LIPC) and prepare Municipal CPC Annual Report.",
+      "managementAction": "Submitted justification letter.\n\n\nAlready allocated 1% of IRA for LCPC.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The MSWDO prepared the 2018 Council’s Annual Work and Financial Plan, Local Development Plan for Children (LDPC) and Local Investment Plan for Children (LIPC). However, the preparation of Municipal CPC Annual Report was inadvertently overlooked by the former MSWDO."
+    },
+    {
+      "id": "Laak_CV-2018-PY7",
+      "year": 2018,
+      "recommendation": "Strictly adhere to the provisions of Section 4 (4) of PD 1445 in the disbursement of funds to avoid audit suspension/disallowance.\n\nRequire the Municipal Budget Officer to be cautious in the discharge of his duties and responsibilities to avoid the disbursement of funds without corresponding appropriation.",
+      "managementAction": "No similar transactions had occurred in the succeeding year.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommended that Management consider the following courses of action to improve the efficiency of project implementation:\nDirect the concerned implementing offices to address the issues/concerns that caused the non-implementation and/or delay in the completion of projects;\n\nCreate a monitoring team and closely follow through the periodic progress implementation of development projects to ensure their completion within the programmed timelines for the attainment of the planned socio-economic developmental goals and provision of desired benefits without further delay to intended beneficiaries; and\n\nRevisit the guidelines on local planning and development and comply strictly with the conditions for the determination and actual implementation of projects that support the Annual Investment Plan to improve efficiency in the local governance as a whole.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some projects are still on-going.\n\n\n\n\n\n\n\n\nThe created monitoring team is inactive."
+    },
+    {
+      "id": "Laak_CV-2018-PY10",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Solid Waste Management Board ensure the efficient and effective implementation of the Ecological Solid Waste Management Plan and provide necessary logistical and operational support for the achievement of the goals and objectives of the Ecological Solid Waste Management Act of 2000. Further, the Board should convene regularly to monitor and assess the progress of the 10-year ESWMP as to its viability and sustainability.",
+      "managementAction": "The MENRO office was given P2,500,000 for the construction/ establishment of Sanitary Land Fill (SLF) Phase I and one additional personnel.\n\nThe office is asking for additional funding for Phase II of the SLF and 1 unit Garbage Truck.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Members of the MSWMB still needs to be reorganized."
+    },
+    {
+      "id": "Laak_CV-2018-PY11",
+      "year": 2018,
+      "recommendation": "It is recommended that the Municipal Solid Waste Management Board (SWMB) convene to review and update the Municipality’s 10-year Ecological Solid Waste Management Plan to ensure its sustainability, viability, relevance, and effectiveness.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The LGU started the updating of 10-year ESWMP during the last quarter of CY 2018.  However, R.A No. 9003 required every LGU to include the Sanitary Land Fill in the ESWMP.\n\nMoreover, the fund received for the construction/ establishment of SLF is to be implemented in CY 2019 as it was included in the bidding conducted by the Bids and Awards Committee in the late part of December 2018."
+    },
+    {
+      "id": "Laak_CV-2018-PY12",
+      "year": 2018,
+      "recommendation": "We recommended that management direct the offices concerned and/or create a task force to develop strategies to expedite collections and to enforce loan payment per provisions of the MOA/Contract. \n\nMoreover, if collections of these accounts are improbable, we recommended that management submit requests for authority to write-off in accordance with the provisions of COA Circular 2016-005 dated December 19, 2016.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "No task force created.\n\n\n\n\n\n\n\n\nThe LGU have a pending request with the Cooperative Development Authority (CDA) for the delisted Cooperatives with an existing loan with the LGU. For the individuals whose whereabouts could not be established, the LGU is exerting effort to secure the requirements set forth in the COA Circular No.  2016-005 dated December 19, 2016, for the possible writing off of their accounts."
+    },
+    {
+      "id": "Laak_CV-2018-PY13",
+      "year": 2018,
+      "recommendation": "We recommended the following courses of action:\n \nRequire the Municipal Property Inventory Team which should be composed of the representatives of the Municipal Mayor, Municipal Treasurer/Municipal General Services Officer, Municipal Assessor and the Accountable Officer of every Department of the Municipal Government to conduct a complete physical inventory of all properties owned by the municipality at least once a year. Also, for properties without proper costing, the appraised value shall be the basis as recommended by the Appraisal Committee. All unserviceable equipment or properties should be included in the physical count and should be included in the physical count and render a report thereon for possible disposal and/or dropping from the books of accounts.\n\nRequire the Municipal Government Services Office to prepare the Report on the Physical Count of Plant, Property, and Equipment (RCPPE), and furnish the Municipal Accountant a copy of the report for reconciliation purposes in accordance to Section 124 of the NGAS. Direct the Municipal Accountant and the Municipal General Services Officer to maintain and update the necessary records on PPE as required in Section 114 of the NGAS Manual. Property, Plant and Equipment Ledger Card shall be maintained by the Municipal Accountant and Property Cards by the Municipal General Services Officer. Periodic reconciliation of the accounting, general services records, and inventory reports of PPE should be undertaken. Any discrepancies noted necessary adjustments shall be effected to present an accurate PPE balance in the financial statements.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Physical count and reconciliation of records were not yet completed due to lack of personnel to perform the tasks.\n\n\n\n\n\n\n\n\nInactive participation of the Municipal Property Inventory Team."
+    },
+    {
+      "id": "Laak_CV-2018-PY14",
+      "year": 2018,
+      "recommendation": "We recommended the following courses of action:\n\nThe Local Chief Executive shall ensure the timely implementation of projects/programs under the 20% Development Fund and Local Funds. Further, she shall see to it that programs/projects proposed to be undertaken during the budget year should be implemented and completed in the said year to attain its objective in providing socio-economic benefits to its intended beneficiaries.\n\nInstruct the Municipal Engineer to strictly administer and supervise the implementation of development projects and locally funded projects to ensure its timely completion. \n\nCreate a Team headed by the Municipal Planning and Development Coordinator to evaluate, assess and address the causes on the delay of project implementation.  Determine whether these are still feasible for implementation. In the event that such projects are identified to be no longer achievable, management shall make amendments in the Annual Investment Plan and propose other viable development projects/programs to be funded out of the 20% Development Fund and local funds.",
+      "managementAction": "Created the Local Project Monitoring Committee (LPMC).",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some projects were still on-going."
+    },
+    {
+      "id": "Laak_CV-2018-PY15",
+      "year": 2018,
+      "recommendation": "We recommended that the General Services Officer submit the original contracts and their supporting documents to the Office of the Auditor within five (5) days from their execution, as required under COA Circular No. 2009-001 dated February 12, 2009 in order that timely and relevant technical and auditorial review and evaluation of the contract may be conducted so that the agency will be promptly informed of any deficiency found during the audit, if any.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Copy of some contracts and purchase orders were not yet submitted."
+    },
+    {
+      "id": "Laak_CV-2018-PY16",
+      "year": 2018,
+      "recommendation": "Enforce the collection of unpaid balances from the sale of commercial lots. \t\nRevisit and evaluate Municipal Ordinance No. 10LC-04 and include the right of the LGU to reacquire the subject lots for those who failed to pay their accounts and the forfeiture of the 10% paid by these prospective buyers.",
+      "managementAction": "For CY 2018, the unpaid balances for the sale of commercial lots were already collected except for the four winning buyers who failed to pay their accounts. However, the said winning buyers were considered void for failure to pay their accounts within the specified period and their previous payments were forfeited.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2018-PY17",
+      "year": 2018,
+      "recommendation": "Require the Philippine Councilor Leagues (PCL) and all other leagues organized by elected officials, to issue a government Official Receipts (OR)/Accountable Form No. 51 (AF 51) for all collections made so that proper financial accountability could be established.\nPCL collections should be deposited as trust fund and should be disbursed in accordance with the board of director’s resolutions, subject to the usual accounting and auditing rules and regulations.\nEnsure that all future registration fee payments for PCL conducted trainings/seminars/activities be receipted with a government official receipt which is Accountable Form 51 to avoid audit suspensions/ disallowances.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipal Accountant required the Accountable Officers to attach Accountable Form 51 (AF 51) on their claims/ liquidation reports; however, PCL still issues personalized receipts."
+    },
+    {
+      "id": "Laak_CV-2017-PY4",
+      "year": 2017,
+      "recommendation": "We recommended the following courses of action:\n\nThe Local Chief Executive shall ensure the timely implementation of projects/programs under the 20% Development Fund and Local Funds. Further, she shall see to it that programs/projects proposed to be undertaken during the budget year should be implemented and completed in the said year in order to attain its objective in providing socio-economic benefits to its intended beneficiaries.\n\nInstruct the Municipal Engineer to strictly administer and supervise the implementation of development projects and locally funded projects to ensure its timely completion. \n\nCreate a Team headed by the Municipal Planning and Development Coordinator to evaluate, assess and address the causes on the delay of project implementation.  Determine whether these are still feasible for implementation. In the event that such projects are identified to be no longer achievable, management shall make amendments in the Annual Investment Plan and propose other viable development projects/programs to be funded out of the 20% Development Fund and local funds.",
+      "managementAction": "Implement close monitoring of the project implementation schedule.\n\nIssue office memorandum to the municipal engineer.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of coordination between concerned offices in the municipality."
+    },
+    {
+      "id": "Laak_CV-2017-OBS1",
+      "year": 2017,
+      "recommendation": "In view thereof, we recommended that Management to:\nTo apply the procedures in PPSAS 21 on the determination of impaired assets and recognition of impairment loss.\nComplete the physical count of PPE and Inventories and submit the RPCPPE within the prescribed period.\nPrepare a reconciliation statement for the discrepancies noted in the balances of Due to other NGAs account vis-a-vis NGAs records and effect the necessary adjusting entries, if any and coordinate or make representation to NGAs Accountant to settle the variance.\nTo observe the additional information required by PPSAS that is not shown on the face of the financial statements but relevant to an understanding.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommended that the Local School Board carefully evaluate the programs/projects/activities to be included in the SEF Budget taking into consideration the specific PPAs set forth under Section 1 of R.A No. 5447 and Sections 100 (c) and 272 of R.A. No. 7160. Otherwise, expenditures not falling within those allowed under the said laws shall be disallowed in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accounting Office to strictly observe compliance with the perpetual inventory method of accounting on the supplies and materials procured for construction projects by recording all purchases under the account Construction Materials Inventory, thereby providing inventory control accounts in the books of the agency.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2017-OBS4",
+      "year": 2017,
+      "recommendation": "Require the Municipal Accountant to submit the related financial reports monthly and/or quarterly for the special accounts under the General Fund, namely: 20% Development Fund, Local Disaster Risk Reduction Management Fund (LDRRMF), Economic Enterprise, and such other funds that would require separate account in the general fund in order to facilitate immediate verification on the sources and uses of these funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommended to the Municipal Accountant to adhere strictly to the accounting and reporting guidelines as prescribed under COA Circular No. 2012-02, dated September 12, 2012.\nFurther maintain a separate subsidiary ledger (SL) for each 30% QRF and 70% DRRMF by year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We recommended the following:\nSubmit justification letter on the above noted deficiencies;\nAllocate 1% of the IRA for the strengthening of the LCPC and implementation of PPAs and;\nEstablish and/or prepare Council’s Annual Work and Financial Plan, Local Development Plan for Children (LDPC), Local Investment Plan for Children (LIPC) and prepare Municipal CPC Annual Report.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2017-OBS7",
+      "year": 2017,
+      "recommendation": "Strictly adhere to the provisions of Section 4 (4) of PD 1445 in the disbursement of funds to avoid audit suspension/disallowance.\nRequire the Municipal Budget Officer to be cautious in the discharge of his duties and responsibilities to avoid the disbursement of funds without corresponding appropriation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2017-OBS8",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2017-OBS9",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2017-OBS10",
+      "year": 2017,
+      "recommendation": "We recommended Management/Municipal Accountant to monitor and review on a monthly basis all transactions affecting the Due to BIR account so that errors are identified and rectified immediately and to analyze the unaccounted balance of   P159,526.43 and effect necessary adjustments, if any.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2017-OBS11",
+      "year": 2017,
+      "recommendation": "We recommended Management/Municipal Accountant to monitor and review on a monthly basis so that errors are identified and rectified immediately and to analyze the unaccounted balance of   P 77,559.39 and effect necessary adjustments, if any.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2017-OBS12",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2017-OBS13",
+      "year": 2017,
+      "recommendation": "We recommended that the Management consider the following courses of action to improve the efficiency of project implementation:\nDirect the concerned implementing offices to address the issues/concerns that caused the non-implementation and/or delay in the completion of projects;\nCreate a monitoring team and closely follow through the periodic progress implementation of development projects to ensure their completion within the programmed timelines for the attainment of the planned socio-economic developmental goals and provision of desired benefits without further delay to intended beneficiaries; and\nRevisit the guidelines on local planning and development and comply strictly with the conditions for the determination and actual implementation of projects that support the Annual Investment Plan in order to improve efficiency in the local governance as a whole.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2017-OBS14",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Development Council (LDC) to be keen, especially in the planning phase, in prioritizing development projects/programs that could help in the attainment of desirable socio-economic development and environmental management outcomes for the municipality. With this, realignment of projects/programs will be unnecessary and the implementation phase will be fast tracked.\nFurther, we recommended the Management to justify why some projects/programs were realigned under Supplemental Budgets 1 to 3 and why the appropriation for the Cemetery Expansion amounting P2,000,000.00 was reverted and declared as savings under Supplemental Budget No. 5.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2017-OBS15",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Solid Waste Management Board ensure the efficient and effective implementation of the Ecological Solid Waste Management Plan and provide necessary logistical and operational support for the achievement of the goals and objectives of the Ecological Solid Waste Management Act of 2000. Further, the Board should convene regularly to monitor and assess the progress of the 10-year ESWMP as to its viability and sustainability.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2017-OBS16",
+      "year": 2017,
+      "recommendation": "It is recommended that the Municipal Solid Waste Management Board (SWMB) convene review and update the Municipality’s 10-year Ecological Solid Waste Management Plan to ensure its sustainability, viability, relevance and effectiveness.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2017-PY1",
+      "year": 2017,
+      "recommendation": "We recommended that management direct the offices concerned and/or create a task force to develop strategies to expedite collections and to enforce loan payment per provisions of the MOA/Contract. \n\nMoreover, if collections of these accounts are improbable, we recommended that management submit requests for authority to write-off in accordance with the provisions of COA Circular 2016-005 dated December 19, 2016.",
+      "managementAction": "The concerned offices of the municipal government and the municipal agriculturist office as the implementing office of the said program in coordination with the Municipal Mayor’s Office shall create collection task force agents for the enforcement of loan collections of these dormant receivable accounts. Said offices shall coordinate in sending notices of collection and demand letters to the borrowers; assigned collection agents shall be given time-frame to exert effort to collect the accounts as well as the time-frame for the borrowers to pay; failure to pay loans shall be subject to legal action.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The management is still in the process of enforcing collection of loans."
+    },
+    {
+      "id": "Laak_CV-2017-PY2",
+      "year": 2017,
+      "recommendation": "We recommended the following courses of action:\n \nRequire the Municipal Property Inventory Team which should be composed of the representatives of the Municipal Mayor, Municipal Treasurer/Municipal General Services Officer, Municipal Assessor and the Accountable Officer of every Department of the Municipal Government to conduct a complete physical inventory of all properties owned by the municipality at least once a year. Also, for properties without proper costing, the appraised value shall be the basis as recommended by the Appraisal Committee. All unserviceable equipment or properties should be included in the physical count and should be included in the physical count and render a report thereon for possible disposal and/or dropping from the books of accounts.\n\nRequire the Municipal Government Services Office to prepare the Report on the Physical Count of Plant, Property and Equipment (RCPPE), and furnish the Municipal Accountant a copy of the report for reconciliation purposes in accordance to Section 124 of the NGAS. Direct the Municipal Accountant and the Municipal General Services Officer to maintain and update the necessary records on PPE as required in Section 114 of the NGAS Manual. Property, Plant and Equipment Ledger Card shall be maintained by the Municipal Accountant   and Property Cards by the Municipal General Services Officer. Periodic reconciliation of the accounting, general services records, and inventory reports of PPE should be undertaken. Any discrepancies noted, necessary adjustments shall be effected in order to present an accurate PPE balances in the financial statements.",
+      "managementAction": "1. Undertake a complete physical inventory with the appraisal, inventory and disposal committee re: all properties owned by the municipality at least once a year.\n\n2. To consolidate monthly all acknowledgement Receipt for Equipment (ARE) for which property, plant and equipment were issued to end-users.\n\n3. To consolidate and summarize monthly all requisition and issue slip (RIS) for which supplies, materials and construction materials issued to all end-users.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Management only conducted inventory count on the unserviceable PPE."
+    },
+    {
+      "id": "Laak_CV-2017-PY3",
+      "year": 2017,
+      "recommendation": "We recommended that management must exert effort to efficiently and effectively implement pro-poor programs in order to attain the goals and objectives of the Sustainable Livelihood Program (SLP).\n\n\tDirect the Municipal Social Welfare and Development Officer and Municipal Agriculture Officer concerned to fast track SLP implementation to help in the upliftment of the living condition of the disadvantaged populace. \n\n\tMake representations with the Department of Social Welfare and Development Region XI, the donor agency, for the realignment of program funds which are so difficult to undertake due to absence of prospective suppliers to other viable and sustainable pro-poor programs.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2017-PY5",
+      "year": 2017,
+      "recommendation": "To achieve the objectives of RA 10121 and its IRR, we recommended the following courses of action:\n\n1. Management must endeavor to implement disaster mitigation, preparedness and response capability programs and projects in accordance with its LDRRMF Investment Plan to effectively prevent the onslaught on lives and properties of the people of Laak in times of natural disaster.\n\n2. Maximization of available resources on the local DRRMF for disaster mitigation and preparedness in order to build the resilience of the Municipality of Laak against disasters including climate change impacts.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2017-PY6",
+      "year": 2017,
+      "recommendation": "It is recommended to require the Municipal Treasurer to remit promptly the 50% share of the Special Education Tax to the provincial government to aid the latter in the funding and implementation of priority programs and projects under the Special Education Fund.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2017-PY7",
+      "year": 2017,
+      "recommendation": "We recommended that the General Services Officer submit the original contracts and their supporting documents to the Office of the Auditor within five (5) days from their execution, as required under COA Circular No. 2009-001 dated February 12, 2009 in order that timely and relevant technical and auditorial review and evaluation of the contract may be conducted so that the agency will be promptly informed of any deficiency found during the audit, if any.",
+      "managementAction": "To submit procurement documents particularly the original contracts and their supporting documents within 5 days from receipt of original contracts and POs by the winning bidders to the office of the auditor.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some contracts were not submitted within the prescribed period."
+    },
+    {
+      "id": "Laak_CV-2017-PY8",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Engineer and other concerned officials to submit the list of PPAs on its prescribed format every beginning of the year which shall include those at the planning stage and those on-going projects in pursuance to the provisions of COA Circular No. 2013-004 dated January 30, 2013 to enable the Audit Team to undertake prompt validation of the projects.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2017-PY9",
+      "year": 2017,
+      "recommendation": "In order to foster public awareness and monitoring of the procurement process and implementation of perfected and awarded contracts of the LGU, we recommended the following:\n\n1. Require the Bids and Awards Committee to prepare the Procurement Monitoring Report (PMR) for all types of procurements at the end of each semester and have it approved by the HOPE.\n2. Submit the duly approved PMR, furnishing a copy to Office of the Auditor, the Government Procurement Policy Board (GPPB) in printed and electronic format within fourteen ((14) calendar days after the end of each semester.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2017-PY10",
+      "year": 2017,
+      "recommendation": "Enforce the collection of unpaid balances from the sale of commercial lots. \t\nRevisit and evaluate Municipal Ordinance No. 10LC-04 and include the right of the LGU to reacquire the subject lots for those who failed to pay their accounts and the forfeiture of the 10% paid by these prospective buyers.",
+      "managementAction": "The Municipal Lot Awards Committee shall convene and promulgate additional rules and regulations specifically on the collection of unpaid balances from the sale of commercial lots and include the right of the LGU to reacquire the subject lots for those who failed to pay their accounts and the forfeiture of the 10% paid by these prospective buyers.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Target date of committee meeting is December 2017. As of 2016, the total collection is P723,918.00"
+    },
+    {
+      "id": "Laak_CV-2017-PY11",
+      "year": 2017,
+      "recommendation": "Require the Philippine Councilor Leagues (PCL) and all other leagues organized by elected officials, to issue a government Official Receipts (OR)/Accountable Form No. 51 (AF 51) for all collections made so that proper financial accountability could be established.\nPCL collections should be deposited as trust fund and should be disbursed in accordance with the board of director’s resolutions, subject to the usual accounting and auditing rules and regulations.\nEnsure that all future registration fee payments for PCL conducted trainings/seminars/activities be receipted with a government official receipt which is Accountable Form 51 to avoid audit suspensions/ disallowances.",
+      "managementAction": "Furnish the SB Members a copy of the Audit Observation Memorandum.\n\nRequire the SB Members to attach to their liquidation report a government Official Receipts/ Accountable Form 51 for the registration fees paid to the Philippine Councilor’s League (PCL)",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The issue was already forwarded to the National Level but still unresolved up to this date."
+    },
+    {
+      "id": "Laak_CV-2016-PY4",
+      "year": 2016,
+      "recommendation": "Require the DSWD Project Development Officer and Municipal Agriculturist to fast track the implementation of the Sustainable Livelihood Programs in order to help improve the living condition of the 4Ps and “Typhoon Pablo” affected families.\n\nRevisit and evaluate the Memorandum of Agreement executed by and between the LGU and the DSWD Region XI, Davao City on Sustainable Livelihood Program (SLP) specifically on the personnel in-charge to carry out the SLP to be able to timely attain the pro-poor program objectives and to pinpoint responsibility and accountability on program funds.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in Finding No. 3 of AAR 2016"
+    },
+    {
+      "id": "Laak_CV-2016-PY10",
+      "year": 2016,
+      "recommendation": "Require the Philippine Councilor Leagues (PCL) and all other leagues organized by elected officials, to issue a government Official Receipts (OR)/Accountable Form No. 51 (AF 51) for all collections made so that proper financial accountability could be established.\nPCL collections should be deposited as trust fund and should be disbursed in accordance with the board of director’s resolutions, subject to the usual accounting and auditing rules and regulations.\nEnsure that all future registration fee payments for PCL conducted trainings/seminars/activities be receipted with a government official receipt which is Accountable Form 51 to avoid audit suspensions/ disallowances.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The receipts issued by the PCL were still personalized receipts."
+    },
+    {
+      "id": "Laak_CV-2016-OBS1",
+      "year": 2016,
+      "recommendation": "Recommendations:\nWe recommend that management direct the offices concerned and/or create a task force to develop strategies to expedite collections and to enforce loan payment per provisions of the MOA/Contract.\nMoreover, if collections of these accounts are improbable, we recommend that management submit requests for authority to write-off in accordance with the provisions of COA Circular 2016-005 dated December 19, 2016.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2016-OBS2",
+      "year": 2016,
+      "recommendation": "Recommendations:\nWe recommend the following courses of action:\nRequire the Municipal Property Inventory Team which should be composed of the representatives of the Municipal Mayor, Municipal Treasurer/Municipal General Services Officer, Municipal Assessor and the Accountable Officer of every Department of the Municipal Government to conduct a complete physical inventory of all properties owned by the municipality at least once a year. Also, for properties without proper costing, the appraised value shall be the basis as recommended by the Appraisal Committee. All unserviceable equipment or properties should be included in the physical count and should be included in the physical count and render a report thereon for possible disposal and/or dropping from the books of accounts.\nRequire the Municipal Government Services Office to prepare the Report on the Physical Count of Plant, Property and Equipment (RCPPE), and furnish the Municipal Accountant a copy of the report for reconciliation purposes in accordance to Section 124 of the NGAS. Direct the Municipal Accountant and the Municipal General Services Officer to maintain and update the necessary records on PPE as required in Section 114 of the NGAS Manual. Property, Plant and Equipment Ledger Card shall be maintained by the Municipal Accountant   and Property Cards by the Municipal General Services Officer. Periodic reconciliation of the accounting, general services records, and inventory reports of PPE should be undertaken. Any discrepancies noted, necessary adjustments shall be effected in order to present an accurate PPE balances in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2016-OBS3",
+      "year": 2016,
+      "recommendation": "Recommendations:\nWe recommend that management must exert effort to efficiently and effectively implement pro-poor programs in order to attain the goals and objectives of the Sustainable Livelihood Program (SLP).\nDirect the Municipal Social Welfare and Development Officer and Municipal Agriculture Officer concerned to fast track SLP implementation to help in the upliftment of the living condition of the disadvantaged populace.\nMake representations with the Department of Social Welfare and Development Region XI, the donor agency, for the realignment of program funds which are so difficult to undertake due to absence of prospective suppliers to other viable and sustainable pro-poor programs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2016-OBS4",
+      "year": 2016,
+      "recommendation": "Recommendations:\nWe recommend the following courses of action:\nThe Local Chief Executive shall ensure the timely implementation of projects/programs under the 20% Development Fund and Local Funds. Further, she shall see to it that programs/projects proposed to be undertaken during the budget year should be implemented and completed in the said year in order to attain its objective in providing socio-economic benefits to its intended beneficiaries.\nInstruct the Municipal Engineer to strictly administer and supervise the implementation of development projects and locally funded projects to ensure its timely completion.\nCreate a Team headed by the Municipal Planning and Development Coordinator to evaluate, assess and address the causes on the delay of project implementation.  Determine whether these are still feasible for implementation. In the event that such projects are identified to be no longer achievable, management shall make amendments in the Annual Investment Plan and propose other viable development projects/programs to be funded out of the 20% Development Fund and local funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2016-OBS5",
+      "year": 2016,
+      "recommendation": "Recommendations:\nTo achieve the objectives of RA 10121 and its IRR, we recommend the following courses of action:\nManagement must endeavor to implement disaster mitigation, preparedness and response capability programs and projects in accordance with its LDRRMF Investment Plan to effectively prevent the onslaught on lives and properties of the people of Laak in times of natural disaster.\nMaximization of available resources on the local DRRMF for disaster mitigation and preparedness in order to build the resilience of the Municipality of Laak against disasters including climate change impacts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2016-OBS6",
+      "year": 2016,
+      "recommendation": "Recommendation:\nIt is recommended to require the Municipal Treasurer to remit promptly the 50% share of the Special Education Tax to the provincial government to aid the latter in the funding and implementation of priority programs and projects under the Special Education Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2016-OBS7",
+      "year": 2016,
+      "recommendation": "Recommendation:\nWe recommend that the General Services Officer submit the original contracts and their supporting documents to the Office of the Auditor within five (5) days from their execution, as required under COA Circular No. 2009-001 dated February 12, 2009 in order that timely and relevant technical and auditorial review and evaluation of the contract may be conducted so that the agency will be promptly informed of any deficiency found during the audit, if any.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2016-OBS8",
+      "year": 2016,
+      "recommendation": "Recommendation:\nWe recommend that the Municipal Engineer and other concerned officials to submit the list of PPAs on its prescribed format every beginning of the year which shall include those at the planning stage and those on-going projects in pursuance to the provisions of COA Circular No. 2013-004 dated January 30, 2013 to enable the Audit Team to undertake prompt validation of the projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2016-OBS9",
+      "year": 2016,
+      "recommendation": "Recommendations:\nIn order to foster public awareness and monitoring of the procurement process and implementation of perfected and awarded contracts of the LGU, we recommend the following:\nRequire the Bids and Awards Committee to prepare the Procurement Monitoring Report (PMR) for all types of procurements at the end of each semester and have it approved by the HOPE.\nSubmit the duly approved PMR, furnishing a copy to Office of the Auditor, the Government Procurement Policy Board (GPPB) in printed and electronic format within fourteen ((14) calendar days after the end of each semester.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2016-PY1",
+      "year": 2016,
+      "recommendation": "Institute administrative/ criminal sanctions if warranted against the former Special Disbursing Officer who at the same time is the Municipal Budget Officer for submitting fabricated or fake supporting documents which is tantamount to dishonesty and grave misconduct. Further, relieve her as Municipal Budget Officer for her failure to uphold her commitment to public interest as mandated under Section 4 of RA 6713.",
+      "managementAction": "The former Special Disbursing Officer had already resigned from government service.\n\nThe case was filed to the Ombudsman.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2016-PY2",
+      "year": 2016,
+      "recommendation": "The BAC Secretariat shall be held liable and responsible on the splitting of purchase orders and payments on the implementation of the Livestock Production Program.\n\nImpose liquidated damages on the delayed delivery of the livestock and consider the blacklisting of the winning bidder if warranted.    \n \t\nAdhere strictly to the provisions of RA 9184 otherwise known as the Government Procurement Reform Act.",
+      "managementAction": "The management had already rescinded the contract between the LGU and the winning bidder and had imposed liquidated damages for the undelivered items.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2016-PY3",
+      "year": 2016,
+      "recommendation": "Strict adherence on the terms and conditions of the Memorandum of Agreement on the Livestock Production Program should be observed.\n The Municipal Agriculturist should be admonished to closely monitor the implementation of the project to ensure the prompt completion of the Livestock Production Program.",
+      "managementAction": "The program was already completed.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2016-PY5",
+      "year": 2016,
+      "recommendation": "Enforce the collection of unpaid balances from the sale of commercial lots. \t\nRevisit and evaluate Municipal Ordinance No. 10LC-04 and include the right of the LGU to reacquire the subject lots for those who failed to pay their accounts and the forfeiture of the 10% paid by these prospective buyers.",
+      "managementAction": "The LGU had partially collected the unpaid balances from the sale of commercial lots.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There are still two buyers who have not fully paid their accounts to the LGU."
+    },
+    {
+      "id": "Laak_CV-2016-PY6",
+      "year": 2016,
+      "recommendation": "Require the Municipal Accountant to strictly comply with the preparation and submission of the report on the sources and utilization of the LDRRMF to COA every end of each month pursuant to COA Circular 2012-002 dated September 12, 2012, for verification/audit purposes.",
+      "managementAction": "Submitted the required reports.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2016-PY7",
+      "year": 2016,
+      "recommendation": "Require the GSO to submit approved Purchase Orders together with their supporting documents to the Audit Team for contract review within five (5) working days from issuance as prescribed in Section 3.2.1 of COA Circular 2009-001 dated February 12, 2009 in order to have a timely review and evaluation of the various contracts entered into by the Municipality. Also, see to it that Purchase Orders and other documents in the procurement process are duly accomplished, dated and received by concerned parties in compliance with the provisions of RA 9184.",
+      "managementAction": "The management had started submitting the approved POs together with the supporting documents.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2016-PY8",
+      "year": 2016,
+      "recommendation": "Require the GAD Focal Person to submit the CY 2015 Annual Accomplishment Report to the COA Auditor to be able to validate and evaluate implemented programs, projects and activities.",
+      "managementAction": "The management already submitted the GAD Accomplish-ment Report.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2016-PY9",
+      "year": 2016,
+      "recommendation": "Management through the GAD Focal Person shall seek approval of its future GAD Plan and Budget and secure Certificate of Approval from the Department of Interior and Local Government (DILG) Regional office for integration of the GAD Programs, Projects and activities in its Annual Investment Plan.\nLikewise, the Municipal Planning and Development Office   should establish a Gender database in order to have reliable and sufficient information for gender responsive planning, programming and policy formulations.",
+      "managementAction": "The management had already secured the approval from the DILG for their 2016 GAD Plan and Budget and submitted the report on March 3, 2017.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Laak_CV-2016-PY11",
+      "year": 2016,
+      "recommendation": "Conduct further investigation to establish the validity and propriety of the questionable transactions.  If warranted, institute administrative sanctions against the Special Disbursing Officer-Municipal Budget Officer.",
+      "managementAction": "The concerned Accountable Officer had already resigned.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    }
+  ]
+}

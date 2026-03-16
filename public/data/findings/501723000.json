@@ -1,0 +1,1022 @@
+{
+  "lguCode": "501723000",
+  "lguName": "Nabua",
+  "province": "Camarines Sur",
+  "region": "Region IV-A (CALABARZON)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS1",
+      "year": 2024,
+      "recommendation": "We recommended that the Management:\nDirect the Municipal Accountant to recognize all lands owned by the Municipality in the books;\nDirect the Municipal Assessor to expedite the titling of the lands of the Municipality;\nDirect the General Services Officer to conduct a complete physical inventory of all PPE and prepare the corresponding Report on the Physical Count of Property, Plant, and Equipment;\nConduct the disposal procedure for the unserviceable PPE and derecognize the same from the books; and\nPrepare adjusting entries to reflect the correct balance of the CIP and disclose the CIP balance that cannot be traceable.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS2",
+      "year": 2024,
+      "recommendation": "We recommended that Management direct the Municipal Treasurer and Municipal Accountant to investigate and make the necessary adjusting entries to restore accurate cash balances in the Cash in Bank - LCCA accounts.\nWe also recommended that Management instruct the Municipal Accountant to prioritize the prompt submission of the required Bank Reconciliation Statements (BRS), along with supporting schedules to enable a timely review of the accuracy and validity of bank balances and reconciling items.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS3",
+      "year": 2024,
+      "recommendation": "We recommended that the Management:\nEnsure the proper granting, utilization, and liquidation of all cash advances in accordance with COA Circular No. 97-002 dated February 10, 1997; and\nDirect all Accountable Officers to immediately settle their respective Cash Advances through demand letters.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS4",
+      "year": 2024,
+      "recommendation": "We reiterated that Management require the:\nCoordination between the Municipal Accountant and the GSO towards the full implementation of the perpetual inventory method in recording of supplies and materials; and establishment of sufficient stock room for proper storage of items of inventories;\nGSO-designate/Inventory Committee to prepare and submit a complete Report on the Physical Count of Inventories on a semestral basis in order to determine the correctness of the recorded inventories in the books of accounts of the Municipality and to ensure that semestral count of Inventory items is promptly conducted and the corresponding report is submitted on time to the Audit Team;\nMunicipal Accountant and GSO to maintain supplies ledger cards (SLC) and stock cards (SC), respectively, for each type of inventories and reconcile the accounting and property records periodically to bring these accounts into agreement; and\nMGSO to prepare and maintain Inventory Custodian Slip (ICS) for each item of inventory with shelf life of more than one year to establish proper accountability of accountable officers concerned.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS5",
+      "year": 2024,
+      "recommendation": "We recommended that Management direct the Municipal Accountant to provide complete documentation and adequate disclosure for the outstanding obligations certified or charged to Accounts Payable so that the correctness and validity of related liability accounts can be verified and established in the audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS6",
+      "year": 2024,
+      "recommendation": "We recommended that Management require the Municipal Accountant to:\nReview, analyze, and reconcile the details of the Other Payables account; and\nProvide complete documentation and adequate disclosure for the outstanding obligations so that the correctness and validity of the account could be verified and established in the audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS7",
+      "year": 2024,
+      "recommendation": "We recommended that Management direct Municipal Accountant to:\nCause the thorough review of the Due to BIR account and the religious preparation and maintenance of an appropriate Subsidiary Ledger for each account;\nSubmit the Schedule of Due to BIR and ensure to prepare and submit this to the Office of the Auditor;\nEstablish a system or routine that will be observed by accounting personnel in maintaining the subsidiary ledger and schedule of Payables to ensure that adequate information is captured in those records.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS8",
+      "year": 2024,
+      "recommendation": "We recommended the Management to:\nPrepare adjusting entries to reflect the correct amount of Intangible Asset and Government Equity; and\nPrepare adjusting entries to reflect the amortization expenses for the past periods.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS9",
+      "year": 2024,
+      "recommendation": "We recommended that Management direct the Municipal Accountant to review and reconcile collections and remittances to determine any unremitted balance or recording errors and take necessary steps, such as remitting the amount to GSIS or adjusting the accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS10",
+      "year": 2024,
+      "recommendation": "We recommended that Management direct the Municipal Accountant to review and reconcile collections and remittances to determine any unremitted balance or recording errors and take necessary steps, such as remitting the amount to Pag-IBIG or adjusting the accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS11",
+      "year": 2024,
+      "recommendation": "We recommended that Management direct the Municipal Accountant to identify the details of any unremitted premiums and promptly remit them, if applicable. Additionally, measures should be taken to ensure the accurate and timely remittance of PhilHealth contributions to prevent future unremitted balances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS12",
+      "year": 2024,
+      "recommendation": "We recommended the Management to:\nStrictly implement the retention money provisions under Paragraphs 6.1 to 6.2 of Annex E of IRR of RA 9184; and\nRequire contractors to submit a bank guarantee, irrevocable standby letter of credit, or surety bond callable on demand as substitute if contractors will opt to withdraw the retention money upon full payment after completion.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS13",
+      "year": 2024,
+      "recommendation": "We recommended the Management to assess projects that have been completed for a year and issue a Certificate of Final Acceptance after ensuring compliance with contract plans and specifications.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS14",
+      "year": 2024,
+      "recommendation": "We respectfully recommended that Management:\nDirect the Local Engineer to prepare and submit duly Approved List of all on-going government projects/programs/activities (PPAs) and those that are to be implemented during the year to the Supervising Auditor and Audit Team Leader (SA & ATL) at the beginning of the year pursuant to Item No. 2.1 of COA Circular No. 2013-004 dated January 30, 2013 for verification. The same shall be regularly updated during the year in case of additional or new PPAs is to be implemented in that year, otherwise related expenses will be disallowed in audit and legal and administrative proceedings may be commence as evidence may warrant under the circumstances;\nPromptly comply with the posting requirement thru a standard Project Signboard as designed; and\nSubmit the duly signed Monthly Monitoring Report and/or a Statement of Work Accomplishments (SWA) based on the interval of verification (%) percentage provided for in the Table.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS15",
+      "year": 2024,
+      "recommendation": "We recommended that Management require the concerned offices/departments to implement immediately the various PPAs funded by the NGAs, if still on-going and warranted. Otherwise, remit to the source agencies or to the Bureau of the Treasury, whichever is appropriate, the unexpended balance of the trust fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS16",
+      "year": 2024,
+      "recommendation": "We recommended that the Management:\nDirect the Municipal Accountant to submit lacking delivery receipts or require the payee to refund the excess payment;\nRequire the Solid Waste Action Officer to submit documentation for the barangay Materials Recovery Facilities (MRFs) and Solid Waste Management (SWM) programs and activities to the audit team.\nRequire the Municipal Solid Waste Management Board to revisit and update its 10-year solid waste management plan and to ensure the development of an environmentally compliant sanitary landfill, align planned programs and projects with the National Solid Waste Management Framework; and\nStrictly comply with the environmental laws outlined in Republic Act (RA) No. 9003.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS17",
+      "year": 2024,
+      "recommendation": "We recommended that Management direct the Offices concerned to ensure the full implementation of all projects funded by 20% DF within the budget year for optimum utilization of the fund and in order to achieve the desirable socio-economic development and environmental outcomes of the LGU.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS18",
+      "year": 2024,
+      "recommendation": "We recommended the Management to:\nInstruct the GAD focal person / GFPs to monitor the implementation of the identified PPAs and maximize utilization of the GAD funds to accomplish the purposes/objectives for which the GAD PPAs were identified in order to deliver immediate and optimum benefits to target beneficiaries;\nSubmit the distribution lists or any proof of actual implementation to avoid suspensions and/or disallowance in audit; and\nDirect GAD Focal Point and implementing offices to ensure that proper documentation is maintained and submitted to facilitate verification and safeguard the integrity of public funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS19",
+      "year": 2024,
+      "recommendation": "We recommended the Management to:\nSettle the unpaid Capital Gains Tax (CGT) and Documentary Stamp Tax (DST) for the titled lots and facilitate the transfer of the title in the name of the Municipality;\nCharge any penalties and interest incurred due to the late filing and payment of CGT and DST, if applicable, to the responsible official;\nImmediately secure the Lot Status Certificate and Alienable and Disposable Certificate for all untitled lots from the DENR prior to further action or utilization;\nPromptly initiate the titling process for the untitled lots; and\nRetrospectively secure the necessary indemnity agreements/bond or explore legal remedies to protect the Municipality's interests.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS20",
+      "year": 2024,
+      "recommendation": "We recommended that Management submit a valid written explanation for our review and evaluation why the aforesaid transactions should not be disallowed in audit and legal and/or administrative sanctions be commenced against persons liable.\nWe further recommended that Management strengthen its procurement planning process to ensure that all procurement activities of the Municipality are in accordance with the approved Annual Procurement Plan (APP) and fully compliant with the provisions of the Revised Implementing Rules and Regulations (IRR) of Republic Act No. 9184.\nFinally, we recommended that the Bids and Awards Committee (BAC) be directed to exercise due diligence in evaluating and determining the appropriate procurement modality for each procurement activity and to strictly adhere to the requirements of the procurement law to avoid potential adverse findings in future audits.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS21",
+      "year": 2024,
+      "recommendation": "We recommended that Management:\nDirect the HRMO to submit to the Audit Team the memorandum signed by the Municipal Mayor approving the salary increase;\nHRMO to explain the inconsistencies or provide update in the role assignment on identified JO workers;\nRequire the HRMO to ensure formal documentation of any rate changes through signed contract amendments before processing payroll adjustments, and to submit these to the Audit Team promptly as the situation arises; and\nDirect MACCO to conduct monthly reconciliation between contract terms and payroll records to ensure that the rate being paid aligns with the rate stated in the signed contract.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS22",
+      "year": 2024,
+      "recommendation": "We recommended that Management:\nSubmit to the Audit Team the remaining employment contracts for 49 COS workers;\nPrepare an Organizational Structure and Staffing Pattern Plan, and formulate policies and guidelines so that the necessity and propriety of hiring job order employees are justified;\nReview, along with the department heads, the current manpower matrix to ensure that the hiring and engagement of job orders are in accordance with the needs of the Municipality;\nProvide the Office of the Auditor with a Certification by the Local Chief Executive/Personnel Officer that the activities/ services to be rendered by the COS and JO workers cannot be provided by regular or permanent personnel of the LGU; and\nRequire the Accounting Office and the Human Resource Management Office to ensure that required supporting documents for claims particularly for first claims of the JO workers are attached to the payroll.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS23",
+      "year": 2024,
+      "recommendation": "We recommended that Management install adequate internal control measures to minimize, if not stop, the recurrent errors in the preparation of checks and to charge the erring employees for the costs of the cancelled checks.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS24",
+      "year": 2024,
+      "recommendation": "We recommended that Management direct:\nMunicipal Accountant to reconcile the Financial Statements and LDRRMF Utilization Report to address the ₱2,869,839.34 discrepancy, and ensure supporting documents are complete and accurate;\nMunicipal Accountant to update the Notes to Financial Statements with current and consistent data for the reporting period; and\nMunicipal Accountant to implement standard turnover procedures to ensure proper handover of records when personnel assigned to the LDRRMF account are reassigned.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS25",
+      "year": 2024,
+      "recommendation": "We recommended that Management direct:\nThe GSO to submit the signed distribution list to the Audit Team as soon as possible to ensure proper documentation and verification of the relief goods distributed; and\nThe Municipal Accountant to ensure that all documentary requirements, such as distribution lists, are complete and properly attached when processing liquidations of cash advances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Sur__Nabua_CamSur-2024-OBS26",
+      "year": 2024,
+      "recommendation": "We recommended that Management adequately plan and prioritize GAD-related programs, projects, and activities (PPAs) by focusing on high-impact, cost-effective, and sustainable interventions that address emerging and continuing gender issues in line with the objectives of the Magna Carta of Women.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended that Management require   \nthe:\n\nMunicipal Accountant to correct the      \nset-up RPT/SET Receivables by debiting   \nReal Property Tax Receivable/Special     \nEducation Tax Receivable amounting to    \n₱2.02 million and ₱3.47 million,         \nrespectively and crediting Deferred Real \nProperty Tax Income/Deferred Special     \nEducation Tax Income by the same amount; \nand record yearly RPT/SET Receivables    \nbased on a complete and duly updated     \ncertified list of taxpayers at the       \nbeginning of the year;\n\nMunicipal Treasurer to update the        \ncertified list of taxpayers as of        \nDecember 31, 2019 for the remaining 15   \nbarangays and the Municipal Accountant to\nupdate the RPT/SET Receivables based on  \nsuch list; and\n\nMunicipal Treasurer to designate         \npersonnel that will handle/focus only    \nwith updating regularly the RPTARs/TIC   \nand at the beginning of each year,       \nfurnish the Municipal Accountant of a    \ncomplete and duly updated certified list \nshowing the name of taxpayers and the    \namount due and collectible for the year  \nin accordance with Sec. 20 of the NGAS   \nManual.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in Part\nII of this Report"
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended that Management:          \n\nsubmit the lacking documents and ensure\nthat the required documents are complete\nbefore disbursement of funds to avoid     \nsuspension in audit; \n\ncomply with posting requirements set by\nthe GPPB and DBM; and\n\nrequire the concerned department to      \nupdate the Municipality’s website and    \nmake the necessary posting as part of   \ntheir public disclosure requirement.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "On-going\ncompliance with\naudit\nrecommendations.\nLacking documents\nwere requested and\ncollated for\nsubmission."
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended the Management to:\nrequire the GSO to reflect in the RPCPPE the actual PPE counted and reconciliation between the records of the MA and GSO be undertaken and effect the necessary adjustments in the accounting books to fairly present the said accounts in the financial statements;\nperform One-Time Cleansing of PPE as prescribed in COA Circular 2020-006 to be able to establish PPE balances that are verifiable as to existence, condition and accountability;\nrequire the GSO to maintain the pertinent reports and property records of Road Networks to be able to provide reliable basis on the amounts presented in the financial statements;\nrequire Municipal Accountant to disclose in the Notes to FS the road network system;\ndispose the unserviceable properties and the corresponding cost or value be dropped from the books of accounts;\ndirect the Municipal Accountant to identify possible items that need to be excluded from the PPE account and make proper adjustments if deemed necessary;\nensure that an ICS is on file or had been prepared by the GSO before these semi-expendable assets are removed from PPE account to ensure control and accountability; and\ndirect the Municipal Assessor and officials concerned to prioritize the transfer of ownership over parcels of land without TCT/OCT to the LGU to avoid exposing the same to possible third-party claims and land disputes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended that Management require the:\nMunicipal Treasurer to prepare yearly a duly certified list of taxpayers based on the updated RPTARs showing the names of the taxpayers and the amount due and collectible for the year, and furnish the same to the Municipal Accounting Office at the beginning of every fiscal year;\nMunicipal Accountant to record RPT/SET Receivable yearly based on the duly certified list provided by the MTO;\nMunicipal Accountant to prepare and maintain the JEVs and the Abstract of RPT Collections in accordance with the provisions of GAAM and Manual on the NGAS for LGUs; and\nMunicipal Accountant and the Municipal Treasurer to conduct periodic reconciliation of their records in order to come up with accurate and reliable reports on the levy of RPT and SET.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "We recommended that Management:\nrequire the concerned officers and employees to immediately settle/liquidate their outstanding cash advances through the submission of duly accomplished liquidation reports, otherwise, enforce the withholding of salary, in accordance with the provisions of COA Circular No. 97-002;\nstop the grant of additional cash advances to all personnel with unliquidated cash advances until such time previous cash advances are fully settled, and see to it that officials and employees who seek transfer to other offices or those filing for terminal leaves are not given certificates of clearance until their balances are paid;\nrequest for the write-off of dormant accounts in accordance with COA Circular No. 2016-005, if applicable;\nprepare and maintain complete and updated SLs, ageing and other subsidiary records of the accounts presented in the FS in accordance with Section 10 of the Manual on the NGAS for LGUs, Volume II; and\nmonitor and establish controls to ensure the timely liquidation of cash advances through updated monthly ageing of the same to prevent accumulation of unliquidated cash advances and ensure that the rules and regulations on the grant of cash advances are strictly observed.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "We recommended that Management require the:\ncoordination between the Municipal Accountant and the GSO towards the full implementation of the perpetual inventory method in recording of supplies and materials; and establishment of sufficient stock room for proper storage of items of inventories;\nGSO-designate/Inventory Committee to prepare and submit a complete Report on the Physical Count of Inventories semestrally in order to determine the correctness of the recorded inventories in the books of accounts of the Municipality and to ensure that semestral count of Inventory items is promptly conducted and the corresponding report is submitted on time to the Audit Team;\nMunicipal Accountant and GSO to maintain supplies ledger cards (SLC) and stock cards (SC), respectively, for each type of inventories and reconcile the accounting and property records periodically to bring these accounts into agreement; and\nMGSO to prepare and maintain Inventory Custodian Slip (ICS) for each item of inventory with shelf life of more than one year to establish proper accountability of accountable officers concerned.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "We recommended that the Management: (a) strictly adhere with the documentary requirements provided by the above rules and regulation to prevent adverse audit findings; (b) submit the lacking documents and ensure completeness, accuracy, and propriety of documents supporting the claims before processing  payments to suppliers; (c) strictly comply with the posting requirements set by the GPPB as mandated by the government; and (d) direct the BAC to transact only with suppliers who are technically, financially and legally capable.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "We recommended that management: (a) Discontinue the practice of granting cash advances to the Municipal Treasurer; (b) The Municipal Treasurer designate or appoint a disbursing officer to handle the disbursing function pursuant to Section 3.1 of COA Circular No. 97-002 dated February 10, 1997 and Section 50 of GAAM, Volume III.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "We recommended that Management:\ndirect the GSO to ensure that the inventory of original OR/CR of the Municipality’s vehicles be under her custody; and\nensure that all insurable assets and properties of the Municipality are adequately covered/insured.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-OBS8",
+      "year": 2021,
+      "recommendation": "We recommended that Management require the Municipal Accountant to:\nliquidate fund transfers once projects are fully implemented and/or refund the unutilized amount from completed projects and require the appropriate recording in the books of accounts; and\nprepare and maintain subsidiary ledgers for the total balance of ₱2.45 million as of December 31, 2021, otherwise, provide adequate disclosure in the notes to financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-OBS9",
+      "year": 2021,
+      "recommendation": "We recommended that Management immediately submit the MOA or Trust Agreement for all programs and projects. Henceforth, ensure that the COA Audit Team is always furnished a copy of MOA or Trust Agreement for validation of transactions involving Trust Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-OBS10",
+      "year": 2021,
+      "recommendation": "We recommended that the Management direct the Offices concerned to ensure the full implementation of all projects funded by 20% DF for optimum utilization of the fund to help achieve the desirable socio-economic development and environmental outcomes of the LGU.\nWe also recommended that the Municipal Planning and Development Officer (MPDO) closely monitor and evaluate the implementation of the different development projects in accordance with the Annual Investment Plan (AIP) for timely delivery of basic and value-added services and benefits to its constituents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-OBS11",
+      "year": 2021,
+      "recommendation": "We recommended that the Management instruct the BAC and its Secretariat to require the winning bidders to receive without delay the NTP to ensure early and timely delivery of projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-OBS12",
+      "year": 2021,
+      "recommendation": "We recommended that Management:\nrequire the different offices/end-users in the agency to submit their Project Procurement Management Plan (PPMP) incorporating therein all their procurement requirements for the year and have them duly evaluated and reviewed for consolidation into a comprehensive, workable and realistic Annual Procurement Plan (APP) and follow the procurement methods and activities as stated in said APP;\nstrictly comply with the provisions enumerated in the Revised IRR of RA No. 9184 and GPPB Resolution No. 11-2020; and\nwhenever practicable, consider consolidation of purchase requests for commonly used supplies needed by the different offices and adopt bulk purchases to promote efficiency in the procurement process.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-OBS13",
+      "year": 2021,
+      "recommendation": "We recommended that Management: (a) require the Municipal Treasurer, HRMO and Municipal Accountant to strictly comply with the General Provisions of the GAA and adopt control measures to ensure that the municipal employees’ net take home pay will not be lower than the required minimum amount set by law after deducting statutory contributions and other allowed/authorized deductions; and (b)direct concerned Municipal officials to stop approving the loan applications of employees with net take home pay below the minimum balance required by the GAA.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-OBS14",
+      "year": 2021,
+      "recommendation": "We recommended that management:\nEnsure that the LCE’s authority to hire and engage JO workers are within the ambit of good governance, administrative necessity and fiscal adequacy of the LGU;\nFormulate uniform policy and procedures in engaging and managing JO workers taking into consideration the existing law, rules and regulations;\nConduct personnel audit, review, assessment and evaluation of the existing manpower complement of the LGU so as to determine the necessity and propriety of engaging JO workers;\nUse appropriate forms of contract stipulating the duties and responsibilities of the JO, the expected output and deliverables and the standard wage rates; and\nStrictly comply with the documentary requirements in COA Circular      2012-001.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-OBS15",
+      "year": 2021,
+      "recommendation": "We recommended that Management direct the concerned Office to submit the Contract of Service/Job Order and related documents within the period provided by existing rules and regulations to facilitate timely auditorial review and examination. Inability to submit these documents with the prescribed period shall be a cause for suspension of the transaction in audit, without prejudice to the administrative liability of the erring public officers or employees who are responsible for such failure.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-OBS16",
+      "year": 2021,
+      "recommendation": "We recommended that Management direct the Municipal Treasurer to conduct and intensify tax campaigns to maximize collections especially on the delinquent taxpayers and impose remedies provided for, and exercise the taxing authority as mandated under the Local Government Code.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-OBS17",
+      "year": 2021,
+      "recommendation": "We recommended the Management to direct the Accounting and Treasury Office to ensure timely and accurate remittance of PhilHealth contributions to prevent the recurrence of unremitted balances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-OBS18",
+      "year": 2021,
+      "recommendation": "We recommended that Management: (a) instruct the GAD focal person / GFPs to monitor the implementation of the identified PPAs and maximize utilization of the GAD funds to accomplish the purposes/objectives  for which the GAD PPAs were identified  to deliver immediate and optimum benefits to target beneficiaries; (b) ensure that GAD Accomplishment Report are prepared based on the GPB approved by the DILG, and any changes made therein be properly communicated in writing to the oversight body and attach all pertinent documents relative thereto; (c) revisit internal policies and procedures on GAD and implement a well-defined monitoring and evaluation system to properly assess GAD PPAs responsiveness in relation to gender mainstreaming.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-OBS19",
+      "year": 2021,
+      "recommendation": "We recommended that Management: (a) prioritize establishment of sanitary landfill; and (b) reconstitute the MSWMB to conform to the membership requirements of the Act and to optimize the involvement of civil society and other sectors as envisioned in the law.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-OBS20",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended that Management require   \nthe:\n\ncoordination between the Municipal       \nAccountant and the GSO towards the       \nimplementation of the perpetual inventory\nmethod in recording of supplies and      \nmaterials; and establishment of          \nsufficient stock room for proper storage \nof items of inventories;\n\nGSO-designate/Inventory Committee to     \nprepare and submit a complete RPCI yearly\nin order to determine the correctness of \nthe recorded inventories in the books of \naccounts of the Municipality and to      \nensure that semestral count of Inventory \nitems is promptly conducted and the      \ncorresponding report is submitted on time\nto the Audit Team;\n\nMunicipal Accountant and GSO to maintain\nSLC and SC, respectively, for each type  \nof inventories and reconcile the         \naccounting and property records          \nperiodically to bring these accounts into\nagreement; and\n\nMunicipal Accountant to prepare an       \nadjusting entry for the proper           \nclassification of goods for distribution \nto people affected by                    \ncalamities/disasters by debiting “Welfare\nGoods for Distribution” account amounting\nto ₱1.86 million and crediting “Food     \nSupplies Inventory” account by the same  \namount, and ensure proper classification \nof accounts in succeeding procurement of \ninventories.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "ongoing\nconstruction of\nstockroom for the\nproper storage of\nitems of\ninventory."
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended that Management require:  \n\nthe investigation of the discrepancy of  \nthe results of the count by the property   \nand accounting records be given priority \nby the GSO and MA;\n\nthe GSO to label all properties/equipment\nshowing complete description for easy    \nidentification and monitoring;\n\nthe disposal of unserviceable properties \nand the corresponding cost or value be   \ndropped from the books of accounts;\n\nthe Municipal Accountant to validate the\nlong outstanding balance of CIP account  \nand provide necessary adjusting entries  \nto reclassify the same to appropriate PPE\naccounts;\n\nThe GSO and Municipal Accountant to      \nmaintain the pertinent reports and       \nproperty records of Road Networks to be  \nable to provide reliable basis on the     \namounts presented in the financial       \nstatements;\n\nthe Municipal Assessor and officials     \nconcerned to prioritize the transfer of  \ncertificates of title to avoid exposing   \nthe lands to possible third-party claims\nand land disputes; and\n\nthe Municipal Accountant to identify     \npossible items needed to be excluded from\nthe PPE account and make proper          \nadjustments, if deemed necessary.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Undergoing\ninvestigation of\nthe discrepancy in\nPPE"
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended that Management:          \n\nrequire the different offices/end-users  \nin the agency to prepare and submit their\nProject Procurement Management Plan      \n(PPMP) incorporating therein all their   \nprocurement requirements for the year and\nhave them duly evaluated and reviewed for\nconsolidation into a comprehensive,      \nworkable and realistic APP which would   \nreflect the details of the procurement    \nactivities that it seeks to undertake     \nwithin the calendar year; and strictly   \nfollow the procurement methods and       \nactivities as stated in their APP; \n\nwhenever practicable, consider           \nconsolidation of purchase requests for   \ncommonly used supplies needed by the   \ndifferent offices and adopt bulk         \npurchases to promote efficiency in the  \nprocurement process; and\n\nensure that disbursements are properly   \nattached with complete documentation and \nstandard forms are followed and          \ncompletely filled out.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Supplies were\nbought on\npiecemeal basis\nand were\nimmediately\ndistributed to\nrequisitioning\noffice / end users\ndue absence of\nstorage room."
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended that Management abide by  \nthe rule on competitive bidding in all   \ngovernment procurement to ensure         \ntransparency, competitiveness,           \nefficiency, and public accountability in \nthe procurement process, resort only to   \nalternative methods of procurement if    \njustified by the conditions as prescribed\nunder the procurement law and rules, and  \nin all cases, secure the most            \nadvantageous price for the government.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "On-going\ncompliance with\naudit\nrecommendations"
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended that Management:          \n\ninclude PPAs chargeable against the Trust\nLiabilities-DRRM account in the annual    \nMDRRMFIP of the current year pursuant to\nNDRRMC-DILG-DBM JMC No. 2013-1 and the  \nsame be prepared in substantial adherence\nto the format prescribed under Annex A of\nCOA Circular No. 2012-002, thereby make\nthis trust fund available for disbursement;\n\nrequire strict adherence to section 3.2 of\nCOA Circular No. 2009-001 regarding the\nsubmission of POs within five (5) days from\nissuance thereof; and\n\nnotify the auditor of the deliveries of      \nprocured items within twenty-four (24)     \nhours from acceptance in adherence to the\nprovision of COA Cir No. 95-006; and\n\ncarefully assess the programs/projects/\nactivities charged against the MDRRMF,     \nrefrain from charging expenditures that do\nnot concern with disaster risk management\nactivities and strictly adhere to the       \nprovisions of COA Circular No.  2012-002\nand NDRRMC-DBM-DILG JMC Nos. 2013-1 and\n2014-1.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Compliance with\naudit\nrecommendations\nare currently\nunderway. Activities\nare being\njudiciously\nplanned and\nstreamlined to\nensure that they\nare in consonance\nwith applicable\nlaw, rules and\nregulations."
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended that Management:          \n\nensure that only programs and projects   \nlisted in the MDRRMFIP and incorporated\nin the AIP and Appropriation Ordinance be\ncharged against the MDRRMF; \n\npromptly submit the requirements for     \nrelief from property accountability in    \ncase of damage to property allegedly    \ncaused by force majeure before proceeding\nwith any restoration activity or project; and\n\nenforce the warranty obligation of the \ncontractor in cases where the damage was\ndue to structural or construction defects.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "On going\ncompliance with\naudit\nrecommendations.\nRequirements for\nrelief were not\nimmediately\nsubmitted to the\naudit team.\nWarranty\nobligation of\ncontractor were\nnot enforced."
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommended that Management:          \n\nfully implement all uncompleted projects\nas of December 31, 2020; and\n\nexecute all projects within the time frame\nprogrammed for their completion to       \neffectively and timely extend to the      \nconstituents the benefits of the agency’s\ndevelopment project.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The delay was due\nto budgetary\nconstraints, additional\ncosts needed to\ncover other factors\nwhich were not\ninitially\nconsidered in\nplanning and cost\nestimates of\nprojects.\nNot all projects\nwere executed\nwithin the time\nframe programmed."
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We recommended that Management:          \n\nestablish clear-cut guidelines for the   \ngrant of communication allowances to     \nofficials and employees;\n\nstop the granting of excessive           \ncommunication allowances and consider the\napplication of postpaid plans offered by   \nthe available network providers with high\nconnectivity in the local area for        \neconomical reasons and to foster equity\nin the grant of allowances in relation to\nactual communication needs of the LGU and\nfor ease in monitoring and control of     \nmobile expenses; and\n\nrefrain from the practice of              \nreimbursement and abide with the proper\nmanner of government disbursements as    \nprovided in Section 93 of PD 1445.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "We recommended that Management:          \n\ncreate an Inventory Committee who shall, \non a full-time basis and within a         \nprescribed period, conduct the physical  \ncount and prepare the Report on the      \nPhysical Count of PPE properly including\nmaintenance of property cards;\n\nrequire the Accounting Office to maintain\nan updated PPE Ledger Cards for control\npurposes and see to it that these records\nfacilitate identification and reconciliation;\n\ndesignate on a full-time basis at least    \none personnel each from the Property and\nAccounting Offices to reconcile the       \nReport on the Physical Count of PPE,     \nProperty Cards, Property Ledger Cards,   \nand accounting records, taking into      \nconsideration the noted deficiencies in   \naudit: a cut- off date as of December 31,\n2018 may be started to facilitate current\nreconciliation, then move back from       \nearier years; \n\ndirect the accounting office to investigate\nfor the details of the long outstanding\nbalance of CIP account, and provide       \nnecessary adjusting entries to reclassify\nthe same to the appropriate PPE account;\n\nrequire the accounting office to adhere to\nthe prescribed accounting rules relative to\nthe asset recognition under Property,     \nPlant and Equipment, including use and\nmaintenance of Construction in Progress\naccount during the construction period of\nan asset; and\n\ninitiate administrative investigation and\ncharges against responsible officers for\ncontinued neglect and failure to comply\nor perform their respective duties\nrelative to property, plant and equipment\ndespite repeated reminders from this      \nOffice.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Restated in Part\nII of this year’s\naudit report\nLack of manpower,\nheavy workload and\nabsence of\nrelevant data to\nsupport beginning\nbalances."
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "We recommended that Management direct the\nMunicipal Accountant to ensure that      \ntransactions pertaining to the Due to BIR\naccount be traced to prior years’        \naccounting entries to ascertain the cause\nof the negative balances and effect the   \nnecessary adjustments.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "We recommended that Management refrain\nfrom charging expenditures that do not   \nconcern with disaster risk management    \nactivities and strictly adhere to the     \nprovisions of COA Circular No.  2012-002,\nand NDRRMC-DBM-DILG JMC Nos. 2013-1 and\n2014-1.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-PY14",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Solid\nWaste Management Board:\n\nreview and revise its Municipal Solid      \nWaste Management Plan in accordance with\nthe requirements of the law and have the\nsame approved by the National Solid Waste\nManagement Commission; and\n\nensure the sustainability, viability,\neffectiveness and relevance of the plan as\nrequired under Section 16 of RA 9003.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-PY15",
+      "year": 2021,
+      "recommendation": "We recommended that Management strictly\nadhere with GAD policies to implement GAD\nrelated activities, properly coordinate    \nwith all the personnel/offices involved  \nand ensure proper monitoring of the GAD\nPPAs, to be able to implement all GAD    \nPPAs as planned/budgeted to achieve GAD’s\nobjectives and address gender issues.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Due to the\npandemic\n(Covid-19) some of\nthe PPA’s were not\nimplemented."
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-PY16",
+      "year": 2021,
+      "recommendation": "We recommended that Management:          \n\nfully implement all uncompleted projects\nas of December 31, 2019; and\n\nexecute all projects within the time frame\nprogrammed for their completion to       \neffectively and timely extend to the      \nconstituents the benefits of the agency’s\ndevelopment project.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Restated in Part\nII of this year’s\naudit report"
+    },
+    {
+      "id": "Nabua_CamSur_aar2021-PY17",
+      "year": 2021,
+      "recommendation": "We recommended that Management require   \nthe liquidation of fund transfers once    \nprojects are fully implemented and/or    \nrefund the unutilized amount from        \ncompleted projects and require the       \nappropriate recording in the books of    \naccounts.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Almost all\ninfrastructures\nproject were\nliquidated and\nundisbursed amount\nwere returned\nexcept for the DOH\nprograms."
+    },
+    {
+      "id": "Nabua_CamSur-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended that Management require the Municipal Treasurer to:\n\nensure that all collections shall be deposited intact to the authorized depository bank daily or on the next banking day; and\n\nrecord cash transactions in his cashbooks and Treasury records accurately by recording collections and deposits in the Report of Collections and Deposits (RCD) on the day they were collected and/or received from the respective collectors and on the day they were actually deposited in the depository bank, respectively.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Collections totaling           ₱883,442.78 as of December 31, 2019 were not deposited intact and promptly with the authorized government depository bank within the prescribed time.\n\nThe said amounts were also recorded as deposits both in the cashbook and accounting records as of December 31, 2019."
+    },
+    {
+      "id": "Nabua_CamSur-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\n\nsend demand letters to the concerned Accountable Officers (AOs) requesting immediate liquidation of the cash advance or settlement of the amounts due from them;\n\nsuspend the salaries of erring accountable officers until such time that full settlement of their cash advances are effected;\n\nimmediately stop the grant of additional cash advances to all officers and employees with unliquidated cash advances until such time that previous cash advances are fully settled; and\n\nensure that rules and regulations on the grant and liquidation of cash advances are strictly observed.",
+      "managementAction": "Additional cash advance will not be granted unless the previous cash advance is liquidated.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Suspension of salaries was not implemented due to minimal salary of concerned AO (below ₱5,000.00 Net pay)."
+    },
+    {
+      "id": "Nabua_CamSur-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\n\ninstruct the Inventory Committee to include all properties in physical count and submit an updated and properly accomplished RPCPPE with all the needed information;\n\ndirect the Municipal Accountant to maintain complete and updated PPE ledger cards to support GL account balances; the Property Officer to keep corresponding property cards for each category of PPE for control purposes; and see to it that these records contain adequate details/description of the properties such as model, serial number, location, cost and other information necessary to facilitate identification; and\n\nrequire both the Accounting Division and Property Section to exert all efforts to reconcile their records on a regular basis so that discrepancies thereon are immediately corrected.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Restated in Part II of this year’s audit report"
+    },
+    {
+      "id": "Nabua_CamSur-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended that Management require:\n\nthat only programs and projects listed in the LDRRMF Investment Plan and incorporated in the Annual Investment Plan and Appropriation Ordinance be utilized under the LDRRM Fund; and\n\nthe submission of duly approved Ordinance authorizing any change in the budget and/or indicating the various items of appropriations affected and the reason for the change in accordance with Section 321 of the Local Government Code.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Expenditures for MDRRMO were charged against LDRRMF as discussed in Observation No. 5 of Part II of this year’s audit report."
+    },
+    {
+      "id": "Nabua_CamSur-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\n\nrequire strict adherence to the provisions of COA Circular No. 2009-001 regarding the submission of Purchase Orders and contracts within five (5) days from execution thereof; and\n\nnotify the Auditor of the deliveries of procured items within twenty-four (24) hours from acceptance in adherence to the provision of COA Cir No. 95-006.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\n\nsubmit immediately the 290 disbursement vouchers for CY 2018 otherwise, said disbursements will be suspended in audit; and\n\nrequire the Municipal Accountant to thoroughly verify the vouchers and payrolls being forwarded by the MTO to ensure that all vouchers and supporting papers as reported in the Reports of Checks Issued are submitted.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Disbursement Vouchers totaling ₱3,656,061.26 damaged by flood due to Typhoon Usman remained unsubmitted."
+    },
+    {
+      "id": "Nabua_CamSur-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended that Management ensure:\n\nfull implementation of the 20% development fund embodied in the Annual Investment Plan of the Municipality in compliance with Paragraph 5.0 of DILG and DBM Joint Circular No. 2011-1;\n\nthat only programs and projects listed in the Annual Investment Plan and Appropriation Ordinance be utilized under the 20% Development Fund; and\n\nthat funds are spent exclusively for the specific purpose or project for which they have been appropriated.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Restated in Part II of this year’s audit report"
+    },
+    {
+      "id": "Nabua_CamSur-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\n\nfully utilize the funds granted by the national agencies to effectively and timely extend to the constituents the benefits of the agency’s projects; and\n\nensure that the Memorandum of Agreements are kept intact so as to properly monitor the agency’s compliance with its specific terms and duration of implementation.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Grants for CY 2019 and prior years totaling ₱16,604,228.00 were not fully implemented as of December 31, 2019.\n\nConcerned offices/departments do not maintain file copies of MOAs."
+    },
+    {
+      "id": "Nabua_CamSur-2019-PY9",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\n\nre-establish and reinforce the deputation of barangay officials to aid the Municipality in collecting taxes by setting their specific functions and responsibilities;\n\ncreate new positions and provide more additional capable personnel that will cause the issuance of NOD and the monitoring of the delinquent tax payers;\n\nintensify the tax campaign by sending treasury personnel to barangay especially during barangay assemblies for tax information drive in order to invite more taxpayers to pay taxes on time; and\n\ninstruct the Municipal Treasurer’s Office to update the RPTARs and submit a duly certified list to the Municipal Accounting Office, showing the name of taxpayers and the amount due and collectible for the year; and\n\ninstruct the Municipal Accounting Office to adjust the receivables recorded at the beginning of the year based on the certified list of taxpayers.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2019-PY10",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\n\nsecure copies of the Torrens Titles of its lots drawn in the name of the Municipality from the Land Registration Authority to eliminate the risk that the municipality may be evicted from the lot they are presently occupying if ownership cannot be established;\n\nin coordination with concerned officials, prepare and maintain the complete list of lots owned by the municipality with details as to description, area and value;\n\nensure proper safekeeping of the newly secured and subsequently acquired Land Titles for judicious endorsement to their successor; and\n\nrecognize all the properties of the municipality in the books whether these are acquired through purchase, donation or any other mode of acquisition.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Documents/attachments for other lots are being completed/reconstructed since some of the documents were lost at CENRO, Iriga City."
+    },
+    {
+      "id": "Nabua_CamSur-2019-PY11",
+      "year": 2019,
+      "recommendation": "We recommended that Management direct the Municipal Accountant to:\n\nprepare the adjusting entries in the respective fund’s book as shown in the foregoing table;\n\ntrace prior years’ variances and record adjusting entries in the respective funds to reconcile the balances of the reciprocal accounts; and\n\nprepare subsidiary ledgers to facilitate reconciliation of these accounts.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Adjusting entries for prior years were not yet made due to on-going reconciliation.\n\nReconciliation of the reciprocal accounts for CY 2016 and prior periods is still on-going."
+    },
+    {
+      "id": "Nabua_CamSur-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended that Management require the:\n\n     a) Municipal Accountant to record RPT/SET Receivable based on  a  duly\n        certified    list of taxpayers; and\n\n\n     b) Municipal Treasurer to designate personnel who  shall  handle/focus\n        only  with  updating  the  Real  Property  Tax  Account   Registers\n        (RPTARs)/Taxpayer’s Index Card (TIC) and at the beginning  of  each\n        year, furnish the Municipal Accountant of  a  duly  certified  list\n        showing the name of taxpayers and the amount  due  and  collectible\n        for the year in accordance with Sec. 20 of the NGAS Manual.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended that Management require the:  (a)  Inventory  Committee\nto  prepare  and  submit  a  complete  Report  on  the  Physical  Count   of\nInventories as of December 31, 2019 and onward to determine the  correctness\nof the recorded inventories; (b) MGSO to submit the Summary of Supplies  and\nMaterials Issued (SSMI) together with the corresponding  RIS  and  Inventory\nCustodial Slips for the issued supplies/goods; (c) Municipal Accountant  and\nMGSO to maintain supplies ledger cards and stock  cards,  respectively,  for\neach type of inventories and reconcile the accounting and  property  records\nperiodically to bring  these  accounts  into  agreement;  (d)  maintain  the\nprescribed records to ensure proper accounting and  promote  better  control\nin the receipt and issuance of supplies; and (e) provide a  stock  room  for\nproper storage of inventories.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\n\n\n       a. create an Inventory Committee who shall, on a full-time basis  and\n          within a prescribed period, conduct the physical count and prepare\n          the Report  on  the  Physical  Count  of  PPE  properly  including\n          maintenance of property cards;\n\n       b. require the Accounting Office to maintain an  updated  PPE  Ledger\n          Cards for control purposes  and  see  to  it  that  these  records\n          facilitate identification and reconciliation;\n\n\n       c. designate on a full time basis at least one  personnel  each  from\n          the Property and Accounting Offices who shall reconcile the Report\n          on the Physical Count of  PPE,  Property  Cards,  Property  Ledger\n          Cards, and accounting records, taking into consideration the noted\n          deficiencies in audit: a cut- off date as of December 31, 2018 may\n          be started to facilitate current reconciliation,  then  move  back\n          from earlier years;\n\n\n       d. direct the accounting office  to  validate  the  long  outstanding\n          balance of CIP account, and provide necessary adjusting entries to\n          reclassify the same to the appropriate PPE accounts;\n\n\n       e.  require  the  accounting  office  to  adhere  to  the  prescribed\n          accounting rules relative to the asset recognition under Property,\n          Plant and Equipment, including use and maintenance of Construction\n          in Progress account during the construction period  of  an  asset;\n          and\n\n\n       f.  initiate  administrative  investigation   and   charges   against\n          responsible officers for continued neglect and failure  to  comply\n          or perform their respective duties relative to property, plant and\n          equipment despite repeated reminders from this Office.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended that Management direct the  Municipal  Accountant\nto ensure that transactions pertaining to the Due to BIR account  be  traced\nto prior years’ accounting entries to ascertain the cause  of  the  negative\nbalances and effect the necessary adjustments.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended that Management refrain from charging expenditures that\ndo not concern with disaster risk management activities and strictly  adhere\nto the provisions of COA Circular No.   2012-002,  and  NDRRMC-DBM-DILG  JMC\nNos. 2013-1 and 2014-1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Solid Waste Management Board:\n\n\n       a.  review and revise the Municipal Solid Waste  Management  Plan  in\n          accordance with the requirements of the  law  and  have  the  same\n          approved by the National Solid Waste Management Commission; and\n\n\n       b. ensure the sustainability, viability, effectiveness and  relevance\n          of the plan as required under Section 16 of RA 9003.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We recommended that Management strictly adhere with  GAD  policies  to\nimplement  GAD  related  activities,  properly  coordinate  with   all   the\npersonnel/offices involved and ensure proper monitoring of the GAD PPAs,  to\nbe able to implement all GAD  PPAs  as  planned/budgeted  to  achieve  GAD’s\nobjectives and address gender issues.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2018-PY4",
+      "year": 2018,
+      "recommendation": "We recommend that Management: (a) require the BAC Secretariat to submit all contracts together with the supporting documents listed down in COA Circular No. 2009-001 to the Audit Team within the prescribed period; and (b) ensure that the attachments are complete and in order by providing a checklist of the documentary requirements for every contract submitted for review to the Audit Team.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Restated in Part II of this year’s audit report"
+    },
+    {
+      "id": "Nabua_CamSur-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended that Management require the Municipal Treasurer to:\n\n\n a. ensure that all collections  shall  be  deposited  intact  to  the\n    authorized depository bank daily or on the next banking day; and\n\n\n b. record cash transactions in his  cashbooks  and  Treasury  records\n    accurately by recording collections and deposits in the Report  of\n    Collections and Deposits (RCD) on  the  day  they  were  collected\n    and/or received from the respective collectors and on the day they\n    were actually deposited in the depository bank, respectively.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We recommended that Management:\n\n\na. send demand letters to the  concerned  Accountable  Officers  (AOs)\n   requesting immediate liquidation of the cash advance or  settlement\n   of the amounts due from them;\n\n\nb. suspend the salaries of erring accountable officers until such time\n   that full settlement of their cash advances are effected;\n\n\nc. immediately stop the grant  of  additional  cash  advances  to  all\n   officers and employees with unliquidated cash advances  until  such\n   time that previous cash advances are fully settled; and\n\n\nd. ensure that rules and regulations on the grant and  liquidation  of\n   cash advances are strictly observed.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended that Management:\n\n a. instruct the Inventory Committee  to  include  all  properties  in\n    physical count and submit an  updated  and  properly  accomplished\n    RPCPPE with all the needed information;\n\n\n b. direct the Municipal Accountant to maintain complete  and  updated\n    PPE ledger cards to support  GL  account  balances;  the  Property\n    Officer to keep corresponding property cards for each category  of\n    PPE for control purposes; and see to it that these records contain\n    adequate details/description of  the  properties  such  as  model,\n    serial number, location, cost and other information  necessary  to\n    facilitate identification; and\n\n\n c. require both the Accounting Division and Property Section to exert\n    all efforts to reconcile their records on a regular basis so  that\n    discrepancies thereon are immediately corrected.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended that Management require:\n\n\n a. that only programs and projects listed in  the  LDRRMF  Investment\n    Plan  and  incorporated  in  the  Annual   Investment   Plan   and\n    Appropriation Ordinance be utilized under the LDRRM Fund; and\n\n\n b. the submission of duly approved Ordinance authorizing  any  change\n    in  the  budget   and/or   indicating   the   various   items   of\n    appropriations  affected  and  the  reason  for  the   change   in\n    accordance with Section 321 of the Local Government Code.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We recommended that Management:\n\na. require strict adherence to the provisions  of  COA  Circular  No.\n   2009-001 regarding the submission of Purchase Orders and contracts\n   within five (5) days from execution thereof; and\nb. notify the Auditor of the  deliveries  of  procured  items  within\n   twenty-four  (24)  hours  from  acceptance  in  adherence  to  the\n   provision of COA Cir No. 95-006.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We recommended that Management: (a) submit immediately  the  290\ndisbursement vouchers for CY 2018  otherwise,  said  disbursements  will  be\nsuspended in audit; and (b) require the Municipal Accountant  to  thoroughly\nverify the vouchers and payrolls being forwarded by the MTO to  ensure  that\nall vouchers and supporting papers as reported  in  the  Reports  of  Checks\nIssued are submitted.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommend that Management require the: a. MGSO and the Accounting Office to reconcile their respective records, investigate the differences noted in the two reports and adjustments, if any, be effected immediately; b. Municipal Accountant to maintain complete and updated PPE ledger cards to support General Ledger (GL) account balances and the General Services Officer to keep corresponding property cards for all PPE accounts; c. MGSO to file an application for disposal of unserviceable properties totaling ₱3,606,975.74 together with the duly accomplished IIRUP and appraised properties for validation and inspection of COA; and d. Inventory committee to conduct full inventory of all the properties and to update and properly accomplish the RPCPPE containing adequate details/description of the properties to facilitate its identification and determination of cost and indicate the physical condition of the property.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Restated in Part II of this year’s audit report"
+    },
+    {
+      "id": "Nabua_CamSur-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommend that Management: a. secure copies of the Torrens Titles of its lots drawn in the name of the Municipality from the Land Registration Authority to eliminate the risk that the municipality may be evicted from the lot they are presently occupying if ownership cannot be established; b. in coordination with concerned officials, prepare and maintain the complete list of lots owned by the municipality with details as to description, area and value; c. ensure proper safekeeping of the newly secured and subsequently acquired Land Titles for judicious endorsement to their successor; and d. recognize all the properties of the municipality in the books whether these are acquired through purchase, donation or any other mode of acquisition.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Documents/attachments for other lots are being completed/reconstructed since some of the documents were lost at CENRO, Iriga City."
+    },
+    {
+      "id": "Nabua_CamSur-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommend that Management direct the Municipal Accountant to: (a) prepare the adjusting entries in the respective fund’s book as shown in the foregoing table; (b) trace prior years’ variances and record adjusting entries in the respective funds to reconcile the balances of the reciprocal accounts; and (c) prepare subsidiary ledgers to facilitate reconciliation of these accounts.",
+      "managementAction": "Reconciliatio n of the reciprocal accounts for CYs 2017 and 2018 were made.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reconciliation of the reciprocal accounts for CY2016 and priors periods is still on-going."
+    },
+    {
+      "id": "Nabua_CamSur-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommend that Management require the: (a) immediate submission of the 15 disbursement vouchers for CY 2017 to forestall the issuance of Notice of Suspension/Disallowance; (b) Municipal Accountant to thoroughly verify the vouchers and payrolls being forwarded by the MTO to ensure that all vouchers and supporting papers as reported in the Reports of Checks Issued are submitted; and (c) MTO to devise strategies so that the interval of the issuance of checks to the time they are actually claimed by the payees is shortened.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Ten (10) of the unsubmitted disbursement vouchers were transmitted to COA. An investigation is being conducted to locate the other five (5) vouchers per Accounting & Treasury records."
+    },
+    {
+      "id": "Nabua_CamSur-2018-PY6",
+      "year": 2018,
+      "recommendation": "We recommend that Management strictly comply with the allocation of one per cent of IRA to support LCPC programs and activities of the LGU. We further recommend that Management direct the members of the LCPC to prepare and submit the reports required under DILG MC No. 2012-120 for the proper evaluation and monitoring of implementation of projects.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommend that Management: (a) fully implement all uncompleted projects as of December 31, 2017; (b) instruct the Offices of the Municipal Engineer, Municipal Budget and Municipal Planning and Development to coordinate closely in the monitoring of the implementation of the projects funded from the 20 per cent Economic Development Fund; (c) require the Municipal Engineer to maintain adequate records pertaining to the status of projects being implemented particularly the engineer’s logbook; and (d) execute all projects within the time frame programmed for their completion to effectively and timely extend to the constituents the benefits of the agency’s development projects.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Discussed in Part II of this year’s audit report"
+    },
+    {
+      "id": "Nabua_CamSur-2017-PY2",
+      "year": 2017,
+      "recommendation": "We recommended that Management report a. MGSO and the Accounting Office to reconcile their respective records, investigate the differences noted in the two reports and adjustments, if any, be effected immediately; b. Municipal Accountant to maintain complete and updated PPE ledger cards to support General Ledger (GL) account balances and the General Services Officer to keep corresponding property cards for all PPE accounts; c. MGSO to file an application for disposal of unserviceable properties totaling $3,533,018.00 together with the duly accomplished IIRUP and appraised properties for validation and inspection of the COA Technical Audit Specialist; and d. Inventory committee to conduct full inventory of all the properties and to update and properly accomplish the RPCPPE containing adequate details/description of the properties to facilitate its identification and determination of cost and indicate the physical condition of the property.",
+      "managementAction": "No action was done by Management to implement this",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Restated in Part II of this year’s audit report"
+    },
+    {
+      "id": "Nabua_CamSur-2017-PY3",
+      "year": 2017,
+      "recommendation": "We recommended that Management: a. secure copies of the Torrens Titles of its lots drawn in the name of the Municipality from the Land Registration Authority to eliminate the risk that the municipality may be evicted from the lot they are presently occupying if ownership cannot be established; b. in  coordination  with concerned officials, prepare and maintain the complete list of lots owned by the municipality with details as to description, area and value; c. ensure proper safekeeping of the newly secured and subsequently acquired Land Titles for judicious endorsement to their successor; and d record all the properties of the municipality in the books whether it was acquired through purchase, donation or any other mode of acquisition.",
+      "managementAction": "No action was done by Management to implement",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Restated in Part II of this year’s audit report"
+    },
+    {
+      "id": "Nabua_CamSur-2017-PY6",
+      "year": 2017,
+      "recommendation": "We recommended that the Management direct the Municipal Treasurer to be cautious in the acceptance of any official receipts, sales invoices and other commercial  invoices  whenever payments to suppliers are made and to see to it that evidences of payments are compliant with BIR regulations.",
+      "managementAction": "No action was done by Management to implement this",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Restated in Part II of this year’s audit report"
+    },
+    {
+      "id": "Nabua_CamSur-2017-PY8",
+      "year": 2017,
+      "recommendation": "We recommended that Management: (a) fully implement all uncompleted projects as of December 31, 2016; (b) instruct the Offices of the Municipal Engineer, Municipal Budget and Municipal Planning and Development to coordinate closely in the monitoring of the implementation of the projects funded from the 20% Economic Development Fund; (C)require the Municipal Engineer to maintain adequate records pertaining to the status of projects being implemented particularly the engineer’s logbook; and (d) execute all projects within the time frame programmed for their completion to effectively and timely extend to the constituents the benefits of the agency’s development projects.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Restated in Part I of this year’s audit report"
+    },
+    {
+      "id": "Nabua_CamSur-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommended and Management agreed to require the:\n\na.  MGSO|and the Accounting Office to reconcile their respective records,\ninvestigate the differences noted in the two reports and adjustments, if\nany, beeffected immediately;\n\nb.  Municipal Accountant to maintain complete and updated PPE ledger\ncards support General Ledger (GL) account balances and the\nGenera] Services Officer to keep corresponding property cards for all\nPPE accounts;\n\n¢ MGSO|to file an application for disposal of unserviceable properties\ntotaling| $3,606,975.74 together with the duly accomplished IIRUP and\nappraised properties for validation and inspection of COA; and\n\nd. Inventory committee to conduct full inventory of all the properties and\nto update and properly accomplish the RPCPPE containing adequate\ndetails/description of the properties to facilitate its identification and\ndetermipation of cost and indicate the physical condition of the\nproperty.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommend and Management agreed to:\n\na. secure co\nMunicipal\n\nthat the\n\ni)ies of the Torrens Titles of its lots drawn in the name of the\nity from the Land Registration Authority to eliminate the risk\nunicipality may be evicted from the lot they are presently\n\noccupying if ownership cannot be established;\n\nb.\ncomplete\n\ndescriptio\n\nensure P\nacquired\n\nare acq\n\nacquisition.\n\nrecognize\n\nin coordination with concerned officials, prepare and maintain the\n\nlist of lots owned by the municipality with details as to\nm, area and value;\n\nroper safekeeping of the newly secured and subsequently\nLand Titles for judicious endorsement to their successor; and\n\nall the properties of the municipality in the books whether these\nquired through purchase, donation or any other mode of",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recomm\nprepare the adjusti\ng entries in the respective fund’s book as shown in the foregoing\ntable; (b) trace pri\n\ng entries in the respective fund’s book as shown in the foregoing\n\nEnded that Management direct the Municipal Accountant to: (a)\nr) years’ variances and record adjusting entries in the respective\n\nfunds to reconcile\nsubsidiary ledgers t\n\nthe balances of the reciprocal accounts; and (c) prepare\nfacilitate reconciliation of these accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We recommended and Management agreed to: (a) require the BAC\nSecretariat to submit all contracts together with the supporting documents listed\ndown in COA Cirjular No. 2009-001 to the Audit Team within the prescribed\nperiod; and (b) ensure that the attachments are complete and in order by providing\na checklist of the documentary requirements for every contract submitted for\nreview to the Audit Team.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommnded and Management agreed to require the: (a) immediate\nsubmission of the 1\ndisbursement vouchers for CY 2017 to forestall the issuance of\nNotice of Suspensiol /Disallowance; (b) Municipal Accountant to thoroughly verify\n\nyrolls being forwarded by the MTO to ensure that all vouchers\nand supporting papers as reported in the Reports of Checks Issued are submitted;\nand (c) MTO to devjse strategies so that the interval of the issuance of checks to the\ntime they are actually claimed by the payees is shortened.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We recommended and Management agreed to strictly comply with the\nallocation of one per cent of IRA to support LCPC programs and activities of the\nLGU. We further recommend that Management direct the members of the LCPC to\nprepare and submif the reports required under DILG MC No. 2012-120 for the\nproper evaluation and monitoring of implementation of projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2017-OBS7",
+      "year": 2017,
+      "recommendation": "We recom\nended and Management agreed to: (a) fully implement all\nuncompleted proj\nended and Management agreed to: (a) fully implement all\nas of December 31, 2017; (b) instruct the Offices of the\n\nMunicipal Engineer, Municipal Budget and Municipal Planning and Development\nto coordinate closely in the monitoring of the implementation of the projects funded\nfrom the 20 per\nEngineer to maint:\n\nnt Economic Development Fund; (¢) require the Municipal\nin adequate records pertaining to the status of projects being\n\nimplemented particularly the engineer’s logbook; and (d) execute all projects within\nthe time frame programmed for their completion to effectively and timely extend to\nthe constituents the benefits of the agency’s development projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2017-PY1",
+      "year": 2017,
+      "recommendation": "We recommended that Management direct the Municipal Accountant to: (a) prepare the adjusting entries in the General Fund particularly the variances for the Economic Enterprise-Loans and the Calamity Fund; and (b) trace for other variances and record adjusting entries in the respective funds to reconcile the balances of the reciprocal accounts.",
+      "managementAction": "The variance decreased by $2.324 million this year.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Restated in Part II of this year’s audit report"
+    },
+    {
+      "id": "Nabua_CamSur-2017-PY4",
+      "year": 2017,
+      "recommendation": "We recommended that Management: (a) require all JOs to register to the Bureau of Internal Revenue (BIR) under the classification of  non-VAT taxpayers engaged in business; (b) ensure that proper taxes are deducted from the JOs’ wages before such payments are made to them; (c) remit all taxes withheld on or before the tenth (10th) day of the month following the withholding period; (d) ensure that, prior to the hiring of the new JOs, their respective TINs are available and updated; and (e) coordinate with LGUs BIR Officer for any clarifications on the tax types and rates applicable to various government transactions.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2017-PY5",
+      "year": 2017,
+      "recommendation": "We recommended that Management require the immediate submission of the lacking documents pertaining to the disbursements made in CY 2016. We further recommended that: a. the Municipal Accountant signs’ Box A of the B Disbursement Voucher only if all supporting documents are complete and proper, and attach a Checklist of all the required documents for every Disbursement Voucher to hasten the verification of the required supporting documents; the Municipal Treasurer signs Box B to certify as to availability of funds; and b. the Municipal Mayor signs Box C (Approved for Payment) only if all the documentations as enumerated on the Checklist are attached to the voucher.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2017-PY7",
+      "year": 2017,
+      "recommendation": "We recommended that Management require the Municipal Accountant to include all the accounts covering transactions of the Economic Enterprise-Loans special account in its separate financial statements in order that these financial statements would reflect the actual financial condition and results of its operations.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2016-PY4",
+      "year": 2016,
+      "recommendation": "We recommended that Management: (a)\nadopt the prescribed DTT, Monthly\nReport of Official Travel and Monthly\nReport of Fuel Consumption as\nprescribed by regulations; (b) submit to\nthe Auditor the Report of Official Travei\nand Report of Fuel Consumption on &\nmonthly basis for timely verification of\nthe transaction; () require official\ndrivers be properly supervised in filling-\nout the DTT in order to ensure that all\nthe information required in the\nprescribed format are provided; and (d)\n\ndirect the Municipal Accountant not to\nprocess payments for fuel consumptions\nin the absence of any of the duly filled-\nout DTT, Monthly Report of Official\nTravel and Monthly Report of Fuel\nConsumption.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2016-OBS1",
+      "year": 2016,
+      "recommendation": "‘We recommended t#la! Management direct the Municipal Accountant to: (a)\nprevare the adjusting entrles in the Geuneral Fund particularly the variances for the\nEconomic Enterprm&Loans and the Calanuty Fund; and (b) trace for other\nvariances and record adjusting entries in the respective funds te reconcile the\n\nbalances of the reciprocal a\\}ccoums.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We recommended tﬁat Management require the:\n|\n\na.  MGSO and the Accounting Office to reconcile their respective records,\ninvestigate the ‘differences noted in the two reports and adjustments, if\nany, be efl‘ecteq immediately; :\n\n|\n\nb.  Municipal Accountant to maintain complete and updated PPE ledger\ncards to support General Ledger (GL) account balances and the\nGeneral Services Officer to keep corresponding property cards for all\nPPE accounts; |\n\n¢ MGSO to file an application for disposal of unserviceable properties\ntotaling P3,533,018.00 together with the duly accomplished IIRUP and\nappraised properties for validation and inspection of the COA\nTechnical Audit Specialist; and\n\nd. Inventory committee to conduct full inventory of all the properties and\nto update and properly accomplish the RPCPPE containing adequate\ndetails/description of the properties to facilitate its identification and\ndetermination -of cost and indicate the physical condition of the\n\nproperty.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommended that Management:\n\n| :\n\na.  secure copies o‘f the Torrens Titles of its lots drawn in the name of the\nMunicipality from the Land Registration Authority to eliminate the risk\nthat the municipality may be evicted from the lot they are presently\noccupying if ownership cannot be established;\n\nb. in coordmatmn with concerned officials, prepare and maintain the\ncomplete list of lots owned by the municipality with details as to\ndescription, area and value;\n\n¢ ensure proper| safekeeping of the newly secured and subsequently\nacquired Land :Titles for judicious endorsement to their successor; and\n\nd.  record all the properties of the municipality in the books whether it was\nacquired throu:gh purchase, donation or any other mode of acquisition.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to: (a) require all JOs to register\nto the Bureau of Internal Revenue (BIR) under the classification of non-VAT\ntaxpayers engaged in business; (b) ensure that proper taxes are deducted from the\nJOs’ wages before such anmems are made to them; (c) remit all taxes withheld on\nor before the tenth (10™) day of the month following the withholding period; (d)\nensure that, prior te the hiring of the new JOs, their respective TINs are available\nand updated; and (e) coordinate with LGUs BIR Officer for any clarifications on\nthe tax types and rates applicable to various government transactions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommended that Management require the immediate submission of the\nIacking documents pertaining to the disbursements made in CY 2016. We further\nrecommended that:\n\na.  the Municipal Accountant signs Box A of the Disbursement Voucher\nonly if all supperting documents are complete and proper, and attach a\nChecklist of all the required documents for every Disbursement\nVoucher to hasten the verification of the required supporting\ndocuments;\n\nb. the Mumclpa]\"l‘reasurer signs Box B to certify as to availability of\nfunds; and |\n\nc.  the Municipal \\Mayor signs Box C (Approved for Payment) only if ail\nthe documentations as enumerated on the Checklist are attached to the\nvoucher.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommerded |and Managemenat agreed to: (a) require the BAC Secretariat to submit all contracts together with the supporting documents listed down in COA Circular No. 2009-001 to the Audit Team within the prescribed period; and (b) ensure that|the attachments are complete and ir order by providing 2 checklist of the documentary requirements rnr every comtract submitted for review to the Audit Team.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We recommended : and Management agreed to require the Municipal\nAccountant to include all the accounts covering transactions of the Economic\nEnterprise-Loans special account in its separate financial statements in order that\nthese financial statements would reflect the actual financial condition and results of\nits operations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to: (a) fully implement all\nuncompleted projects as of December 31, 2016; (b) instruct the Offices of the\nMunicipal Engineer, Municipal Budget and Municipal Planning and Development\nto coordinate closely in the monitoring of the implementation of the projects funded\nfrom the 20% Economic Development Fund; (c)require the Municipal Engineer to\nmaintain adequate records pertaining to the status of projects being implemented\nparticularly the engineer’s loghook; and (d) execute all projects within the time\nframe programmed for their completion to effectively and timely extend to the\nconstituents the benefits of the agency’s development projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2016-PY1",
+      "year": 2016,
+      "recommendation": "We recommended that the Inventory\nCommittee; (a) coordinate with the\nMunicipal Accountant in the retrieval of\nthe needed documents for all the PPE;\n(b) to expedite the physical inventory of\nall PPE, coordinate with each\nDepartment Head in the actual physical\ncounting thereof stationed in their\nrespective offices; and (¢) follow the\nprocedures provided in the COA\nHandbook on Supply and Property\nManagemont to have a more systematic\ninventory taking and submit the\ncorresponding Report on the Physical\nCount of the Property, Plant and\nEquipment by type to the Office of the\nAugdit Team not later than January 31 of\neach year.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "TLack of personnel\n\nRestated in this year's\nreport"
+    },
+    {
+      "id": "Nabua_CamSur-2016-PY2",
+      "year": 2016,
+      "recommendation": "We recommended that Management\nrequire the immediate submission of the\nlacking documents pertaining to the\ndisbursements made in CY 2015. We\nfurther recommended that:\n\n. the Municipal Accountant signs Box A\nof the Disbursement Voucher only if all\nsupporting documents are complete and\nproper,\n\nb. attach a Checklist of all the required\ndocuments for every Dishursement\nVoucher to hasten the verification of the\nrequired supporting documents; and\n\n¢. the Municipal Mayor signs Box C\n(Approved for Payment) only if all the\ndocumentations as enumerated on the\nChecklist are attached to the voucher.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Restated in this year's\nreport"
+    },
+    {
+      "id": "Nabua_CamSur-2016-PY3",
+      "year": 2016,
+      "recommendation": "We recommended that the Management:\n(a) before procurement of construction\nmaterials are made, execute\nMemorandum of Agreement between the\nMunicipality and the Barangay so that\nthe terms and conditions on the\nimplementation of the infrastructure\nprojects and subsequent operations\nthereof are clearly identified; (b) require\nthe Municipal Engincer to closely\nsupervise and monitor the\nimplementation of the projects and\nconduct inspection after completion\nthereof, and (¢) cnsure that the\nCertificate of Completion as well as\nphotos  before, during and after\nconstruction are attached to the\ncorresponding disbursement vouchers.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2016-PY5",
+      "year": 2016,
+      "recommendation": "We recommended that Management; (a) ensure that all procurement of goods and services within a calendar year be cautiously and judiciously planned; (b) determine the estimated period and quantity within  which the particular goods or services will be needed by the agency; (c) require the BAC Secretariat to thoreughly review and consolidate the Project Procurement Management Plan (PPMP) in the proposed APP; and (d) conduct public bidding if the consolidated cost is already more than the P 100,000.00 threshold set by the RIRR of RA No. 9184 to give equal opportunity to  other eligible - - bidders/suppliers.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2016-PY6",
+      "year": 2016,
+      "recommendation": "We recommended that the Management direct the Municipal Treasurer to be cautious in the acceptance of any official receipts, sales invoices and other commercial invoices whenever payments to suppliers are made and to see to it that evidences of payments are compliant with BIR regulations.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2016-PY7",
+      "year": 2016,
+      "recommendation": "We recommended that Management: (a) expedite the construction of the Materials Recovery Facility and strengthen the monitoring of the related ordinances for extensive compliance by the constituents and business establishments; (b) require that penalties for violations be imposed strictly; and (c) coordinate with the local police or Public Safety Office (PSO) in connection with the implementation of prohibition and penalizing the littering of garbage specifically in public places.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2016-PY8",
+      "year": 2016,
+      "recommendation": "We recommended that Management\nissue orders/appointments to\nimmediately institute 2 GAD Focal Point\nSystem (GFPS) in accordance with the\nprovisions of PCW-DILG-DBM-NEDA\nJMC  No. 2013-0l. We also\nrecommended that upon establishment of\nthe GFPS, orient the members of their\nfunctions and responsibilities starting\nfrom the GAD planning and budgeting\nup to the impiementation and monitoring\nthereof as well as the reports or\ndocuments to be prepared and submitted\nto the concerned agencies.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Nabua_CamSur-2016-PY9",
+      "year": 2016,
+      "recommendation": "We recommended that Management: (a} fully implement all uncompleted projects as of December 31, 2015; (b) require the Municipal Engineer to inspect and monitor all the concreting projects where the payments of construction materials and equipment rentals were shouldered by the Municipality; and {c) execute all projects  within  the time frame programmed for their completion tc effectively and timely extend to the constituents the benefits of the agency’s development projects.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Restated in this year’s\nreport"
+    }
+  ]
+}

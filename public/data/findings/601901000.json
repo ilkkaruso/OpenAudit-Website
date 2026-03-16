@@ -1,0 +1,822 @@
+{
+  "lguCode": "601901000",
+  "lguName": "Cuartero",
+  "province": "Capiz",
+  "region": "Region V (Bicol Region)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "09-Region-VI__Municipalities__Capiz__Cuartero_Capiz-2024-PY1",
+      "year": 2024,
+      "recommendation": "a. Direct the Municipal Accountant to prepare a reconciliation report of the reciprocal accounts and take up necessary adjustments in the books to ensure accurate balances; and\nb. Conduct periodic reconciliation of these accounts so that any errors and omissions could be resolved or adjusted in a timely manner.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Capiz__Cuartero_Capiz-2024-PY3",
+      "year": 2024,
+      "recommendation": "a. Require the Collecting Officers to remit intact their full collections to the Treasurer at the close of each business day to lessen the risk of misuse and loss of government funds; Issue official receipts in strict numerical sequence, and strictly adhere with the provisions of Section 29 of the Manual on NGAS for LGUs Vol. I and Section 7 of COA Circular 92-382 dated July 3, 1992;\n\nb. Direct Municipal Treasurer to monitor the issuance of Accountable Forms and to refrain further issuance of additional Official Receipts to collectors unless remittances of all collections are made and previous accountable forms are clearly accounted in the RAAF.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Capiz__Cuartero_Capiz-2024-PY4",
+      "year": 2024,
+      "recommendation": "a. Direct the GSO to initiate and undertake the necessary process of disposal of the duly accounted unserviceable properties following the revised manual on disposal prescribed in COA-DBM Joint Circular No. 2024-1 dated January 30, 2024; and\n\nb. Direct the Municipal Accountant to draw necessary entries for the dropping of these assets from the books of accounts, once the disposal process is complete.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Capiz__Cuartero_Capiz-2024-PY5",
+      "year": 2024,
+      "recommendation": "a. Direct the Municipal Treasurer to intensify tax collection strategies and to institute administrative and judicial remedies against delinquent taxpayers, if necessary; and\n\nb. Direct the Local Finance Committee to set an attainable income estimate and ensure its collection, in order to meet the expenditure requirements of the LGU in a given year.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Records of the Municipal Treasurer for reconciliation."
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Capiz__Cuartero_Capiz-2024-PY6",
+      "year": 2024,
+      "recommendation": "a. Direct the OIC - Municipal Assessor and the Municipal Treasurer to examine and reconcile their respective assessment data to generate a reliable and accurate assessment record/report; and\n\nb. After reconciliation, direct the Municipal Treasurer to furnish the Municipal Accountant Real Property Tax Account Register (RPTAR) or Taxpayer’s index card showing the name of tax payers and the amount due.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Capiz__Cuartero_Capiz-2024-PY7",
+      "year": 2024,
+      "recommendation": "a. Provide the Municipal Assessor’s Office with adequate manpower complement and facilities. If necessary, capacitate the personnel and require to attend in formal training on the proper assessment procedures;\n\nb. Direct the Municipal Assessor’s Office to conduct tax mapping and comply with their duties and functions as stipulated in Section 472 (b) of Article III of RA No. 7160 and Section I.C.1 (a) to (d) of Chapter I under Local Government Assessment Organization of the Manual on Real Property Appraisal and Assessment Operations; and\n\nc. Direct the OIC-Municipal Assessor and the Municipal Treasurer to closely coordinate and ensure that the assessment data/information in their respective records are duly reconciled and updated;",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Still lack of manpower. Still in the process of reconciliation."
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Capiz__Cuartero_Capiz-2024-OBS1",
+      "year": 2024,
+      "recommendation": "1.5 We recommended and the Management agreed to require:\na. The OIC-Municipal General Services Officer to:\ni. Maintain stock cards for each type of Inventory which shall be\nreconciled with the SLC;\nii. Prepare the SSMI together with the original copy of the RIS as\nprovided in Section 121 of the Manual on the NGAS for LGUs, Volume 1 to\nproperly monitor the utilization of supplies and materials by requiring end-user\ndepartments to submit monthly inventory reports showing receipts, issuances,\nand ending balances; and\niii. Conduct the semestral physical count of inventory items by type for all\nsupplies and materials, prepare the RPCI, and submit to the Auditor concerned\nnot later than July 31 and January 31 of each year for the first and second\nsemesters, respectively.\nb. The Municipal Accountant to:\ni. Maintain the necessary perpetual inventory records including the SLC for\neach commodity/stock in accordance with Section 114 of the Manual on the\nNGAS for LGUs, Volume 1;\nii. Record purchases of supplies and materials for stock to their appropriate\ninventory accounts, except those purchased through the petty cash fund, and\nrecognize as expense only when stocks are issued upon receipt of the SSMI\ntogether with the original copy of the RIS as provided in Section 121 of the\nManual on the NGAS for LGUs, Volume 1; and\niii. Reconcile the RPCI after the conduct of periodic physical inventory of\nsupplies or properties to ascertain the accuracy and reliability of Inventory\naccount balances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Capiz__Cuartero_Capiz-2024-OBS2",
+      "year": 2024,
+      "recommendation": "2.13 We recommended and the Management agreed to direct the Municipal\nAccountant to:\na. Recognize the corresponding municipal share for advance payments\nunder the Discount on Advance Payments account and credit the account when\nthe discount is applied;\nb. Prepare the following adjusting entries to reflect the correct balances of\nthe RPT and SET receivable and Due to LGU accounts; and\nDebit Credit\nOther Deferred Credits 683,110.89\nDeferred Real Property Tax (40%) 151,714.64\nDeferred Special Education Fund Tax 151,912.15\n(50%)\nDue to LGUs - Province 258,250.66\nDue to LGUs - Barangays 75,956.08\nDiscount on Advance Payments 45,277.37\nc. Ensure proper segregation and classification of all components of real\nproperty tax collections, including current dues, advance payments, discounts,\nand penalties at the point of recording.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Capiz__Cuartero_Capiz-2024-OBS3",
+      "year": 2024,
+      "recommendation": "3.9 We recommended and the Management agreed that:\na. The Sangguniang Bayan enact the necessary resolutions formally\nauthorizing the operation of each LEE to establish a clear legal foundation and\nalign with the requirements of R.A. No. 7160 and the LEE Manual;\nb. The Municipal Budget Officer and the Municipal Accountant ensure that\nseparate Annual Operating Budgets (AOBs) are prepared and maintained for\neach LEE, consistent with Item 5.1(f) of the LEE Manual, and to properly\nintegrate into the approved appropriation ordinance; and\nc. The Municipal Economic Enterprise and Development Office (MEEDO), in\ncoordination with the Municipal Planning and Development Coordinator\n(MPDC), prepare a comprehensive 5-Year Business Plan for each existing\nLEE, covering management, operations, staffing, risk, marketing, and\nfinancial projections, to promote operational sustainability and compliance\nwith Item 5.3 of the LEE Manual.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Capiz__Cuartero_Capiz-2024-OBS4",
+      "year": 2024,
+      "recommendation": "4.9 We recommended and the Management agreed that:\na. The Human Resource and Management Officer (HRMO), in\ncoordination with the Municipal Budget Officer (MBO) and approving\nauthorities, ensure that all Job Order contracts are prepared, reviewed, and\napproved prior to the actual engagement of personnel, with complete\nsignatures and dates to establish its enforceability and validity;\nb. The HRMO ensure that all Job Order contracts clearly define the duties,\nresponsibilities, and expected deliverables of hired personnel to provide a clear\nbasis for monitoring and evaluating actual services rendered;\nc. The HRMO, in coordination with the heads of offices where Job Order\npersonnel are assigned, require that duly signed individual accomplishment\nreports be submitted by Job Order personnel and their immediate supervisors\nto support payroll processing and validate that services rendered are consistent\nwith the agreed terms of engagement;\nd. The Municipal Accountant verify that all disbursement vouchers for Job\nOrder personnel are supported with complete documentation, including duly\napproved contracts and accomplishment reports, prior to processing and\nrecording of payments; and\ne. Furthermore, Management should strengthen internal controls and establish\nclear guidelines on the hiring, documentation, and monitoring of Job Order\npersonnel to safeguard accountability, uphold management authority, and\nensure the proper and efficient use of government resources.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Capiz__Cuartero_Capiz-2024-OBS5",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Capiz__Cuartero_Capiz-2024-OBS6",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Capiz__Cuartero_Capiz-2024-OBS7",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Capiz__Cuartero_Capiz-2024-OBS8",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Capiz__Cuartero_Capiz-2024-OBS9",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Capiz__Cuartero_Capiz-2024-OBS10",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Capiz__Cuartero_Capiz-2024-OBS11",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Capiz__Cuartero_Capiz-2024-OBS12",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Capiz__Cuartero_Capiz-2024-OBS13",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Capiz__Cuartero_Capiz-2024-PY2",
+      "year": 2024,
+      "recommendation": "We recommended and the Management agreed to direct the Municipal Accountant to initiate the write-off of the outstanding dormant account amounting to ₱95,571.32 pursuant to the specific guidelines and procedures as provided in COA Circular No. 2023-008 dated August 17, 2023.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Capiz__Cuartero_Capiz-2023-PY6",
+      "year": 2023,
+      "recommendation": "a. Direct the GSO to initiate and undertake the necessary process of disposal of the duly accounted unserviceable properties following the procedures prescribed in COA Circular 92-386 dated October 20, 1992; and \nb. Direct the Municipal Accountant to draw necessary entries for the dropping of these assets from the books of accounts, once the disposal process is complete.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Capiz__Cuartero_Capiz-2023-OBS1",
+      "year": 2023,
+      "recommendation": "3.7 We recommended and the Management agreed to:\n a. Direct the Municipal Accountant to prepare a reconciliation report of the\n reciprocal accounts and take up necessary adjustments in the books to ensure\n accurate balances; and\n b. Conduct periodic reconciliation of these accounts so that any errors and\n omissions could be resolved or adjusted in a timely manner.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Capiz__Cuartero_Capiz-2023-OBS2",
+      "year": 2023,
+      "recommendation": "2.8 Hence, we recommended and the Management agreed to direct the Municipal\nAccountant to initiate the write-off of the long outstanding dormant account\namounting to ₱95,571.32 pursuant to the specific guidelines and procedures\nas provided in COA Circular No. 2023-008 dated August 17, 2023.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Capiz__Cuartero_Capiz-2023-PY1",
+      "year": 2023,
+      "recommendation": "Strictly adhere to NDRRMC-DBM-DILG- CSC JMC No. 2014-1 and COA Circular No. 2012-002 dated especially on the allowable expenditures, programs, projects, and activities to be charged in the LDRRMF.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Capiz__Cuartero_Capiz-2023-PY2",
+      "year": 2023,
+      "recommendation": "a. Direct the Municipal Engineer, the Municipal Planning and Development Officer and other concerned implementing office to undertake identified PPAs within the planned time-frame and subsequently, closely monitor, evaluate the progress, and supervise the implementation of both infrastructure and non-infrastructure PPAs, funded under the 20 percent Development Fund to avoid delays in the completion of targeted projects; and\nb. Establish a system of monitoring, gathering, and consolidating all data/information on the status of implementation of all PPAs undertaken by the Municipal Government and designate a focal person/office/department to aid the Local Chief Executive in exercising its mandate on general supervision and control overall programs, projects, services, and activities of the LGU.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Capiz__Cuartero_Capiz-2023-PY3",
+      "year": 2023,
+      "recommendation": "a. Direct the OIC - Municipal Assessor and the Municipal Treasurer to examine and reconcile their respective assessment data to generate a reliable and accurate assessment record/report; \nb. After reconciliation, direct the Municipal Treasurer to furnish the Municipal Accountant the RPTAR/Taxpayer’s Index or Taxpayer’s index card showing the name of tax payers and the amount due; \nc. Direct the Municipal Accountant to establish record RPT and SET Receivables, at the beginning of the year, based on the RPTAR/Taxpayer’s Index for the current year provided by the Municipal Treasurer. Draw appropriated adjusting entries, if necessary; \nd. Direct the Municipal Treasurer to strengthen/intensify tax campaign and collection efforts to increase efficiency especially in collecting tax delinquencies. Impose penalties and enforce legal means in its collection efforts. Regularly monitor and assess collection performance not only on the target parameters provided by oversight agencies but also on the actual due and collectible RPT/SET for the current year.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Capiz__Cuartero_Capiz-2023-PY4",
+      "year": 2023,
+      "recommendation": "a. Provide the Municipal Assessor’s Office with adequate manpower complement and facilities. If necessary, capacitate the personnel and require to attend in formal training on the proper assessment procedures; \nb. Direct the Municipal Assessor’s Office to conduct tax mapping and comply with their duties and functions as stipulated in Section 472 (b) of Article III of RA No. 7160 and Section I.C.1 (a) to (d) of Chapter I under Local Government Assessment Organization of the Manual on Real Property Appraisal and Assessment Operations; \nc. Direct the OIC- Municipal Assessor and the Municipal Treasurer to closely coordinate and ensure that the assessment data/information in their respective records are duly reconciled and updated; and \nd. Ascertain at all times, that real property assessments are accurate and reliable as basis of collection by the Treasurer’s Office.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Capiz__Cuartero_Capiz-2023-PY5",
+      "year": 2023,
+      "recommendation": "a. Direct the Municipal Accountant to institute sound Perpetual Inventory system pursuant to the New Government Accounting System (NGAS) for Local Government Units (LGUs) to account for the recording of receipt and issuance of inventories; \nb. Require the Municipal Accountant to record inventories upon receipt of procured/donated Drugs and Medicines, and Medical, Dental, and Laboratory Supplies, recognize the corresponding expenses only upon consumption or distribution, maintain subsidiary ledger cards and properly classify the income and expense accounts; \nc. Direct the GSO to require the RHU, DRRMO, and other offices in custody of and in-charge to distribute the procured/donated drugs and medicines, and Medical, Dental, and Laboratory Supplies to submit monthly RIS as basis on the preparation of RSMI/SSMI to account for the issued/consumed inventories. The RSMI/SSMI together with the RIS shall be submitted to the Municipal Accountant. Based on the RSMI/SSMI, the Municipal Accountant shall draw a JEV to record the expenditures using appropriate expenditure accounts; and \nd. Require the Inventory Committee to conduct physical inventory of drugs and medicines and medical, dental and laboratory supplies quarterly and reconcile its records periodically with the accounting record.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "b. Direct the GSO to initiate the process of disposing the unserviceable properties as listed in the Inventory and Inspection Report of Unserviceable Property (IIRUP).",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "c. Direct the Municipal Accountant, after receiving necessary documents, to record the dropping off of the unserviceable properties from the books of accounts;",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "d. Direct the Municipal Accountant to make necessary adjustments to book up the donated properties at fair value;",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended and the Management agreed to:\n\na. Establish an Inventory Committee composed of adequate number of members\nto be able to complete the physical inventory in three months or less. The\nInventory Committee shall have at least one member each from the Accounting\nand Property Divisions/Units of the agency;\nb. Direct the Inventory Committee to come up with a Physical Inventory Plan (PIP)\nwith timeframe for its one-time cleansing of Property, Plant and Equipment\n(PPE) accounts. The Inventory Committee shall be guided by the procedures\nprovided in COA Circular No. 2020-006;\nc. Direct the Inventory Committee to reconcile the discrepancy between the\nbalances in the books and per physical count of the PPE and effect appropriate\nadjustments if necessary;\nd. Direct the GSO to initiate the process of disposing the unserviceable\nproperties as listed in the Inventory and Inspection Report of Unserviceable\nProperty (IIRUP);\ne. Direct the Municipal Accountant to record the dropping off of the unserviceable\nproperties from the books of accounts after receiving required documents;\nf. Direct the Municipal Accountant and GSO to regularly reconcile their\nrespective property and ledger cards;\ng. Require the Inventory Committee to conduct regularly a year-end physical\ninventory on Property, Plant and Equipment and submit it to the Accounting\nUnit for reconciliation of balances to ensure correctness and reliability of the\nPPE account balances; and\nh. Provide additional manpower to assist the GSO in performing the rigorous task\nrequired of their office especially in the conduct of one-time cleansing of PPE.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended and the Management agreed to:\n\na. Direct the Local Development Council (LDC) to incorporate in the Annual\nInvestment Plan (AIP) programs, projects, and activities (PPAs) that are\ndescribed specifically as to name and location; and\nb. Secure approval or authorization from the Local Sanggunian prior to\nimplementation of specific programs/projects/activities funded out of lump\nsum appropriation under the 20% DF pursuant to Article 4 (d) of the Rules and\nRegulation Implementing the Local Government Code and Item 3.1.1 COA\nCircular No. 2012-001 as clarified in COA Memorandum 2010-014 dated April\n22, 2010.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "We recommended and the Management agreed to:\n\na. Direct the Municipal Engineer to install the required billboard/signage for\nongoing projects; and\nb. Strictly comply with the transparency requirements of the 1987 Constitution as\nspecified in Section 2 of COA Circular No. 2013-004 dated January 30, 2013 in\nall its infrastructure projects undertaken either by straight contract or by\nadministration.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "We recommended and the Management agreed to:\n\na. Direct the Municipal Engineer to prepare and submit as-built plans for those\ncompleted projects, and approved plans/drawings for on-going and\nunimplemented infrastructure projects; and\nb. Henceforth, strictly comply with COA Circular 2009-001 on the timely\nsubmission of copy government contracts, purchase orders, and their\nsupporting documents to facilitate auditorial review.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "We recommended and the Management agreed to:\n\na. Revert the unexpended balance or savings from CY 2014-2016 continuing\nappropriation to the unappropriated surplus of the General Fund for subsequent\nre-appropriation by the Local Sanggunian for other social services;\nb. Utilize the unexpended balance or savings from CY 2017-2018 continuing\nappropriation for other relevant disaster risk reduction and management\nactivities of the Municipality as provided for in the LDRRMFIP or in its revised\nplan;\nc. Implement the program under the CY 2014 continuing appropriation which has\nbeen long overdue, otherwise, reprogram the funds to a more feasible and\nrealizable programs and projects; and\nd. Henceforth, ensure strict and timely implementation of programs, projects, and\nactivities embodied in the LDRRMFIP of the Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "We recommended and the Management agreed to:\n\na. Direct the Municipal Accountant to prepare and submit a request for write-off\npertaining to the dormant receivables amounting to ₱34,801.11; and\nb. Henceforth, strictly adhere to COA Circular No. 2016-005 dated December 19,\n2016 on the procedures for the write-off of dormant receivable accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "We recommended and the Management agreed to:\n\na. Direct the Municipal Accountant and other concerned official to prepare,\nmaintain, and attach the documentary requirements prescribed in Section\n9.1.3.4 of COA Circular No. 2012-001 dated June 14, 2012 in the disbursements\nfor repairs and maintenance of equipment and motor vehicle; and\nb. Henceforth, strictly adhere to the limitations set forth in Par. 11, Annex C and\nPar. 2, Annex D of COA Circular 2012-003 dated October 29, 2012.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "a. Direct the Municipal Accountant and the GSO to analyze and reconcile the discrepancy between the balances in the books and per physical count of the PPE accounts;",
+      "managementAction": "On-going process of reconciliation",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "e. Require the Municipal Accountant and the GSO to maintain complete property and ledger cards as required in Sections 114 and 120, Volume 1 of the NGAS for LGUs;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "f. Require the Inventory Committee to conduct regularly a year-end physical inventory on Property, Plant and Equipment and submit it to the Accounting Unit for reconciliation of balances to ensure correctness and reliability of the PPE account balances;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "g. Require the GSO to annually provide a copy of the reconciled RPCPPE to the COA, not later than January 31st of the ensuing year, showing therein the proper classification of PPE; and",
+      "managementAction": "The GSO was able to submit the annual RPCPPE, however, the same was not reconciled with the Property Ledger Cards/FS of the Municipal Accountant",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "h. If possible, provide additional manpower to assist the GSO in performing the rigorous task required of their office.",
+      "managementAction": "The Management designated additional personnel to assist the GSO",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "however, the existing number of manpower is still not enough to undertake the task."
+    },
+    {
+      "id": "Cuartero_Capiz_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "a. Properly plan, closely monitor, and evaluate the implementation of the identified prioritized development Programs/Projects/Activities (PPAs) funded by the 20% Development Fund (DF), so that any cause of suspension or problems that would delay the project implementation would be immediately addressed and more desired benefits could be delivered to the constituents;",
+      "managementAction": "Utilization rate of 81% was noted in CY 2021 20% DF.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "b. Prepare and be specific in the identification of projects for inclusion in the Annual Investment Plan that have undergone priority ranking by the Local Development Council which are attainable within the desired time frame to maximize the allocated funds that have an immediate impact on the development of the Municipality this time of pandemic; and",
+      "managementAction": "The CY 2021 AIP still includes generic or lumpsum PPAs. This observation was covered under AOM No. 2022-002 dated March 30, 2022 and reiterated in this year’s AAR.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "c. Review unimplemented PPAs and ascertain viability of implementation, otherwise, realign or reprogram for more viable and significant PPAs in accordance with the socio-economic development, environmental management and disaster response requirements provided by DILG - DBM JMC No. 2017-1 dated February 22, 2017 and DILG - DBM JMC No. 01 dated March 27, 2020.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "a. Properly plan, closely monitor, and strictly implement Programs/Projects/Activities (PPAs) funded by the 5% Gender and Development Fund so that problems/issues may be immediately addressed;",
+      "managementAction": "Utilization rate of 79% was noted in CY 2021 GAD Fund",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "b. Review unimplemented PPAs and ascertain viability of implementation, otherwise, realign or reprogram for more viable gender issues and significant PPAs this time of COVID-19 pandemic; and",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz_aar2021-PY14",
+      "year": 2021,
+      "recommendation": "c. Strictly adhere to the provisions of the DBM, NEDA, and NCRFW Joint Circular No. 2004.1 in formulating PPAs in order to address gender issues and achieve maximum benefits for its constituents.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Capiz__Cuartero_Capiz-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to the following:\nDirect the Municipal Accountant and the GSO to analyze and reconcile the discrepancy between the balances in the books and per physical count of the PPE accounts;\nDirect the GSO to initiate the process of disposing the unserviceable properties as listed in the Inventory and Inspection Report of Unserviceable Property (IIRUP).\nDirect the Municipal Accountant, after receiving necessary documents, to record the dropping off of the unserviceable properties from the books of accounts\nDirect the Municipal Accountant to make necessary adjustments to book up the donated properties at fair value.;\nRequire the Municipal Accountant and the GSO to maintain complete property and ledger cards as required in Sections 114 and 120, Volume 1 of the NGAS for LGUs;\nRequire the Inventory Committee to conduct regularly a year-end physical inventory on Property, Plant and Equipment and submit it to the Accounting Unit for reconciliation of balances to ensure correctness and reliability of the PPE account balances;\nRequire the GSO to annually provide a copy of the reconciled RCPPE to the COA, not later than January 31st of the ensuing year, showing therein the proper classification of PPE; and\nIf possible, provide additional manpower to assist the GSO in performing the rigorous task required of their office.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Capiz__Cuartero_Capiz-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended and the Management agreed to the following:\nProperly plan, closely monitor, and evaluate the implementation of the identified and prioritized development Programs/Projects/Activities (PPAs) funded by the 20% Development Fund (DF), so that any cause of suspension or problems that would delay the project implementation would be immediately addressed and more desired benefits could be delivered to the constituents;\nPrepare and be specific in the identification of projects for inclusion in the Annual Investment Plan that have undergone priority ranking by the Local Development Council which are attainable within the desired time frame to maximize the allocated funds that have an immediate impact on the development of the Municipality this time of pandemic; and\nReview unimplemented PPAs and ascertain viability of implementation, otherwise, realign or reprogram for more viable and significant PPAs in accordance with the socio-economic development, environmental management and disaster response requirements provided by DILG - DBM JMC No. 2017-1 dated February 22, 2017 and DILG - DBM JMC No. 01 dated March 27, 2020.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Capiz__Cuartero_Capiz-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended and the Management agreed to the following:\nProperly plan, closely monitor, and strictly implement Programs/Projects/Activities (PPAs) funded by the 5% Gender and Development Fund so that problems/issues may be immediately addressed;\nReview unimplemented PPAs and ascertain viability of implementation, otherwise, realign or reprogram for more viable gender issues and significant PPAs this time of COVID-19 pandemic; and\nStrictly adhere to the provisions of the DBM, NEDA, and NCRFW Joint Circular No. 2004.1 in formulating PPAs in order to address gender issues and achieve maximum benefits for its constituents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Capiz__Cuartero_Capiz-2020-PY1",
+      "year": 2020,
+      "recommendation": "Direct the GAD Focal Person to fast track the creation and maintenance of GAD Database containing sex-disaggregated data pursuant to PCW-DILG-DBM-NEDA JMC No. 2013-01; and\n\nEstablish GAD agenda or identify priority gender issues using the results of gender analysis and assessment provided by sex-disaggregated data as basis for the formulation of PPAs to be included in the GAD Plan and Budget.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Capiz__Cuartero_Capiz-2020-PY2",
+      "year": 2020,
+      "recommendation": "Require the Municipal Assessor to fast-track the registration of all real estate owned by municipality under the Torrens Title System pursuant to COA Circular No. 92-386; and\n\nCause the cancellation of the three (3) Tax Declaration still in the name of the former owners and transfer it in the name of the LGU.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Titling process is still on-going."
+    },
+    {
+      "id": "Region-VI__Municipalities__Capiz__Cuartero_Capiz-2020-PY3",
+      "year": 2020,
+      "recommendation": "Require the Municipal Assessor to comply with his duties and functions as stipulated in Section 472 of the Local Government Code and Manual on Real Property Appraisal and Assessment Operations;\n\nProvide the Municipal Assessor’s Office with a qualified and able tax mapper as well as the adequate manpower to do the tax mapping activity, ocular inspection and other relevant functions of the said office;\n\nSubmit updated Report on Assessment to the Provincial Assessor’s Office to provide them an accurate information relevant to their plan for a possible general revision; and\n\nFurnish the Municipal Treasurer’s Office with the updated and accurate data on RPT Assessment which serves as basis for RPT target and collection every year.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "RPT Assessment were done manually, thus, caused delay in generating the report/ list."
+    },
+    {
+      "id": "Region-VI__Municipalities__Capiz__Cuartero_Capiz-2020-PY4",
+      "year": 2020,
+      "recommendation": "Advise the Administrative Officers and other Approving Officials to perform proper review prior to approval of Loan Applications of employees under their jurisdiction, making sure that after amortizations of the loan applied for are deducted, the same will not bring the Net Take Home Pay of the employee to below the minimum required by the law; and\n\nDirect the Municipal Accountant to include a phrase stating that the Certificate of Net Pay of Employees is not applicable for loan purposes, or any other similarly applicable notes before signing the Certificate of Net Pay of Employees and upon determining that the Net Take Home Pay will fall below what is required by law, in order to strictly implement related provisions and restrictions of the law.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2019-PY8",
+      "year": 2019,
+      "recommendation": "b. Cause the cancellation of the three (3) Tax Declaration still in the name of the former owners and transfer it in the name of the LGU.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The management is still on the process of titling of all the lots owned by the Municipality. According to them, they are now waiting for the release of titles for some lots while the processing of others are still pending due to some legal issues and circumstances beyond their control such as land disputes and existence of decrees which hinders the process."
+    },
+    {
+      "id": "Cuartero_Capiz-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\na. Direct the GAD Focal Person to fast track the creation and maintenance of GAD\nDatabase containing sex-disaggregated data pursuant to PCW-DILG-DBM-NEDA\nJMC No. 2013-01; and\nb. Establish GAD agenda or identify priority gender issues using the results of gender\nanalysis and assessment provided by sex-disaggregated data as basis for the\nformulation of PPAs to be included in the GAD Plan and Budget.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommend that Management:\na. Require the Municipal Assessor to fast-track the registration of all real estate owned\nby municipality under the Torrens Title System pursuant to COA Circular No. 92-386;\nand\nb. Cause the cancellation of the three (3) Tax Declaration still in the name of the former\nowners and transfer it in the name of the LGU.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended that management:\na. Require the Municipal Assessor to comply with his duties and functions as stipulated\nin Section 472 of the Local Government Code and Manual on Real Property\nAppraisal and Assessment Operations;\nb. Provide the Municipal Assessor’s Office with a qualified and able tax mapper as well\nas the adequate manpower to do the tax mapping activity, ocular inspection and\nother relevant functions of the said office;\nc. Submit updated Report on Assessment to the Provincial Assessor’s Office to provide\nthem an accurate information relevant to their plan for a possible general revision;\nand\nd. Furnish the Municipal Treasurer’s Office with the updated and accurate data on RPT\nAssessment which serves as basis for RPT target and collection every year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended that:\na. Advise the Administrative Officers and other Approving Officials to perform proper\nreview prior to approval of Loan Applications of employees under their jurisdiction,\nmaking sure that after amortizations of the loan applied for are deducted, the same\nwill not bring the Net Take Home Pay of the employee to below the minimum\nrequired by the law; and\nb. Direct the Municipal Accountant to include a phrase stating that the Certificate of Net\nPay of Employees is not applicable for loan purposes, or any other similarly\napplicable notes before signing the Certificate of Net Pay of Employees and upon\ndetermining that the Net Take Home Pay will fall below what is required by law, in\norder to strictly implement related provisions and restrictions of the law.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended that Local Chief Executive direct the Bids and Awards Committee\n(BAC) to submit the required documents to the Audit Team within the prescribed period\nto facilitate the auditorial review and technical evaluation of the same as well as the\ntimely preparation of the necessary reports.\n\nLikewise, BAC should be reminded that the submission of required documents as\nattachment to DV’s does not relieve them from their duty to submit a copy of the same to\nthe COA Audit Team.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2019-PY1",
+      "year": 2019,
+      "recommendation": "a. Effect full and timely implementation of the projects embodied in the AIP;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2019-PY2",
+      "year": 2019,
+      "recommendation": "b. Make immediate realignment, if planned programs and projects are no longer feasible or could not be implemented, so that the amount will be utilized for other relevant projects; and",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2019-PY3",
+      "year": 2019,
+      "recommendation": "c. Subject the project to straight contract so as not to hamper the full implementation of the project.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2019-PY4",
+      "year": 2019,
+      "recommendation": "a. Initiate the creation and maintenance of GAD Database containing sex-disaggregated data pursuant to PCW-DILG-DBM-NEDA JMC No. 2013-01;",
+      "managementAction": "Implemented.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Due to lack of manpower, the concerned department is still on the process of gathering data."
+    },
+    {
+      "id": "Cuartero_Capiz-2019-PY5",
+      "year": 2019,
+      "recommendation": "b. Establish GAD agenda or identify priority gender issues using the results of gender analysis and assessment provided by sex-disaggregated data as basis for the formulation of PPAs to be included in the GAD Plan and Budget;",
+      "managementAction": "Implemented.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Due to absence of GAD Database, gender analysis and assessment cannot be performed."
+    },
+    {
+      "id": "Cuartero_Capiz-2019-PY6",
+      "year": 2019,
+      "recommendation": "c. Ensure that the programs, projects and activities are aligned with GAD-related undertakings so that the intended beneficiaries are assured of the services, protection and other assistance that may be provided pursuant to Section 36 of Republic Act No. 9710 and PCW-DILG-DBM-NEDA JMC No. 2013-01.",
+      "managementAction": "Reiterated in this year’s audit report.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2019-PY7",
+      "year": 2019,
+      "recommendation": "a. Require the Municipal Assessor to fast-track the registration of all real estate owned by municipality under the Torrens Title System pursuant to COA Circular No. 92-386; and",
+      "managementAction": "Implemented",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2019-PY9",
+      "year": 2019,
+      "recommendation": "a. Require the Municipal Assessor to comply with his duties and functions as stipulated in Section 472 of the Local Government Code and Manual on Real Property Appraisal and Assessment Operations;",
+      "managementAction": "Implemented",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The management is still on the process of hiring and training of proper personnel to do the vital tasks and functions in the Assessor’s Office"
+    },
+    {
+      "id": "Cuartero_Capiz-2019-PY10",
+      "year": 2019,
+      "recommendation": "b. Submit updated Quarterly Report on Assessment to the Provincial Assessor’s Office to provide them an accurate information relevant to their plan for a possible general revision; and\nc. Furnish the Municipal Treasurer’s Office with the updated and accurate data on RPT Assessment which serves as basis for RPT target and collection every year.",
+      "managementAction": "Reiterated in this year’s audit report.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended that Management:\nEffect full and timely implementation of the projects embodied in the AIP;\nMake immediate realignment, if planned programs and projects are no longer feasible or could not be implemented, so that the amount will be utilized for other relevant projects; and\nSubject the project to straight contract so as not to hamper the full implementation of the project.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We recommended that the Management:\nInitiate the creation and maintenance of GAD Database containing sex-disaggregated data pursuant to PCW-DILG-DBM-NEDA JMC No. 2013-01;\nEstablish GAD agenda or identify priority gender issues using the results of gender analysis and assessment provided by sex-disaggregated data as basis for the formulation of PPAs to be included in the GAD Plan and Budget; and\nEnsure that the programs, projects and activities are aligned with GAD-related undertakings so that the intended beneficiaries are assured of the services, protection and other assistance that may be provided pursuant to Section 36 of Republic Act No. 9710 and PCW-DILG-DBM-NEDA JMC No. 2013-01.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended that Management:\nRequire the Municipal Assessor to fast-track the registration of all real estate owned by municipality under the Torrens Title System pursuant to COA Circular No. 92-386; and\nCause the cancellation of the three (3) Tax Declaration still in the name of the former owners and transfer it in the name of the LGU.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended that the Management:\na.\tRequire the Municipal Assessor to comply with his duties and functions as stipulated in Section 472 of the Local Government Code and Manual on Real Property Appraisal and Assessment Operations; and\nb.\tSubmit updated Quarterly Report on Assessment to the Provincial Assessor’s Office to provide them an accurate information relevant to their plan for a possible general revision in 2020.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2018-PY1",
+      "year": 2018,
+      "recommendation": "Establish a Municipal Council for the Protection of Children;\n\nAllocate at least 1% of their IRA for Programs, Projects and Activities for children’s welfare; and \n\nStrictly comply with the rules and regulations about the formulation and utilization of the 1% LCPC fund.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2018-PY2",
+      "year": 2018,
+      "recommendation": "Require the Municipal Assessor to register all real estate owned by municipality under the Torrens Title System pursuant to COA Circular No. 92-386;\n\nCause the cancellation of the three (3) Tax Declaration still in the name of the former owners and its transfer in the name of the LGU;\n\nRequire the Sangguniang Bayan to appropriate funds needed to secure Torrens Title for the LGU’s real estate;  and\n\nUpon the completion of the Torrens Title, the Municipal Accountant should prepare the necessary entries to book-up the fair/market value in the books of the municipality in order to fairly present the Property, Plant and Equipment (PPE) - Land and Government Equity accounts in the financial statements.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2018-PY3",
+      "year": 2018,
+      "recommendation": "Direct the General Services Office (GSO) and Accounting Department to coordinate and conduct a thorough analysis to identify and reconcile the discrepancies in their respective records of PPE;\n\nRequire the GSO to regularly update the property cards and for the Accounting Department to regularly update the PPE Ledger Cards in order to facilitate inventory taking, check and balance, and timely adjustments in the PPE accounts, whenever required;\n\nPerform periodic reconciliation of property records to ensure that all discrepancies are   immediately investigated, cleared and reconciled with the books of accounts;\n\nEffect the proper classification of PPE accounts in the RPCPPE. Accounts used by the GSO and the Accounting Department should be consistent and in accordance with the applicable accounting standards;\n\nRequire the GSO to record the actual carrying cost or value of the property which has no corresponding cost in the RPCPPE. In case of donated property, the amount reflected in the delivery documents shall be the carrying cost of the property. In the absence of such documents, an Appraisal Committee shall be created to obtain an accurate valuation of carrying cost or value of all the donated property and all other property that has no assigned value. After which, the Appraisal Committee shall render a report or narrative report related thereto, and the same shall be furnished to the Accountant to effect proper adjustments; and\n\nSubmit the corrected RPCPPE duly reconciled with the accounting records.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2018-PY4",
+      "year": 2018,
+      "recommendation": "Require the Municipal Accountant to submit immediately the accounts and reports listed in Annexes I-I5 which are already overdue; and \n\nHenceforth, strictly comply with sections 6.03, 6.04 and 6.05 of COA Circular No. 95-006 dated May 18, 1995 on the timely submission of financial reports and records of receipts and disbursements to facilitate timely auditorial review.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2018-PY5",
+      "year": 2018,
+      "recommendation": "Present the details of specific projects and activities to be undertaken in the Annual Budget; \n\nExplore and implement other viable initiatives to increase collection from SWM services to generate sufficient amount needed for SWM programs; and \n\nProcure and utilize the fund allocated for SWM in accordance with Section 6 of Rule XV, Part IV and Section 3.3 of DILG-DBM JMC No. 2017-1 dated February 22, 2017.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommended that Management:\nEstablish a Municipal Council for the Protection of Children;\nAllocate at least 1% of their IRA for Programs, Projects and Activities for children’s welfare; and\nStrictly comply with the rules and regulations about the formulation and utilization of the 1% LCPC fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommended that the Management:\na. \tRequire the Municipal Assessor to register all real estate owned by municipality under the Torrens Title System pursuant to COA Circular No. 92-386;\nb. \tCause the cancellation of the three (3) Tax Declaration still in the name of the former owners and its transfer in the name of the LGU;\nc.\t Require the Sangguniang Bayan to appropriate funds needed to secure Torrens Title for the LGU’s real estate;  and\nd.\tUpon the completion of the Torrens Title, the Municipal Accountant should prepare the necessary entries to book-up the fair/market value in the books of the municipality in order to fairly present the Property, Plant and Equipment (PPE) - Land and Government Equity accounts in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recommended that Management:\na. Direct the General Services Office (GSO) and Accounting Department to coordinate and conduct a thorough analysis to identify and reconcile the discrepancies in their respective records of PPE;\nb. \tRequire the GSO to regularly update the property cards and for the Accounting Department to regularly update the PPE Ledger Cards in order to facilitate inventory taking, check and balance, and timely adjustments in the PPE accounts, whenever required;\nc. Perform periodic reconciliation of property records to ensure that all discrepancies are   immediately investigated, cleared and reconciled with the books of accounts;\nd. \tEffect the proper classification of PPE accounts in the RPCPPE. Accounts used by the GSO and the Accounting Department should be consistent and in accordance with the applicable accounting standards;\ne. \tRequire the GSO to record the actual carrying cost or value of the property which has no corresponding cost in the RPCPPE. In case of donated property, the amount reflected in the delivery documents shall be the carrying cost of the property. In the absence of such documents, an Appraisal Committee shall be created to obtain an accurate valuation of carrying cost or value of all the donated property and all other property that has no assigned value. After which, the Appraisal Committee shall render a report or narrative report related thereto, and the same shall be furnished to the Accountant to effect proper adjustments; and\nf. Submit the corrected RPCPPE duly reconciled with the accounting records.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We recommended that the Management:\na.\tRequire the Municipal Accountant to submit immediately the accounts and reports listed in Annexes I-I5 which are already overdue; and\nb.\tHenceforth, strictly comply with sections 6.03, 6.04 and 6.05 of COA Circular No. 95-006 dated May 18, 1995 on the timely submission of financial reports and records of receipts and disbursements to facilitate timely auditorial review.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommended that Management:\nPresent the details of specific projects and activities to be undertaken in the Annual Budget;\nExplore and implement other viable initiatives to increase collection from SWM services to generate sufficient amount needed for SWM programs; and\nProcure and utilize the fund allocated for SWM in accordance with Section 6 of Rule XV, Part IV and Section 3.3 of DILG-DBM JMC No. 2017-1 dated February 22, 2017.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2017-PY1",
+      "year": 2017,
+      "recommendation": "Strictly adhere with the provisions of RA No. 9184 and its revised IRR;\n\nStrengthen internal control over procurement activities especially in the role of the BAC;\n\nMake payments thru checks and only payments in small amounts may be made by cash through the petty cash fund. See to it all receipts were deducted with corresponding withholding tax; and \n\nRequire the Municipal Accountant to withhold taxes due the government in accordance with the BIR regulations for those official receipts not deducted with corresponding withholding tax.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2017-PY2",
+      "year": 2017,
+      "recommendation": "Prepare and submit the LDRRMFIP in accordance with the suggested sample format under Section 5.1.2 of the Circular; and\n\nDirect the MDRRMO to ensure the submission of the Report on Sources and Utilization of DRRMF to the Office of the Auditor duly certified by the Provincial Accountant on or before the 15th day after the end of each month pursuant to Section 5.1.5 of COA Circular No. 2012-002 dated September 12, 2012.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2017-PY3",
+      "year": 2017,
+      "recommendation": "Direct the AO and the Accountant to prepare and submit required reports namely; RCI, the ROD, with all the originals of vouchers/payrolls and all supporting documents showing utilization of funds within fifteen (15) days after the end of each month;\n\nInclude all the projects, programs and activities under the Fund Transfers in the Quarterly Accomplishment Report submitted by the Municipality to be subject for inspection and validation, or upon completion submit written request for inspection to the Office of the Auditor; and\n\nCause immediate refund of the unutilized balance of the Fund Transfers to the SA concerned.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2017-PY4",
+      "year": 2017,
+      "recommendation": "Strictly implement and monitor the imposition of fines and penalties enumerated in the municipal ordinance as mandated under RA 9003;\n\nEnsure proper issuance of Citation Tickets to  violators to yield  increase in revenue and effectively maintain cleanliness in the Municipality; and\n\nPost tarpaulins/billboards in conspicuous places within the Municipality indicating the ordinance and the penal sanctions in case of violation so that the public may be informed.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2017-PY5",
+      "year": 2017,
+      "recommendation": "Present the details of the specific projects and activities to be undertaken in the Annual Budget; and\n\nProcure and utilize the fund allocated for SWM sourced from the 20% DF in accordance with Section 6 of Rule XV, Part IV and DILG-DBM JMC No, 2011-1 dated April 13, 2011.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2017-PY6",
+      "year": 2017,
+      "recommendation": "To effect the timely implementation of the projects embodied in the AIP\n\nOn cases there is an unutilized/remaining amount left for every program/projects, realignment will be made to a program/project that need immediate attention/action",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We recommended that Management:\na. Strictly adhere with the provisions of RA No. 9184 and its revised IRR;\nb. Strengthen internal control over procurement activities especially in the role of\nthe BAC;\nc. Make payments thru checks and only payments in small amounts may be\nmade by cash through the petty cash fund. See to it all receipts were deducted\nwith corresponding withholding tax; and\nd. Require the Municipal Accountant to withhold taxes due the government in\naccordance with the BIR regulations for those official receipts not deducted with\ncorresponding withholding tax.\n\nAudit Observation Memorandum (AOM) No. 2017-002 dated January 27, 2017 was\nissued for this observation.\n\nThe Management suggested that Petty Cash Fund be increased so as they can procure\nat any point in time to cater parts and materials needed for the repair of the heavy\nequipment.\n\nThe Audit Team emphasized the need to abide with the RA if the procurement will\ninvolve big amount.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We recommended that Management:\na. Prepare and submit the LDRRMFIP in accordance with the suggested sample\nformat under Section 5.1.2 of the Circular; and\nb. Direct the MDRRMO to ensure the submission of the Report on Sources and\nUtilization of DRRMF to the Office of the Auditor duly certified by the Provincial\nAccountant on or before the 15th day after the end of each month pursuant to\nSection 5.1.5 of COA Circular No. 2012-002 dated September 12, 2012.\n\nAOM No. 2017-003 dated January 30, 2017 was issued for this observation.\n\nThe Management gave assurance that effective 2017 they will submit the report\nmonthly.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommended that Management:\na. Direct the AO and the Accountant to prepare and submit required reports\nnamely; RCI, the ROD, with all the originals of vouchers/payrolls and all\nsupporting documents showing utilization of funds within fifteen (15) days after\nthe end of each month;\nb. Include all the projects, programs and activities under the Fund Transfers in the\nQuarterly Accomplishment Report submitted by the Municipality to be subject\nfor inspection and validation, or upon completion submit written request for\ninspection to the Office of the Auditor; and\nc. Cause immediate refund of the unutilized balance of the Fund Transfers to the\nSA concerned.\n\nAOM No. 2017-006 dated February 28, 2017 was issued for this observation.\n\nThe Management gave assurance to implement the recommendation in 2017.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We recommended that Management:\na. Strictly implement and monitor the imposition of fines and penalties\nenumerated in the municipal ordinance as mandated under RA 9003;\nb. Ensure proper issuance of Citation Tickets to violators to yield increase in\nrevenue and effectively maintain cleanliness in the Municipality; and\nc. Post tarpaulins/billboards in conspicuous places within the Municipality\nindicating the ordinance and the penal sanctions in case of violation so that the\npublic may be informed.\n\nAOM No. 2017-001 dated January 25, 2017 was issued for this observation.\n\nThe Management admitted that the same was not given priority. However, they gave\nassurance to implement the recommendation in 2017.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommended that Management:\na. Present the details of specific projects and activities to be undertaken in the\nAnnual Budget; and\nb. Procure and utilize the fund allocated for SWM sourced from the 20% DF in\naccordance with with Section 6 of Rule XV, Part IV and DILG-DBM JMC No,\n2011-1 dated April 13, 2011\n\nAOM No. 2017-001 dated January 25, 2017 was issued for this observation.\n\nThe Management admitted that the same was not given priority. However, they gave\nassurance to implement the recommendation in 2017",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommended that Management:\na. Effect full and timely implementation of the projects embodied in the AIP; and\nb. Make immediate realignment, if planned programs and projects are no longer\nfeasible or could not be implemented, so that the amount will be utilized for\nother relevant projects.\n\nAOM No. 2017-004 dated January 31, 2017 was issued for this observation.\n\nThe Management assured the Audit Team that they effect full and timely implementation\nof the projects as embodied in the AIP.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We recommended that Management:\na. Ensure that the utilization of the GAD Fund is in accordance with the approved\nAnnual GAD Plan and Budget aligned with DBM, NEDA, and NCRWW Joint\nCircular No. 2004-1 dated April 5, 2004; and\nb. Prepare accordingly a revised annual GAD Plan and Budget to reformulate\nexisting or incorporate additional programs, projects and activities intended to\neffectively address relevant gender issues within the Municipality.\n\nAOM No. 2017-005 dated February 15, 2017 was issued for this observation.\n\nThe management assured the Audit Team that they will utilize the GAD fund in\naccordance with approved Annual GAD Plan and Budget.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2016-PY1",
+      "year": 2016,
+      "recommendation": "a. Initiate the payment of employees’ salaries, allowances, fringe benefits and other emoluments through the bank as a means of improving fiscal management in accordance with Section 4(8) and 2 of PD 1445, with the expected result of minimizing the attendant risks identified with cash-paid payrolls and easing the effects of manpower attrition;\nb. Make representation/ arrangement with any government bank like the LBP or the PVB for an opening of individual ATM savings accounts by the employees through a Memorandum of Agreement (MOA); and\nc. Adopt the payroll-thru-bank scheme upon approval of the MOA to strengthen fiscal management.",
+      "managementAction": "Partially\nImplemented. Waiting\nfor the approval of\nMOA by LBP Central\nOffice.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Waiting for the approval of MOA by LBP Central Office."
+    },
+    {
+      "id": "Cuartero_Capiz-2016-PY2",
+      "year": 2016,
+      "recommendation": "a. Direct the personnel in charge of preparing the monthly payrolls to effect adjustments on deductions so that the monthly net take home pay of all employees are not lower than P3,000.00 pursuant to the provisions of Section 48 of the General Provisions of the GAA of FY 2015; and\nb. Inform the personnel concerned to make proper arrangement with the lending institutions for the adjustment of employees’ loan repayments.",
+      "managementAction": "Fully\nImplemented\nImplemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Cuartero_Capiz-2016-PY3",
+      "year": 2016,
+      "recommendation": "a. Amend the contract through the Sangguniang Bayan to include in the terms and conditions the requirement for guaranty deposits to ensure that the Municipality is secured from any unwarranted unpaid rentals;\nb. Direct the Assistant Municipal Treasurer to secure and keep all contracts pertaining to existing market stall lease;\nc. Direct the AMT to require the lessee to pay the corresponding unpaid monthly rentals, penalty/ies and interests before any renewal of the contract in their favor;\nd. Direct the Municipal Accountant to maintain complete subsidiary ledgers of all lessees/occupants to monitor any uncollected market rentals; and\ne. Direct the AMT to monitor strictly the implementation of the terms and conditions of the contract especially in the prompt payment of rent and the imposition and collection of penalties and interest upon failure to pay on time.",
+      "managementAction": "Fully\nImplemented\nImplemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    }
+  ]
+}

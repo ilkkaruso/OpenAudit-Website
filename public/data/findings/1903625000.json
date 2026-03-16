@@ -1,0 +1,718 @@
+{
+  "lguCode": "1903625000",
+  "lguName": "Saguiaran",
+  "province": "Lanao del Sur",
+  "region": "BARMM",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "Saguiaran_LdS_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor: 1.Require and supervise the Inventory Committee of the municipality to conduct the physical count of PPE and submit the RPCPPE to the Office of the Auditor; and 2.Require the General Services Office to maintain Property Cards and to reconcile their records on a regular monthly basis with the Accounting Office.",
+      "managementAction": "Property Cards for PPE were not maintained by the General Services Office and no reconciliation were made with the Accounting Office which is contrary to Sections 114 & 119 of the Manual on NGAS for LGUs, Volume I.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LdS_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Accountant attach JEV for every disbursement vouchers and payrolls paid and indicate the proper accounting entries and JEV number.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LdS_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Treasurer observe and practice the stamping of “PAID” on every Disbursement Voucher and all its supporting documents after payments were made and indicate therein the number of check issued and the date of the actual payment.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LdS_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "1.5 We reiterate and recommended that Municipal Mayor require and\nsupervise the Inventory Committee of the municipality to conduct the\nphysical count of PPE and submit the RPCPPE to the Office of the\nAuditor.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LdS_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "2.7 We recommended that Municipal Mayor enjoin the BAC Chairman\nand/or BAC Secretariat to assist in the preparation and consolidation\nof PPMPs to be integrated in the APP and furnish a copy to the Office\nof the Auditor.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LdS_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "3.5 We recommended that Honorable Mayor enjoin the:\na) Municipal Accountant to ensure that complete supporting\ndocuments as required under RA 9184 and re-iterated under COA\nCircular No. 2012-001 on all kinds of procurement regardless of\namount be submitted to the Office of the Auditor; and\nb) Bids and Awards Committee (BAC) to observed faithfully the\nguidelines on the procurements of goods and materials.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LdS_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "4.4 We recommended that:\na) Municipal Mayor enjoin the Sangguniang Bayan to authorize the\nmanagement to obligate and disburse the funds appropriated for\nthe financial assistance granted to the indigenous constituents of\nthe municipality as required under Section 396 of GAAM Volume\n1; and\nb) The Municipal Accountant ensure that the documentary evidence\nfor the payments of cash assistance were complete before\npayments were made thereof.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LdS_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "5.4 We recommended that Municipal Accountant ensure attachment of\nAccomplishment Reports of each casual, contractual and/or job order\npersonnel to establish the validity and legality of the payments of their\nsalaries and wages for the certain period of time.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LdS_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "6.5 We recommended that the Municipal Mayor:\na) Install strong Internal Control System on the financial\ntransaction and operation of the municipality to update LGU\nrequired reports and records; to safeguard government funds\nand property from loss and wastage and to adhere prescribed\nlaws, rules and regulations; and\nb) Create and organized an Internal Control Service Unit to\nsupervise the proper implementation of its plans, programs and\nactivities and the performance of its duties and functions in the\ndelivery of its basic services.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LdS_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "7.4 We recommended that Management submit the documents required\nunder COA Circular No. 2012-001 dated June 14, 2012 and other\nexisting laws, rules and regulations to settle our audit suspensions\npursuant to Section 7.1.1 of COA Circular No. 2009-006 dated\nSeptember 15, 2009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LdS_aar2021-OBS8",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LdS_aar2021-OBS9",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LdS_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended that the Management strictly: 3.Require the completion and submission of the necessary supporting documents in all government transactions as prescribed in COA Circular 2012-001; 4.Cause the immediate submission of the lacking documents, for each payment, to the audit team for verification and evaluation; and 5.Finally, submit a copy of the Certificate of Exclusive Distributorship (if any) as prescribed also by the same circular, relative to the purchase of the electric transformer for further evaluation by the audit team.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LdS_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended that Management submit the following required documents to the Office of the Auditor for verification and audit, viz: 6.Supplemental Budget and the Supplemental Annual Investment Plan supported with Sangguniang Bayan Resolution/Ordinance; and 7.Lastly, submit the list/names of beneficiaries of relief goods, if any, to support proof of distribution of welfare goods expenses.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LdS_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended that Management: 8.Refrain from granting cash advances without first liquidating the previous cash advance; and 9.Ensure that the documentary requirements prescribed under Circular 2012-001 be properly complied with.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LdS_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended that Management: 10.Consider and limit the hiring of job orders to extremely necessary work assignment to prevent the incurrence of unnecessary expenses by the municipal government. 11.Regularly attach copies of the approved contracts of service to the Daily Wage Payroll; and 12.Finally, cause the immediate submission of copies of contracts of service of all contractual/casual and job order personnel.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LdS_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "Hence, we recommended that the Municipal Treasurer and the Municipal Accountant submit the monthly Reports of Collections and Deposits for the calendar year 2020 together with the copies of the official receipt and validated deposit slips to support the total collections of revenues presented in the financial statements for the end of the year.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LdS_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended that Management require the Municipal Engineer to post a tarpaulin signboard which must be suitably framed outdoor display at the project location or its activities with all the information as provided in Annex A (attached for ready reference) pursuant to paragraph 2.2.3 of COA Circular No. 2013-004 dated January 30, 2013.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LdS_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We recommended that: 17.The Municipal Accountant attached the computation of the Terminal Leave of the retiree for validation; 18.The Management strictly adhere to the above cited COA Circular and other accounting rules and regulations; and 19.Direct the claimants to submit the above requirements to the COA Audit Team for audit, verification, analysis and other audit actions.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LdS_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "We recommended that the Honorable Mayor direct the Municipal Treasurer and/or the Municipal Accountant to prepare and submit the monthly statement of accounts payable of the agency to establish the accurate balance and information of the liability accounts at the end of the year.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LdS_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "We recommended that Honorable Mayor: 21.Direct the Municipal Treasurer to transfer the unexpended LDRRM Fund which represents the Quick Response Fund (QRF) from General Fund to Special Trust Fund. 22.For General Fund books, debit the account Transfer of Unspent Current Year DRRM Funds to the Trust Funds (Account Code 5-02-15-010) and credit the account Cash in Bank – Local Currency Current Account (Account Code 1-01-02-010). 23.While for Trust Fund books, debit the account Cash in Bank – Local Currency Current Account (Account Code 1-01-02-010) and credit the account Trust Liabilities – DRRM Fund (Account Code 2-04-01-020).",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LdS_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "We recommended that Management: 24.Create an appraisal/inventory committee to conduct actual physical inventory taking of all properties, plant and equipment and prepare annual Reports on Physical Count of Property, Plant and Equipment (RPCPPE); 25.Direct the Accountant to make necessary adjustments on the records deficiencies noted in the course of inventory taking and in the reconciliation of the inventory report with the subsidiary ledgers; 26.After physical count and report of PPE’s are completed, prepare and maintain a subsidiary ledger card on each equipment, which should bear a Property Number; 27.The municipal accountant shall provide residual value in computing the depreciation and that fully depreciated property account shall be transferred to Other Assets account; 28.We also recommended to the Municipal Accountant or the concerned municipal officials to update the list of properties that needs to be insured and submit the same to GSIS. This guarantee that all properties were adequately covered by insurance in order to protect the interest of the government. For lost / damaged properties without covering insurance, liability therefore should devolve upon the parties responsible.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Saguiaran_LDS-2020-PY1",
+      "year": 2020,
+      "recommendation": "1. We recommended that the Honorable Mayor direct the Municipal Treasurer and/or the Municipal Accountant to prepare and submit the monthly statement of accounts payable of the agency to establish the accurate balance and information of the liability accounts at the end of the year.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Saguiaran_LDS-2020-PY4",
+      "year": 2020,
+      "recommendation": "4. Direct the Municipal Treasurer to transfer the unexpended LDRRM Fund which represents the Quick Response Fund (QRF) from General Fund to Special Trust Fund.\n5. Require the Municipal Accountant to record the transfer of unexpended LDRRM Fund by drawing a Journal Entry Voucher taking the appropriate accounting entries under General Fund and Trust Fund.\ni. For General Fund books, debit the account Transfer of Unspent Current Year DRRM Funds to the Trust Funds (Account Code 5-02-15-010) and credit the account Cash in Bank – Local Currency Current Account (Account Code 1-01-02-010).\n6. ii. While for Trust Fund books, debit the account Cash in Bank – Local Currency Current Account (Account Code 1-01-02-010) and credit the account Trust Liabilities – Disaster Risk Reduction and Management Fund (Account Code 2-04-01-020).",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Saguiaran_LDS-2020-PY8",
+      "year": 2020,
+      "recommendation": "11. Create an appraisal/inventory committee to conduct actual physical inventory taking of all properties, plant and equipment and prepare annual Reports on Physical Count of Property, Plant and Equipment (RPCPPE);\n12. Direct the Accountant to make necessary adjustments on the records deficiencies noted in the course of inventory taking and in the reconciliation of the inventory report with the subsidiary ledgers;\n13. After physical count and report of PPE’s are completed, prepare and maintain a subsidiary ledger card on each equipment, which should bear a Property Number;\n14. The municipal accountant shall provide residual value in computing the depreciation and that fully depreciated property account shall be transferred to Other Assets account;\n15. We also recommended to the Municipal Accountant or the concerned municipal officials to update the list of properties that needs to be insured and submit the same to GSIS. This guarantee that all properties were adequately covered by insurance in order to protect the interest of the government. For lost / damaged properties without covering insurance, liability therefore should devolve upon the parties responsible.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Saguiaran_LDS-2020-OBS1",
+      "year": 2020,
+      "recommendation": "1.7 We recommended that the Municipal Mayor:\na. Require and supervise the Inventory Committee of the municipality\nto conduct the physical count of PPE and submit the RPCPPE to the\nOffice of the Auditor; and\nb. Require the General Services Office to maintain Property Cards\nand to reconcile their records on a regular monthly basis with the\nAccounting Office.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Saguiaran_LDS-2020-OBS2",
+      "year": 2020,
+      "recommendation": "2.4 We recommended that the Management strictly:\na. Require the completion and submission of the necessary supporting\ndocuments in all government transactions as prescribed in COA\nCircular 2012-001;\nb. Cause the immediate submission of the lacking documents, for each\npayment, to the audit team for verification and evaluation; and\nc. Finally, submit a copy of the Certificate of Exclusive Distributorship\n(if any) as prescribed also by the same circular, relative to the\npurchase of the electric transformer for further evaluation by the\naudit team.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Saguiaran_LDS-2020-OBS3",
+      "year": 2020,
+      "recommendation": "3.5 We recommended that Management submit the following required\ndocuments to the Office of the Auditor for verification and audit, viz:\na. Supplemental Budget and the Supplemental Annual Investment\nPlan supported with Sangguniang Bayan Resolution/Ordinance;\nand\nb. Lastly, submit the list/names of beneficiaries of relief goods, if any,\nto support proof of distribution of welfare goods expenses.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Saguiaran_LDS-2020-OBS4",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Saguiaran_LDS-2020-OBS5",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Saguiaran_LDS-2020-OBS6",
+      "year": 2020,
+      "recommendation": "6.4 Hence, we recommended that the Municipal Treasurer and the\nMunicipal Accountant submit the monthly Reports of Collections and\nDeposits for the calendar year 2020 together with the copies of the\nofficial receipt and validated deposit slips to support the total collections\nof revenues presented in the financial statements for the end of the year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Saguiaran_LDS-2020-OBS7",
+      "year": 2020,
+      "recommendation": "7.5 We recommended that the Municipal Accountant attach JEV for every\ndisbursement vouchers and payrolls paid and indicate the proper\naccounting entries and JEV number.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Saguiaran_LDS-2020-OBS8",
+      "year": 2020,
+      "recommendation": "8.4 We recommended that Management require the Municipal Engineer to\npost a tarpaulin signboard which must be suitably framed outdoor\ndisplay at the project location or its activities with all the information as\nprovided in Annex A (attached for ready reference) pursuant to\nparagraph 2.2.3 of COA Circular No. 2013-004 dated January 30, 2013.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Saguiaran_LDS-2020-OBS9",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Saguiaran_LDS-2020-OBS10",
+      "year": 2020,
+      "recommendation": "10.3 We recommended that:\na. The Municipal Accountant attached the computation of the Terminal\nLeave of the retiree for validation;\nb. The Management strictly adhere to the above cited COA Circular and\nother accounting rules and regulations; and\nc. Direct the claimants to submit the above requirements to the COA\nAudit Team for audit, verification, analysis and other audit actions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Saguiaran_LDS-2020-OBS11",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Saguiaran_LDS-2020-PY2",
+      "year": 2020,
+      "recommendation": "2. We recommended that the Honorable Mayor direct the Bids and Awards Committee to submit the Purchase Orders and Contracts to the Office of the Auditor within five (5) days from their execution for review of the procurement process of the agency pursuant to COA Circular 2009-001.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Saguiaran_LDS-2020-PY3",
+      "year": 2020,
+      "recommendation": "3. We recommended that the Honorable Mayor direct the concerned agency officials to observe the fundamental principles provided under Section 4 of PD 1445 and other pertinent provisions provided under COA Circular No. 2012 dated July 4, 2012 on the disbursements pertaining to training and seminar expenses charged to Local Risk Reduction Management Funds (LDRRMF).",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Saguiaran_LDS-2020-PY5",
+      "year": 2020,
+      "recommendation": "7. We recommended that the Honorable Mayor direct the concerned agency officials to fully observe and adopt the policies and guidelines in the preparation of development plans and programs of the municipality as provided under Joint Memorandum Circular No. 2011-1 of DILG and DBM dated April 13, 2011 to attain the utmost benefits on the account of the 20% development funds.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Saguiaran_LDS-2020-PY6",
+      "year": 2020,
+      "recommendation": "8. We recommended that the Honorable Mayor direct the concerned municipal employee to prepare the Annual Procurement Plan for CY 2019 in line with Section 7 of the Implementing Rules and Regulations of Republic Act No. 9184 and submit it to the audit team for verification.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Saguiaran_LDS-2020-PY7",
+      "year": 2020,
+      "recommendation": "9. Direct GAD Focal point person to facilitate the formulation of GAD Plans and Budget (GPB) and ensure that activities identified as GAD issues and concerns are properly addressed pursuant to the provisions under PCW-DILG-DBM-NEDA Joint Memorandum Circular No. 2004-01 and COA Circular 2014-001 dated March 18, 2014;\n10. Require the Municipal Accountant to submit the Accomplishment Report on GAD Activities at least every quarter as required under the aforementioned regulations.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Saguiaran_LDS-2020-PY9",
+      "year": 2020,
+      "recommendation": "16. Advise the GAD Focal person to facilitate the formulation of GAD Plans and Budget (GPB);\n17. Ensure that activities identified as GAD issues and concerns are properly addressed pursuant to the provisions under PCW-DILG-DBM-NEDA Joint Memorandum Circular No. 2013-01 and COA Circular 2014-001 dated March 18, 2014; and\n18. Require Management to submit the Accomplishment Report on GAD Activities as required under the aforementioned regulations.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Saguiaran_LDS-2020-PY10",
+      "year": 2020,
+      "recommendation": "19. Strictly follow the rules and regulations set forth by COA Circular No. 2012-002 dated September 12, 2012 and COA Circular No. 2014-002 dated April 15, 2014;\n20. Submit to this office the following documents: a) Local Disaster Risk Reduction Management Fund Investment Plan (LDRRMFIP); and\n21. b) Report on Sources and Utilization of DRRMF;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\n6. create an appraisal/inventory committee to conduct actual physical inventory taking of all properties, plant and equipment and prepare annual Reports on Physical Count of Property, Plant and Equipment (RPCPPE).\n7. direct the Accountant to make necessary adjustments on the records on course of inventory taking and in the reconciliation of the inventory report with the subsidiary ledgers.\n8. After physical count and report of PPE’s are completed, prepare and maintain a subsidiary ledger card on each equipment, which should bear a Property Number.\n9. The municipal accountant shall provide residual value in computing the depreciation and that depreciated property account shall be transferred to Other Assets account.\n10. We also recommended to the Municipal Accountant or the concerned municipal officials to update the list of properties that needs to be insured and submit the same to GSIS. This will guarantee that all properties are adequately covered by insurance in order to protect the interest of the government. For lost / damaged properties without covering insurance, liability therefore should devolve upon the parties responsible.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2019-PY5",
+      "year": 2019,
+      "recommendation": "11. advise the GAD Focal person to facilitate the formulation of GAD Plans and Budget (GPB),\n12. ensure that activities identified as GAD issues and concerns are properly addressed pursuant to the provisions under PCW-DILG-DBM-NEDA Joint Memorandum Circular No. 2013-01 and COA Circular 2014-001 dated March 18, 2014, and\n13. require Management to submit the Accomplishment Report on GAD Activities as required under the aforementioned regulations.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2019-PY6",
+      "year": 2019,
+      "recommendation": "14. strictly follow the rules and regulations set forth by COA Circular No. 2012-002 dated September 12, 2012 and COA Circular No. 2014-002 dated April 15, 2014, and\n15. submit to this office the following documents:\na) Local Disaster Risk Reduction Management Fund Investment Plan (LDRRMFIP)\nb) Report on Sources and Utilization of DRRMF.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended that the Honorable Mayor direct the Municipal\nTreasurer and/or the Municipal Accountant to prepare and submit the monthly statement of accounts payable of the agency to establish the\naccurate balance and information of the liability accounts at the end of\nthe year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended that the Honorable Mayor direct the Bids and Awards\nCommittee to submit the Purchase Orders and Contracts to the Office\nof the Auditor within five (5) days from their execution for review of the\nprocurement process of the agency pursuant to COA Circular 2009-001.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended that the Honorable Mayor direct the concerned\nagency officials to observe the fundamental principles provided under\nSection 4 of PD 1445 and other pertinent provisions provided under\nCOA Circular No. 2012 dated July 4, 2012 on the disbursements\npertaining to training and seminar expenses charged to Local Risk\nReduction Management Funds (LDRRMF).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended that Honorable Mayor:\n\na) Direct the Municipal Treasurer to transfer the unexpended\nLDRRM Fund which represents the Quick Response Fund (QRF)\nfrom General Fund to Special Trust Fund.\n\nb) Require the Municipal Accountant to record the transfer of\nunexpended LDRRM Fund by drawing a Journal Entry Voucher\ntaking the appropriate accounting entries under General Fund\nand Trust Fund.\n\ni. For General Fund books, debit the account Transfer of\nUnspent Current Year DRRM Funds to the Trust Funds\n(Account Code 5-02-15-010) and credit the account Cash in\nBank – Local Currency Current Account (Account Code 1-01-\n02-010).\n\nii. While for Trust Fund books, debit the account Cash in Bank –\nLocal Currency Current Account (Account Code 1-01-02-010)\nand credit the account Trust Liabilities – Disaster Risk\nReduction and Management Fund (Account Code 2-04-01-\n020).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended that the Honorable Mayor direct the concerned\nagency officials to fully observe and adopt the policies and guidelines in\nthe preparation of development plans and programs of the\nmunicipality as provided under Joint Memorandum Circular No. 2011-1\nof DILG and DBM dated April 13, 2011 to attain the utmost benefits on\nthe account of the 20% development funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended that the Honorable Mayor direct the concerned\nmunicipal employee to prepare the Annual Procurement Plan for CY\n2019 in line with Section 7 of the Implementing Rules and Regulations\nof Republic Act No. 9184 and submit it to the audit team for verification.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor:\na) Direct GAD Focal point to facilitate the formulation of GAD Plans\nand Budget (GPB) and ensure that activities identified as GAD\nissues and concerns are properly addressed pursuant to the\nprovisions under PCW-DILG-DBM-NEDA Joint Memorandum\nCircular No. 2004-01 and COA Circular 2014-001 dated March 18,\n2014 and\nb) Require the Municipal Accountant to submit the Accomplishment\nReport on GAD Activities at least every quarter as required under\nthe aforementioned regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2019-OBS8",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2019-OBS9",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2019-OBS10",
+      "year": 2019,
+      "recommendation": "We recommended that the Honorable Mayor require the municipal\nemployees responsible for the suspended transactions to submit the\nrequired documents and supporting papers provided under COA\nCircular No. 2012-001 dated June 14, 2012 to establish the legality,\npropriety, validity and regularity of the claims within 90 days from\nreceipt of the issued Notice of Suspensions. Otherwise, it will become\ndisallowances and settlement thereof should be immediately enforced\nby withholding the salaries or other claims due the persons liable in\nsatisfaction of the amounts disallowed in audit which is final and\nexecutory.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended that Management submit immediately the Liquidation Reports of the fund transfer supported with the Reports of Checks Issued and Reports of disbursements duly certified by the Municipal Accountant and approved by the agency head pursuant to Section 3.1.3 of COA Circular No. 2012-001 dated June 14, 2012 otherwise known as the Revised Documentary Requirements For Common Government Transactions to give ample time for the audit team to conduct audit and verification of the transactions and prepare audit action thereon.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2019-PY2",
+      "year": 2019,
+      "recommendation": "1. We recommended that Management direct the Municipal Treasurer to record promptly all collections in the cashbook- Cash in Treasury;\n3. Require the Municipal Accountant also record the collection to its revenue accounts pursuant to Section 13 of NGAS Manual for LGU, Volume I.\n4. We also recommended that Management improve the system of recording of income and revenues to the agency’s books of accounts and its prompt deposits to the agency authorized depository bank and issuance of official receipts must be in numerical sequence or in chronological order in compliance with accounting system for collections.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\na. Consider and limit the hiring of job orders to extremely necessary work assignment to prevent the incurrence of unnecessary expenses by the municipal government, and\nb. Attached to the Daily Wage Payroll copy of the Contract of Service stipulated therein the specific purpose, work assignment and the specific duties and responsibilities of the job order employees.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommended the reporting and monitoring of the information and publicity on Programs/Projects/Activities (PPAs) as provided in COA Circular No. 2013-004 dated January 31, 2013 as amended with COA circular 2016-003 dated August 16, 2016.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2018-PY4",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Executive conduct the physical count of PPE of the municipal inventory/physical count and submit the RPCPPE to the Auditor on or before January 31 of each year.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No physical count implemented on 2017"
+    },
+    {
+      "id": "Saguiaran_LDS-2018-OBS1",
+      "year": 2018,
+      "recommendation": "1.6. We recommended that Management submit immediately the Liquidation\nReports of the fund transfer supported with the Reports of Checks Issued\nand Reports of disbursements duly certified by the Municipal Accountant\nand approved by the agency head pursuant to Section 3.1.3 of COA\nCircular No. 2012-001 dated June 14, 2012 otherwise known as the\nRevised Documentary Requirements For Common Government\nTransactions to give ample time for the audit team to conduct audit and\nverification of the transactions and prepare audit action thereon.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2018-OBS2",
+      "year": 2018,
+      "recommendation": "2.5. We recommended that Management direct the Municipal Treasurer to\nrecord promptly all collections in the cashbook-Cash in Treasury and the\nMunicipal Accountant also record the RPT collection to its Subsidiary\nLedger pursuant to Section 13 of NGAS Manual for LGU, Volume I and\ncan be properly accounted for, official receipt issued were recorded and\nidentified and reconciled with the accounting reports and records.\n\n2.6. We also recommend that Management improve the system of recording\nof income and revenues to the agency’s books of accounts and its prompt\ndeposits to the agency authorized depository bank and issuance of official\nreceipts must be in numerical sequence or in chronological order in\ncompliance with accounting system for collections.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2018-OBS3",
+      "year": 2018,
+      "recommendation": "3.4. We recommended that Management submit the Contract of Service\nand Job Descriptions/Specifications of contractual or casual employees\nand observe the following measures:\na. Consider and limit the hiring of job orders to extremely necessary work\nassignment to prevent the incurrence of unnecessary expenses by the\nmunicipal government;\nb. Attached to the Daily Wage Payroll copy of the Contract of Service\nstipulated therein the specific purpose, work assignment and the specific\nduties and responsibilities of the job order employees.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2018-OBS4",
+      "year": 2018,
+      "recommendation": "4.11. We recommended that Management create an appraisal / inventory\ncommittee to conduct actual physical inventory taking of all properties,\nplant and equipment. Also instruct the Municipal Accountant to make\nnecessary adjustments on the records deficiencies noted in the course of\ninventory taking and in the reconciliation of the inventory report with the\nsubsidiary ledgers. After physical count and report of PPE’s are\ncompleted, prepare and maintain a subsidiary ledger card on each\nequipment and should bear a Property Number. The municipal\naccountant is also advised to provide residual value in computing the\ndepreciation and that fully depreciated property account should be\ntransferred to Other Asset account.\n\n4.12. We also recommended to the Municipal Accountant or the concerned\nmunicipal officials to update the list of properties that needs to be insured\nand submit the same to GSIS. This will guarantee that all properties are\nadequately covered by insurance in order to protect the interest of the\ngovernment. For lost / damaged properties without covering insurance,\nliability therefore should devolve upon the parties responsible.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2018-OBS5",
+      "year": 2018,
+      "recommendation": "5.4. We recommended that Management strictly follow the rules and\nregulations set forth by COA Circular No. 2012-002 dated September 12,\n2012 and COA Circular No. 2014-002 dated April 15, 2014 and submit to\nthis office the following documents:\na. Local Disaster Risk Reduction Management Fund Investment Plan\n(LDRRMFIP)\nb. Report on Sources and Utilization of DRRMF",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2018-OBS6",
+      "year": 2018,
+      "recommendation": "6.7. We recommended that Management advise GAD Focal person to\nfacilitate the formulation of GAD Plans and Budget (GPB) and ensure\nthat activities identified as GAD are in conformity with the provisions\nunder PCW-DILG-DBM-NEDA Joint Memorandum Circular No. 2013-\n01 and COA Circular 2014-001 dated March 18, 2014 and also submit the\nAccomplishment Report on GAD Activities as required under the\naforementioned regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2018-OBS7",
+      "year": 2018,
+      "recommendation": "7.4. We recommended that Management direct the officials responsible to\ncomply within 90 days with the requirements of the transactions\nsuspended in audit and submit the lacking supporting papers.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommended that Management require the Municipal Treasurer to prepare Reports of Checks Issued (RCI) daily and submit to the Municipal Accountant for the latter to update her records and arrived with the actual cash balance at the end of the period. Municipal Treasurer was also required to reconcile his cash accounts balances with the Municipal Accountant’s records at least every quarter and verify if there are discrepancies in their records and effect immediately any adjustments and corrections.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommended that management direct the Municipal Treasurer to accomplish the RCD’s Section A, B, C and D (as applicable) and submit together with its supporting documents to the Municipal Accountant for recording. Through the Municipal Accountant, submit the said report and its supporting documents to the Audit Team for verification.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommended that Management require the Municipal Disaster Risk Reduction and Management Officer (MDRRMO) to coordinate with the Office of the Municipal Accountant and furnish her a report on the actual programs, projects, activities and expenditures pertaining to the Disaster Risk Reduction and Management Fund so that the later can submit on time the monthly Reports on the Source and Utilization of LDRRMF pursuant to Section 5.1.5 of COA Circular 2012-002 dated September 12, 2012.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2018-PY6",
+      "year": 2018,
+      "recommendation": "We recommended that Local Executive prepare GAD Plan and Programs with the corresponding Budget in conformity with Joint Circular No. 2004-1 of DBM-NEDA-NCRFW. The GAD Focal Point will advocate for, coordinates, guides and monitors the development and implementation of the agency’s GAD plan and GAD-related programs, activities and projects to ensure that GAD Plans, Programs and Activities are properly implemented in accordance with the approved GAD Plan and Budget (GPB).",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommend that Management direct the responsible/liable persons to submit the necessary and required documents for the settlement of the suspended transactions within 90 days upon receipt of the Notice of Suspensions. Otherwise, if no appeal within 60 days period, it will become disallowance and Notice of Finality of Decision shall be issued followed by the approval of the Certificate of Execution (COE) by the Regional Director.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommended require the Municipal Treasurer to furnish to the Municipal Accountant a certified list of RPT taxpayers and the estimated amount RPT due and collectible during the year.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2018-PY9",
+      "year": 2018,
+      "recommendation": "Require the M.P.D.C. and the Municipal Engineer to prepare and formulate development plans and projects aligned to include in the deliberation of the Sanggunian Bayan during the preparation of the budget and to appropriate funds out of the 20% economic development funds of the Internal Revenue Allotment of the municipal government.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2017-PY1",
+      "year": 2017,
+      "recommendation": "Require the Municipal Accountant to establish Real Property Tax Receivable and Special Education Tax Receivable at the beginning of the year to recognized uncollected Real Property Tax and Special Education Tax at the end of the year in order to establish the reliable balances of assets and Equity accounts at the end of the year. Also require the Municipal Treasurer to furnish to the Municipal Accountant a certified list of RPT taxpayers and the estimated amount due and collectible and during the year .",
+      "managementAction": "AAR 2016",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "For preparation"
+    },
+    {
+      "id": "Saguiaran_LDS-2017-PY2",
+      "year": 2017,
+      "recommendation": "Require the M.P.D.C. and the Municipal Engineer to prepare and formulate development plans and projects aligned with the Joint Memorandum Circular No. 2011-1 dated April 13, 2011 of DILG and DBM to include in the deliberation of the Sanggunian Bayan during the preparation of the budget and to appropriate funds out of the 20% economic development funds of the Internal Revenue Allotment of the municipal government.",
+      "managementAction": "AAR 2016",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "For preparation"
+    },
+    {
+      "id": "Saguiaran_LDS-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommend that Management require the Municipal Treasurer to\nprepare Reports of Checks Issued (RCI) daily and submit to the Municipal\nAccountant for the latter to update her records and arrived with the actual cash\nbalance at the end of the period. Municipal Treasurer was also required to reconcile\nhis cash accounts balances with the Municipal Accountant’s records at least every\nquarter and verify if there are discrepancies in their records and effect immediately\nany adjustments and corrections.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommend that management direct the Municipal Treasurer to\naccomplish the RCD’s Section A, B, C and D (as applicable) and submit together\nwith its supporting documents to the Municipal Accountant for recording. Through\nthe Municipal Accountant, submit the said report and its supporting documents to\nthe Audit Team for verification.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recommend that management direct concerned employees to comply\nwith the general guidelines, reporting and monitoring of the information and\npublicity on Programs/Projects/Activities (PPAs) as imposed in COA Circular No.\n2013-004 dated January 31, 2013 as amended by COA circular 2016-003 dated\nAugust 16, 2016.\n\nWe also recommend that Management in compliance with the above mentioned\nCOA Circular shall observed the following rules and regulations:\n1. Submit to this office the list of all on-going government\nPrograms/Projects/Activities (PPAs) and those that are to be implemented during\nthe year,\n2. Inform this office within ten (10) days after the award of the infrastructure project\nor before the start of the program/ activity that the appropriate project signboards\nand/or public notices are already posted,\n3. And submit to this office the monthly monitoring report on PPAs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We recommend that Local Executive create an Inventory Team (IT) to\nconduct the physical count of Property, Plant and Equipment of the municipal\ngovernment at the end of the year to establish the actual and complete inventory of\nthe agency’s PPE and ascertain its most reliable book value in compliance with\nSection 156 of COA Circular No. 92-386 and submit the RPCPPE to the Office of\nthe Auditor on or before January 31 of each year.\n\nAlso direct the Municipal Accountant to up-date the Subsidiary Ledgers of\nall the agency’s Property, Plant and Equipment and compute the monthly\ndepreciation based on the regulations provided under COA Circular No. 2003-007.\n.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2016-PY1",
+      "year": 2016,
+      "recommendation": "Require the Municipal  Planning and Development Coordinator and the Municipal Engineer to prepare and formulate development plans and projects  aligned  with the Joint Memorandum Circular No. 2011-1 dated April 13, 2011 of DILG and DBM to include in the deliberation of the Sanggunian Bayan during the preparation of the budget and to appropriate funds out of the 20% economic development funds of the Internal Revenue Allotment of the municipal government.",
+      "managementAction": "AAR 2015",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not implemented | For preparation"
+    },
+    {
+      "id": "Saguiaran_LDS-2016-PY2",
+      "year": 2016,
+      "recommendation": "Instruct the Municipal Physical Inventory Committee to conduct fully the physical inventory of Property, Plant and Equipment (PPE). \n          Instruct the Municipal Treasurer and the Municipal Accountant to determine validity of the PPE account through reconciliation of the accounting records and the \nactual inventory as stated in the accounting records. \n          Identify the items listed as Property, Plant and Equipment in the Accounting Office and list down those that cannot be identified from the records. \n      Secure from the Municipal Assessor’s Office the listing of all the properties owned by the government and reconcile each property from the list including its descriptions.          \n          \n          Explain the items recorded in the books but could not be physically located on Land and Land Improvements.",
+      "managementAction": "AAR 2015",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not implemented | To create committee conduct inventory of PPE"
+    },
+    {
+      "id": "Saguiaran_LDS-2016-OBS1",
+      "year": 2016,
+      "recommendation": "Require the Municipal Accountant to establish  Real Property Tax Receivable and Special Education Tax Receivable at the beginning of the year to recognized uncollected Real Property Tax and Special Education Tax at the end of the year in order to establish the  reliable balances of assets and Equity accounts at the end of the year. Also require the Municipal Treasurer to furnish a certified list of RPT taxpayers and the estimated amount due and collectible and during the year to the Municipal Accountant to monitor the collection of real property tax and special education tax.\n\nAlso the Municipal Accountant is directed to maintain Real Property Account Register/Taxpayers Index Card to facilitate the establishment of RPT/SET receivables in conformity with Section 20 of NGAS Manual for LGU’s Volume I. This will also enable necessary reconciliation of the  Municipal  Treasurer’s  Office  and the Municipal Assessor’s Office.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2016-OBS2",
+      "year": 2016,
+      "recommendation": "Create a team to conduct the physical count of the Property,  Plant and Equipment of the municipal government at the end of the year to establish the most reliable value of the  fixed assets of the municipal government in compliance to Section 156 of COA Circular No. 92-386.\nDirect  the Municipal Accountant to up-date the Subsidiary Ledgers of all the agency’s Property, Plant and Equipment and compute the monthly depreciation based on the regulations provided under COA Circular No. 2003-007.\nAlso require the Municipal Accountant to record all items of property, plant and equipment at cost in accordance with the International Accounting Standards No. 16 and to draw a journal entry voucher to effect the adjusting and correcting entries of the misstated Accumulated Depreciation Account and the Depreciation Expense Accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2016-OBS3",
+      "year": 2016,
+      "recommendation": "Create Local Solid Waste Management Board to formulate and prepare plans and programs on the solid waste management of the municipality to promote public health and sanitation and promote environment awareness in compliance to Sections 12 and 16 of R.A. 9003.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2016-OBS4",
+      "year": 2016,
+      "recommendation": "Create focal Point System of the Municipality of Saguiaran composed of heads of the different departments of the agency to facilitate the institutionalization of Gender Mainstreaming, set the GAD agenda for the 3-year period and prioritized the gender issues to be addressed by the municipal government. They will also formulate the GAD plans, programs, projects and activities to be integrated in the GAD Plan and Budget in order to be complaint of the rules and regulations provided in the JC 2004-1 of DBM-NCRFW and Republic Act 9710 or the Magna Carta of Women.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Saguiaran_LDS-2016-OBS5",
+      "year": 2016,
+      "recommendation": "Require the persons responsible to submit the required documents for the settlement of the suspended transactions within 90 days upon receipt of the Notice of Suspensions. Otherwise, if no appeal, it will be disallowed in audit and Settlement thereof should be immediately enforced by withholding the salaries or other claims due the persons liable, in satisfaction of the amounts disallowed which is final and executory.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    }
+  ]
+}

@@ -1,0 +1,2118 @@
+{
+  "lguCode": "501604000",
+  "lguName": "San Lorenzo Ruiz",
+  "province": "Camarines Norte",
+  "region": "Region IV-A (CALABARZON)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY1",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Treasurer, in coordination with the Accounting Office, to prioritize the submission of monthly reports of transactions, DVs, and their supporting documents to COA and observe the deadline set forth to facilitate the immediate verification and review of accounts and balances.",
+      "managementAction": "The Municipal Treasurer made partial submission to the Accounting Office.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "There are still unsubmitted DVs as at year-end."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY2",
+      "year": 2024,
+      "recommendation": "The Inventory Committee to conduct physical count of the LGUs PPE annually and prepare and submit in a prescribed format a complete and accurate report of Report on Physical Count of PPE (RPCPPE) for the current year to the Municipal Accountant and COA before January 31 of the succeeding year;",
+      "managementAction": "Reiterated in CY 2024.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY3",
+      "year": 2024,
+      "recommendation": "In coordination with the Municipal Engineer’s Office, the Inventory Committee to conduct a physical count and assessment of all public infrastructure assets of the LGU and reconcile with the records in the books;",
+      "managementAction": "Reiterated in CY 2024.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY4",
+      "year": 2024,
+      "recommendation": "The Municipal Accountant and Inventory Committee to reconcile RPCPPE with the accounting records and make necessary adjustments taking into consideration the procedural guidelines provided under COA Circular No. 2020-006.",
+      "managementAction": "No action was taken by the Inventory Committee.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No action was taken by the Inventory Committee."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY5",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Accountant provide the corresponding depreciation expenses of all PPEs with no depreciation, using the determined estimated useful lives and straight-line method of depreciation.",
+      "managementAction": "The Municipal Accountant committed to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Depreciation expenses were still not provided for Land Improvements, Infrastructure Assets, and Buildings and Other Structures accounts during CY 2024."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY7",
+      "year": 2024,
+      "recommendation": "Require the Municipal Treasurer to ensure the timely transfer of funds for BIR remittances to the TF account to avoid penalties and surcharges; and ensure that all documents necessary for setting up receivables/payables accounts are promptly submitted to the Accounting Office to maintain accurate financial records;",
+      "managementAction": "The Municipal Treasurer committed to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY8",
+      "year": 2024,
+      "recommendation": "Require the Municipal Accountant to ensure that the negative balances are corrected;",
+      "managementAction": "The Municipal Accountant committed to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY9",
+      "year": 2024,
+      "recommendation": "Adopt and implement stricter documentation requirements for all transactions of the LGU to ensure accurate recording, transparency, and fair presentation of accounts in the financial statements.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY10",
+      "year": 2024,
+      "recommendation": "Require the Municipal Accountant and the Municipal Treasurer to reconcile their Cash in Treasury account balances regularly so that discrepancies discovered can readily be corrected and adjusted on time ensuring the reliability of the balances of Cash in the Treasury account reflected in the financial statements;",
+      "managementAction": "Management committed to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "There are still unreconciled amount totaling ₱29,804.75 as at December 31, 2024."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY11",
+      "year": 2024,
+      "recommendation": "Require the Municipal Accountant and the Municipal Treasurer to thoroughly review and ensure that the amounts posted in the ledgers and cash books, respectively, are equal to the amounts of the source documents; and",
+      "managementAction": "Management committed to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "There are still unreconciled amount totaling ₱29,804.75 as at December 31, 2024."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY12",
+      "year": 2024,
+      "recommendation": "Revisit the source documents and adjust accordingly the above reconciling items.",
+      "managementAction": "Management committed to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "There are still unreconciled amount totaling ₱29,804.75 as at December 31, 2024."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY16",
+      "year": 2024,
+      "recommendation": "We recommended that the Management produce and submit the duplicate copies of unaccounted ORs, RCDs, and Validated Deposit Slips to the COA.",
+      "managementAction": "The Municipal Treasurer committed to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "There are still unsubmitted duplicate copies of unaccounted ORs, RCDs, and Validated Deposit Slips to the Audit Team."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY17",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Accountant:\n\nPrepare the Schedule of Dormant Receivables Accounts in accordance with COA Circular No. 2023-008;\n\nCoordinate with the Municipal Treasurer to verify and validate the Dormant accounts’ collectibility status; and\n\nFacilitate the completion of the necessary documents to request the write-off of dormant accounts amounting to ₱1,351,961.93 from the COA.",
+      "managementAction": "The Municipal Accountant committed to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "As at this writing, no schedule was submitted to the Audit Team."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY19",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Disaster Risk Reduction and Management Officer (LDRRMO) evaluate the practicality and feasibility of implementing projects for which these funds were originally intended, else, consider repurposing for a more feasible and effective disaster risk mitigating and preventing projects.",
+      "managementAction": "LDRRMO committed to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Municipality was unable to maximize the use of the LDRRMF totaling ₱5,165,194.18, which comprised of balances from the CY 2024 appropriation on Mitigation Fund and unexpended balance of Special Trust Fund totaling ₱369,828.00 and ₱4,795,366.18, respectively."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY21",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Mayor, in coordination with the Human Resource Management Officer (HRMO), to promptly commence procedures for the creation and filling of the mandatory positions with the candidate/s with appropriate qualifications to ensure optimal efficiency and effectiveness in the discharge of the functions of the MDRRMO.",
+      "managementAction": "HRMO acknowledged that the creation of other lower-level positions has not yet been completed, however, a proposal for the creation has already been submitted to the Sanggunian Bayan.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "One of the mandatory lower-level positions of the MDRRMO is still vacant while the other one is yet to be created."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY22",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Mayor in coordination with the Municipal Engineer and implementing units comply with COA rules and regulations on the posting of proper tarpaulin signboards containing complete and necessary information for all infrastructure PPAs to be implemented and inform the Audit Team within 10 days after the award of the infrastructure contract or before the start of the program/activity, that the appropriate signboard is already posted onsite for Audit Team’s validation.",
+      "managementAction": "The Municipal Engineer committed to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Recurring in CY 2024."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY28",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant and Municipal Treasurer to:\n\nEnsure the accuracy of reported Due to NGAS accounts by ensuring these accounts exist as of year-end; and\n\nFacilitate the immediate return of the two bottom-up budgeting accounts and DILG Local Access Roads.",
+      "managementAction": "Management committed to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Recurring in CYs 2023 and 2024."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY29",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Mayor require the:\n\nMunicipal Accountant to prepare and submit Aging Schedule of Accounts Payable; and \n\nMunicipal Treasurer to prepare and submit Schedule of Unreleased Check and RCI.",
+      "managementAction": "The Municipal Accountant committed to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY31",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Mayor:\n\nDirect the HRMO to indicate in the contracts of JO workers the duties and responsibilities expected to be performed by them; and\n\nInstruct the HRMO, to formulate local policy, in accordance with existing rules and regulations, on standardization of rate given to JO workers for uniform application all throughout the LGU.",
+      "managementAction": "The HRMO committed to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in CY 2023 and 2024."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY32",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Administrator prepare and submit the Monthly Report of Official Travels and the Monthly Report of Fuel Consumption to the Office of the Auditor in compliance with COA Circular Nos. 75-6 and 77-61, to facilitate review and evaluation of the reasonableness of fuel consumption. Likewise, ensure that Drivers’ Trip Tickets (DTTs) submitted are duly accomplished before submission or attached them to disbursement vouchers.",
+      "managementAction": "Management said that they are concurrently consolidating all DTTs for submission to the Audit Team.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reports were not yet submitted to the Audit Team for verification."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY33",
+      "year": 2024,
+      "recommendation": "We recommended the Management the strict compliance with rules set forth by RA No. 9184, to:\n\nExert extra caution or close watch with the details of performance securities, surety bonds and other documents, particularly, its validity; and\n\nDirect the BAC to require the concerned Contractors to submit an irrevocable standby letters of credit from a commercial bank, bank guarantees or surety bonds callable on demand equivalent to the retention money of 10 per cent of the 50 per cent of the value of works and furnish the Auditor a copy thereof and require the Municipal Accountant to deduct retention money of 10 per cent from every progress payment until 50 per cent of the value of works, as determined by the procuring entity, are completed.  If, after 50 per cent completion, the work is satisfactorily done and on schedule, no additional retention shall be made; otherwise, the 10 per cent retention shall be imposed.",
+      "managementAction": "The BAC agreed and promised to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Recurring in CY 2021, 2022, 2023 and 2024."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY34",
+      "year": 2024,
+      "recommendation": "We recommended that the Management require the Municipal Engineer to implement a sound and effective monitoring system in place to ensure contractor’s compliance of the requirements of Section 62 of the 2016 R-IRR of RA No. 9184, in order to ensure that the PE will be reimbursed of its expenses in the restoration or reconstruction works in case of Structural Defects/Failure occurring during the applicable warranty period.",
+      "managementAction": "The Management was unable to address the issue.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No action was taken by the Municipal Engineer."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-OBS1",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive (LCE) require the Municipal Accountant and the OIC-Municipal Treasurer to reconcile their Cash Local Treasury account balances regularly so that discrepancies discovered can readily be corrected and adjusted on time ensuring the reliability of the balances of Cash Local Treasury account reflected in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-OBS2",
+      "year": 2024,
+      "recommendation": "We recommended that the LCE direct the Municipal Accountant to:\nPrepare and submit monthly BRS for all LGU’s bank accounts to the Audit Team and take up the necessary adjustments on the variances noted to arrive at the correct balance of the Cash in Bank-LCCA account; and\nRequire the accounting system provider to fix issues on their system in order to prevent discrepancies between the ledgers.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-OBS3",
+      "year": 2024,
+      "recommendation": "We recommended that the LCE require the Municipal Accountant and OIC-Municipal Treasurer to:\nRefrain from granting additional cash advances to those employees who still have unliquidated balances;\nStrictly monitor the grant and liquidation of cash advances to ensure that these are liquidated within the prescribed period; and\nEnsure that all cash advances are fully liquidated at the end of the year in accordance with the provisions of COA Circular No. 97-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-OBS4",
+      "year": 2024,
+      "recommendation": "We recommended that the LCE:\nDirect the Inventory Committee to conduct physical count of all inventories semi-annually and submit the RPCI to the Audit Team; and\nRequire the Municipal Accountant and the Inventory Committee to ensure that the accounting and property records are reconciled.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-OBS5",
+      "year": 2024,
+      "recommendation": "We recommended that the LCE require the:\nInventory Committee to expedite the conduct physical count of all PPE and prepare and submit RPCPPE to the Municipal Accountant and COA; and\nMunicipal Accountant and Inventory Committee to reconcile RPCPPE with the accounting records and make necessary adjustments taking into consideration the procedural guidelines provided under COA Circular No. 2020-006.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-OBS6",
+      "year": 2024,
+      "recommendation": "We recommended that the LCE require the Municipal Accountant to prepare the Aging of Accounts Payable. In addition, cause the reversion of any unliquidated balance of accounts payable that has been outstanding for two years or more and for which no actual claim, administrative or judicial has been filed to the unappropriated surplus of the GF, if applicable.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-OBS7",
+      "year": 2024,
+      "recommendation": "We recommended that the LCE require the Municipal Accountant to review the abnormal/negative balances and prepare the necessary adjusting entries to ensure fair presentation of accounts in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-OBS8",
+      "year": 2024,
+      "recommendation": "We recommended that the LCE require the OIC-Municipal Treasurer, in coordination with the Municipal Accountant, to ensure that all amounts withheld from the salaries of LGU officials and employees due to GSIS, Pag-IBIG and PhilHealth be remitted in full within the prescribed period to prevent under remittances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-OBS9",
+      "year": 2024,
+      "recommendation": "We recommended that LCE require the Municipal Engineer to submit all approved suspension orders or any documents that would warrant the non-imposition of liquidated damages to the Municipal Accountant and Audit Team to avoid further audit actions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-OBS10",
+      "year": 2024,
+      "recommendation": "We recommended that the LCE require the Municipal Engineer and MPDC to:\nImplement all pending development projects targeted under the 20 per cent LDF for CY 2024; and\nEnsure that all development projects to be funded out of the 20 per cent LDF are well-planned and procurement-and-implementation-ready by continuously pursuing improved practices in planning, programming and implementing programs and projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-OBS11",
+      "year": 2024,
+      "recommendation": "We recommended that the LCE direct the HRMO to:\nIndicate the duties and responsibilities expected to be performed by JO personnel in the JO contracts; and\nFormulate a local policy, in accordance with existing rules and regulations, on standardization of rate given to JO workers for uniform application all throughout the LGU.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-OBS12",
+      "year": 2024,
+      "recommendation": "We reiterate our recommendation that the LCE, in coordination with the HRMO, promptly commence procedures for the creation and filling of the mandatory positions with the candidate/s with appropriate qualifications to ensure optimal efficiency and effectiveness in the discharge of the functions of the LDRRMO.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-OBS13",
+      "year": 2024,
+      "recommendation": "We recommended that the LCE require the GAD Focal Person to:\nExpedite the preparation of GAD AR for CY 2024 in accordance with Item C.8, Section 4 of PCW-DILG-DBM-NEDA JMC No. 2013-01 and submit the same to the Audit Team; and\nEnsure timely submission of the GPB and GAD AR to Audit Team in accordance with the provision of Section V of COA Circular No. 2014-001, to timely monitor and evaluate the utilization of GAD Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-OBS14",
+      "year": 2024,
+      "recommendation": "We recommended that the LCE require the Municipal Engineer to:\nExpedite the submission of the documentary requirements for eight completed infrastructure projects to facilitate technical evaluation thereof; and\nAdhere strictly to the requirement of Items 3 of COA Circular No. 2009-001 on the timely submission of infrastructure contracts and its supporting documents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY6",
+      "year": 2024,
+      "recommendation": "Require the Municipal Treasurer to strengthen internal controls over the handling of cash, particularly the collections and remittances from the Collectors to the Municipal Treasurer, and the collections and deposits made by the Municipal Treasurer to the Authorized Government Depository Bank, to prevent further incurrence of unrecorded collections and/or over-deposits, which resulted to abnormal/negative balances of the Cash Local Treasury account;",
+      "managementAction": "The Municipal Treasurer committed to comply with the recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY13",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Treasurer to establish a control system that would strictly monitor the collections and remittances of all collectors and ensure that all collections are promptly remitted.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY14",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Treasurer require the custodian of accountable forms to indicate in the permanent record book the Headings for invoice numbers and dates, the quantity of forms, their inclusive serial numbers, and/or total value of the accountable forms; and add a column heading for date when the forms were used, sold, issued.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY15",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Treasurer ensure that accountable forms are issued exclusively to bonded AOs.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY18",
+      "year": 2024,
+      "recommendation": "The Municipal Engineer and Municipal Planning and Development Coordinator ensure that all development projects to be funded out of the 20 per cent LDF are well-planned and procurement and implementation-ready by continuously pursuing improved practices in planning, programming, and implementing programs and projects; and The Municipal Engineer submit to the Municipal Accountant the Statement of Work Accomplished for projects as of December 31 of each year for accurate and fair representation of relative accounts in the financial statements.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY20",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Mayor:\n\nRequire the Municipal Treasurer to promptly transfer or deposit to the TF of the unexpended balance of QRF and MF-MOOE of the LDRRMF of every year; and\n\nRequire the Municipal Accountant to ensure that the correct journal entries are made to reflect the transfer of unutilized LDRRMF.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY23",
+      "year": 2024,
+      "recommendation": "We recommended that the Head of the Procuring Entity require the Bids and Awards Committee (BAC) to comply with the provisions on the preparation of the APP.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY24",
+      "year": 2024,
+      "recommendation": "We reiterate our recommendation that the Municipal Mayor:\n\nDirect the Municipal Engineer, Property Inspector and/or official responsible to submit immediately the request for technical inspection and relevant documents of all completed infrastructure projects, and delivered and accepted goods for the CY 2023; and\n\nRequire the Municipal Engineer, Property Inspector and/or official responsible for or in charge of accepting procured items to notify the Audit Team of the time and date of the scheduled deliveries, request for technical inspection, and submit a copy of report of inspection and supporting documents in consonance with the attached checklist under Annexes “A” to “T” of COA Circular No. 2009-001.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY25",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Mayor direct the BAC to require contractors of infrastructure projects, for contracts signed after the state of calamity was lifted during CY 2023, to submit the required Performance Security format as specified in R-IRR of RA No. 9184. Additionally, furnish a copy of this document to the Audit Team for records and compliance review.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY26",
+      "year": 2024,
+      "recommendation": "We recommended that Sanggunian Bayan:\n\nObserve the prohibition against expenses for reception and entertainment;\n\nUtilize the concerned Officials’ representation allowance for the cost of meals during regular meetings and En Banc sessions which is the intended purpose of such;\n\nDiscontinue charging expenses for meals and snacks served during En Banc sessions/meetings to LGU funds; and\n\nExercise prudence in its provision for catering/meal services for projects/activities, evaluating which instances truly require such services and allocate excess funds to projects beneficial to the public.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY27",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Mayor require the concerned AOs to prioritize the renewal their fidelity bonds and ensure that their bonds are sufficient to cover their actual accountabilities as required under Treasury Circular No. 02-009.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2024-PY30",
+      "year": 2024,
+      "recommendation": "We recommended that the Management ensure that subsidiary ledgers are up-to-date and tally with the financial statements and other components of financial statements as these documents are essential in the verification of the Audit Team on reliability and fair presentation of accounts.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-PY1",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Mayor:\n\nRequire the Inventory Committee to conduct a physical count of the Local Government Unit’s (LGU’s) PPE annually and reconcile the same with the recorded PPE in the books;\n\nInstruct the Inventory Committee to prepare and submit in a prescribed format a complete and accurate report of Report on the Physical Count of Property, Plant and Equipment (RPCPPE) for the current year to the Municipal Accountant and the Commission on Audit (COA) before January 31 of the succeeding year;\n\nIn coordination with the Municipal Engineering’s Office, require the Inventory Committee to conduct a physical count and assessment of all public infrastructure assets of the LGU and reconcile with the records in the books; and\n\nDirect the Municipal Accountant to recognize depreciation expense for all PPEs annually.",
+      "managementAction": "Management committed that physical count of PPEs will be done this year.\n\n\n\nManagement committed to prepare RPCPPE for the current year’s result of physical count.\n\n\n\n\n\nManagement were planning on the process to properly tag the public infrastructure for the purpose accurate physical count and reconciliation with the books.\n\n\nThe Municipal Accountant committed computation of depreciation after reconciliation of PPEs.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-PY2",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Mayor:\n\nMaximize the utilization of 20 per cent LDF in attaining desirable socio-economic development and environmental management outcomes for the benefit of the community; and\n\nEnsure that all development projects to be funded out of the 20 per cent LDF are well-planned and procurement-and-implementation-ready by continue pursuing improved practices in planning, programming and implementing programs and projects.",
+      "managementAction": "Management committed to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-PY3",
+      "year": 2022,
+      "recommendation": "We recommended that the LDRRMO:\n\nEvaluate the unutilized balances of the current year’s five per cent LDRRMF, continuing LDRRMF, and the unexpended LDRRMF transferred to the Trust Fund (TF) books;\n\nAnticipate and promptly address issues and concerns affecting the efficient and effective implementation of LDRRM PPAs to avoid delays or non-implementation;\n\nMaximize LDRRMF utilization focusing on PPAs requiring the highest priority in terms of urgency and/or impact on the four thematic areas of Disaster Risk Reduction and Management and consider the needs of the time, such as the 2019 Corona Virus Disease (COVID-19) emergency; and\n\nEnsure efficient and effective implementation of all programmed and reprogrammed projects during the budget year to optimize the fund’s utilization and warrant that goals and objectives of reducing disaster risk and enhancing disaster preparedness and response capabilities be achieved.",
+      "managementAction": "Management committed to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-PY4",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Treasurer ensure that all on hand accountable forms be included in the CRAAF and submit to it to the Audit Team not later than the fifth day of the ensuing month for verification.",
+      "managementAction": "Management committed to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in CY 2022."
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-PY7",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Accountant discontinue the practice of paying in advance the Mid-Year Bonus, Year-End Bonus and Cash Gift.",
+      "managementAction": "Management committed to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Recurring in CY 2022."
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-PY8",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Engineer and the Property Officer:\n\nSubmit immediately the request for technical inspection and relevant documents of all completed infrastructure projects, and delivered and accepted goods for the CY 2021; and\n\nEnsure to notify the Audit Team of the time and date of the scheduled deliveries, request for technical inspection, and submit a copy of report of inspection and supporting documents in consonance with the attached checklist under Annexes “A” to “T” of COA Circular No. 2009-001.",
+      "managementAction": "Management committed to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Recurring in CY 2022."
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-PY10",
+      "year": 2022,
+      "recommendation": "We recommended that the Management monitor the status of transferred funds to identify unutilized balances of completed PPAs and comply with COA Circular No. 94-013 on the return of the unexpended balances.",
+      "managementAction": "Management committed to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Recurring in CY 2022."
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-PY13",
+      "year": 2022,
+      "recommendation": "We recommended the Management the strict compliance with rules set forth by RA No. 9184, to:\n\nExert extra caution or close watch with the details of performance securities, surety bonds and other documents, particularly, its validity;\n\nDirect the BAC to require the concerned Contractors to submit an irrevocable standby letters of credit from a commercial bank, bank guarantees or surety bonds callable on demand equivalent to the retention money of 10 per cent of the 50 per cent of the value of works and furnish the Auditor a copy thereof and require the Municipal Accountant to deduct retention money of 10 per cent from every progress payment until 50 per cent of the value of works, as determined by the procuring entity, are completed.  If, after 50 per cent completion, the work is satisfactorily done and on schedule, no additional retention shall be made; otherwise, the 10 per cent retention shall be imposed; and\n\nRequire the Municipal Engineer and/or Project Inspector or any employee of the agency mandated to supervise the implementation of the infrastructure projects of the agency to submit to the Audit Team copies of the Results of Test Analysis/Status of Quality Control Test or Quality program being implemented by the Municipality.",
+      "managementAction": "Management agreed and promised to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in CY 2021 and 2022."
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-PY14",
+      "year": 2022,
+      "recommendation": "We recommended that the Management intensify collection activities against these delinquent real property owners, giving them final grace period after which to initiate appropriate remedies such as administrative action through levy on real property or by judicial action.",
+      "managementAction": "The Management was unable to address the issue.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in CY 2022."
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-PY16",
+      "year": 2022,
+      "recommendation": "We recommended that the Management require the Municipal Engineer to implement a sound and effective monitoring system in place to ensure contractor’s compliance of the requirements of Section 62 of the 2016 R-IRR of RA No. 9184, in order to ensure that the procuring entity will be reimbursed of its expenses in the restoration or reconstruction works in case of Structural Defects/Failure occurring during the applicable warranty period.",
+      "managementAction": "The Management was unable to address the issue.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in CYs 2020, 2021 and 2022."
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-OBS1",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant and the Municipal Treasurer to reconcile their Cash-Local Treasury account balances regularly so that discrepancies discovered can readily be corrected and adjusted on time ensuring the reliability of the balances of Cash-Local Treasury account reflected in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-OBS2",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Treasurer ensure timely submission of accurate CRAAF to the Audit Team not later than the fifth day of the ensuing month for verification.  We likewise recommended inclusion of checks in CRAAF.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-OBS3",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Treasurer/Custodian of accountable forms prepare permanent record book showing the Heading on the invoice number and date, the date the accountable forms were received, the quantity, the inclusive serial numbers and/or total value of the accountable forms; and add column heading for the date reported totally used, sold, issued.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-OBS4",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Treasurer ensure that accountable forms are only issued to bonded AOs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-OBS5",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Mayor:\nRequire the concerned AOs to prioritize the renewal their fidelity bonds and ensure that their bonds are sufficient to cover their actual accountabilities as required under Treasury Circular No. 02-009; and\nProhibit concerned AOs discharging their functions until renewal of their fidelity bonds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-OBS6",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Mayor:\nInstruct the Municipal Treasurer to establish an adequate control for monitoring of accountable forms;\nRequire the Municipal Treasurer and/or Municipal Accountant to submit to the Audit Team the duplicate copies together with the RCDs of the aforesaid unaccounted official receipts and validated deposit slips; and\nRelieve the AO until such accountable forms are presented.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-OBS7",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Treasurer to establish a control system that would strictly monitor the collections and remittances of all collectors and ensure that all collections are promptly remitted.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-OBS8",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Engineer to:\nSubmit immediately the request for technical inspection and relevant documents of all completed infrastructure projects, and delivered and accepted goods for the CYs 2019 to 2022; and\nIn coordination with Property Inspector and/or official responsible for or in charge of accepting procured items, notify the Audit Team of the time and date of the scheduled deliveries, request for technical inspection, and submit a copy of report of inspection and supporting documents in consonance with the attached checklist under Annexes “A” to “T” of COA Circular No. 2009-001.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-OBS9",
+      "year": 2022,
+      "recommendation": "We recommended that the Head of the Procuring Entity advise the BAC/BAC-Technical Working Group (TWG) to thoroughly verify, validate and ascertain all the statements and documents submitted by the bidder including the entries made to determine and ensure the technical competence of the winning contractors during the post-qualification evaluation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-OBS10",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Accountant:\nReconcile the GL and SL of Due to BIR; and\nAnalyze the existence of abnormal balances and make necessary adjusting entries in the books to correct Due to BIR and Due to GOCCs accounts’ balances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-OBS11",
+      "year": 2022,
+      "recommendation": "We recommended that the HoPE and/or authorized personnel:\nRevisit the detailed engineering of existing/ongoing projects to ensure its usability upon completion; and\nProspectively, properly conduct detailed engineering to ensure that the infrastructure projects implemented by phases are usable and structurally sound.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-OBS12",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Planning and Development Coordinator and Municipal Engineer:\nMaximize the utilization of 20 per cent LDF in attaining desirable socio-economic development and environmental management outcomes for the benefit of the community; and\nEnsure that all development projects to be funded out of the 20 per cent LDF are well-planned and procurement-and-implementation-ready by continue pursuing improved practices in planning, programming and implementing programs and projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-OBS13",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant and Municipal Treasurer to:\nMonitor the status of transferred funds to identify unutilized balances of completed PPAs and comply with COA Circular No. 94-013 on the return of the unexpended balances on a timely manner;\nCoordinate with the BTr on how to return the unexpended balances with unidentified or closed SA;\nEnsure the accuracy of reported Due to NGAs accounts by ensuring these accounts exist as of year-end; and\nFacilitate the immediate return of the two BUB accounts and DILG Local Access Roads.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-OBS14",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Mayor require:\nThe Inventory Committee to conduct physical count of the LGUs PPE annually and prepare and submit in a prescribed format a complete and accurate report of RPCPPE for the current year to the Municipal Accountant and the COA before January 31 of the succeeding year;\nIn coordination with the Municipal Engineer’s Office, the Inventory Committee to conduct a physical count and assessment of all public infrastructure assets of the LGU and reconcile with the records in the books; and\nThe Municipal Accountant and Inventory Committee to reconcile RPCPPE with the accounting records and make necessary adjustments taking into consideration the procedural guidelines provided under COA Circular No. 2020-006.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-OBS15",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Mayor:\nRequire the Municipal Treasurer to strictly observe prompt transfer or deposit to the TF of the unexpended balance of QRF and MF-MOOE of the LDRRMF of every year; and\nRequire the Municipal Accountant to comply with the following journal entries shown on the next page relative to the transfer of unutilized LDRRMF.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-OBS16",
+      "year": 2022,
+      "recommendation": "We recommended that the LDRRMO:\nEvaluate the unutilized balances of the current year’s five per cent LDRRMF, continuing LDRRMF, and the unexpended LDRRMF transferred to the TF books;\nAnticipate and promptly address issues and concerns affecting the efficient and effective implementation of LDRRM PPAs to avoid delays or non-implementation;\nMaximize LDRRMF utilization focusing on PPAs requiring the highest priority in terms of urgency and/or impact on the four thematic areas of Disaster Risk Reduction and Management and consider the needs of the time, such as the COVID-19 and earthquakes; and\nEnsure efficient and effective implementation of all programmed and reprogrammed projects during the budget year to optimize the fund’s utilization and warrant that goals and objectives of reducing disaster risk and enhancing disaster preparedness and response capabilities be achieved.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-OBS17",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Mayor require the:\nMunicipal Accountant to prepare and submit Aging Schedule of Accounts Payable; and\nMunicipal Treasurer to prepare and submit Schedule of Unreleased Check and RCI.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-OBS18",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Mayor:\nRequire the Municipal Treasurer to create a comprehensive strategy to optimize and improve the collection efficiency of RPT and SET; and\nDirect the Municipal Accountant to coordinate with the Municipal Assessor and Treasurer in establishing the accurate amount of basic RPT and SET receivable from each taxpayer.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-OBS19",
+      "year": 2022,
+      "recommendation": "We recommended that the Management ensure that subsidiary ledgers are up-to-date and tally with the financial statements and other components of financial statements as these documents are essential in the verification of the Audit Team on reliability and fair presentation of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-OBS20",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Mayor:\nMoving forward, require the Human Resource Management Officer (HRMO) to furnish the COA with copies of Contracts and its supporting documents within five working days after execution thereof in accordance with COA Circular No. 2009-001;\nDirect the HRMO to indicate in the contracts of JO workers the duties and responsibilities expected to be performed by them;\nInstruct the HRMO, to formulate local policy, in accordance with existing rules and regulations, on standardization of rate given to JO workers for uniform application all throughout the LGU; and\nRequire the Municipal Treasurer to ensure that the person receiving the salaries is the actual person it is due to, otherwise, request for authorization duly signed by that person.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-PY5",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Administrator prepare and submit the Monthly Report of Official Travels and the Monthly Report of Fuel Consumption to the Office of the Auditor in compliance with COA Circular Nos. 75-6 and 77-61, to facilitate review and evaluation of the reasonableness of fuel consumption. Likewise, ensure that Drivers’ Trip Tickets (DTTs) submitted are duly accomplished before submission or attaching them to disbursement vouchers.",
+      "managementAction": "Management said that they are concurrently consolidating all DTTs for submission to the Audit Team.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reports were not yet submitted to the Audit Team for verification."
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-PY6",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Mayor cause the refund of ₱1,060,000.00 relative to the payment of Extra Christmas Bonus to its officials and employees.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-PY9",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Accountant ensure the closure of the Construction in Progress account to the appropriate asset account as soon as the project is completed.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-PY11",
+      "year": 2022,
+      "recommendation": "We recommended that Management:\n\nEnsure that the Government Equity amounting ₱199,653 as well as PPEs amounting ₱4.24 million recorded in the TF are evaluated and transferred to its rightful accounts; and \n\nHenceforth, avoid using Government Equity Account and completed PPE accounts (if used for general operations of the LGU) in the TF.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-PY12",
+      "year": 2022,
+      "recommendation": "We recommended that the Management:\n\nEstablish a clear-cut guidelines, policies and procedures on the selection and grant of cash assistance aligned with the Department of Social Welfare and Development (DSWD) Memorandum Circular (MC) No. 11, Series of 20; and\n\nStop the practice of payment on a reimbursement basis.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-PY15",
+      "year": 2022,
+      "recommendation": "We recommended that the Management require the Accountable Officers (AO) to liquidate and/or refund of the total amount of ₱356,643, otherwise, suspend the payment of salaries due them until such time that these cash advances are already liquidated or settled. We likewise recommended that Management refrain from granting additional cash advances unless previous ones are first settled and fully accounted for and adopt controlling accounts to ensure that cash advances are promptly liquidated.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2022-PY17",
+      "year": 2022,
+      "recommendation": "We recommended that the Local Chief Executive (LCE) require the Municipal Solid Waste Management Board (MSWMB) to prioritize the preparation of the 10-year SWMP as required under Section 16 of RA No. 9003. We further recommended that the said plan be properly implemented to ensure the efficient management of solid waste generated within its jurisdiction.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended the Management to:\n\nRequire the Inventory Committee to conduct physical count of the Local Government Unit’s (LGU’s) PPE annually;\n\nPrepare and submit in a prescribed format a complete and accurate reports of Report on the Physical Count of Property, Plant and Equipment (RPCPPE) for the current year to the Municipal Accountant and the Commission on Audit (COA) before January 31 of the succeeding year; and\nReconcile the physical count of the PPE with book records and make necessary adjustments.",
+      "managementAction": "Management agreed and promised to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended the Management to:\n\nEnsure that the Government Equity amounting ₱199,653 as well as PPEs amounting ₱4.24 million recorded in the TF are evaluated and transferred to its rightful accounts; and \nHenceforth, avoid using Government Equity Account and completed PPE accounts (if used for general operations of the LGU) in the TF.",
+      "managementAction": "Management agreed and promised to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No action taken by the Management."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We recommended that Management require the Municipal Accountant and the Municipal Treasurer to maintain complete records, property ledger cards and stock cards, respectively, and prioritize the review and reconciliation of those records to come up with reconciled balances of PPE accounts.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in CY 2020. | The Management was unable to address the issue."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "We recommended that Management intensify collection activities against these delinquent real property owners, giving them final grace period after which to initiate appropriate remedies such as administrative action through levy on real property or by judicial action.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Due to COVID-19 restrictions. | The Management was unable to address the issue."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "We recommended that Management require the Municipal Engineer to implement a sound and effective monitoring system in place to ensure contractor’s compliance of the requirements of Section 62 of the 2016 R-IRR of RA No. 9184, in order to ensure that the procuring entity will be reimbursed of its expenses in the restoration or reconstruction works in case of Structural Defects/Failure occurring during the applicable warranty period.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in CYs 2020 and 2021. | The Management was unable to address the issue."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-PY14",
+      "year": 2021,
+      "recommendation": "We recommended that Management direct the Municipal Accountant to prepare an Analysis of the Government Equity Account as supporting disclosures in the CY 2018 Consolidated Notes to FS at year-end and henceforth, prepare the same.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No analysis of Government Equity Account. | The Management was unable to address the issue."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommend that the Municipal Mayor:\nRequire the Inventory Committee to conduct physical count of the LGU’s PPE annually and reconcile the same with the recorded PPE in the books;\nInstruct the Inventory Committee to prepare and submit in a prescribed format a complete and accurate report of RPCPPE for the current year to the Municipal Accountant and the Commission on Audit (COA) before January 31 of the succeeding year;\nIn coordination with the Municipal Engineering’s Office, require the Inventory Committee to conduct a physical count and assessment of all public infrastructure assets of the LGU and reconcile with the records in the books; and\nDirect the Municipal Accountant to recognize depreciation expense for all PPEs annually.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor:\nMaximize the utilization of 20 per cent LDF in attaining desirable socio-economic development and environmental management outcomes for the benefit of the community; and\nEnsure that all development projects to be funded out of the 20 per cent LDF are well-planned and procurement-and-implementation-ready by continue pursuing improved practices in planning, programming and implementing programs and projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "We recommended that the LDRRMO:\nEvaluate the unutilized balances of the current year’s five per cent LDRRMF, continuing LDRRMF, and the unexpended LDRRMF transferred to the Trust Fund books;\nAnticipate and promptly address issues and concerns affecting the efficient and effective implementation of LDRRM PPAs to avoid delays or non-implementation;\nMaximize LDRRMF utilization focusing on PPAs requiring the highest priority in terms of urgency and/or impact on the four thematic areas of Disaster Risk Reduction and Management and consider the needs of the time, such as the COVID-19 emergency; and\nEnsure efficient and effective implementation of all programmed and reprogrammed projects during the budget year to optimize the fund’s utilization and warrant that goals and objectives of reducing disaster risk and enhancing disaster preparedness and response capabilities be achieved.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Treasurer ensure that all on hand accountable forms be included in the Consolidated RAAF and submit to it to the Audit Team not later than the fifth day of the ensuing month for verification. Also, establish internal control to ensure proper maintenance of logbook, such that series of accountable forms are arranged sequentially, adequate notation to reflect transfers of accountable forms from one fund to another, and regular recording of actual issuance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Administrator prepare and submit the Monthly Report of Official Travels and the Monthly Report of Fuel Consumption to the Office of the Auditor in compliance with COA Circular Nos. 75-6 and 77-61, to facilitate review and evaluation of the reasonableness of fuel consumption. Likewise, ensure that DTTs submitted are duly accomplished before submission or attaching them to disbursement vouchers.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor cause the refund of ₱1,060,000.00 relative to the payment of Extra Christmas Bonus to its officials and employees.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Accountant:\nDiscontinue the practice of paying in advance the Mid-Year Bonus, Year-End Bonus and Cash Gift; and\nStrictly comply with BCs issued by DBM on Guidelines on the Grant of said personnel benefits particularly the qualification of government personnel.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-OBS8",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Engineer and the Property Officer:\nSubmit immediately the request for technical inspection and relevant documents of all completed infrastructure projects, and delivered and accepted goods for the CY 2021; and\nEnsure to notify the Audit Team of the time and date of the scheduled deliveries, request for technical inspection, and submit a copy of report of inspection and supporting documents in consonance with the attached checklist under Annexes “A” to “T” of COA Circular No. 2009-001.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-OBS9",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Accountant ensure closure of the Construction in Progress account to the appropriate asset account as soon as the project is completed.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-OBS10",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor:\nAssign a General Service Officer or Supply Officer that will handle the receipt, recording, issuance and overall management of all the LGU’s supplies and inventories.\nProvide storage space for centralized custody of supplies;\nRequire the Inventory Committee of LGU-San Lorenzo Ruiz to conduct physical inventory taking of Supplies Inventory semi-annually as required under the existing rules and regulations; and\nInstruct the Municipal Accountant to reconcile the Inventory Accounts per books with the actual supplies inventory at hand and present fairly the Inventory Accounts in the Financial Statements as of year-end.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-OBS11",
+      "year": 2021,
+      "recommendation": "We recommended that Management monitor the status of transferred funds to identify unutilized balances of completed PPAs and comply with COA Circular No. 94-013 on the return of the unexpended balances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-OBS12",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended the Management to:\nEnsure that all grants of financial assistance are supported with the required documentary requirements prior to processing and releasing thereof;\nEstablish a clear-cut guidelines, policies and procedures on the selection and grant of cash assistance aligned with the Department of Social Welfare and Development (DSWD) Memorandum Circular (MC) No. 11, Series of 20; and\nStop the practice of payment on a reimbursement basis.",
+      "managementAction": "Management agreed and promised to comply with the recommendation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some payments were still not supported with complete documentation.\n\nNo action taken by the Management.\n\nThere are still payment made thru reimbursement basis."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended the Management to uniformly apply the daily rate of ₱500 per qualified personnel and settle the unpaid portion, resulted from the misapplied lower rates, of COVID-19 Hazard Pay in line with the provisions of Department of Budget and Management (DBM) Budget Circular (BC) No. 2020-1, otherwise, such payments could be considered as irregular expenditures.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended the Management to fully implement the unfinished developmental projects targeted under the 20 DF in order to achieve the social, economic and environmental outcomes essential in the attainment of the constitutional objective of a desired quality of life for.",
+      "managementAction": "Management agreed and promised to comply with the recommendation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reiterated in CY 2021."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended the Management the strict compliance with rules set forth by Republic Act (RA) No. 9184, to:\n\nEnsure that the procurement procedures are religiously followed;\n\nUse non-discretionary pass/fail criteria especially during bid evaluation and/or opening of bids;\nSecure performance securities from the winning bidder before signing of contract;\nExert extra caution or close watch with the details of performance securities, surety bonds and other documents, particularly, its validity;\n\nDirect the BAC to require the concerned Contractors to submit an irrevocable standby letters of credit of from a commercial bank, bank guarantees or surety bonds callable on demand equivalent to the retention money of 10 per cent of the 50 per cent of the value of works and furnish the Auditor a copy thereof and require the Municipal Accountant to deduct retention money of 10 per cent from every progress payment until 50 per cent of the value of works, as determined by the procuring entity, are completed.  If, after 50 per cent completion, the work is satisfactorily done and on schedule, no additional retention shall be made; otherwise, the 10 per cent retention shall be imposed.\nInstruct the Municipal Engineer to submit suspension orders or any documents that would warrant the non-imposition of liquidated damages to the concerned contractor to the Office of the Municipal Accountant copy furnished the Audit Team, if any. Otherwise, direct the Municipal Accountant to compute the liquidated damages for the above-mentioned project;\nMaximize the conduct of Pre-bid Conference to minimize the chances or possibilities of bidders’ disqualification due to non-compliance with the bidding requirements; \nRequire the Municipal Engineer and/or Project Inspector or any employee of the agency mandated to supervise the implementation of the infrastructure projects of the agency to submit to the Audit Team copies of the Results of Test Analysis/Status of Quality Control Test or Quality program being implemented by the Municipality; and \nDirect the BAC to invite the observers on the procurement stage or activity within the prescribed period.",
+      "managementAction": "Management agreed and promised to comply with the recommendation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reiterated in CY 2021."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended the Management to:\n\nRequire the BAC to properly plan and document each procurement; and\nAdhere to the procedures laid down by RA No. 9184 for each mode of procurement.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended the Management to strictly comply with the provisions of the Revised Implemented Rules and Regulations (R-IRR) of RA No. 9184 in the procurement of goods, particularly on the prohibition of reference to brand names.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommended the Management to:\n\nInstruct the BAC to encourage and require the suppliers to indicate in their quotation the complete and specific technical specification, particularly the brand of items offered in the bid in compliance with COA Circular No. 2009-001; and\nFurnish the Audit Team a consolidated file of recurring documents from supplier during procurement such as Mayor’s permit, etc., if any, which was found lacking as discussed in the observation.",
+      "managementAction": "Management agreed and promised to comply with the recommendation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reiterated in CY 2021."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "We recommended that the Management require the Accountable Officers (AO) to liquidate and/or refund of the total amount of ₱356,643, otherwise, suspend the payment of salaries due them until such time that these cash advances are already liquidated or settled. We likewise recommended that Management refrain from granting additional cash advances unless previous ones are first settled and fully accounted for and adopt controlling accounts to ensure that cash advances are promptly liquidated.",
+      "managementAction": "The Treasurer’s Office instructed the Disbursing Officer for the liquidation of cash advances within the prescribed period based from Local Treasury Operations Manual and return the unclaimed amount to respective account by issuing Official Receipt. \n\nThe office already implemented the “no additional cash advance should be done unless previous ones are just settled and fully accounted” policy.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There are still unliquidated cash advances totaling ₱137,831 as of December 31, 2021."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-PY15",
+      "year": 2021,
+      "recommendation": "We recommended that the Local Chief Executive (LCE) require the Municipal Solid Waste Management Board (MSWMB) to prioritize the preparation of the 10-year SWMP as required under Section 16 of RA No. 9003. We further recommended that the said plan be properly implemented to ensure the efficient management of solid waste generated within its jurisdiction.",
+      "managementAction": "To comply with the recommendations of DENR-EMB V and to allocate funds for the conduct of WACS.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "As per the recommendation, the Management had already formulated the Draft of the 10-year SWMP and has also submitted it to the Department of Environment and Natural Resources (DENR), specifically the Environmental Management Bureau (EMB)-V, hence there are some recommendations from the Regional Office which is currently on-going, the other thing is the need to conduct a Waste Analysis and Characterization (WACS) for the said plan to actually start the said activity. No allocated funds for the conduct of WACS."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte_aar2021-PY16",
+      "year": 2021,
+      "recommendation": "We recommended that the Management:\n\nGive preferential attention on ensuring that prior to the bidding of infrastructure projects, see to it that site inspection were conducted; ascertain that the projects sites are covered by Torrens Title/TCT duly issued by the Registered of Deeds;\n\nRequire the four barangay beneficiaries of Day Care Centers and Crisis Center for Women and Children Building accomplish Turn-Over and Acceptance Report from the Municipal Government to the Barangay Council; and\n\nSee to it that all government infrastructure projects are constructed in land covered with Torrens Title/TCT duly issued by the Register of Deeds.",
+      "managementAction": "The Management shall pursue the titling of real properties to establish the ownership by the LGU pursuant to the newly enacted laws. And that they will provide appropriation to cover expenses from surveying to issuance of title in the name of the LGU. \nThe LGU shall revisit the Memorandum of Agreement (MOA) entered by the LCE with the DENR for the implementation of Public Land Titling and the Municipal Mayor shall execute Executive Order (EO) for the Technical Working Group (TWG) who will be responsible for the implementation of the program.\n\nManagement promised to comply with the recommendation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Management commented that they are still in the process of researching and validating the title owner.\n\nThe Management was unable to address the issue.\n\nThe Management was unable to address the issue."
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommended that Management require the Municipal Accountant and the Municipal Treasurer to maintain complete records, property ledger cards and stock cards, respectively, and prioritize the review and reconciliation of those records to come up with reconciled balances of PPE accounts.",
+      "managementAction": "The Management was unable to address the issue.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in CY 2020."
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommended that Management intensify collection activities against these delinquent real property owners, giving them final grace period after which to initiate appropriate remedies such as administrative action through levy on real property or by judicial action.",
+      "managementAction": "The Management was unable to address the issue.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Due to Corona Virus Disease-19 (COVID-19) restrictions."
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-PY9",
+      "year": 2020,
+      "recommendation": "We recommended that Management take the following courses of action:\n\nRequire the BAC to strictly adhere with the provision of the 2016 IRR of R.A. No. 9184; and\n\nDirect the BAC to require the concerned Contractors to provide its performance bonds indicating the expiration dates and furnish the Auditor a copy thereof.",
+      "managementAction": "The Management was unable to address the issue.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in CY 2020."
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-PY10",
+      "year": 2020,
+      "recommendation": "We recommended that Management take the following courses of action:\n\nSubmit comment on why the projects were recommended for award upon opening of bids and prior to bid evaluation and post-qualification;\n\nSubmit valid justification on why the pre-bid conference was conducted not in accordance with the above mentioned act;\n\nSubmit valid justification on why the Construction Safety and Health Program approved by the DOLE was not part of the contract documents; and\n\nRequire the BAC to strictly adhere with the provision of the 2016 R-IRR of R.A. No. 9184.",
+      "managementAction": "The Management was unable to address the issue.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in CY 2020."
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-PY12",
+      "year": 2020,
+      "recommendation": "We recommended that Management take the following courses of action:\n\nDirect the BAC to require the concerned Contractors to renew/extend its performance bond if necessary and provide performance bond and/ or  supplementary security with validity period, and furnish the Auditor a copy thereof; and\n\nRequire the BAC and Municipal Engineering Office (MEO) to designate personnel to monitor the implementation of infrastructure projects to ensure that the contractors are informed and required to renew their performance securities before its expiration and check the contents of the insurance contract being entered into.",
+      "managementAction": "The Management was unable to address the issue.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in CY 2020."
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-PY14",
+      "year": 2020,
+      "recommendation": "We recommended that Management require the Municipal Engineer to implement a sound and effective monitoring system in place to ensure contractor’s compliance of the requirements of Section 62 of the 2016 R-IRR of R.A. No. 9184, in order to ensure that the procuring entity will be reimbursed of its expenses in the restoration or reconstruction works in case of Structural Defects/Failure occurring during the applicable warranty period.",
+      "managementAction": "The Management was unable to address the issue.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in CY 2020."
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-PY16",
+      "year": 2020,
+      "recommendation": "We recommended that Management direct the Municipal Accountant to prepare an Analysis of the Government Equity Account as supporting disclosures in the CY 2018 Consolidated Notes to FS at year-end and henceforth, prepare the same.",
+      "managementAction": "The Management was unable to address the issue.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No analysis of Government Equity Account."
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended the Management to:\nRequire the Inventory Committee to conduct physical count of the LGU’s PPE annually;\nPrepare and submit in a prescribed format a complete and accurate reports of RPCPPE for the current year to the Municipal Accountant and the Commission on Audit (COA) before January 31 of the succeeding year; and\nReconcile the physical count of the PPE with book records and make necessary adjustments.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended the Management to:\nEnsure that the Government Equity amounting ₱199,653 as well as PPEs amounting ₱4.24 million recorded in the TF are evaluated and transferred to its rightful accounts; and\nHenceforth, avoid using Government Equity Account and completed PPE accounts (if used for general operations of the LGU) in the TF.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended the Management to:\nEnsure that all grants of financial assistance are supported with the required documentary requirements prior to processing and releasing thereof;\nEstablish a clear-cut guidelines, policies and procedures on the selection and grant of cash assistance aligned with the DSWD MC No. 11, Series of 20; and\nStop the practice of payment on a reimbursement basis.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommended the Management to uniformly apply the daily rate of ₱500 per qualified personnel and settle the unpaid portion, resulting from the misapplied lower rates, of COVID-19 Hazard Pay in line with the provisions of Department of Budget and Management (DBM) BC No. 2020-1, otherwise, such payments could be considered as irregular expenditures.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We recommended the Management to fully implement the unfinished developmental projects targeted under the 20 DF in order to achieve the social, economic and environmental outcomes essential in the attainment of the constitutional objective of a desired quality of life for.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended the Management, in strict compliance with rules set forth by R.A. No. 9184, to:\nEnsure that the procurement procedures are religiously followed;\nUse non-discretionary pass/fail criteria especially during bid evaluation and/or opening of bids;\nSecure performance securities from the winning bidder before signing of contract;\nExert extra caution or close watch with the details of performance securities, surety bonds and other documents, particularly, its validity;\nDirect the BAC to require the concerned Contractors to submit an irrevocable standby letters of credit of from a commercial bank, bank guarantees or surety bonds callable on demand equivalent to the retention money of 10 per cent of the 50 per cent of the value of works and furnish the Auditor a copy thereof and require the Municipal Accountant to deduct retention money of 10 per cent from every progress payment until 50 per cent of the value of works, as determined by the procuring entity, are completed.  If, after 50 per cent completion, the work is satisfactorily done and on schedule, no additional retention shall be made; otherwise, the 10 per cent retention shall be imposed.\nInstruct the Municipal Engineer to submit suspension orders or any documents that would warrant the non-imposition of liquidated damages to the concerned contractor to the Office of the Municipal Accountant copy furnished the Audit Team, if any. Otherwise, direct the Municipal Accountant to compute the liquidated damages for the above-mentioned project;\nMaximize the conduct of Pre-bid Conference to minimize the chances or possibilities of bidders’ disqualification due to non-compliance with the bidding requirements;\nRequire the Municipal Engineer and/or Project Inspector or any employee of the agency mandated to supervise the implementation of the infrastructure projects of the agency to submit to the Audit Team copies of the Results of Test Analysis/Status of Quality Control Test or Quality program being implemented by the Municipality; and\nDirect the BAC to invite the observers on the procurement stage or activity within the prescribed period.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We recommended the Management to:\nRequire the BAC to properly plan and document each procurement; and\nAdhere to the procedures laid down by R.A. No. 9184 for each mode of procurement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We recommended the Management to strictly comply with the provisions of the R-IRR of R.A. No. 9184 in the procurement of goods, particularly on the prohibition of reference to brand names.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-OBS9",
+      "year": 2020,
+      "recommendation": "We recommended the Management to:\nInstruct the Bids and Awards Committee to encourage and require the suppliers to indicate in their quotation the complete and specific technical specification, particularly the brand of items offered in the bid in compliance with COA Circular No. 2009-001;\nFurnish the Audit Team a consolidated file of recurring documents from supplier during procurement such as Mayor’s permit, etc., if any, which was found lacking as discussed in the observation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended that Management take the following courses of action:\n\nPrepare the adjusting journal entries; and\n\nRequire the concerned Barangay to submit the corresponding fund utilization report for above projects to the Municipal Government of San Lorenzo Ruiz.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended that the Management take the following courses of action:\n\nInstruct the Municipal Planning and Development Coordinator to ensure that all projects chargeable to the 20 per cent DF are in accordance with the guidelines provided for under DBM-DILG JMC No. 2017-1 dated February 22, 2017; and\n\nDirect the Municipal Budget Officer to carefully prepare and review the Annual Budget so that the actual needs of the Municipality are properly allocated in the budget.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended that the Management optimize the utilization of the Mitigation Fund of the Municipality in order not to deprive the constituents of the potential benefits out of disaster preparedness activities of the LGU.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended that the Management instruct the Local Disaster Risk Reduction and Management Office (LDRRMO) to ensure that all projects chargeable to the LDRRMF are in accordance with the guidelines. Likewise, the Annual Budget be carefully prepared and reviewed by the Municipal Budget Officer so that only appropriate disbursements will be charged against the said fund.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended that Management direct the Bids and Awards Committee (BAC) to submit promptly all contracts with their supporting documents to the Audit Team for review within five days from perfection thereof in compliance with existing regulations. Likewise, request for technical inspection for completed projects must be submitted to the COA.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended that Management advise the BAC/BAC-Technical Working Group (TWG) to thoroughly verify, validate and ascertain that all the statements and documents submitted by the bidder with Lowest Calculated Bid including the entries made to determine and ensure the technical and operational competence of the winning contractors during the post-qualification evaluation.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-PY11",
+      "year": 2020,
+      "recommendation": "We recommended that Management take the following courses of action:\n\nDirect the  BAC to require the concerned Contractors to submit an irrevocable standby letters of credit of from a commercial bank, bank guarantees or surety bonds callable on demand equivalent to the retention money of 10 per cent of the 50 per cent of the value of works and furnish the Auditor a copy thereof; and\n\nRequire the Municipal Accountant to deduct retention money of 10 per cent from every progress payment until 50 per cent of the value of works, as determined by the procuring entity, are completed.  If, after 50 per cent completion, the work is satisfactorily done and on schedule, no additional retention shall be made; otherwise, the 10 per cent retention shall be imposed.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-PY13",
+      "year": 2020,
+      "recommendation": "We recommended that the Management require the Accountable Officers (AO) to liquidate and/or refund of the total amount of ₱356,643, otherwise, suspend the payment of salaries due them until such time that these cash advances are already liquidated or settled. We likewise recommended that Management refrain from granting additional cash advances unless previous ones are first settled and fully accounted for and adopt controlling accounts to ensure that cash advances are promptly liquidated.",
+      "managementAction": "The Treasurer’s Office instructed the Disbursing Officer for the liquidation of cash advances within the prescribed period based from Local Treasury Operations Manual and return the unclaimed amount to respective account by issuing Official Receipt. \n\nThe office already implemented the “no additional cash advance should be done unless previous ones are just settled and fully accounted” policy.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There are still unliquidated cash advances totaling ₱137,831 as of December 31, 2020."
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-PY15",
+      "year": 2020,
+      "recommendation": "We recommended that the Management instruct the Municipal Accountant to revert back to LDRRMF in the TF the amount of ₱0.580 million. Likewise, the remaining balance of the completed Capital Outlay Local Disaster Risk Reduction Management (CO LDRRM) projects in the GF be transferred also to LDRRMF in the TF.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-PY17",
+      "year": 2020,
+      "recommendation": "We recommended that the Management require the Municipal Accountant to submit immediately the required monthly BRS, otherwise suspend the payment of salaries due to him until such time that these are completely submitted in accordance with COA Circular No. 96-011.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-PY18",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Chief Executive (LCE) require the Municipal Solid Waste Management Board (MSWMB) to prioritize the preparation of the 10-year SWMP as required under Section 16 of R.A. No. 9003. We further recommended that the said plan be properly implemented to ensure the efficient management of solid waste generated within its jurisdiction.",
+      "managementAction": "To comply with the recommendations of DENR-EMB V and to allocate funds for the conduct of WACS.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "As per the recommendation, the Management had already formulated the Draft of the 10-year SWMP and has also submitted it to the Department of Environment and Natural Resources (DENR), specifically the Environmental Management Bureau (EMB)-V, hence there are some recommendations from the Regional Office which is currently on-going, the other thing is the need to conduct a Waste Analysis and Characterization (WACS) for the said plan to actually start the said activity. No allocated funds for the conduct of WACS."
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-PY19",
+      "year": 2020,
+      "recommendation": "We recommended that Management require the Municipal Accountant to furnish the Municipal Treasurer the list of those unwithdrawn outstanding checks before such lapse the six month period to facilitate the distribution of reminders/notices to the concerned payees, thus preventing the incurrence as well as the accumulation of stale checks in the BRS. Likewise, require the Municipal Accountant to effect the necessary adjustments in accordance with the above-mentioned regulations.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Camarines-Norte__SanLorenzoRuiz_CamNorte-2020-PY20",
+      "year": 2020,
+      "recommendation": "We recommended that the Management:\n\nGive preferential attention on ensuring that prior to the bidding of infrastructure projects, see to it that site inspection were conducted; ascertain that the projects sites are covered by Torrens Title/TCT duly issued by the Registered of Deeds;\n\nRequire the four barangay beneficiaries of Day Care Centers and Crisis Center for Women and Children Building accomplish Turn-Over and Acceptance Report from the Municipal Government to the Barangay Council; and\n\nSee to it that all government infrastructure projects are constructed in land covered with Torrens Title/TCT duly issued by the Register of Deeds.",
+      "managementAction": "The Management commented that they are still in the process of researching and validating the title owner. \n\nThe Management shall pursue the titling of real properties to establish the ownership by the LGU pursuant to the newly enacted laws. And that they will provide appropriation to cover expenses from surveying to issuance of title in the name of the LGU. \nThe LGU shall revisit the Memorandum of Agreement (MOA) entered by the LCE with the Department of Environment National Resources (DENR) for the implementation of Public Land Titling and the Municipal Mayor shall execute Executive Order (EO) for the TWG who will be responsible for the implementation of the program.\n\nManagement promised to comply with the recommendation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended that Management take the following courses of action:\n\nDirect the BAC to require the concerned Contractors to submit an irrevocable standby letters of credit of from a commercial bank, bank guarantees or surety bonds callable on demand equivalent to the retention money of 10 per cent of the 50 per cent of the value of works and furnish the Auditor a copy thereof; and\nRequire the Municipal Accountant to deduct retention money of 10 per cent from every progress payment until 50 per cent of the value of works, as determined by the procuring entity, are completed.  If, after 50 per cent completion, the work is satisfactorily done and on schedule, no additional retention shall be made; otherwise, the 10 per cent retention shall be imposed.",
+      "managementAction": "The Management agreed and promised to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "This deficiencies were still observed in CY 2019 accounts."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended that Management require the Municipal Engineer to implement a sound and effective monitoring system in place to ensure contractor’s compliance of the requirements of Section 62 of the 2016 R-IRR of R.A. No. 9184, in order to ensure that the procuring entity will be reimbursed of its expenses in the restoration or reconstruction works in case of Structural Defects/Failure occurring during the applicable warranty period.",
+      "managementAction": "The Management agreed and promised to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "This deficiencies were still observed in CY 2019 accounts."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended that Management take the following courses of action:\n\nDirect the BAC to require the winner bidders post its performance bond prior to the signing of contract; and\nRequire the BAC and Municipal Engineering Office to designate personnel to monitor the implementation of infrastructure projects and ensure that the performance securities are valid until the issuance of Certificate of Final Acceptance.",
+      "managementAction": "The Management agreed and promised to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "This deficiencies were still observed in CY 2019 accounts."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended that Management should take the following courses of action:\nAdvise the BAC/TWG to thoroughly verify, validate and ascertain that all the statements and documents submitted by the bidder with Lowest Calculated Bid including the entries made to determine and ensure the technical and operational competence of the winning contractors during the post-qualification evaluation; \nSubmit comment on why the projects were still awarded to bidders not compliant with the equipment requirements; and\nImpose administrative sanctions to erring personnel.",
+      "managementAction": "The Management agreed and promised to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "This deficiencies were still observed in CY 2019 accounts."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommended that the Management instruct the Municipal Accountant to revert back to LDRRMF in the TF the amount of ₱0.580 million. Likewise, the remaining balance of the completed Capital Outlay Local Disaster Risk Reduction Management (CO LDRRM) projects in the GF be transferred also to LDRRMF in the TF.",
+      "managementAction": "The Management agreed and promised to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in CY 2019."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-PY9",
+      "year": 2019,
+      "recommendation": "We recommended that Management direct the Municipal Accountant to prepare an Analysis of the Government Equity Account as supporting disclosures in the CY 2018 Consolidated Notes to FS at year-end and henceforth, prepare the same.",
+      "managementAction": "The Management agreed and promised to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No analysis of Government Equity Account."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended that Management require the Municipal Accountant and the Municipal Treasurer to maintain complete records, property ledger cards and stock cards, respectively, and prioritize the review and reconciliation of those records to come up with reconciled balances of PPE accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended that Management take the following courses of action:\nUtilize the following journal entries:\nRequire the concerned Barangay to submit the corresponding fund utilization report for above projects to the Municipal Government of San Lorenzo Ruiz.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended that the Management take the following courses of action:\nInstruct the Municipal Planning and Development Coordinator to ensure that all projects chargeable to the 20 per cent DF are in accordance with the guidelines provided for under DBM-DILG JMC No. 2017-1 dated February 22, 2017;\nDirect the Municipal Budget Officer to carefully prepare and review the Annual Budget so that the actual needs of the Municipality are properly allocated in the budget; and\nSubmit valid justification for our review and evaluation why said disbursements should not be disallowed in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended that the Management optimize the utilization of the Mitigation Fund of the Municipality in order not to deprive the constituents of the potential benefits out of disaster preparedness activities of the LGU.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended that the Management instruct the LDRRMO to ensure that all projects chargeable to the LDRRMF are in accordance with the guidelines. Likewise, the Annual Budget be carefully prepared and reviewed by the Municipal Budget Officer so that only appropriate disbursements will be charged against the said fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended that Management intensify collection activities against these delinquent real property owners, giving them final grace period after which to initiate appropriate remedies such as administrative action through levy on real property or by judicial action.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We recommended that Management direct the Bids and Award Committee (BAC) to submit promptly all contracts with their supporting documents to the Audit Team for review within five days from perfection thereof in compliance with existing regulations. Likewise, request for technical inspection for completed projects must be submitted to the COA.\nAny unjustified failure of the officials and employees concerned to comply with the requirements herein imposed shall be subject to the administrative disciplinary action provided in (a) Section 127 of Presidential Decree (P.D.) No. 1445; (b) Section 55, Title I-B, Book V of the Revised Administrative Code of 1987; and (c) Section 11 of R.A. No. 6713.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-OBS8",
+      "year": 2019,
+      "recommendation": "We recommended that Management take the following courses of action:\nSubmit valid justification on why the pre-bid conference was conducted not in accordance with the above mentioned act; and\nImpose administrative sanctions to erring personnel.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-OBS9",
+      "year": 2019,
+      "recommendation": "We recommended that Management take the following courses of action:\nAdvise the BAC/BAC-Technical Working Group (TWG) to thoroughly verify, validate and ascertain that all the statements and documents submitted by the bidder with Lowest Calculated Bid including the entries made to determine and ensure the technical and operational competence of the winning contractors during the post-qualification evaluation;\nSubmit comment on why the projects were still awarded to bidders not compliant with the equipment requirements; and\nImpose administrative sanctions to erring personnel.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-OBS10",
+      "year": 2019,
+      "recommendation": "We recommended that Management take the following courses of action:\nSubmit comment on why the two projects were recommended for award upon opening of bids and prior to bid evaluation and post-qualification;\nRequire the BAC to strictly adhere with the provision of the 2016 IRR of R.A. No. 9184; and\nDirect the BAC to require the concerned Contractors to provide its performance bonds indicating the expiration dates and furnish the Auditor a copy thereof.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-OBS11",
+      "year": 2019,
+      "recommendation": "We recommended that Management take the following courses of action:\nSubmit comment on why the projects were recommended for award upon opening of bids and prior to bid evaluation and post-qualification;\nSubmit valid justification on why the pre-bid conference was conducted not in accordance with the above mentioned act;\nSubmit valid justification on why the Construction Safety and Health Program approved by the DOLE was not part of the contract documents; and\nRequire the BAC to strictly adhere with the provision of the 2016 IRR of R.A. No. 9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-OBS12",
+      "year": 2019,
+      "recommendation": "We recommended that Management take the following courses of action:\nDirect the BAC to require the concerned Contractors to submit an irrevocable standby letters of credit of from a commercial bank, bank guarantees or surety bonds callable on demand equivalent to the retention money of 10 per cent of the 50 per cent of the value of works and furnish the Auditor a copy thereof; and\nRequire the Municipal Accountant to deduct retention money of 10 per cent from every progress payment until 50 per cent of the value of works, as determined by the procuring entity, are completed.  If, after 50 per cent completion, the work is satisfactorily done and on schedule, no additional retention shall be made; otherwise, the 10 per cent retention shall be imposed.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-OBS13",
+      "year": 2019,
+      "recommendation": "We recommended that Management take the following courses of action:\nDirect the BAC to require the concerned Contractors to renew/extend its performance bond if necessary and provide performance bond and/ or  supplementary security with validity period, and furnish the Auditor a copy thereof; and\nRequire the BAC and MEO to designate personnel to monitor the implementation of infrastructure projects to ensure that the contractors are informed and required to renew their performance securities before its expiration and check the contents of the insurance contract being entered into.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended that the Management require the Accountable Officers (AO) to liquidate and/or refund of the total amount of ₱356,642.53, otherwise, suspend the payment of salaries due them until such time that these cash advances are already liquidated or settled. We likewise recommended that Management refrain from granting additional cash advances unless previous ones are first settled and fully accounted for and adopt controlling accounts to ensure that cash advances are promptly liquidated.",
+      "managementAction": "The Treasurer’s Office instructed the Disbursing Officer for the liquidation of cash advances within the prescribed period based from Local Treasury Operations Manual and return the unclaimed amount to respective account by issuing Official Receipt. \n\nThe office already implemented the “no additional cash advance should be done unless previous ones are just settled and fully accounted” policy.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There are still unliquidated cash advances totaling ₱137,830.86 as of December 31, 2019."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-PY2",
+      "year": 2019,
+      "recommendation": "We reiterated the prior year’s audit recommendations that Management take the following courses of action:\n\nRequire the Inventory Team/Municipal Treasurer to prepare and submit in a prescribed format a complete and accurate reports of Report of Physical Count of Inventories (RPCI) and RPCPPE; and\nRequire the Municipal Accountant and the Municipal Treasurer to maintain complete records, property ledger cards and stocks cards, respectively, and intensify review and reconciliation of those records to come up with reconciled balances of inventories and PPE accounts.",
+      "managementAction": "The Management submitted RPCPPE.\n\nThe Management said that the Accounting Office was instructed to maintain Subsidiary Ledgers for PPEs and other accounts where maintaining of ledgers are necessary.\n\nThe Local Chief Executive has issued memorandum for all offices to conduct annual physical count of its property and equipment and consolidated by the Inventory Committee to comply yearly requirements.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The RPCPPE did not tally with the accounting records."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended that Management require the Municipal Engineer and/or Project Inspector or any employee of the agency mandated to supervise the implementation of the infrastructure projects of the agency to submit to the Audit Team copies of the Results of Test Analysis/Status of Quality Control Test or a valid justification for our review and evaluation why the related disbursement transaction shall not be suspended in audit for inability to comply such legal requirements.",
+      "managementAction": "The Management complied with the recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-PY10",
+      "year": 2019,
+      "recommendation": "We recommended that the Management require the Municipal Accountant to submit immediately the required monthly BRS, otherwise suspend the payment of salaries due to him until such time that these are completely submitted in accordance with COA Circular No. 96-011.",
+      "managementAction": "The Municipal Accountant shall verify again the status of Accounts Payable reflected in the schedule and shall apply the adjustment if necessary.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The preparation of BRS is still on-going. \n\nThe Bank Statement prepared by the former in-charge is Cash Book to Bank Statement but it should be Accounting Book to Bank Statement so the preparation of Bank Reconciliation shall be repeated"
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-PY11",
+      "year": 2019,
+      "recommendation": "We recommended that the LCE require the Municipal Solid Waste Management Board (MSWMB) to prioritize the preparation of the 10-year SWMP as required under Section 16 of R.A. No. 9003. We further recommended that the said plan be properly implemented to ensure the efficient management of solid waste generated within its jurisdiction.",
+      "managementAction": "To comply with the recommendations of DENR-EMB V and to allocate funds for the conduct of WACS.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "As per the recommendation, the Management had already formulated the Draft of the 10-year SWMP and has also submitted it to the Department of Environment and Natural Resources (DENR), specifically the Environmental Management Bureau (EMB)-V, hence there are some recommendations from the Regional Office which is currently on-going, the other thing is the need to conduct a Waste Analysis and Characterization (WACS) for the said plan to actually start the said activity. No allocated funds for the conduct of WACS."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-PY12",
+      "year": 2019,
+      "recommendation": "We recommended that the Management direct the Municipal Treasurer, Municipal Accountant and other persons responsible in completing the supporting documents to submit the soonest time to the Auditor’s Office the unsubmitted DVs with complete supporting documents duly signed by concerned personnel and its corresponding journal entry vouchers.",
+      "managementAction": "The Management complied with the recommendations.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-PY13",
+      "year": 2019,
+      "recommendation": "We recommended that Management stop the practice of allowing JO personnel to attend trainings and seminar and claim travelling expenses, to prevent the incurrence of additional maintenance and other operating expenses.",
+      "managementAction": "The Management issued Office order directing all Department Heads to refrain recommending Job Order personnel in attending trainings and seminars and consequently claiming Travel Expenses.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Management commented that due to necessity to acquire knowledge and lack of manpower of Municipal Planning and Development Office (MPDO), we allow some JO personnel to attend trainings/seminars that would be beneficial to LGU."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-PY14",
+      "year": 2019,
+      "recommendation": "We recommended that Management require the Municipal Accountant to furnish the Municipal Treasurer the list of those unwithdrawn outstanding checks before such lapse the six month period to facilitate the distribution of reminders/notices to the concerned payees, thus preventing the incurrence as well as the accumulation of stale checks in the BRS. Likewise, require the Municipal Accountant to effect the necessary adjustments in accordance with the above-mentioned regulations.",
+      "managementAction": "The Municipal Accountant shall verify which of those checks issued in the prior years are stale and necessary adjustment of entries will be made.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The preparation of BRS is still on-going."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-PY15",
+      "year": 2019,
+      "recommendation": "We recommended that the Management direct the Municipal Treasurer to submit the soonest time to the Accounting Office the DVs together with the complete supporting documents and immediately submit the same to the Auditor for review and evaluation of the transactions.",
+      "managementAction": "The Management complied with the recommendations.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-PY16",
+      "year": 2019,
+      "recommendation": "We recommended that the Management:\n\nGive preferential attention on ensuring that prior to the bidding of infrastructure projects, see to it that site inspection were conducted; ascertain that the projects sites are covered by Torrens Title/TCT duly issued by the Registered of Deeds;\n\n\nRequire the four barangay beneficiaries of Day Care Centers and Crisis Center for Women and Children Building accomplish Turn-Over and Acceptance Report from the Municipal Government to the Barangay Council; and\nSee to it that all government infrastructure projects are constructed in land covered with Torrens Title/TCT duly issued by the Register of Deeds.",
+      "managementAction": "The Management shall pursue the titling of real properties to establish the ownership by the LGU pursuant to the newly enacted laws. And that they will provide appropriation to cover expenses from surveying to issuance of title in the name of the LGU. \nThe LGU shall revisit the Memorandum of Agreement (MOA) entered by the LCE with the DENR for the implementation of Public Land Titling and the Municipal Mayor shall execute EO for the TWG who will be responsible for the implementation of the program.\nManagement promised to comply with the recommendation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Management commented that they are still in the process of researching and validating the title owner.\n\nNo action taken by the Management."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2019-PY17",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\n\nRequire the Municipal Treasurer and the Municipal  Accountant to determine the officials who were responsible for the  transactions;\nImpose appropriate sanctions to the officials and personnel determined responsible for the unsubmitted vouchers; and\nImprove the disbursement process by designating specific persons to perform each function in order to pinpoint responsibility.",
+      "managementAction": "The Management complied with the recommendations.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-PY3",
+      "year": 2018,
+      "recommendation": "We reiterated the prior year’s recommendation that Management intensify the collection of RPT and enforce collections from delinquent taxes of previous years so that these will eventually be appropriated for development projects of the Municipality.",
+      "managementAction": ". | The Management promised to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Demand letters are to be sent to the debtors."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-PY4",
+      "year": 2018,
+      "recommendation": "We recommended that the Management observe the schedule for GAD Planning and Budgeting in compliance with the JMC No. 2013-01 to facilitate timely submission to Provincial Planning and Development Office (PPDO) and the subsequent review and approval by the DILG Regional Office No. V.",
+      "managementAction": "The Management promised to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The deficiency was due to change of GAD Focal Person."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-PY6",
+      "year": 2018,
+      "recommendation": "We recommended that:\n\nThe Municipal Treasurer submit to the Accounting Office all the DVs and ORs including the corresponding reports of each month on or before the fifth day of the ensuing month, and\nThe Municipal Accountant strictly comply with the timetable on the submission of accounts as required under the existing laws, rules and regulations.",
+      "managementAction": "The Management was unable to comply with the recommendation.\n\n\nThe Management was unable to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "This observation was reiterated in CY 2018."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommended that the Management direct the Municipal Treasurer, Municipal Accountant and other persons responsible in completing the supporting documents to submit the soonest time to the Auditor’s Office the unsubmitted DVs with complete supporting documents duly signed by concerned personnel and its corresponding journal entry vouchers.",
+      "managementAction": "Municipal Treasurer and Accountant said that they already submitted all DVs for CY 2016 to the Audit Team.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "For verification by the Audit Team."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-PY12",
+      "year": 2018,
+      "recommendation": "We recommended that the Management direct the Municipal Treasurer to submit the soonest time to the Accounting Office the DVs together with the complete supporting documents and immediately submit the same to the Auditor for review and evaluation of the transactions.",
+      "managementAction": "Municipal Treasurer and Accountant said that they already submitted all DVs for CY 2016 to the Audit Team.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "For verification by the Audit Team."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-PY14",
+      "year": 2018,
+      "recommendation": "We recommended that Management:\n\nRequire the Municipal Treasurer and the Municipal  Accountant to determine the officials who were responsible for the  transactions;\nImpose appropriate sanctions to the officials and personnel determined responsible for the unsubmitted vouchers; and\nImprove the disbursement process by designating specific persons to perform each function in order to pinpoint responsibility.",
+      "managementAction": "Municipal Treasurer and Accountant said that they already submitted 43 DVs for CY 2015 to the Audit Team.\n\nManagement promised to comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "For verification by the Audit Team."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended that the Management require the Accountable Officers to liquidate and/or refund of the total amount of ₱356,642.53, otherwise, suspend the payment of salaries due them until such time that these cash advances are already liquidated or settled. We likewise recommended that Management refrain from granting additional cash advances unless previous ones are first settled and fully accounted for and adopt controlling accounts to ensure that cash advances are promptly liquidated.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We reiterated the prior year’s audit recommendations that Management take the following courses of action:\nRequire the Inventory Team/Municipal Treasurer to prepare and submit in a prescribed format a complete and accurate reports of RPCI and RPCPPE; and\nRequire the Municipal Accountant and the Municipal Treasurer to maintain complete records, property ledger cards and stocks cards, respectively, and intensify review and reconciliation of those records to come up with reconciled balances of inventories and PPE accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended that Management take the following courses of action:\nDirect the Bids and Awards Committee (BAC) to require the concerned Contractors to submit an irrevocable standby letters of credit from a commercial bank, bank guarantees or surety bonds callable on demand equivalent to the retention money of 10 per cent of the 50 per cent of the value of works and furnish the Auditor a copy thereof; and\nRequire the Municipal Accountant to deduct retention money of 10 per cent from every progress payment until 50 per cent of the value of works, as determined by the procuring entity, are completed.  If, after 50 per cent completion, the work is satisfactorily done and on schedule, no additional retention shall be made; otherwise, the 10 per cent retention shall be imposed.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended that Management require the Municipal Engineer to implement a sound and effective monitoring system in place to ensure contractor’s compliance of the requirements of Section 62 of the 2016 R-IRR of R.A. No. 9184, in order to ensure that the procuring entity will be reimbursed of its expenses in the restoration or reconstruction works in case of Structural Defects/Failure occurring during the applicable warranty period.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We recommended that Management require the Municipal Engineer and/or Project Inspector or any employee of the agency mandated to supervise the implementation of the infrastructure projects of the agency to submit to the Audit Team copies of the Results of Test Analysis/Status of Quality Control Test or a valid justification for our review and evaluation why the related disbursement transaction shall not be suspended in audit for inability to comply such legal requirements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We recommended that Management take the following courses of action:\nDirect the BAC to require the winner bidders post its performance bond prior to the signing of contract; and\nRequire the BAC and MEO to designate personnel to monitor the implementation of infrastructure projects and ensure that the performance securities are valid until the issuance of Certificate of Final Acceptance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-OBS7",
+      "year": 2018,
+      "recommendation": "We recommended that Management should take the following courses of action:\nAdvise the BAC/BAC-Technical Working Group (TWG) to thoroughly verify, validate and ascertain that all the statements and documents submitted by the bidder with Lowest Calculated Bid including the entries made to determine and ensure the technical and operational competence of the winning contractors during the post-qualification evaluation;\nSubmit comment on why the projects were still awarded to bidders not compliant with the equipment requirements; and\nImpose administrative sanctions to erring personnel.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-OBS8",
+      "year": 2018,
+      "recommendation": "We recommended that the Management advise the members of the Local School Board in the preparation of School Board budget to give priority to programs, activities and projects enumerated in Section No. 272 of the R.A. No. 7160 and DepEd, DBM & DILG JC No. 1 s. 2017 and therefore must utilize the proceeds of the SEF only for such purposes prescribed by law.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-OBS9",
+      "year": 2018,
+      "recommendation": "We recommended that the Management instruct the Municipal Accountant to revert back to LDRRMF in the TF the amount of ₱0.580 million. Likewise, the remaining balance of the completed CO MDRRM projects in the GF be transferred also to LDRRMF in the TF.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-OBS10",
+      "year": 2018,
+      "recommendation": "We recommended that Management direct the Municipal Accountant to prepare an Analysis of the Government Equity Account as supporting disclosures in the CY 2018 Consolidated Notes to FS at year-end and henceforth, prepare the same.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-OBS11",
+      "year": 2018,
+      "recommendation": "We recommended that Management require the concerned officials to:\nProvide justification on the delayed submission of CY 2018 monthly accounts of the Municipality; and\nStrictly comply with the timelines on the recording and submission of accounts to the Auditor, within the first 10 days of the ensuing month, as required by the abovementioned existing law, rules and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommended that the Management require the Municipal Accountant to submit immediately the required monthly BRS, otherwise suspend the payment of salaries due to him until such time that these are completely submitted in accordance with COA Circular No. 96-011.",
+      "managementAction": "The Municipal Accountant commented that he already prepared BRS for some bank accounts and promised to comply in CY 2019.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The preparation of all BRS is still on-going."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommended that the Management exert effort to complete the implementation of the programs and projects under the 20 per cent DF within the year to achieve the social, economic and environmental outcomes essential in the attainment of the constitutional objective of a desired quality of life for all.",
+      "managementAction": "The Management commented the 16 projects and four projects were not yet implemented and added that projects downloaded from National Government Agencies (NGAs) were prioritized.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Management reasoned out that the construction of sanitary landfill was not implemented due to the delayed land assessment by Mines and Geosciences Bureau if said land is qualified or not."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommended that the LCE require the Municipal Solid Waste Management Board (MSWMB) to prioritize the preparation of the 10-year SWMP as required under Section 16 of R.A. No. 9003. We further recommended that the said plan be properly implemented to ensure the efficient management of solid waste generated within its jurisdiction.",
+      "managementAction": "The Management has the drafted SWMP.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The drafted SWMP is subject to revision according to the Management."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommended that the Management strictly follow the provisions of GPPB Resolution No. 09-2009 dated November 23, 2009 as well as the 2016 IRR of R.A. No. 9184.",
+      "managementAction": "The Management is now complying with the recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-PY9",
+      "year": 2018,
+      "recommendation": "We recommended that the Management stop the practice of disbursing various expenses without fully verifying  completeness of required signatures of authorized officers in the Obligation Request (OBR) and DV. The Municipal Treasurer should verify the transactions if it is duly signed by the concerned Head of Unit and approved by the LCE before the payment or issuance of checks be made. Likewise, the DVs should be properly acknowledged for the receipt of payment with the date indicated and with printed name and signature of the Payee.",
+      "managementAction": "The Management is now complying with the recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-PY10",
+      "year": 2018,
+      "recommendation": "We recommended that Management stop the practice of allowing JO personnel to attend trainings and seminar and claim travelling expenses, to prevent the incurrence of additional maintenance and other operating expenses.",
+      "managementAction": "The Management issued Office order with regards to this observation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Management commented that due to necessity to acquire knowledge and lack of manpower of MPDO, we allow some Job Order personnel to attend trainings/seminars that would be beneficial to LGU."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-PY11",
+      "year": 2018,
+      "recommendation": "We recommended that Management require the Municipal Accountant to furnish the Municipal Treasurer the list of those unwithdrawn outstanding checks before such lapse the six month period to facilitate the distribution of reminders/notices to the concerned payees, thus preventing the incurrence as well as the accumulation of stale checks in the BRS. Likewise, require the Municipal Accountant to effect the necessary adjustments in accordance with the above-mentioned regulations.",
+      "managementAction": "The Municipal Accountant commented that he already prepared BRS for some bank accounts and promised to comply in CY 2019.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The preparation of all BRS is still on-going."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-PY13",
+      "year": 2018,
+      "recommendation": "We recommended that the Management:\n\nGive preferential attention on ensuring that prior to the bidding of infrastructure projects, see to it that site inspection were conducted; ascertain that the projects sites are covered by Torrens Title/TCT duly issued by the Registered of Deeds;\nRequire the four barangay beneficiaries of Day Care Centers and Crisis Center for Women and Children Building accomplish Turn-Over and Acceptance Report from the Municipal Government to the Barangay Council; and\nSee to it that all government infrastructure projects are constructed in land covered with Torrens Title/TCT duly issued by the Register of Deeds.",
+      "managementAction": "The Management commented that they are still in the process of validating the title owner. \n\n\nNo action taken by the Management. \n\n\n\n-do- | The Management commented that they will provide appropriation to cover expenses from surveying to issuance of title in the name of the LGU. \n\nManagement promised to comply with the recommendation.\n\n\n\n\n-do-",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-PY15",
+      "year": 2018,
+      "recommendation": "We recommended the following courses of action:\n\nInstruct all concerned LGU officials and employees to make immediate liquidation/settlement of their cash advances in accordance with COA Circular Nos. 97-002 and 2012-004;\n\nAppropriate administrative proceedings shall likewise be instituted; and\n\n\n\n\n\nCause the filing of malversation charge against the Accountable Officer (AO) for inability to liquidate his outstanding cash advance under Article 218 of the Revised Penal Code (RPC) or criminal prosecution under Section 128 of P.D.  No. 1445.",
+      "managementAction": "The Municipal Accountant informed that there were partial liquidations made by concerned officials and employees since 2015.\n\nThe Management said that the Former Mayor has no liquidation but there is authorization to deduct from his terminal leave benefit the unliquidated cash advances and disallowances. Like-wise, they added that they sent demand letters to the Former Municipal Treasurer.\n\n-do-",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There are still unliquidated cash advances as of December 31, 2018. Reiterated in CY 2018."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2018-PY16",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Accountant reclassify the balances under the Other Deferred Credits (455) in the amount of ₱1.35 million to Income from Waterworks System (639) and effect the necessary adjustments in the books.",
+      "managementAction": "The Municipal Accountant informed of the on-going compliance.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reclassifying is still on process."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-PY2",
+      "year": 2017,
+      "recommendation": "We recommended that\nManagement require the\nMunicipal Accountant to furnish\nthe Municipal Treasurer the list of\nthose unwithdrawn outstanding\nchecks before such lapse the six\nmonth period to facilitate the\n\n__distribution of reminders/notices\n\nto the concerned payees, thus\npreventing the incurrence as well\nas the accumulation of stale\nchecks in the BRS. Likewise,\nrequire the Municipal Accountant\nto  effect the  necessary\nadjustments in accordance with\nthe above-mentioned regulations.",
+      "managementAction": "The Municipal\nAccountant  informed\nthat the recommendation\nis now for\nimplementation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No action taken by the\nManagement."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-PY5",
+      "year": 2017,
+      "recommendation": "We recommended that\n\nManagement direct the BAC to\nsubmit promptly all contracts with\ntheir supporting documents to the\nAudit Team for review within five\n\ndays from perfection thereof in\ncompliance with existing\nregulations. Likewise, request for\ntechnical inspection for completed\nprojects must be submitted to the\nCOA.",
+      "managementAction": "The Management\npromised fo comply\nwith the\nrecommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Observation was\nreiterated in CY 2017."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommended that the Management require the Municipal Accountant to\nsubmit immediately the required monthly BRS, otherwise suspend the payment of\nsalaries due to him until such time that these are completely submitted in accordance\nwith COA Circular No. 96-011.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommended that the Management exert effort to complete the\nmplementation of the programs and projects under the 20 per cent Development\nund within the year to achieve the social, economic and environmental outcomes\nsential in the attainment of the constitutional objective of a desired quality of life\nfor all.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor require the Inventory\n‘Team/Municipal Treasurer to prepare and submit in a prescribed format a complete\nand accurate report and reconcile the said report with the Accounting records.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We reiterated the prior year’s recommendation that Management intensify\nthe collection of RPT and enforce collections from delinquent taxes of previous years\nso that these will eventually be appropriated for development projects of the\nMunicipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommended that the Management observe the schedule for GAD\n\n(Planning and Budgeting in compliance with the JMC No. 2013-01 to facilitate timely\n\nubmission to PPDO and the subsequent review and approval by the DILG Regional\noffice No. V.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We recommended that the LCE require the Municipal Solid Waste\nManagement Board ‘to prioritize the preparation of the 10-year SWMP as required\nunder Section 16 of R.A. No. 9003. We further recommended that the said plan be\nproperly implementqd to ensure the efficient management of solid waste generated\nwithin its jurisdiction.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-OBS7",
+      "year": 2017,
+      "recommendation": "We recommended that:\n\na. The Municipal Treasurer submit to the Accounting Office all the DVs and\nORs including the corresponding reports of each month on or before the\nfifth day of the ensuing month, and\n\nb. The Municipal Accountant strictly comply with the timetable on the\nsubmission of accounts as required under the existing laws, rules and\nregulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-OBS8",
+      "year": 2017,
+      "recommendation": "We recommended that the Management:\n\na. Direct the Municipal Treasurer, Municipal Accountant and other persons\nresponsible in completing the supporting documents to submit the soonest\ntime to the Auditor’s Office the unsubmitted disbursement vouchers with\ncomplete supporting documents duly signed by concerned personnel and\nits corresponding journal entry vouchers; and\n\nb. Ensure that the required reports and accounts with complete supporting\ndocuments are submitted within the prescribed period.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-OBS9",
+      "year": 2017,
+      "recommendation": "We recommended that the Management strictly follow the provisions of GPPB\nesolution No. 09-2009 dated November 23, 2009 as well as the Revised 2016\nmplementing Rules and Regulations (IRR) of R.A. No. 9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-OBS10",
+      "year": 2017,
+      "recommendation": "We recommended that the Management stop the practice of disbursing\nvarious expenses without prior approval and certifications by the authorized officers\nin the OBR and DV. The Municipal Treasurer should verify the transactions if it is\nduly signed by the concerned Head of Unit and approved by the LCE before the\npayment or issuance of checks be made. Likewise, the DVs should be properly\nacknowledged for the receipt of payment with the date indicated and with printed\nname and signature of the Payee.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-OBS11",
+      "year": 2017,
+      "recommendation": "We recomme:nded that Management stop the practice of allowing JO\npersonnel to attend trainings and seminar and claim travelling expenses, to prevent\nthe incurrence of additional maintenance and other operating expenses.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-OBS12",
+      "year": 2017,
+      "recommendation": "We reiterated the prior year’s recommendation that Management direct the\nBAC to submit promptly all contracts with their supporting documents to the Audit\nTeam for review within five days from perfection thereof in compliance with existing\nregulations. Likewise, request for technical inspection for completed projects must be\nsubmitted to the COA.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-PY1",
+      "year": 2017,
+      "recommendation": "We recommended that the |\nManagement require the |\nAccounting Office to verify the |\nrecording in the GL and SL and |\n\nreconcile their balances regularly\nor at the end of each month.",
+      "managementAction": "Complied with the\nrecommendation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-PY3",
+      "year": 2017,
+      "recommendation": "We recommended that\nManagement  intensify  the\ncollection of RP/SE Taxes and\nenforce collections from\ndelinquent tax payors of prior year\nso that these will eventually be\nappropriated for development\nprojects of the Municipality.",
+      "managementAction": "The Treasurer’s Office\nlearned that some land\nowners under the CARP\nProgram already\nsubdivided the land\nwithout informing the\n\nproper authorities, hence,\n\nThe staff of the\nTreasurer’s Office\nexplained all the efforts\nthey exerted to reach out\ndelinquent tax payers\neven in far plunged\n\nBarangays to deliver the\ncollections of taxes\n\nDelinquency Notices\nand informed its tax\naccountabilities.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-PY4",
+      "year": 2017,
+      "recommendation": "We recommended that the\n\nManagement:\n\ne Direct the Municipal\nTreasurer to submit the\nsoonest time to  the\nAccounting Office the DVs\n\ntogether with the complete\nsupporting documents and\nimmediately submit the same\nto the Auditor for review and\nevaluation of the transactions;\nand\n\nEnsure that the required\nreports and accounts with\ncomplete supporting\ndocuments are submitted by\nthe Bookkeeper and submit the\nsame to the Auditor within 10\ndays of the ensuing month for\nthe timely review.",
+      "managementAction": "The Municipal\nAccountant  informed\nthat the 23 DVs were\nalready submitted and\nwith transmittal letter to\nthe Audit Team.\n\nThe Management\npromised to comply\nwith the\nrecommendation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There are still\nunsubmitted DVs during\nCY 2017."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-PY6",
+      "year": 2017,
+      "recommendation": "We recommended the\n\nManagement:\n\n* Give preferential attention on\nensuring that prior to the\nbidding of infrastructure\nprojects, see to it that site\ninspection were conducted;\nascertain that the projects sites\nare covered by Torrens\nTitle/TCT duly issued by the T\nRegistered of Deeds;\n\ne Require the four barangay\nof Day Care\nCenters and Crisis Center for\nWomen and Children Building\naccomplish Turn-Over and\nAcceptance Report from the\nMunicipal Government to the\nBarangay Council; and\n\ne See to it that all government\ninfrastructure  projects  are\nconstructed in land covered\nwith Torrens Title/TCT duly\nissued by the Register of\nDeeds.",
+      "managementAction": "The Management\nprovided appropriation\nto cover expenses from\nsurveying to issuance of\ntitle in the name of the\nLGU.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "As of this writing, the\nMunicipal Mayor have\nnot yet issue E.O. for the\nTWG who will be\nresponsible  for  the\nimplementation."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-PY7",
+      "year": 2017,
+      "recommendation": "We recommended\nManagement  observed\n\nthe schedule for GAD Planning and\nBudgeting in compliance with the\nJMC No. 2013-01 to facilitate\ntimely submission to PPDO and\nthe subsequent review and\napproval by the DILG Regional\nOffice No. V.",
+      "managementAction": "The Management\nalready submitted the\nGPB to PPDO.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-PY8",
+      "year": 2017,
+      "recommendation": "We recommended that the\nMunicipality ensure that PO are\nduly accomplished particularly\nthe date of delivery before\nsubmission to Audit Team, in\ncompliance with the provisions of\nVolume IT, MNGAS for LGUs, to\nproperly protect the rights of the\nMunicipality in  case  of\nnoncompliance by the Supplier.",
+      "managementAction": "Complied  with  the\nrecommendations.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-PY9",
+      "year": 2017,
+      "recommendation": "We recommended that the LCE\nrequire the Municipal Treasurer to\nstamp “PAID” the disbursement\nvouchers and all their supporting\ndocuments in payment of future\nclaims, thereby safeguarding\ngovernment resources against loss\nor wastage.",
+      "managementAction": "Complied with  the\nrecommendations.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-PY10",
+      "year": 2017,
+      "recommendation": "We recommended that the\nManagement  optimize the\nutilization of the Mitigation Fund\nof the Municipality in order not to\ndeprive the constituents of the\npotential benefits out of disaster\npreparedness. Moreover, the\nManagement should appropriately\nstate  the  programs/projects/\nactivities and give priority to the\nprocure-ment of basic rescue and\nresponse equipment and conduct\nof municipal-wide trainings.",
+      "managementAction": "Complied with the\nrecommendations.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-PY11",
+      "year": 2017,
+      "recommendation": "We recommended\nManagement:\n\ne Require the\n\nofficials responsible\nfor the\ntransactions;\n\n¢ Impose appropriate sanctions\n\nto the officials and personnel\nexposing  government loss or\nthat\n\nMunicipal\nTreasurer and the Municipal\nAccountant to determine the\nwere\n\ndetermined responsible for",
+      "managementAction": "The Management said\nthat the remaining 11\nDVs are for retrieval and\nwill be submitted to the\nAudit Team the soonest\ntime.\n\nTreasury and\nAccounting  Divisions\nsubmitted 43 DVs for\nCY 2015 to the Audit\nTeam, for validation.\n\nManagement promised\nto comply with the\nrecommendation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Management said\nthat the remaining 11\nDVs are for retrieval and\nwill be submitted to the\nAudit Team the soonest\ntime.\n\nNo action taken by the\nManagement."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-PY12",
+      "year": 2017,
+      "recommendation": "We recommended that the agency:\n\no Refrain from granting cash\nadvances to elected officials for\npurposes other than their\ntravelling expenses;\n\no Make a complete liquidation\nof the cash advance; and\n\no Cash advance in excess of the\nactual amount spent for\nfinancial assistance totaling\nP8,500.0 must be returned\nimmediately.",
+      "managementAction": "No action taken by the\nManagement.\n\nThere are still\nunliquidated cash\nadvances.\n\nManagement promised\nto comply with the\nrecommendation.\n\nConcerned officials\nhave partial liquidation\non their cash advances.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-PY13",
+      "year": 2017,
+      "recommendation": "We recommended the following courses of action:\n\no Instruct all concerned LGU officials and employees to make immediate advances. (sic) liquidations in accordance with COA Circular Nos. 97-002 and 2012-004;\n\no Appropriate administrative proceedings shall likewise be instituted; and\n\no Cause the filing of malversation charge against the Accountable Officer (AO) for failure to liquidate his outstanding cash advance under Article 218 of the Revised Penal Code (RPC) or criminal Section 128 of P.D. No. 1445.",
+      "managementAction": "The Municipal\nAccountant  informed\nthat there were partial\nliquidations made by\nconcerned officials and\nemployees since 2015.\n\nNo action taken by the\nManagement.\n\nManagement did not\nmake any comment.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There are still\nunliquidated cash\nadvances."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-PY14",
+      "year": 2017,
+      "recommendation": "We recommended that the\nManagement:\n\ne Require the drivers to\naccomplish  the\nrequired Driver’s Trip Tickets (DTT)\nfor every trip undertaken. State\nthe registered plate number,\ntotal distance travelled, balance\nin tank, fuel issued, gasoline\nused and balance in tank at the\nend of the trip;\n\nPrepare and submit monthly\nreport of official travels per\nvehicle summarizing in\nchronological order his trips for\nthe month;\n\nSubmit the monthly report of\nfuel consumption to the auditor\nfor verification. The report\nmust show among others, the\ntype of motor vehicles utilized\nduring the month, total distance\ntravelled, total fuel used and\nthe normal fuel consumption\nfor each vehicle;\n\nLikewise, all fuel consumption\nfor heavy equipment should be\nsupported with program of\nwork and bill of materials. The\nutilization in hours used should\nbe indicated in the DTT; and\n\nStop the practice of filling-up\nof gasoline to private cars to\navoid disallowance in audit.",
+      "managementAction": "The Management\ninformed that they\nstarted to complete the\ndocumentation of claims\nfor fuel consumption.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Forms/reports were not\nproperly filled up."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-PY15",
+      "year": 2017,
+      "recommendation": "We recommended that the\nMunicipal Mayor, being the\nChairman of the Scholarship\nCommittee, observe and ensure\ncompliance of the provisions of\nMunicipal Ordinance No. 2011-\n001 on the guidelines for the\nscholarship program of the\nMunicipality.",
+      "managementAction": "The Management\nreviewed the guidelines\nand ensure compliance\nof the recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-PY16",
+      "year": 2017,
+      "recommendation": "We recommended that the\nMunicipal Accountant reclassify\nthe balances under the Other\nDeferred Credits (455) in the\namount of P1.35 million to\nIncome from Waterworks System\n(639) and effect the necessary\nadjustments in the books.",
+      "managementAction": "Reclassifying is still on\nprocess.\n\nThe Municipal\nAccountant informed of\nthe on-going\ncompliance.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reclassifying is still on\nprocess."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-PY17",
+      "year": 2017,
+      "recommendation": "We recommended that\nManagement  ensure  proper\ncomputation of RATA in\ncompliance with the provisions of\nLBC No. 13 dated May 15, 2013\nof the DBM. We likewise\nrecommended for the refund of the\nexcessive RATA claimed by the\nVice Mayor and SB Members\ntotaling £52,150.00.",
+      "managementAction": "Complied with the\nrecommendation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2017-PY18",
+      "year": 2017,
+      "recommendation": "We recommended that the\nGeneral Services Section under\n\nthe Office of the Municipal\nTreasurer should maintain a Stock\nCards for supplies, property, plant\nand equipment to be able to\naccount for their receipt and\ndisposition. Likewise, require to\nuse the new form of ARE.",
+      "managementAction": "Complied with the\nrecommendation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We recommended that the Management require the Accounting Office to verify\nthe recording in the general ledger and subsidiary ledger and reconcile their balances\nregularly or at the end of each month.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We recommended that the Management require the Municipal Accountant to\nfurnish the Municipal Treasurer the list of those unwithdrawn/outstanding checks before\nsuch lapse the six month period to facilitate the distribution of reminders/notices to the\nconcerned payees, thus, preventing the incurrence as well as the accumulation of stale\nchecks in the BRS. Likewise, require the Municipal Accountant to effect the necessary\nadjustments in accordance with the abovementioned regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommended that Management intensify the collection of RP/SE Taxes and\nenforce collections from delinquent taxes of prior years so that these will eventually be\nappropriated for development projects of the municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We reiterate the prior year’s audit recommendation that Municipal Mayor\nrequire the Inventory Team/Municipal Treasurer to prepare and submit in a prescribed\nformat a complete and accurate report.\n\nWe also recommended that Management require the Municipal Accountant and\nthe Municipal Treasurer to maintain complete records, property ledger cards and stocks\ncards, respectively, and intensify review and reconciliation of those records to come up\nwith reconciled balances of PIPL accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommended that the Management:\n\na. Direct the Municipal Treasurer to submit the soonest time to the Accounting\nOffice the DVs together with the complete supporting documents and\nimmediately submit the same to the Auditor for review and evaluation of the\nfransactions; and\n\nb. Ensure that the required reports and accounts with complete supporting\ndocuments are submitted by the Municipal Treasurer and immediately record\nin the books of accounts by the Bookkeeper and submit the same fto the\n\nAuditor within ten days of the ensuing month for the timely review.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommended that management direct the Bids and Award Committee (BAC)\nto submit promptly all contracts with their supporting documents to the Audit Team for\nreview within five days from perfection thereof in compliance with existing regulations.\nLikewise, request for technical inspection for completed projects must be submitted to the\nCommission on Audit.\n\nAny unjustified failure of the officials and employees concerned to comply with\nthe requivements herein imposed shall be subject to the administrative disciplinary action\nprovided in (a) Section 127 of Presidential Decree (PD) No. 1443; (b) Section 55, Title I-\nB, Book V of the Revised Administrative Code of 1987; and (c) Section 11 of Republic Act\n(RA) No. 6713.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We recommended that Management:\n\n1. Give preferential attention on ensuring that prior lo the bidding of\ninfrasiructure projects, see lo it that site inspection were conducted; ascertain\nthat the projects sites are covered by Torrens Title/TCT duly issued by the\nRegister of Deeds;\n\n2. Regquire the four barangay beneficiaries of Day Care Centers and Crisis\nCenter for Women and Children Building accomplish Turn-Over and\nAcceptance Report from the Municipal Government to the Barangay Council;\nand\n\n3. See to it that all government infrastructure projects are constructed in land\ncovered with Torrens Title/Transfer Certificate of Title duly issued by the\nRegister of Deeds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We recommended that the Management observe the schedule for GAD Planning\nand Budgeting in compliance with the JMC No. 2013-01 to facilitate timely submission to\nPPDO and the subsequent review and approval by the DILG Regional Office No. V.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-OBS9",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipality ensure that Purchase Orders are duly\naccomplished particularly the date of delivery before submission to Audit Team, in\ncompliance with the provisions of Volume I, MNGAS for LGUs, to properly protect the\nrights of the Mumicipality in case of noncompliance by the Supplier.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-OBS10",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive require the Municipal Treasurer\nto stamp “PAID” the disbursement vouchers and all their supporting documents after\npayment to avert any attempt to use the same supporting documents in payment of\nfuture claims, thereby safeguarding government resources against loss or wastage.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-OBS11",
+      "year": 2016,
+      "recommendation": "We recommended that the Management optimize the utilization of the Mitigation\nFund of the municipality in order not fo deprive the constituents of the potential benefits\nout of disaster preparedness. Moreover, the management should appropriately state the\nprograms/projects/activities and give priority to the procurement of basic rescue and\nresponse equipment and conduct of municipal-wide trainings.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-PY1",
+      "year": 2016,
+      "recommendation": "We recommended that: 1. The Municipal Treasurer should submit to the Accounting Office all the DVs and ORs including the corresponding reports of each month on or before the fifth day of the ensuing month; and 2. The Municipal Accountant should strictly comply with the timetable on the subrmnission of accounts as required under existing laws, rules and regulations.",
+      "managementAction": "Treasury and Accounting divisions submitted the documents as of 2015 to the audit team for evaluation.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-PY2",
+      "year": 2016,
+      "recommendation": "We recommended that Management: 1. Require the Municipal Treasurer and the Municipal Accountant to determine the officials who were responsible for the transactions; 2. Impose appropriate sanctions to the officials and personnel determined responsible for the unsubmitted vouchers; and 3.Improve the disbursement process by designating specific persons to perform each function in order to pinpoint responsibility.",
+      "managementAction": "Treasury and Accounting divisions eleven submitted three DVs for CY 2015 to the audit team for retrieval and _wlll submit to the audit team the soonest time.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-PY3",
+      "year": 2016,
+      "recommendation": "We recommended that the: 1. Management require the GSO- Designate and Inventory Committee to complete the physical inventory of PPE and to prepare and submit complete and updated report thereon to determine the accuracy and correctness of the year-end balance; 2. Management require the Inventory Committee to conduct a thorough review of the RPCPPE by conducting actual count, validation, verification and inspection of PPE owned by the municipality to establish their existence; 3. Management facilitate the conduct and submission of inventory reports and for the inventory team to easily identify existing assets, it is recommended that all offices/departments be required to submit a list of all properties assigned to them; 4. Municipal Mayor should require the Inventory Committee to expedite the immediate completion of the Year-End Inventory Reports which should be reconciled with the PPE ledger Card maintained by the accounting office and submit the same to the Local Chief Executive and to the audit team. Any discrepancies or unaccounted balances between the Inventory Report and the Property Ledger Cards as well as any limitations encountered should be sufficiently disclosed in the Inventory Reports by the Inventory Committee; and 5. Management ensure that the issuance of PPE has a corresponding Acknowledgement Receipt for Equipment (ARE) duly signed by the responsible officers/end-user who have the custody of the assets. The accountant should maintain the PPE Ledger Card containing the date of acquisition, description, custody, estimated life, and rate of depreciation, disposal and other information about the property, plant and equipment based on the source documents of the transactions.",
+      "managementAction": "Not implemented.",
+      "status": "UNKNOWN",
+      "reason": "This observation was reiterated in CY 2016 AAR, audit observation no. 4."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-PY4",
+      "year": 2016,
+      "recommendation": "We recommended that the management: 1. Require the Municipal Accountant, Property Officers or Municipal Treasurer and other concerned persons to ensure that alt documentary requirement for repairs and maintenance of office equipment and service vehicles of the LGU are complete before disbursement vouchers are paid, and 2. Comply with the Requirements provided under Section 362 of the GAAM, Volume I and Section 4 (6) of PD No. 1445.",
+      "managementAction": "Implementations.",
+      "status": "IMPLEMENTED",
+      "reason": "The LGU is now complying the audit recommendations."
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-PY5",
+      "year": 2016,
+      "recommendation": "We recommended that management: 1. Require the Department Heads to distinguish their GAD related activities especially the Municipal Health Office, Municipal Social Welfare Office, with the help of Municipal Budget Office, to facilitate the GAD Focal Person to formulate GAD Annual Plan and Budget (GPB) with projects and activities equal to at least five per cent of the total appropriations of the municipality and Accomplishment Report that properly reflects the attainment of GAD related activities and consistent with its GPB; and 2. Give priority to projects and activities mentioned in COA Circular No. 2015-001 and include it in the next GAD Annual Plan and Budget.",
+      "managementAction": "Implemented.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-PY6",
+      "year": 2016,
+      "recommendation": "We tecommended that the management ensure the timely preparation and submission of GPB and Accomplishment Report to the PPDO, DILG and oversight.",
+      "managementAction": "Implemented.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-PY7",
+      "year": 2016,
+      "recommendation": "We recommended that management: 1. Instruct the MDRRMF Officer to prepare Local Disaster Risk Reduction Management Fund (LDRRMFIP) for DRRM program presenting the 30% allocation for QRF in lump-sum and the allocation for disaster mitigation, prevention and preparedness with details as to projects and activities to be funded; and 2. Instruct the Municipal Accountant to transfer the unexpended balances of the QRF and DRRMF-MOOE from General Fund books to Trust Fund books. at the end of the year and effect the following entries: General Fund books Transfer of Unspent - Current Year DRRMF-Cash xxx Trust Fund books Cash XXX Trust Liability - (DRRMF-2015) xxx",
+      "managementAction": "Implementing the recommendations.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-PY8",
+      "year": 2016,
+      "recommendation": "For fair presentation of the accounts in the financial statements, it is recommended that the Municipal Accountant make necessary adjustments in the books of accounts to reflect the correct balance of the Cash in Bank and other affected accounts as of December 31, 2014.",
+      "managementAction": "On-going verification on general and subsidiary ledgers of the account’s balances being conducted by the Municipal Accountant.",
+      "status": "ONGOING",
+      "reason": "Reiterated in this year’s CY 2016 AAR, audit observation no. 1"
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-PY9",
+      "year": 2016,
+      "recommendation": "We recommended that the agency: 1. Refrain from granting cash advances to elected officials for purposes other than their travelling expenses; 2. Make a complete liquidation of the cash advance; and 3. Cash advance in excess of the actual amount spent for financial assistance totaling P8,500.0 must be returned immediately.",
+      "managementAction": "The management partially implemented the recommendations.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-PY10",
+      "year": 2016,
+      "recommendation": "We recommended the following courses of action: 1. Instruct all concerned LGU officials and employees to make immediate liquidation/settlement of their cash advances in accordance with COA Circular Nos. 97-002 and 2012-004; 2. Appropriate administrative proceedings shall likewise be instituted; and 3. Cause the filing of malversation charge against the Accountable Officer (AQO) for failure to liquidate his outstanding cash advance under Article 218 of the Revised Penal Code (RPC) or criminal prosecution under Section 128 of Presidential Decree (P.D.) No. 1445.",
+      "managementAction": "The Municipal Accountant informed that there were liquidations made by concerned officials and employees since January, 2015.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-PY11",
+      "year": 2016,
+      "recommendation": "We recommended the following measures; 1. Coordinate with the Department of Agrarian Reform (DAR)/Provincial Assessor to identify the beneficiaries of Comprehensive Agrarian. Reform Program (CARP); 2.Improve tax collection campaigns from real property taxes, not only the current but the delinquent taxes of Prior years to generate more income; and 3. Enforce remedies set forth in the above-mentioned provisions under the Local Government Code of 1991.",
+      "managementAction": "The Municipal Treasurer is con- tinuously sending demand letters to tax payers with arrears taxes.",
+      "status": "UNKNOWN",
+      "reason": "Reiterated on this year’s CY 2016 AAR"
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-PY12",
+      "year": 2016,
+      "recommendation": "We recommended to the management the following: 1.To facilitate the conduct of a regular physical count and submission of the correct and prescribed inventory report and for the inventory team to easily identify existing assets, all offices be required to submit a list of all properties assigned to them; 2.All issuances of assets/property should have the corresponding ARE duly signed by the Tesponsible officers/end-user who have the actual custody of the particular asset/property; 3.The Accountant should maintain a PPE Ledger Card for each property or asset, containing the date of acquisition, description, historical cost, custody, estimated life, rate of depreciation and any other related information of a particular PPE; 4. The RPCPPE should be reconciled with the records of GSO and with that of the accounting records; 5. Any discrepancy or unaccounted balances between the RPCPPE and the Property Ledger Cards as well as the limitation encountered should be sufficiently disclosed in the Inventory Reports by the Inventory Committee to afford management the information on the existence and condition of fixed assets and the correctness of the recorded value in the financial statements; 6. Require the Inventory Committee to expedite the preparation of a correct and prescribed RPCPPE; and 7. The corrected/ reconciled RPCPPE shall be submitted to COA for our validation and evaluation.",
+      "managementAction": "Reiterated on this CY 2016 AAR",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-PY13",
+      "year": 2016,
+      "recommendation": "We recommended that management direct the Bids and Awards Committee (BAC) to submit promptly all contracts with their supporting documents to the audit team for review and within five days from perfection thereof in compliance with existing regulations. Likewise, request for technical inspection for completed projects must be submitted to the Commission on Audit. Any unjustified failure of the officials and employees concerned to comply with the requirements herein imposed shall be subject to administrative disciplinary action providled in (a) Section 127 of P.D. No. 1445; (b) Section 55, title 1-B, Book V of the Revised Administrative Code of 1987, and (C) Section 11 of R.A. No. 6713.",
+      "managementAction": "For complete retrieval and com- pliance of required documentation .",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-PY14",
+      "year": 2016,
+      "recommendation": "We recommended that the Management: 1. Require the drivers to accomplish the required Driver’s Trip Tickets (DTT) for every trip undertaken. State the registered plate number, total distance travelled, balance in tank, fuel issued, gasoline used and balance in tank at the end of the trip; 2. Prepare and submit monthly report of official travels per vehicle summarizing in chronological order his tips for the month; 3. Submit the monthly report of fuel consumption to the auditor for verification. The report must show among others, the type of motor vehicles utilized during the month, total distance travelled, total fuel used and the normal fuel consumption for each vehicle. 4. Likewise, all fue consumption for heavy equipment should be supported with program of work and bill of materials. The utilization in hours used should be indicated in the DTT. 5. Stop the practice of filling-up of gasoline to private cars to avoid disallowance in audit",
+      "managementAction": "The Management claimed they started to complete documentation of claims on fuel consumption.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-PY15",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor, being the Chairman of the Scholarship Committee, observe and ensure compliance of the provisions of Municipal Ordinance No. 2011-001on the guidelines for the scholarship program of the Municipality.",
+      "managementAction": "The Management committed to review the Guidelines for the Scholarship Program and ensure compliance.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-PY16",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Accountant reclassify the balances under the Other Deferred Credits (455) in the amount of P1,351,961.93 to Income from Waterworks System (639) and effect the necessary adjustments in the books.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-PY17",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive require the Municipal Treasurer to submit without delay to the Office of the Municipal Accountant and ultimately to the Auditor the said vouchers otherwise, suspend the payment of salaries due her until such time that these are completely submitted",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-PY18",
+      "year": 2016,
+      "recommendation": "We recommended that management ensure proper computation of RATA in compliance with the provisions of LBC No. 13 dated May 15, 2013 of the DBM. We likewise, recommend for the refund of the excessive RATA claimed by the Vice Mayor and SB Members totaling P52,150.00.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-PY19",
+      "year": 2016,
+      "recommendation": "We recommended that the HRMO comply with the provisions of CSC Memorandum Circular No. 06 regarding the correct computation of leave credits of elective officials.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-PY20",
+      "year": 2016,
+      "recommendation": "Required the Municipal Accountant to compute and provide depreciation for all property, plant and equipment of the agency. Exert effort to locate previous rtecords of all purchases for capital outlay to provide cost of properties in the inventory listing so that he can compute the required depreciation expense.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-PY21",
+      "year": 2016,
+      "recommendation": "We recommended that unserviceable property no longer needed may be disposed at a private sale at such price as may be determined by the committee on awards, subject to the approval of the COA or its duty authorized representatives when the acquisition or transfer cost exceeds P25,000.00. For the lost documents of the redisposed motor vehicles, the Municipal Treasurer and the BAC on property disposal should provide the Municipal Accountant the pertinent papers for updating of the books. The value of the property declared to be unserviceable or no longer needed should be appraised by a qualified COA Technical ~ Property Inspector before approval of the sale",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-PY22",
+      "year": 2016,
+      "recommendation": "We recommended that the General Services Section under the Office of the Municipal Treasurer should maintain a Stock Cards for supplies, property, plant and equipment to be able to account for their receipt and disposition. Likewise, require to use the new form of ARE.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SanLorenzoRuiz_CamNorte-2016-PY23",
+      "year": 2016,
+      "recommendation": "We recommended that the General Services Unit under the Office of the Municipal Treasurer to facilitate the prescribed markings of government vehicles “FOR OFFICIAL USE ONLY” and with “Municipality of San Lorenzo Ruiz.”",
+      "managementAction": "Motor vehicles are now with markings “FOR OFFICIAL USE ONLY” and with “Municipality of San Lorenzo Ruiz”.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    }
+  ]
+}

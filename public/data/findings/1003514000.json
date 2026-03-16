@@ -1,0 +1,1222 @@
+{
+  "lguCode": "1003514000",
+  "lguName": "Munai",
+  "province": "Lanao del Norte",
+  "region": "Region IX (Zamboanga Peninsula)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-PY2",
+      "year": 2024,
+      "recommendation": "b. The Municipal Accountant to prepare and submit Bank Reconciliation Statements monthly, together with the Subsidiary Ledger and other supporting documents.",
+      "managementAction": "The Management has not acted upon with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Management failed to submit its Bank Reconciliation Statements."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-PY10",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Accountant and Treasurer submit the Disbursement Vouchers and Journal Entry Vouchers corresponding to the paid checks and debit memos and ensure that all future disbursements have corresponding vouchers and are recorded in the books.",
+      "managementAction": "The Management has not acted upon with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Management was not able to submit the Disbursement Vouchers and Journal Entry Vouchers corresponding to the paid checks and debit memos."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-PY11",
+      "year": 2024,
+      "recommendation": "We recommended the following to the management:\na. The GSO and the Municipal Accountant record the PPEs that have no documents or records by using the Fair Market Value;",
+      "managementAction": "The Management has not acted upon with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The GSO and the Municipal Accountant have not recorded the PPEs that have no documents or records."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-PY12",
+      "year": 2024,
+      "recommendation": "b. \tThe GSO and the Municipal Accountant avail of the One-Time Cleansing of PPE as authorized in COA \nCircular 2020-006 dated January 31, 2020.",
+      "managementAction": "The Management has not acted upon with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Management has not performed One-Time Cleansing of PPE."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-PY13",
+      "year": 2024,
+      "recommendation": "c. The General Services Officer to maintain the Stock Cards for inventories and the Property Cards for PPEs and incorporate the balances in the Report on the Physical Count of Inventories (RPCI) and Report on the Physical Count of Property, Plant and Equipment (RPCPPE); and",
+      "managementAction": "The Management has not acted upon with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Management does not maintain the Stock Cards for inventories and the Property Cards for PPEs and incorporate the balances in the Report on the Physical Count of Inventories (RPCI) and Report on the Physical Count of Property, Plant and Equipment (RPCPPE)."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-PY14",
+      "year": 2024,
+      "recommendation": "d. The Municipal Accountant updates the Supplies Ledger Card (SLC) and Property, Plant and Equipment Ledger Card (PPELC) and reconciles the balance against the Report on the Physical Count of Inventories (RPCI) and Report on the Physical Count of Property, Plant and Equipment (RPCPPE).",
+      "managementAction": "The Management has not acted upon with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Management does not maintain the Stock Cards for inventories and the Property Cards for PPEs and incorporate the balances in the Report on the Physical Count of Inventories (RPCI) and Report on the Physical Count of Property, Plant and Equipment (RPCPPE)."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-PY15",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive:\na. Direct the Municipal Engineer to conduct an inventory of all municipal road networks and provide the GSO and the Accountant a copy thereof;",
+      "managementAction": "The Management has not acted upon with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Management has not conducted inventory of all municipal road networks."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-PY16",
+      "year": 2024,
+      "recommendation": "b. Direct the General Services Officer (GSO) to maintain the Local Road Network Property Card (LRNPC) for each road network and to report the same in the proper format using the Report on the Physical Count of Local Road Networks where the different road components are detailed and road network ID number is indicated; and",
+      "managementAction": "The Management has not acted upon with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The GSO does not maintain a Local Road Network Property Card (LRNPC) for each road network and has no report of the same using the Report on the Physical Count of Local Road Networks."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-PY17",
+      "year": 2024,
+      "recommendation": "c. Direct the OIC-Municipal Accountant to create and maintain a Local Road Network Ledger Card (LRNLC) for each local road network and identify the unrecorded Roads.",
+      "managementAction": "The Management has not acted upon with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Municipal Accountant does not maintain a Local Road Network Ledger Card (LRNLC) for each local road network."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-PY18",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive require the LDRRM Officer and other concerned employees to submit the monthly Report on Sources and Utilization of Disaster Risk Reduction and Management Fund to the Auditor on or before the 15th day after the end of each month pursuant to Section 5.1.5 of COA Circular 2012-002.",
+      "managementAction": "The Management has not acted upon with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The LDRRM Officer and other concerned employees has not submitted any monthly Report on Sources and Utilization of Disaster Risk Reduction and Management Fund."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-PY19",
+      "year": 2024,
+      "recommendation": "We recommended that the BAC Secretariat and the BAC Chairman designate personnel to monitor and ensure the timely submission of completed contracts and submit all perfected and awarded contracts together with all the documents forming part thereof, as well as documents required in Annexes of said circular, to facilitate timely auditorial and legal review, technical review, and inspection.",
+      "managementAction": "The Management has not acted upon with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management has not submitted any completed contracts as well as any perfected and awarded contracts."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-PY21",
+      "year": 2024,
+      "recommendation": "We recommended to the management the following:\na. The Municipal Budget Officer to submit Monthly Status of Appropriations, Allotments, and Obligations, for both the current and continuing appropriations, not later than the twentieth day after the end of the month; and",
+      "managementAction": "The Management has not acted upon with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Municipal Budget Officer has not submitted Monthly Status of Appropriations, Allotments, and Obligations, for both the current and continuing appropriations."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-PY23",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Accountant, Municipal Engineer, MPDC, and BAC Secretariat to submit (1) a list of all ongoing government PPAs and those that are to be implemented during the year and (2) Monthly Monitoring Report of all on-going government PPAs.",
+      "managementAction": "The Management has not acted upon with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Management has not submitted any report on government PPAs."
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-OBS1",
+      "year": 2024,
+      "recommendation": "We recommended to the Local Chief Executive to direct the Municipal Accountant in coordination with the Municipal Treasurer\nto submit the unsubmitted Bank Reconciliation Statements for CY 2023 and 2024;\nto make the necessary adjusting entries in the books for book reconciling items and to submit the pertinent documents necessary for the said adjustment; and\nto regularly prepare and submit monthly Bank Reconciliation Statements together with its corresponding Bank Statements and Subsidiary Ledgers within the reglementary period.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-OBS2",
+      "year": 2024,
+      "recommendation": "We recommended to the Local Chief Executive the following:\nDirect the requisitioning office to prepare and submit the RIS to the GSO for consolidation of all inventories issued by the GSO;\nRequire the GSO to prepare and submit SSMI based on the consolidated RIS submitted by the requisitioning office and to submit the same to the office of the Municipal Accountant to support the recognize inventory expenses;\nInstruct the Municipal Accountant to recognize the inventory expenses based on the submitted SSMI by the GSO; and\nRequire the Inventory Committee to submit Report of the Physical Count of Inventories (RPCI) to the Auditor not later than July 31 and January 31 of each year for the first and second semesters, respectively.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-OBS3",
+      "year": 2024,
+      "recommendation": "We recommended the Management to:\nRequire the Inventory Committee to ensure strict compliance with the guidelines and procedures in the conduct of physical count of PPEs;\nSubmit the RPCPPE to the Audit Team; and\nRequire the Accounting and Property Unit to prepare and maintain PPE Ledger Cards and Property Cards, respectively.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-OBS4",
+      "year": 2024,
+      "recommendation": "We recommended to the Local Chief Executive to enjoin the following department heads’ compliance with the requirements in COA Circular 2015-008:\nDirect the Municipal Engineer to provide the Municipal Accountant, General Services Officer with the complete description and cost segregation of road components for road projects;\nRequire the Municipal Accountant the following reporting procedures:\n-\tPrepare the Journal Voucher (JV) to record the beginning balance of the local road network and its components in the general ledger and the Local Road Network Ledger Card, respectively;\n-\tSupport the JV with the Registry of Public Infrastructures for Roads, working paper on the distribution of costs for the road components, and working paper on the determination of the depreciated replacement cost for road components with no available cost per registry;\n-\tKeep and maintain subsidiary records for roads and road components for every road network; and\n-\tPrepare a lapsing schedule for the computation of the depreciation for each component at the end of the year; and\nDirect the General Services Officer-Designate to maintain the Local Road Inventory and Road Map, and to keep a complete Local Road Network Property Card for all roads and its components.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-OBS5",
+      "year": 2024,
+      "recommendation": "We recommended to the Local Chief Executive to direct the Municipal Accountant to reconcile the Due from Other Funds and Due to Other Funds accounts and make the necessary adjusting entries; and undertake regular and timely review and reconciliation of the accounts in compliance to the above-mentioned rules and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-OBS6",
+      "year": 2024,
+      "recommendation": "We recommended to the Local Chief Executive to:\nRequire the Municipal Treasurer to prepare the Real Property Tax Account Register/Taxpayer’s Index Card and to furnish the Municipal Accountant the certified list showing the name of taxpayers and the amount due and collectible to support the recording of the RPT and SET receivables; and\nBased on the list, require the Municipal Accountant to draw a JEV to record Real Property Tax Receivable/Special Education Tax Receivable and the corresponding deferred income accounts in order to present fairly the balance of the said receivable accounts in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-OBS7",
+      "year": 2024,
+      "recommendation": "We recommended to the Local Chief Executive to require the Municipal Accountant to submit the Disbursement Vouchers, Obligation Requests, Journal Entry Vouchers, and its Supporting Documents relative to the utilization of the 20% Development Fund for CY2024 to the Office of the Auditor and promptly submit future utilization reports within the prescribed period.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-OBS8",
+      "year": 2024,
+      "recommendation": "We reiterated our prior year recommendation to the Local Chief Executive to direct the Municipal Accountant and Municipal Treasurer to submit the lacking RCIs with the JEVs, DVs and its supporting documents and to strictly adhere to the prescribed time frame for the submission of such reports to the Office of the Auditor.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-OBS9",
+      "year": 2024,
+      "recommendation": "We recommended to the Local Chief Executive the following:\nRequire the Municipal Accountant, Municipal Budget Officer, Municipal Treasurer, and concerned personnel to prepare Disbursement Vouchers, Obligation Requests, Journal Entry Vouchers, to be supported with complete documentation when disbursing from the 5% LDRRM Fund and submit it to the Audit Team; and\nInstruct the Municipal Accountant to prepare and certify correct monthly Report on Sources and Utilization of LDRRMF, and to the LDRRM Officer to submit the said duly certified Report on or before the 15th day after the end of each month to the COA Auditor.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-OBS10",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive to direct the GAD Focal Person to:\nSubmit the 2024 Annual GAD Plan and Budget and the corresponding Accomplishment Report; and\nIn the succeeding years, promptly submit the said reports within the prescribed period following COA Circular No. 2014-001 dated March 18, 2014.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-PY1",
+      "year": 2024,
+      "recommendation": "We recommended the following to the management:\na. The Local Chief Executive provides the Office of the Municipal Accountant with adequate staff for it to prepare and submit all the needed reports; and",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-PY3",
+      "year": 2024,
+      "recommendation": "We recommended the following to the Municipal Treasurer:\na. Ensure that Accountable Forms are issued only to duly appointed and/or designated collectors; and",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-PY4",
+      "year": 2024,
+      "recommendation": "b. Use the Requisition and Issue Slip when issuing/releasing Accountable Forms to collectors.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-PY5",
+      "year": 2024,
+      "recommendation": "We recommended the following to the management:\na. The Municipal Treasurer submits the RCDs of the unreported Official Receipts;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-PY6",
+      "year": 2024,
+      "recommendation": "b. The Local Chief Executive designates an adequate number of collectors in the Office of the Municipal Treasurer; and",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-PY7",
+      "year": 2024,
+      "recommendation": "c. The Collectors prepare and submit a separate Report of Collections and Deposits.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-PY8",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Treasurer submit the Report of Collections and Deposits to the Municipal Accountant and that the Municipal Accountant prepare a Journal Entry Voucher for every Report of Collections and Deposits.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-PY9",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Treasurer prepare and submit a separate Report of Collections and Deposits for SEF and deposit the Collections directly into the proper depository account.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-PY20",
+      "year": 2024,
+      "recommendation": "We recommended that the BAC Chairman to invite the Commission on Audit and other NGOs to observe their bidding activities.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13-Region-X__Municipalities__Lanao_del_Norte__Munai_LdN-2024-PY22",
+      "year": 2024,
+      "recommendation": "b. \tThe Municipal Accountant to submit the monthly pre-closing trial balances for each fund no later than the twentieth day after the end of the month. The schedule of subsidiary ledger balances of the controlling accounts in the General Ledger shall be submitted as a supporting document for the trial balances at the end of the quarter.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Lanao-del-Norte__Munai_LdN-2023-PY4",
+      "year": 2023,
+      "recommendation": "a. Direct the Municipal Engineer to conduct an inventory of all municipal road networks and provide the GSO and the Accountant a copy thereof;\n\nb. Direct the General Services Officer (GSO) to maintain the Local Road Network Property Card (LRNPC) for each road network and to report the same in the proper format using the Report on the Physical Count of Local Road Networks where the different road components are detailed and road network ID number is indicated; and\n\nc. Direct the OIC-Municipal Accountant to create and maintain a Local Road Network Ledger Card (LRNLC) for each local road network and to identify the unrecorded Road Networks.",
+      "managementAction": "An inventory of the Road Network was made, but the management was not able to quantify the Road Components.\n\nThe General Services Officer (GSO) did not prepare and maintain the Local Road Network Property Card (LRNPC).\n\n\n\n\n\nThe Municipal Accountant did not create and maintain a Local Road Network Ledger Card (LRNLC).",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No available data for the valuation.\n\n\n\n\n\nNo complete physical inventory of Road Networks. This finding has been reiterated in Finding No. 8.\n.\n\n\n\n\n\nNo complete physical inventory of Road Networks. This finding has been reiterated in Finding No. 8."
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Lanao-del-Norte__Munai_LdN-2023-PY5",
+      "year": 2023,
+      "recommendation": "a. Direct the Municipal Accountant to strictly observe the rules and regulations on the preparation of the financial statements, specifically, the Notes to Financial Statements; and\n\nb. Direct the Municipal Accountant to coordinate with department heads or personnels in providing the necessary information or explanation regarding amounts that will be disclosed in the Notes to financial statements.",
+      "managementAction": "The Municipal Accountant  included some details in the notes to financial statements.\n\n\n\nThe Municipal Accountant  included some details in the notes to financial statements.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Details for other accounts were not provided because of lack of documents.\n\n\n\nThe Municipal Accountant  included some details in the notes to financial statements."
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Lanao-del-Norte__Munai_LdN-2023-PY6",
+      "year": 2023,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Accountant Designate, Municipal Treasurer, Municipal General Services Officer, and Bids and Awards Secretariat to submit the above-mentioned reports within the prescribed timetable so that timely post-audit of transactions could be made and verification of the same could be facilitated.",
+      "managementAction": "Late/non-submission of financial transactions.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Delayed submission of supporting documents to the accounting."
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Lanao-del-Norte__Munai_LdN-2023-PY8",
+      "year": 2023,
+      "recommendation": "We recommended that the Local Chief Executive require the LDRRM Officer and other concerned employees to submit the monthly Report on Sources and Utilization of Disaster Risk Reduction and Management Fund to the Auditor on or before the 15th day after the end of each month pursuant to Section 5.1.5 of COA Circular 2012-002.",
+      "managementAction": "The Municipal Accountant submitted the Report on Sources and Utilization of the Local Disaster Risk and Reduction Management Fund (LDRRMF) for CY 2022.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No reason was given by the Management. This finding has been reiterated in Finding No. 10."
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Lanao-del-Norte__Munai_LdN-2023-PY9",
+      "year": 2023,
+      "recommendation": "We recommended that the Local Chief Executive direct the BAC Secretariat and the BAC Chairman to designate a personnel to monitor and ensure the timely submission of completed contracts, and to submit all perfected and awarded contracts together with all the documents forming part thereof, as well as documents required in Annexes of said circular in order to facilitate timely auditorial and legal review as well as technical review and inspection.",
+      "managementAction": "The Management Submitted the contracts for CY 2022, but contracts for CY 2023 were not submitted.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No reason was given by the Management. This finding has been reiterated in Finding No. 10."
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Lanao-del-Norte__Munai_LdN-2023-PY10",
+      "year": 2023,
+      "recommendation": "We recommended that the Local Chief Executive direct the BAC Chairman to send invitation to the Commission on Audit and other NGOs in conducting biding activities.",
+      "managementAction": "The BAC Chairman did not send an invitation to the Commission on Audi",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No reason was given by the Management. This finding has been reiterated in Finding No. 11."
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Lanao-del-Norte__Munai_LdN-2023-OBS1",
+      "year": 2023,
+      "recommendation": "Recommendations\n1.6\tWe recommended the following to the management:\n1.6.a\tThe Local Chief Executive to provide the Office of the Municipal Accountant with adequate staff for it to prepare and submit all the needed reports; and\n1.6.b.\tThe Municipal Accountant to prepare and submit Bank Reconciliation Statements monthly, together with the Subsidiary Ledger and other supporting documents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Lanao-del-Norte__Munai_LdN-2023-OBS2",
+      "year": 2023,
+      "recommendation": "Recommendations\n2.7 \tWe recommended the following to the Municipal Treasurer:\n2.7.a\tEnsure that Accountable Forms are issued only to duly appointed and/or designated collectors; and\n2.7.b\tUse the Requisition and Issue Slip when issuing/releasing Accountable Forms to collectors.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Lanao-del-Norte__Munai_LdN-2023-OBS3",
+      "year": 2023,
+      "recommendation": "Recommendations\n3.5\tWe recommended  the following to the management:\n3.5.a\tThe Municipal Treasurer to submit the RCDs of the unreported Official Receipts;\n3.5.b\tThe Local Chief Executive to designate an adequate number of collectors in the Office of the Municipal Treasurer; and\n3.5.c\tThe Collectors to prepare and submit a separate Report of Collections and Deposits.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Lanao-del-Norte__Munai_LdN-2023-OBS4",
+      "year": 2023,
+      "recommendation": "Recommendations\n4.5\tWe recommended that the Municipal Treasurer to submit the Report of Collections and Deposits to the Municipal Accountant and that the Municipal Accountant prepare a Journal Entry Voucher for every Report of Collections and Deposits.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Lanao-del-Norte__Munai_LdN-2023-OBS5",
+      "year": 2023,
+      "recommendation": "Recommendations\n5.5\tWe recommended that the Municipal Treasurer to prepare and submit a separate Report of Collections and Deposits for SEF and deposit the Collections directly into the proper depository account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Lanao-del-Norte__Munai_LdN-2023-OBS6",
+      "year": 2023,
+      "recommendation": "Recommendations\n6.6 \tWe recommended that the Municipal Accountant and Treasurer to submit the Disbursement Vouchers and Journal Entry Vouchers corresponding to the paid checks and debit memos and ensure that all future disbursements have corresponding vouchers and are recorded in the books.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Lanao-del-Norte__Munai_LdN-2023-OBS7",
+      "year": 2023,
+      "recommendation": "Recommendations\n7.11\t We recommended the following to the management:\n7.11.a\tThe GSO and the Municipal Accountant to record the PPEs that have no documents or records by using the Fair Market Value;\n7.11.b\tThe GSO and the Municipal Accountant to avail of the One-Time Cleansing of PPE as authorized in COA Circular 2020-006 dated January 31, 2020.\n7.11.c\tThe General Services Officer to maintain the Stock Cards for inventories and the Property Cards for PPEs and incorporate the balances in the Report on the Physical Count of Inventories (RPCI) and Report on the Physical Count of Property, Plant and Equipment (RPCPPE); and\n7.11.d\tThe Municipal Accountant to update the Supplies Ledger Card (SLC) and Property, Plant and Equipment Ledger Card (PPELC) and reconciles the balance against the Report on the Physical Count of Inventories (RPCI) and Report on the Physical Count of Property, Plant and Equipment (RPCPPE).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Lanao-del-Norte__Munai_LdN-2023-OBS8",
+      "year": 2023,
+      "recommendation": "Recommendations\n8.9    We recommended that the Local Chief Executive:\n8.9.a\tDirect the Municipal Engineer to conduct an inventory of all municipal road networks and provide the GSO and the Accountant a copy thereof;\n8.9.b\tDirect the General Services Officer (GSO) to maintain the Local Road Network Property Card (LRNPC) for each road network and to report the same in the proper format using the Report on the Physical Count of Local Road Networks where the different road components are detailed and road network ID number is indicated; and\n8.9.c\tDirect the OIC-Municipal Accountant to create and maintain a Local Road Network Ledger Card (LRNLC) for each local road network and identify the unrecorded Roads.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Lanao-del-Norte__Munai_LdN-2023-OBS9",
+      "year": 2023,
+      "recommendation": "Recommendation\n9.5\tWe recommended that the Local Chief Executive to require the LDRRM Officer and other concerned employees to submit the monthly Report on Sources and Utilization of Disaster Risk Reduction and Management Fund to the Auditor on or before the 15th day after the end of each month pursuant to Section 5.1.5 of COA Circular 2012-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Lanao-del-Norte__Munai_LdN-2023-OBS10",
+      "year": 2023,
+      "recommendation": "Recommendation\n10.9 \tWe recommended that the BAC Secretariat and the BAC Chairman designate personnel to monitor and ensure the timely submission of completed contracts and submit all perfected and awarded contracts together with all the documents forming part thereof, as well as documents required in Annexes of said circular, to facilitate timely auditorial and legal review, technical review, and inspection.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Lanao-del-Norte__Munai_LdN-2023-OBS11",
+      "year": 2023,
+      "recommendation": "Recommendation\n11.3\tWe recommended that the BAC Chairman to invite the Commission on Audit and other NGOs to observe their bidding activities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Lanao-del-Norte__Munai_LdN-2023-OBS12",
+      "year": 2023,
+      "recommendation": "Recommendations\n12.4 \tWe recommended to the management the following:\n12.4.a The Municipal Budget Officer to submit Monthly Status of Appropriations, Allotments, and Obligations, for both the current and continuing appropriations, not later than the twentieth day after the end of the month; and\n12.4.b\tThe Municipal Accountant to submit the monthly pre-closing trial balances for each fund no later than the twentieth day after the end of the month. The schedule of subsidiary ledger balances of the controlling accounts in the General Ledger shall be submitted as a supporting document for the trial balances at the end of the quarter.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Lanao-del-Norte__Munai_LdN-2023-OBS13",
+      "year": 2023,
+      "recommendation": "Recommendations\n13.5\tWe recommended that the Municipal Accountant, Municipal Engineer, MPDC, and BAC Secretariat to submit (1) a list of all ongoing government PPAs and those that are to be implemented during the year and (2) Monthly Monitoring Report of all on-going government PPAs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Lanao-del-Norte__Munai_LdN-2023-PY1",
+      "year": 2023,
+      "recommendation": "We recommended that the Local Chief Executive:\n\na. Direct the Municipal Accountant Designate to prepare and submit the monthly Bank Reconciliation Statements in adherence to Section 74 of PD 1445 and COA Circular No. 96-11. Also, require her to get the monthly bank statements from the depository bank promptly and regularly;\n\nb. Direct the Municipal Treasurer to reconcile his cashbooks entries with that from the accounting records at least quarterly; and\n\nc. Direct the Municipal Treasurer to enroll the bank accounts to on-line e-access in the Land Bank of the Philippines/Development Bank of the Philippines/Philippine National Bank and grant access to the Municipal Accountant in order that she can view immediately the balances on line and can possibly print the balances of accounts of the LGU.",
+      "managementAction": "Bank Statement for CY2022 were submitted to the Audit Team.\n\n\n\n\n\n\n\n\nThe Management has not acted upon the recommendations.\n\n\nBank Accounts were enrolled to online eaccess.",
+      "status": "IMPLEMENTED",
+      "reason": "Reconciliation of Cashbooks and SL were not prepared and submitted."
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Lanao-del-Norte__Munai_LdN-2023-PY2",
+      "year": 2023,
+      "recommendation": "a. Direct the Municipal Treasurer to institute a system such as E-Tracs that could facilitate the prompt determination, assessment, and collection of real property tax;\n\nb. Direct the Municipal Treasurer to intensify the collection of Real Property Taxes and to give emphasis on the collection of the delinquent real property taxes by applying the administrative remedies against delinquent taxpayers as provided for under the Local Government Code;\n\nc. Direct the Municipal Treasurer to give emphasis on the collection of the delinquent real property taxes by applying the administrative remedies against delinquent taxpayers as provided for under the Local Government Code;\n\nd.  Hire additional employee assigned in the office of the assessor, otherwise, require the concerned employee to render overtime in order to prepare and submit the estimated real property tax collectibles; and\n\ne. Direct the Municipal Accountant Designate to record Tax Receivables at the beginning of the year.",
+      "managementAction": "The Management inquired about the cost of installing E-Tracs Software and found that it is expensive and decided not to pursue it as it would cost them more than it could benefit them\n\nNotices were made to the registered owners of real properties; however, their whereabouts could not be determined.\n\nNotices were made to the registered owners of real properties; however, their whereabouts could not be determined.\n\nEstimated Real Property Receivable was duly estimated.\n\nMunicipal Accountant recorded the Tax Receivables at the Beginning of the year.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Lanao-del-Norte__Munai_LdN-2023-PY3",
+      "year": 2023,
+      "recommendation": "a. Create an Inventory Committee to be headed by the General Services Officer and include in the committee the Municipal Engineer and the Municipal Accountant as well as all department heads;\n\nb. Direct the General Service Officer and the Municipal Accountant to record the PPEs that has no documents or records by using the Fair Market Value;\n\nc. Direct the General Services Officer to maintain the Stock Cards for inventories and the Property Cards for PPEs and incorporate the balances in the Report on the Physical Count of Inventories (RPCI) and Report on the Physical Count of Property, Plant and Equipment (RPCPPE); and\n\nd. Direct the Municipal Accountant to update the Supplies Ledger Card (SLC) and Property, Plant and Equipment Ledger Card (PPELC) and reconcile the balance against the Report on the Physical Count of Inventories (RPCI) and Report on the Physical Count of Property, Plant and Equipment (RPCPPE).",
+      "managementAction": "Created a Committee\n\n\n\n\n\nUnrecorded properties were not booked using the Fairm Market Value.\n\n\nThe GSO was not able to prepare stock cards and property cards.\n\n\n\n\n\nThe Municipal Accountant was not able to prepare ledger cards.",
+      "status": "IMPLEMENTED",
+      "reason": "No complete physical inventory of PPEs. This finding has been reiterated in Finding No. 7.\n\nNo complete physical inventory of PPEs. This finding has been reiterated in Finding No. 7.\n\nNo complete physical inventory of PPEs. This finding has been reiterated in Finding No. 7."
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Lanao-del-Norte__Munai_LdN-2023-PY7",
+      "year": 2023,
+      "recommendation": "We recommended that the Local Chief Executive complete the three (3) staff responsible for the administration and training, research and planning, and operations and warning in the Plantilla of personnel, in accordance with NDRRMC, DILG, DBM, and CSC Joint Memorandum Circular No.2014-1 dated April 4, 2014.",
+      "managementAction": "The positions were duly submitted to the DBM for approval to be included in the regular plantilla.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "13_-_Region-X__Municipalities__Lanao-del-Norte__Munai_LdN-2023-PY11",
+      "year": 2023,
+      "recommendation": "We recommended to the Local Chief Executive to require the human resource officer to furnish the Accounting office with a copy of the schedule of earned leave credits of LGU personnel with money value as basis for recording the leave accruals in the books.",
+      "managementAction": "Earned Leave credits were recorded.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LdN_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended to the Local Chief Executive the following:\nDirect the Inventory Committee to conduct an inventory of all municipal road networks and provide the GSO and the Accountant a copy thereof.\nDirect the General Services Officer (GSO) to maintain the Local Road Network Property Card (LRNPC) for each road network and to report the same in the proper format using the Report on the Physical Count of Local Road Networks where the different road components are detailed and road network ID number is indicated.\nDirect the OIC-Municipal Accountant to create and maintain a Local Road Network Ledger Card (LRNLC) for each local road network and to identify the unrecorded Road Networks.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LdN_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended to the Local Chief Executive the following:\nCreate an Inventory Committee to be headed by the General Services Officer and include in the committee the Municipal Engineer and the Municipal Accountant as well as all department heads;\nDirect the General Service Officer and the Municipal Accountant to record the PPEs that has no documents or records by using the fair market value;\nDirect the General Services Officer to maintain the Stock Cards for inventories and the Property Cards for PPEs and incorporate the balances in the Report on the Physical Count of Inventories (RPCI) and Report on the Physical Count of Property, Plant and Equipment (RPCPPE); and\nDirect the Municipal Accountant to update the Supplies Ledger Card (SLC) and Property, Plant and Equipment Ledger Card (PPELC) and reconcile the balance against the Report on the Physical Count of Inventories (RPCI) and Report on the Physical Count of Property, Plant and Equipment (RPCPPE).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LdN_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "We recommended to the Local Chief Executive to require the General Services Officer to:\nIssue property tags/ stickers for each PPE in order to identify and trace the location of the said PPEs;\nIssue corresponding Acknowledgement Receipt for Equipment (ARE) for all the Properties, Plant and Equipment issued to officials and employees who have the custody thereof;\nAssign additional competent personnel to complete the needed property records;\nRenew the Acknowledgement Receipt for Equipment (ARE) every January of the third year after issuance; and\nStrictly comply with the provisions of Section 259 of GAM Vol. I for LGU for the succeeding procurement and issuances of Properties, Plant and Equipment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LdN_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "We recommended to the Local Chief Executive to direct the Municipal Accountant Designate, Municipal Treasurer, Municipal General Services Officer, and Bids and Awards Secretariat to submit the above mentioned reports within the prescribed timetable so that timely post-audit of transactions could be made and verification of the same could be facilitated.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Lanao-del-Norte__Munai_LDN-2020-OBS1",
+      "year": 2020,
+      "recommendation": "Recommendations:\nWe recommended to the Local Chief Executive to:\na.) \tDirect the Municipal Engineer to provide the Municipal Accountant and General Services Officer with the complete description and cost segregation of road components for road projects;\nb.) \tDirect the General Services Officer (Municipal Treasurer) to maintain the Local Road Inventory and Road Map, and keep a complete Local Road Network Property Card for all roads and its components; and\nc.) \tRequire the Municipal Accountant the following reporting procedures:\ni. \tPrepare the Journal Voucher (JV) to record the beginning balance of the local road network and its components in the general ledger and the Local Road Network Ledger Card, respectively. Support the JV with the Registry of Public Infrastructures for Roads, working paper on the distribution of costs for the road components, and working paper on the determination of the depreciated replacement cost for road components with no available cost per registry.\nKeep and maintain subsidiary records for roads and road components for every road network; and\nPrepare a lapsing schedule for the computation of the depreciation for each component at the end of the year.\nIf possible, designate a General Services Officer other than the Municipal Treasurer in order that required reports can be easily prepared and submitted considering the voluminous work of the Municipal Treasurer.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Lanao-del-Norte__Munai_LDN-2020-OBS2",
+      "year": 2020,
+      "recommendation": "Recommendations:\nWe recommended to the Local Chief Executive to:\nStrictly comply with the rules and regulations on the grant, utilization and liquidation of cash advances; and to refrain from granting cash advance without the necessary supporting documents;\nRequire the Acting Municipal Treasurer to submit all the report of disbursement and liquidation report together with its corresponding supporting documents within the prescribed period; and\nInstall and establish strong internal control primarily on the disbursement process on the LGU.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Lanao-del-Norte__Munai_LDN-2020-OBS3",
+      "year": 2020,
+      "recommendation": "Recommendations:\nWe recommended to the Local Chief Executive to:\na.) Direct the Municipal Accountant to prioritize the preparation and submission of the monthly Bank Reconciliation Statements to achieve an accurate financial reporting of Cash in Bank account which reconcile with the general ledgers. Also require him to get the monthly bank statements from the depository bank promptly and regularly;\nb.) Require the Acting Municipal Treasurer to reconcile his cashbooks entries with the accounting records at least quarterly; and\nc.) \tGive authority to the Municipal Accountant to enroll in LBP i-access so that bank balances can be viewed and printed anytime by the Municipal Treasurer.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Lanao-del-Norte__Munai_LDN-2020-OBS4",
+      "year": 2020,
+      "recommendation": "Recommendations:\nWe recommended to the Local Chief Executive to:\na.) \tCreate an Inventory Committee to include Department Head to conduct the complete and latest physical inventory count of all PPE and submit Report on the Physical Count of Property, Plant and Equipment (RPCPPE);\nb.) \tDesignate the General Services Officer as head of the Inventory Committee;\nc.) \tDirect the Inventory Committee to check the condition of the PPE and prepare the Inventory and Inspection Report of Unserviceable Property (IIRUP) and Waste Materials Report (WMR) for the damaged, obsolete and unserviceable PPE identified in the course of inventory-taking and request for its immediate disposal.\nd.) \tInstruct the General Services Officer-Designate/ Supply Officer and the Acting Municipal Accountant to regularly reconcile their records and review the composition of the PPE account to come up with an accurate Property, Plant and Equipment account balance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Lanao-del-Norte__Munai_LDN-2020-OBS5",
+      "year": 2020,
+      "recommendation": "Recommendations:\nWe recommended to the Local Chief Executive to:\na.)\tRequire the Property Officer to issue property tags/ stickers for each PPE in order to identify and trace the location of the said PPEs and to issue corresponding Acknowledgement Receipt for Equipment (ARE) for all the Properties, Plant and Equipment issued to officials and employees who have the custody thereof and to facilitate such undertaking, assign additional competent personnel in order to complete the needed property records;\nb.)\tRenew the Acknowledgement Receipt for Equipment (ARE) every January of the third year after issuance; and\nc.)\tStrictly comply with the provisions of Section 259 of GAM Vol. I for LGU for the succeeding procurement and issuances of Properties, Plant and Equipment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Lanao-del-Norte__Munai_LDN-2020-OBS6",
+      "year": 2020,
+      "recommendation": "Recommendations:\nWe recommended to the Local Chief Executive to:\na.) \tDirect both the Collecting Officer and Acting Municipal Treasurer to maintain the required cashbook as mandated by law; and\nb.)\tRequire coordination between the Accounting Office and Municipal Treasurers Office for the immediate submission of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Lanao-del-Norte__Munai_LDN-2020-OBS7",
+      "year": 2020,
+      "recommendation": "Recommendations:\nWe recommended to the Local Chief Executive to:\na.) Direct the Acting Municipal Treasurer to submit disbursement vouchers after payment with complete supporting documents to the Office of Municipal Accountant;\nb.) Direct the Municipal Accountant to strictly adhere to the prescribed time frame for the submission of monthly and quarterly reports as well as transmitting all receipts and disbursement records with complete supporting documents to the Office of the Auditor; and\nc.) Direct the Municipal Accountant to closely coordinate with the Acting Municipal Treasurer for the latter to submit the required reports within the prescribed period, and to facilitate the recording of the transactions in the books of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Lanao-del-Norte__Munai_LDN-2020-OBS8",
+      "year": 2020,
+      "recommendation": "Recommendations:\nWe recommended to the Local Chief Executive to:\na.) Direct the Acting Municipal Treasurer to submit the disbursement vouchers pertaining to the 20% Development Fund, Special Education Fund, Local Disaster Risk Reduction and Management Fund and other Trust Fund after payment with complete supporting documents to the Office of Municipal Accountant; and\nb.) Direct the Municipal Accountant to strictly adhere to the prescribed time frame for the submission of disbursement records with complete supporting documents to the Office of the Auditor.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Lanao-del-Norte__Munai_LDN-2020-OBS9",
+      "year": 2020,
+      "recommendation": "Recommendations:\nWe recommended to the Local Chief Executive to:\nEstablish and adopt the Automated Teller Machine (ATM) payroll system account the soonest possible time in conformity with the DBM National Payroll System to attain and ensure greater efficiency, economy, transparency, and accountability in the government’s human resource processes; and\nDirect the Municipal Accountant and Acting Municipal Treasurer to submit Report of Disbursement, Liquidation Report and supporting documents within the prescribed period.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Lanao-del-Norte__Munai_LDN-2020-OBS10",
+      "year": 2020,
+      "recommendation": "Recommendations:\nWe recommended to the Local Chief Executive to:\nImplement an adequate monitoring system that tracks the loan payables of its employees from authorized agencies; and\nDirect the Municipal Accountant the following to:\nRefrain from approving the loan applications of those employees whose net take pays are below the mandated minimum net take home pay and\nImplement the P5,000.00 net take home pay required for each employee as provided under the General Provisions of the General Appropriation Act (GAA) for FY 2019 also known as Republic Act No. 11260.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Lanao-del-Norte__Munai_LDN-2020-OBS11",
+      "year": 2020,
+      "recommendation": "Recommendations:\nWe recommended to the Local Chief Executive to require the Bids and Award Committee (BAC) and BAC-Secretariat to comply with COA Circular No. 2009-001 and pertinent provisions of IRR, RA 9184.\nLikewise, submit explanation/ justification on the deficiencies noted and submit the required documents to facilitate review thereof. Otherwise, the Audit Team will issue Notice of Suspension.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Lanao-del-Norte__Munai_LDN-2020-OBS12",
+      "year": 2020,
+      "recommendation": "Recommendation:\nWe recommended to the Local Chief Executive to direct the Bids and Awards Committee (BAC) Secretariat to comply with the regulations and furnish the audit team with the required copies of contracts along with their supporting documents within the prescribed period for the timely review, evaluation and inspection of the same. Otherwise, the Audit Team will issue Notice of Suspension.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Lanao-del-Norte__Munai_LDN-2020-OBS13",
+      "year": 2020,
+      "recommendation": "Recommendations:\nWe recommended to the Local Chief Executive to direct the General Services Officer Designate to accomplish properly the purchase orders and should see to it that the required conditions are indicated therein. These purchase orders shall then be submitted to the Office of the Auditor irrespective of the amount within five (5) working days pursuant to the abovementioned regulations.\nLikewise, they shall submit copies of inspection of deliveries of goods and services within twenty-four (24) hours from acceptance to enable this office to conduct timely review and validation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Lanao-del-Norte__Munai_LDN-2020-OBS14",
+      "year": 2020,
+      "recommendation": "Recommendation:\nWe recommended to the Local Chief Executive to require the Local Finance Committee, MDRRMO and Municipal Accountant to prepare and post the monthly report on fund utilization and status of implementation of PPAs in LGU’s website or social media accounts and in at least three (3) conspicuous public places in the LGU and submit the Annex C of DBM LBC Circular No. 125 dated April 7, 2020 to COA.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Lanao-del-Norte__Munai_LDN-2020-OBS15",
+      "year": 2020,
+      "recommendation": "Recommendation:\nWe recommended that the Local Chief Executive to require the LDRRMO Officer and other concerned employees to submit the monthly Report on Sources and Utilization of Disaster Risk Reduction and Management Fund, Separate Registry of Appropriations, Allotments and Obligations and the Annual DRRM Plan, Budget and Programs to the Auditor on or before the 15th day after the end of each month pursuant to Section 5.1.5 of COA Circular 2012-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-X__Municipalities__Lanao-del-Norte__Munai_LDN-2020-OBS16",
+      "year": 2020,
+      "recommendation": "Recommendations:\nWe recommended to the Local Chief Executive to:\nDirect the Municipal Planning and Development Coordinator and GAD Focal Person to use the revised GAD Plan and Budget and Accomplishment Report;\nRequire the GAD Focal Person to prepare and submit a copy of GAD Accomplishment Report within the period prescribed under COA Circular No. 2014-001 dated March 18, 2014; and\nRequire the GAD Technical Working Group:\nthat the provisions of the HGDG be complied with by subjecting the GAD PPAs to the GAD Checklist during the project identification and designing programs to determine whether the same fully address gender related issues and HGDG test be conducted at the end of project implementation and incorporate the results in determining the percentage of PPA expenditures attributable to GAD.\nto diligently monitor the implementation of GAD PPAs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LdN-2019-OBS1",
+      "year": 2019,
+      "recommendation": "Recommendations:\nWe recommended to the Local Chief Executive\na.) \tDirect the Municipal Engineer to provide the Municipal Accountant, General Services Officer with the complete description and cost segregation of road components for road projects;\nb.) \tDirect the General Services Officer (Municipal Treasurer) to maintain the Local Road Inventory and Road Map, and to keep a complete Local Road Network Property Card for all roads and its components; and\nc.) \tRequire the Municipal Accountant the following reporting procedures:\ni. \tPrepare the Journal Voucher (JV) to record the beginning balance of the local road network and its components in the general ledger and the Local Road Network Ledger Card, respectively. Support the JV with the Registry of Public Infrastructures for Roads, working paper on the distribution of costs for the road components, and working paper on the determination of the depreciated replacement cost for road components with no available cost per registry.\nKeep and maintain subsidiary records for roads and road components for every road network; and\nPrepare a lapsing schedule for the computation of the depreciation for each component at the end of the year.\nIf possible, designate a General Services Officer other than the Municipal Treasurer in order that reports required are easily prepared and submitted considering the voluminous work of the Municipal Treasurer.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LdN-2019-OBS2",
+      "year": 2019,
+      "recommendation": "Recommendation:\nWe recommended to the Local Chief Executive the following:\nStrictly comply with the rules and regulations on the granting, utilization and liquidation of cash advances; and to refrain granting of cash advance without the necessary supporting documents.\nInstall and established strong internal control primarily on the disbursement cycle on the LGU.\nRequire the Acting Municipal Treasurer to submit all the report of disbursement and liquidation report within the prescribed period.\nDirect the Acting Municipal Accountant to require the supporting documents in the granting and liquidation of cash advance.\ne.)  If possible, compel all officers and employees to enroll on Automated Teller Machine (ATM)",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LdN-2019-OBS3",
+      "year": 2019,
+      "recommendation": "Recommendations:\nWe recommended to the Local Chief Executive the following:\na.) Direct the Municipal Accountant to prioritize the preparation and submission of the monthly Bank Reconciliation Statements. Also require her to get the monthly bank statements from the depository bank promptly and regularly;\nb.) Direct the Acting Municipal Treasurer to reconcile her cashbooks entries with that from the accounting records at least quarterly; and\nc.) \tGive authority to the Municipal Accountant to enroll in LBP i-access so that bank balances can be viewed and printed anytime with the Municipal Treasurer.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LdN-2019-OBS4",
+      "year": 2019,
+      "recommendation": "Recommendation:\nWe have recommended to the Local Chief Executive to:\nRequire both the Accounting Office and General Services Office to have close coordination in the preparation of physical inventory reports and reconciliation of the balances to come up with the updated report of PPE.\nDirect the Municipal Accountant to prepare lapsing schedule of Property, Plant and Equipment account to properly compute and record the corresponding depreciation expenses account.\nDirect the Municipal Accountant to compute the depreciation expense in accordance with COA Circular Letter No. 2004-003 dated October 4, 2004 taking into consideration the Annex A of COA Circular No. 2003-007 presenting the Estimated Useful Life of PPE by classification.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LdN-2019-OBS5",
+      "year": 2019,
+      "recommendation": "Recommendations:\nWe recommended the following:\na.) \tThe Local Chief Executive to create an Inventory Committee to include Department Head to conduct the complete and latest physical inventory count of all PPE and submit Report on the Physical Count of Property, Plant and Equipment (RPCPPE).\nb.) \tDesignate the General Services Officer as lead in the Inventory Committee.\nc.) \tDirect the Inventory Committee to check the condition of the PPE and prepare a report thereon in the Inventory and Inspection Report of Unserviceable Property (IIRUP) and Waste Materials Report (WMR), the damaged, obsolete and unserviceable PPE identified in the course of inventory-taking and request for its immediate disposal.\nd.)\tInstruct the General Services Officer-Designate/ Supply Officer and the Acting Municipal Accountant to regularly reconcile their records and review the composition of the PPE account to come up with an accurate Property, Plant and Equipment account balance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LdN-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended to the Local Chief Executive to direct the Municipal Accountant and Municipal Treasurer to submit Liquidation Reports and/or Report of Disbursements within the prescribed time.\n\nWe recommended to the Local Chief Executive to compel the Bids and Award Committee (BAC) for strict adherence to Implementing Rules and Regulations of RA 9184 or Procurement Law.\n\nWe recommended to the Local Chief Executive to strictly comply with the rules and regulations on the granting, utilization and liquidation of cash advances; and to refrain from granting of cash advance without the necessary supporting documents.\n\nWe recommended to the Local Chief Executive the following:\na.) Strictly observed the prescribed period on the submission of the required reports.\nb.) Install and established a strong internal control primarily on the disbursement system of the LGU.\n\nWe recommended to the Local Chief Executive the following:\na.) \tDirect the BAC Secretariat to forward the supporting documents required in the attached checklist marked as Annexes A to T to support the  possible request of technical review of the completed projects.\nb.) \tDirect the Municipal Engineer to request for inspection to the COA, Technical Services Sector through the audit team of all completed projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LdN-2019-OBS7",
+      "year": 2019,
+      "recommendation": "Recommendations:\nWe recommended to the Local Chief Executive the following:\na.) Direct the Acting Municipal Treasurer to submit disbursement vouchers after payment with complete supporting documents to the Office of Municipal Accountant.\nb.) Direct the Municipal Accountant to strictly adhere to the prescribed time frame for the submission of monthly and quarterly reports as well as transmitting all receipts and disbursement records with complete supporting documents to the Office of the Auditor.\nc.) Direct the Municipal Accountant to closely coordinate with the Acting Municipal Treasurer for the latter to submit immediately the required reports within the prescribed period, and to facilitate the recording of the transactions in the books of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LdN-2019-OBS8",
+      "year": 2019,
+      "recommendation": "Recommendations:\nWe recommended to Local Chief Executive to:\na.) Direct the Acting Municipal Treasurer to submit the disbursement vouchers pertaining to the 20% Development Fund, Special Education Fund, Local Disaster Risk Reduction and Management Fund and other Trust Fund after payment with complete supporting documents to the Office of Municipal Accountant.\nb.) Direct the Municipal Accountant to strictly adhere to the prescribed time frame for the submission of disbursement records with complete supporting documents to the Office of the Auditor.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LdN-2019-OBS9",
+      "year": 2019,
+      "recommendation": "Recommendations:\nWe recommended to the Local Chief Executive to:\na.) Require the Municipal Treasurer and Municipal Accountant to prioritize the payment for electricity and other utilities on time in order to avoid penalties. It shall be made on or before the due date to avoid incurrence of unnecessary and irregular expenditures.\nb.) Direct the Office of The Municipal Treasurer to explain the delayed payment of utilities, if proven to be out of neglect or laxity of duty, refund the amount paid for the penalties and surcharges.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommended the following:\n\nThe Acting Municipal Accountant to prioritize the preparation and submission of the  monthly Bank Reconciliation Statements in adherence to Section 74 of PD 1445 and COA Circular No. 96-11. Also require her to get the monthly bank statements from the depository bank promptly and regularly;\n\nThe Municipal Treasurer to reconcile her cashbooks entries with that from the accounting records at least quarterly; and\n\nRequest the Local Chief Executive and the Municipal Treasurer to enroll in LBP i-access and authorized the Acting Municipal Accountant to view and print the Bank Statements so that bank balances can be viewed and printed anytime.\n\nd.) Request the Local Chief Executive to augment personnel of the Accounting Office.",
+      "managementAction": "Municipal Accountant to coordinate with the bank to get bank statement or snapshot regularly.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "(Reiterated in this 2018AAR)\n\nFinding No. 001 | Lack of manpower /staff."
+    },
+    {
+      "id": "Munai_LDN-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommended to the Local Chief Executive:\na.) To strictly comply with the rules and regulations on the granting, utilization and liquidation of cash advances.\nb.) To refrain from granting of cash advance without the necessary supporting documents.\nc.) To require the Municipal Treasurer to submit all the report of disbursement and liquidation report within the prescribed period.\nd.) To compel all officers and employees to enroll on Automated Teller Machine (ATM)",
+      "managementAction": "Adopt audit recommendation",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "(Reiterated in this 2018 AAR)\n\n Finding No. 002 | The account increased by P21,093,412.79."
+    },
+    {
+      "id": "Munai_LDN-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommended to the Local Chief Executive the following:\n\nTo increase the fidelity bond of the Accountable Officer sufficient to the needs of the LGU.\n\nDirect the Municipal Budget Officer to provide budget for the bond premium.",
+      "managementAction": "Adopt Audit Recommendation",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "(Reiterated in this 2018 AAR)\n\nFinding No. 006 |"
+    },
+    {
+      "id": "Munai_LDN-2018-PY6",
+      "year": 2018,
+      "recommendation": "We recommended to the Local Chief Executive to:\n\nCreate an Inventory Committee for the conduct of complete physical inventory count of all PPE and submit Report on the Physical Count of Property, Plant and Equipment (RPCPPE).\n\nDesignate the General Services Officer as lead in the Inventory Committee.\n\nStart the actual count by office or by division.\n\nInstruct the General Services Officer and the Acting Municipal Accountant to regularly reconcile their records and review the composition of the PPE account to come up with an accurate Property, Plant and Equipment account balance.",
+      "managementAction": "Tasks the General Services Officer as lead personnel and to coordinate with Municipal Accountant for reconciliation of records of PPE.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "(Reiterated in this 2018 AAR)\n\nFinding No. 003 | Have a difficulty in physical count of Property, Plant and Equipment for the reason that there are still assets recorded in the books of account which are no longer be identified or accounted for."
+    },
+    {
+      "id": "Munai_LDN-2018-PY11",
+      "year": 2018,
+      "recommendation": "We recommended to the Local Chief Executive to direct the General Services Officer Designate through the Bids and Awards Committee (BAC) Secretariat to submit all perfected contracts within 5 days from its execution to the Office of the Audit Team for evaluation and review.",
+      "managementAction": "Management will follow on the submission of  the contracts within 5 days.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "(Reiterated in this 2018 AAR)\n\nFinding No. 010 | Overlooked by the BAC Secretariat.\n\nManagement assured to comply with the requirement."
+    },
+    {
+      "id": "Munai_LDN-2018-PY12",
+      "year": 2018,
+      "recommendation": "We recommended to the Local Chief Executive to direct the General Services Officer Designated to submit or furnish copies of inspection reports of delivered goods or inform the Audit Team within twenty-four (24) hours upon acceptance of delivered procured materials.",
+      "managementAction": "Management will submit the inspection reports within 24 hours from acceptance.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "(Reiterated in this 2018 AAR)\n\nFinding No. 011 | Overlooked by the GSO/Treasurer.\n\nManagement assured to comply with the requirement."
+    },
+    {
+      "id": "Munai_LDN-2018-PY13",
+      "year": 2018,
+      "recommendation": "We recommended to the Local Chief Executive to require the LDRRMO Officer and other concerned employees to submit the monthly Report on Sources and Utilization of Disaster Risk Reduction and Management Fund, Separate Registry of Appropriations, Allotments and Obligations and the Annual DRRM Plan, Budget and Programs to the Auditor on or before the 15th day after the end of each month pursuant to Section 5.1.5 of COA Circular 2012-002.",
+      "managementAction": "To abide by the afore-mentioned COA Circular and NGAS/ PPAS Manual.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "(Reiterated in this 2018 AAR)\n\nFinding No. 012 | Not able to prioritize the submission of LDRRMF monthly reports"
+    },
+    {
+      "id": "Munai_LDN-2018-PY14",
+      "year": 2018,
+      "recommendation": "We recommended to the Local Chief Executive to require the GAD Focal Person to prepare and submit a copy of the DILG approved annual GAD Plan and Budget (GPB) and the corresponding GAD Accomplishment Report within the period prescribed under COA Circular No. 2014-001 dated March 18, 2014.",
+      "managementAction": "The agency will comply in the submission of a copy of its DILG approved 2018 Plan and Budgets and its accomplishment report.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "(Reiterated in this 2018 AAR)\n\nFinding No. 013 | Overlooked by the GAD Focal Person.\n\nManagement assured to comply with the requirement."
+    },
+    {
+      "id": "Munai_LDN-2018-PY15",
+      "year": 2018,
+      "recommendation": "We recommended to the Local Chief Executive:\n\na.) To require the Local School Board, Acting Municipal Accountant and other employees concern to strictly adhere with the provision of Sec. 100 of RA 7160, DEPED-DBM-DILG Joint Circular No. 01 s. 2017 and other existing budgeting, accounting, and auditing rules and regulations.\n\nb.)  To open a separate account for Special Education Fund (SEF).",
+      "managementAction": "Adopt Audit Recommendation",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "(Reiterated in this 2018 AAR)\n\nFinding No. 014 | Overlooked by the concerned personnel.\n\nManagement assured to comply with the requirement."
+    },
+    {
+      "id": "Munai_LDN-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended the following:\nThe Acting Municipal Accountant to prioritize the preparation and submission of the  monthly Bank Reconciliation Statements in adherence to Section 74 of PD 1445 and COA Circular No. 96-11. Also require her to get the monthly bank statements from the depository bank promptly and regularly;\nThe Municipal Treasurer to reconcile her cashbooks entries with that from the accounting records at least quarterly; and\nRequest the Local Chief Executive and the Municipal Treasurer to enroll in LBP i-access and authorized the Acting Municipal Accountant to view and print the Bank Statements so that bank balances can be viewed and printed anytime.\nd.) Request the Local Chief Executive to augment personnel of the Accounting Office. If possible, hire a Certified Public Accountant to ensure timely submission of the required reports and documents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We recommended to the Local Chief Executive:\na.) To strictly comply with the rules and regulations on the granting, utilization and liquidation of cash advances.\nb.) To refrain from granting of cash advance without the necessary supporting documents.\nc.) To require the Municipal Treasurer to submit all the report of disbursement and liquidation report within the prescribed period.\nd.) To compel all officers and employees to enroll on Automated Teller Machine (ATM)",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended to the Local Chief Executive to:\nCreate an Inventory Committee for the conduct of complete physical inventory count of all PPE and submit Report on the Physical Count of Property, Plant and Equipment (RPCPPE).\nDesignate the General Services Officer as lead in the Inventory Committee.\nStart the actual count by office or by division.\nInstruct the General Services Officer and the Acting Municipal Accountant to regularly reconcile their records and review the composition of the PPE account to come up with an accurate Property, Plant and Equipment account balance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended the following:\nDirect the Local Chief Executive to strictly adhere with the provisions of RA 7160 or Local Government Code of 1991 in the preparation and submission of the local budget, supplemental budget, realignment, and approved legislative resolutions.\nRequire the Municipal Budget Officer to prepare the quarterly Statement of Appropriation, Allotments, Obligations and Balances (SAAOB) and to submit the same to the audit team.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive to comply with the submission of the Agency Action Plan and Status of Implementation (APPSI) within 60 days upon receipt of the COA Annual Audit Report.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We recommended to the Local Chief Executive the following:\nTo increase the fidelity bond of the Accountable Officer sufficient to the needs of the LGU.\nDirect the Municipal Budget Officer to provide budget for the bond premium.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2018-OBS7",
+      "year": 2018,
+      "recommendation": "We recommended to the Local Chief Executive to:\nDirect the Acting Municipal Accountant to coordinate with the Municipal Treasurer to submit on time the official receipts, disbursement vouchers every 10th day of the following month in compliance to Section 7.2.1 (a) of COA Circular No. 2009-006.\nDirect the Acting Municipal Accountant to adhere strictly to the prescribed time frame for the submission of monthly reports and financial reports to the Office of the Auditor not later than the 20th day after the end of each month as prescribed under Section 70 of the NGAS Manual for Local Government Unit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2018-OBS8",
+      "year": 2018,
+      "recommendation": "We recommended that Local Chief Executive to direct the Acting Municipal Accountant to implement the P5,000.00 net take home pay required for each employee as provided under the General Provisions of the General Appropriation Act (GAA) for FY 2018 also known as Republic Act No. 10964.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2018-OBS9",
+      "year": 2018,
+      "recommendation": "We recommended to the Local Chief Executive to direct the Acting Municipal Accountant to demand the concerned officials and employees for the immediate liquidation of their cash advances on travel, and submit the required supporting documents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2018-OBS10",
+      "year": 2018,
+      "recommendation": "We recommended to the Local Chief Executive to direct the General Services Officer Designate through the Bids and Awards Committee (BAC) Secretariat to submit all perfected contracts within 5 days from its execution to the Office of the Audit Team for evaluation and review.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2018-OBS11",
+      "year": 2018,
+      "recommendation": "We recommended to the Local Chief Executive to direct the General Services Officer Designate to submit or furnish copies of inspection reports of delivered goods or inform the Audit Team within twenty-four (24) hours upon acceptance of delivered procured materials.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2018-OBS12",
+      "year": 2018,
+      "recommendation": "We recommended to the Local Chief Executive to require the GAD Focal Person to prepare and submit a copy of the DILG approved annual GAD Plan and Budget (GPB) and the corresponding GAD Accomplishment Report within the period prescribed under COA Circular No. 2014-001 dated March 18, 2014.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2018-OBS13",
+      "year": 2018,
+      "recommendation": "We recommended to the Local Chief Executive to require the LDRRMO Officer and other concerned employees to submit the monthly Report on Sources and Utilization of Disaster Risk Reduction and Management Fund, Separate Registry of Appropriations, Allotments and Obligations and the Annual DRRM Plan, Budget and Programs to the Auditor on or before the 15th day after the end of each month pursuant to Section 5.1.5 of COA Circular 2012-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2018-OBS14",
+      "year": 2018,
+      "recommendation": "We recommended to the Local Chief Executive:\na.) To require the Local School Board, Acting Municipal Accountant and other employees concern to strictly adhere with the provision of Sec. 100 of RA 7160, DEPED-DBM-DILG Joint Circular No. 01 s. 2017 and other existing budgeting, accounting, and auditing rules and regulations.\nb.)  To open a separate account for Special Education Fund (SEF).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2018-PY3",
+      "year": 2018,
+      "recommendation": "We have recommended the following:\n\nThe Local Chief Executive should refrain from granting of cash advances to Elective Officials other than their traveling expenses.\n\nb.) Direct the Acting Municipal Accountant to send demand letters for immediate liquidation of the outstanding balance.\n\nc.) Direct the Acting Municipal Accountant to strictly require the submission of the liquidation report of the previous cash advances before another cash advances shall be granted.",
+      "managementAction": "Elective Officials were no longer granted cash advances other than their travelling expenses.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2018-PY4",
+      "year": 2018,
+      "recommendation": "We recommended to the Local Chief Executive to:\n\t\na.) To refrain from granting cash advances to officials and employees who are not bonded.\n\nTo require the officers and employees designated as special disbursing officer to apply with the Bureau of Treasury a fidelity bond sufficient to cover up their cash accountability.\n\nTo issue memorandum to those designated as Special Disbursing Officer.\n\nd.) To provide budget for  the bond premium.",
+      "managementAction": "There is already designation to the Special Disbursing Officers and approved fidelity bond as prescribed under the law.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommended to the Local Chief Executive to direct the Acting Municipal Accountant to strictly maintain the complete set of Book of Accounts, among others the General Ledger and Subsidiary Ledger, and to strictly adhere to Section 111 and 114 of P.D. 1445 and Section 4.e. of The New Government Accounting System Manual for Local Government Units.",
+      "managementAction": "The municipality already maintained the General and Subsidiary Ledgers for every transaction.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommended to the Local Chief Executive to:\n\nDirect the Acting Municipal Accountant to coordinate with the Municipal Treasurer to submit on time the official receipts, disbursement vouchers every 10th day of the following month in compliance to Section 7.2.1 (a) of COA Circular No. 2009-006.\n\nDirect the Acting Municipal Accountant to adhere strictly to the prescribed time frame for the submission of monthly reports and financial reports to the Office of the Auditor not later than the 20th day after the end of each month as prescribed under Section 70 of the NGAS Manual for Local Government Unit.",
+      "managementAction": "To abide by the afore-mentioned COA Circular and NGAS/ PPAS Manual.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "(Reiterated in this 2018 AAR)\n\nFinding No. 007 | Lack of support staff."
+    },
+    {
+      "id": "Munai_LDN-2018-PY9",
+      "year": 2018,
+      "recommendation": "We recommended to the Local Chief Executive to:\n\na.) \tDirect the Municipality’s officers and employees to impose proper application of the entitlement of traveling allowance as well as completeness and regularity of the essential documents like travel orders, bus tickets, e-ticket, boarding pass and itinerary of travel. \n\nb.) Require the concerned officials and employees to refund the excess amount of the travelling expenses claimed by the officials.",
+      "managementAction": "There are some who complied in claiming travelling expense/s based on EO 298 and other important provisions.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2018-PY10",
+      "year": 2018,
+      "recommendation": "We recommended to the Local Chief Executive to secure legal basis in the granting of honorarium and other allowances to other employees stationed at the Municipality. Submit it to the Audit Team for evaluation.",
+      "managementAction": "To abide by the afore-mentioned COA Circular regarding irregular expenditures.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2017-PY2",
+      "year": 2017,
+      "recommendation": "We recommended the following:\n\na.) The Local Chief Executive to create an Inventory Committee for the conduct   of complete physical inventory count of all PPE and submit Report on the Physical Count of Property, Plant and Equipment (RPCPPE).\n\nb.)\tDesignate the General Services Officer as lead in the Inventory Committee.\n\nc.)\tInstruct the General Services Officer Designate and the Municipal Accountant to regularly reconcile their records and review the composition of the PPE account to come up with an accurate Property, Plant and Equipment account balance.",
+      "managementAction": "Tasks the General Services Officer as lead personnel and to coordinate with Municipal Accountant for reconciliation of records of PPE.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Have a difficulty in physical count of Property, Plant and Equipment for the reason that there are still assets recorded in the books of account which are no longer be identified or accounted for."
+    },
+    {
+      "id": "Munai_LDN-2017-PY4",
+      "year": 2017,
+      "recommendation": "We recommended the following:\n\na.)\tDirect the Municipal Treasurer and Municipal Accountant to  transfer the unexpended balance of LDRRMC Fund to a Special Trust Fund in the Trust Fund account solely for the purpose of supporting disaster risk reduction and management activities of the LDRRMC’s within the next five (5) years pursuant to Section  21 of RA 10121 and COA Circular No.2012-002.\n\nb.) Require the LDRRMC to incorporate the programs, projects and activities of the unexpended LDRRMF to the Local Disaster Risk Reduction Management Fund Investment Plan (LDRRMFIP) which is prepared annually.\n\n\nc.) Instruct the Local Disaster Risk Management Officer and Municipal Accountant to submit the required reports under COA Circular N0. 2012-002, such as the LDRRMFIP (Annex A) and the Report on Utilization of DRRMF using the Annex B Format should be prepared and submitted to the   agencies stated above for compliance.",
+      "managementAction": "Management already set-up planned and have SB Resolution for the opening of special trust account for unexpended balance of DRRMCF at the end of 2017.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The 5% Calamity Fund was fully utilized for the relief and operation as well as medicines for the evacuees and casualties of the entire affected families due to Typhoon Vinta in which LGU-Munai was one of the severely damaged/affected Municipality of Lanao del Norte"
+    },
+    {
+      "id": "Munai_LDN-2017-PY5",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive should instruct the Local Finance Committee that at least 5% of the annual appropriation be allocated for GAD related activities as provided under RA 7192, EO 243, and DBM-NEDA-PCW Joint Circular No. 2012-01. \n\nAlso, require the LGU GAD Focal Point (GFP) to strictly comply and adhere the  provisions on the preparation, submission, review and endorsement of Agency GAD Plans and Budget as illustrated under Annexes A, B, & C of the attached PCW-DILG-DBM-NEDA Joint Circular No. 20013-01.",
+      "managementAction": "The LGU have Annual Appropriations for GAD plans and programs equals to 5% of the total Annual Income of the LGU and has been incorporated in the Annual Budget of the Municipality.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management assured to comply with the requirement."
+    },
+    {
+      "id": "Munai_LDN-2017-PY7",
+      "year": 2017,
+      "recommendation": "We recommended that the General Services Officer – Designate is required to submit or furnish copies of inspection reports within twenty-four (24) hours from acceptance of delivered procured materials.",
+      "managementAction": "Management will submit the inspection reports within 24 hours from acceptance.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Overlooked by the GSO/Treasurer.\n\nManagement assured to comply with the requirement."
+    },
+    {
+      "id": "Munai_LDN-2017-OBS1",
+      "year": 2017,
+      "recommendation": "Recommendations:\nWe recommended the following:\nThe Acting Municipal Accountant to prioritize the preparation and submission of the  monthly Bank Reconciliation Statements in adherence to Section 74 of PD 1445 and COA Circular No. 96-11. Also require her to get the monthly bank statements from the depository bank promptly and regularly;\nThe Municipal Treasurer to reconcile her cashbooks entries with that from the accounting records at least quarterly; and\nRequest the Local Chief Executive and the Municipal Treasurer to enroll in LBP i-access and authorized the Acting Municipal Accountant to view and print the Bank Statements so that bank balances can be viewed and printed anytime.\nd.) Request the Local Chief Executive to augment personnel of the Accounting Office.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2017-OBS2",
+      "year": 2017,
+      "recommendation": "Recommendations:\nWe recommended to the Local Chief Executive:\na.) To strictly comply with the rules and regulations on the granting, utilization and liquidation of cash advances.\nb.) To refrain from granting of cash advance without the necessary supporting documents.\nc.) To require the Municipal Treasurer to submit all the report of disbursement and liquidation report within the prescribed period.\nd.) To compel all officers and employees to enroll on Automated Teller Machine (ATM)",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2017-OBS3",
+      "year": 2017,
+      "recommendation": "Recommendations:\nWe have recommended the following:\nThe Local Chief Executive should refrain from granting of cash advances to Elective Officials other than their traveling expenses.\nb.) Direct the Acting Municipal Accountant to send demand letters for immediate liquidation of the outstanding balance.\nc.) Direct the Acting Municipal Accountant to strictly require the submission of the liquidation report of the previous cash advances before another cash advances shall be granted.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2017-OBS4",
+      "year": 2017,
+      "recommendation": "Recommendations:\nWe recommended to the Local Chief Executive:\na.) To refrain from granting cash advances to officials and employees who are not bonded.\nTo require the officers and employees designated as special disbursing officer to apply with the Bureau of Treasury a fidelity bond sufficient to cover up their cash accountability.\nTo issue memorandum to those designated as Special Disbursing Officer.\nd.)  To provide budget for the bond premium.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2017-OBS5",
+      "year": 2017,
+      "recommendation": "Recommendations:\nWe recommended to the Local Chief Executive the following:\nTo increase the fidelity bond of the Accountable Officer sufficient to the needs of the LGU.\nDirect the Municipal Budget Officer to provide budget for the bond premium.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2017-OBS6",
+      "year": 2017,
+      "recommendation": "Recommendations:\nWe recommended to the Local Chief Executive to:\nCreate an Inventory Committee for the conduct of complete physical inventory count of all PPE and submit Report on the Physical Count of Property, Plant and Equipment (RPCPPE).\nDesignate the General Services Officer as lead in the Inventory Committee.\nStart the actual count by office or by division.\nInstruct the General Services Officer and the Acting Municipal Accountant to regularly reconcile their records and review the composition of the PPE account to come up with an accurate Property, Plant and Equipment account balance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2017-OBS7",
+      "year": 2017,
+      "recommendation": "Recommendations:\nWe recommended to the Local Chief Executive to direct the Acting Municipal Accountant to strictly maintain the complete set of Book of Accounts, among others the General Ledger and Subsidiary Ledger, and to strictly adhere to Section 111 and 114 of P.D. 1445 and Section 4.e. of The New Government Accounting System Manual for Local Government Units.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2017-OBS8",
+      "year": 2017,
+      "recommendation": "Recommendations:\nWe recommended to the Local Chief Executive to:\nDirect the Acting Municipal Accountant to coordinate with the Municipal Treasurer to submit on time the official receipts, disbursement vouchers every 10th day of the following month in compliance to Section 7.2.1 (a) of COA Circular No. 2009-006.\nDirect the Acting Municipal Accountant to adhere strictly to the prescribed time frame for the submission of monthly reports and financial reports to the Office of the Auditor not later than the 20th day after the end of each month as prescribed under Section 70 of the NGAS Manual for Local Government Unit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2017-OBS9",
+      "year": 2017,
+      "recommendation": "Recommendations:\nWe recommended to the Local Chief Executive to:\na.) \tDirect the Municipality’s officers and employees to impose proper application of the entitlement of traveling allowance as well as completeness and regularity of the essential documents like travel orders, bus tickets, e-ticket, boarding pass and itinerary of travel.\nb.) \tRequire the concerned officials and employees to refund the excess amount of the travelling expenses claimed by the officials.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2017-OBS10",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended to the Local Chief Executive to secure legal basis in the granting of honorarium and other allowances to other employees stationed at the Municipality. Submit it to the Audit Team for evaluation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2017-OBS11",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended to the Local Chief Executive to direct the General Services Officer Designate through the Bids and Awards Committee (BAC) Secretariat to submit\nall perfected contracts within 5 days from its execution to the Office of the Audit Team for evaluation and review.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2017-OBS12",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended to the Local Chief Executive to direct the General Services Officer Designate to submit or furnish copies of inspection reports of delivered goods or inform the Audit Team within twenty-four (24) hours upon acceptance of delivered procured materials.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2017-OBS13",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended to the Local Chief Executive to require the LDRRMO Officer and other concerned employees to submit the monthly Report on Sources and Utilization of Disaster Risk Reduction and Management Fund, Separate Registry of Appropriations, Allotments and Obligations and the Annual DRRM Plan, Budget and Programs to the Auditor on or before the 15th day after the end of each month pursuant to Section 5.1.5 of COA Circular 2012-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2017-OBS14",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended to the Local Chief Executive to require the GAD Focal Person to prepare and submit a copy of the DILG approved annual GAD Plan and Budget (GPB) and the corresponding GAD Accomplishment Report within the period prescribed under COA Circular No. 2014-001 dated March 18, 2014.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2017-OBS15",
+      "year": 2017,
+      "recommendation": "Recommendations:\nWe recommended to the Local Chief Executive:\na.) To require the Local School Board, Acting Municipal Accountant and other employees concern to strictly adhere with the provision of Sec. 100 of RA 7160, DEPED-DBM-DILG Joint Circular No. 01 s. 2017 and other existing budgeting, accounting, and auditing rules and regulations.\nb.)  To open a separate account for Special Education Fund (SEF).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2017-PY1",
+      "year": 2017,
+      "recommendation": "We have recommended the following:\n\na.) The Municipal Accountant to prepare and submit Bank Reconciliation Statements monthly in adherence to Section 74 of PD 1445 and COA Circular No. 96-11. Also require her to get the monthly bank statements from the depository bank promptly and regularly;\n\nb.) The Municipal Accountant to prepare an adjusting entries for the staled checks, prepare a letter immediately to the concerned bank for the discrepancies found in the bank statements, maintain subsidiary ledger for each collectors, and prioritize the verification of other recurring reconciling items to bring the cash in bank account in its correct balance;\n\nc.) The Municipal Treasurer to reconcile her cashbooks entries with that from the accounting records at least quarterly; and\n\nd.) The Collecting Officers to submit the Report of Collections and Deposits to the accounting division individually.\n\ne.) Request the Local Chief Executive and the Municipal Treasurer to enroll in LBP i-access so that bank balances can be viewed and printed anytime.",
+      "managementAction": "Municipal Accountant to coordinate with the bank to get bank statement or snapshot regularly.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Lack of manpower /staff."
+    },
+    {
+      "id": "Munai_LDN-2017-PY3",
+      "year": 2017,
+      "recommendation": "We recommended the following:\n\na.)\tThe Municipal Accountant should coordinate with the Municipal Treasurer to submit on time the official receipts, disbursement vouchers every 10th day of the following month in compliance to Section 7.2.1 (a) of COA Circular No. 2009-006.\n\nb.)\tThe Municipal Accountant should likewise adhere strictly to the prescribed time frame for the submission of monthly reports and financial reports to the Office of the Auditor not later than the 20th day after the end of each month as prescribed under Section 70 of the NGAS Manual for Local Government Unit.",
+      "managementAction": "To abide by the afore-mentioned COA Circular and NGAS/ PPAS Manual",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Lack of support staff.\n\nManagement exerted its effort to submit the mandatory reports within the reglementary period."
+    },
+    {
+      "id": "Munai_LDN-2017-PY6",
+      "year": 2017,
+      "recommendation": "We recommended that the General Services Officer – Designate through the Bids and Awards Committee Secretariat shall submit all perfected contracts within 5 days from the execution of every contract to the Office of the Auditor/Audit  Team Leader.",
+      "managementAction": "Management will submit the contracts within 5 days.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Overlooked by the BAC Secretariat.\n\nManagement assured to comply with the requirement."
+    },
+    {
+      "id": "Munai_LDN-2016-PY6",
+      "year": 2016,
+      "recommendation": "The management should submit all perfected contracts within 5 days from the execution of every contract.",
+      "managementAction": "Management will submit the contracts within 5 days.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management was not used to submit contract but assured to comply with the requirement."
+    },
+    {
+      "id": "Munai_LDN-2016-PY7",
+      "year": 2016,
+      "recommendation": "The GSO office in-charge is required to submit or furnish copies of inspection reports within twenty-four (24) hours from acceptance of delivered procured materials.",
+      "managementAction": "Management will submit the inspection reports within 24 hours from acceptance.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management was not used to submit inspection reports but assured to comply with the requirement."
+    },
+    {
+      "id": "Munai_LDN-2016-OBS1",
+      "year": 2016,
+      "recommendation": "Recommendations:\nWe have recommended the following:\nThe Municipal Accountant to prepare and submit Bank Reconciliation Statements monthly in adherence to Section 74 of PD 1445 and COA Circular No. 96-11. Also require her to get the monthly bank statements from the depository bank promptly and regularly;\nThe Municipal Accountant to prepare an adjusting entries for the staled checks, prepare a letter immediately to the concerned bank for the discrepancies found in the bank statements, maintain subsidiary ledger for each collectors, and prioritize the verification of other recurring reconciling items to bring the cash in bank account in its correct balance;\nThe Municipal Treasurer to reconcile her cashbooks entries with that from the accounting records at least quarterly; and\nThe Collecting Officers to submit the Report of Collections and Deposits to the accounting division individually.\nRequest the Local Chief Executive and the Municipal Treasurer to enroll in LBP i-access so that bank balances can be viewed and printed anytime.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2016-OBS2",
+      "year": 2016,
+      "recommendation": "Recommendation:\nWe recommended the following:\nThe Local Chief Executive to create an Inventory Committee for the conduct of complete physical inventory count of all PPE and submit Report on the Physical Count of Property, Plant and Equipment (RPCPPE).\nDesignate the General Services Officer as lead in the Inventory Committee.\nInstruct the General Services Officer Designate and the Municipal Accountant to regularly reconcile their records and review the composition of the PPE account to come up with an accurate Property, Plant and Equipment account balance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2016-OBS3",
+      "year": 2016,
+      "recommendation": "Recommendations:\nWe recommended the following:\nThe Municipal Accountant should coordinate with the Municipal Treasurer to submit on time the official receipts, disbursement vouchers every 10th day of the following month in compliance to Section 7.2.1 (a) of COA Circular No. 2009-006.\nThe Municipal Accountant should likewise adhere strictly to the prescribed time frame for the submission of monthly reports and financial reports to the Office of the Auditor not later than the 20th day after the end of each month as prescribed under Section 70 of the NGAS Manual for Local Government Unit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2016-OBS4",
+      "year": 2016,
+      "recommendation": "Recommendation:\nWe recommended the following:\nDirect the Municipal Treasurer and Municipal Accountant to  transfer the unexpended balance of LDRRMC Fund to a Special Trust Fund in the Trust Fund account solely for the purpose of supporting disaster risk reduction and management activities of the LDRRMC’s within the next five (5) years pursuant to Section  21 of RA 10121 and COA Circular No.2012-002.\nRequire the LDRRMC to incorporate the programs, projects and activities of the unexpended LDRRMF to the Local Disaster Risk Reduction Management Fund Investment Plan (LDRRMFIP) which is prepared annually.\nInstruct the Local Disaster Risk Management Officer and Municipal Accountant to submit the required reports under COA Circular N0. 2012-002, such as the LDRRMFIP (Annex A) and the Report on Utilization of DRRMF using the Annex B Format should be prepared and submitted to the agencies stated above for compliance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2016-OBS5",
+      "year": 2016,
+      "recommendation": "Recommendation:\nWe recommended that the Local Chief Executive should instruct the Local Finance Committee that at least 5% of the annual appropriation be allocated for GAD related activities as provided under RA 7192, EO 243, and DBM-NEDA-PCW Joint Circular No. 2012-01.\nAlso, require the LGU GAD Focal Point (GFP) to strictly comply and adhere the provisions on the preparation, submission, review and endorsement of Agency GAD Plans and Budget as illustrated under Annexes A, B, & C of the attached PCW-DILG-DBM-NEDA Joint Circular No. 20013-01.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2016-OBS6",
+      "year": 2016,
+      "recommendation": "Recommendation:\nWe recommended that the General Services Officer – Designate through the Bids and Awards Committee Secretariat shall submit all perfected contracts within 5 days from the execution of every contract to the Office of the Auditor/Audit Team Leader.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2016-OBS7",
+      "year": 2016,
+      "recommendation": "Recommendation:\nWe recommended that the General Services Officer – Designate is required to submit or furnish copies of inspection reports within twenty-four (24) hours from acceptance of delivered procured materials.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2016-PY1",
+      "year": 2016,
+      "recommendation": "1.\tWe recommend the management to create an Inventory Committee for the sole purpose of conducting a physical inventory of Property, Plant and Equipment.\n\n2. \tRequire the Accounting and General Services Offices to observe the procedures on the preparation, proper recording, and the updating of SL/Property Cards for PPE; and Supplies Ledger Cards and Stock Cards for Inventories.",
+      "managementAction": "The management already initiated inventory of Property, Plant and Equipment by department/ office.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There was lack of manpower to do the recording. However, partial inventory of Property, Plant and Equipment was already initiated, thus, recording will follow."
+    },
+    {
+      "id": "Munai_LDN-2016-PY2",
+      "year": 2016,
+      "recommendation": "We recommend to require the Municipal Treasurer to deposit the balance of the 30% of 5% Trust Fund account.\n\nRequire the Local Disaster Risk Reduction Council (LDRRMC) to submit the following:\nLocal Disaster Risk Reduction Management Fund Investment Plan (LDRRMFIP) and Report on Sources and Utilization of DRRMF or Annexes A and B, respectively of COA Circular No. 2012-002 dated September 12, 2002\n\nb. Copies of separate Registry of Appropriation, Allotments and Obligations (RAAO) – for Quick Response Fund, for Maintenance & Other Operating Expenses (MOOE) and Capital Outlay.",
+      "managementAction": "The Management has secured a SB Resolution granting the setting up of LDRRMF Trust Account.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Management commit to transfer the LDDRMF balances to a Special Trust Fund account"
+    },
+    {
+      "id": "Munai_LDN-2016-PY3",
+      "year": 2016,
+      "recommendation": "Strictly comply with the provision of Section 119 of P.D. 1445. Refrain from using current appropriation/ allotment for payment of prior year’s obligations/ transactions.\nTake up in the books of accounts all valid and legal expenditures that are not paid at the end of the calendar year shall be properly obligated as accounts payable in accordance with laws and regulations to preclude distortion of the current annual budget and possible misstatement of income.\nEffect the necessary adjusting journal entries to rectify the error.\nInform all cost center heads in advance to submit supporting documents to the budget office for obligation of the expenses already incurred during the year to be charged to the current year appropriation.",
+      "managementAction": "The Management stopped paying unobligated prior year expenses  and expenses were paid and recorded on the calendar year which it was incurred.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2016-PY4",
+      "year": 2016,
+      "recommendation": "The Supply/Property Officer to record the supplies and materials acquisitions using the perpetual inventory method as required under the New Government Accounting System (NGAS).   This  is  done  by  debiting  the   inventory account for all  receipts   of  \nsupplies and materials.  Any issuances of supplies and materials should be made thru a report to be submitted on a monthly basis to the accounting unit by the supplies and materials unit.  In which case, the entry should be debited to supplies expense account and a credit to inventory account.",
+      "managementAction": "Supplies and materials that are not issued directly to the users are properly recorded in the Inventory account.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Munai_LDN-2016-PY5",
+      "year": 2016,
+      "recommendation": "Require the Cashier and the Accountant to strictly observe the prescribed time to submit these documents to COA and for the immediate supervisors to monitor its compliance.",
+      "managementAction": "The Local Chief Executive instructed the Municipal Treasurer and Municipal Accountant to submit the reports on time.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Management exerted its effort to submit the mandatory reports within the reglementary period."
+    }
+  ]
+}

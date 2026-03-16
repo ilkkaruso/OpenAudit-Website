@@ -1,0 +1,870 @@
+{
+  "lguCode": "405648000",
+  "lguName": "Tiaong",
+  "province": "Quezon",
+  "region": "Region III (Central Luzon)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "Tiaong_Quezon_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the:\n• Municipal Treasurer/GSO and the Municipal Accountant to determine/identify the\nunidentified municipal properties; and\n• Disposal Committee to undertake the immediate disposal of the unserviceable\nproperties avoid further deterioration and possible loss and to generate additional\nincome from its disposal.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Inventory Committee\nto conduct the physical count of all supplies and materials inventory of the\nMunicipality every semester. Thereafter, prepare and render a complete RPCI and\nsubmit to the COA Audit Team not later than July 31 and January 31 of each year for\nthe first and second semester, respectively.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Municipal Accountant to prepare Supplies Ledger Card for supplies held in stock in the General Services Office. We also reiterated our recommendation that the Municipal Mayor designate an administrative staff from the available manpower to assist the Supply Officer in the preparation and maintenance of complete stock cards per type of supply as well as the preparation and submission of the Summary of Supplies and Materials Issued together with the original copy of Requisition and Issue Slip to the Municipal Accountant for the recognition of the expenses.",
+      "managementAction": "The Municipality provided adequate storage room for deliveries of stocks to be held in stock in the Municipal Hall for General Services Office. The Municipal Accountant prepared Supplies Ledger Card for supplies held in stock in the General Services Office. An administrative staff was designated to assist the Supply Officer.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Agriculturist to prepare and submit the Inventory of the Breeding Stocks and the prevailing market price as of December 31, 2020 in order to establish correct balances of the Breeding Stocks account in accordance with the requirement of Paragraph 27 of IPSAS 1.",
+      "managementAction": "The Municipal Agriculturist certified that the biological assets were no longer existing. Thus, the Municipal Accountant has dropped the breeding stocks account balance in the books of accounts.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Appraisal Committee to immediately appraise the two (2) Motor Vehicles as this is needed for its appraisal and disposal procedures of the Disposal Committee and have to proceed with the disposal of the 11 Motor Vehicles in accordance with existing laws, rules and regulations. Thereafter, instruct the Municipal Accountant to drop the disposed properties from the books of accounts for the fair presentation of the PPE accounts in the financial statements pursuant to Paragraph 27 of IPSAS 1.",
+      "managementAction": "The Appraisal Committee has already appraised the two (2) Motor Vehicles. The Disposal Committee have to proceed with the disposal of the 11 Motor Vehicles in accordance with existing laws, rules and regulations. Thereafter, instruct the Municipal Accountant to drop the disposed Motor Vehicles in the books of accounts for the fair presentation of the PPE accounts in the financial statements pursuant to Paragraph 27 of IPSAS 1.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The remaining 11 motor vehicles were still not disposed by the Municipality. The observation was first raised in the CY 2018 AAR."
+    },
+    {
+      "id": "Tiaong_Quezon_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Environment and Natural Resources Officer, the OIC-Municipal Social Welfare and Development Officer and the Municipal Agriculturist to exert effort in ensuring that the remaining projects totaling P1,091,001.00 be implemented as soon as possible in order to immediately serve its intended purposes.",
+      "managementAction": "The MENRO and the OIC-MSWDO and the Municipal Agriculturist were able to implement the reforestation and barangay reforestation and the BUB projects. Moreover, the payment for the BUB project has not been claimed by the supplier/claimant.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipal Agriculturist was unable to implement the fund for the flatbed due to the absence of Deed of Donation."
+    },
+    {
+      "id": "Tiaong_Quezon_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendation that the Municipal Treasurer and the Municipal Accountant be instructed to promptly remit the RPT and PCA shares to the concerned barangays within the prescribed period in accordance with Section 36 of COA Circular No. 92-382 and Section 271(d) of RA No. 7160.",
+      "managementAction": "RPT and PCA shares were remitted to the concerned barangays.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Disaster and Risk Reduction Management Officer to submit the: a) Summary/List of Donations Received, Distributed and Balances for In-kind Donations; b) Report on the Receipt and Distribution/Issuance of Donated Relief Goods; and c) Report on the Receipt and Distribution/Issuance of Donated PPE to NDRRMC, through the OCD, copy furnished the Audit Team within ten working days after the end of each quarter pursuant to COA Circular Nos. 2014-002 and 2020-009.",
+      "managementAction": "The LDRRMO was able to submit the required reports.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Engineer to submit the necessary documents to the Supply Officer in order to facilitate the application for property insurance of the remaining uninsured municipal properties pursuant to COA Circular No. 92-390 dated November 17, 1992 and RA No. 656.",
+      "managementAction": "All insurable assets and properties of the Municipality were covered/insured with the General Insurance Fund of the GSIS.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor instruct the LDRRM Officer to properly identify and categorize programs, projects and activities that are to be charged to LDRRMF and to utilize the fund strictly for calamity related activities and to stop the utilization of LDRRMF for activities other than those specified under the NDRRMC-DBM-DILG Joint Memorandum Circular.",
+      "managementAction": "The LDRRMO complied with the audit recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Environmental and Natural Resources Officer (MENRO) to: • follow up from the Environmental Management Bureau (EMB) regarding the status of the titling of the lot; • coordinate with the Municipal Assessor regarding the titling of the lot; and • monitor regularly the operation of the MRF in every barangay to ensure the efficient and effective collection and disposal of solid waste and as an additional measure to mitigate health and environment risk.",
+      "managementAction": "The MENRO is still evaluating the SWM Plan submitted by the Municipality and will be scheduled for approval. Moreover, the ECC application is still under the pending status since the Municipality is gathering the necessary data for its approval. The MENRO coordinated with the Municipal Assessor regarding the titling of the lot. The MENRO regularly monitors the operation of the MRF in every barangay to ensure the efficient and effective collection and disposal of solid waste and as an additional measure to mitigate health and environment risk.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The EMB is still evaluating the SWM Plan submitted by the Municipality and will be scheduled for approval. Moreover, the ECC application is still pending since the Municipality is gathering the necessary data for its approval. The observation was first raised in the CY 2016 AAR."
+    },
+    {
+      "id": "Tiaong_Quezon_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor instruct the BAC Secretariat to submit to the Audit Team copies of contracts/purchase orders and their supporting documents within five working days from perfection thereof in accordance with COA Circular No. 2009-001 dated February 12, 2009 to ensure timely review, evaluation and verification thereof.",
+      "managementAction": "Copies of contracts/purchase orders and their supporting documents were submitted within five working days to the Audit Team.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Tiaong_Quezon-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the: a. Supply Officer to maintain complete and updated stock cards per type of supply and allocate time to prepare and submit the Summary of Supplies and Materials Issued (SSMI) together with the original copy of the Requisition and Issue Slip to the Municipal Accountant for the recognition of the expenses; and b. Municipal Accountant to prepare and maintain Supplies Ledger Cards for the inventory items. We also recommended that provision for storage room/stock room be considered in the Municipal Hall for deliveries of inventories to be held in stock. Reiterated under audit observation no. 1, Part II of this Report.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Supply Officer is currently in-charge of business permits and licensing, thus she was unable to allocate time to prepare the stock cards as well as the submission of the SSMI and the RIS to the Municipal Accountant. The provision of storage facility was not implemented due to the absence of its ideal location in the Municipal Hall."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Tiaong_Quezon-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Appraisal Committee to immediately appraise the two (2) Motor Vehicles as this is needed for its disposal and the Disposal Committee to proceed with the disposal of the 11 Motor Vehicles in accordance with existing laws, rules and regulations. Thereafter, instruct the Municipal Accountant to drop the disposed properties from the books of accounts for the fair presentation of the PPE accounts in the financial statements pursuant to Paragraph 27 of IPSAS 1.",
+      "managementAction": "The Appraisal Committee convened on September 25, 2020 and approved through a Resolution that the two vehicles: 1) Nissan Sedan with Plate No. SFX 825; and 2) Mazda Pick up with Plate No. SGB 748 have an appraised value of P5,000.00 each. The disposal procedures shall be conducted this year.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The appraisal and disposal procedures were delayed due to community quarantine restrictions brought about by the COVID-19 pandemic."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Tiaong_Quezon-2020-PY4",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Municipal Accountant and the Municipal Treasurer to remit promptly to the concerned barangays their shares from RPT, PCA and CTC collections.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The person responsible for the reports had filed a leave of absence due to health conditions as she underwent major abdominal operation. Moreover, more than half of the personnel in the Office of the Municipal Treasurer was tested positive with COVID-19 during the year that caused further delay in updating the record of collections."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Tiaong_Quezon-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that provision for storage room/stock room be\nconsidered in the Municipal Hall for deliveries of inventories to be held in stock.\nWe also reiterated our recommendation that the Municipal Mayor instruct the Municipal\nAccountant to prepare and maintain Supplies Ledger Cards for the inventory items.\nFurther, we recommended that the Municipal Mayor designate an administrative staff\nfrom the available manpower to assist the Supply Officer in the preparation and maintenance\nof complete stock cards per type of supply as well as the preparation and submission of\nthe Summary of Supplies and Materials Issued together with the original copy of\nRequisition and Issue Slip to the Municipal Accountant for the recognition of the expenses.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Tiaong_Quezon-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Agriculturist to prepare\nand submit the Inventory of the Biological Assets and the prevailing market price as of\nDecember 31, 2020 in order to establish correct balances of the Breeding Stocks account\nin accordance with the requirement of Paragraph 27 of IPSAS 1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Tiaong_Quezon-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Appraisal\nCommittee to immediately appraise the two (2) Motor Vehicles as this is needed for its\ndisposal and the Disposal Committee to proceed with the disposal of the 11 Motor\nVehicles in accordance with existing laws, rules and regulations. Thereafter, instruct the\nMunicipal Accountant to drop the disposed properties from the books of accounts for the\nfair presentation of the PPE accounts in the financial statements pursuant to Paragraph 27\nof IPSAS 1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Tiaong_Quezon-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Environment and\nNatural Resources Officer, the OIC-Municipal Social Welfare and Development Officer and\nthe Municipal Agriculturist to exert effort in ensuring that the remaining projects totaling\nP1,091,001.00 be implemented as soon as possible in order to immediately serve its\nintended purposes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Tiaong_Quezon-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Municipal\nTreasurer and the Municipal Accountant to promptly remit the RPT and PCA shares to the\nconcerned barangays within the prescribed period in accordance with Section 36 of COA\nCircular No. 92-382 and Section 271(d) of RA No. 7160.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Tiaong_Quezon-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Disaster and Risk\nReduction Management Officer to submit the: a) Summary/List of Donations Received,\nDistributed and Balances for In-kind Donations; b) Report on the Receipt and\nDistribution/Issuance of Donated Relief Goods; and c) Report on the Receipt and\nDistribution/Issuance of Donated PPE to the NDRRMC, through the OCD, copy furnished\nthe Audit Team within ten working days after the end of each quarter pursuant to COA\nCircular Nos. 2014-002 and 2020-009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Tiaong_Quezon-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer to deposit to the account of the source agencies the unexpended balances of the trust funds totaling P37,350.71. We also recommended that the Municipal Environment and Natural Resources Officer, the OIC-Municipal Social Welfare and Development Officer and the Municipal Agriculturist to exert effort in ensuring that the projects totaling P2,448,329.49 be implemented as soon as possible in order to immediately serve its intended purposes.",
+      "managementAction": "The balance of P37,350.71 was remitted to the source agencies on July 13, 2020 and September 3, 2020 by the Municipal Treasurer.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Funds received from NGAs were not fully utilized due to the delay in its implementation brought about by the community quarantine restrictions. With the new developments, the audit observation is presented anew under audit observation no. 4, Part II of this Report."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Tiaong_Quezon-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor request the Sangguniang Bayan to expedite the adoption of the Sangguniang Bayan Resolution pertaining the collection of barangay shares in the electric consumption of the barangays to make the agreement between the Municipality and the 31 barangays legally binding and enforceable.",
+      "managementAction": "The Sangguniang Bayan has adopted the SB Resolution No. 2020-65 dated March 16, 2020 authorizing the Municipal Mayor to enter into a Memorandum of Agreement (MOA) between the Municipality of Tiaong and its barangays.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Tiaong_Quezon-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer/General Services Officer to expedite the completion of the requirements for the filing of the application for the insurance coverage of the remaining uninsured municipal buildings with the GSIS.",
+      "managementAction": "The necessary documents required by the GSIS were submitted by the Municipal Engineer to the Supply Officer. As of this writing, the subject properties are all insured with the GSIS except for the Municipal Hospital since its renovation/construction is still on-going.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipal Hospital renovation/construction is still on-going, thus the application for its property insurance cannot be undertaken."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Tiaong_Quezon-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Disaster Risk Reduction and Management Officer to submit to the Audit Team the Report on Sources and Utilization of Disaster Risk Reduction and Management Fund within the prescribed period.",
+      "managementAction": "The Municipal Disaster Risk Reduction and Management Officer submitted the Report on Sources and Utilization of Disaster Risk Reduction and Management Fund within the prescribed period.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Tiaong_Quezon-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Environmental and Natural Resources Officer (MENRO) to: • require the designated MENRO to expedite the submission of the revised 10-year Solid Waste Management Plan (2019-2028); • continue to monitor and provide technical assistance to all barangays to facilitate the establishment of MRFs, for an efficient and effective collection and disposal of solid waste and as an additional measure to mitigate health and environment risk; and • continue the representation with the lot owner of the feasible lot area for the Municipality's sanitary landfill.",
+      "managementAction": "The revised 10-year SWM Plan was submitted to EMB Region IV-A on November 23, 2020. MENRO is regularly extending technical assistance to all barangays. The MENRO coordinated with the Municipal Assessor and found that the application of the subdivision plan of lot intended for the sanitary landfill is still for approval by the Land Registration Authority (LRA).",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Certain updates and additional information were required by EMB Region IV-A for the SWM Plan. The ECC application for the sanitary landfill is pending due to documentary requirements. Construction of MRFs in some barangays was delayed due to road widening projects and other issues; three barangays' MRFs are currently non-operational."
+    },
+    {
+      "id": "Tiaong_Quezon-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Supply Officer to maintain complete stock cards per type of supply and submit the Summary of Supplies and Materials Issued together with the original copy of Requisition and Issue Slip to the Municipal Accountant for the recognition of the expenses; and Municipal Accountant to prepare and maintain Supplies Ledger Cards for the inventory items.",
+      "managementAction": "Not Implemented The Supply Officer was not able to provide the Municipal Accountant with the SSMI together with the original copy of the RIS since it was not prioritized because he has a lot of workload. He added that the Office of the Municipal Treasurer is currently building up a database and internal policies in respond to the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The stock cards and SLCs were still not prepared and maintained by the Supply Officer and the Municipal Accountant, respectively due to lack of storage facility."
+    },
+    {
+      "id": "Tiaong_Quezon-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the:\na. Supply Officer to maintain complete and updated stock cards per type of\nsupply and allocate time to prepare and submit the Summary of Supplies and\nMaterials Issued together with the original copy of Requisition and Issue Slip to the Municipal\nAccountant for the recognition of the expenses; and\nb. Municipal Accountant to prepare and maintain Supplies Ledger Cards for the\ninventory items.\nWe also recommended that provision for storage room/stock room be\nconsidered in the Municipal Hall for deliveries of inventories to be held in\nstock.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer\nto deposit to the account of the source agencies the unexpended balances\nof the trust funds totaling P37,350.71.\n\nWe also recommended that the Municipal Mayor require the Municipal\nEnvironment and Natural Resources Officer, the OIC-Municipal Social\nWelfare and Development Officer and the Municipal Agriculturist to exert\neffort in ensuring that the projects totaling P2,448,329.49 be implemented as\nsoon as possible in order to immediately serve its intended purposes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the Appraisal Committee\nto immediately appraise the two (2) Motor Vehicles as this is needed for its\ndisposal and the Disposal Committee to proceed with the disposal of the 11\nMotor Vehicles in accordance with existing laws, rules and regulations.\nThereafter, instruct the Municipal Accountant to drop the disposed\nproperties from the books of accounts.\n\nManagement’s Comment:\nThe Municipal Mayor informed that the Appraisal Committee shall convene\nimmediately to proceed with the Disposal through Sale of the subject vehicles. The\ndocumentary requirements are now being prepared for further evaluation and\nprocessing.\n\nAuditor’s Rejoinder:\nManagement’s comments were duly noted. We shall keep this under review to\nensure the full implementation of the recommendations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Municipal\nTreasurer and the Municipal Accountant to promptly remit the RPT and PCA shares to the\nconcerned barangays within the prescribed period in accordance with Section 36 of COA\nCircular No. 92-382 and Section 271(d) of RA No. 7160.\n\nManagement’s Comments:\nThe Municipal Mayor commented that the Municipality has always been exerting\neffort to remit to the concerned barangays within the prescribed period wherein\nremittances of shares from RPT beginning the 2nd Semester of CY 2019 has been\ndone on a monthly basis instead of remitting quarterly.\nHe added that the delay on remittance in some months was due to voluminous\ntransactions and reconciliation process. However, the Municipality is still on its best\neffort to remit promptly as per recommendation. On the other hand, shares from\nPhilippine Coconut Authority shall be remitted/transferred to concerned barangays\nupon receipt.\n\nAuditor’s Rejoinder:\nManagement’s comments were duly noted. However, we shall be following up the\ncompliance with the audit recommendation to ensure its full implementation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor request the Sangguniang Bayan\nto expedite the adoption of the Sangguniang Bayan Resolution pertaining\nthe collection of barangay shares in the electric consumption of streetlights\nby the barangays to make the agreement between the Municipality and the\n31 Barangays legally binding and enforceable.\n\nManagement’s Comments:\nThe Municipal Mayor commented that the Sangguniang Bayan approved through\nResolution No. 2020-65 dated March 16, 2020 authorizing the Municipal Mayor to\nenter and sign into a Memorandum of Agreement (MOA) between the Municipal\nGovernment of Tiaong, Quezon and the Sangguniang Barangay regarding the\nbarangay electrification program of the Municipality. To date, the drafting of MOA\nis still ongoing which was hampered due to pandemic.\n\nAuditor’s Rejoinder:\nManagement’s comments were duly noted. We shall keep this under review to\nensure the full implementation of the recommendations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal\nTreasurer/General Services Officer to expedite the completion of the necessary\nrequirements for the filing of the application for the insurance coverage of the\nremaining uninsured municipal buildings with the GSIS pursuant to COA Circular\nNo. 92-390 dated November 17, 1992 and RA No. 656.\n\nManagement’s Comments:\nThe Municipal Mayor informed that a letter addressed to the Municipal Engineer\nwas sent on July 3, 2019 requesting for the copies of the building specifications,\nfloor plan/office layout and location plan. Moreover, he commented that they will\nexert their best effort to locate or reproduce said requirements to expedite the\npayment of property insurance to GSIS.\n\nAuditor’s Rejoinder:\nManagement’s comments were duly noted. The actual implementation of what\nwere committed to be undertaken will be monitored by the Audit Team to ensure\nthe full implementation of the recommendation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Disaster\nRisk and Reduction Management Officer to submit to the Audit Team the Report on\nSources and Utilization of Disaster Risk Reduction Management Fund on or before\nthe 15th day after the end of each month in compliance with COA Circular No.\n2014-009 and Item 5.1.5 of COA Circular No. 2012-002, for audit and evaluation\npurposes.\n\nManagement’s Comments:\nThe MDRRMO informed the Audit Team that she assumed Office only on\nMarch 2, 2020 and she will submit the Report on Sources and Utilization of\nDisaster Risk Reduction Management Fund in accordance within the prescribed\nguidelines.\n\nAuditor’s Rejoinder:\nManagement’s comment was duly noted. The actual implementation of what was\ncommitted to be undertaken will be monitored by the Audit Team to ensure the full\nimplementation of the recommendation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2019-OBS8",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor:\n• require the Designated MENRO to expedite the submission of the revised\n10-year Solid Waste Management Plan (2019-2028);\n• continue to monitor and provide technical assistance to all Barangays to\nfacilitate the establishment of MRFs, for an efficient and effective\ncollection and disposal of solid waste and as an additional measure to\nmitigate health and environment risk; and\n• continue the representation with the lot owner of the feasible lot area for\nthe Municipality’s sanitary landfill.\n\nManagement’s Comments:\nThe Municipal Mayor commented that the revision of the 10-year Solid Waste\nManagement Plan (2019-2028) is almost done for submission but full completion\nof which has been hampered due to the pandemic. Pending its submission, the\nagency is implementing all the plans and programs as mandated by RA 9003.\nAlso, the Municipal Solid Waste Management Board (MSWMB) is extending\ntechnical assistance to all barangays regularly to facilitate the establishments of\nMRFs.\nWith regard to the acquisition of lot intended for land fill, a Deed of Absolute Sale\ndated July 17, 2020 was executed between Municipal Government of Tiaong,\nQuezon, and Milagros Alinea with an area of 15,000 sq.m. located at Barangay\nSan Agustin, Tiaong, Quezon, which is now in process for approval by the Land\nRegistration Authority.\n\nAuditor’s Rejoinder:\nManagement’s comments were duly noted. The actual implementation of what\nwere committed to be undertaken will be monitored by the Audit Team to ensure\nthe full implementation of the recommendations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Special Disbursing Officer to monitor the liquidation of cash advances by the Special Disbursing Officer within the reglementary period or as soon as the purpose of the CA has been served, preferably upon completion of the project/program/activity. Moreover, we also recommended that the Municipal Mayor designate an additional Special Disbursing Officer to immediately release the financial assistance to its recipients and in order for the Municipality to comply with the required period of liquidation of cash advances. Henceforth, ensure the proper granting, utilization and liquidation of all cash advances within the prescribed period in accordance with the existing rules and regulations.",
+      "managementAction": "Cash advances are now closely monitored to be liquidated within the reglementary period or as soon as the purpose of the CA has been served, preferably upon completion of the project/program/activity. A modified system has been installed to ensure of the proper granting, utilization and liquidation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the Disposal Committee to proceed with the disposal of the 13 Motor Vehicles and submit the Inventory and Inspection of Unserviceable Properties for the disposed properties to the Municipal Accountant. Likewise, instruct the Municipal Accountant to drop the disposed properties from the books of accounts.",
+      "managementAction": "An IIRUP was prepared and submitted to the Municipal Accountant. Likewise, instruct the Municipal Accountant to drop the disposed properties from the books of accounts.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The disposal of the 13 Motor Vehicles was not made in CY 2019. Two out of 13 motor vehicles were still for appraisal while the remaining vehicles were not disposed since no proper turnover of documents was made by the former Municipal Mayor in CY 2013."
+    },
+    {
+      "id": "Tiaong_Quezon-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant and the Municipal Treasurer to remit promptly to the concerned barangays their shares from real property tax, PCA and CTC collections.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The noted delay in the RPT remittances were due to the voluminous transactions mostly on the 1st Quarter of CY 2019 and reconciliation of collections from the collecting officers since local fees and charges were also included in their summary of collections."
+    },
+    {
+      "id": "Tiaong_Quezon-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant and Municipal Treasurer to return immediately the unexpended balance of P773,075.61 from the completed projects to its source agencies so that it could be used in other projects or by other agencies needing financial assistance.",
+      "managementAction": "The Municipal Accountant and the Municipal Treasurer returned the total amount of P687,807.12 from the completed projects to its source agencies.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "A total amount of P37,350.71 from completed projects remain in the books of accounts because these were not returned to the source agencies as of December 31, 2019."
+    },
+    {
+      "id": "Tiaong_Quezon-2019-PY6",
+      "year": 2019,
+      "recommendation": "Should the Municipality still consider that the 31 barangays must share from the expenses for the electric consumption for streetlights, we recommended that the Municipality, through its Municipal Mayor, have an arrangement/agreement that would work both for the Municipality and the 31 barangays acceptable to both and have it in a public document to make it legally binding and enforceable.",
+      "managementAction": "An endorsement letter dated July 18, 2019 from the Municipal Mayor has been sent to the Sangguniang Bayan on the same day for the adoption of a Resolution pertaining to the streetlights of Barangays. Also, the Memorandum of Agreement between the Association of Barangay Captains and the Municipal Government of Tiaong, Quezon, is still for drafting.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Due to the lack of Sangguniang Bayan Resolution and the uncertainty of collection, the Municipality is deprived of the use of its own resources for the payment of electric consumption in behalf of the 31 barangays."
+    },
+    {
+      "id": "Tiaong_Quezon-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer to ensure that all the insurable properties of the Municipality are covered with appropriate insurance with GSIS.",
+      "managementAction": "The Municipality was able to insure properties totaling P46,937,715.89 with GSIS in CY 2019. A letter addressed to the Municipal Engineer was sent on July 3, 2019 requesting for the copies of the building specifications, floor plan/office layout and location plan; the Municipality will exert their best effort to locate or reproduce said requirements to expedite the payment of property insurance to GSIS.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "They are still completing the detailed plans and specifications of the buildings as required by the GSIS; thus P52,559,241.39 is still for insurance coverage."
+    },
+    {
+      "id": "Tiaong_Quezon-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the Designated MENRO to expedite the submission of the revised 10-year Solid Waste Management Plan (2019-2028); continue to monitor and provide technical assistance to all Barangays to facilitate the establishment of MRFs; and continue the representation with the lot owner of the feasible lot area for the Municipality’s sanitary landfill.",
+      "managementAction": "The MENRO informed that the Waste Analysis and Characterization Study has been completed and included as integral part of the Revised 10-year Solid Waste Management Plan (2019-2028). The Municipal Solid Waste Management Board (MSWMB) is extending technical assistance to all barangays regularly to facilitate the establishments of MRFs. A Deed of Absolute Sale dated July 17, 2020 was executed for a 15,000 sq.m. lot located at Barangay San Agustin which is now in process for approval by the Land Registration Authority.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The revision of the 10-year Solid Waste Management Plan (2019-2028) is almost done but full completion was hampered due to the pandemic. Five barangays were still unable to construct MRF as of December 31, 2019."
+    },
+    {
+      "id": "Tiaong_Quezon-2018-PY1",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the:  Sangguniang Bayan to have a Memorandum of Agreement (MOA) between the Municipality and the Barangays, to agree, among others, on the payment by the Barangays of their share on the electric bills for streetlights;  Municipal Treasurer to enforce collection of the electric bill by sending notices to the barangays upon execution of the MOA to serve as basis for the claim and request the barangays to make an arrangement with the Municipality to ensure settlement of their obligations; and  Municipal Accountant to record the receivables of P2,852,600.00 and future barangay share in the electric bills upon execution of the MOA.",
+      "managementAction": "The Memorandum of Agreement (MOA) was not executed due to the lack of legal basis because the MERALCO bill for the electric consumption of the streetlights is under the name of the Municipality.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No supporting documents."
+    },
+    {
+      "id": "Tiaong_Quezon-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Supply Officer to maintain\ncomplete stock cards per type of supply and submit the Summary of Supplies and\nMaterials Issued together with the original copy of Requisition and Issue Slip to the\nMunicipal Accountant for the recognition of the expenses.\n\nWe also recommended the Municipal Accountant to prepare and maintain Supplies\nLedger Cards for the inventory items.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Treasurer to\nmonitor the liquidation of cash advances by the Special Disbursing Officer within\nthe reglementary period or as soon as the purpose of the CA has been served,\npreferably upon completion of the project/program/activity.\n\nMoreover, we also recommended that the Municipal Mayor designate an additional\nSpecial Disbursing Officer to immediately release the financial assistance to its\nrecipients and in order for the Municipality to comply with the required period of\nliquidation of cash advances.\n\nHenceforth, ensure the proper granting, utilization and liquidation of all cash\nadvances within the prescribed period in accordance with the existing rules and\nregulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the Disposal Committee to\nproceed with the disposal of the 13 Motor Vehicles and submit the Inventory and\nInspection of Unserviceable Properties for the disposed properties to the Municipal\nAccountant. Likewise, instruct the Municipal Accountant to drop the disposed\nproperties from the books of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant and\nthe Municipal Treasurer to remit promptly to the concerned barangays their shares\nfrom real property tax, PCA and CTC collections.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant and\nMunicipal Treasurer to return immediately the unexpended balance of P773,075.61\nfrom the completed projects to its source agencies so that it could be used in other\nprojects or by other agencies needing financial assistance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipality, through its Municipal Mayor, to have an\narrangement/agreement that would work both for the Municipality and the 31\nbarangays acceptable to both and have it in a public document to make it legally\nbinding and enforceable.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2018-PY2",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Disposal Committee to take immediate action on the disposal of unserviceable properties as its primary function and duty, to avoid further deterioration and possible loss and to generate additional income from its disposal.",
+      "managementAction": "The Municipality prioritized the disposal of small value properties. Disposal of the 13 unserviceable Motor Vehicles has not yet been undertaken.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "With the new development, the audit observation is updated and presented anew under Observation No. 3, Part II of this Report."
+    },
+    {
+      "id": "Tiaong_Quezon-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to effect the necessary adjusting entries for the transfer of the costs of completed projects from CIP accounts to Infrastructures Assets and Buildings and Other Structures account.",
+      "managementAction": "The Municipal Accountant effected the necessary adjusting entries for the transfer of the costs of completed projects.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2018-PY4",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal Accountant to prepare/extract the schedule for Guaranty/Security Deposits Payable and submit the same to the Audit Team.",
+      "managementAction": "The Municipal Accountant was able to prepare the schedule for Guaranty/Security Deposits Payables and submitted the same to the Audit Team",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to transfer the unutilized balance of the proceeds from the sale of bidding documents to the General Fund in the books. We further recommended the annual reckoning of excess collections over payments made for the honoraria and overtime pay of the government personnel involved in government procurement be undertaken to determine the amount that should be recorded as income in the General Fund.",
+      "managementAction": "The Municipality was able to record the excess collections as income in the General Fund.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2018-PY6",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor transfer the Municipal Accountant and the Municipal Treasurer to remit promptly to the concerned provincial and barangay governments their shares from real property tax, special education tax, transfer tax, professional tax, CTC and PCA collections.",
+      "managementAction": "The Municipality prioritized the remittance of the provincial shares.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "With the new development, the audit observation is updated and presented anew under Observation No. 4, Part II of this Report."
+    },
+    {
+      "id": "Tiaong_Quezon-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Designated MENRO and Municipal Engineer to coordinate with the source agency for the immediate implementation of the projects. We also recommended the return immediately of the excess funds of P428,523.12 to the source agencies so that it could be used in other projects or by other agencies needing assistance.",
+      "managementAction": "The Municipality was able to implement the projects pending in CY 2017.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "These are excess funds not yet returned by the source agencies."
+    },
+    {
+      "id": "Tiaong_Quezon-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to refrain from processing the telephone/mobile phone claims through reimbursement and instead settle obligations by drawing checks payable to the suppliers.",
+      "managementAction": "The Municipal Accountant refrained from processing the telephone/mobile phone claims through reimbursement and instead settle obligations by drawing checks payable to the suppliers.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2018-PY9",
+      "year": 2018,
+      "recommendation": "We reiterated that the Municipal Mayor:  make appropriate representation with the National Solid Waste Management Commission for the expeditious approval of the 10-year SWM Plan and the Mines and Geosciences Bureau in the connection with the filed request for the updated geological hazard assessment, in compliance with RA No. 9003;  direct the Designated MENRO to strictly implement programs on SWM education specifically related to proper waste segregation, to ensure protection of the environment and compliance with the law; and  monitor and provide technical assistance to all Barangays to facilitate the establishment of MRFs, for an efficient and effective collection and disposal of solid waste, and as an additional measure to mitigate health and environmental risks.",
+      "managementAction": "The Municipal Mayor informed the Audit Team that they are already revising its 10-year Solid Waste Management Plan. Moreover, the MENRO committed to comply with the recommendation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The NSWMC assigned the EMB-Region IV-A to conduct an initial review of the 10-year SWM Plan submitted by the Municipality. In July 2018, the said plan was returned by EMB-Region IV-A to the Municipality with comments and suggestions for the revision of the 10-year SWM Plan. The Designated MENRO informed the Audit Team that they were able to revise the plan and supposed to submit the same in November 2018, however, the NSWMC called for a meeting requiring them to revise their 10-year SWM Plan (2016-2025) to 10-year SWM Plan (2019-2028). She also added that the NSWMC required the MSWMB to incorporate in the 10-year SWM Plan for CY 2019-2028 an updated Waste Analysis and Characterization Study (WACS), which will reflect the population and volume of waste generated in the Municipality. Moreover, verification of prior year’s recommendation for the establishment of Materials Recovery Facility (MRF) of barangays disclosed that two barangays were able to construct an MRF, however, there were still seven out of 31 barangays left without an MRF despite the mandate of the Municipality to construct the facility thru the Pambayang Kautusan Blg. 2011-15. In connection with the Audit Team’s prior year’s recommendation, it was noted that the Designated MENRO is currently making representation with the lot owner for the purchase of a 1.5-hectare lot to be used in the establishment of a government-owned sanitary landfill."
+    },
+    {
+      "id": "Tiaong_Quezon-2017-PY1",
+      "year": 2017,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Disposal Committee to take immediate action on the disposal of unserviceable properties as its primary function and duty, to avoid further deterioration and possible loss and to generate additional income from their disposal.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Disposal Committee failed to take action on the disposal of unserviceable properties.\nThis observation is reiterated in Part II, Observation No. 2."
+    },
+    {
+      "id": "Tiaong_Quezon-2017-PY3",
+      "year": 2017,
+      "recommendation": "Municipal Accountant to get a copy of the resolution on the sharing of electric consumption as basis in recording the receivables of P2,905,000.00 and future barangay share in the electric bills.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Municipal Accountant was not furnished with a copy of the resolution on the sharing of electric consumption. This observation is reiterated in Part II, Observation No. 1."
+    },
+    {
+      "id": "Tiaong_Quezon-2017-PY5",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to: prepare/extract the schedule for Guaranty/Security Deposits Payable account balance of P1,717,045.86 by tracing from the Daily Abstract of Reports of Collections for 2016 and prior years the names of the bidders and the collected amounts and comparing these with the refunded amounts; and",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Municipal Accountant was not able to prepare/extract the schedule for the Guaranty/Security Deposits Payable account."
+    },
+    {
+      "id": "Tiaong_Quezon-2017-PY7",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant and the Municipal Treasurer to remit promptly to the concerned provincial and barangay governments their shares from real property tax, special education tax, transfer tax, professional tax, CTC and PCA collections.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Municipality lessen the month of delays in remittances, however, prompt remittance of the shares was still not observed.\nThis observation is reiterated in Part II, Observation No. 6."
+    },
+    {
+      "id": "Tiaong_Quezon-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We reiterated our recommendation that the  Municipal  Mayor  require\nthe:\n\n\n        ➢ Sangguniang Bayan to have a Memorandum of Agreement (MOA)  between\n          the Municipality and the Barangays, to agree, among others, on the\n          payment by the Barangays of their share on the electric bills  for\n          streetlights from prior and succeeding years;\n\n\n        ➢ Municipal Treasurer to enforce collection of the electric bill  by\n          sending notices to the barangays upon  execution  of  the  MOA  to\n          serve as basis for the claim and request the barangays to make  an\n          arrangement with the Municipality to ensure  settlement  of  their\n          obligations; and\n\n        ➢ Municipal Accountant to record the  receivables  of  P2,852,600.00\n          and future barangay share in the electric bills upon execution  of\n          the MOA.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We reiterated our recommendation that the  Municipal  Mayor  require\nthe Disposal Committee to take  immediate  action  on  the  disposal  of\nunserviceable properties as its primary  function  and  duty,  to  avoid\nfurther deterioration and  possible  loss  and  to  generate  additional\nincome from its disposal.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recommended  that  the  Municipal  Mayor  require  the  Municipal\nAccountant to effect the necessary adjusting entries for the transfer of\nthe costs of completed projects from  CIP  accounts  to  Infrastructures\nAssets and Buildings and Other Structures account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We reiterated our recommendation that the  Municipal  Mayor  require\nthe  Municipal  Accountant   to   prepare/extract   the   schedule   for\nGuaranty/Security Deposits Payable account balance of  P1,540,891.06  by\ntracing from the Daily Abstract of Reports of Collections for  2016  and\nprior years the names of the bidders and the collected amounts and\ncomparing these with the refunded amounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommended  that  the  Municipal  Mayor  require  the  Municipal\nAccountant to transfer the unutilized balance of the proceeds  from  the\nsale of  bidding  documents  to  the  General  Fund  in  the  amount  of\nP118,015.30.\n\n\n\n\n       We further recommended the annual reckoning  of  excess  collections\n    over payments made for the honoraria and overtime pay of the  government\n    personnel involved in government procurement be undertaken to  determine\n    the amount that should be recorded as income in the General Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We reiterated our recommendation that the Municipal  Mayor  instruct\nthe Municipal Accountant and the Municipal Treasurer to  remit  promptly\nto the concerned provincial and barangay governments their  shares  from\nreal property tax, special education  tax,  transfer  tax,  professional\ntax, CTC and PCA collections.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2017-OBS7",
+      "year": 2017,
+      "recommendation": "We recommended that the  Municipal  Mayor  instruct  the  Designated\nMunicipal Environmental  and  Natural  Resource  Officer  and  Municipal\nEngineer  to  coordinate  with  the  source  agency  for  the  immediate\nimplementation of the projects.\n\n\n       We also recommended  to  return  immediately  the  excess  funds  of\nP428,523.12 to the source agencies so that it could  be  used  in  other\nprojects or by other agencies needing assistance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2017-OBS8",
+      "year": 2017,
+      "recommendation": "We recommended  that  the  Municipal  Mayor  require  the  Municipal\nAccountant to refrain from processing the telephone/mobile phone  claims\nthrough reimbursement and instead settle obligations by  drawing  checks\npayable to the suppliers.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2017-OBS9",
+      "year": 2017,
+      "recommendation": "We reiterated that the Municipal Mayor:\n\n\n        ➢ make appropriate representation  with  the  National  Solid  Waste\n          Management Commission for the expeditious approval of the  10-year\n          SWM Plan and the Mines and Geosciences Bureau in  connection  with\n          the  filed  request  for  the  geological  hazard  assessment,  in\n          compliance with the requirements of RA No. 9003;\n\n\n        ➢ direct the Designated MENRO to strictly implement programs on  SWM\n          education specifically related to  proper  waste  segregation,  to\n          ensure protection of the environment and compliance with the  law;\n          and\n\n        ➢ monitor and provide  technical  assistance  to  all  Barangays  to\n          facilitate  the  establishment  of  MRFs,  for  an  efficient  and\n          effective collection and  disposal  of  solid  waste,  and  as  an\n          additional measure to mitigate health and environmental risks.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2017-PY2",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor require the:\nICO-Municipal Treasurer to enforce collection of the electric bill by sending notices to the barangays with a copy of the resolution to serve as basis for the claim and request the barangays to make an arrangement with the Municipality to ensure settlement of their obligations; and",
+      "managementAction": "The Municipal Treasurer continues to send notice to the Barangays",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The arrangement between the Municipality and the barangays was not made."
+    },
+    {
+      "id": "Tiaong_Quezon-2017-PY4",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor require the OIC-Municipal Agriculturist to prepare and submit the Inventory of the Breeding Stocks as of December 31, 2016, with the prevailing market price for each item as of reporting date, and furnish the Municipal Accountant with a copy of the said report.",
+      "managementAction": "The OIC – Municipal Agriculturist prepared and submit to the Audit Team the Inventory of Breeding Stocks as of December 31, 2016.\nMoreover, The balance of the Breeding Stocks account was adjusted as at year-end.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2017-PY6",
+      "year": 2017,
+      "recommendation": "henceforth, maintain subsidiary ledgers or schedules for this account regularly.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipal Accountant had maintained subsidiary ledgers for the suppliers/contractors for CY 2017 transactions.\nThis observation is reiterated in Part II, Observation No. 4."
+    },
+    {
+      "id": "Tiaong_Quezon-2017-PY8",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor and the Municipal Treasurer see to it that all the insurable properties of the Municipality are covered with insurance with the GSIS in compliance with the provisions of COA Circular No. 92-390 and Republic Act (R.A.) No. 656.",
+      "managementAction": "The Municipality was able to apply for the insurance with the GSIS of its insurable properties.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2017-PY9",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor advise the Municipal Treasurer to: require all the Collectors to remit their collections on the day these were collected in compliance with Section 29 of the MNGAS, Volume I, to avoid possible loss or misuse of funds; and",
+      "managementAction": "The collectors promptly remit their collection to the Municipal Treasurer within a reasonable length of time.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2017-PY10",
+      "year": 2017,
+      "recommendation": "collectors were rotated, in case the delays in remittances are still incurred.",
+      "managementAction": "Collectors were rotated from time to time.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2017-PY11",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor: request the Sangguniang Bayan to pass a Resolution to fix the amount of fees to be imposed under Section 3R.01 of the Revenue Code and to include additional provision for tax or fees on other ambulant and itinerant operators during fiesta/special occasions;",
+      "managementAction": "The revision of the Revenue Code of the Municipality is on-going. The Municipal Treasurer mentioned that they are planning to include additional provision for the recommended taxes and fees.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Sangguniang Bayan is currently working on the revision of the Revenue Code. The Resolution to fix the amount of fees to be imposed will be tackled and drafted upon finalization of the Code."
+    },
+    {
+      "id": "Tiaong_Quezon-2017-PY12",
+      "year": 2017,
+      "recommendation": "see to it that the Municipality has a location map having its area specified for fiesta tiangge together with the list of individual/entity who will occupy before issuing the permit for the temporary use of street, sidewalk or alley or portion of the Municipality; and",
+      "managementAction": "The location map for designated for the fiesta tiangge is being drafted by the Sangguniang Bayan and the Treasurer’s Office.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2017-PY13",
+      "year": 2017,
+      "recommendation": "if warranted, assign checker/s who will monitor the legal temporary occupancy of individuals/entities that will undertake selling activities based on the location map, so that the amounts supposed to be collected will be collected.",
+      "managementAction": "The assignment of checker/s and other matters related to the Fiesta Tiangge is already being drafted by the Municipality.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2017-PY14",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor: direct the MENRO and SWM Board to finalize the draft of the 10-year SWMP for approval of the Sangguniang Bayan and make appropriate representation with the National Solid Waste Management Commission for its expeditious approval, in compliance with the requirements of R.A. No. 9003; monitor and provide technical assistance to all Barangays to facilitate the establishment of MRFs, for an efficient and effective collection and disposal of solid waste, and as an additional measure to mitigate health and environmental risks; and strict enforce the collection of fines and penalties for violation of SWM-related ordinances.",
+      "managementAction": "The MENRO and SWM Board finalized the draft for the 10-year SWMP/  The MENRO monitors the Barangay in the establishment of its MRF.\nThe collection of fines and penalties was strictly observed as evidenced by increase in SWM related-income.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The 10-year SWMP was submitted to the NSWMC only in 2018."
+    },
+    {
+      "id": "Tiaong_Quezon-2017-PY15",
+      "year": 2017,
+      "recommendation": "monitor and provide technical assistance to all Barangays to facilitate the establishment of MRFs, for an efficient and effective collection and disposal of solid waste, and as an additional measure to mitigate health and environmental risks;",
+      "managementAction": "The MENRO monitors the Barangay in the establishment of its MRF.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The MENRO encountered difficulties in imposing the requirement to Barangays to establish their MRFs. Nonetheless, she assured the Audit Team to prioritize the monitoring of the MRFs.\nThis observation is reiterated in Part II, Observation No. 9."
+    },
+    {
+      "id": "Tiaong_Quezon-2017-PY16",
+      "year": 2017,
+      "recommendation": "strictly enforce the collection of fines and penalties for violation of SWM-related ordinances.",
+      "managementAction": "The collection of fines and penalties was strictly observed as evidenced by increase in SWM related-income.",
+      "status": "IMPLEMENTED",
+      "reason": "This observation is reiterated in Part II, Observation No. 9."
+    },
+    {
+      "id": "Tiaong_Quezon-2017-PY17",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor to require the Municipal Budget Officer to allocate one percent (1%) of its IRA for the strengthening and implementation of the PPAs of LCPC.",
+      "managementAction": "The Municipal Budget Officer allocated one percent (1%) of its IRA to the PPAs of LCPC.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2016-PY7",
+      "year": 2016,
+      "recommendation": "require the Disposal Committee to take immediate action on the disposal of unserviceable properties as its primary function and duty, to avoid further deterioration and to generate additional income from their disposal.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Disposal Committee failed to completely locate all the unserviceable properties due to changes of storage location in prior years.\nThis observation is reiterated in Part II, Observation No. 1."
+    },
+    {
+      "id": "Tiaong_Quezon-2016-PY9",
+      "year": 2016,
+      "recommendation": "advise the Municipal Treasurer to require all the Collectors to remit their collections on the day these were collected in compliance with Section 29 of MNGAS, Volume I, to avoid possible loss or misuse of funds.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "There were still delays in the turn-over of collections from the collectors to the Municipal Treasurer.\nThis observation is reiterated in Part II, Observation No. 7."
+    },
+    {
+      "id": "Tiaong_Quezon-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that  the  Municipal  Mayor  require\n    the Disposal Committee to take  immediate  action  on  the  disposal  of\n    unserviceable properties as its primary  function  and  duty,  to  avoid\n    further deterioration and  possible  loss  and  to  generate  additional\n    income from their disposal.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require the:\n\n\n        ➢ ICO-Municipal Treasurer to  enforce  collection  of  the  electric\n          bill by sending notices to  the  barangays  with  a  copy  of  the\n          resolution to serve  as  basis  for  the  claim  and  request  the\n          barangays to make an arrangement with the Municipality  to  ensure\n          settlement of their obligations; and\n\n\n        ➢ Municipal Accountant to get  a  copy  of  the  resolution  on  the\n          sharing  of  electric  consumption  as  basis  in  recording   the\n          receivables of P2,905,000.00 and  future  barangay  share  in  the\n          electric bills.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor  require  the  OIC-Municipal\n    Agriculturist to prepare and submit the Inventory of the Breeding Stocks\n    as of December 31, 2016, with the prevailing market price for each  item\n    as of reporting date, and furnish the Municipal Accountant with  a  copy\n    of the said report.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We recommended  that  the  Municipal  Mayor  require  the  Municipal\n    Accountant to:\n\n\n        ➢  prepare/extract  the  schedule  for  Guaranty/Security   Deposits\n          Payable account balance of P1,717,045.86 by tracing from the Daily\n          Abstract of Reports of Collections for 2016 and  prior  years  the\n          names of the bidders and the collected amounts and comparing these\n          with the refunded amounts; and\n\n\n        ➢ henceforth, maintain subsidiary  ledgers  or  schedules  for  this\n          account regularly.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommended that  the  Municipal  Mayor  instruct  the  Municipal\n    Accountant  and  the  Municipal  Treasurer  to  remit  promptly  to  the\n    concerned provincial and barangay governments  their  shares  from  real\n    property tax, special education tax, transfer tax, professional tax, CTC\n    and PCA collections.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor and the Municipal  Treasurer\n    see to it that all the insurable  properties  of  the  Municipality  are\n    covered with insurance with the GSIS in compliance with  the  provisions\n    of COA Circular No. 92-390 and Republic Act (R.A.) No. 656.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We  recommended  that  the  Municipal  Mayor  advise  the   Municipal\n   Treasurer to:\n\n\n        ➢ require all the Collectors to remit their collections on  the  day\n          these were collected  in compliance with Section 29 of the MNGAS,\n          Volume I, to avoid possible loss or misuse of funds; and\n\n\n        ➢  implement  rotation  of  collectors,  in  case  the   delays   in\n          remittances are still incurred.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor:\n\n\n        ➢ request the Sangguniang Bayan to pass  a  Resolution  to  fix  the\n          amount of fees to be imposed under Section 3R.01  of  the  Revenue\n          Code and to include additional provision for tax or fees on  other\n          ambulant and itinerant operators during fiesta/special occasions;\n\n\n        ➢ see to it that the Municipality has  a  location  map  having  its\n          area specified for  fiesta  tiangge  together  with  the  list  of\n          individual/entity who will occupy before issuing  the  permit  for\n          the temporary use of street, sidewalk or alley or portion  of  the\n          Municipality; and\n\n        ➢  if  warranted,  assign  checker/s  who  will  monitor  the  legal\n          temporary occupancy of individuals/entities  that  will  undertake\n          selling activities based on the location map, so that the  amounts\n          supposed to be collected will be collected.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2016-OBS9",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor:\n\n\n        ➢ direct the MENRO and SWM Board to finalize the draft  of  the  10-\n          year  SWMP  for  approval  of  the  Sangguniang  Bayan  and   make\n          appropriate  representation  with   the   National   Solid   Waste\n          Management Commission for its expeditious approval, in  compliance\n          with the requirements of R.A. No. 9003;\n\n\n        ➢ monitor and provide  technical  assistance  to  all  Barangays  to\n          facilitate  the  establishment  of  MRFs,  for  an  efficient  and\n          effective collection and  disposal  of  solid  waste,  and  as  an\n          additional  measure to mitigate health and environmental risks; and\n\n        ➢ strictly  enforce  the  collection  of  fines  and  penalties  for\n          violation of SWM-related ordinances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2016-OBS10",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor  to  require  the  Municipal\n    Budget Officer  to  allocate  one  percent  (1%)  of  its  IRA  for  the\n    strengthening and implementation of the PPAs of LCPC.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2016-PY1",
+      "year": 2016,
+      "recommendation": "create an Inventory Team/Committee, if necessary, to:\nexpedite the physical inventory and determination of the unserviceable properties;\nprepare RPCPPE, IIRUP and a separate report for those found to be missing; and\nrequire the Municipal Accountant to verify correctness of prior year’s records on unidentified properties and make necessary adjustment in the PPE accounts based on her verification.",
+      "managementAction": "Physical inventory of unserviceable properties was completed.\nRPCPPE and IIRUP were prepared and submitted to the Audit Team.\nUnidentified properties were fully-depreciated based on the Lapsing Schedule of PPE prepared by the Municipal Accountant.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2016-PY2",
+      "year": 2016,
+      "recommendation": "require the Municipal Accountant to re-compute the depreciation for 2015 using 5%, then adjust the balance of accumulated depreciation. Henceforth, compute depreciation for succeeding years using the same rate in compliance with PPSAS 17.",
+      "managementAction": "Adjustments in the balances of the Property, Plant and Equipment (PPE) accounts were already made.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2016-PY3",
+      "year": 2016,
+      "recommendation": "require the Municipal Treasurer to prepare the Inventory and Inspection Report for Unserviceable Property (IIRUP) for the old building and furnish the Municipal Accountant with its duly signed and approved copy; and require the Municipal Accountant to record the cost of the new building and drop the old building from the books.",
+      "managementAction": "IIRUP was prepared for the old building and the same was submitted to the Municipal Accountant.\nThe Municipal Accountant recorded the new building and dropped the old building from the books.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2016-PY4",
+      "year": 2016,
+      "recommendation": "require the Municipal Treasurer to submit justification on the failure to notify the COA on the disposal of the slaughterhouse building together with the required supporting documents.",
+      "managementAction": "The required documents and written justifications were submitted by the Municipal Treasurer.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2016-PY5",
+      "year": 2016,
+      "recommendation": "require the Bid and Awards Committee (BAC) to submit the contracts with complete supporting documents to the Auditor.",
+      "managementAction": "The Construction of Slaughterhouse Project was completed in CY 2016 and the covering contracts were already submitted to the Audit Team.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2016-PY6",
+      "year": 2016,
+      "recommendation": "formally designate the Municipal Assessor to facilitate the titling of subject lots to avoid contingent claims that may arise in the future and head the Appraisal Committee that will be responsible in determining the fair value of the donated lot; and require the Municipal Accountant to record the donated lot based on its appraised fair value.",
+      "managementAction": "The Municipal Mayor designated the Municipal Assessor to facilitate the titling of the subject lots. To date, two lots were already provided with Transfer Certificate of Titles (TCT) while three are already in the process of titling.\nThe Municipal Accountant already recorded the lots with TCTs.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2016-PY8",
+      "year": 2016,
+      "recommendation": "require the Municipal Agriculturist to: submit to the Municipal Accountant the Livestock Inventory and Monitoring Report as of December 31, 2015; complete the supporting documents to account for the sale of breeding stocks valued at P585,600.00; refund the amount of P49,800.00 for the animals without approved request for relief from property accountability; and require the Municipal Accountant to take up the necessary adjusting entries to correct the balance of Breeding Stocks account.",
+      "managementAction": "The report was already submitted to the Municipal Accountant.\nSupporting documents were submitted for the sale of breeding stocks.\nA written justification was submitted by the former OIC-Municipal Agriculturist.\nAdjusting entries were already made by the Municipal Accountant.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2016-PY10",
+      "year": 2016,
+      "recommendation": "require the DO and officers and employees to liquidate their cash advance within the reglementary period or as soon as the purpose for which it was given has been served, preferably upon completion of the project/program/activity; and require the Municipal Accountant to refrain from granting cash advances to the DO without liquidating first the previous cash advance granted to her.",
+      "managementAction": "The DO and officers and employees complied with the liquidation of cash advances within the reglementary period.\nThe Municipal Accountant ensured that previous cash advances are liquidated first before granting new cash advances by preparing a certification as supporting document to the new cash advance voucher.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2016-PY11",
+      "year": 2016,
+      "recommendation": "require the Bids and Awards Committee (BAC) to: henceforth, strictly comply with the posting requirements mandated under Sections 21.2 (b) and 37.1.6 of the Revised IRR of RA No. 9184 relative to the procurement of infrastructure projects; conduct a thorough review of the submitted bid documents and submit written explanation on the deficiencies noted in the documents; and require the Municipal Accountant to ensure that subsequent disbursement vouchers are supported with complete supporting documents before these are processed and paid, and submit the lacking documents enumerated above to avoid suspension/disallowance in audit.",
+      "managementAction": "The BAC complied with the posting requirements.\nReview of the submitted bid documents was conducted.\nWritten justification on the noted deficiencies was submitted.\nSubsequent processed and paid disbursement vouchers were already supported with the required documents.\nThe lacking documents were submitted.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2016-PY12",
+      "year": 2016,
+      "recommendation": "require the Municipal Engineer to submit at the beginning of the year the list of all on-going government projects/programs/activities (PPA) and those that are to be implemented during the year and the monthly monitoring report, in compliance with the above cited regulations.",
+      "managementAction": "The Municipal Engineer already complied with the submission of the reports.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2016-PY13",
+      "year": 2016,
+      "recommendation": "require the BAC/Municipal Treasurer to submit the contracts and their supporting documents within five working days from the execution of the contract, in compliance with COA Circular No. 2009-001.",
+      "managementAction": "Copies of contracts were submitted to the Audit Team when requested.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Tiaong_Quezon-2016-PY14",
+      "year": 2016,
+      "recommendation": "request the Sangguniang Bayan for immediate ratification of the Local GAD Code and implement the same in ensuing year.",
+      "managementAction": "The Municipality submitted the Local GAD Code approved by the Sangguniang Bayan.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    }
+  ]
+}

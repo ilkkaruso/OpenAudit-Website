@@ -1,0 +1,974 @@
+{
+  "lguCode": "1903612000",
+  "lguName": "Lumbatan",
+  "province": "Lanao del Sur",
+  "region": "BARMM",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "Lumbatan_LdS_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "5. Prepare and submit the required Bank Reconciliation Statements; and\n6. Reclassify and/or adjust transaction accounts that had been already credited in Cash In Bank account but checks issued thereon were cancelled and/or not presented for payment as of December 31, 2020.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LdS_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "9. We recommended that the concerned officials of the Municipality establish and maintain a GAD database containing Sex Disaggregated data and gender statistics and include it in the preparation of the GAD Planning and Budget in compliance with PCW/NEDA/ DBM Joint Circular No. 2012-01.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LdS_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "1.5 We recommended and Management agreed to require the Municipal\nAccountant to duly recognize the monthly depreciation of their PPEs in\norder to reflect its correct carrying amounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LdS_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "2.5 We recommended and Management agreed to require the Municipal\nAccountant the submission of RCD with official receipts and validated\ndeposit slips to the Office of the Auditor within the prescribed period\npursuant to Section 7.2.1(a) of COA Circular No. 2009-006.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LdS_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "3.5 We recommended and Management agreed to require the Municipal\nAccountant to facilitate the preparation and prompt submission of the\nmonthly BRS to the Audit Team for their review, and as required under\nSection 74 of PD No. 1445 and Section 3 of COA Circular No. 96-011. In\ncase of delayed production of the bank statements, securing a snapshots\nas of a given date will do.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LdS_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "4.5 We recommended and Management agreed to ensure the submission of\nPOs/contract documents not later than five (5) working days from\nperfection of contract together with duly accomplished supporting\ndocuments and the AIRs within 24 hours from acceptance of goods, in\ncompliance with COA Circular Nos. 2009-001 and 95-006.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LdS_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "5.6 We recommended and Management agreed to require the BAC\nSecretariat in collaboration with all concerned key offices to facilitate the\npreparation and submission of a comprehensive, workable and realistic\nAPP pursuant to Section 7 Rule II of the 2016 Revised IRR of RA 9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LdS_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "6.3 We recommended and Management agreed to require the Municipal\nAccountant and the Municipal Disaster Risk Reduction Officer to\nprepare and submit the Report on LDRMMF every month, whether\nthere is transaction or utilization for the period, as required by COA\nCircular No. 2012-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LdS_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LdS_aar2021-OBS8",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LdS_aar2021-OBS9",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LdS_aar2021-OBS10",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LdS_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "1. We recommended that Management create an Inventory Committee, composed of a representative from the Mayor’s Office, the General Services Office/or the Municipal Treasurer’s Office and in other departments and conduct the required annual physical count of property, plant and equipment of the Municipality.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LdS_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "2. We recommended that Municipal Mayor direct Head of General Services Office, in coordination with the Municipal Social Worker for Development Office to prepare and submit the RSMI and RIS to the Municipal Accountant to support the credits made to account Welfare Goods for Distribution.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LdS_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "3. We recommended that Management direct the Municipal Accountant to prepare the separate Trial Balance for the Special accounts in the General Fund, most importantly for development projects funded out of IRA that will facilitate reporting of funds utilized and review thereof.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LdS_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "4. We recommended that Municipal Mayor will assign personnel who will prepare the report and submit its Agency Action Plan and Status of Implementation for the AAR 2019 and to strictly comply with the submission of AAPSI in the ensuing annual audit reports.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LdS_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "8. We recommended that Management direct the Accountant to reflect the current portion of Loans Payable separately from its long term debt in the FS, so that its users will be accordingly apprised of the status of its obligation.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Lumbatan_LDS-2020-PY1",
+      "year": 2020,
+      "recommendation": "1) We recommended that Management initiate the conduct of a complete physical count of the municipality’s properties by creating an Inventory Committee composed of a representative each from the Mayor’s Office, from the General Services Office (or the Municipal Treasurer’s Office) and a representative from each department to prepare the necessary procedures in the proper and orderly conduct of the physical count of the all the property, plant and equipment and inventories owned by the Municipality.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Lumbatan_LDS-2020-PY3",
+      "year": 2020,
+      "recommendation": "3) We recommended that the Municipal Accountant prepare and submit the required Bank Reconciliation Statements on a monthly basis pursuant to the rules and regulations provided by the Commission.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Lumbatan_LDS-2020-PY11",
+      "year": 2020,
+      "recommendation": "11) We recommended that management direct the Accountant to reflect the current portion of Loans Payable separately from its long term debt in the FS, so that its users will be accordingly apprised of the status of its obligation.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Lumbatan_LDS-2020-PY13",
+      "year": 2020,
+      "recommendation": "13) We recommend to initiate the conduct of a complete physical inventory of the municipality’s properties by creating an Inventory Committee composed of a representative each from the Mayor’s Office, from the General Services Office (or the Municipal Treasurer’s Office) and a representative from each department to prepare the necessary procedures in the proper and orderly conduct of the physical count of the all the property, plant and equipment and inventories owned by the Municipality.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Lumbatan_LDS-2020-PY14",
+      "year": 2020,
+      "recommendation": "14) We recommend that the concerned officials of the Municipality establish and maintain a GAD database containing Sex Disaggregated data and gender statistics and include it in the preparation of the GAD Planning and Budget in compliance with PCW/NEDA/ DBM Joint Circular No. 2012-01.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Lumbatan_LDS-2020-OBS1",
+      "year": 2020,
+      "recommendation": "1.6 We recommended that Management create an Inventory Committee,\ncomposed of a representative from the Mayor’s Office, the General\nServices Office/or the Municipal Treasurer’s Office and in other\ndepartments and conduct the required annual physical count of\nproperty, plant and equipment of the municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Lumbatan_LDS-2020-OBS2",
+      "year": 2020,
+      "recommendation": "2.9 We recommended that Municipal Mayor direct the Head of General\nServices Office, in coordination with the Municipal Social Worker for\nDevelopment Office to prepare and submit the RSMI and RIS to the\nMunicipal Accountant to support the credits made to account Welfare\nGoods for Distribution.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Lumbatan_LDS-2020-OBS3",
+      "year": 2020,
+      "recommendation": "3.6 We recommended that Management direct the Municipal Accountant\nto prepare the separate Trial Balance for the Special accounts in the\nGeneral Fund, most importantly for development projects funded out\nof IRA that will facilitate reporting of funds utilized and review\nthereof.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Lumbatan_LDS-2020-OBS4",
+      "year": 2020,
+      "recommendation": "4.4 We recommended that Management instruct the GAD Focal Person\nto prepare and submit the GAD accomplishment report accompanied\nwith its supporting documents to the Office of the Office of the\nAuditor for validation and tracking of the resources on GAD focused\npolicies, programs and projects based on the approved GAD Plan\npursuant to Joint Circular No. 2004-1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Lumbatan_LDS-2020-OBS5",
+      "year": 2020,
+      "recommendation": "5.2 We recommended that Municipal Accountant:\na. Prepare and submit the required Bank Reconciliation\nStatements; and\nb. Reclassify and/or adjust affected transaction accounts that had\nbeen already credited in Cash In Bank account but checks\nissued thereon were cancelled and/or not presented for\npayment as of December 31, 2020.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Lumbatan_LDS-2020-OBS6",
+      "year": 2020,
+      "recommendation": "6.5 We recommended that the Municipal Mayor will assign personnel\nwho will prepare the report and submit its Agency Action Plan and\nStatus of Implementation for the AAR 2019 and to strictly comply\nwith the submission of AAPSI in the ensuing annual audit reports.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Lumbatan_LDS-2020-PY2",
+      "year": 2020,
+      "recommendation": "2) We recommended that the Acting General Services Officer submit the duly filled up driver’s trip tickets, Monthly Report of Official Travels and Monthly Report of Fuel Consumption in the use of government vehicles as required in Section 361 of GAAM, Volume I, and to support all purchases of fuel with complete documentation pursuant to Section 4 (6) of Presidential Decree No. 1445 and COA Circular 2012-001.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Lumbatan_LDS-2020-PY4",
+      "year": 2020,
+      "recommendation": "4) We recommended that the Municipal Accountant coordinate with the concerned personnel and require the payee of the subject disbursement vouchers to submit the lacking documentary requirements for evaluation in audit.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Lumbatan_LDS-2020-PY5",
+      "year": 2020,
+      "recommendation": "5) We recommended that Management instruct the concerned personnel to strictly comply with the provisions of COA Circular No. 2013-004 on the submission of the list of all the Municipality’s projects/programs/activities, including the on-going and those that are to be implemented during the year containing the following information: a. The project name; b. Implementing unit, Office or division if it is not the agency as a whole; c. Brief description of the PPA; d. Contractor or supplier, if any; e. Mode of procurement f. Funding Source g. Cost of approve budget h. Project duration including start and completion date; and i. Location",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Lumbatan_LDS-2020-PY6",
+      "year": 2020,
+      "recommendation": "6) We recommended that Management instruct the GAD Focal Person prepare and submit the GAD accomplishment Report accompanied by its supporting documents to the Office of the Auditor for validation and tracking of GAD focused policies, programs and projects based on the approved GAD Plan pursuant to Joint Circular No. 2004-1.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Lumbatan_LDS-2020-PY7",
+      "year": 2020,
+      "recommendation": "7) We recommended that Management ensure that the Accountant prepares the Report on LDRRMF every month, within the timeframe prescribed, pursuant to COA Circular No. 2012-002.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Lumbatan_LDS-2020-PY8",
+      "year": 2020,
+      "recommendation": "8) We recommended to adhere strictly to the mandated use of government plates and markings. Direct the vehicle driver to prepare the monthly report of fuel consumption and summary of official travel for proper control and monitoring. Otherwise non-compliance therewith shall cause the disallowance of all expenses such as fuel, oil, gasoline, spare parts and vehicle repair and maintenance pursuant to COA Circular No. 75-6 and 77-61.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Lumbatan_LDS-2020-PY9",
+      "year": 2020,
+      "recommendation": "9) We recommended to adhere to the above cited COA Circular and submission of the above requirements for verification and analysis to the COA Audit Team before issuance of Disallowance in Audit.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Lumbatan_LDS-2020-PY10",
+      "year": 2020,
+      "recommendation": "10) We recommended that the management may adhere to the provision of COA Memorandum No. 87 dated July 27, 1987 as amended by COA Memorandum No. 98-016, dated June 16, 1998 for public participation in the promotion of public accountability.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Lumbatan_LDS-2020-PY12",
+      "year": 2020,
+      "recommendation": "12) We recommend that the Municipal Engineering Office strictly observe the afore-cited regulations to furnish the Office of the Auditor of copies of the Suspension orders for its immediate determination if the grounds for suspension is reasonable or not.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Lumbatan_LDS-2020-PY15",
+      "year": 2020,
+      "recommendation": "15) Settle the Audit suspensions",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2019-PY3",
+      "year": 2019,
+      "recommendation": "3. We recommended that the management may adhere to the provision of COA Memorandum No. 87 dated July 27, 1987 as amended by COA Memorandum No. 98-016, dated June 16, 1998 for public participation in the promotion of public accountability.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2019-PY4",
+      "year": 2019,
+      "recommendation": "4. We recommended that management direct the Accountant to reflect the current portion of Loans Payable separately from its long term debt in the FS, so that its users will be accordingly apprised of the status of its obligation.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2019-PY5",
+      "year": 2019,
+      "recommendation": "5. We recommend that the Municipal Engineering Office strictly observe the afore-cited regulations to furnish the Office of the Auditor copies of the Suspension orders for immediate determination if the grounds for suspension is reasonable or not.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2019-PY7",
+      "year": 2019,
+      "recommendation": "7. We recommend that the concerned officials of the Municipality establish and maintain a GAD database containing Sex-Disaggregated data and include it in the preparation of the GAD Planning and Budget in compliance with PCW/NEDA/ DBM Joint Circular No. 2012-01.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2019-OBS1",
+      "year": 2019,
+      "recommendation": "1.3 We recommended that Management initiate the conduct of a complete\nphysical count of the municipality’s properties by creating an Inventory\nCommittee composed of a representative each from the Mayor’s Office,\nfrom the General Services Office (or the Municipal Treasurer’s Office)\nand a representative from each department to prepare the necessary\nprocedures in the proper and orderly conduct of the physical count of\nthe all the property, plant and equipment and inventories owned by the\nMunicipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2019-OBS2",
+      "year": 2019,
+      "recommendation": "2.6 We recommended that the Acting General Services Officer submit duly\nfilled-up driver’s trip tickets, Monthly Report of Official Travels and\nMonthly Report of Fuel Consumption in the use of government vehicles\nas required in Section 361 of GAAM, Volume I, and to support all\npurchases of fuel with complete documentation pursuant to Section 4\n(6) of Presidential Decree No. 1445 and COA Circular 2012-001.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2019-OBS3",
+      "year": 2019,
+      "recommendation": "3.4 We recommended that the Municipal Accountant prepare and submit\nthe required Bank Reconciliation Statements on a monthly basis\npursuant to the rules and regulations provided by the Commission.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2019-OBS4",
+      "year": 2019,
+      "recommendation": "4.5 We recommended that the Municipal Accountant coordinate with the\nconcerned personnel and require the payee of the subject disbursement\nvouchers to submit the lacking documentary requirements for\nevaluation in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2019-OBS5",
+      "year": 2019,
+      "recommendation": "5.3 We recommended that the concerned officers strictly comply with the\nprovision of COA Circular No. 2013-004 on the requirement to submit\nlist of all on- going government projects/programs/activities and those\nthat are to be implemented during the year containing the following\ninformation:\na. The project name;\nb. Implementing unit, Office or division if it is not the agency as a\nwhole;\nc. Brief description of the PPA;\nd. Contractor or supplier, if any;\ne. Mode of procurement\nf. Funding Source\ng. Cost of approve budget\nh. Project duration including start and completion date; and\ni. Location",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2019-OBS6",
+      "year": 2019,
+      "recommendation": "6.6 We recommended that Management instruct the GAD Focal Person to\nprepare and submit the GAD accomplishment report accompanied with\nits supporting documents of gender responsive and/or GAD to the\nOffice of the Auditor for validation and tracking of the resources on\nGAD focused policies, programs and projects based on the approved\nGAD Plan pursuant to Joint Circular No. 2004-1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2019-OBS7",
+      "year": 2019,
+      "recommendation": "7.3 We recommended that the Municipality ensure that the Accountant\nprepares the Report on LDRRMF every month whether there is\ntransaction/ utilization for that month as required by COA Circular No.\n2012-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2019-OBS8",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2019-OBS9",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2019-OBS10",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2019-OBS11",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2019-OBS12",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2019-PY1",
+      "year": 2019,
+      "recommendation": "1. We recommended to adhere strictly to the mandated use of government plates and markings. Direct the vehicle driver to prepare the monthly report of fuel consumption and summary of official travel for proper control and monitoring.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2019-PY2",
+      "year": 2019,
+      "recommendation": "2. We recommended to adhere to the above cited COA Circular and submission of the above requirements for verification and analysis to the COA Audit Team before issuance of Disallowance in Audit.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2019-PY6",
+      "year": 2019,
+      "recommendation": "6. We recommend to initiate the conduct of a complete physical inventory of the municipality’s properties by creating an Inventory Committee composed of a representative each from the Mayor’s Office, from the General Services Office (or the Municipal Treasurer’s Office) and a representative from each department to prepare the necessary procedures in the proper and orderly conduct of the physical count of the all the property, plant and equipment and inventories owned by the Municipality.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2019-PY8",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2018-PY4",
+      "year": 2018,
+      "recommendation": "a. Initiate the conduct of a complete physical inventory of the municipality’s properties by creating an Inventory Committee composed of a representative each from the Mayor’s Office, from the General Services Office (or the Municipal Treasurer’s Office) and a representative from each department to prepare the necessary procedures in the proper and orderly conduct of the physical count of the all the property, plant and equipment and inventories owned by the Municipality; and b. Require the Inventory Committee to conduct the physical count of all the properties recorded in the books and those not yet recorded but actually found in the LGU offices/premises and to prepare the corresponding inventory reports thereof; and reconcile them with the accounting records to come up with the correct account balances in the financial statement; c. Require the Municipal Treasurer and Municipal Accountant to maintain stock, property and ledger cards, respectively to properly account the receipt and disposition of property and supplies.",
+      "managementAction": "Management promise to initiate physical action on the matter.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No inventory committee created"
+    },
+    {
+      "id": "Lumbatan_LDS-2018-PY11",
+      "year": 2018,
+      "recommendation": "We recommend that the Municipality shall ensure that the Accountant prepares the Report on LDRRMF every month whether there is transaction/utilization for that month as required by COA Circular No. 2012-002.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2018-OBS1",
+      "year": 2018,
+      "recommendation": "1.7 We recommended that Management adhere strictly to the mandated use of\ngovernment plates and markings. Direct the vehicle driver to prepare\nthe monthly report of fuel consumption and summary of official travel\nfor proper control and monitoring. Otherwise non-compliance therewith\nshall cause the disallowance of all expenses such as fuel, oil, gasoline,\nspare parts and vehicle repair and maintenance pursuant to COA\nCircular No. 75-6 and 77-61.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2018-OBS2",
+      "year": 2018,
+      "recommendation": "2.3 We recommended that Management adhere to the above cited COA\nCircular and submission of the above requirements for verification and\nanalysis to the COA Audit Team before issuance of Disallowance in\nAudit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2018-OBS3",
+      "year": 2018,
+      "recommendation": "3.3 We recommended that Management adhere to the provision of COA\nMemorandum No. 87 dated July 27, 1987 as amended by COA\nMemorandum No. 98-016, dated June 16, 1998 for public participation in\nthe promotion of public accountability.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2018-OBS4",
+      "year": 2018,
+      "recommendation": "4.6 We recommended that management direct the Accountant to reflect the\ncurrent portion of Loans Payable separately from its long term debt in\nthe FS, so that its users will be accordingly apprised of the status of its\nobligation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2018-OBS5",
+      "year": 2018,
+      "recommendation": "5.6 We recommended that Municipal Engineering Office strictly observe the\nafore-cited regulations to furnish the Office of the Auditor of copies of\nthe Suspension orders for its immediate determination if the grounds\nfor suspension is reasonable or not.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2018-OBS6",
+      "year": 2018,
+      "recommendation": "6.4 We recommended that Management initiate the conduct of a complete\nphysical inventory of the municipality’s properties by creating an\nInventory Committee composed of a representative each from the\nMayor’s Office, from the General Services Office (or the Municipal\nTreasurer’s Office) and a representative from each department to\nprepare the necessary procedures in the proper and orderly conduct of\nthe physical count of the all the property, plant and equipment and\ninventories owned by the Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2018-OBS7",
+      "year": 2018,
+      "recommendation": "7.5 We recommended that Management require the concerned officials of the\nMunicipality to establish and maintain a GAD database containing Sex-\nDisaggregated data and gender statistics and include it in the preparation\nof the GAD Planning and Budget in compliance with PCW/NEDA/ DBM\nJoint Circular No. 2012-01.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2018-OBS8",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2018-OBS9",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2018-OBS10",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2018-OBS11",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Treasurer and the Municipal Accountant shall record and post in the Cashbook and the books of accounts respectively the fund transfer amounting to P1,320,000.00 and adjust the cash and cash equivalent accounts so as to present the financial statements of the agency fairly presented and free from material misstatements. Furthermore, strictly observe the procedures and process of collections and deposits of income and revenue.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommend that Management strictly require the preparation and approval of the PO before any payment is made on the purchase of materials for projects implemented by the Municipal Government in compliance on the COA Circular.",
+      "managementAction": "Agency head order Implemented officials are responsible to comply.",
+      "status": "IMPLEMENTED",
+      "reason": "Not Responsible officials are Luck of training."
+    },
+    {
+      "id": "Lumbatan_LDS-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommend that the Municipal Treasurer and the Municipal Accountant to submit immediately the Report of Collections and Deposits covering the P520,420.00 funds received/collected during the year 2017 together with the supporting official receipts and validated deposit slips.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommend that Management direct the Accountant to reflect the current portion of Loans Payable separately from its long term debt in the FS, so that its users will be accordingly apprised of the status of its obligation.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2018-PY6",
+      "year": 2018,
+      "recommendation": "a. Require the Supply Officer to record all purchases of Office supplies inventory to the Office supplies Inventory account, Food supplies Inventory and Drugs and Medicines Inventory account as provided under the Perpetual Inventory Method of accounting for inventories. b. The Supply Officer should be instructed to prepare the RSMI for all issuances of office supplies and submit the same to the Accounting Office, on a monthly basis for the preparation of the JEV to take up the expense account.",
+      "managementAction": "Agency head order Implemented officials are responsible to comply.",
+      "status": "IMPLEMENTED",
+      "reason": "Luck of training"
+    },
+    {
+      "id": "Lumbatan_LDS-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommend that the concerned officials of the Municipality establish and maintain a GAD database containing Sex-Disaggregated data and gender statistics and include it in the preparation of the GAD Planning and Budget in compliance with PCW/NEDA/ DBM Joint Circular No. 2012-01.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Not Responsible officials are Luck of training"
+    },
+    {
+      "id": "Lumbatan_LDS-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommend that the Municipal Engineer may prepare and post the signboard near the project situs and likewise post the blackboard in the conspicuous place of the municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Not Implemented by the Management"
+    },
+    {
+      "id": "Lumbatan_LDS-2018-PY9",
+      "year": 2018,
+      "recommendation": "Encourage and urge the Local Chief Executive establish the Municipality Solid Waste Management (SWM) Boards in pursuant to Section 2 (par. 2) Rule VIII and Section 1, Rule VI of IRR of RA 5447.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2018-PY10",
+      "year": 2018,
+      "recommendation": "We recommend that the Municipal Engineering Office strictly observe the afore-cited regulations to furnish the Office of the Auditor of certified copies of the suspension orders for its immediate determination if the grounds for suspension is reasonable or not.",
+      "managementAction": "Agency head order Implemented officials are responsible to comply.",
+      "status": "IMPLEMENTED",
+      "reason": "Luck of training"
+    },
+    {
+      "id": "Lumbatan_LDS-2018-PY12",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2017-PY1",
+      "year": 2017,
+      "recommendation": "Request Technical Audit\nSpecialist from COA-ARMM,\nRegional Office to inspect and\nevaluate the above\naccomplishment and adhere to\nthe provision of Section 18 of\nP.D. 1445.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2017-PY2",
+      "year": 2017,
+      "recommendation": "We recommend that management\nshould ensure that due\nnotification to the Auditor of\nthe time and date of every\nscheduled delivery of goods and\nservices be made on time\npursuant to COA Circular No.\n95-006 dated May 18, 1995.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2017-PY4",
+      "year": 2017,
+      "recommendation": "Encourage and urge the Local\nChief Executive to establish a\nsound ecological solid waste\nmanagement systems and\nconstitute the Municipality\nSolid Waste Management (SWM)\nBoards in pursuant to Section 2\n(par. 2) Rule VIII and Section 1,\nRule VI of IRR of RA 5447.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2017-PY5",
+      "year": 2017,
+      "recommendation": "We recommend that the Municipal\nTreasurer and the Municipal\nAccountant be directed to cause\nthe immediate submission of the\nReport of Collections and\nDeposits covering the\nP218,162.00 funds\nreceived/collected during the\nyear 2016 together with the\nsupporting official receipts\nand validated deposit slips.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommend that  the Municipal Treasurer  and   the  Municipal\n      Accountant shall record and post in the  Cashbook  and  the  books  of\n      accounts respectively the fund transfer amounting to P1,320,000.00 and\n      adjust the cash and cash equivalent accounts  so  as  to  present  the\n      financial statements of the agency  fairly  presented  and  free  from\n      material misstatements. Furthermore, strictly observe  the  procedures\n      and process of collections and deposits of income and revenue.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We  recommend  that  Management   strictly   require   the\n      preparation and approval of the PO before any payment is made  on  the\n      purchase of construction materials for  projects  implemented  by  the\n      Municipal Government in compliance on the above COA Circular.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recommend that Management direct the Municipal Treasurer  and\n      the Municipal  Accountant  to  submit  immediately   the   Report   of\n      Collections    and     Deposits  covering   the   P520,420.00    funds\n      received/collected    during      the     year     2017       together\n      with     the     supporting     official    receipts    and  validated\n      deposit slips.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We recommend that Management\n\n\n           a. Initiate the conduct of a complete physical inventory of  the\n              \\municipality’s   properties       by       creating       an\n              Inventory    Committee composed of a representative each from\n              the Mayor’s Office, from the General Services\n              Office  (or  the  Municipal   Treasurer’s   Office)   and   a\n              representative from each department to prepare the  necessary\n              procedures in the proper and orderly conduct of the  physical\n              count of the  all  the  property,  plant  and  equipment  and\n              inventories owned by the Municipality;\n\n           b. Require the Inventory Committee to conduct the physical count\n              of all the properties recorded in the books and those not yet\n              recorded but actually found in the LGU  offices/premises  and\n              to prepare the corresponding inventory reports  thereof;  and\n              reconcile them with the accounting records to  come  up  with\n              the correct account balances in the financial statement.\n\n\n           c. Require the Municipal Treasurer and Municipal  Accountant  to\n              maintain stock, property and ledger  cards,  respectively  to\n              properly account the receipt and disposition of property  and\n              supplies.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommend that Management direct the  Accountant  to  reflect\n      the current portion of Loans Payable separately  from  its  long  term\n      debt in the FS, so that its users will be accordingly apprised of  the\n      status of its obligation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommend that  Management  require  the  Supply  Officer  to\n      record all  purchases  of  office  supplies  to  the  Office  Supplies\n      Inventory account, Food supplies Inventory  and  Drugs  and  Medicines\n      inventory account as provided under the Perpetual Inventory Method  of\n      accounting for inventories.\n\n                  The Supply Officer should be  instructed  to  prepare  the\n      RSMI for all issuances of office supplies and submit the same  to  the\n      Accounting Office, on a monthly basis for the preparation of  the  JEV\n      to take up the expense account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We  recommend  that  the  concerned   officials   of   the\n      Municipality establish and maintain a  GAD  database  containing  sex-\n      Disaggregated  data and  gender  statistics  and  include  it  in  the\n      preparation  of  the  GAD  Planning  and  Budget  in  compliance  with\n      PCW/NEDA/ DBM Joint Circular No. 2012-01.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2017-OBS7",
+      "year": 2017,
+      "recommendation": "Require the Office of the Municipal Engineer  prepare  and  post\n      the signboard near the project situs and likewise post the  blackboard\n      in the conspicuous place of the municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2017-OBS8",
+      "year": 2017,
+      "recommendation": "Encourage and urge the Local Chief Executive establish  a  sound\n      ecological  solid  waste  management  systems   and   constitute   the\n      Municipality Solid  Waste  Management  (SWM)  Boards  in  pursuant  to\n      Section 2 (par. 2) Rule VIII and Section 1, Rule VI of IRR of RA 5447.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2017-OBS9",
+      "year": 2017,
+      "recommendation": "We recommend  that  the  Municipal  Engineering  Office\n      strictly  observe  the afore-cited regulations to furnish the Office\n      of the  Auditor  of  certified  copies  of  the suspension orders for\n      its  immediate  determination  if  the  grounds  for  suspension  is\n      reasonable or not.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2017-OBS10",
+      "year": 2017,
+      "recommendation": "We  recommend  that  the  Municipality  shall  ensure  that  the\n      Accountant prepares the Report on LDRRMF every month whether there  is\n      transaction/ utilization for that month as required  by  COA  Circular\n      No. 2012-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2017-OBS11",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2017-OBS12",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2017-OBS13",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2017-OBS14",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2017-PY3",
+      "year": 2017,
+      "recommendation": "We recommended that officials\nconcerned were advise to comply\nwithin 90 days with the\nrequirements of the\ntransactions suspended in audit\nand submit lacking supporting\npapers.  Otherwise, it will be\ndisallowed in audit and\nsettlement thereof should be\nimmediately enforced by\nwithholding the salaries or\nother claims of the persons\nliable in satisfaction of the\namounts disallowed which is\nfinal and executory.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2017-PY6",
+      "year": 2017,
+      "recommendation": "We recommend that the previous\nadministration of the\nmunicipality shall cause the\nofficial documentation of the\nturnover of offices between and\namong the outgoing and the\nincoming officials of the\nmunicipality with the\npreparation of invoices and\nreceipt of property and\nresponsibility accountabilities\nto determine property their\nrespective responsibilities.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2017-PY7",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2016-PY2",
+      "year": 2016,
+      "recommendation": "We recommend that the Municipal\nTreasurer and the Municipal    \nAccountant be directed to cause\nthe immediate submission of the\nReport of Collections and      \nDeposits covering the P1 funds \nreceived/collected during the  \nyear 2015 together with the    \nsupporting official receipts   \nand validated deposit slips.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2016-PY5",
+      "year": 2016,
+      "recommendation": "Request Technical Audit        \nSpecialist from  COA-ARMM,     \nRegional Office to inspect     \nand evaluate the  above        \naccomplishment and adhere to   \nthe provision of Section 18 of \nP.D. 1445.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2016-OBS1",
+      "year": 2016,
+      "recommendation": "Request  Technical  Audit  Specialist  from  COA-ARMM,  Regional\n      Office to inspect and evaluate the above accomplishment and adhere  to\n      the provision of Section 18 of P.D. 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We recommend that management should ensure that due notification\n      to the Auditor of the time and date of  every  scheduled  delivery  of\n      goods and services be made on time pursuant to COA Circular No. 95-006\n      dated May 18, 1995.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommended that officials concerned were  advise  to  comply\n      within 90 days with the requirements of the transactions suspended  in\n      audit and submit lacking supporting papers.   Otherwise,  it  will  be\n      disallowed in audit  and  settlement  thereof  should  be  immediately\n      enforced by withholding the salaries or other claims  of  the  persons\n      liable in satisfaction of the amounts disallowed which  is  final  and\n      executory.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2016-OBS4",
+      "year": 2016,
+      "recommendation": "Encourage and urge the Local  Chief  Executive  to  establish  a\n      sound ecological solid waste management  systems  and  constitute  the\n      Municipality Solid  Waste  Management  (SWM)  Boards  in  pursuant  to\n      Section 2 (par. 2) Rule VIII and Section 1, Rule VI of IRR of RA 5447.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommend that the  Municipal  Treasurer  and  the  Municipal\n      Accountant be directed to cause the immediate submission of the Report\n      of  Collections  and   Deposits   covering   the   P218,162.00   funds\n      received/collected during the year 2016 together with  the  supporting\n      official receipts and validated deposit slips.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We  recommend  that   the   previous   administration   of   the\n      municipality shall cause the official documentation of the turnover of\n      offices between and among the outgoing and the incoming  officials  of\n      the municipality with the  preparation  of  invoices  and  receipt  of\n      property and responsibility  accountabilities  to  determine  property\n      their respective responsibilities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2016-OBS7",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2016-OBS8",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2016-OBS9",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2016-OBS10",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2016-PY1",
+      "year": 2016,
+      "recommendation": "We recommend that management in\nthe succeeding fiscal years,\nshall include in the Annual    \nAppropriations for Senior      \ncitizens  and persons wit      \ndisabilities and 2% for the    \nimplementation of the programs \nof the Local Council for the   \nprotection of children as      \nrequired under RA 9442 amending\nRA 7277 and 9344 so that PAPS  \nfor them can be perfectly      \nexecuted.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2016-PY3",
+      "year": 2016,
+      "recommendation": "Initiate measures designed to  \ncome up with a Memorandum of   \nAgreement (MOA) with the GSIS  \ndefining therein the agreed    \nbalance of payables to GSIS, if\nany, and the terms and         \nconditions in the settlement   \nthereof.  The following steps  \nmay help in facilitating       \nreconciliation of records.\n\nSecure detailed profile of     \npayables per GSIS records;     \nReconstruct old GSIS accounts, \nif necessary, and update       \nrecords;                       \nReconstruct old personnel      \nprofile, if necessary, and     \nupdate personnel profile;      \nCounter-check GSIS records with\nthe reconstructed and updated  \naccounting and personnel       \nrecords of the LGU;            \nNegotiate with the GSIS for any\ndifferences that may be noted  \nduring counter-checking        \nactivity;                      \nEnter into a formal agreement  \nwith the GSIS in the form of a \nMemorandum of Agreement (MOA); \nand Appropriate fund for the   \nsettlement of any payables to  \nthe GSIS as agreed in the MOA.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2016-PY4",
+      "year": 2016,
+      "recommendation": "We recommend that  to record   \nall purchases of Office        \nsupplies to the Office Supplies\nInventory account as provided  \nunder the Perpetual Inventory  \nMethod of accounting for       \ninventories.\n\nThe Supply Officer should be   \ninstructed to prepare the RSMI \nfor all issuances of office    \nsupplies and submit the same to\nthe Accounting Office, on a    \nmonthly basis for the          \npreparation of the JEV to take \nup the expense account.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2016-PY6",
+      "year": 2016,
+      "recommendation": "Initiate the conduct of a      \ncomplete physical inventory of \nthe \\municipality’s properties \nby    creating    an           \nInventory    Committee composed\nof a representative each from  \nthe Mayor’s Office, from the   \nGeneral Services Office (or the\nMunicipal Treasurer’s Office)  \nand a representative from each \ndepartment to prepare the      \nnecessary procedures in the    \nproper and orderly conduct of  \nthe physical count of the all  \nthe property, plant and        \nequipment and inventories owned\nby the Municipality;           \n\nRequire the Inventory Committee\nto conduct the physical count  \nof all the properties recorded \nin the books and those not yet \nrecorded but actually found in \nthe LGU offices/premises and to\nprepare the corresponding      \ninventory reports thereof; and \nreconcile them with the        \naccounting records to come up  \nwith the correct account       \nbalances in the financial      \nstatement.                     \n\nRequire the Municipal Treasurer\nand Municipal Accountant to    \nmaintain stock, property and   \nledger cards, respectively to  \nproperly account the receipt   \nand disposition of property and\nsupplies.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Lumbatan_LDS-2016-PY7",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    }
+  ]
+}

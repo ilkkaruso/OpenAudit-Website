@@ -1,0 +1,1854 @@
+{
+  "lguCode": "1606819000",
+  "lguName": "City of Tandag",
+  "province": "Surigao del Sur",
+  "region": "Region XIII (Caraga)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "TandagCity_SDS_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended Management to ensure proper recording of financial transactions requiring the Market Supervisor –Designate to furnish the City Accountant’s Office, copies of the previous and current notarized contract of lease of stallholders, and coordinate with City Treasurer’s Office for the proper record keeping and prompt collections of the said uncollected balances.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended that Management ensure that all acquired real properties are duly registered the name of City of Tandag, and require the City General Services Office (CGSO) and City Assessor’s Office to ensure that all Lands owned by the city are duly registered under the name LGU Tandag and secure copies of the corresponding Torrens Certificate of Title (TCT).\n\nInstruct the City Accountant to exert best efforts to trace the acquisition of the unrecorded real properties and determine the appropriate cost to be recognized in the financial statements.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY22",
+      "year": 2021,
+      "recommendation": "We recommend Management to instruct the Market Collector to assess and collect daily rental fees based on the rates prescribed under Revenue Code; and coordinate with the Market Committee to formulate plans in updating/amending the rate of rental fees to be collected from market stalls.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY23",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY24",
+      "year": 2021,
+      "recommendation": "We recommend Management to require the CEEO and CTO to strictly impose the collection of the balances and the surcharges from the delinquent stallholders failed to pay after due notifications, revoke the contract of lease, in consonance with the Revenue Code of Tandag City.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended and the Management agreed to instruct the City Accountant to validate the debit and credit advice reflected in bank statements and draw journal entry vouchers to record the reconciling items that require adjustment in General Ledger to fairly present the account in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended that Management direct the City Accountant to evaluate and properly classify PPE items into its proper account classification in accordance with the revised Chart of Accounts for Local Government Units.\n\nManagement Comment(s)\nIn the exit meeting, the City Accountant acknowledged the deficiencies and assured the Audit Team that the correct classification of the PPE accounts will be recognized.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "We recommended and the Management agreed to direct the City Accountant to:\nPrepare a Journal Entry Voucher reclassifying the completed projects recorded under the CIP accounts to the appropriate PPE accounts; and\nRecognize the related depreciation expense for the completed projects and present the Property, Plant and Equipment accounts to their correct carrying amount.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "We recommended that Management instruct the City Accountant to:\nCoordinate and reconcile the records with City Assessors Office and Inventory and Appraisal Committee to ascertain the correctness of the Land account; and\nPrepare Journal Entry Vouchers to record the cost/value assigned by the Inventory and Appraisal Committee based on the market/fair value for properties found at the station.\nManagement Comment(s)\nDuring the exit conference, the Management informed the Audit Team that the City Accountant has reconciled its records with the City Assessor. Also, they have already prepared the Journal Entry Voucher (JEV) to record the cost/value based on the market value for properties.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to direct the City Accountant to:\nRequire the concerned Accounting Staff to be updated on the chart of accounts, including its descriptions, to ensure proper recording of the City’s financial transactions; and\nPrepare a Journal Entry Voucher to correct the misclassification of accounts in both the General Fund and Trust Fund books of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "We recommended that Management instruct the City Accountant to reclassify the non-current portion of the Loans Payable- Domestic and provide accurate information on the liquidity and solvency of the City.\nManagement Comment(s)\nDuring the exit conference, held on February 22, 2022, the City Accountant expressed that he agreed with the audit recommendation and will immediately prepare the necessary adjusting journal entries.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "We recommended that Management direct the City Accountant to ensure that the accrued expenses, such as accrued interest, are recorded in accordance with accrual basis and International Public Sector Accounting Standards, moving forward.\nManagement Comment(s)\nIn the exit conference, Management commented that they will adhere to the audit recommendations. In addition, the City Accountant expressed his commitment that in CY 2022, he will ensure that the accrued expenses are recorded in accordance with the accrual basis ad International Public Sector Accounting Standards.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS8",
+      "year": 2021,
+      "recommendation": "We recommended that Management require the BAC to submit perfected contracts with their supporting documents under COA Circular 2009-001 and COA Memorandum 2009-083.\nManagement Comment(s)\nThe Management, during the exit meeting, acknowledged the deficiencies and instructed the BAC and the City General Services Office (CGSO) to ensure the submission of contracts and purchase orders to the City Auditors Office.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS9",
+      "year": 2021,
+      "recommendation": "We recommended and  Management agreed to:\nDirect the City Engineer to require the contractors to create an As-Built Plan in future completed projects prior to issuance of Certificate of Completion; and\nDirect the City Accountant to ensure that all disbursement vouchers relating to the final payment of infrastructure projects are adequately supported with mandatory documentary requirements before processing the payments.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS10",
+      "year": 2021,
+      "recommendation": "We recommended that the Management ensure transparency in government procurement and:\nRequire the BAC Secretariat to monitor the status of the Notices of Award and Notices to Proceed to ensure the on-time posting of the same to the PhilGEPS website, City’s official website and the three conspicuous places; and\nDirect the BAC Secretariat, with coordination with the Office of the Mayor, to emplace mechanisms that would ensure on-time signing and posting of  Notices of Award and Notices to Proceed.\nManagement Comment(s)\nThe Management acknowledged the deficiencies in the timeliness of the posting requirements. The BAC also commented that this is due to the delay of the City Engineering Office in submitting the documents to the BAC Secretariat. Nonetheless, the Management agreed with the audit recommendations and committed that all actions will be taken to address the deficiencies.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS11",
+      "year": 2021,
+      "recommendation": "We recommended that Management direct the City Accountant to:\nRequire the City Accounting Staff to be updated on the rules and regulations pertaining to the warranty security required in the procurement of goods; and\nEnsure that for future procurements, retain an amount equivalent to at least 1% of the contract price or require a special bank guarantee of the same amount from the suppliers, to guarantee that that supplier will be liable for any manufacturing defects.\nManagement Comment(s)\nThe Management commented that starting CY2022, they will require warranty security from the suppliers or retain an amount equivalent to at least 1% of the contract price, as adherence to the audit recommendations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS12",
+      "year": 2021,
+      "recommendation": "We recommended that Management instruct the BAC to update and revise the Annual Procurement Plan with its necessary information as prescribed under Appendix 2 of Republic Act No. 9184.\nManagement Comment(s)\nThe Management acknowledged the deficiencies of the format used in the APP for CY 2021. However, they clarified that for CY 2022, the appropriate format was already used.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS13",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to strengthen its management controls and ensure full implementation of its priority programs and projects that are envisioned to help achieve desirable socio-economic development and environmental outcomes of the City, and require:\nThe City Development Council to\nProperly plan the programs and projects before inclusion in the City’s AIP. Also, prioritize development projects that are readily implementable, and during the planning stage, consider the possible problems that may be encountered in the implementation to prevent future delays;\nAllocate additional funds to the projects with insufficient appropriations, and if it is not possible, consider implementing the projects by phase;\nUtilized the excess funds or savings to new development programs and projects to ensure optimal utilization;\nthe City Engineer to\nFast track the identification of the new location/site for those projects which are to be relocated;\nResolve Right-of-Way issues to immediately commence the implementation of the projects, and to avoid future disputes;\nFollow-up the Barangay Officials on the new location of the Bag-ong Lungsod Barangay Hall;\nAdhere to the target dates of implementation and find mechanisms to address unexpected situations such as quarantine protocols;\nThe City Planning and Development Officer to follow-up the MOA with the National Housing Authority, the partner agency;\nThe City Cooperative Officer to follow-up the recipient POs and cause the immediate submission of the liquidation reports, and facilitate the submission of the lacking requirements for the new release of funds; and\nThe CENR Officer to take initiatives by formulating equivalent projects and programs that will also mobilize the community on the marine protected area development, such as online training or face-to-face but with limited participants.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS14",
+      "year": 2021,
+      "recommendation": "We recommended that Management direct the City Accountant to conduct a thorough analysis and verification of non-moving payable accounts so that proper action and/or disposition could be done to ensure that the validity and propriety of the account balances are maintained.\nManagement Comment(s)\nDuring the audit exit conference, Management commented that the City Accounting Office is currently conducting a thorough analysis and verification of non-moving payable accounts. After the verification, the City Accountant will conduct appropriate actions to address this gap.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS15",
+      "year": 2021,
+      "recommendation": "We recommended that Management instruct the City Accountant to ensure proper recording of transactions to avoid such errors so that the propriety and validity of the recorded transactions are maintained.\nManagement Comment(s)\nIt was transpired in the exit conference that the Management acknowledged the gap in recording the said liquidation reports. Then, the City Accountant emphasized that they will adhere to the audit recommendation and will ensure proper recording of transactions to avoid such errors in the future.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS16",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to instruct the City Accountant to maintain a special account in the General Fund for all loans availed by the City.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS17",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to instruct the City Accountant to provide adequate disclosures on Loans Payable account so that the liquidity and solvency of the City could be properly assessed.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS18",
+      "year": 2021,
+      "recommendation": "We recommended that Management instruct the City Accountant to ensure on-time remittance of provincial and barangay shares from taxes on sand and gravel in the succeeding quarters as provided under Section 286 (a) of the Local Government Code.\nManagement Comment(s)\nThe Management commented that they agreed with the audit recommendation and has instructed the City Accountant to ensure the on-time remittance of the provincial and barangay shares from taxes of sand and gravel, in the succeeding quarters.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS19",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS20",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS21",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS22",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS23",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS24",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS25",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS26",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS27",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS28",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-OBS29",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to direct the City Treasurer’s to prepare a Schedule of Unreleased Checks at the end of the year, and immediately submit the said schedule to the City Accounting Office and instruct the  City Accountant to draw adjusting journal entries in the books of accounts every year-end for the total amount of unreleased checks, to fairly present the accounts in the financial statements",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to direct the City Treasurers to notify in writing the payees of the stale checks, at least one month before the checks become stale; and instruct the City Accountant to prepare JEV to adjust the Cash in Bank and Accounts Payable of the stale checks, to reflect the correct account balances in the financial statements.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended that Management strengthen its administrative controls on the handling, utilization and liquidation of petty cash fund and direct the Petty Cash Custodians to attach Petty Cash Voucher and Petty Cash Replenishment Report to the replenishment/liquidation of the petty cash fund; and instruct the City Accountant to ensure that only permanently appointed officials with effective fidelity bonds will be designated as disbursing officers.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to direct the City Accountant to prepare Journal Entry Voucher (JV) to adjust the properties below the capitalization threshold and its related accounts, as follows:",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to ensure the full implementation of “One-time cleansing of PPE accounts” as provided under COA Circular 2020-006,   and prepare and Submit the approved Physical Inventory Plan to the COA Audit Team at least ten (10) calendar days before the scheduled start of inventory-taking activities.        \n\n  Require   the   City   Inventory   Committee   Members    to prioritize  the  conduct  of actual physical inventory  taking until the same is completed; and  direct the Inventory Committee, City General Services Office and City Accounting Office to reconcile their respective records and come-up with reliable PPE balances that are verifiable as to existence, condition and accountability.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended that Management direct the City Accountant to prepare a Journal Entry Voucher to record the above-mentioned Medical Equipment with the following suggested adjusting journal entries in both the Trust Fund and General Fund books of accounts, as follows:",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to direct the City Accountant to adjust the misstatement of the Accumulated Depreciation accordingly to rectify the errors of calculation and to present the PPE account to its correct carrying amount. Consistently review the correctness of the computation of depreciation and appropriately maintain PPE accounts in adherence to the latest provisions; and create strategies that will ensure accurate and consistent computation of depreciation of PPE accounts of all Funds.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to direct the City Accountant to adjust the Accumulated Depreciation's misstatement accordingly to rectify the error of recognizing the residual value and present the Road Network account to its correct carrying amount. Keep updated with the latest provisions regarding computation of depreciation on PPE Accounts.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "We recommended that the Management direct the BAC Secretariat to update themselves to the laws, rules and regulations on government procurement. Direct the BAC Secretariat to update themselves to the laws, rules and regulations on government procurement and Direct the City Accountant to ensure that all disbursement vouchers relating to government procurement are adequately supported with mandatory documentary requirements before processing the payments.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to:15.9.1. Require the BAC Secretariat to promote transparency in government procurement by ensuring that the Notices of Award and Purchase Orders for future procurements are posted in accordance with the guidelines prescribed.\n\nCapacitate the Members of the BAC Secretariat on the laws, rules and regulations on government procurement. Require the City Planning and Development Officer to send a follow-up letter/e-mail to the GPPB and ensure compliance with the GPPB Online Portal's posting requirement.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to adhere to the procurement process in the implementation of programs and activities to address the COVID-19 provided in RA 9184 and GPPB Circular 01-2020, and discourage the grant cash advances to disbursing officers for the procurement of goods in compliance with COA Circular No. 97-002.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY14",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to require the Local Finance Committee to ensure that the financial information on of Bayanihan Grant to Cities and Municipalities are made available to the public, in adherence to the prescribed guidelines outlined in the Local Budget Circular No. 125; and require the City Planning and Development Officer to expedite the restoration of the City Government's Official Website.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY15",
+      "year": 2021,
+      "recommendation": "We recommended   that   Management   ensure   the   proper   exercise of reportorial responsibilities and strict adherence to existing and future laws, rules, and regulations.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY16",
+      "year": 2021,
+      "recommendation": "We   recommended   that   Management   require   the   City Accountant to maintain a Special Account in the General Fund along with its complete subsidiary ledgers for a) the Bayanihan Grant to Cities and Municipalities and b) for futu1re Other Special Accounts.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY17",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to strengthen its monitoring controls by requiring the CDRRM Office, CADM Office, and Mayor’s Office    to ensure proper coordination among the Offices concerning the receipt and distribution of Donations In-Kind; Ensure issuance of Acknowledgment Receipts to all future receipts of donations in-kind to confirm that donations are properly recorded and accounted for; Ensure that all future issuances of donated items are properly supported with Issuance Form for In-Kind Donations or any document/record to prove receipt by and distribution to the intended beneficiaries; and  determine the inventory of remaining undistributed items for recording in the Registry of Donated Relief Goods for DRRM.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY18",
+      "year": 2021,
+      "recommendation": "We recommended that Management direct the CDRRM Officer to update themselves to the latest policies and guidelines on Donations In-Kind as provided by the relevant and competent government offices; and  ensure the on-time preparation and submission of the Report of the Donations Received, Distributed and Balances to the Office of the Civil Defense and Auditor’s Office, in compliance to Section 2(b) of COA Circular 2020-009, moving forward.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY19",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to instruct the City Accountant to compute the government share of the Pag-IBIG Contribution at ₱100.00 per employee as provided under Section 1 of Rule VI of the IRR of Republic Act 9679.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY20",
+      "year": 2021,
+      "recommendation": "We recommended Management to instruct the City Accountant to strictly observe the provisions of the law regarding the mandated monthly net take-home pay for government employees to boost the morale and productivity of its employees in government service.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY21",
+      "year": 2021,
+      "recommendation": "We recommended that Management instruct the City Accountant to ensure on-time remittance of barangay shares from RPT collections in the succeeding quarters as provided under Section 271 (d) of the Local Government Code.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY25",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed that the City General Services Officer renew all PARs that reached the prescribed period of three years, come up with a systematic filing of the documents preferably in alphabetical sequence for easy access and reference as well as indicate in the PAR any subsequent transfer of an asset from one accountable officer to another.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY26",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed that the Inventory Committee conduct the physical count of the agency’s PPE, prepare the RPCPPE and reconcile the same with the accounting records.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY27",
+      "year": 2021,
+      "recommendation": "We recommended that storage facilities be provided for supplies and material procured and procurements of such supplies and materials be accounted for using the perpetual inventory method recognizing inventory accounts in the books upon purchase and expenses, only upon consumption in accordance with the provisions of PPSAS 12.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY28",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to instruct the Revenue Collectors to strictly adhere to the existing regulations pertaining to the frequency of remittance of collections and depositing them to the Agency’s authorized depository banks.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY29",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed the use of ATM payroll system in the payment of wages for the Job Order workers. This will protect not only the payroll funds from losses but also the lives of the Accountable Officer/s who do withdrawals of huge amount of cash from the bank. Likewise use of such system will efficiently reduce the man-hours spent in manually paying the wages of the JOs.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY30",
+      "year": 2021,
+      "recommendation": "We recommended that the BAC strictly comply with Section 4 of Administrative Order No. 17 dated July 28, 2011 in the procurement of common – use supplies to avail of the most advantageous prices of commodities for the government.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY31",
+      "year": 2021,
+      "recommendation": "We recommended that Management instruct the City Accountant to adjust the RPT Receivable and SET receivable balances based on the Duly Certified List showing the name of taxpayers and the amount due and collectible for the year. Ensure that the proper setting-up of the RPT receivable and SET receivable in the ensuing year.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY32",
+      "year": 2021,
+      "recommendation": "We recommended that Management provide a proper storage facility for the supplies and materials inventories and will only be treated as an expense upon release when the related revenue is recognized, or the related service is rendered in accordance with the provisions of IPSAS 12.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY33",
+      "year": 2021,
+      "recommendation": "We recommended that the Management exert extra effort to fully implement its priority programs and projects that are envisioned to help in the attainment of socio-economic development and environmental outcomes; the City Engineer to complete the preparation of the program of works; the Bids and Awards Committee (BAC) to properly plan procurement activities to avoid delayed implementation of projects; the  City Development Council to judiciously plan the inclusion of priority projects in the 20% Development Fund to avoid revisions and realignment; and the Local Chief Executive to create the Project Monitoring Committee/Project Inspection Team that would assist, evaluate and monitor the extent of implementation of programs and projects in order to determine the causes of delay in the implementation.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY34",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendation that Management should strictly adhere to the guidelines set under Sections 37 and 24 of Republic Act 9003 - \"An Act Providing for an Ecological Solid Waste Program, Creating the Necessary Institutional ZcvMechanisms and Incentives, Declaring Certain Acts Prohibited and Providing Penalties, Appropriating Funds Therefor, and Other Purposes\", for the people of Tandag City to enjoy of the benefits that can be derived therefrom.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS_aar2021-PY35",
+      "year": 2021,
+      "recommendation": "We recommended Management to strictly adhere to the guidelines set under Sections 37 and 24 of Republic Act 9003 - “An Act Providing for an Ecological Solid Waste Program, Creating the Necessary Institutional Mechanisms and Incentives, Declaring Certain Acts Prohibited and Providing Penalties, Appropriating Funds therefor, and Other Purposes”, for the people of Tandag City to enjoy the benefits of which this Act is created.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed that the Inventory Committee conduct the physical count of the agency’s PPE, prepare the RPCPPE and reconcile the same with the accounting records.",
+      "managementAction": "The Management will conduct physical count on July.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not Implemented\n\nReport on Physical Count is just a duplicate from the record of Accounting Office, hence, actual condition of the reported amount is still doubtful."
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to:\nDirect the City Treasurer to prepare a Schedule of Unreleased Checks at the end of the year, and immediately submit the said schedule to the City Accounting Office; and\nInstruct the City Accountant to draw adjusting journal entries in the books of accounts every year-end for the total amount of unreleased checks, to fairly present the accounts in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to:\nDirect the City Treasurer to notify in writing the payees of the stale checks, at least one month before the checks become stale; and\nInstruct the City Accountant to prepare JEV to adjust the Cash in Bank and Accounts Payable accounts for the amounts of the stale checks, to reflect the correct account balances in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended that Management strengthen its administrative controls on the handling, utilization and liquidation of petty cash fund and:\nDirect the Petty Cash Custodians to attach the Petty Cash Voucher and Petty Cash Replenishment Report to the replenishment/liquidation of the petty cash fund; and\nInstruct the City Accountant to ensure that only permanently appointed officials with effective fidelity bonds will be designated as disbursing officers.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommended for Management to ensure proper recording of financial transactions by requiring the:\nMarket Supervisor-Designate to:\nFurnish the City Accountant’s Office, copies of the previous and current notarized contract of lease  of stallholders; and\nCoordinate with City Treasurer’s Office and City Accountant's Office for the proper record keeping and prompt collection of the said uncollected balances.\nCity Accountant to:\nPrepare appropriate adjusting entries to record the uncollected balances and surcharges from stallholders as of December 31, 2020; and\nEnsure that the succeeding revenues from contract lease will be recorded in accordance with accrual basis and International Public Sector Accounting Standards.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to direct the City Accountant to:\nPrepare Journal Entry Voucher (JV) to adjust the properties below the capitalization threshold and its related accounts, as follows:\nAccount\t                   \tDebit                      Credit\nGovernment Equity \t             1,273,800.41\nAccumulated Depreciation\nAccounts                            2,469,700.26\nPPE Accounts\t\t\t                    3,743,500.67\nTo drop non-capitalizable PPEs from CY 2001 to 2020\nSupplies and Materials Expense    502,511.00\nDepreciation Expense\t\t\t         245,000.64\nSurplus (Deficit) Account                                        257,510.36\nTo reclassify the non-capitalizable properties acquired in\nCY 2020\nEnsure that all future acquisitions of properties below the capitalization threshold of ₱15,000 will be recorded in accordance with Section 5.4 of COA Circular 2016-006 and Chapter II Section 4.ee of GAM for LGU Volume I.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to ensure the full implementation of “One-time cleansing of PPE accounts” as provided under COA Circular 2020-006,  and:\nPrepare and Submit the approved Physical Inventory Plan to the COA Audit Team at least ten (10) calendar days before the scheduled start of inventory-taking activities;\nRequire   the   City   Inventory   Committee   Members    to prioritize  the  conduct  of actual physical inventory  taking until the same is completed; and\nDirect the Inventory Committee, City General Services Office and City Accounting Office to reconcile their respective records and come up with reliable PPE balances that are verifiable as to existence, condition and accountability.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We recommended that Management direct the City Accountant to prepare a Journal Entry Voucher to record the above-mentioned Medical Equipment with the following suggested adjusting journal entries in both the Trust Fund and General Fund books of accounts, as follows:\nAccount\t\t\t\t     Debit\t     Credit\nTrust Fund book:\nMedical Equipment \t\t \t 425,892.85\nTrust Liabilities-DRRMF\t\t\t             425,892.85\nTo record the purchase of equipment.\nTrust Liabilities-DRRMF\t   \t   425,892.85\nMedical Equipment\t\t\t\t     425,892.85\nTo record the transfer of assets to the General Fund.\nGeneral Fund book:\nMedical Equipment \t\t\t   425,892.85\nGovernment Equity\t\t\t\t 425,892.85\nTo record the transfer of assets from Trust Fund",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We recommended for Management to:\nRequire the City General Services Office (CGSO) and City Assessor’s Office to ensure that all Lands owned by the city are duly registered under the name LGU Tandag and secure copies of the corresponding Torrens Certificate of Title (TCT).\nInstruct the City Accountant to exert best efforts to trace the acquisition of the unrecorded real properties and determine the appropriate cost to be recognized in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-OBS9",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to direct the City Accountant to:\nAdjust the misstatement of the Accumulated Depreciation accordingly to rectify the errors of calculation and to present the PPE account to its correct carrying amount;\nConsistently review the correctness of the computation of depreciation and appropriately maintain PPE accounts in adherence to the latest provisions; and\nCreate strategies that will ensure accurate and consistent computation of depreciation of PPE accounts of all Funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-OBS10",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to direct the City Accountant to:\nAdjust the Accumulated Depreciation's misstatement accordingly to rectify the error of recognizing the residual value and present the Road Network account to its correct carrying amount; and\nKeep updated with the latest provisions regarding computation of depreciation on PPE Accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-OBS11",
+      "year": 2020,
+      "recommendation": "We recommended that the Management:\nDirect the BAC Secretariat to update themselves to the laws, rules and regulations on government procurement; and\nDirect the City Accountant to ensure that all disbursement vouchers relating to government procurement are adequately supported with mandatory documentary requirements before processing the payments, otherwise, the appropriate audit action will be undertaken.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-OBS12",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to:\nRequire the BAC Secretariat to promote transparency in government procurement by ensuring that the Notices of Award and Purchase Orders for future procurements are posted in accordance with the guidelines prescribed;\nCapacitate the Members of the BAC Secretariat on the laws, rules and regulations on government procurement; and\nRequire the City Planning and Development Officer to send a follow-up letter/e-mail to the GPPB and ensure compliance with the GPPB Online Portal's posting requirement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-OBS13",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to adhere to the procurement process in the implementation of programs and activities to address the COVID-19 provided in RA 9184 and GPPB Circular 01-2020, and discourage the grant cash advances to disbursing officers for the procurement of goods in compliance with COA Circular No. 97-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-OBS14",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to:\nRequire the Local Finance Committee to ensure that the financial information on of Bayanihan Grant to Cities and Municipalities are made available to the public, in adherence to the prescribed guidelines outlined in the Local Budget Circular No. 125; and\nRequire the City Planning and Development Officer to expedite the restoration of the City Government's Official Website.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-OBS15",
+      "year": 2020,
+      "recommendation": "We recommended that Management ensure the proper exercise of reportorial responsibilities and strict adherence to existing and future laws, rules, and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-OBS16",
+      "year": 2020,
+      "recommendation": "We recommended that   Management require the   City Accountant to maintain a Special Account in the General Fund along with its complete subsidiary ledgers for the Bayanihan Grant to Cities and Municipalities and  Other Special Accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-OBS17",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to strengthen its monitoring controls by requiring the CDRRM Office, CADM Office, and Mayor’s Office    to :\nEnsure proper coordination among the Offices concerning the receipt and distribution of Donations In-Kind;\nEnsure issuance of Acknowledgment Receipts to all future receipts of donations in-kind to confirm that donations are properly recorded and accounted for;\nEnsure that all future issuances of donated items are properly supported with Issuance Form for In-Kind Donations or any document/record to prove receipt by and distribution to the intended beneficiaries; and\nDetermine the inventory of remaining undistributed items for recording in the Registry of Donated Relief Goods for DRRM.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-OBS18",
+      "year": 2020,
+      "recommendation": "We recommended that Management direct the CDRRM Officer to\nUpdate themselves to the latest policies and guidelines on Donations In-Kind as provided by the relevant and competent government offices; and\nEnsure the on-time preparation and submission of the Report of the Donations Received, Distributed and Balances to the Office of the Civil Defense and Auditor’s Office, in compliance to Section 2(b) of COA Circular 2020-009, moving forward.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-OBS19",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to instruct the City Accountant to compute the government share of the Pag-IBIG Contribution at ₱100.00 per employee as provided under Section 1 of Rule VI of the IRR of Republic Act 9679.  Likewise, make representation with HDMF Officials relative to the afore-cited excessive premium remittances made and for a possible refund of the same.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-OBS20",
+      "year": 2020,
+      "recommendation": "We recommended that Management instruct the City Accountant to strictly observe the provisions of the law regarding the mandated monthly net take-home pay for government employees to boost the morale and productivity of its employees in government service.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-OBS21",
+      "year": 2020,
+      "recommendation": "We recommended that Management instruct the City Accountant to ensure on-time remittance of barangay shares from RPT collections in the succeeding quarters as provided under Section 271 (d) of the Local Government Code.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed that the City Accountant draw a JEV to reclassify the CIP-Accounts to appropriate PPE accounts and recognize the corresponding depreciation expense of the asset in compliance to the provision of PPSAS 17 for the Property, Plant and Equipment.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Fully  Implemented\n\nJEV to reclassify the accounts was drawn by the City Accountant's Office"
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed that the City General Services Officer renew all PARs that reached the prescribed period of three years, come up with a systematic filing of the documents preferably in alphabetical sequence for easy access and reference as well as indicate in the PAR any subsequent transfer of an asset from one accountable officer to another.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented\n\nRenewal of some PARs that reached the three years prescribed period is on-going"
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended that storage facilities be provided for supplies and material procured and procurements of such supplies and materials be accounted for using the perpetual inventory method recognizing inventory accounts in the books upon purchase and expenses, only upon consumption in accordance with the provisions of PPSAS 12.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented\n\nOn-going construction of storage facilities for supplies and materials"
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to instruct the Revenue Collectors to strictly adhere to the existing regulations pertaining to the frequency of remittance of collections and depositing them to the Agency’s authorized depository banks.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Partially Implemented\n Memorandum was issued by the City Treasurer to all AOs to observe the timeliness on the frequency of deposit. However, delayed was still noted in the conduct of C/E."
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed the use of ATM payroll system in the payment of wages for the Job Order workers. This will protect not only the payroll funds from losses but also the lives of the Accountable Officer/s who do withdrawals of huge amount of cash from the bank. Likewise use of such system will efficiently reduce the man-hours spent in manually paying the wages of the JOs.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented\n\nProcessing of ATMs with LBP by batch is on-going."
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to stop the practice of transferring funds to NGOs/POs with unliquidated balances to prevent misuse and/or misappropriation of funds and comply strictly with Section 5.4 of COA Circular 2007-001.  Further, notices should be sent out to those NGOs/POs to return the unutilized fund released to them immediately so that such could be reprogrammed for another purpose/s.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Fully Implemented"
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to immediately submit the required documents for the liquidation of the fund transfers, in consonance with the requirements provided under Item 2.2 of COA Circular 2012-001.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Fully Implemented\n\nLiquidation Reports submitted"
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-PY9",
+      "year": 2020,
+      "recommendation": "We recommended that the BAC strictly comply with Section 4 of Administrative Order No. 17 dated July 28, 2011 in the procurement of common – use supplies to avail of the most advantageous prices of commodities for the government.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented\n\nMemorandum was issued by the LCE to purchase the common- use supplies and equipment at PS DBM. However, because of travel restrictions and frequent lockdowns, no purchase during the year was made at PS-DBM."
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-PY10",
+      "year": 2020,
+      "recommendation": "We recommended that the City General Services Office notify the office of the Auditor within twenty-four (24) hours from acceptance, the time, date and place of the scheduled delivery of goods to give the audit team ample time in the conduct of inspection.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Fully Implemented\n\nNotice of deliveries and request for inspection submitted on time"
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-PY11",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to work on addressing the problems with the JOs records like incorrect Pag-IBIG Member’s Identification Number and/or incomplete/incorrect names of the members and thereafter remit immediately the contributions of the Job Order workers to HDMF.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Fully Implemented\n\nUnremitted deduction from JO employees were already submitted"
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-PY12",
+      "year": 2020,
+      "recommendation": "We recommended that Management instruct the City Accountant to adjust the RPT Receivable and SET receivable balances based on the Duly Certified List showing the name of taxpayers and the amount due and collectible for the year. Ensure that the proper setting-up of the RPT receivable and SET receivable in the ensuing year.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented\n\nThe basis in setting up SET/RPT Receivables was based on the certified list submitted by the CTO."
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-PY13",
+      "year": 2020,
+      "recommendation": "We recommended that Management provide a proper storage facility for the supplies and materials inventories and will only be treated as an expense upon release when the related revenue is recognized, or the related service is rendered in accordance with the provisions of IPSAS 12.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Partially Implemented\n\nOn-going construction of storage facilities for supplies and materials"
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-PY14",
+      "year": 2020,
+      "recommendation": "We recommended that Management direct the BAC and the TWG to conduct a thorough evaluation of all bidding documents submitted by the bidders to ensure that the said documents, both in form and substance, are in accordance with the requirements in the 2016 revised IRR of R.A. 9184 and to prevent possible pecuniary loss to government due to contractor’s default.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Fully Implemented\n\nSurety and performance bond were supported with the prescribed certification from Insurance Commission"
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-PY15",
+      "year": 2020,
+      "recommendation": "We recommended that the Management exert extra effort to fully implement its priority programs and projects that are envisioned to help in the attainment of socio-economic development and environmental outcomes; the City Engineer to complete the preparation of the program of works; the Bids and Awards Committee (BAC) to properly plan procurement activities to avoid delayed implementation of projects; the  City Development Council to judiciously plan the inclusion of priority projects in the 20% Development Fund to avoid revisions and realignment; and the Local Chief Executive to create the Project Monitoring Committee/Project Inspection Team that would assist, evaluate and monitor the extent of implementation of programs and projects in order to determine the causes of delay in the implementation.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-PY16",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that Management should strictly adhere to the guidelines set under Sections 37 and 24 of Republic Act 9003 - \"An Act Providing for an Ecological Solid Waste Program, Creating the Necessary Institutional Mechanisms and Incentives, Declaring Certain Acts Prohibited and Providing Penalties, Appropriating Funds therefor, and Other Purposes\", for the people of Tandag City to enjoy of the benefits that can be derived therefrom.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially implemented"
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-PY17",
+      "year": 2020,
+      "recommendation": "We recommended that Management provide proper storage facility for the supplies and materials inventories and will only be treated as expense upon release when the related revenue is recognized or the related service is rendered in accordance with the provisions of PPSAS 12",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Fully\nImplemented\n\nOn-going construction of storage facilities for supplies and materials"
+    },
+    {
+      "id": "Region-XIII__Cities__Surigao-del-Sur__TandagCity_SdS-2020-PY18",
+      "year": 2020,
+      "recommendation": "We recommended Management to strictly adhere to the guidelines set under Sections 37 and 24 of Republic Act 9003 - “An Act Providing for an Ecological Solid Waste Program, Creating the Necessary Institutional Mechanisms and Incentives, Declaring Certain Acts Prohibited and Providing Penalties, Appropriating Funds therefor, and Other Purposes”, for the people of Tandag City to enjoy the benefits of which this Act is created.",
+      "managementAction": "The Management already made initial measures and planning together with other LGUs to establish a sanitary landfill which will be realized in the coming years.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "TandagCity_SdS-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended that Management provide a proper storage facility for the supplies and materials inventories and will only be treated as an expense upon release when the related revenue is recognized, or the related service is rendered in accordance with the provisions of IPSAS 12.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SdS-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended that Management direct the BAC and the TWG to conduct a thorough evaluation of all bidding documents submitted by the bidders to ensure that the said documents, both in form and substance, are in accordance with the requirements in the 2016 revised IRR of R.A. 9184 and to prevent possible pecuniary loss to government due to contractor’s default.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SdS-2019-PY11",
+      "year": 2019,
+      "recommendation": "We recommended that Management provide proper storage facility for the supplies and materials inventories and will only be treated as expense upon release when the related revenue is recognized or the related service is rendered in accordance with the provisions of PPSAS 12",
+      "managementAction": "The management a compensatory measure in taking inventory on supplies and materials and will be deducted to expense to arrive at the actual expense amount.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Partially Implemented\n\nThe compensatory measure is accepted by the audit team, however, we stress the importance of establishing a storage facility to strengthen inter control."
+    },
+    {
+      "id": "TandagCity_SdS-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed that the City Accountant draw a JEV to reclassify the CIP-Accounts to appropriate PPE accounts and recognize the corresponding depreciation expense of the asset in compliance to the provision of PPSAS 17 for the Property, Plant and Equipment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SdS-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed that the City General Services Officer renew all PARs that reached the prescribed period of three years, come up with a systematic filing of the documents preferably in alphabetical sequence for easy access and reference as well as indicate in the PAR any subsequent transfer of an asset from one accountable officer to another.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SdS-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed that the Inventory Committee conduct the physical count of the agency’s PPE, prepare the RPCPPE and reconcile the same with the accounting records.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SdS-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended that storage facilities be provided for supplies and material procured and procurements of such supplies and materials be accounted for using the perpetual inventory method recognizing inventory accounts in the books upon purchase and expenses, only upon consumption in accordance with the provisions of PPSAS 12.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SdS-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed to instruct the Revenue Collectors to strictly adhere to the existing regulations pertaining to the frequency of remittance of collections and depositing them to the Agency’s authorized depository banks.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SdS-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed the use of ATM payroll system in the payment of wages for the Job Order workers. This will protect not only the payroll funds from losses but also the lives of the Accountable Officer/s who do withdrawals of huge amount of cash from the bank. Likewise use of such system will efficiently reduce the man-hours spent in manually paying the wages of the JOs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SdS-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed to stop the practice of transferring funds to NGOs/POs with unliquidated balances to prevent misuse and/or misappropriation of funds and comply strictly with Section 5.4 of COA Circular 2007-001.  Further, notices should be sent out to those NGOs/POs to return the unutilized fund released to them immediately so that such could be reprogrammed for another purpose/s.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SdS-2019-OBS8",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed to immediately submit the required documents for the liquidation of the fund transfers, in consonance with the requirements provided under Item 2.2 of COA Circular 2012-001.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SdS-2019-OBS9",
+      "year": 2019,
+      "recommendation": "We recommended that the BAC strictly comply with Section 4 of Administrative Order No. 17 dated July 28, 2011 in the procurement of common – use supplies to avail of the most advantageous prices of commodities for the government.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SdS-2019-OBS10",
+      "year": 2019,
+      "recommendation": "We recommended that the City General Services Office notify the office of the Auditor within twenty four (24) hours from acceptance, the time, date and place of the scheduled delivery of goods to give the audit team ample time in the conduct of inspection.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SdS-2019-OBS11",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed to work on addressing the problems with the JOs records like incorrect Pag-IBIG Member’s Identification Number and/or incomplete/incorrect names of the members and thereafter remit immediately the contributions of the Job Order workers to HDMF.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SdS-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended that Management instruct the City Accountant to adjust the RPT Receivable and SET receivable balances based on the Duly Certified List showing the name of taxpayers and the amount due and collectible for the year. Ensure that the proper setting-up of the RPT receivable and SET receivable in the ensuing year.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SdS-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended that Management check all opportunities present in the General Appropriations Act of every year and carefully review the requirements in availing funds to avoid delay in the implementation of projects or worse, forfeiture.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SdS-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended that Management scrutinize and verify the status of these long outstanding balances and if confirmed that these balances are unexpended balances from completed projects, facilitate the return of funds to the National Treasury.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SdS-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended that the Management exert extra effort to fully implement its priority programs and projects that are envisioned to help in the attainment of socio-economic development and environmental outcomes; the City Engineer to complete the preparation of the program of works; the Bids and Awards Committee (BAC) to properly plan procurement activities to avoid delayed implementation of projects; the  City Development Council to judiciously plan the inclusion of priority projects in the 20% Development Fund to avoid revisions and realignment; and the Local Chief Executive to create the Project Monitoring Committee/Project Inspection Team that would assist, evaluate and monitor the extent of implementation of programs and projects in order to determine the causes of delay in the implementation.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SdS-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\n\n       Instruct the HRMO to require the JO/COS to submit Tax Identification Number (TIN) and Annual Registration Fee (ARF) upon hiring and renewal of contracts, respectively;\n\n       Require the City Accountant to compute, withhold and remit the respective percentage taxes of JO/COS Personnel for CY 2018, as provided in RMC 51-2018 and other pertinent laws, rules, and regulations;\n\n      Capacitate the City Accounting Personnel, by requiring them to attend seminars and trainings related to the latest updates on Tax and BIR Rulings",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SdS-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommended that GAD Focal Point System conduct regular monitoring of the implementation of the GAD Plan and Budget and ensure that PPAs embodied in the plan be executed efficiently and effectively pursuant to PCW-DILG-DBM-NEDA Joint Memorandum Circular 2013-01",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SdS-2019-PY9",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that Management prepare reports that contain the detailed accomplishment vis-à-vis targets with the corresponding financial resources utilized.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SdS-2019-PY10",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that Management should strictly adhere to the guidelines set under Sections 37 and 24 of Republic Act 9003 - \"An Act Providing for an Ecological Solid Waste Program, Creating the Necessary Institutional ZcvMechanisms and Incentives, Declaring Certain Acts Prohibited and Providing Penalties, Appropriating Funds Therefor, and Other Purposes\", for the people of Tandag City to enjoy of the benefits that can be derived therefrom.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SdS-2019-PY12",
+      "year": 2019,
+      "recommendation": "We recommended Management to strictly adhere to the guidelines set under Sections 37 and 24 of Republic Act 9003 - “An Act Providing for an Ecological Solid Waste Program, Creating the Necessary Institutional Mechanisms and Incentives, Declaring Certain Acts Prohibited and Providing Penalties, Appropriating Funds therefor, and Other Purposes”, for the people of Tandag City to enjoy the benefits of which this Act is created.",
+      "managementAction": "The Management already made initial measures and planning together with other LGUs to establish a sanitary landfill which will be realized in the coming years.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "TandagCity_SdS-2019-PY13",
+      "year": 2019,
+      "recommendation": "We recommended Management to prepare reports to contain the detailed accomplishment vis-à-vis targets with the corresponding financial resources utilized.",
+      "managementAction": "No Submission",
+      "status": "IMPLEMENTED",
+      "reason": "Not Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2018-PY8",
+      "year": 2018,
+      "recommendation": "Recommendation:\n\nWe recommended Management to prepare reports to contain the detailed accomplishment vis-à-vis targets with the corresponding financial resources utilized.",
+      "managementAction": "No Submission",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended that Management instruct the City Accountant to adjust the RPT Receivable and SET receivable balances based on the Duly Certified List showing the name of taxpayers and the amount due and collectible for the year. Ensure that the proper setting-up of the RPT receivable and SET receivable in the ensuing year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We recommended that Management provide a proper storage facility for the supplies and materials inventories and will only be treated as an expense upon release when the related revenue is recognized, or the related service is rendered in accordance with the provisions of IPSAS 12.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended that Management check all opportunities present in the General Appropriations Act of every year and carefully review the requirements in availing funds to avoid delay in the implementation of projects or worse, forfeiture.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended that Management scrutinize and verify the status of these long outstanding balances and if confirmed that these balances are unexpended balances from completed projects, facilitate the return of funds to the National Treasury.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We recommended that Management direct the BAC and the TWG to conduct a thorough evaluation of all bidding documents submitted by the bidders to ensure that the said documents, both in form and substance, are in accordance with the requirements in the 2016 revised IRR of R.A 9184 and to prevent possible pecuniary loss to government due to contractor’s default.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We recommended that the Management exert extra effort to fully implement its priority programs and projects that are envisioned to help in the attainment of socio-economic development and environmental outcomes; the City Engineer to complete the preparation of the program of works; the Bids and Awards Committee (BAC) to properly plan procurement activities to avoid delayed implementation of projects; the  City Development Council to judiciously plan the inclusion of priority projects in the 20% Development Fund to avoid revisions and realignment; and the Local Chief Executive to create the Project Monitoring Committee/Project Inspection Team that would assist, evaluate and monitor the extent of implementation of programs and projects in order to determine the causes of delay in the implementation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2018-OBS7",
+      "year": 2018,
+      "recommendation": "We recommended that Management:\n7.7.1\tInstruct the HRMO to require the JO/COS to submit Tax Identification Number (TIN) and Annual Registration Fee (ARF) upon hiring and renewal of contracts, respectively;\n7.7.2\tRequire the City Accountant to compute, withhold and remit the respective percentage taxes of JO/COS Personnel for CY 2018, as provided in RMC 51-2018 and other pertinent laws, rules, and regulations;\n7.7.3\tCapacitate the City Accounting Personnel, by requiring them to attend seminars and trainings related to the latest updates on Tax and BIR Rulings.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2018-OBS8",
+      "year": 2018,
+      "recommendation": "We recommended that GAD Focal Point System conduct regular monitoring of the implementation of the GAD Plan and Budget and ensure that PPAs embodied in the plan be executed efficiently and effectively pursuant to PCW-DILG-DBM-NEDA Joint Memorandum Circular 2013-01.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2018-OBS9",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that Management prepare reports that contain the detailed accomplishment vis-à-vis targets with the corresponding financial resources utilized.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2018-OBS10",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that Management should strictly adhere to the guidelines set under Sections 37 and 24 of Republic Act 9003 - \"An Act Providing for an Ecological Solid Waste Program, Creating the Necessary Institutional Mechanisms and Incentives, Declaring Certain Acts Prohibited and Providing Penalties, Appropriating Funds therefor, and Other Purposes\", for the people of Tandag City to enjoy of the benefits that can be derived therefrom.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2018-OBS11",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2018-OBS12",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2018-OBS13",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2018-OBS14",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2018-OBS15",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2018-PY1",
+      "year": 2018,
+      "recommendation": "Recommendation:\n\nWe recommended Management to reconcile immediately the affected accounts and observe the guidelines provided in Section 111 of PD 1445.",
+      "managementAction": "The Management had conducted and submitted the RPPCPE for CY 2018 and reconciled with the balances in the books.",
+      "status": "IMPLEMENTED",
+      "reason": "Fully Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2018-PY2",
+      "year": 2018,
+      "recommendation": "Recommendation:\n\nWe recommended that Management provide proper storage facility for the supplies and materials inventories and will only be treated as expense upon release when the related revenue is recognized or the related service is rendered in accordance with the provisions of PPSAS 12.",
+      "managementAction": "The management a compensatory measure in taking inventory on supplies and materials and will be deducted to expense to arrive at the actual expense amount.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2018-PY3",
+      "year": 2018,
+      "recommendation": "Recommendation:\n\nWe recommended that Management strictly adhere to the guidelines set under Joint Memorandum Circular No. 2017-1 dated February 22, 2017 of the DBM and DILG in the appropriation and utilization of the 20% Development Fund to ensure its optimal utilization.",
+      "managementAction": "The Management has refrained from charging disbursements which are ineligible.",
+      "status": "IMPLEMENTED",
+      "reason": "Fully Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2018-PY4",
+      "year": 2018,
+      "recommendation": "Recommendation:\n\nWe recommended that Management direct the City Budget Officer to establish Registries for Local Disaster Risk Reduction Management Fund (LDRRMF) with separate Registry of Appropriation, Allotments and Obligation (RAAO) for the Quick Response Fund (QRF), Maintenance and Other Operating Expenses (MOOE) and Capital Outlay (CO) of the Local Disaster Risk Reduction and Management Fund (LDRRMF).",
+      "managementAction": "The Management complied with the recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": "Fully Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2018-PY5",
+      "year": 2018,
+      "recommendation": "Recommendation:\n\nWe recommended Management to strictly adhere to the guidelines set under Sections 37 and 24 of Republic Act 9003 - “An Act Providing for an Ecological Solid Waste Program, Creating the Necessary Institutional Mechanisms and Incentives, Declaring Certain Acts Prohibited and Providing Penalties, Appropriating Funds therefor, and Other Purposes”, for the people of Tandag City to enjoy the benefits of which this Act is created.",
+      "managementAction": "The Management already made initial measures and planning together with other LGUs to establish a sanitary landfill which will be realized in the coming years.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2018-PY6",
+      "year": 2018,
+      "recommendation": "Recommendation:\n\nWe recommended the Local School Board to strictly observe the provisions of Section 1 of RA 5447 and Paragraph 2 of Joint Circular No. 1 s 2017 by the Department of Education (DEPED), Department of Budget and Management (DBM), and Department of the Interior and Local Government (DILG).",
+      "managementAction": "The Management has complied with the team’s recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": "Fully Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2018-PY7",
+      "year": 2018,
+      "recommendation": "Recommendation:\n\nWe recommended Management to observe guidelines provided in Item 4.1.2.1 of the DEPED-DBM-DILG Joint Circular No. 1 dated January 19, 2017.",
+      "managementAction": "The Management has complied with the recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": "Fully Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2018-PY9",
+      "year": 2018,
+      "recommendation": "Recommendations:\n\n1.We recommended that Management strictly adhere to LBC 111 – Manual on the Setting Up and Operation of Local Economic Enterprises and prepare separate set of Financial Statements for each LEE on the next ensuing years.\n\n2.We recommended that Management prepare the Semi-Annual Financial Self-Sufficiency Review (SFSSR) Report for every Local Economic Enterprises (LEE) starting CY 2018.",
+      "managementAction": "The Management has complied with all the recommendations.",
+      "status": "IMPLEMENTED",
+      "reason": "Fully Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2018-PY10",
+      "year": 2018,
+      "recommendation": "Recommendation:\n\nWe recommended that Management require the GAD Focal Point to include in the submission of the GAD AR the reports/documents mentioned in Section 4.C.8.5 of the PCW-DILG-DBM-NEDA Joint Memorandum Circular 2013-01 to facilitate the monitoring, evaluation and substantiation of the reported accomplishments.",
+      "managementAction": "Complied",
+      "status": "IMPLEMENTED",
+      "reason": "Fully Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2018-PY11",
+      "year": 2018,
+      "recommendation": "Recommendation:\n\nWe recommended that the Local School Board prepare and submit the program/activity designs to facilitate the determination of whether the monies collected accruing to the special education fund is being utilized in accordance with the laws, rules and regulations governing its usage.",
+      "managementAction": "The Management has complied with the recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": "Fully Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2018-PY12",
+      "year": 2018,
+      "recommendation": "Recommendation:\n\nWe recommended for the return of the amount of ₱383,730.57 to the 20% Development Fund. We also recommended that the heads of offices, in preparing their respective budgets, take into account the actual expenditures incurred by their offices in the past three (3) years for them to prepare a more realistic budget to support their operation.  We further recommend that management confer with LBDA officials to clarify issues regarding the payment of expenses incurred in connection with LBDA activities. Henceforth, we recommended that Management strictly adhere to the provisions of Joint Circular No. 2011-1 dated April 13, 2011 issued by DILG and DBM.",
+      "managementAction": "The Management complied with the recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": "Fully Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2018-PY13",
+      "year": 2018,
+      "recommendation": "Recommendation:\n\nWe recommended that Management require the GAD Focal Point to include in the submission of the GAD AR the reports/documents mentioned in Section 4.C.8.5 of the PCW-DILG-DBM-NEDA Joint Memorandum Circular 2013-01 to facilitate the monitoring, evaluation and substantiation of the reported accomplishments.",
+      "managementAction": "Complied",
+      "status": "IMPLEMENTED",
+      "reason": "Fully Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2018-PY14",
+      "year": 2018,
+      "recommendation": "Recommendation:\n\nWe recommended that Management direct the City Budget Officer and the City Accountant to evaluate the nature of the claim and to charge it to the appropriate allocation to avoid using the appropriation for purposes other than those for which this is intended.",
+      "managementAction": "Complied",
+      "status": "IMPLEMENTED",
+      "reason": "Fully Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2018-PY15",
+      "year": 2018,
+      "recommendation": "Recommendation:\n\nWe recommended for the GAD Focal Point System to conduct consultations with the different sectors and organizations operating within the locality in the identification of gender issues and concerns and to prepare the GAD Plan and Budget based on the results of these consultations.  We also recommended that the GFPS conduct regular monitoring on the implementation of the GAD Plan for the immediate resolution of problems encountered in the course of implementation and if warranted, prepare amendments to the GAD Plan.  We also recommended that the GFPS prepare the GAD AR based on the GPB to avoid alterations especially on budgeted amounts of individual PPAs.",
+      "managementAction": "Complied",
+      "status": "IMPLEMENTED",
+      "reason": "Fully Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2018-PY16",
+      "year": 2018,
+      "recommendation": "Recommendation:\n\nWe recommend that management direct the City General Services Office in coordination with the different heads of offices to complete the physical inventory taking of the property, plant and equipment and to submit the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) to the Office of the Auditor as soon as possible.",
+      "managementAction": "The CGSO has already complied with the recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": "Fully\nImplemented"
+    },
+    {
+      "id": "TandagCity_SDS-2018-PY17",
+      "year": 2018,
+      "recommendation": "Recommendation:\n\nWe recommended that management instruct the City Treasurer to closely monitor the regular and intact remittance of collections and deposits.",
+      "managementAction": "The Management has complied to this recommendation on the strict monitoring of collections and deposits.",
+      "status": "IMPLEMENTED",
+      "reason": "Fully Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2018-PY18",
+      "year": 2018,
+      "recommendation": "Recommendation:\n\nWe recommended that management direct the GAD Focal Point to include in the submission of accomplishment report the report/documents mentioned in Section 5 of DBM-NEDA-NCRFW Joint Circular No. 2004-1.",
+      "managementAction": "Already submitted the required documents",
+      "status": "IMPLEMENTED",
+      "reason": "Fully Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2018-PY19",
+      "year": 2018,
+      "recommendation": "Recommendation:\n\nWe recommended that the City Accounting Office and the City General Services Office will conduct a reconciliation of its records in order for the Inventory Committee to finish the conduct of Physical Count of Property, Plant and Equipment (PPE) and immediately submit the Report of the Physical Count of Property, Plant and Equipment (RPCPPE) to the Office of the Auditor.",
+      "managementAction": "Complied",
+      "status": "IMPLEMENTED",
+      "reason": "Fully Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2017-PY6",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended that the Local School Board prepare and submit the program/activity designs to facilitate the determination of whether the monies collected accruing to the special education fund is being utilized in accordance with the laws, rules and regulations governing its usage.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Audit Team had a similar finding for the CY 2017."
+    },
+    {
+      "id": "TandagCity_SDS-2017-PY7",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended for the return of the amount of ₱383,730.57 to the 20% Development Fund. We also recommended that the heads of offices, in preparing their respective budgets, take into account the actual expenditures incurred by their offices in the past three (3) years for them to prepare a more realistic budget to support their operation.  We further recommend that management confer with LBDA officials to clarify issues regarding the payment of expenses incurred in connection with LBDA activities. Henceforth, we recommended that Management strictly adhere to the provisions of Joint Circular No. 2011-1 dated April 13, 2011 issued by DILG and DBM.",
+      "managementAction": "This finding is reiterated during 2017 where some of the expenditures under 20% DF were not part of allowable expenditures for 20%DF.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "During the conduct of post audit, it was noted that, still, there were administrative expenses that were charged to 20% Development Fund and the Audit Team has issued an observation  for CY 2017."
+    },
+    {
+      "id": "TandagCity_SDS-2017-PY14",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommend that management direct the City General Services Office in coordination with the different heads of offices to complete the physical inventory taking of the property, plant and equipment and to submit the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) to the Office of the Auditor as soon as possible.",
+      "managementAction": "No Report on the Physical Count of Property, Plant and Equipment (RPCPPE) were submitted for the CY 2017.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No report was submitted to the Office for the physical count conducted. The CGSO  explained that they are still gathering the data of the assets."
+    },
+    {
+      "id": "TandagCity_SDS-2017-PY22",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended that management direct the GAD Focal Point to include in the submission of accomplishment report the report/documents mentioned in Section 5 of DBM-NEDA-NCRFW Joint Circular No. 2004-1.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The submitted GAD Accomplishment Reports has no supporting documents."
+    },
+    {
+      "id": "TandagCity_SDS-2017-OBS1",
+      "year": 2017,
+      "recommendation": "1.5\tWe recommended Management to reconcile immediately the affected accounts and observe the guidelines provided in Section 111 of PD 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2017-OBS2",
+      "year": 2017,
+      "recommendation": "2.9\tWe recommended that Management provide proper storage facility for the supplies and materials inventories and will only be treated as expense upon release when the related revenue is recognized or the related service is rendered in accordance with the provisions of PPSAS 12.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2017-OBS3",
+      "year": 2017,
+      "recommendation": "3.7\tWe recommended that Management strictly adhere to the guidelines set under Joint Memorandum Circular No. 2017-1 dated February 22, 2017 of the DBM and DILG in the appropriation and utilization of the 20% Development Fund to ensure its optimal utilization.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2017-OBS4",
+      "year": 2017,
+      "recommendation": "4.4\tWe recommended that Management direct the City Budget Officer to establish Registries for Local Disaster Risk Reduction Management Fund (LDRRMF) with separate Registry of Appropriation, Allotments and Obligation (RAAO) for the Quick Response Fund (QRF), Maintenance and Other Operating Expenses (MOOE) and Capital Outlay (CO) of the Local Disaster Risk Reduction and Management Fund (LDRRMF).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2017-OBS5",
+      "year": 2017,
+      "recommendation": "5.8\tWe recommended Management to strictly adhere to the guidelines set under Sections 37 and 24 of Republic Act 9003 - “An Act Providing for an Ecological Solid Waste Program, Creating the Necessary Institutional Mechanisms and Incentives, Declaring Certain Acts Prohibited and Providing Penalties, Appropriating Funds therefor, and Other Purposes”, for the people of Tandag City to enjoy the benefits of which this Act is created.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2017-OBS6",
+      "year": 2017,
+      "recommendation": "6.5\tWe recommended the Local School Board to strictly observe the provisions of Section 1 of RA 5447 and Paragraph 2 of Joint Circular No. 1 s 2017 by the Department of Education (DEPED), Department of Budget and Management (DBM), and Department of the Interior and Local Government (DILG).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2017-OBS7",
+      "year": 2017,
+      "recommendation": "7.7\tWe recommended Management to observe guidelines provided in Item 4.1.2.1 of the DEPED-DBM-DILG Joint Circular No. 1 dated January 19, 2017.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2017-OBS8",
+      "year": 2017,
+      "recommendation": "8.5\tWe recommended Management to prepare reports to contain the detailed accomplishment vis-à-vis targets with the corresponding financial resources utilized.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2017-OBS9",
+      "year": 2017,
+      "recommendation": "8.5\tWe recommended that Management strictly adhere to LBC 111 – Manual on the Setting Up and Operation of Local Economic Enterprises and prepare separate set of Financial Statements for each LEE on the next ensuing years.\n8.10\tWe recommended that Management prepare the Semi-Annual Financial Self-Sufficiency Review (SFSSR) Report for every Local Economic Enterprises (LEE) starting CY 2018.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2017-OBS10",
+      "year": 2017,
+      "recommendation": "9.4\tWe recommended that Management require the GAD Focal Point to include in the submission of the GAD AR the reports/documents mentioned in Section 4.C.8.5 of the PCW-DILG-DBM-NEDA Joint Memorandum Circular 2013-01 to facilitate the monitoring, evaluation and substantiation of the reported accomplishments.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2017-PY1",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended that management revisit its Peace and Order and Public Safety Support Program (POPSSP) for the three (3) year period 2014-2016 and to identify programs, projects and activities in line with the PPAs identified in Item 3.23 of Joint Circular No. 2015-01.",
+      "managementAction": "The Management has complied to the Audit Team’s recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": "The  2018 POPSSP was prepared in consonance to the provisions of the Joint Circular No. 2015-01"
+    },
+    {
+      "id": "TandagCity_SDS-2017-PY2",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended that the Bids and Awards Secretariat to include in the APP the estimated cost of all supplies and equipment pursuant to Section 7.2 of the Revised IRR of RA 9184.",
+      "managementAction": "The BAC already included estimated cost of all supplies and equipment in the APP",
+      "status": "IMPLEMENTED",
+      "reason": "The submitted Annual Procurement Plant for CY 2017 includes the estimated cost of supplies and equipment."
+    },
+    {
+      "id": "TandagCity_SDS-2017-PY3",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended that Management reconstitute the BAC in conformity to the provisions of Section 11.2.3 of the Revised IRR of RA 9184 to ensure that procurement activities are given priority over other LGU activities.",
+      "managementAction": "Bids and Awards Committee are being reconstituted in conformity to the provision of Section 11.2.3 of the Revised IRR of RA 9184 that only representative from regular offices under the Local Chief Executive can be a member of the committee. Thus, the City Secretary is being replaced.",
+      "status": "IMPLEMENTED",
+      "reason": "Executive No. 24 was issued reorganizing the Bids and Awards Committee and replacing the City Secretary with the City Legal Officer."
+    },
+    {
+      "id": "TandagCity_SDS-2017-PY4",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended that Management direct the different chiefs of offices to prepare their PPMPs containing the information enumerated in Item 7.3.2 of Section 7 of the Revised IRR and to forward these to the City Budget Officer for review as to consistency of the appropriation with the City’s Annual Budget.  We also recommended that Management direct the City Budget Officer to submit the final PPMPs to the BAC Secretariat for consolidation of the PPMPs into the City’s Annual Procurement Plan.",
+      "managementAction": "During 2017, each office prepared PPMP and were consolidated for the City’s APP",
+      "status": "IMPLEMENTED",
+      "reason": "Infrastructures and other projects were included in the APP based on the submitted report."
+    },
+    {
+      "id": "TandagCity_SDS-2017-PY5",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended that the Local School Board prepare and approve its budget before making any disbursements in order to avoid deficit spending. We also recommended Management to require the City Budget Officer not to process claims against government funds that are not covered/supported with appropriations.",
+      "managementAction": "The recommendations are well taken and were followed.",
+      "status": "IMPLEMENTED",
+      "reason": "The 2017 budget for the 2017 CARAGA Regional Athletic Meet has been expended within its limit."
+    },
+    {
+      "id": "TandagCity_SDS-2017-PY8",
+      "year": 2017,
+      "recommendation": "Recommendations:\nDirect the City Cooperative Officer to require the recipient to immediately  liquidate the amount of ₱1.0 million and to open a separate bank account for the said amount in case it is still in its possession:\nIncorporate in the Memorandum of Agreement (MOA) all the terms and provisions cited in COA Circular No. 2012-001 to ensure the protection of public funds from losses in case of failure of the recipient to complete the project and/or in case of material violation to the terms and provisions of the MOA;\nRequire the City Cooperative Officer to regularly inspect and monitor the status of implementation of the project and to prepare a report thereon;\nDirect the City Accountant to reclassify from the expense account “Donations” the amount of ₱1.0 million to receivables account.  Henceforth, transfers of funds to non-government organizations/people’s organizations should be treated as receivables in the books of the LGU to ensure the availability of records for monitoring purposes; and\nDirect the City Cooperative Officer to thoroughly evaluate the financial and physical capability of the recipient before releasing funds as seed capital to ensure that public funds are utilized for projects aimed towards the achievement of the program’s goals and objectives.",
+      "managementAction": "The City Cooperative Officer had a meeting with the BOD of TAFIMACO on February 18, 2017 during their special BOD Meeting. The AOM and the NS have been discussed and arrived on the following:\n1.Opening of separate bank account solely for the buying of Palay and submit liquidation within 90 days. Partially submit documents required per recommendation no. 1.\n2.MOA has been revised/emended with inclusion of all the terms and provisions cited in COA Circular 2012-001.\n3.Regular inspection and monitoring activities by the City Cooperative Office is scheduled by TAFIMACO BOD every 28th starting March 28, 2017.\n4.Audit recommendations are well taken to be implemented immediately",
+      "status": "IMPLEMENTED",
+      "reason": "The City Cooperative Office has submitted the Memorandum of Agreement and a separate account has be opened. The liquidation was also facilitated and submitted."
+    },
+    {
+      "id": "TandagCity_SDS-2017-PY9",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended Management to direct the CDRRMO Designate to include in the LDRRMFIP under a separate caption, the unutilized balances of the DRRMF of previous years to ensure that these are being expended only for disaster related activities.",
+      "managementAction": "No more occurrence of the same finding during the year",
+      "status": "IMPLEMENTED",
+      "reason": "The LDRRM funds were utilized based on the LDRRMIP"
+    },
+    {
+      "id": "TandagCity_SDS-2017-PY10",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended that Management direct the CDRRM Officer to prepare a well- planned LDRRMFIP containing all the necessary data and information that will facilitate the evaluation and review of the LDRRMP in relation to the national, regional and provincial planning programs.  We also recommend for the LDRRMC to conduct periodic meetings with the CDRRMO to assess and monitor the implementation of the LDRRMP to ensure that the DRRMF is fully utilized in the implementation of PPAs that will strengthen and improve the capacity of the City to reduce and mitigate disaster risks and to immediately respond to the needs of its populace stricken by calamities.",
+      "managementAction": "The Office of the CDRRM has actually produced its LDRRM Fund Investment Plan which was approved by the CDRRM Council and subsequently adopted by the City Development Council. The said investment plan was taken from the 5-year LDRRM Plan also prepared by the said office. Moreover, the same office has already schedules and even conducted meetings together with CDRRM Council to discuss and monitor the implementation of the LDRRMP which was intended to ensure full utilization of LFRRMF.",
+      "status": "IMPLEMENTED",
+      "reason": "Periodic meetings were conducted by the CDRRMO to assess and monitor the implementation of the LDRRMP."
+    },
+    {
+      "id": "TandagCity_SDS-2017-PY11",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended that Management require the GAD Focal Point to include in the submission of the GAD AR the reports/documents mentioned in Section 4.C.8.5 of the PCW-DILG-DBM-NEDA Joint Memorandum Circular 2013-01 to facilitate the monitoring, evaluation and substantiation of the reported accomplishments.",
+      "managementAction": "The GAD AR forwarded to COA was not attached with supporting documents required in Sec. 4 C.8 5 of PCW-DILG-DBM-NEDA JMC 2013-01",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The submitted GAD Accomplishment Report for CY 2017 has no supporting documents."
+    },
+    {
+      "id": "TandagCity_SDS-2017-PY12",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended that Management direct the City Budget Officer and the City Accountant to evaluate the nature of the claim and to charge it to the appropriate allocation to avoid using the appropriation for purposes other than those for which this is intended.",
+      "managementAction": "During 2016, GAD Budget Allocation for office supplies was incorporated in the PPMP since the items needed are the same. But in the current year, GAD Budget for office supplies and materials were separated from the regular appropriations of the office and will be included in the GAD AR for the year 2017.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Office supplies and materials were not included  in the GAD Budget however"
+    },
+    {
+      "id": "TandagCity_SDS-2017-PY13",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended for the GAD Focal Point System to conduct consultations with the different sectors and organizations operating within the locality in the identification of gender issues and concerns and to prepare the GAD Plan and Budget based on the results of these consultations.  We also recommended that the GFPS conduct regular monitoring on the implementation of the GAD Plan for the immediate resolution of problems encountered in the course of implementation and if warranted, prepare amendments to the GAD Plan.  We also recommended that the GFPS prepare the GAD AR based on the GPB to avoid alterations especially on budgeted amounts of individual PPAs.",
+      "managementAction": "Consultation with different sectors and organizations on gender issues were conducted during 2014. GFP conducted meetings with concerned national and local government organizations to identify and discuss GAD Programs/projects  and line-up activities to carry out the national and local partner organizations in the formulation of a consolidated GAD Plan and Budget of the LGU. GFP conducted also an orientation meetings and hold conferences with members of the Local Council of Women and other women groups at the community level.",
+      "status": "IMPLEMENTED",
+      "reason": "The submitted GAD Plan and budget and the GAD Accomplishment Report has some activities that do not correspond with each other."
+    },
+    {
+      "id": "TandagCity_SDS-2017-PY15",
+      "year": 2017,
+      "recommendation": "Recommendations:\nRequire the leagues to submit the Memorandum of Agreement before releasing the funds;\n\nRequire the leagues to submit their liquidation reports and not to process additional transfers in case of failure of leagues to liquidated the amounts due from them; and\n\nReclassify the amount of P3,082,720.00 to receivables account.",
+      "managementAction": "Settled per NSSDC No. 17-002 dated May 29, 2017",
+      "status": "IMPLEMENTED",
+      "reason": "The Management responded to the observation"
+    },
+    {
+      "id": "TandagCity_SDS-2017-PY16",
+      "year": 2017,
+      "recommendation": "Recommendation:\nDirect the City Environment and Natural Resources Officer to prepare yearly the program design in consonance with the Ten Year Ecological Solid Waste Management Plan to ensure the prioritization of activities leading to the efficient collection and disposal of solid waste;\nRequire the CENR Officer to prepare and submit periodically progress accomplishment report indicating therein the problems encountered in the implementation of the program so that corrective measures can be immediately undertaken; and\nPrioritize for funding the acquisition of additional equipment for the collection and disposal of solid waste so that only properly segregated wastes are deposited at the dump site thereby preventing the spilling of garbage to the nearby areas as what happened in the previous year/s.",
+      "managementAction": "The management has complied to these recommendations.",
+      "status": "IMPLEMENTED",
+      "reason": "The Ten Year Ecological Solid Waste Management Plan was prepared by the CENR Officer and there were  equipment that were utilized in the collection of waste. Currently, the Management has strictly implemented the “No segregation, No collection” policy to ensure proper disposal of the wastes."
+    },
+    {
+      "id": "TandagCity_SDS-2017-PY17",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended that management instruct the Bids and Awards Committee (BAC), City Planning and Development Office and the City Engineering Office to review the reasonableness of Approved Budget for the Contract (ABC) on the on-going procurements and adhere to the provisions of DPWH Department Order No. 22 Series of 2015 for upcoming projects to judiciously determine the ABC beneficial to the government.",
+      "managementAction": "The City Engineering Office imposed and implemented starting CY 2016 infrastructure projects the 5% Value Added Tax (VAT)",
+      "status": "IMPLEMENTED",
+      "reason": "The 5% Value Added Tax (VAT) has been implemented by the CEO."
+    },
+    {
+      "id": "TandagCity_SDS-2017-PY18",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended that the City Accountant be directed to cause the immediate submission of all paid DVs with original supporting documents to the City Auditor’s Office and to follow strictly the regulations governing the submission of accounts.",
+      "managementAction": "The City Accountant issued an order to the person responsible for strict compliance.",
+      "status": "IMPLEMENTED",
+      "reason": "Timely submission of the disbursement vouchers has been observed."
+    },
+    {
+      "id": "TandagCity_SDS-2017-PY19",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended that the City Accountant be directed to reconcile the bank statement with the General Ledgers as basis for preparation of Bank Reconciliation Statement which must be submitted regularly to this Office within ten days after end of each month.",
+      "managementAction": "Submission of the required monthly BRS are being followed and being submitted timely and regularly.",
+      "status": "IMPLEMENTED",
+      "reason": "Bank Reconciliation Statement were submitted in the office on time."
+    },
+    {
+      "id": "TandagCity_SDS-2017-PY20",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended that the City Mayor direct all Accountable Officers, including the ICO- City Treasurer to certify monthly the ending balances in their cashbooks in conformity with the provisions of the NGAS.\nWe recommended that management conduct regular periodic meetings with the Project In-charge and heads of departments/offices to assess whether project implementation is proceeding as planned and to ensure that implementation constraints, if any, are immediately resolve to fast track project implementation and attain its desired purpose.",
+      "managementAction": "Monthly ending balances in the cash books of all accountable officers are being certified by the City Treasurer in conformity with provision of the NGAS.",
+      "status": "IMPLEMENTED",
+      "reason": "Ending balances in the cashbooks of the Accountable Officers were certified as observed during the cash examination."
+    },
+    {
+      "id": "TandagCity_SDS-2017-PY21",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended that management instruct the City Treasurer to closely monitor the regular and intact remittance of collections from all collectors to the Liquidating Officers",
+      "managementAction": "The Management has complied to this recommendation on the strict monitoring of collections and deposits.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The remittances of the daily collection of some Accountable Officer  were remitted intact."
+    },
+    {
+      "id": "TandagCity_SDS-2017-PY23",
+      "year": 2017,
+      "recommendation": "Recommendation:\nWe recommended that the City Accounting Office and the City General Services Office will conduct a reconciliation of its records in order for the Inventory Committee to finish the conduct of Physical Count of Property, Plant and Equipment (PPE) and immediately submit the Report of the Physical Count of Property, Plant and Equipment (RPCPPE) to the Office of the Auditor.",
+      "managementAction": "No Report on the Physical count of inventories were not submitted for the CY2017.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The management conducted the physical inventory but no report was submitted to the office."
+    },
+    {
+      "id": "TandagCity_SDS-2017-PY24",
+      "year": 2017,
+      "recommendation": "Recommendation:\n\nWe recommended that management conduct regular periodic meetings with the Project In-charge and heads of departments/offices to assess whether project implementation is proceeding as planned and to ensure that implementation constraints, if any, are immediately resolve to fast track project implementation and attain its desired purpose.",
+      "managementAction": "Revised the Work and Financial Plan based on the actual status and period where these Fund were actually received.",
+      "status": "IMPLEMENTED",
+      "reason": "The projects funded from BUB were  fully implemented based on the revised work and financial plan."
+    },
+    {
+      "id": "TandagCity_SDS-2016-PY18",
+      "year": 2016,
+      "recommendation": "We recommended that the City Treasurer observe Section 59 (c) of Local Treasury Operations Manual particularly such control measure of:\n\na.\tStamping serial numbers or the name or logo of the city to the cash tickets before issuing to assigned collector;\nb.\tPractice of affixing initials of collector and date of issuance in the cash tickets before issuance; and\nc.\tTearing off of cash tickets after collections has been received to avoid possible re-issuance.",
+      "managementAction": "No management action",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2016-OBS1",
+      "year": 2016,
+      "recommendation": "1.8    We recommended that management revisit its Peace and Order and Public Safety Support Program (POPSSP) for the three (3) year period 2014-2016 and to identify programs, projects and activities in line with the PPAs identified in Item 3.23 of Joint Circular No. 2015-01.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2016-OBS2",
+      "year": 2016,
+      "recommendation": "2.6   We recommended that the Bids and Awards Secretariat to include in the APP the estimated cost of all supplies and equipment pursuant to Section 7.2 of the Revised IRR of RA 9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2016-OBS3",
+      "year": 2016,
+      "recommendation": "3.6   We recommended that Management reconstitute the BAC in conformity to the provisions of Section 11.2.3 of the Revised IRR of RA 9184 to ensure that procurement activities are given priority over other LGU activities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2016-OBS4",
+      "year": 2016,
+      "recommendation": "4.7   We recommended that Management direct the different chiefs of offices to prepare their PPMPs containing the information enumerated in Item 7.3.2 of Section 7 of the Revised IRR and to forward these to the City Budget Officer for review as to consistency of the appropriation with the City’s Annual Budget.  We also recommended that Management direct the City Budget Officer to submit the final PPMPs to the BAC Secretariat for consolidation of the PPMPs into the City’s Annual Procurement Plan.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2016-OBS5",
+      "year": 2016,
+      "recommendation": "5.6  We recommended that the Local School Board prepare and approve its budget before making any disbursements in order to avoid deficit spending. We also recommended Management to require the City Budget Officer not to process claims against government funds that are not covered/supported with appropriations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2016-OBS6",
+      "year": 2016,
+      "recommendation": "6.7  We recommended that the Local School Board prepare and submit the program/activity designs to facilitate the determination of whether the monies collected accruing to the special education fund is being utilized in accordance with the laws, rules and regulations governing its usage.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2016-OBS7",
+      "year": 2016,
+      "recommendation": "7.5  We recommended for the return of the amount of ₱383,730.57 to the 20% Development Fund. We also recommended that the heads of offices, in preparing their respective budgets, take into account the actual expenditures incurred by their offices in the past three (3) years for them to prepare a more realistic budget to support their operation.  We further recommend that management confer with LBDA officials to clarify issues regarding the payment of expenses incurred in connection with LBDA activities. Henceforth, we recommended that Management strictly adhere to the provisions of Joint Circular No. 2011-1 dated April 13, 2011 issued by DILG and DBM.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2016-OBS8",
+      "year": 2016,
+      "recommendation": "8.10   We recommended that Management:\nDirect the City Cooperative Officer to require the recipient to immediately  liquidate the amount of ₱1.0 million and to open a separate bank account for the said amount in case it is still in its possession:\nIncorporate in the Memorandum of Agreement (MOA) all the terms and provisions cited in COA Circular No. 2012-001 to ensure the protection of public funds from losses in case of failure of the recipient to complete the project and/or in case of material violation to the terms and provisions of the MOA;\nRequire the City Cooperative Officer to regularly inspect and monitor the status of implementation of the project and to prepare a report thereon;\nDirect the City Accountant to reclassify from the expense account “Donations” the amount of ₱1.0 million to receivables account.  Henceforth, transfers of funds to non-government organizations/people’s organizations should be treated as receivables in the books of the LGU to ensure the availability of records for monitoring purposes; and\nDirect the City Cooperative Officer to thoroughly evaluate the financial and physical capability of the recipient before releasing funds as seed capital to ensure that public funds are utilized for projects aimed towards the achievement of the program’s goals and objectives.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2016-OBS9",
+      "year": 2016,
+      "recommendation": "9.8   We recommended Management to direct the CDRRMO Designate to include in the LDRRMFIP under a separate caption, the unutilized balances of the DRRMF of previous years to ensure that these are being expended only for disaster related activities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2016-OBS10",
+      "year": 2016,
+      "recommendation": "10.7   We recommended that Management direct the CDRRM Officer to prepare a well- planned LDRRMFIP containing all the necessary data and information that will facilitate the evaluation and review of the LDRRMP in relation to the national, regional and provincial planning programs.  We also recommend for the LDRRMC to conduct periodic meetings with the CDRRMO to assess and monitor the implementation of the LDRRMP to ensure that the DRRMF is fully utilized in the implementation of PPAs that will strengthen and improve the capacity of the City to reduce and mitigate disaster risks and to immediately respond to the needs of its populace stricken by calamities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2016-OBS11",
+      "year": 2016,
+      "recommendation": "11.5   We recommended that Management require the GAD Focal Point to include in the submission of the GAD AR the reports/documents mentioned in Section 4.C.8.5 of the PCW-DILG-DBM-NEDA Joint Memorandum Circular 2013-01 to facilitate the monitoring, evaluation and substantiation of the reported accomplishments.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2016-OBS12",
+      "year": 2016,
+      "recommendation": "12.6    We recommended that Management direct the City Budget Officer and the City Accountant to evaluate the nature of the claim and to charge it to the appropriate allocation to avoid using the appropriation for purposes other than those for which this is intended.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2016-OBS13",
+      "year": 2016,
+      "recommendation": "13.10  We recommended for the GAD Focal Point System to conduct consultations with the different sectors and organizations operating within the locality in the identification of gender issues and concerns and to prepare the GAD Plan and Budget based on the results of these consultations.  We also recommended that the GFPS conduct regular monitoring on the implementation of the GAD Plan for the immediate resolution of problems encountered in the course of implementation and if warranted, prepare amendments to the GAD Plan.  We also recommended that the GFPS prepare the GAD AR based on the GPB to avoid alterations especially on budgeted amounts of individual PPAs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2016-OBS14",
+      "year": 2016,
+      "recommendation": "14.8    We recommend that management direct the City General Services Office in coordination with the different heads of offices to complete the physical inventory taking of the property, plant and equipment and to submit the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) to the Office of the Auditor as soon as possible.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2016-OBS15",
+      "year": 2016,
+      "recommendation": "15.6 We recommended management to direct the City Accountant to:\nRequire the leagues to submit the Memorandum of Agreement before releasing the funds;\nRequire the leagues to submit their liquidation reports and not to process additional transfers in case of failure of leagues to liquidated the amounts due from them; and\nReclassify the amount of P3,082,720.00 to receivables account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2016-PY1",
+      "year": 2016,
+      "recommendation": "We recommended that management instruct the Bids and Awards Committee (BAC), City Planning and Development Office and the City Engineering Office to review the reasonableness of Approved Budget for the Contract (ABC) on the on-going procurements and adhere to the provisions of DPWH Department Order No. 22 Series of 2015 for upcoming projects to judiciously determine the ABC beneficial to the government.",
+      "managementAction": "The City Engineering Office imposed and implemented starting CY 2016 infrastructure projects the 5% Value Added Tax (VAT). \n\n\nProper observance by the BAC in reviewing the reasonableness of  Approved Budget Contract (ABC) by adhering to the DPWH Dept. Order No. 22 series of 2015",
+      "status": "IMPLEMENTED",
+      "reason": "Not Implemented | Implemented\n\n\n\n\nNot Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2016-PY2",
+      "year": 2016,
+      "recommendation": "We recommended that management cause the immediate submission of the contracts and its integral parts to facilitate auditorial review and evaluation of the contract and any deficiencies can be rectified on time.",
+      "managementAction": "The CGSO submitted the perfected contracts within 5 days to COA Office.",
+      "status": "IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2016-PY3",
+      "year": 2016,
+      "recommendation": "We recommended that the City Accountant be directed to cause the immediate submission of all paid DVs with original supporting documents to the City Auditor’s Office and to follow strictly the regulations governing the submission of accounts.",
+      "managementAction": "The City Accountant issued an order to the person responsible for strict compliance.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2016-PY4",
+      "year": 2016,
+      "recommendation": "We recommended that the City Accountant be directed to reconcile the bank statement with the General Ledgers as basis for preparation of Bank Reconciliation Statement which must be submitted regularly to this Office within ten days after end of each month.",
+      "managementAction": "The City Accountant gave order and constantly reminding all employees holding different funds subject for bank reconciliation statement",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2016-PY5",
+      "year": 2016,
+      "recommendation": "We recommended that the City Mayor direct all Accountable Officers, including the ICO- City Treasurer to certify monthly the ending balances in their cashbooks in conformity with the provisions of the NGAS.\nWe recommended that management conduct regular periodic meetings with the Project In-charge and heads of departments/offices to assess whether project implementation is proceeding as planned and to ensure that implementation constraints, if any, are immediately resolve to fast track project implementation and attain its desired purpose.",
+      "managementAction": "The City Treasurer including the Accountable Officers were instructed to certify monthly ending balances in their cashbooks.",
+      "status": "IMPLEMENTED",
+      "reason": "During the conduct of cash examination on the cash and accounts of all accountable officers, some cashbooks were not certified monthly.\n\nPartially Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2016-PY6",
+      "year": 2016,
+      "recommendation": "We recommended that management instruct the City Treasurer to closely monitor the regular and intact remittance of collections from all collectors to the Liquidating Officers",
+      "managementAction": "The City Treasurer issued a Memorandum Order reiterating the compliance on Daily Turn-Over of Collections.",
+      "status": "IMPLEMENTED",
+      "reason": "During the conduct of cash examination on the cash and accounts of all accountable officers of the City revealed that some collections were not remitted daily and intact.\n\nPartially Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2016-PY7",
+      "year": 2016,
+      "recommendation": "We recommended requiring the Local School Board to strictly comply the provisions of Section 272 of RA7160 and DECS-DBM and DILG Joint Memorandum Circular No. 01–B dated June 25, 2001 in the preparation of the SEF Budget.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2016-PY8",
+      "year": 2016,
+      "recommendation": "We recommended that management direct the GAD Focal Point to include in the submission of accomplishment report the report/documents mentioned in Section 5 of DBM-NEDA-NCRFW Joint Circular No. 2004-1.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Not Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2016-PY9",
+      "year": 2016,
+      "recommendation": "We recommended that management advise the City Development Council and the Local Finance Committee that in  subsequent budgeting of the 20% LDF, the total cost per program/project should be presented in lumpsum (to include the labor and MOOE component).  Moreover, exercise due diligence in the preparation and review of the AIP and utilize the unprogrammed amount of P11.2 million for socio-economic and environmental projects following the regulations governing the utilization of LDF.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2016-PY10",
+      "year": 2016,
+      "recommendation": "We recommended that the City Accounting Office and the City General Services Office will conduct a reconciliation of its records in order for the Inventory Committee to finish the conduct of Physical Count of Property, Plant and Equipment (PPE) and immediately submit the Report of the Physical Count of Property, Plant and Equipment (RPCPPE) to the Office of the Auditor.",
+      "managementAction": "The CGSO shall submit an annual report on the Physical Count of Property, Plant and Equipment every Jan, 31,",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2016-PY11",
+      "year": 2016,
+      "recommendation": "We recommended that management conduct regular periodic meetings with the Project In-charge and heads of departments/offices to assess whether project implementation is proceeding as planned and to ensure that implementation constraints, if any, are immediately resolve to fast track project implementation and attain its desired purpose.",
+      "managementAction": "Revised the Work and Financial Plan based on the actual status and period where these Fund were actually received.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "TandagCity_SDS-2016-PY12",
+      "year": 2016,
+      "recommendation": "We recommended that management require the Bids and Awards Committee to prepare and submit to the GPPB the procurement monitoring report within the time frame stipulated in Section 12.2 of the IRR of RA 9184.",
+      "managementAction": "Management has prepared and submitted PMR.",
+      "status": "IMPLEMENTED",
+      "reason": "Fully Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2016-PY13",
+      "year": 2016,
+      "recommendation": "We recommended that management adhere strictly to the provisions of the COA Circular No. 2012-002 by submitting the Report on Sources and Utilization of LDRRMF to COA within the legal time frame.",
+      "managementAction": "Management has prepared the report; however, submission of the same was not consistent.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2016-PY14",
+      "year": 2016,
+      "recommendation": "We recommended that the City Accountant and the City HRMO be directed to comply and submit the lacking documentary requirements and any similar claims in the future should be supported with complete documentation.",
+      "managementAction": "Management has  submitted the lacking supporting documents.",
+      "status": "IMPLEMENTED",
+      "reason": "Fully Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2016-PY15",
+      "year": 2016,
+      "recommendation": "We recommended that the City Treasurer be directed to effect timely submission of report of collections to City Accountant’s Office and direct the City Accountant to compute immediately the amount of barangay shares for the remittance to the respective barangays within five (5) days after the end of each quarter.",
+      "managementAction": "Releases of barangay shares on RPT collections were made on time  although there were quarters where remittance was late.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2016-PY16",
+      "year": 2016,
+      "recommendation": "We recommended that the City Accountant be directed to cause the immediate submission of all paid DVs with original supporting documents to the City Auditor’s Office and to follow strictly the regulations in the submission of accounts.",
+      "managementAction": "All paid DVS were submitted to the Office but for current year, submission was still late.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2016-PY17",
+      "year": 2016,
+      "recommendation": "We recommended that management to prepare a written request to all depository banks to furnish the bank statements and supporting documents for all depository accounts maintained by the City Government within five days after the end of each month and to direct the City Accountant to reconcile the said bank statement with the General Ledgers as basis for preparation of Bank Reconciliation Statement which must be submitted regularly to this Office within ten days after end of each month.",
+      "managementAction": "BRS submission of some bank accounts remained late.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2016-PY19",
+      "year": 2016,
+      "recommendation": "We recommended that the City Accountant be directed to reclassify the recording of disaster related equipment into account 231 Disaster Response and Rescue Equipment and its related accumulated depreciation account. Further, subsidiary ledger accounts shall also be maintained as provided under COA Circular No. 2012 – 002.",
+      "managementAction": "The City Accountant has reclassified the erroneously recorded DRRM equipment.",
+      "status": "IMPLEMENTED",
+      "reason": "Fully Implemented"
+    },
+    {
+      "id": "TandagCity_SDS-2016-PY20",
+      "year": 2016,
+      "recommendation": "Require the winning bidders to post Performance Security for contracts entered into by the City Government in the procurement of goods and services.",
+      "managementAction": "The BAC has strictly implemented the posting of performance security.",
+      "status": "IMPLEMENTED",
+      "reason": "Fully Implemented"
+    }
+  ]
+}

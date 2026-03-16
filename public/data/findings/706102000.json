@@ -1,0 +1,1782 @@
+{
+  "lguCode": "706102000",
+  "lguName": "Larena",
+  "province": "Siquijor",
+  "region": "Region VI (Western Visayas)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-PY1",
+      "year": 2024,
+      "recommendation": "1. Strictly follow the guidelines and procedures in the conduct of physical count of PPE, Recognition of PPE items found at the station, and existing/missing PPE items and require the Accountant and Property Officer to reconcile their records based on the results of the actual physical inventory and effect necessary adjustments;\n2. Adopt the uniform numbering system for property numbers of PPE and require the Property Unit to update the property stickers based on the prescribed format and to include the required information under Section 5.6 and 5.7 of COA Circular No. 2020-006 dated January 31, 2020;\n3. Submit the approved PIP to the COA Audit Team within the prescribed period;\n4. Conduct the required preliminary activities prior to inventory taking; and\n5. Record/document the physical count daily in a standard ICF prescribed in Annex A of COA Circular No. 2020-006 dated January 31, 2020.",
+      "managementAction": "Management had partially reconciled the Property Ledger Card with the Report on the Physical Count of Property, Plant, and Equipment.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-PY2",
+      "year": 2024,
+      "recommendation": "We recommended that Management exclude regular maintenance activities that are properly chargeable to the General Fund in the preparation of the annual investment plan and include in the 20% DF only those PPAs that truly contribute to the development of the community’s development and that partake of the nature of investment and capital projects.\nWe further recommended that the wages of laborers performing regular repair and maintenance work be charged to the General Fund.",
+      "managementAction": "Some Job Orders were still charged against the 20% DF.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-PY7",
+      "year": 2024,
+      "recommendation": "14. Direct the Municipal Assessor to coordinate with and seek technical assistance from the Provincial Assessor and/or the DOF-Bureau of Local Government Finance to fast-track the preparation of the updated SMVs of the Municipality pursuant to Section 212 of the LGC and cause the drafting of an Ordinance for consideration of the Sanggunian, incorporating therein the proposed SMV, assessment level and tax rate to support the conduct of GRRPA within the reglementary period;\n15. Augment the number of qualified personnel assigned at the Municipal Assessor’s Office to meet the minimum personnel requirements stipulated in the MRPAAO and conduct capacity-building interventions to facilitate the conduct of the GRRPA in adherence to Section 219 of the same Code and DILG-DOF JMC No. 2010-001, and closely monitor its completion; and\n16. Make representation with the Local Chief Executive/Local Sanggunian to appropriate funds for the computerization of the assessment records to hasten the completion of GRRPA data gathering and encoding.",
+      "managementAction": "The conduct of GRRPA of the Municipality is dependent on the Provincial Assessor.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-PY8",
+      "year": 2024,
+      "recommendation": "We recommended that the BAC prepare the PMR to be approved by the HOPE and submit the same to the GPPB in printed and electronic formats within 14 calendar days after the end of each semester in accordance with Section 12.2 of the Revised IRR of R.A. No. 9184.",
+      "managementAction": "BAC Secretariat failed to prepare",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-PY9",
+      "year": 2024,
+      "recommendation": "We also recommended that the Inventory Committee conduct an annual physical count of all its Local Road Networks and report the results thereof in the RPCLRN to be submitted to the Auditor and Accounting Unit not later than January 31 of each year. The RPCLRN shall be reconciled with the accounting records, and the necessary adjusting entries be prepared before the statement date.",
+      "managementAction": "The RPCLRN for assets with costs of each component of the LRN has not been submitted.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-PY11",
+      "year": 2024,
+      "recommendation": "We recommended and the Municipal Planning and Development Officer agreed, in endorsing specific PPAs to the Sangguniang Bayan for approval, to indicate the project location, specific implementation schedule, and physical target to facilitate the timely submission of the PPAs. For appropriations already presented in a lump sum or in generic terms, a separate SB appropriation ordinance or resolution shall be secured by the Local Chief Executive before utilizing the fund. Henceforth, Management is enjoined to strictly comply with Article 454(d) of the IRR of R.A. No. 7160.",
+      "managementAction": "The documentary requirements of some project such as the Program of Development Work, Detailed Engineering, Permits and Clearance were still the process of preparation while certain projects are intentionally scheduled for implementation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-PY12",
+      "year": 2024,
+      "recommendation": "We reiterated our prior year’s recommendation that Management:\n21. Follow up with the DENR on their application for the issuance of the Original Certificates of Title through Special Patent;\n22. Secure copies of usufruct agreements with the NGAs occupying the land, if any; and\n23. Require the Municipal Accountant to disclose the foregoing information in the Notes to Financial Statements for the user’s guide.",
+      "managementAction": "Management had consistently followed up with the DENR on the application for issuance of the OCT, but it had not yet been approved.\nManagement had not been able to secure copies of usufruct agreements with the NGAs occupying the Land.\nThe Notes to Financial Statements still had not disclosed this information.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-PY14",
+      "year": 2024,
+      "recommendation": "Directed those who receive the PEI to refund the amount of ₱9,045.83 each, the payment of which is not legally due to them, the PS limitation provided under Section325(a) of R.A. 7160, having been not observed by the municipality. Henceforth, strictly observe the fifty-five (55%) limitation on personal services to prevent disallowance in the audit.",
+      "managementAction": "The disallowance had already been fully settled.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-PY17",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to make the appropriate changes in the recording of expenses to come up with reliable financial statements for economic enterprise. Ensure compliance with the provisions of Section 313 of RA 7160 and Section 3.2 of LBC 100 for future transactions of the same nature.",
+      "managementAction": "The payment of amortizations of loan and interest expenses is charged to 20% DF",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-PY20",
+      "year": 2024,
+      "recommendation": "Consider transferring the deposit from First Consolidated Bank to an authorized government depository bank, to eliminate exposure of government funds to certain risks, particularly on insolvency and bank closure.",
+      "managementAction": "The FCB account could not be closed because some employees still had outstanding loans with the bank. However, the Municipal Accountant gave assurance that no additional loan applications would be approved/ granted. The account will be closed as soon as the municipal employees no longer have existing accounts with the said bank.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-OBS1",
+      "year": 2024,
+      "recommendation": "1.10 We recommended and the Municipal Mayor agreed to reorganize the\ncomposition of the Inventory Committee through the issuance of an executive\norder, ensuring that the annual physical count of all properties of the\nMunicipality is conducted and the corresponding RPCPPE is prepared and\nsubmitted to the Audit Team not later than January 31, of each year.\n\n1.11 We further recommended and the Municipal Mayor agreed to assign the\nMunicipal Treasurer, being the Property Custodian of the Municipality, to\nbe the Chairman of the Inventory Committee.\n\n1.12 Lastly, we recommended and Management agreed that the Property Division\nand the Accounting Office maintain property cards and ledger cards,\nrespectively, in compliance with Section 114 of the Manual in NGAS, Volume\nI.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-OBS2",
+      "year": 2024,
+      "recommendation": "2.9 We recommended and Management agreed that the Municipal Accountant\nensure the immediate establishment and proper maintenance of Local Road\nNetwork Ledger Cards (LRNLC) for all road networks and their\ncomponents, following the format prescribed in Annex D of COA Circular\nNo. 2015-008, and anchored on a precise baseline established through a\nthorough physical inventory of all road networks and their components.\n\n2.10 We further recommended and Management agreed that, following the\nphysical inventory and reconciliation of records with the Municipal\nAccountant, depreciation expenses be recomputed separately for each road\ncomponent. Any necessary adjustments should be reflected in the books of\naccounts to ensure compliance with IPSAS 17 and COA Circular No. 2015-\n008.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-OBS3",
+      "year": 2024,
+      "recommendation": "3.9 We recommended that the Municipal Planning Development Officer and the\nMunicipal Engineer adequately and thoroughly plan all projects before their\ninclusion in the Annual Investment Plan (AIP), ensure the timely implementation\nof priority projects, and closely monitor their full implementation as outlined in\nthe AIP.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-OBS4",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed that the Municipal Accountant\npromptly remit all taxes withheld from employees’ compensation,\nprocurements, and documentary stamps in accordance with the prescribed\nperiod outlined in BIR Revenue Memorandum Circular (RMC) No. 23-2012,\ndated February 14, 2012. We further recommended and the Municipal\nAccountant agreed to maintain the subsidiary ledgers for each specific\naccount.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-OBS5",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to implement a review process\nthat would ensure that the monthly remittance matches the total funds\nwithheld, including the performance of reconciliation procedures to address\nany discrepancies between the withheld amounts and the prepared\nremittances, and thereafter ensure the timely remittance of all withheld funds\nin compliance with the applicable laws, rules, and regulations governing the\nremittances to GSIS, PhilHealth, and Pag-ibig.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-OBS6",
+      "year": 2024,
+      "recommendation": "6.7 We recommended and Management agreed to ensure the proper\ndocumentation and timely dissemination of the approved SEF Budget to the\nMunicipal Budget Officer, Municipal Accountant, and Municipal Treasurer,\nin accordance with the requirements of Item 6.1 of DepEd, DBM, and DILG\nJoint Circular No. 1, s. 2017.\n\n6.8 We further recommended and Management agreed that the Municipal\nAccountant, in coordination with the Municipal School Board (MSB), ensure\nthe prompt and regular submission of the quarterly and annual SEF\nUtilization Reports to the DepED Central Office, the Sangganiang Bayan, and\nthe DBM and DILG Regional Offices, as mandated by the same Circular.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-OBS7",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to require the personnel\nconcerned or the end user to complete the relevant and required information\nin the PO, in compliance with Item B of COA Circular No. 96-010 dated\nAugust 15, 1996. We further recommended and the Local Chief Executive\nagreed to refrain from approving the PO unless it contains the required\ndetails of the goods to be procured.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-PY3",
+      "year": 2024,
+      "recommendation": "We recommended and the MDRRMO agreed to coordinate with the MDRRMC in identifying the PPAs to be charged to the unexpended previous years’ LDRRMF balance for the inclusion in the LDRRMFIP in accordance with Section 5.1.2 of COA Circular No. 2012-002 dated September 12, 2012.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-PY4",
+      "year": 2024,
+      "recommendation": "We recommended and the MDRRMO agreed to prepare the Monthly Report on Sources and Utilization of DRRMF duly reconciled with the accounting records and certified correct by the Municipal Accountant and submit it to the Auditor before the 15th day after the end of each month.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-PY5",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Accountant revise the Notes to the Financial Statements to include the principal amount, the interest rate, maturity date, purpose of the loan, and interest expense of the Loans Payable - Domestic account.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-PY6",
+      "year": 2024,
+      "recommendation": "11. Maintain the SLs for the Due to Other NGAs account duly indicating the pertinent information such as the date when the fund was received, the source agency, the purpose, and the amount received, utilized and liquidated.\n12. Return the excess funds for the completed projects amounting to ₱158,775.54 to the respective Source Agencies; and\n13. Ensure that fund transfers recorded under the Trust Fund are duly supported by a MOA.",
+      "managementAction": "Maintain the SLs for the Due to Other NGAs account duly indicating the pertinent information such as the date when the fund was received, the source agency, the purpose, and the amount received, utilized and liquidated.\nReturn the excess funds for the completed projects amounting to ₱158,775.54 to the respective Source Agencies; and\nEnsure that fund transfers recorded under the Trust Fund are duly supported by a MOA.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-PY10",
+      "year": 2024,
+      "recommendation": "We further recommended that the Municipal DRRM Officer strive for the timely and full implementation of LDRRM-related PPAs to achieve the goals and objectives of the fund as well as the desired benefits and strictly observe the probations of NDRRMC-DILG-DBM-CSC JMC No. 2014-1 in allocating the LDRRM Fund solely for the implementation of DRRM-related projects.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-PY13",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to replenish the portion of the 20% DF inappropriately disbursed by transferring the charges to the General Fund, and henceforth, comply with the limitations on the use of the 20% Development Fund as outlined under the DBM, DOF, and DILG JMC No. 1 dated November 4, 2020.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-PY15",
+      "year": 2024,
+      "recommendation": "Required the Municipal Treasurer to send letters of collections to some debtors who are still in the service or still alive. Make representations to the COA through the Sangguniang Bayan for possible writing-off of those accounts which could no longer be collected or are of doubtful collectability.",
+      "managementAction": "To request Municipal Accountant to write-off of accounts. Sangguniang Bayan for possible write off has already been made.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-PY16",
+      "year": 2024,
+      "recommendation": "Cause the immediate refund of the amount of ₱140,000.00 paid to all appointed officials/employees of the Municipality considering that the disbursement of funds was devoid of any legal basis.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-PY18",
+      "year": 2024,
+      "recommendation": "Explain and submit the legal basis for charging such expense items in the SEF budget. Henceforth, ensure that only those priority expense items as enumerated under Section 4 of DEPED/DBM/DILG JMC No. 1 series of 2017 are charged to SEF appropriation.",
+      "managementAction": "Secure and submit legal basis to support the disbursement items in the SEF budget.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10-Region-VII__Municipalities__Siquijor__Larena_Siquijor-2024-PY19",
+      "year": 2024,
+      "recommendation": "We recommended Management submit any document that would support the process involved in the selection of the Principality, Inc. as required under COA Circular No. 92-386 dated October 20, 1992, and the determination of the rental rate.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-PY1",
+      "year": 2023,
+      "recommendation": "1. We recommended that the concerned department heads strictly comply with the accounting and reporting guidelines on the local roads asset management system and earnestly perform their respective duties and responsibilities set forth under COA Circular No. 2015-008 dated October 23, 2015.\n2. We also recommended that the Inventory Committee conduct an annual physical count of all its Local Road Networks and report the results thereof in the RPCLRN to be submitted to the Auditor and Accounting Unit not later than January 31 of each year. The RPCLRN shall be reconciled with the accounting records, and the necessary adjusting entries be prepared before the statement date.",
+      "managementAction": "The Improvement of Local Roads had already been recorded in the books of Accounts. RPCLRN had already been submitted to the Auditor, however the Local Road Networks were not clearly identified hence, Accounting Unit not reconciled with the accounting records.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-PY4",
+      "year": 2023,
+      "recommendation": "We recommended and the Municipal Planning and Development Officer agreed, in endorsing specific PPAs to the Sangguniang Bayan for approval, to indicate the project location, specific implementation schedule, and physical target to facilitate the timely implementation of the PPAs. For appropriations already presented in a lump sum or in generic terms, a separate SB appropriation ordinance or resolution shall be secured by the Local Chief Executive before utilizing the fund. Henceforth, Management is enjoined to strictly comply with Article 454(d) of the IRR of R.A. No. 7160.",
+      "managementAction": "Some PPAs still had been expressed in generic terms.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-PY7",
+      "year": 2023,
+      "recommendation": "We reiterated our prior year’s recommendation that Management: 10. Follow up with the DENR on their application for issuance of Original Certificates of Title through Special Patent. 11. Secure copies of usufruct agreements with the NGAs occupying the land. 12. Require the Municipal Accountant to disclose the foregoing information in the Notes to Financial Statements for the user’s guide.",
+      "managementAction": "Management had consistently followed up with the DENR on the application for issuance of OCT but was not yet approved.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-PY8",
+      "year": 2023,
+      "recommendation": "We recommended and Management agreed to replenish the portion of the 20% DF inappropriately disbursed by transferring the charges to the General Fund, and henceforth, comply with the limitations on the use of the 20% Development Fund as outlined under the DBM, DOF, and DILG JMC No. 1 dated November 4, 2020. We also recommended and the Municipal Accountant agreed to reclassify the unissued RCA supplies as well as the Inverter from Environmental and Sanitary Services Expenses to Other Supplies and Materials Inventory and Other Machinery and Equipment, respectively. Henceforth, the issuance of RCA supplies must be supported with Requisition and Issue Slip (RIS).",
+      "managementAction": "The expenses had not been replenished to the General Fund. The Municipal Accountant had already made the reclassification.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-PY10",
+      "year": 2023,
+      "recommendation": "Required the Municipal Treasurer to send letters of collections to some debtors who are still in the service or still alive. Make representations to the COA through the Sangguniang Bayan for possible writing-off of those accounts which could no longer be collected or are of doubtful collectability.",
+      "managementAction": "The collection letters had not been sent to identified debtors. Make representation to COA through the Sangguniang Bayan for possible writing-off of those accounts which could no longer be collected or are of doubtful collectability.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-PY11",
+      "year": 2023,
+      "recommendation": "Cause the immediate refund of the amount of ₱140,000.00 paid to all appointed officials/employees of the Municipality considering that the disbursement of funds was devoid of any legal basis.",
+      "managementAction": "The disallowance had already been fully settled. The summary of repayments had not yet been submitted. The installment payments could not be immediately recognized because of the failure to secure the authority for installment payments.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-PY13",
+      "year": 2023,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to make the appropriate changes in the recording of expenses to come up with reliable financial statements for the economic enterprise. Ensure compliance with the provisions of Section 313 of RA 7160 and Section 3.2 of LBC No. 100 for future transactions of the same nature.",
+      "managementAction": "Management had not taken any action.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-PY14",
+      "year": 2023,
+      "recommendation": "Explain and submit the legal basis for charging such expense items in the SEF budget. Henceforth, ensure that only those priority expense items as enumerated under Section 4.0 of DEPED/DBM/DILG JMC No. 1 series of 2017 are charged to SEF appropriation.",
+      "managementAction": "Management had not taken any action.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-PY16",
+      "year": 2023,
+      "recommendation": "Consider transferring the deposits maintained with First Consolidated Bank to an authorized government depository bank, to eliminate exposure of government funds to certain risks, particularly on insolvency and bank closure.",
+      "managementAction": "The deposits maintained with First Consolidated Bank could not be closed because some employees still had outstanding loans with the bank. However, the Municipal Accountant gave assurance that no additional loan applications would be approved/granted. Closure of the account as soon as the municipal employees no longer have existing accounts with the said bank.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-PY18",
+      "year": 2023,
+      "recommendation": "Required the Municipal Treasurer to send letters of collections to some debtors who are still in the service or still alive. Make representation to the COA through the Sangguniang Bayan for possible writing-off of those accounts which could no longer be collected or are of doubtful collectability.",
+      "managementAction": "The request for a write-off had already been submitted.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-PY19",
+      "year": 2023,
+      "recommendation": "Cause the immediate refund of the amount of ₱140,000.00 paid to all appointed officials/employees of the Municipality considering that the disbursement of funds was devoid of any legal basis.",
+      "managementAction": "The disallowance had already been fully settled. The summary of repayments had not yet been submitted. The installment payments could not be immediately recognized because of the failure to secure the authority for installment payments.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-OBS1",
+      "year": 2023,
+      "recommendation": "1.14 We recommended and Management agreed to observe the guidelines and\nprocedures provided in COA Circular No. 2020-006 dated January 31, 2020, for\nthe one-time cleansing of PPE account balances to have reliable PPE balances\nthat are verifiable as to existence, condition, and accountability as follows:\n\na. Strictly follow the guidelines and procedures in the conduct of physical\ncount of PPE, Recognition of PPE items found at the station, and\ndisposition for non-existing/missing PPE items and require the Accountant\nand Property Officer to reconcile their records based on the results of the\nactual physical inventory and effect necessary adjustments;\nb. Adopt the uniform numbering system for property numbers of PPE and\nrequire the Property Unit to update the property stickers based on the\nprescribed format and to include the required information under Section\n5.6 and 5.7 of COA Circular No. 2020-006 dated January 31, 2020;\nc. Submit the approved PIP to the COA Audit Team within the prescribed\nperiod;\nd. Conduct the required preliminary activities prior to inventory taking; and\ne. Record/document the physical count daily in a standard ICF prescribed in\nAnnex A of COA Circular No. 2020-006 dated January 31, 2020.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-OBS2",
+      "year": 2023,
+      "recommendation": "2.12 We recommended that Management exclude regular maintenance activities that\nare properly chargeable to the General Fund in the preparation of the annual\ninvestment plan and include in the 20% DF only those PPAs that truly\ncontribute to the development of the community’s development and that\npartake of the nature of investment and capital projects.\n\n2.13 We further recommended that the wages of laborers performing regular repair\nand maintenance work be charged to the General Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-OBS3",
+      "year": 2023,
+      "recommendation": "3.6 We recommended and the Municipal Disaster Risk Reduction and Management\nOfficer (MDRRMO) agreed to coordinate with the MDRRMC in identifying the\nPPAs to be charged to the unexpended previous years’ LDRRMF balance for\ninclusion in the LDRRMFIP in accordance with Section 5.1.2 of COA Circular\nNo. 2012-002 dated September 12, 2012.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-OBS4",
+      "year": 2023,
+      "recommendation": "4.7 We recommended and the MDRRMO agreed to prepare the Monthly Report on\nSources and Utilization of DRRMF duly reconciled with the accounting records\nand certified correct by the Municipal Accountant and submit it to the Auditor\non or before the 15th day after the end of each month.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-OBS5",
+      "year": 2023,
+      "recommendation": "5.7 We recommended that the Municipal Accountant revise the Notes to the\nFinancial Statements to include the principal amount, interest rate, maturity\ndate, purpose of the loan, and interest expense of the Loans Payable - Domestic\naccount.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-OBS6",
+      "year": 2023,
+      "recommendation": "6.11 We recommended and the Municipal Accountant agreed to:\na. Maintain the SLs for the Due to Other NGAs account duly indicating the\npertinent information such as the date when the fund was received, the source\nagency, the purpose, and the amount received, utilized, and liquidated;\nb. Return the excess funds for the completed projects amounting to ₱158,775.54\nto the respective Source Agencies; and\nc. Ensure that fund transfers recorded under the Trust Fund are duly supported\nby a MOA.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-OBS7",
+      "year": 2023,
+      "recommendation": "7.15 We recommended and Management agreed to:\na) Direct the Municipal Assessor to coordinate with and seek technical\nassistance from the Provincial Assessor and/or the DOF-Bureau of Local\nGovernment Finance to fast-track the preparation of the updated SMVs of\nthe Municipality pursuant to Section 212 of the LGC and cause the drafting\nof an Ordinance for consideration of the Sanggunian, incorporating therein\nthe proposed SMV, assessment level and tax rate to support the conduct of\nGRRPA within the reglementary period;\nb) Augment the number of qualified personnel assigned at the Municipal\nAssessor’s Office to meet the minimum personnel requirements stipulated in\nthe MRPAAO and conduct capacity-building interventions to facilitate the\nconduct of the GRRPA in adherence to Section 219 of the same Code and\nDILG-DOF JMC No. 2010-001, and closely monitor its completion; and\nc) Make representation with the Local Chief Executive/Local Sanggunian to\nappropriate funds for the computerization of the assessment records to hasten\nthe completion of GRRPA data gathering and encoding.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-OBS8",
+      "year": 2023,
+      "recommendation": "8.8 We recommend that the BAC prepare the PMR to be approved by the HOPE\nand submit the same to the GPPB in printed and electronic formats within 14\ncalendar days after the end of each semester in accordance with Section 12.2 of\nthe Revised IRR of R.A. No. 9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-PY2",
+      "year": 2023,
+      "recommendation": "We recommended and the Local Chief Executive (LCE) agreed to institutionalize the PSCP by creating a working group that will perform the following activities: a. To conduct a risk assessment b. To determine scenarios that may disrupt normal operation; c. To conduct risk analysis and impact analysis; d. To formulate the PSCP based on the identified risks to critical processes and functions and the related steps to be followed to eliminate, if not mitigate, the impact of the disruptions following the prescribed templates and requirements in the comprehensive PSCP guidebook; e. To submit the plan to the MDRRMO for review, to the Local Chief Executive for approval, and to the Sangguniang Bayan for the passage of a resolution to institutionalize the PSCP.",
+      "managementAction": "The Municipality had participated in a PSCP Training conducted by the OCD on May 23-26, 2023, at El Suites, Siquijor. Management had already issued Executive Order No. 012, series of 2023 creating the Municipal Core Team (MCCT) and Municipal Continuity Planning Team (MCPT) last June 2, 2023. The technical working group had already been working on the Comprehensive Land Use Plan, mainstreamed the Climate and Disaster Risk Assessment (CIDRA) framework, and identified the appropriate risk reduction and adaptation and mitigation measures as inputs to the comprehensive development planning and investment programming.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-PY3",
+      "year": 2023,
+      "recommendation": "We recommended that the Municipal DRRM Officer properly identify and assess the hazards susceptibility and the related risks that may occur in the Municipality in order to formulate a feasible LDRRMP. We further recommended that the Municipal DRRM Officer strive for the timely and full implementation of LDRRM-related PPAs and to achieve the goals and objectives of the fund as well as the desired benefits and strictly observe the provisions of NDRRMC-DILG-DBM-CSC JMC No. 2014-1 in allocating the LDRRM Fund solely for the implementation of DRRM-related projects.",
+      "managementAction": "The PPAs under the CY 2023 LDRRMF had already been in line with the approved Local Disaster Risk Management Plan (LDRRMP) (Resolution No. 02, series of 2022).",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-PY5",
+      "year": 2023,
+      "recommendation": "We recommended that Management advise the Municipal Budget Officer to maintain the RAAO and prepare the SAAOB. The format of these forms can be referred to in Annexes 13, 14, 15, and 16 of Volume II of the NGAS Manual. At the back of these forms are instructions for accomplishing it.",
+      "managementAction": "The Budget Office had already maintained the RAAO and SAAOB.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-PY6",
+      "year": 2023,
+      "recommendation": "We recommended that the Municipal Accountant prepare JEVs and attach them to the Disbursement Vouchers in compliance with Section 31 of the NGAS Manual for LGUs, Volume II, for submission to the Auditor within the first 10 days of the ensuing month.",
+      "managementAction": "The Municipal Accountant had already indicated the entries on the lower portion of the Disbursement Vouchers in compliance with Section 31 of the NGAS Manual for LGUs, Volume II, for submission to the Auditor within the first 10 days of the ensuing month.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-PY9",
+      "year": 2023,
+      "recommendation": "Directed to those who receive the PEI to refund the amount of ₱9,045.83 each, the payment of which is not legally due to them, the PS limitation provided under Section 325(a) of R.A. 7160, having been not observed by the municipality. Henceforth, strictly observe the fifty-five percent (55%) limitation on personal services to prevent disallowance in the audit.",
+      "managementAction": "The Municipality had participated in a PSCP Training conducted by the OCD on May 23-26, 2023, at El Suites, Siquijor. Management had already issued Executive Order No. 012, series of 2023 creating the Municipal Core Team (MCCT) and Municipal Continuity Planning Team (MCPT) last June 2, 2023. The technical working group had already been working on the Comprehensive Land Use Plan, mainstreamed the Climate and Disaster Risk Assessment (CIDRA) framework, and identified the appropriate risk reduction and adaptation and mitigation measures as inputs to the comprehensive development planning and investment programming.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-PY12",
+      "year": 2023,
+      "recommendation": "We reiterated our prior year’s recommendation that (a) the Municipal Agriculturist and the Municipal Accountant review and reconcile the discrepancy noted in the inventory accounts; (b) conduct periodic reconciliation of the RPCI and ledger cards; and (c) the Municipal Agriculturist provide the Municipal Accountant a report of livestock as basis for recording any additions as well as deductions from the Agricultural Produce for Distribution account.",
+      "managementAction": "The RPCI for livestock still had to be updated to reconcile with accounting records.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-PY15",
+      "year": 2023,
+      "recommendation": "We recommended that Management submit any document that would support the process involved in the selection of the Principality, Inc. as required under COA Circular No. 92-386 dated October 20, 1992, and the determination of the rental rate.",
+      "managementAction": "Management had submitted a justification (Municipal Mayor letter dated June 2, 2017) explaining how the Municipality entered into a Contract of Lease with Principality, Inc. under a Public-Private-Partnership (PPP) agreement, including the rental rate of ₱800/square meter on the first year of occupancy with a (2%) inflation rate each year for 25 years. Documents were already submitted.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-PY17",
+      "year": 2023,
+      "recommendation": "Directed those who receive the PEI to refund the amount of ₱9,045.83 each, the payment of which is not legally due to them, the PS limitation provided under Section325(a) of R.A. 7160, having been not observed by the municipality. Henceforth, strictly observe the fifty-five (55%) limitation on personal services to prevent disallowance in the audit.",
+      "managementAction": "Full collection of refunds.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "10_-_Region-VII__Municipalities__Siquijor__Larena_Siquijor-2023-PY20",
+      "year": 2023,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to make the appropriate changes in the recording of expenses to come up with reliable financial statements for economic enterprise. Ensure compliance with the provisions of Section 313 of RA 7160 and Section 3.2 of LBC 100 for future transactions of the same nature.",
+      "managementAction": "Municipal Accountant had already indicated the entries on the lower portion of the Disbursement Vouchers in compliance with Section 31 of the NGAS Manual for LGUs, Volume II, for submission to the Auditor within the first 10 days of the ensuing month.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-PY15",
+      "year": 2021,
+      "recommendation": "We recommended that Management (a) appropriate funds to defray the expenses for the processing and issuance of TCTs; (b) make representations with the DENR for the issuance of Original Certificate of Title through Special Patent; and (c) secure a copy of usufruct agreement with the NGAs occupying the land, if any, to avoid booking up the same in the NGAs books of accounts.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The application for Special Patent filed with DENR had not yet been approved."
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-PY17",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to make the appropriate changes in the recording of expenses to come up with reliable financial statements for economic enterprise. Ensure compliance with the provisions of Section 313 of RA 7160 and Section 3.2 of LBC 100 for future transactions of the same nature.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The income from the Economic Enterprise was not enough to pay for the amortization of loans, including interest."
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We reiterated our prior year’s recommendation that Management:\n(a) Follow up with the DENR on their application for issuance of Original\nCertificates of Title through Special Patent;\n(b) Secure copies of usufruct agreements with the NGAs occupying the land, if\nany; and\n(c) Require the Municipal Accountant to disclose the foregoing information in the\nNotes to Financial Statements for the user’s guidance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to require a) the Inventory\nCommittee to properly fill out the RPCPPE; b) the Municipal Treasurer to have the\nAREs/PAR renewed/updated; c) the Municipal Accountant to coordinate with the\nMunicipal Treasurer for the discrepancies noted and effect the necessary\nadjustments; d) the Municipal Accountant to properly classify PPE items in\naccordance with the New Government Accounting System Manual for LGUs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "We recommended that Management require the Municipal Disaster Risk\nReduction and Management Officer (MDRRMO) and the Municipal Social Welfare\nand Development Officer (MSWDO), in coordination with the Punong Barangays,\nto submit copies of duly signed distribution lists showing the full names of\nrecipients, the kind of relief goods received with corresponding quantities, date of\nthe receipt and such other necessary information in order to validate actual\ndistribution and to establish accountability.\n\nDuring the exit conference, the MDRRMO committed to submit the duly\nacknowledged Relief Distribution Sheets.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to:\n(a) Require the municipal accountant to prepare the necessary adjusting entry to\ncorrect the accounting treatment of personal protective and other medical\nsupplies to Medical, Dental and Laboratory Supplies Inventory instead of\ndebiting to Trust Liabilities -LDRRMF. Consequently, consumption thereof\nshould be recorded to Medical, Dental and Laboratory Supplies Expenses; and\n(b) Require the concerned office responsible for the distribution of medical\nsupplies to submit copies of Requisition and Issue Slip and corresponding\ndistribution lists that contain the name and signature of receivers as well as\nthe date of receipt, and such other necessary information, including the\nnumber of medical items received to facilitate accounting thereof.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to:\n(a) Require the suppliers to submit the Mayor’s/Business Permit and OSS\nin compliance with Sections 3.4 and 4.1 of GPPB Circular 01-2020; and\n(b) Include in the PO a warranty against manufacturing defects and that\nthe goods comply with quality standards and technical specifications.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to replenish the portion of the\n20% DF inappropriately disbursed by transferring the charges to the General Fund,\nand henceforth, comply with the limitations on the use of the 20% Development\nFund as outlined under the DBM, DOF, and DILG JMC No. 1 dated November 4,\n2020.\n\nWe also recommended and the Municipal Accountant agreed to reclassify the\nunissued RCA supplies as well as the Inverter from Environmental and Sanitary\nServices Expenses to Other Supplies and Materials Inventory and Other Machinery\nand Equipment, respectively. Henceforth, the issuance of RCA supplies must be\nsupported with Requisition and Issue Slip (RIS).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "We recommended and the Assistant Municipal Treasurer–ICO agreed to\nverify the correctness of the DSCAFs submitted by collectors following the\nprovisions of Section 27 of COA Circular No. 92-382 dated July 3, 1992, to avoid the\npossible loss of government funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-OBS8",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to:\n(a) Require the resource persons/payees to submit the documents required\nto support claims for honoraria under COA Circular 2012-001,\nincluding any documents to support propriety of the amount claimed,\nsuch as pay slips from the mother agency; and\n(b) Require the course coordinator to submit the seminar attendance sheets\nto support costs for catering services.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Accountant set up a SAGF to record the receipt and utilization of the Bayanihan grant in accordance with LBC No. 125 dated April 7, 2020, to facilitate monitoring of the receipt and utilization of the grant.",
+      "managementAction": "Management had already set up a SAGF as of December 31, 2020.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended that the MDRRMO coordinate with the Punong Barangays for the submission of the list of recipient-beneficiaries.",
+      "managementAction": "Management had collated a list of recipient-beneficiaries from the 23 barangays under its jurisdiction and submitted the same to the Auditor.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommend that Management strictly adhere to the requirements prescribed under DSWD Memorandum Circular No. 09, series of 2020, in the implementation of the SAP and other similar programs of DSWD to ensure that financial assistance is given to qualified beneficiaries and the objectives of the program are attained.",
+      "managementAction": "Management had already adhered to the requirement prescribed under DSWD Memorandum Circular no. 9, series of 2020.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended that Management stop the practice of procurement through reimbursement. We further recommend that the Bids and Awards Committee strictly comply with the proper mode of procurement under the Revised IRR of RA) No. 9184 and relevant issuances of the GPPB during Public Health Emergency, to ensure transparency, economy and efficiency in the procurement process.",
+      "managementAction": "Management had already stopped the practice of procurement through reimbursement except for emergency repairs of government vehicles. The payment was made directly to the respective Establishment/Resort Owner.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended that Management submit a Summary/List of Donations Received, Distributed and Balances supported with (a) Proof of receipt by and distribution to the beneficiaries and (2) Inventory of remaining undistributed items, if any, in",
+      "managementAction": "Management had already prepared the Summary/List of Donations, Received, Distributed and Balances.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended that Management refrain from holding seminars/workshops outside of the province in accordance with pertinent sections of COA Circular No. 2012-003 dated October 29, 2012, to avoid extravagant expenditures and wastage of government funds.",
+      "managementAction": "Management had refrained from holding seminars/workshops outside of the Province of Siquijor.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended that Management require a) the Inventory Committee to properly fill up the RPCPPE; b) the Municipal Treasurer to have the AREs/PAR renewed/updated; and c) the Municipal Accountant to coordinate with the Municipal Treasurer for the discrepancies noted and effect the necessary adjustments.",
+      "managementAction": "The Inventory Committee had already planned to conduct a physical count of all movable properties to update their ownership and condition.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reiterated in the CY 2021 audit. Refer to Part II of this Annual Audit Report."
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended that Management to: a) Stop the practice of recording purchases of supplies and materials directly to the related expense account and, henceforth, record purchases and utilization of these items in accordance with Sections 114 and 121 of the Manual on NGAS for LGUs, Volume I; b) Require the requisitioning office needing the supplies and materials to prepare and submit the RIS to the Assistant Municipal Treasurer-ICO as the property custodian on a weekly basis; c)Require the AMT-ICO/Property Custodian to consolidate all the RIS on the SSMI and submit the same to the Accounting Office; and d)Require the Municipal Accountant to record to the related expense accounts the supplies consumed based on the SSMI and to maintain perpetual inventory records to be reconciled periodically with the records of the AMT-ICO in order to fairly present the expense and inventory accounts in the financial statements.",
+      "managementAction": "A physical count of supplies and materials on hand had been conducted, while adjustments had been made to the Trial Balance as of July 31, 2021. Refer to Part II of this Report.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The audit still noted supplies procured after the physical count and adjustments made but had not been properly recorded to the inventory accounts nor supported with RIS. Refer to Part II of this Report."
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommended that Management refrain from charging administrative expenses to the 20% DF and, henceforth, utilize the fund in accordance with DILG-DBM Joint Memorandum Circular No. 2017-001 dated February 22, 2017.",
+      "managementAction": "The labor for the repair of the administrative building was no longer charged to the 20% Development Fund. Development Fund.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Costs for the repair and maintenance of government vehicles and other administrative expenses were still charged to the 20% Development Fund."
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "Explain the basis for engaging the services of the Event Organizer and henceforth, conduct a thorough market survey before any negotiated procurement to ensure that the services procured answer the needs of the activity and at the most beneficial cost to the government.",
+      "managementAction": "The Municipality submitted the explanations/justifications for engaging the services of the Event Organizer. They did not prove the conduct of a market study, nor did they attest that the procurement was done at the most beneficial cost to the government.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The documents submitted failed to prove the conduct of a market study, nor did they attest that the procurement was done at the most beneficial cost to the government."
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "Directed those who receive the PEI to refund the amount of ₱9,045.83 each, the payment of which is not legally due to them, the PS limitation provided under Section 325(a) of R.A. 7160, having been not observed by the municipality. Henceforth, strictly observe the fifty-five (55%) limitation on personal services to prevent disallowance in the audit.",
+      "managementAction": "The disallowance had already been fully settled.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The installment payments could not be immediately recognized because of the failure to secure the authority for installment payments."
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "Required the Municipal Treasurer to send letters of collections to some debtors who are still in service or still alive. Make representations to the COA through the Sangguniang Bayan for possible writing-off of those accounts which could no longer be collected or are of doubtful collectability.",
+      "managementAction": "The request for a write-off had already been submitted.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Management could not present proof that the Request for Write-Off had been actually submitted."
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "Cause the immediate refund of the amount of ₱140,000.00 paid to all appointed officials/employees of the Municipality considering that the disbursement of funds was devoid of any legal basis.",
+      "managementAction": "The disallowance had already been fully settled.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The installment payments could not be immediately recognized because of the failure to secure the authority for installment payments."
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-PY14",
+      "year": 2021,
+      "recommendation": "We recommended that (a) the Municipal Agriculturist and Municipal Accountant review and reconcile the discrepancy noted in the inventory accounts and henceforth, conduct periodic reconciliation of the RPCI and ledger cards; (b) the Municipal Agriculturist provide the Municipal Accountant a report of livestock as basis for recording any additions to as well as deductions from the Agricultural Produce for Distribution account; and (c) the Municipal Accountant to maintain SLCs as required under Section 114 of the Manual.",
+      "managementAction": "Not A difference of ₱80,375.00 was noted between balances per book and inventory submitted.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-PY16",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the concerned LGU officials to submit within the reglementary period an approved copy of the GAD plan and Budget and ensure that the annual accomplishment report was submitted on time.",
+      "managementAction": "The GAD Plan and Budget had been incorporated into the budgets of the various departments.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-PY18",
+      "year": 2021,
+      "recommendation": "Explain and submit the legal basis for charging such expense items in the SEF budget. Henceforth, ensure that only those priority expense items as enumerated under Section 4.0 of DEPED/DBM/DILG JMC No. 1 series of 2017 are charged to SEF appropriation.",
+      "managementAction": "Management had already been reminded of Section 7 DepEd/DBM/DILG JMC No. 1 on delving into Issues for Resolution, which should be referred to DepEd Central Office for resolution.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-PY19",
+      "year": 2021,
+      "recommendation": "We recommended that Management submit any document that would support the process involved in the selection of the Principality, Inc. as required under COA Circular No. 92-386 dated October 20, 1992, and the determination of the rental rate.",
+      "managementAction": "The Municipal Mayor, in his letter dated June 2, 2017, had submitted a justification in reply to AOM No. 2016-009 dated December 15, 2016, explaining therein how the Municipality entered into a Contract of Lease with Principality, Inc. under a Public-Private-Partnership (PPP) agreement, including the rental rate of ₱8.00/square meter on the first year of occupancy with a two percent (2%) inflation rate each year for 25 years.",
+      "status": "IMPLEMENTED",
+      "reason": "No documents had been submitted to support the selection process of Principality, Inc."
+    },
+    {
+      "id": "Larena_Siquijor_aar2021-PY20",
+      "year": 2021,
+      "recommendation": "Consider transferring the deposits maintained with First Consolidated Bank to an authorized government depository bank, to eliminate exposure of government funds to certain risks, particularly on insolvency and bank closure.",
+      "managementAction": "The FCB account could not be closed because some employees still had outstanding loans with the bank. However, the Municipal Accountant gave assurance that no additional loan applications would be approved/granted.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-PY21",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to make the appropriate changes in the recording of expenses to come up with reliable financial statements for economic enterprise. Ensure compliance with the provisions of Section 313 of RA 7160 and Section 3.2 of LBC 100 for future transactions of the same nature.",
+      "managementAction": "The income from the Economic Enterprise was not enough to pay for the amortization of the loans including interest.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-PY22",
+      "year": 2020,
+      "recommendation": "Explain and submit the legal basis of charging such expense items in the SEF budget. Henceforth, ensure that only those priority expense items as enumerated under Section 4.0 of DEPED/DBM/DILG JMC No. 1 series of 2017 are charged to SEF appropriation.",
+      "managementAction": "Management was reminded of the provision of the DepEd/DBM/DILG JMC No. 1 specifically Section 7.0 on issues for resolution which should be referred to the DepEd Central Office for resolution.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-PY23",
+      "year": 2020,
+      "recommendation": "We recommended that Management submit any document that would support the process involved in the selection of the Principality, Inc. as required under COA Circular No. 92-386 dated October 20, 1992 and the determination of the rental rate.",
+      "managementAction": "The Municipal Mayor, in his letter dated June 2, 2017, submitted a justification in reply to AOM No. 2016-009 dated December 15, 2016, explaining how the Municipality entered into a Contract of Lease with Principality, Inc. under a Public-Private-Partnership agreement, including the rental rate of P8.00 per square meter on the first year of occupancy with a two percent (2%) inflation rate each year for 25 years.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-PY24",
+      "year": 2020,
+      "recommendation": "Consider transferring the deposits maintained with First Consolidated Bank to an authorized government depository banks, to eliminate exposure of government funds from certain risks particularly on insolvency and bank closure.",
+      "managementAction": "The account with FCB could not be closed because some employees still had outstanding loans with the bank. The Municipal Accountant gave assurance that no additional applications for loans were approved/granted.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended that Management require a) the Inventory Committee to\nproperly fill up the RPCPPE; b) the Municipal Treasurer to have the AREs/PAR\nrenewed/updated; and c) the Municipal Accountant to coordinate with the Municipal\nTreasurer to rectify the discrepancies noted and effect the necessary adjustments.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant set up a SAGF to record the\nreceipt and utilization of the Bayanihan grant in accordance with LBC No. 125\ndated April 7, 2020 to facilitate monitoring of the receipt and utilization of the\ngrant.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended that the MDRRMO coordinate with the Punong\nBarangays for the submission of the list of recipient-beneficiaries.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommended that Management strictly adhere to the requirements\nprescribed under DSWD Memorandum Circular No. 09, series of 2020, in the\nimplementation of the SAP and other similar programs of DSWD to ensure that\nfinancial assistance are given to qualified beneficiaries and the objectives of the\nprogram are attained.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We recommended that Management stop the practice of procurement\nthrough reimbursement. We further recommended that the Bids and Awards\nCommittee strictly comply with the proper mode of procurement under the Revised\nIRR of (RA) No. 9184 and relevant issuances of the GPPB during Public Health\nEmergency, to ensure transparency, economy and efficiency in the procurement\nprocess.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended that Management submit a Summary/List of Donations\nReceived, Distributed and Balances supported with (a) Proof of receipt by and\ndistribution to the beneficiaries and (2) Inventory of remaining undistributed items,\nif any, in accordance with Section 1 of COA Circular No. 2020-009 dated April 21,\n2020.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We recommended that Management refrain from holding seminars/\nworkshops outside of the province in accordance with pertinent sections of COA\nCircular No. 2012-003 dated October 29, 2012 to avoid extravagant expenditures\nand wastage of government funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We recommended that Management:\na) Stop the practice of recording purchases of supplies and materials directly to\nthe related expense account and, henceforth, record purchases and\nutilization of these items in accordance with Sections 114 and 121 of the\nManual on NGAS for LGUs, Volume I;\nb) Require the requisitioning office needing the supplies and materials to\nprepare and submit the RIS to the Assistant Municipal Treasurer-ICO as the\nproperty custodian on a weekly basis;\nc) Require the AMT-ICO/Property Custodian to consolidate all the RIS on the\nSSMI and submit the same to the Accounting Office; and\nd) Require the Municipal Accountant to record to the related expense accounts\nthe supplies consumed based on the SSMI and to maintain perpetual\ninventory records to be reconciled periodically with the records of the AMT-\nICO in order to fairly present the expense and inventory accounts in the\nfinancial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant review and trace the long outstanding payable accounts amounting to P453.874.50 as of December 31, 2019 and recommend for reversion all those which are undocumented and remained outstanding for two years or more for which no administrative or judicial claim had been filed in accordance with Section 98 of P.D. No. 1445 and DBM-COA Joint Circular No. 99-06 dated November 13, 1999.",
+      "managementAction": "Accounts reverted 2019 to the unappropriated surplus on December 31, 2020.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant effect the necessary adjusting entry to correct the recorded interest expenses and henceforth, record in the books of accounts interests on borrowings in accordance with PPSAS 18.",
+      "managementAction": "Amortization payments for interests on loans were capitalized.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended that Management collect from Nale Construction the excess of the contract cost over the COA cost per evaluation amounting to P162,263.02. We further recommend that, henceforth, the Bids and Awards Committee (BAC) and the Technical Working Group (TWG) conduct thorough evaluation on the detailed cost estimates of the contract to avoid incurring excessive expenditures.",
+      "managementAction": "Excessive amount was charged to the claims for extra work of the same contractor.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended that Management, henceforth, observe the provisions of CSC-COA-DBM Joint Circular No. 1, series of 2017, dated June 15, 2017 in availing outsourced services, like security services, thru institutional contract of services.",
+      "managementAction": "Management justified that the six security guards were watchmen actually assigned in the different facilities of the Municipality.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended that Management stop the practice of giving out prizes for beauty contest, games and sports competitions and other various related expenses to highlight activities/celebration to avoid incurring unnecessary expenditures.",
+      "managementAction": "Expenses of the same nature were no longer charged to the Municipal funds.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommended that Management exercise due prudence in the utilization of the scarce resources of the government. Limit the incurrence of expenses for meals and snacks during meetings and other events to the amount of appropriations for Extraordinary and Miscellaneous Expenses and stop the practice of holding receptions or serving meals and snacks during celebrations and gatherings and the charging thereof to government funds except to the representation allowance of officials concerned.",
+      "managementAction": "Representation expenses were reduced to P20,836.00 while Other MOOE had likewise reduced to P63,010.00 in the current year.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Budget Officer strictly observe the PS limitation which shall not exceed 55% of the total annual income from regular sources realized in the next preceding fiscal year pursuant to Section 325(a) of R.A. 7160.",
+      "managementAction": "PS limitation was strictly observed in the current year.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant, henceforth, require the submission of the documents, such as, but not limited to, the assessment and recommendation by the SWO, eligibility of beneficiaries and established parameter to validate maximum amount of assistance, in processing payments for assistance under the AICS. This is to ensure that only qualified beneficiaries, such us the poor, marginalized and disadvantaged individual benefit from the program.",
+      "managementAction": "Subsequent releases/downloaded funds for specific projects were fully implemented.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-PY9",
+      "year": 2020,
+      "recommendation": "We recommended that, henceforth, Management prioritize the implementation of projects with funds received from the national government agencies having validity period for the benefit of its constituents, particularly to address unemployment.",
+      "managementAction": "Subsequent releases/downloaded funds for specific projects were fully implemented.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-PY10",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the Local Disaster Risk Reduction and Management Officer to submit the Report on Sources and Utilization of Local Disaster Risk Reduction and Management Fund (LDRRMF) on or before the 15th day after the end of each month in compliance with COA Circular No. 2012-002 for proper evaluation and monitoring.",
+      "managementAction": "Monthly reports were submitted by the MDRRMO designee to the Auditor.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-PY11",
+      "year": 2020,
+      "recommendation": "Directed the MENRO-Designate to initiate concrete steps to convert the current dumping site in compliance with the minimum considerations provided under Section 39 of R.A. 9003. Further, request the Sangguniang Bayan to allocate funds for the establishment of a sanitary landfill in compliance with Section 40 and 41 of the same Republic Act.",
+      "managementAction": "Wastes were already covered with aggregates and fully secured with a fence.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-PY12",
+      "year": 2020,
+      "recommendation": "Directed those who receive the PEI to refund the amount of P9,045.83 each, the payment of which is not legally due to them, the PS limitation provided under Section 325(a) of R.A. 7160, having been not observed by the municipality. Henceforth, strictly observe the fifty-five (55%) limitation on personal services to prevent disallowance in audit.",
+      "managementAction": "Directed those who receive the PEI to refund the amount of P9,045.83 each, the payment of which is not legally due to them, the PS limitation provided under Section 325(a) of R.A. 7160, having been not observed by the municipality. Henceforth, strictly observe the fifty-five (55%) limitation on personal services to prevent disallowance in audit.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-PY13",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct (a) the Inventory Committee to conduct a physical count of inventories and movable properties; (b) the Municipal Treasurer to prepare the report on the results of the count using the prescribed form and reconcile the results with the accounting records; and (c) the Municipal Treasurer as property custodian and the Municipal Accountant to maintain property cards and ledgers cards, respectively.",
+      "managementAction": "An inventory report was submitted on February 15, 2021. However, discrepancies were noted which are discussed in detail in Part II of this report.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-PY14",
+      "year": 2020,
+      "recommendation": "We recommended that Management refrain from charging administrative expenses to the 20% DF and, henceforth, utilize the fund in accordance with DILG-DBM Joint Memorandum Circular No. 2017-001 dated February 22, 2017.",
+      "managementAction": "Labor for repair of administrative building were no longer charged to the 20% Development Funds.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Repair and Maintenance of vehicles and other government expenses were continuously charged to the 20% Development Fund."
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-PY15",
+      "year": 2020,
+      "recommendation": "Explain the basis in engaging the services of the Event Organizer and henceforth, conduct a thorough market survey before any negotiated procurement to ensure that services procured answers the needs of the activity and in the most beneficial cost to the government.",
+      "managementAction": "The Municipal explanations/justifications were submitted.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Documents submitted failed to prove that a market study was conducted neither did these show that procurement was done at a cost most beneficial to the government."
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-PY16",
+      "year": 2020,
+      "recommendation": "Required the Municipal Treasurer to send letters of collections to some debtors who are still in service or still alive. Make representations to the COA through the Sangguniang Bayan for possible writing-off of those accounts which could no longer be collected or of doubtful collectability.",
+      "managementAction": "Request for write-off was already submitted.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Management could not present proof that the Request for Write-Off was indeed submitted."
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-PY17",
+      "year": 2020,
+      "recommendation": "Cause the immediate refund of the amount of P140,000.00 paid to all appointed officials/employees of the Municipality considering that the disbursement of funds was devoid of any legal basis.",
+      "managementAction": "These disallowance was already fully settled. Installment payments cannot be immediately recognized since authority for installment payment was not secured.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Summary of repayments not yet submitted."
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-PY18",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the concerned LGU officials to submit within the reglementary period approved copy of the GAD plan and Budget and ensure that the annual accomplishment report were submitted on time.",
+      "managementAction": "The GAD Plan and Budget had been incorporated with the budgets of the different departments.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Annual Accomplishment Report was not submitted to the Audit Team."
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-PY19",
+      "year": 2020,
+      "recommendation": "We recommended that (a) the Municipal Agriculturist and Municipal Accountant review and reconcile the discrepancy noted in the inventory accounts and henceforth, conduct periodic reconciliation of the RPCI and ledger cards; (b) the Municipal Agriculturist provide the Municipal Accountant a report of livestock as basis for recording any additions to as well as deductions from the Agricultural Produce for Distribution account; and (c) the Municipal Accountant to maintain SLCs as required under Section 114 of the Manual.",
+      "managementAction": "A difference of P80,375.00 was noted between balance per books and inventory report submitted.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "RSAO-NIS__Municipalities__Siquijor__Larena_Siquijor-2020-PY20",
+      "year": 2020,
+      "recommendation": "We recommended that Management (a) appropriate funds to defray the expenses for the processing and issuance of TCTs; (b) make representations with the DENR for the issuance of Original Certificate of Title through Special Patent; and (c) secure copy of usufruct agreement with the NGAs occupying the land, if any, to avoid booking up the same in the NGAs books of accounts.",
+      "managementAction": "Application for Special Patent filed with DENR not yet approved.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-PY13",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal\nMayor direct the Local Disaster Risk\nReduction and Management Officer to\nsubmit the Report on Sources and\nUtilization of Local Disaster Risk\nReduction and Management Fund\n(LDRRMF) on or before the 15th day after\nthe end of each month in compliance with\nCOA Circular No. 2012-002 for proper\nevaluation and monitoring.",
+      "managementAction": "The LDRRMO had not\ncoordinated with the\nMunicipal Accountant\nfor the submission of\nthe report.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-PY14",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal\nMayor require the concerned LGU officials\nto submit within the reglementary period\napproved copy of the GAD plan and\nBudget and ensure that the annual\naccomplishment report were submitted on\ntime.",
+      "managementAction": "The GAD Plan and\nBudget had been\nincorporated with the\nbudgets of the different\ndepartments.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-PY15",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal\nMayor direct the Municipal Accountant to\nmake the appropriate changes in the\nrecording of expenses to come up with\nreliable financial statements for economic\nenterprise. Ensure compliance with the\nprovisions of Section 313 of RA 7160 and\nSection 3.2 of LBC 100 for future\ntransactions of the same nature.",
+      "managementAction": "The income from the\nEconomic Enterprise\nwas not enough to pay\nthe amortization of\nloans including\ninterest.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-PY16",
+      "year": 2019,
+      "recommendation": "Explain and submit the legal basis of\ncharging such expense items in the SEF\nbudget. Henceforth, ensure that only those\npriority expense items as enumerated\nunder Section 4.0 of DEPED/DBM/DILG\nJMC No. 1 series of 2017 are charged to\nSEF appropriation.",
+      "managementAction": "Management was\nreminded of the\nprovision of the\nDepEd/DBM/DILG JMC\nNo. 1 specifically\nSection 7.0-delving on\nIssues for Resolution\nwhich should be\nreferred to the DepEd\nCentral Office for\nresolution.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-PY17",
+      "year": 2019,
+      "recommendation": "We recommended that management enjoin\nthe Assistant Municipal Treasurer-ICO to\ncoordinate with the Sanggunian to set aside\nmunicipal funds to defray expenses in the\nprocessing and issuance of Certificate of\nTitle. He should also require that issuances\nof equipment be supported with\nAcknowledgment Receipt of Equipment\nand to update the same to identify the\npersons presently accountable for the\nequipment.",
+      "managementAction": "(This is reiterated in\nPart II of this report.)",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Stringent documentary\nrequirements and\nlimited manpower as\nthe Assistant Municipal\nTreasurer is also the\nActing Municipal\nTreasurer and Supplier\nOfficer ."
+    },
+    {
+      "id": "Larena_Siquijor-2019-PY18",
+      "year": 2019,
+      "recommendation": "We recommended that Management\nsubmit any document that would support\nthe process involved in the selection of\nPrincipality, Inc. as required under COA\nCircular No. 92-386 and the determination\nof the rental rate.",
+      "managementAction": "The Municipal Mayor, in\nhis letter dated June 2,\n2017, submitted a\njustification in reply to\nAOM No. 2016-009\ndated December 15,\n2016 wherein he\nexplained how the\nMunicipality entered\ninto a Contract of Lease\nwith Principality, Inc.\nThe Municipality\nentered into a Contract\nof Lease with\nPrincipality, Inc. under\na Public-Private-\nPartnership (PPP)\nagreement, including\nthe rental rate of P8.00\nper square meter on\nthe first year of\noccupancy with a two\npercent (2%) inflation\nrate each year for 25\nyears.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-PY19",
+      "year": 2019,
+      "recommendation": "Instruct the GAD Focal Person to initiate\nactivities for the establishment of a local\nGAD code based on the gender issues and\nconcerns in their respective localities\nidentified through consultation with\nwomen constituents and coordinate with\nthe Department of Interior and Local\nGovernment (DILG) and Philippine\nCommission on Women (PCW) in the\nformulation and development of said Code.\nMake representation with the local law-\nmaking body for the eventual passage and\napproval of the Local GAD Code.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-PY20",
+      "year": 2019,
+      "recommendation": "Consider transferring the deposits\nmaintained with First Consolidated Bank\nto an authorized government depository\nbanks, to eliminate exposure of\ngovernment funds from certain risks\nparticularly on insolvency and bank\nclosure.",
+      "managementAction": "The account with FCB\ncould not be closed\nbecause some\nemployees still had\noutstanding loans with\nthe bank. The\nMunicipal Accountant\ngave assurance that no\nadditional applications\nfor loans were\napproved/granted.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended that (a) the Municipal Agriculturist and Municipal\nAccountant review and reconcile the discrepancy noted in the inventory accounts\nand henceforth, conduct periodic reconciliation of the RPCI and ledger cards;\n(b) the Municipal Agriculturist provide the Municipal Accountant a report of\nlivestock as basis for recording any additions to as well as deductions from the\nAgricultural Produce for Distribution account; and (c) the Municipal Accountant to\nmaintain SLCs as required under Section 114 of the Manual.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended that Management (a) appropriate funds to defray the\nexpenses for the processing and issuance of TCTs; (b) make representations with the\nDENR for the issuance of Original Certificate of Title through Special Patent; and\n(c) secure copy of usufruct agreement with the NGAs occupying the land, if any, to\navoid booking up the same in the NGAs books of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct (a) the Inventory\nCommittee to conduct a physical count of inventories and movable properties;\n(b) the Municipal Treasurer to prepare the report on the results of the count using\nthe prescribed form and reconcile the results with the accounting records; and\n(c) the Municipal Treasurer as property custodian and the Municipal Accountant\nto maintain property cards and ledgers cards, respectively.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accountant review and trace the long\noutstanding payable accounts amounting to P453.874.50 as of December 31, 2019\nand recommend for reversion all those which are undocumented and remained\noutstanding for two years or more for which no administrative or judicial claim had\nbeen filed in accordance with Section 98 of P.D. No. 1445 and DBM-COA Joint\nCircular No. 99-06 dated November 13, 1999.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accountant effect the necessary\nadjusting entry to correct the recorded interest expenses and henceforth, record in\nthe books of accounts interests on borrowings in accordance with PPSAS 18.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended that Management collect from Nale Construction the\nexcess of the contract cost over the COA cost per evaluation amounting to\nP162,263.02. We further recommend that, henceforth, the Bids and Awards\nCommittee (BAC) and the Technical Working Group (TWG) conduct thorough\nevaluation on the detailed cost estimates of the contract to avoid incurring excessive\nexpenditures.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We recommended that Management, henceforth, observe the provisions of\nCSC-COA-DBM Joint Circular No. 1, series of 2017, dated June 15, 2017 in\navailing outsourced services, like security services, thru institutional contract of\nservices.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-OBS8",
+      "year": 2019,
+      "recommendation": "We recommended that Management stop the practice of giving out prizes for\nbeauty contest, games and sports competitions and other various related expenses to\nhighlight activities/celebration to avoid incurring unnecessary expenditures.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-OBS9",
+      "year": 2019,
+      "recommendation": "We recommended that Management exercise due prudence in the utilization\nof the scarce resources of the government. Limit the incurrence of expenses for\nmeals and snacks during meetings and other events to the amount of appropriations\nfor Extraordinary and Miscellaneous Expenses and stop the practice of holding\nreceptions or serving meals and snacks during celebrations and gatherings and the\ncharging thereof to government funds except to the representation allowance of\nofficials concerned.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-OBS10",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Budget Officer strictly observe the PS\nlimitation which shall not exceed 55% of the total annual income from regular\nsources realized in the next preceding fiscal year pursuant to Section 325(a) of R.A.\n7160.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-OBS11",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accountant, henceforth, require the\nsubmission of the documents, such as, but not limited to, the assessment and\nrecommendation by the SWO, eligibility of beneficiaries and established parameter\nto validate maximum amount of assistance, in processing payments for assistance\nunder the AICS. This is to ensure that only qualified beneficiaries, such us the poor,\nmarginalized and disadvantaged individual benefit from the program.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-OBS12",
+      "year": 2019,
+      "recommendation": "We recommended that Management refrain from charging administrative\nexpenses to the 20% DF and, henceforth, utilize the fund in accordance with DILG-\nDBM Joint Memorandum Circular No. 2017-001 dated February 22, 2017.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-OBS13",
+      "year": 2019,
+      "recommendation": "We recommended that, henceforth, Management prioritize the\nimplementation of projects with funds received from the national government\nagencies having validity period for the benefit of its constituents, particularly to\naddress unemployment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-OBS14",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-OBS15",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended that Management\ndirect the Bids and Awards (BAC)\nCommittee to procure only from eligible\nsuppliers. Ensure full observance of the\nprovision of RA 9184 and its IRR.",
+      "managementAction": "Eligibility\nAAR screenings were\nconducted to check\nwhether the\nsuppliers possess the\nlegal and technical\nrequirements.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended that Management\nensure that all utilization of funds\ntransferred from source agencies be\ncovered with Memorandum of\nAgreement(MOA)/ Trust Agreement.\nHenceforth, ensure strict compliance with\nthe requirements of COA Circular No.\n2012-001 and other pertinent regulations.",
+      "managementAction": "The MOA and other\nrequired supporting\ndocuments were\nsubmitted on\nJanuary 30, 2019.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended that management stop\nthe charging of Municipal expenditures to\nthe Special Education Fund. Ensure that\nfuture charges to the SEF are in\ncompliance with Section 4 of\nDILG/DEPED/DBM Joint Circular No. 1\nseries of 2017.",
+      "managementAction": "Administrative\nexpenses were no\nlonger charged to\nSEF.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended that Management\nagreed to strictly observe the provisions\nof PPSAS 1 Paragraphs 70 and 71 and\nreclassify the account to reflect only the\nprincipal amount due for CY 2018 as\ncurrent liability and the remaining portion\nto long-term liability.",
+      "managementAction": "The current portion of\nthe long-term loans\npayable account were\npresented under a\nseparate caption.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended that the management\nexert extra effort for the\ncollection/replenishment of the taxes\nremitted but not withheld. Instruct the\nMunicipal Accountant to monitor/control\nwithholding and remittances of taxes to\navoid the incurrence of the same\nincidence in future disbursements.",
+      "managementAction": "The account was\nalready replenished.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-PY6",
+      "year": 2019,
+      "recommendation": "- Exert efforts and exhaust all measures to\nrequire the contractor to complete the\nproject;\n- Imposed liquidated damages equal to one\ntenth of one percent of the cost of the\nunperformed portion of the works for\nevery day of delay, which shall be\ndeducted from any money due or which\nmay become due the contractor under the\ncontract and/or collect such liquidated\ndamages from the retention money or other\nsecurities posted by the contractor\nwhichever is convenient to the\nMunicipality of Larena;\n- Required the project engineer to comply\nwith the necessary requirements prior to\nthe start of any project to avoid delays in\nits implementation; and\n- Ensure that future projects be\nimplemented in accordance with the\npurposes they were proposed for thru\nproper supervision by the project\ncoordinator and that provisions of the\nagreement should be adhered to.",
+      "managementAction": "The project was\ncompleted on July\n31, 2019.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal\nMayor require the Inventory Committee to\ncomplete the conduct of physical count of\ninventories and properties and to\nreconcile results thereof with accounting\nrecords. Direct the Municipal Accountant\nand the Acting Treasurer to observe proper\nprocedures on the preparation, recording\nand updating of Subsidiary Ledgers/Property\nLedger Cards and Property Cards for PPEs\nin accordance with NGAS for LGUs.",
+      "managementAction": "The inventory report of\nAgricultural Produce for\nDistribution was\nsubmitted. However,\nthere was a difference\nof P80,875.00 as\ncompared with the\naccounting records.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Lack of complete\nrecords of inventory\nitems, time constraint\nand limited manpower\nas the Assistant\nMunicipal Treasurer is\nalso the Acting\nMunicipal Treasurer\nand Supplier Officer.\n\nThe balance of\nmovable properties had\nincreased to\nP17,290,300.25 as\ncompared with the\nprior year’s balance of\nP11,539,797.30.\n\n(This is reiterated in\nPart II of this report.)"
+    },
+    {
+      "id": "Larena_Siquijor-2019-PY8",
+      "year": 2019,
+      "recommendation": "Explain the basis in engaging the services\nof the Event Organizer and henceforth,\nconduct a thorough market survey before\nany negotiated procurement to ensure that\nservices procured answers the needs of the\nactivity and in the most beneficial cost to\nthe government.",
+      "managementAction": "Explanations/ Justifications\nwere submitted.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Failed to prove that a\nmarket study was\nconducted neither did\nthey show that\nprocurement was done\nat a cost most\nbeneficial to the\ngovernment."
+    },
+    {
+      "id": "Larena_Siquijor-2019-PY9",
+      "year": 2019,
+      "recommendation": "Directed the MENRO-Designate to initiate\nconcrete steps to convert the current\ndumping site in compliance with the\nminimum considerations provided under\nSection 39 of R.A. 9003. Further, request\nthe Sangguniang Bayan to allocate funds\nfor the establishment of a sanitary landfill\nin compliance with Section 40 and 41 of\nthe same Republic Act.",
+      "managementAction": "Wastes were already\ncovered with\naggregates.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The dump site was not\nfully secured with a\nfence."
+    },
+    {
+      "id": "Larena_Siquijor-2019-PY10",
+      "year": 2019,
+      "recommendation": "Directed those who receive the PEI to\nrefund the amount of P9,045.83 each, the\npayment of which is not legally due to\nthem, the PS limitation provided under\nSection 325(a) of R.A. 7160, having been\nnot observed by the municipality.\nHenceforth, strictly observe the fifty-five\n(55%) limitation on personal services to\nprevent disallowance in audit.",
+      "managementAction": "Refunds were made on\ninstallment basis\nthrough payroll\ndeduction.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2019-PY11",
+      "year": 2019,
+      "recommendation": "Required the Municipal Treasurer to send\nletters of collections to some debtors who\nare still in service or still alive. Make\nrepresentations to the COA through the\nSangguniang Bayan for possible writing-\noff of those accounts which could no\nlonger be collected or of doubtful\ncollectability.",
+      "managementAction": "Request for write-off was\nalready submitted.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Management could not\npresent proof that the\nRequest for Write-Off\nwas indeed submitted."
+    },
+    {
+      "id": "Larena_Siquijor-2019-PY12",
+      "year": 2019,
+      "recommendation": "Cause the immediate refund of the amount\nof P140,000.00 paid to all appointed\nofficials/employees of the Municipality\nconsidering that the disbursement of funds\nwas devoid of any legal basis.",
+      "managementAction": "Refunds were made on\ninstallment basis thru\npayroll deduction.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2018-PY13",
+      "year": 2018,
+      "recommendation": "Hasten the completion of physical inventory of all the properties of the municipality to establish the actual existence of these assets as basis for the Municipal Accountant to reconcile its records and to effect the necessary adjustments in the books, and to submit the inventory report to COA as soon as possible.",
+      "managementAction": "No action initiated by management.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Physical inventory have been initiated though it remained unfinished."
+    },
+    {
+      "id": "Larena_Siquijor-2018-PY14",
+      "year": 2018,
+      "recommendation": "Explain and submit the legal basis of charging such expense items in the SEF budget. Henceforth, ensure that only those priority expense items as enumerated under Section 4.0 of DEPED/DBM/DILG JMC No. 1 series of 2017 are charged to SEF appropriation.",
+      "managementAction": "No action initiated by Management.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management was reminded of the provision of the DepEd/DBM/DILG JMC No. 1 specifically Section 7.0- delving on Issues for Resolution which should be referred to the DepEd Central Office for resolution."
+    },
+    {
+      "id": "Larena_Siquijor-2018-PY15",
+      "year": 2018,
+      "recommendation": "Cause the immediate refund of the amount of P140,000.00 paid to all appointed officials/employees of the Municipality considering that the disbursement of funds was devoid of any legal basis.",
+      "managementAction": "No action initiated by Management.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "ND No. 2018-001 dated September 27, 2018 was issued on this regard and received by management on October 29, 2018. To date no appeal memorandum was submitted."
+    },
+    {
+      "id": "Larena_Siquijor-2018-PY16",
+      "year": 2018,
+      "recommendation": "Instruct the GAD Focal Person to initiate activities for the establishment of a local GAD code based on the gender issues and concerns in their respective localities identified through consultation with women constituents and coordinate with the Department of Interior and Local Government (DILG) and Philippine Commission on Women (PCW) in the formulation and development of said Code. Make representation with the local law-making body for the eventual passage and approval of the Local GAD Code.",
+      "managementAction": "Management is now in the process of coordinating with the Sangguniang Bayan of Larena for the formulation of the GAD code.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The local legislative has not yet."
+    },
+    {
+      "id": "Larena_Siquijor-2018-PY17",
+      "year": 2018,
+      "recommendation": "Consider transferring the deposits maintained with First Consolidated Bank to an authorized government depository banks, to eliminate exposure of government funds from certain risks particularly on insolvency and bank closure.",
+      "managementAction": "Although during the exit conference, the Municipal Mayor agreed to transfer deposits held at FCB to LBP, such was not yet done since there are still unsettled loans of municipal employees.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Verification of BRS of the municipality as at year-end disclosed the continued existence of the FCB account."
+    },
+    {
+      "id": "Larena_Siquijor-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the Inventory Committee to\ncomplete the conduct of physical count of inventories and properties and to\nreconcile results thereof with accounting records. Direct the Municipal Accountant\nand the Acting Treasurer to observe proper procedures on the preparation,\nrecording and updating of Subsidiary Ledgers/Property Ledger Cards and Property\nCards for PPEs in accordance with NGAS for LGUs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We recommended that Management direct the Bids and Awards (BAC) Committee\nto procure only from eligible suppliers. Ensure full observance of the provision of\nRA 9184 and its IRR.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended that Management ensure that all utilization of funds transferred\nfrom source agencies be covered with Memorandum of Agreement(MOA)/ Trust\nAgreement. Henceforth, ensure strict compliance with the requirements of COA\nCircular No. 2012-001 and other pertinent regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor direct the Local Disaster Risk\nReduction and Management Officer to submit the Report on Sources and\nUtilization of Local Disaster Risk Reduction and Management Fund (LDRRMF) on\nor before the 15th day after the end of each month in compliance with COA Circular\nNo. 2012-002 for proper evaluation and monitoring.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We recommended that management stop the charging of Municipal expenditures to\nthe Special Education Fund. Ensure that future charges to the SEF are in\ncompliance with Section 4 of DILG/DEPED/DBM Joint Circular No. 1 series of\n2017.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We recommend that Management agreed to strictly observe the provisions of\nPPSAS 1 Paragraphs 70 and 71 and reclassify the account to reflect only the\nprincipal amount due for CY 2018 as current liability and the remaining portion to\nlong-term liability.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2018-OBS7",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the concerned LGU officials to\nsubmit within the reglementary period approved copy of the GAD plan and Budget\nand ensure that the annual accomplishment report were submitted on time.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2018-OBS8",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to\nmake the appropriate changes in the recording of expenses to come up with reliable\nfinancial statements for economic enterprise. Ensure compliance with the provisions\nof Section 313 of RA 7160 and Section 3.2 of LBC 100 for future transactions of the\nsame nature.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2018-OBS9",
+      "year": 2018,
+      "recommendation": "We recommended that the management exert extra effort for the\ncollection/replenishment of the taxes remitted but not withheld. Instruct the\nMunicipal Accountant to monitor/control withholding and remittances of taxes to\navoid the incurrence of the same incidence in future disbursements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2018-PY1",
+      "year": 2018,
+      "recommendation": "Submit the legal basis in charging the expenses against the 20% development fund and henceforth stop the practice of programming/charging expenditures which are not development projects against the 20% development fund and instead strictly implement developmental projects identified under the DILG/DBM JMC No. 2017-001.",
+      "managementAction": "The practice of charging administrative expenses for the maintenance of administrative buildings/ programs/projects funded under the 20% Development Fund was already stopped.",
+      "status": "IMPLEMENTED",
+      "reason": "Verification of expenditures charged to the 20% Development Fund confirmed no charging for administrative expenses."
+    },
+    {
+      "id": "Larena_Siquijor-2018-PY2",
+      "year": 2018,
+      "recommendation": "Submit the legal basis of charging administrative expenses to LDRRM funds and henceforth, strictly observe the provisions of JMC 2013-01 dated March 25, 2013 in the use of the 70%LDRRMF. Prioritize expenses items which are for disaster preparedness, mitigation, response, rehabilitation and recovery.",
+      "managementAction": "Expenses not chargeable to the LDRRMF were accommodated under the General Fund.",
+      "status": "IMPLEMENTED",
+      "reason": "Validation of LDRRMF utilization confirmed were no longer charged to the calamity fund."
+    },
+    {
+      "id": "Larena_Siquijor-2018-PY3",
+      "year": 2018,
+      "recommendation": "Submit the legal basis of charging the expenses in the Solid Waste Management Program and henceforth, stop the practice of programming/charging expenditures which are not for environmental managements against the Solid Waste Management-20% development fund and instead strictly implement environmental projects identified under the DILG/DBM JMC No. 2017-001.",
+      "managementAction": "Administrative expenses programmed were no longer charged to the Solid Waste Management-20% Development Fund.",
+      "status": "IMPLEMENTED",
+      "reason": "Verification of expenditures charged to the Solid Waste Management under the 20% Development Fund confirmed no charging for administrative expenses."
+    },
+    {
+      "id": "Larena_Siquijor-2018-PY4",
+      "year": 2018,
+      "recommendation": "Comply strictly with Section 15 of Republic Act No. 9344 specifically in the inclusion of the youth representative in the composition of the MCPC to ensure that youth sensitive issues were addressed in the formulation of policies and prioritized in the plans/programs and activities.",
+      "managementAction": "A representative from the youth sector was included in the MCPC.",
+      "status": "IMPLEMENTED",
+      "reason": "A youth leader from an identified youth group was included in the MCPC."
+    },
+    {
+      "id": "Larena_Siquijor-2018-PY5",
+      "year": 2018,
+      "recommendation": "Direct the Municipal Accountant to coordinate with the MPDC and Municipal Budget Officer to ensure that enough funds were appropriated for loan repayments. Reconcile the balance of Loans Payable per books with that of the Department of Finance to ensure that all transactions pertaining to interest payments and amortizations of principal are properly recorded in the books. Verify any discrepancy between amount billed and amount payable per amortization schedule and ensure that amount due is paid in full.",
+      "managementAction": "The payment for loan amortization and interest payable were made in accordance with the payment schedule.",
+      "status": "IMPLEMENTED",
+      "reason": "Verification of loans payable repayments confirmed no payment for penalties and surcharges."
+    },
+    {
+      "id": "Larena_Siquijor-2018-PY6",
+      "year": 2018,
+      "recommendation": "Explain on the basis of hiring JOs beyond six (6) months. Henceforth, specify in the contract of job orders the duties and responsibilities of the JOs and the period of employment shall not exceed six (6) months to ensure compliance with the provisions of CSC-MC 40 series of 2007.",
+      "managementAction": "The contract duration for employment of job orders were lower than six (6) months.",
+      "status": "IMPLEMENTED",
+      "reason": "Post-audit of labor payroll contract for job order showed that its duration were all less than six (6) months."
+    },
+    {
+      "id": "Larena_Siquijor-2018-PY7",
+      "year": 2018,
+      "recommendation": "Furnish the Audit Team with the copies of Memorandum of Agreement (MOA)/ Trust Agreement and the necessary documents enumerated in the NS issued within the period stipulated. Henceforth, ensure strict compliance with the requirements of COA Circular No. 2012-001 and other pertinent regulations.",
+      "managementAction": "The required documents were already submitted to the Office of the Auditor. An NSSDC shall soon be issued.",
+      "status": "IMPLEMENTED",
+      "reason": "Documents submitted were for further review by the Auditor."
+    },
+    {
+      "id": "Larena_Siquijor-2018-PY8",
+      "year": 2018,
+      "recommendation": "Explain the basis in engaging the services of the Event Organizer and henceforth, conduct a thorough market survey before any negotiated procurement to ensure that services procured answers the needs of the activity and in the most beneficial cost to the government.",
+      "managementAction": "The required documents were already submitted.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Documents submitted were for further review by the Auditor."
+    },
+    {
+      "id": "Larena_Siquijor-2018-PY9",
+      "year": 2018,
+      "recommendation": "Direct the MENRO-Designate to initiate concrete steps to convert the current dumping site in compliance with the minimum considerations provided under Section 39 of R.A. 9003. Further, request the Sangguniang Bayan to allocate funds for the establishment of a sanitary landfill in compliance with Section 40 and 41 of the same Republic Act.",
+      "managementAction": "Wastes were already covered with aggregates.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Inspection showed not all of the minimum considerations were in placed in the controlled dump site."
+    },
+    {
+      "id": "Larena_Siquijor-2018-PY10",
+      "year": 2018,
+      "recommendation": "Exert efforts and exhaust all measures to require the contractor to complete the project. Impose liquidated damages equal to one tenth of one percent of the cost of the unperformed portion of the works for every day of delay, which shall be deducted from any money due or which may become due the contractor under the contract and/or collect such liquidated damages from the retention money or other securities posted by the contractor whichever is convenient to the Municipality of Larena. Require the project engineer to comply with the necessary requirements prior to the start of any project to avoid delays in its implementation. Ensure that future projects be implemented in accordance with the purposes they were proposed for thru proper supervision by the project coordinator and that provisions of the agreement should be adhered to.",
+      "managementAction": "Liquidated damages was collected from the contractor.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The quarterly report of publicized project showed that a minimal portion of the contract remained unfinished."
+    },
+    {
+      "id": "Larena_Siquijor-2018-PY11",
+      "year": 2018,
+      "recommendation": "Direct those who receive the PEI to refund the amount of P9,045.83 each, the payment of which is not legally due to them, the PS limitation provided under Section 325(a) of R.A. 7160, having been not observed by the municipality. Henceforth, strictly observe the fifty-five (55%) limitation on personal services to prevent disallowance in audit.",
+      "managementAction": "Repayments were collected through payroll deduction.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Though some of these personnel have already paid their share of the disallowance, an NSSDC still cannot be issued for the partial settlement."
+    },
+    {
+      "id": "Larena_Siquijor-2018-PY12",
+      "year": 2018,
+      "recommendation": "Require the Municipal Treasurer to send letters of collections to some debtors who are still in service or still alive. Make representations to the COA through the Sangguniang Bayan for possible writing-off of those accounts which could no longer be collected or of doubtful collectability.",
+      "managementAction": "Request for write-off has been submitted of which no reply was received to date.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Management failed to present proof of receipt of the alleged Request for Write-Off hence, a date."
+    },
+    {
+      "id": "Larena_Siquijor-2017-PY11",
+      "year": 2017,
+      "recommendation": "Instruct the GAD Focal Person to initiate activities for the establishment of a local GAD code based on the gender issues and concerns in their respective localities identified through consultation with women constituents and coordinate with the Department of Interior and Local Government (DILG) and Philippine Commission on Women (PCW) in the formulation and development of said Code. Make representation with the local law-making body for the eventual passage and approval of the Local GAD Code.",
+      "managementAction": "Management is now in the process of coordinating with the Sangguniang Bayan of Larena for the formulation of the GAD code.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The local legislative has not yet."
+    },
+    {
+      "id": "Larena_Siquijor-2017-PY12",
+      "year": 2017,
+      "recommendation": "Consider transfering the deposits maintained with First Consolidated Bank to an authorized government depository banks, to eliminate exposure of government funds from certain risks particularly on insolvency and bank closure.",
+      "managementAction": "Although during the exit conference, the Municipal Mayor agreed to transfer deposits held at FCB to LBP, such was not yet done since there are still unsettled loans of municipal employees.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Verification of BRS of the municipality as at year-end disclosed the continued existence of the FCB account."
+    },
+    {
+      "id": "Larena_Siquijor-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommend that Management hasten the completion of physical inventory of all\nthe properties of the municipality to establish the actual existence of these assets as\nbasis for the Municipal Accountant to reconcile its records and to effect the\nnecessary adjustments in the books, and to submit the inventory report to COA as\nsoon as possible.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommend that Management submit the legal basis in charging the expenses\nagainst the 20% development fund and henceforth stop the practice of\nprogramming/charging expenditures which are not development projects against\nthe 20% development fund and instead strictly implement developmental projects\nidentified under the DILG/DBM JMC No. 2017-001.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recommend that Management submit the legal basis of charging administrative\nexpenses to LDRRM funds and henceforth, strictly observe the provisions of JMC\n2013-01 dated March 25, 2013 in the use of the 70%LDRRMF. Prioritize expenses\nitems which are for disaster preparedness, mitigation, response, rehabilitation and\nrecovery.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We recommend that Management submit the legal basis of charging the expenses in\nthe Solid Waste Management Program and henceforth, stop the practice of\nprogramming/charging expenditures which are not for environmental managements\nagainst the Solid Waste Management-20% development fund and instead strictly\nimplement environmental projects identified under the DILG/DBM JMC No. 2017-\n001.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommend that the Local School Board explain and submit the legal basis of\ncharging such expense items in the SEF budget. Henceforth, ensure that only those\npriority expense items as enumerated under Section 4.0 of DEPED/DBM/DILG\nJMC No. 1 series of 2017 are charged to SEF appropriation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We recommend that Management strictly comply with Section 15 of Republic Act\nNo. 9344 specifically in the inclusion of the youth representative in the composition\nof the MCPC to ensure that youth sensitive issues were addressed in the formulation\nof policies and prioritized in the plans/programs and activities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2017-OBS7",
+      "year": 2017,
+      "recommendation": "We recommend that the Mayor direct the Municipal Accountant to coordinate with\nthe MPDC and Municipal Budget Officer to ensure that enough funds were\nappropriated for loan repayments. Reconcile the balance of Loans Payable per\nbooks with that of the Department of Finance to ensure that all transactions\npertaining to interest payments and amortizations of principal are properly\nrecorded in the books. Verify any discrepancy between amount billed and amount\npayable per amortization schedule and ensure that amount due is paid in full.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2017-OBS8",
+      "year": 2017,
+      "recommendation": "We recommend that Management furnish the Audit Team with the copies of\nMemorandum of Agreement (MOA)/ Trust Agreement and the necessary\ndocuments enumerated in the NS issued within the period stipulated. Henceforth,\nensure strict compliance with the requirements of COA Circular No. 2012-001 and\nother pertinent regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2017-OBS9",
+      "year": 2017,
+      "recommendation": "We recommend that Management explain the basis in engaging the services of the\nEvent Organizer and henceforth, conduct a thorough market survey before any\nnegotiated procurement to ensure that services procured answers the needs of the\nactivity and in the most beneficial cost to the government.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2017-OBS10",
+      "year": 2017,
+      "recommendation": "We recommended that Management cause the immediate refund of the amount of\nP140,000.00 paid to all appointed officials/employees of the Municipality\nconsidering that the disbursement of funds was devoid of any legal basis.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2017-OBS11",
+      "year": 2017,
+      "recommendation": "We recommend that Management explain on the basis of hiring JOs beyond six (6)\nmonths. Henceforth, specify in the contract of job orders the duties and\nresponsibilities of the JOs and the period of employment shall not exceed six (6)\nmonths to ensure compliance with the provisions of CSC-MC 40 series of 2007.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2017-OBS12",
+      "year": 2017,
+      "recommendation": "We recommend that the Assistant Municipal Treasurer-ICO remit the taxes\nwithheld on purchases of goods and services to the BIR within ten (10) days after at\nthe end of each month as prescribed under the BIR regulation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2017-PY1",
+      "year": 2017,
+      "recommendation": "Submit the Local Disaster Risk Reduction and Management Fund Investment Plan (LDRRMFIP) and coordinate with the Municipal Accountant for the preparation of the Report on the Sources and Utilization of the DRRM Fund for submission to the COA Auditor within the prescribed period for proper monitoring and audit.",
+      "managementAction": "The reports were submitted by the LDRRMO.",
+      "status": "IMPLEMENTED",
+      "reason": "LDRRMFIP for CY 2017 was duly received by the Audit Team."
+    },
+    {
+      "id": "Larena_Siquijor-2017-PY2",
+      "year": 2017,
+      "recommendation": "Instruct the Accounting Department to follow the provision on the monthly Net Take Home Pay of all regular employees to P3,000.00 and the preferences of deductions when the amount is below the required amount set in the General Appropriations Act of FY 2015.",
+      "managementAction": "Minimum statutory net pay are now imposed.",
+      "status": "IMPLEMENTED",
+      "reason": "Post-audit of payrolls showed that minimum statutory net pays were imposed."
+    },
+    {
+      "id": "Larena_Siquijor-2017-PY3",
+      "year": 2017,
+      "recommendation": "Return the fund balance of the Disbursement Acceleration Program (DAP) which remained in the municipality’s coffers to the Bureau of the Treasury pursuant to the Supreme Court declaration of its unconstitutionality.",
+      "managementAction": "The unutilized portion of the DAP was remitted to the Bureau of Treasury on April 6, 2016.",
+      "status": "IMPLEMENTED",
+      "reason": "Post-audit of deposits showed that the balance of DAP fund was already remitted/deposited to the Bureau of Treasury account."
+    },
+    {
+      "id": "Larena_Siquijor-2017-PY4",
+      "year": 2017,
+      "recommendation": "Enjoin the Chairman of the Local GAD Council to observe and comply with the provisions of Executive Order No. 273 and DBM/NEDA/NCRFW Joint Circular No. 2004-1.\nEnsure that sufficient funds are provided for the programmed activities by including in the annual budget the 5% appropriation for Gender and Development.\nCause the implementation of GAD Programs for the materialization of the same which are geared towards the attainment of goals and objectives as mandated by that Executive Order.",
+      "managementAction": "GAD related projects were already incorporated in the appropriations of the LGUs different departments.",
+      "status": "IMPLEMENTED",
+      "reason": "Although there was no specific provision in the budget to comply with statutory requirement for GAD, projects to address gender issues were incorporated in the appropriation of the Municipality."
+    },
+    {
+      "id": "Larena_Siquijor-2017-PY5",
+      "year": 2017,
+      "recommendation": "Instruct the Accountant to stop the practice of recording as outright expense aid to the Department of Education, instead record them as cash advances subject to liquidation. Require the submission of fund utilization report/liquidation reports with complete supporting documents evidencing accomplishment of the purpose for which the aid was given.",
+      "managementAction": "Disbursements for various activities charged to SEF are now taken up as cash advances and subject for liquidation.",
+      "status": "IMPLEMENTED",
+      "reason": "A NSSDC was issued to take up the settlement of the NS issued on this regard."
+    },
+    {
+      "id": "Larena_Siquijor-2017-PY6",
+      "year": 2017,
+      "recommendation": "Require the Inventory Committee to conduct and complete the physical count of property, plant and equipment annually and submit a report thereon. Consequently, reconcile the results of the physical count with the balances as recorded in the books of accounts.",
+      "managementAction": "Inventory Report was submitted and stamped received on February 28, 2017.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Physical invenotry on PPE was conducted and an inventory report was submitted. However, there were items wherein the results of the physical count and the balances as recorded in the books remained unreconciled. (Reiterated in Part II of this Report)"
+    },
+    {
+      "id": "Larena_Siquijor-2017-PY7",
+      "year": 2017,
+      "recommendation": "Direct the MENRO-Designate to initiate concrete steps to convert the current dumping site in compliance with the minimum considerations provided under Section 39 of R.A. 9003. Further, request the Sangguniang Bayan to allocate funds for the establishment of a sanitary landfill in compliance with Section 40 and 41 of the same Republic Act.",
+      "managementAction": "Rental of heavy equipment was initiated to cover accumulated wastes with aggregates.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "A minimal portion of the dump site was covered with aggregates."
+    },
+    {
+      "id": "Larena_Siquijor-2017-PY8",
+      "year": 2017,
+      "recommendation": "Exert efforts and exhaust all measures to require the contractor to complete the project.\nImpose liquidated damages equal to one tenth of one percent of the cost of the unperformed portion of the works for every day of delay, which shall be deducted from any money due or which may become due the contractor under the contract and/or collect such liquidated damages from the retention money or other securities posted by the contractor whichever is convenient to the Municipality of Larena.\nRequire the project engineer to comply with the necessary requirements prior to the start of any project to avoid delays in its implementation.\nEnsure that future projects be implemented in accordance with the purposes they were proposed for thru proper supervision by the project coordinator and that provisions of the agreement should be adhered to.",
+      "managementAction": "Liquidated damages was collected from the contractor.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Accomplishment to date is 99.15%. Imposition of liquidated damages was done."
+    },
+    {
+      "id": "Larena_Siquijor-2017-PY9",
+      "year": 2017,
+      "recommendation": "Direct those who receive the PEI to refund the amount of P9,045.83 each, the payment of which is not legally due to them, the PS limitation provided under Section 325(a) of R.A. 7160, having been not observed by the municipality. Henceforth, strictly observe the fifty-five (55%) limitation on personal services to prevent disallowance in audit.",
+      "managementAction": "Repayments were collected through payroll deduction.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Post-audit of payroll confirmed deduction of said disallowance however, limited paying capacity of persons liable hindered the outright collection of the full refund."
+    },
+    {
+      "id": "Larena_Siquijor-2017-PY10",
+      "year": 2017,
+      "recommendation": "Require the Municipal Treasurer to send letters of collections to some debtors who are still in service or still alive. Make representations to the COA through the Sangguniang Bayan for possible writing-off of those accounts which could no longer be collected or of doubtful collectability.",
+      "managementAction": "Request for write-off has been submitted of which no reply was received to date.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Management failed to present proof of receipt of the alleged Request for Write-Off hence, a copy of COA Circular 2016-005 re: write off of dormant accounts was given to management for guidance."
+    },
+    {
+      "id": "Larena_Siquijor-2016-PY12",
+      "year": 2016,
+      "recommendation": "Consider transfering the deposits maintained with First Consolidated Bank to an authorized government depository banks, to eliminate exposure of government funds from certain risks particularly on insolvency and bank closure.",
+      "managementAction": "Although during the exit conference the Municipal Mayor agreed to transfer deposits held at FCB to the LBP, such was not yet done since there are still unsettled loans of municipal employees.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Verification of BRS of the municipality as at year-end disclosed the existence of FCB account."
+    },
+    {
+      "id": "Larena_Siquijor-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We recommend that management enjoin the Assistant Municipal Treasurer-ICO to\ncoordinate with the Sanggunian to set aside municipal funds to defray expenses in\nthe processing and issuance of Certificate of Title. He should also require that\nissuances of equipment be supported with Acknowledgment Receipt of Equipment\nand to update the same to identify the persons presently accountable for the\nequipment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We recommend that Management submit any document that would support the\nprocess involved in the selection of the Principality, Inc. as required under COA\nCircular No. 92-386 dated October 20, 1992 and the determination of the rental\nrate.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommend that the Municipal Mayor direct the Municipal Engineer to see to it\nthat projects are implemented within the target date of completion to ensure that\nconstituents are provided with the infrastructure facilities at the earliest time.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We recommend that Management require the deduction of the amount of\nP566,747.17 from the contractor’s claim if these items are not applied on the\nproject.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommend that Management require the Municipal Accountant for the\nappropriate charging of liquidated damage. Henceforth, we recommend that the\nMunicipal Engineer closely monitor the completion of the different projects\nimplemented.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommend that the Municipal Accountant/Engineer ensure that the amount of\nretention money deducted from progress billings of infrastructure projects are in\naccordance with the provisions of Item 6.1 of Annex “E” of the Revised IRR of RA\n9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We recommend that Management submit all the required documents as enumerated\nin the Notice of Suspension. Henceforth, strict compliance of the provisions of R.A.\n9184 and its IRR is recommended for future disbursement of the same nature.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We recommend that the Municipality refrain from paying transactions thru\nreimbursement basis pursuant to Section 93 of Presidential Decree No. 1445 and\nCOA Circular No. 97-002 dated February 10, 1997, in order not to circumvent the\nprocurement process.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2016-OBS9",
+      "year": 2016,
+      "recommendation": "Require the Municipal Budget Officer to sign box “B” of the Obligation Request to\nattest the availability of appropriation for all disbursements charged to Special\nEducation Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Larena_Siquijor-2016-PY1",
+      "year": 2016,
+      "recommendation": "Require the Inventory Committee to conduct and complete the physical count of property, plant and equipment annually and submit a report thereon. Consequently, reconcile the results of the physical count with the balances as recorded in the books of accounts.",
+      "managementAction": "Inventory Report was submitted and stamped received on February 28, 2017.",
+      "status": "IMPLEMENTED",
+      "reason": "Movable properties were not supported with updated ARE and municipal lots were not supported with Certificate of Titles."
+    },
+    {
+      "id": "Larena_Siquijor-2016-PY2",
+      "year": 2016,
+      "recommendation": "Submit the Local Disaster Risk Reduction and Management Fund Investment Plan (LDRRMFIP) and coordinate with the Municipal Accountant for the preparation of the Report on the Sources and Utilization of the DRRM Fund for submission to the COA Auditor within the prescribed period for proper monitoring and audit.",
+      "managementAction": "The reports were submitted by the LDRRMO.",
+      "status": "IMPLEMENTED",
+      "reason": "LDRRMFIP for CY 2017 was duly received by the Audit Team."
+    },
+    {
+      "id": "Larena_Siquijor-2016-PY3",
+      "year": 2016,
+      "recommendation": "Instruct the Accounting Department to follow the provision on the monthly Net Take Home Pay of all regular employees to P3,000.00 and the preferences of deductions when the amount is below the required amount set in the General Appropriations Act of FY 2015.",
+      "managementAction": "Minimum statutory net pay are now imposed.",
+      "status": "IMPLEMENTED",
+      "reason": "Post-audit of payrolls showed that minimum statutory net pays were imposed."
+    },
+    {
+      "id": "Larena_Siquijor-2016-PY4",
+      "year": 2016,
+      "recommendation": "Return the fund balance of the Disbursement Acceleration Progam (DAP) which remained in the municipality’s coffers to the Bureau of the Treasury pursuant to the Supreme Court declaration of its unconstitutionality.",
+      "managementAction": "The unutilized portion of the DAP was remitted to the Bureau of Treasury on April 6, 2016.",
+      "status": "IMPLEMENTED",
+      "reason": "Post-audit of deposits showed that the balance of DAP fund were already remitted/deposited to the Bureau of Treasury account."
+    },
+    {
+      "id": "Larena_Siquijor-2016-PY5",
+      "year": 2016,
+      "recommendation": "Direct the MENRO-Designate to initiate concrete steps to convert the current dumping site in compliance with the minimum considerations provided under Section 39 of R.A. 9003. Further, request the Sangguniang Bayan to allocate funds for the establishment of a sanitary landfill in compliance with Section 40 and 41 of the same Republic Act.",
+      "managementAction": "Rental of heavy equipment was initiated to cover accumulated wastes with aggregates.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "A minimal portion of the dump site was covered with aggregates."
+    },
+    {
+      "id": "Larena_Siquijor-2016-PY6",
+      "year": 2016,
+      "recommendation": "Instruct the GAD Focal Person to initiate activities for the establishment of a local GAD code based on the gender issues and concerns in their respective localities identified through consultation with women constituents and coordinate with the Department of Interior and Local Government (DILG) and Philippine Commission on Women (PCW) in the formulation and development of said Code. Make representation with the local law-making body for the eventual passage and approval of the Local GAD Code. Ensure that sufficient funds are provided for the programmed activities by including in the annual budget the 5% appropriation for Gender and Development. Cause the implementation of GAD Programs for the materialization of the same which are geared towards the attainment of goals and objectives as mandated by that Executive Order.",
+      "managementAction": "Management is now in the process of coordinating with the Sangguniang Bayan of Larena for the formulation of GAD code.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The local legislative has not yet."
+    },
+    {
+      "id": "Larena_Siquijor-2016-PY7",
+      "year": 2016,
+      "recommendation": "Instruct the Accountant to stop the practice of recording as outright expense aid to the Department of Education, instead record them as cash advances subject to liquidation. Require the submission of fund utilization report/liquidation reports with complete supporting documents evidencing accomplishment of the purpose for which the aid was given.",
+      "managementAction": "Disbursements for aid to various activities charged to SEF are now taken up as cash advances and subject for liquidation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "A NSSDC was issued to take up the settlement of the NS issued on this regard."
+    },
+    {
+      "id": "Larena_Siquijor-2016-PY8",
+      "year": 2016,
+      "recommendation": "Enjoin the Chairman of the Local GAD Council to observe and comply with the provisions of Executive Order No. 273 and DBM/NEDA/NCRFW Joint Circular No. 2004-1. Ensure that sufficient funds are provided for the programmed activities by including in the annual budget the 5% appropriation for Gender and Development. Cause the implementation of GAD Programs for the materialization of the same which are geared towards the attainment of goals and objectives as mandated by that Executive Order.",
+      "managementAction": "GAD related projects were already incorporated in different departments of the Municipality.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Although there was no specific provision in the LGUs budget to comply with the statutory requirement for GAD, projects to address gender issues were incorporated in the appropriation of the different departments."
+    },
+    {
+      "id": "Larena_Siquijor-2016-PY9",
+      "year": 2016,
+      "recommendation": "Exert efforts and exhaust all measures to require the contractor to complete the project. Impose liquidated damages equal to one tenth of one percent of the cost of the unperformed portion of the works for every day of delay, which shall be deducted from any money due or which may become due the contractor under the contract and/or collect such liquidated damages from the retention money or other securities posted by the contractor whichever is convenient to the Municipality of Larena. Require the project engineer to comply with the necessary requirements prior to the start of any project to avoid delays in its implementation. Ensure that future projects be implemented in accordance with the purposes they were proposed for thru proper supervision by the project coordinator and that provisions of the agreement should be adhered to.",
+      "managementAction": "Liquidated damages was collected from the contractor.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Accomplishment to date is 99.15%. Imposition of liquidated damages was done."
+    },
+    {
+      "id": "Larena_Siquijor-2016-PY10",
+      "year": 2016,
+      "recommendation": "Direct those who receive the PEI to refund the amount of P9,045.83 each, the payment of which is not legally due to them, the PS limitation provided under Section 325(a) of R.A. 7160, having been not observed by the municipality. Henceforth, strictly observe the fifty-five (55%) limitation on personal services to prevent disallowance in audit.",
+      "managementAction": "Repayments were collected through payroll deduction.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Post-audit of payroll confirmed deduction of said disallowance however, limited paying capacity of the persons liable hinders the outright collection of the full refund."
+    },
+    {
+      "id": "Larena_Siquijor-2016-PY11",
+      "year": 2016,
+      "recommendation": "Require the Municipal Treasurer to send letters of collections to some debtors who are still in service or still alive. Make representations to the COA through the Sangguniang Bayan for possible writing-off of those accounts which could no longer be collected or of doubtful collectability.",
+      "managementAction": "Request for write-off has 2008 been submitted of which no reply was received to date.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Request for write-off has long been outstanding hence, a copy of COA Circular 2016-005 re: write off of dormant accounts was given to management."
+    }
+  ]
+}

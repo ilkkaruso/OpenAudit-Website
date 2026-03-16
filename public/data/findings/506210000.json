@@ -1,0 +1,1846 @@
+{
+  "lguCode": "506210000",
+  "lguName": "Juban",
+  "province": "Sorsogon",
+  "region": "Region IV-A (CALABARZON)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY1",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY3",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "Reiterated in Part II of this Report.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY4",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "Continued reconciliation between the MAO and MTO.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reconciliation is still in progress."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY5",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "On-going implementation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY9",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of Management action."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY10",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Current year balances are reconciled monthly but not for previous years. Lack of coordination with the BIR. No action taken by management. On-going reconciliation."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY11",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "Continuous reconciliation is being conducted by Management.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Balances were reconciled monthly for the current year but not for previous years."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY12",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "Continuous reconciliation is being conducted by Management.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Balances were reconciled monthly for the current year but not for previous years."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY13",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No Management actions."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY14",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "Ongoing verification.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY15",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in Part II of this Report."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY17",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Only an accrual was made instead of an actual transfer."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY19",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of Management action."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY20",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "Ongoing implementation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY21",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Ongoing implementation."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY22",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in Part II of this Report."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY23",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of Management action."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY25",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Ongoing implementation."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY27",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of Management action."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY28",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of Management initiatives."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-OBS1",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-OBS2",
+      "year": 2024,
+      "recommendation": "We reiterated our prior year’s recommendation and Management agreed to review the existing practices in conducting physical count of its PPE and maintaining property and accounting records to address the noted deficiencies.\nWe also recommended and the Local Chief Executive (LCE) agreed to:\nDirect the IC to conduct a proper and complete physical count of PPE and ensure that all PPE items are physically counted;\nDirect the MA and the MGSO to maintain complete and proper accounting and property records relative to PPE items; and\nRequire the concerned officers and employees responsible for completing the donation process for the remaining PPE items scheduled for donation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-OBS3",
+      "year": 2024,
+      "recommendation": "We reiterated our prior year’s recommendation and Management agreed to:\nDirect the MGSO to conduct physical count of all inventory items every semester and prepare the RPCI within the period prescribed by the Manual on NGAS for LGUs. Thereafter, require the MGSO and the MA to reconcile the RPCI and the accounting records for any variance;\nConsider allocating funds for the construction of storage facility for inventory items and require the MGSO to maintain the required SCs for each type of inventories, in compliance with the pertinent guidelines; and\nRequire the MA to review meticulously the SLCs prepared and maintained by the accounting office, ensuring that they contain all the necessary details required by the Manual on NGAS for LGUs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-OBS4",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to direct the MAO to:\nMake the necessary adjustments in the books to reflect the accurate balances of the AP and other affected accounts;\nEnsure that the effects of MGJ’s financial transactions are faithfully and accurately represented in the FS in compliance with IPSAS 1;\nAdhere strictly to the criteria provided by COA Circular No. 2015-009 and use the appropriate account titles when recording the Municipality’s financial transactions; and\nReview the items in the AP accounts with no details as to their nature to properly account them in the FS.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-OBS5",
+      "year": 2024,
+      "recommendation": "We recommended and the LCE agreed to instruct the MA to:\nVerify the validity of AP balances aged two years or more. If these obligations are found to be invalid or unclaimed, initiate the reversion of the outstanding AP amounts to the unappropriated surplus of the GF; and\nNotify the concerned suppliers and contractors in writing regarding their unclaimed accounts. Advise them that if no proper claim is made within a reasonable period, the amount will be reverted to the unappropriated surplus of the GF of the MGJ.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-OBS6",
+      "year": 2024,
+      "recommendation": "We reiterated our prior year’s recommendation and the LCE agreed to direct the:\nMA and the MT to prioritize the reconciliation of the remaining discrepancies, with particular focus on the remaining unrecorded book reconciling items in the GLs/SLs and proper maintenance of cashbooks to ensure proper cash monitoring and accurate presentation of balances in the FS; and\nMA to conduct a comprehensive investigation of the subsidiary records to locate details of the unaccounted debit and credit memos and prepare the necessary adjusting entries to correct the reconciling items. This process may involve sending a communication letter to the Authorized Government Depository Bank for confirmation of the details.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-OBS7",
+      "year": 2024,
+      "recommendation": "We recommended and the LCE agreed to instruct the MT and MA to continue the periodic and regular reconciliation of the Cash-Local Treasury account and equally prioritize the investigation of unreconciled prior period balances to ensure accurate reporting. Moreover, to immediately correct/adjust their respective records upon identification of errors during the reconciliation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-OBS8",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to:\nPrioritize filling vacant plantilla positions and, when necessary, utilize casual or emergency staff hiring practices in accordance with CSC guidelines and other relevant rule and regulations;\nUndertake a comprehensive study and analysis of the Municipality’s staffing pattern to develop a reliable HRP. Furthermore, strictly implementation of EO No. 39s series of 2023, or the internal policy for hiring JO/COS in the Municipality to provide clear guidelines and controls over the hiring of JO/COS personnel;\nReview the existing LGU policy on hiring JO personnel with particular focus on the possibilities that hiring such services does not rest solely in the recommendations of the agency head but also with the direct participation of the MHRMO for better system of check and balances; and\nRequire the MA and MHRMO to include the department head’s certification for offsetting days as part of the documentary requirements for claims by the JO personnel to avoid any suspension in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-OBS9",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to:\nEnsure strict adherence with COA Circular No. 2012-002 and other the relevant provisions in the preparation of LDRRMFIP. Moreover, to ensure that the planned PPAs for the year are detailed in the LDRRMFIP; and\nStrictly adhere to the guidelines set forth under NDRRMC-DBM-DILG JMC No. 2013-1 and other applicable laws, rules, and regulations governing the utilization of the LDRRMF.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-OBS10",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to ensure that the basic requirements for the extension of contract time are strictly complied with in accordance with Annex E of the Revised IRR of RA No. 9184 and that proper documentation is observed at all times to warrant the propriety of the transactions of the Municipality.\nWe also recommended and Management agreed to apply the calibrated actions as provided in GPPB Circular 03-2019, if necessary, to prevent delays in the implementation of infrastructure projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-OBS11",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to:\nMaintain adequate monitoring of project implementation in order to ensure that projects are completed within schedule and according to specifications; and\nCoordinate closely with the concerned contractors to ensure that issues are addressed and that milestones are met. Also, to enforce stricter demands, preferably in writing, whenever the contractors incur substantial negative slippage that may affect the period of completion of projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-OBS12",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-OBS13",
+      "year": 2024,
+      "recommendation": "We reiterated our prior year’s recommendation and the LCE agreed to:\nRequire the Human Resource and Management Officer (HRMO), MA and MT to conduct a thorough investigation of the identified disparity. This collaborative effort should involve coordinating with the BIR to ensure a seamless reconciliation process; and\nInstruct the MA to prepare necessary adjusting entries to reflect the correct amount of the Due to BIR account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-OBS14",
+      "year": 2024,
+      "recommendation": "We reiterated our prior year’s recommendation and the LCE agreed to:\nDirect the HRMO, MA, and MT to collaboratively conduct a thorough examination of the Due to PhilHealth account balances, focusing on the reasons behind prolonged outstanding amounts over multiple years;\nInstruct the MA to request confirmation of these balances from the relevant Government Owned and Controlled Corporation. Subsequently, if required, prepare any necessary adjusting entries; and\nMaintain and enhance the MGJ’s commendable efforts in accurately deducting and promptly remitting PhilHealth contributions in strict adherence to the established laws, rules, and regulations of the National Health Insurance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-OBS15",
+      "year": 2024,
+      "recommendation": "We reiterated our prior year’s recommendation and the LCE agreed to:\nDirect the HRMO, MA and the MT to conduct a thorough reconciliation between the amounts withheld or deducted and the amounts remitted, aiming to ascertain the accurate sums owed to GSIS/HDMF;\nInstruct the MA to request confirmation of these balances from the relevant GOCCs. Subsequently, if required, prepare any necessary adjusting entries; and\nInstruct the HRMO with enhancing the efficiency and accuracy of payroll preparation processes to ensure comprehensive inclusion of all employees in the remittance list as soon as their contributions and amortizations are deducted from their gross earnings.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-OBS16",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY2",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY6",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY7",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY8",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY16",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY18",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Lack of management initiative."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY24",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Ongoing implementation."
+    },
+    {
+      "id": "08-Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2024-PY26",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended that Management:\n\nDirect the MGSO to conduct a physical count of all inventory items semestrally and render a report thereon within the prescribed period;\n\nInstruct the Municipal Accountant to properly account for the acquisition and issuance of the supplies and materials inventory based on IPSAS 12, Inventories, and make the necessary adjustments to reflect the correct balance of the affected inventory and expense accounts; and\n\nRequire the MGSO and the Municipal Accountant to properly maintain and update the stock cards and SLCs, respectively, and reconcile their records regularly.",
+      "managementAction": "No Action taken by Management.\n\nNo Action taken by Management.\n\nNo Action taken by Management.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in Part II of this Report."
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-PY16",
+      "year": 2021,
+      "recommendation": "We recommended that Management require the LSB to prepare the LSB three-year program and the recommendation of the DepEd Public Schools District Supervisor (PSDS) and Schools Division Superintendent  (SDS) as well as the requiredSchool Improvement Plan(SIPs)andDivision Education Development Plan (DEDPs) and other information from DepEd RO, which supposedly were the bases for the preparation and approval by the LSB of the SEF Budget and furnish the Audit Team for reference and review purposes.  Henceforth, the LSB must strictly follow the mandated required processes and documents in planning and budgeting for SEF under the revised guidelines on the use of SEF pursuant to the above-mentioned JC.",
+      "managementAction": "Management/LSB to closely coordinate with the two School Districts of the Municipality.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Numerous changes in focal person during the year."
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-PY17",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Accountant conduct regular and periodic verification, analysis, and validation of the existence of the receivable accounts as required under Item No. 7 of COA Circular No. 2016-005. For those unsettled receivables supported with legal and valid documents, send demand letters to concerned agencies/association/personnel for them to settle immediately, while those account where settlement/collectability could no longer be ascertained, we recommended that Management follow the guidelines and procedures on the write-off of dormant receivable accounts as prescribed under COA Circular No. 2016-005.",
+      "managementAction": "Management will request authority to write-off dormant receivables after exhausting all efforts of collection.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Absence of supporting documents from previous years."
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-PY19",
+      "year": 2021,
+      "recommendation": "We recommended that Management dispose the unserviceable properties based on the most appropriate mode of disposal pursuant to the provisions of COA Circular No. 92-386.",
+      "managementAction": "No action taken by Management.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Sale of unserviceable properties will be conducted after appraisal."
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended and the Local Chief Executive (LCE) agreed to:\nRequire the MA and MGSO, with the assistance from the Municipal Engineering Office, to continue exerting effort in locating the details of the beginning balances and update their respective books and records;\nRequire the MA to continue evaluating thoroughly PPE acquired in current and prior years which were given to other agencies and draw appropriate journal entries to adjust/correct all noted deficiencies for accurate and fair presentation of the PPE accounts;\nRequire the MA and MGSO to: (i) reconcile the accounting and property records, and investigate and institute appropriate action for any deficiency noted; and (ii) maintain properly the required accounting and property records; and\nAssign temporarily to other personnel some workloads of the members of the Inventory Committee Team during the conduct of physical count as required under Section 5.3 of COA Circular No. 2020-006.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended and the LCE agreed to:\nDirect the MA to disclose information on the LRN in the Notes to FS;\nProvide resources/manpower to the Municipal Engineer in assisting the MA and MGSO in identifying the complete description and cost segregation of road components; and\nRequire the MGSO to maintain RLRN, RPCRNS, LRN Property Card and Local road map in standard format.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "We recommended and the LCE agreed to:\nDirect the MGSO to conduct physical count of all inventory items semestrally and render a report thereon within the prescribed period; and\nRequire the MGSO and the MA to maintain properly and update the SCs and SLCs, respectively, and reconcile their records regularly.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "We recommended and the LCE agreed to direct:\nthe MA to coordinate with the MGSO and Municipal Assessor’s Office to:\nderecognize in the books the one parcel of land granted by the previous years’ administration to a recipient as donation; and\nverify the validity of ownership of three parcels of land with total book value of ₱1.35 million already recorded in the books but not supported by TCTs nor TDs;\nthe Municipal Assessor to continue acting with dispatch on their plan to conduct ocular inspection of lands with TDs under the name of the Municipality of Juban, and if warranted, have these titled in favor of the Municipality; and\nthe MGSO, in coordination with the Municipal Assessor’s Office to sustain their vigorous efforts in working on the reconstitution of titles for the parcels of land owned by the Municipality in which copies of titles could no longer be provided by the Registry of Deeds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "We recommended and the LCE agreed to:\nRequire the MA to verify meticulously the status of long outstanding fund transfers/payables still maintained in the books and adhere strictly to the provisions of Section 111 of PD No. 1445;\nImplement the programs which are already approved and request the Sangguniang Bayan to pass a resolution authorizing the use of excess fund counterpart;\nRequire the Municipal Treasurer (MT) to confirm the payables from the SAs to verify their existence and if validated, remit immediately to the SAs the unutilized balances pursuant to existing contracts; and\nRemit to the Bureau of Treasury in accordance with COA Circular No. 2015-001, the cash backup of fund transfers, the nature and SAs of which could no longer be identified for lack of information.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "We recommended and LCE agreed to require the MA the following courses of actions:\nTo request again or follow-up from the concerned depository banks copies of the DMs/CMs to determine their validity and effect the necessary adjustments to correct the affected account balances; and\nTo coordinate closely with the Treasury Office to exert extra effort to retrieve available documents; and\nEnsure that all book reconciling items for a given period are recorded in the books of accounts. In addition, bank confirmation be made regularly to validate actual existence of accounts and bank balances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "We recommended and the LCE agreed to direct the JWS Administrator to come up with other strategies to improve further the income generation.  Specifically, we suggested the following measures:\nIntensify the collection of JWS concessionaires fee through strict implementation of rules and procedures;\nConduct a comprehensive study on the operation to identify weaknesses in the collection system and device strategies to encourage consumer to pay concessionaires fees to increase income;\nAvoid overstaffing, but rather maximize efficiently the work of personnel involved in the operation of JWS;\nEvaluate expenses for Water, Electricity, Supplies, Repairs and Maintenance and implement economy measures to reduce losses in operation.  Also, check regularly systems loss brought about by leaking transmission lines; and\nTrim down the operational expenditures and promote efficiency among workers;\nLikewise, we recommended and the LCE agreed to require the MA to:\nPrepare separate financial reports for JWS operation to provide adequate information on the results of operation for monitoring and decision-making purposes; and\nRecognize the balance of uncollected concessionaire’s fee as receivables and revenue at the end of each year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-OBS8",
+      "year": 2021,
+      "recommendation": "We recommended and the LCE agreed to:\nIncrease the bonding requirements of the DO pursuant to Treasury Circular No. 02-2009 to protect the interest of the Municipality, otherwise ensure that the CA granted is within the limit of her fidelity bond;\nRequire the concerned DO to settle immediately her outstanding CAs due for liquidation by demanding the submission of liquidation reports and supporting documents. Otherwise, cause the withholding or suspension of their salaries for non-compliance therewith;\nStrengthen control measures to ensure timely submission of liquidation documents and full accounting of balances of CAs by monitoring strictly the period of liquidation and impose sanctions on AO who failed to liquidate on time; and\nStrictly comply with the provisions of Section 89 of PD No. 1445 and COA Circular No. 97-002 on the granting, utilization and liquidation of CAs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-OBS9",
+      "year": 2021,
+      "recommendation": "We recommended and the LCE agreed to direct the Municipal Engineer to observe strictly the rules and regulations provided by DPWH Department Order No. 197 series of 2016 specifically for the inclusion of items for project billboard and safe and heath in the preparation of the ABC.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-OBS10",
+      "year": 2021,
+      "recommendation": "We recommended and the LCE agreed to require the:\nMunicipal Engineer to conduct an inventory of project accomplishments and furnish the Statement of Work Accomplishments to the MA;\nMA to impose liquidated damages at least equal to one-tenth of one per cent (0.1%) of the cost of the unperformed portion of the works for every day of delay;\nContractor to engage the catch-up program in order to fast tract the completion of the project to avoid termination of contract as stipulated in Annex I of the Revised IRR 2016 of R.A. No. 9184;\nIntensify project monitoring to avoid recurrence of delay in completion/implementation; and\nAdhere strictly to the regulation on posting of project billboard for future projects immediately after the award of contract for transparency purposes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-OBS11",
+      "year": 2021,
+      "recommendation": "We recommended and the LCE direct the MDRRMO to include all sources of LDRRMF in the preparation of LDRRMFIP in succeeding years as mandated by COA Circular NO. 2012-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-OBS12",
+      "year": 2021,
+      "recommendation": "We recommended and the LSB agreed to:\nApproved strictly the SEF Budget not later than October 31 of the current year;\nInclude the savings from immediately preceding year as beginning balance in the preparation of annual budget and/or enact a supplemental budget to finance the priority projects as embodied in Section 272 of RA 7160; and\nUtilize efficiently and effectively the SEF Budget by implementing fully all identified PPAs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-OBS13",
+      "year": 2021,
+      "recommendation": "We recommended and the LCE agreed to require the MA to:\nReconcile the amounts withheld or deducted with the amounts remitted to determine the actual amounts of Due to BIR. Thereafter, prepare and record the necessary adjusting entry, if any; and\nCoordinate with the previous MA to retrieve the details of the prior year transactions and prepare subsidiary ledgers (SLs).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-OBS14",
+      "year": 2021,
+      "recommendation": "We commended Management of its compliance with the rules and regulations prescribed by the GSIS, Pag-IBIG and PhilHealth for CY 2021 transactions.  As to un-reconciled balances from previous years and minor deficiencies in current year transactions, we recommended and the LCE agreed to:\nInstruct the MA to exert effort in retrieving the details of previous years’ un-reconciled balances and request confirmation of such balances with the concerned GOCCs. Thereafter, prepare the necessary adjusting entry, if any;\nDirect the Human Resource Department Head to improve the efficiency and data capture in payroll preparation so that all employees are captured in the remittance list once their contributions and amortizations are deducted from their gross earnings; and\nConsider initiating the development or acquisition of a computerized payroll system for a more accurate and efficient processing of the employee’s payroll and related accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-OBS15",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-OBS16",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-OBS17",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended that Management:\n\nRequire the MGSO and the Municipal Accountant to prioritize the reconciliation process and ensure that discrepancies noted are immediately investigated and adjusted in the books accordingly;\n\n\nDirect the Municipal Accountant to exhaust all efforts to fully identify the PPE with lump sum balances and at the same time secure the documents to reconcile them with the Inventory Report of the MGSO;\n\nRequire the MGSO to conduct physical inventory and inspection of all unserviceable and obsolete items so that they may be properly disposed of and dropped from the books of accounts in accordance with the provisions of COA Circular No. 2020-006; \n\nLastly, we recommended that the Municipal Accounting Office concerned personnel trace back prior years’ acquisitions to have complete details of the PPE accounts that will serve as basis in the computation of depreciation, in order to present true value of the depreciable PPE in the FS.",
+      "managementAction": "Reconciliation of records between the MGSO and accounting was conducted for the current year only, due to absences of prior years’ documents and reports.\n\nNo Action taken by Management.\n\nNot able to conduct physical count inventory and inspection of all unserviceable PPE due to limited manpower and time constraints.\n\nNo Action taken by Management.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reiterated in Part II of this Report."
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "Reconcile thoroughly the Cash in Bank accounts in order to come up with the correct balances of the said accounts presented in the FS;\n\nEnsure that all valid reconciling items to be recorded and adjusted in the books are properly supported with complete documents; and \n\nExercise due diligence and professional care in the conduct of reconciliation of records and in the performance of functions especially in the recording of journal entries and mathematical computation thereof.",
+      "managementAction": "Regular reconciliation of cashbooks and accounting records was conducted.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reiterated in Part II of this Report."
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended that Management direct the Municipal Accountant to:\n\nFile a request for authority to write-off dormant receivable accounts to COA as prescribed by the aforecited Circular; and \n\n\nStrictly monitor the conduct of regular and periodic verification, analysis and validation of the existence of receivable accounts to ensure that only valid receivables are recorded in the books.",
+      "managementAction": "The Office of the Municipal Accountant will file a request for authority to write-off in CY 2022.\n\nAllowance for Impairment was provided in CY 2021.",
+      "status": "IMPLEMENTED",
+      "reason": "No request for write-off submitted."
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended that Management utilize the QRF only after the issuance of a Local Sanggunian Resolution to support such release including an itemized utilization thereof pursuant to Item No. 5.1.3 of COA Circular No. 2012-002.\n\nWe likewise request Management to justify why the disbursements of lump-sum appropriation without prior authorization from the Local Sanggunian and indiscriminate charging of expenses without anitemized or specific PPAs in the budget may not be disallowed in audit.",
+      "managementAction": "No action taken by Management.",
+      "status": "IMPLEMENTED",
+      "reason": "Justification on disbursement of lump-sum appropriation was not submitted to the Audit Team."
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended that Management direct the Municipal Accountant to:\n\nStrictly monitor the conduct of regular and periodic verification, analysis and validation of the existence of payable accounts to ensure that only valid payables are recorded in the books; and\n\nPrepare a certified schedule of ageing of dormant payable accounts for which there are no valid claimants/creditors and no supporting documents, thereafter, revert the verified amounts to the Unappropriated Surplus of the Government Equity Account by preparing the necessary Journal Entry Vouchers as basis for recording in the books of accounts of the Municipality.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended that Management require the Municipal Accountant to:\n\nTrace and locate the relevant documents to serve as basis in analyzing the reconciling items and prepare adjustments, if any; and\n\nConduct regular reconciliation of reciprocal accounts to eliminate the discrepancy.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommended that Management continue to pursue improved practices in programming, prioritizing and implementing programs and projects to maximize the utilization of the 20 per cent Development Fund in attaining desirable socio-economic development and environmental management outcomes for the benefit of the community.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We recommended that Management:\n\nInclude in the appropriations the titling of the land owned by the Municipality;\n\nMake a representation with the Land Registration Authority to confirm the ownership of all land properties and thereafter, secure copies of the Torrens Title or any equivalent document relative thereto;\n\nEnsure proper safekeeping of the newly secured and subsequently acquired Land Titles; and\n\nRequire the Municipal Accountant to record the properties over which the Municipality has acquired absolute ownership.",
+      "managementAction": "Appropriations for titling of the land owned by the Municipality, however, time constraints in collating supporting documents hindered the completion of titling of lands.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reiterated in Part II of this Report."
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Accountant review the records of prior years’ transactions and prepare adjusting journal entries to present the correct Due to BIR account balance.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "We recommended that the Management require the Municipal Accountant to conduct a detailed review and analysis of the inter-agency payable accounts, including confirmation with the respective government agencies, to determine the correct balance of the said accounts and thereafter, effect the necessary adjustments/corrections in the books.\n\nWe likewise recommended the immediate remittance of amounts withheld to the concerned government agencies and ensure that monthly remittances correspond to the exact amounts withheld to avoid incurrence of penalties and surcharges and so that the Municipal officials and employees could enjoy the benefits due them.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reiterated in Part II of this Report."
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "We recommended that Management:\n\nInstruct the Municipal Accountant to continue and strengthen coordination with the Municipal Engineer to determine the condition of the infrastructure assets constructed in CYs 2015 and below, in order to assess the carrying amounts of the said assets and effect the necessary adjustments in the books to arrive at a more reliable Infrastructure Asset accounts balance in the FS;\n\nRequire the Municipal Engineer to provide the Inventory Committee with complete description and cost segregation of road components for road projects to facilitate the preparation ofReport on the Physical Count of Local Road Network (RPCLRN); and\n\nDirect the Inventory Committee and MGSO to prepare and submit the RPCLRN and Report of Local Road Network (RLRN), respectively, in accordance with the prescribed formats as provided under COA Circular No. 2015-008.\n\nWe also recommended that the Municipal Accountant and the MGSO prepare and maintain separate subsidiary records/Local Road Network Ledger Card (LRNLCs) and Local Road Network Property Card (LRNPCs), respectively, for local road projects to ensure proper recording and control of the assets.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Limited manpower and absence of prior years’ supporting documents prevented the updating/reconciliation.  Nevertheless, PPELCs are maintained in the current year."
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-PY14",
+      "year": 2021,
+      "recommendation": "We recommended that Management:\n\nEnjoin the Local Disaster Risk Reduction and Management Office (LDRRMO) to exert more effort in implementing actions and measures pertaining to all aspects of disaster risk reduction and management towards building a disaster-resilient LGU and communities;\n\nClosely monitor the implementation of all PPAs under the LDRRM Fund to facilitate corrective action, if any, and the timely reprogramming and reallocation of the fund for its optimum utilization.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-PY15",
+      "year": 2021,
+      "recommendation": "Conduct information and education campaign/activities, e.g. social media/radio, and other means of communication to encourage land owners to pay regularly their tax obligation, impart the benefits of paying early and/or on time and consider condonation of fines and penalties to delinquent tax payers;\n\nDevelop collection strategies to enhance collection of taxes like seeking the assistance of barangay officials in the house-to house campaign; and\n\nPost the notice of delinquency in the payment of RPT in the main entrance of the municipal building and other conspicuous public places frequently visited by people.",
+      "managementAction": "Notices of delinquencies were sent out to RPT declared owners and posted in conspicuous public places (e. g. SB Bulletin Board, Municipal Hall Entrance). However, collections were still affected by the ongoing pandemic.\n\nThe Municipal Treasurer’s Office will closely coordinate with Assessor, Provincial Treasurer’s Office and Accounting for the ‘clean up’ of RPT/SET receivable accounts",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-PY18",
+      "year": 2021,
+      "recommendation": "We recommended that Management require the Municipal Accountant to:\n\nSecure copies of debit memos and credit memos from the concerned banks to support the adjustments to be made in the books and make proper representation with the concerned bank to correct the bank error; and\n\nPrepare the necessary adjustments in the books for all valid book reconciling items in order to arrive at a correct Cash in Bank account.",
+      "managementAction": "Management will make follow ups and/or refurnish written request to concerned banks to determine nature of CMs and DMs for proper take up in the books.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Absence of supporting documents from previous years to properly record most of the bank CMs and DMs."
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-PY20",
+      "year": 2021,
+      "recommendation": "We recommended that Management require the:\n\nMunicipal Treasurer to update the certified list of real property and special education taxes due and collectible based on the RPTAR/Taxpayer’s index card and submit this to the Municipal Accountant at the beginning of each year as basis in establishing the correct RPT/SET receivables; and\n\nMunicipal Accountant and Municipal Treasurer to regularly reconcile the balance of the /SET receivables account with the list of taxpayers with paid/unpaid real property tax dues maintained by the Municipal Treasurer to come up with an accurate /SET receivables.",
+      "managementAction": "Manual records are maintained by the MTO and will take a lot of time to update the list. Also, the limited manpower hindered the updating.\n\nSLs for RPT and SET were not yet maintained by OMA. | In the beginning of year 2022 and to address the need of the LGU, Management has employed one JO with a degree and work experience in Information Technology.\n\nThe MTO will coordinate with other LGUs that have employed IT software/program/system in managing taxpayers’ records and propose to the Management procurement of similar IT software/program/system that bests meet LGU-Juban’s needs.\n\nThe MTO will closely coordinate with Assessor, PTO and Accounting for the ‘clean up’ of RPT/SET receivable accounts.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-PY21",
+      "year": 2021,
+      "recommendation": "We recommended that Management update the 2009 Revenue and Tax Code of the Municipality pursuant to Section 191 of RA No. 7160 to increase the revenue collection of local taxes that can be used to finance more valuable projects of the Municipality.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Legislative Branch of the Agency opted to defer discussion during this time of pandemic:\n\nIn consideration of easing the financial burden to the public since revision entails imposing higher taxes\n\n\nRestrictions on face-to-face meeting for discussion and information dissemination to the public."
+    },
+    {
+      "id": "Juban_Sorsogon_aar2021-PY22",
+      "year": 2021,
+      "recommendation": "Require the concerned personnel to secure copies of the Torrens Title or any equivalent document of all land properties registered under the name of the Municipality from the Land Registration Authority (LRA) and ensure proper safekeeping of the newly secured and subsequently acquired Land Titles.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipality is still in the process of securing land titles."
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended that Management:\n\nInstruct the Municipal Accountant to continue and strengthen coordination with the Municipal Engineer to determine the condition of the infrastructure assets constructed in CYs 2015 and below, in order to assess the carrying amounts of the said assets and effect the necessary adjustments in the books to arrive at a more reliable Infrastructure Asset accounts balance in the FS;\n\nRequire the Municipal Engineer to provide the Inventory Committee with complete description and cost segregation of road components for road projects to facilitate the preparation of Report on the Physical Count of Local Road Network (RPCLRN); and\n\nDirect the Inventory Committee and MGSO to prepare and submit the RPCLRN and Report of Local Road Network (RLRN), respectively, in accordance with the prescribed formats as provided under COA Circular No. 2015-008.\n\nWe also recommended that the Municipal Accountant and the MGSO prepare and maintain separate subsidiary records/ Local Road Network Ledger Card (LRNLCs) and Local Road Network Property Card (LRNPCs), respectively, for local road projects to ensure proper recording and control of the assets.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Limited manpower and absence of prior years’ supporting documents prevented the updating/reconciliation.  Nevertheless, PPELCs are maintained in the current year."
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended that:\n\nThe MGSO initiate the conduct of physical inventory taking of all Supplies of the Municipality at year-end and prepare and submit the corresponding Report of Physical Count of Inventories (RPCI) to the Audit Team to establish the existence, accuracy and validity of reported balances in the financial statements; and\n\nThe Municipal Accountant and MGSO maintain a complete and updated Stock Cards and Supplies Ledger Cards (SLCs) and regularly conduct reconciliation thereof so that any discrepancies noted could be promptly adjusted and reconciled.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Absence of previous years supporting documents and lack of personnel and stock room hindered implementation of Perpetual Inventory System."
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-PY9",
+      "year": 2020,
+      "recommendation": "We recommended that Management require the LSB to prepare the LSB three-year program and the recommendation of the DepEd Public Schools District Supervisor (PSDS) and  Schools Division Superintendent  (SDS) as well as the required School Improvement Plan (SIPs) and Division Education Development Plan  (DEDPs) and other information from DepEd RO, which supposedly were the bases for the preparation and approval by the LSB of the SEF Budget and furnish the Audit Team for reference and review purposes.  Henceforth, the LSB must strictly follow the mandated required processes and documents in planning and budgeting for SEF under the revised guidelines on the use of SEF pursuant to the above-mentioned JC.\n\nLikewise, we recommended that the LSB strictly comply with the requirements of the said JC in identifying the PPAs that reflect an equitable distribution of the mandated priority expenses and refrain from using the SEF outside the scope for which it was established.\n\nFinally, justification is requested why the non-eligible expenses may not be disallowed in audit.",
+      "managementAction": "Fully Implemented",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Numerous changes in focal person during the year."
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-PY10",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant conduct regular and periodic verification, analysis, and validation of the existence of the receivable accounts as required under Item No. 7 of COA Circular No. 2016-005. For those unsettled receivables supported with legal and valid documents, send demand letters to concerned agencies/association/personnel for them to settle immediately, while those account where settlement/collectability could no longer be ascertained, we recommended that Management follow the guidelines and procedures on the write-off of dormant receivable accounts as prescribed under COA Circular No. 2016-005.",
+      "managementAction": "Management will request authority to write-off dormant receivables after exhausting all efforts of collection.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Absence of supporting documents from previous years."
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-PY11",
+      "year": 2020,
+      "recommendation": "We recommended that Management require the Municipal Accountant to:\n\nSecure copies of debit memos and credit memos from the concerned banks to support the adjustments to be made in the books and make proper representation with the concerned bank to correct the bank error; and\n\nPrepare the necessary adjustments in the books for all valid book reconciling items in order to arrive at a correct Cash in Bank account.",
+      "managementAction": "Management will send written request to concerned banks to determine nature of CMs and DMs for proper take up in the books.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Absence of supporting documents from previous years to properly record most of the bank CMs and DMs."
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-PY12",
+      "year": 2020,
+      "recommendation": "We recommended that Management dispose the unserviceable properties based on the most appropriate mode of disposal pursuant to the provisions of COA Circular No. 92-386.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Sale of unserviceable properties will be conducted after appraisal."
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-OBS1",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended that Management:\nRequire the Municipal General Services Officer (MGSO) and the Municipal Accountant to prioritize the reconciliation process and ensure that discrepancies noted are immediately investigated and adjusted in the books accordingly;\nDirect the Municipal Accountant to exhaust all efforts to fully identify the PPE with lump sum balances and at the same time secure the documents to reconcile them with the Inventory Report of the MGSO;\nRequire the MGSO to conduct physical inventory and inspection of all unserviceable and obsolete items so that they may be properly disposed of and dropped from the books of accounts in accordance with the provisions of COA Circular No. 2020-006;\nLastly, we recommended that the concerned personnel of the Municipal Accounting Office trace back prior years’ acquisitions to have complete details of the PPE accounts that will serve as basis in the computation of depreciation, in order to present true value of the depreciable PPE in the FS.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended that Management:\nDirect the MGSO to conduct a physical count of all inventory items semestrally and render a report thereon within the prescribed period;\nInstruct the Municipal Accountant to properly account for the acquisition and issuance of the supplies and materials inventory based on IPSAS 12, Inventories, and make the necessary adjustments to reflect the correct balance of the affected inventory and expense accounts; and\nRequire the MGSO and the Municipal Accountant to properly maintain and update the stock cards and SLCs, respectively, and reconcile their records regularly.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommended that Management:\nReconcile thoroughly the Cash in Bank accounts in order to come up with the correct balances of the said accounts presented in the FS;\nEnsure that all valid reconciling items to be recorded and adjusted in the books are properly supported with complete documents; and\nExercise due diligence and professional care in the conduct of reconciliation of records and in the performance of functions especially in the recording of journal entries and mathematical computation thereof.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We recommended that Management direct the Municipal Accountant to:\nFile a request for authority to write-off dormant receivable accounts to COA as prescribed by the aforecited Circular; and\nStrictly monitor the conduct of regular and periodic verification, analysis and validation of the existence of receivable accounts to ensure that only valid receivables are recorded in the books.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended that Management utilize the QRF only after the issuance of a Local Sanggunian Resolution to support such release including an itemized utilization thereof pursuant to Item No. 5.1.3 of COA Circular No. 2012-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We recommended that Management direct the Municipal Accountant to:\nStrictly monitor the conduct of regular and periodic verification, analysis and validation of the existence of payable accounts to ensure that only valid payables are recorded in the books; and\nPrepare a certified schedule of ageing of dormant payable accounts for which there are no valid claimants/creditors and no supporting documents, thereafter, revert the verified amounts to the Unappropriated Surplus of the Government Equity Account by preparing the necessary JEVs as basis for recording in the books of accounts of the Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We recommended that Management require the Municipal Accountant to:\nTrace and locate the relevant documents to serve as basis in analyzing the reconciling items and prepare adjustments, if any; and\nConduct regular reconciliation of reciprocal accounts to eliminate the discrepancy.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-OBS9",
+      "year": 2020,
+      "recommendation": "We recommended that Management continue to pursue improved practices in programming, prioritizing and implementing programs and projects to maximize the utilization of the 20 per cent Development Fund in attaining desirable socio-economic development and environmental management outcomes for the benefit of the community.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-OBS10",
+      "year": 2020,
+      "recommendation": "We recommended that Management:\nInclude in the appropriations the titling of the land owned by the Municipality;\nMake a representation with the Land Registration Authority to confirm the ownership of all land properties and thereafter, secure copies of the Torrens Title or any equivalent document relative thereto;\nEnsure proper safekeeping of the newly secured and subsequently acquired Land Titles; and\nRequire the Municipal Accountant to record the properties over which the Municipality has acquired absolute ownership.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-OBS11",
+      "year": 2020,
+      "recommendation": "On the other hand, we recommended that the Municipal Accountant review the records of prior years’ transactions and prepare adjusting journal entries to present the correct Due to BIR account balance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-OBS12",
+      "year": 2020,
+      "recommendation": "We recommended that the Management require the Municipal Accountant to conduct a detailed review and analysis of the inter-agency payable accounts, including confirmation with the respective government agencies, to determine the correct balance of the said accounts and thereafter, effect the necessary adjustments/corrections in the books.\nWe likewise recommended the immediate remittance of amounts withheld to the concerned government agencies and ensure that monthly remittances correspond to the exact amounts withheld to avoid incurrence of penalties and surcharges and so that the Municipal officials and employees could enjoy the benefits due them.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-OBS13",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-OBS14",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-OBS15",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-PY1",
+      "year": 2020,
+      "recommendation": "We reiterated our previous year’s audit recommendations that Management:\n\nRequire the Municipal General Services Office (MGSO) and the Municipal Accounting Office to prioritize the reconciliation process and ensure that discrepancies noted are immediately investigated and adjusted in the books accordingly;\n\nRequire the Municipal Accounting Office to maintain complete and updated PPE Ledger Cards (PPELCs) to support GL account balances and the MGSO to keep corresponding PCs for control purposes; and\n\nRequire the MGSO to conduct physical inventory and inspection of all unserviceable and obsolete items so that they may be properly disposed of and dropped from the books of accounts in accordance with the provisions of COA Circular Nos. 89-296 and 92-386.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Current year balances are tally; while, absence of supporting documents from previous years precluded reconciliation of prior years’ discrepancies."
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended that Management:\n\nEnjoin the Local Disaster Risk Reduction and Management Office (LDRRMO) to exert more effort in implementing actions and measures pertaining to all aspects of disaster risk reduction and management towards building a disaster-resilient LGU and communities;\n\nClosely monitor the implementation of all PPAs under the LDRRM Fund to facilitate corrective action, if any, and the timely reprogramming and reallocation of the fund for its optimum utilization;\n\n\n\nDirect the LDRRMO to prepare the annual LDRRMF Investment Plan detailing all the programs, projects and activities (PPAs) to be funded in accordance with COA Circular 2012-002 to ensure proper evaluation of the same;\n\nInstruct the Municipal Accountant to transfer the unutilized balance of CY 2014 amounting to ₱107,037.03 from Special Trust Fund to General Fund for other social services as prescribed in Section 21 of RA No. 10121; and\n\nAdvice the Municipal DRRM Council to prioritize the utilization of the unexpended balance of LDRRM Fund for CY 2015 to ensure that this fund is used for the intended purpose within the prescribed period.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some PPAs were not implemented due to the ongoing construction of the new municipal hall, no turnover yet of evacuation center and gymnasium, and restrictions on gatherings and travel imposed by the Inter-Agency Task Force on Emerging Infectious Diseases (IATF-EID) during the pandemic."
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended that Management strategize how to efficiently and effectively collect taxes and consider, among others, the following measures:\n\nConduct information and education campaign/activities, e.g. social media/radio, and other means of communication to encourage land owners to pay regularly their tax obligation, impart the benefits of paying early and/or on time and consider condonation of fines and penalties to delinquent tax payers;\n\nDevelop collection strategies to enhance collection of taxes like seeking the assistance of barangay officials in the house-to house campaign; and\n\nPost the notice of delinquency in the payment of RPT in the main entrance of the municipal building and other conspicuous public places frequently visited by people.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Notice of delinquencies were sent out to RPT declared owners and posted in conspicuous public places (e. g. SB Bulletin Board, Municipal Hall Entrance). However, collections were still affected by the ongoing pandemic."
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant consider the proposed accounting entries on advance payment of RPT and SET in order to reflect the correct amount of RPT and SET Income, Due to LGUs and other affected accounts in the financial statements.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-PY7",
+      "year": 2020,
+      "recommendation": "We reiterated our prior years’ recommendation that Management strictly maximize the utilization of the 20 per cent DF and implement the PPAs within the targeted timeframe to achieve the social, economic and environmental outcomes essential in the attainment of the constitutional objective of a desired quality of life for all.\n\nWe also recommended that Management ensure that the 20 per cent Development Fund is used solely for development projects.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Funds were not fully utilized during the year since the Agency has considered:\n\nDeficiencies noted in some projects awaiting compliance from contractors, and\n\nAgency preparedness due to a possible implementation of a lockdown by 4th quarter."
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-PY8",
+      "year": 2020,
+      "recommendation": "We reiterated our prior years’ recommendations that Management:\n\nExpedite the submission of the 10-year Municipal Solid Waste Management Plan (SWMP) to serve as guide for the efficient management of solid waste generated within the Municipality’s jurisdiction; and \n\nPrioritize SWM programs and projects by providing/allocating enough budget for their full implementation; \n\nWe also recommended that Management encourage the remaining five barangays to establish their own Material Recovery Facility (MRFs) for the collection, segregation, recycling of biodegradable, recyclable, compostable and reusable wastes.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-PY13",
+      "year": 2020,
+      "recommendation": "We recommended that Management maximize the implementation of the identified and prioritized programs to ensure efficient utilization of the fund so that its objectives are fully achieved in accordance with Section 272 of RA No. 7160 and DepEd, DBM and DILG Joint Circular No. 1 s. 2017.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-PY14",
+      "year": 2020,
+      "recommendation": "We recommended that Management require the:\n\nMunicipal Treasurer to update the certified list of real property and special education taxes due and collectible based on the RPTAR/Taxpayer’s index card and submit this to the Municipal Accountant at the beginning of each year as basis in establishing the correct RPT/SET receivables; and\n\nMunicipal Accountant and Municipal Treasurer to regularly reconcile the balance of the /SET receivables account with the list of taxpayers with paid/unpaid real property tax dues maintained by the Municipal Treasurer to come up with an accurate /SET receivables.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Manual records are maintained by the MTO and will take a lot of time to update the list. Also, the limited manpower hindered the updating.\n\nSLs for RPT and SET were not yet maintained by OMA."
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-PY15",
+      "year": 2020,
+      "recommendation": "We recommended that Management update the 2009 Revenue and Tax Code of the Municipality pursuant to Section 191 of RA No. 7160 to increase the revenue collection of local taxes that can be used to finance more valuable projects of the Municipality.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Legislative Branch of the Agency opted to defer discussion during this time of pandemic:\n\nIn consideration of easing the financial burden to the public since revision entails imposing higher taxes\n\nRestrictions on face-to-face meeting for discussion and information dissemination to the public."
+    },
+    {
+      "id": "Region-V__Municipalities__Sorsogon__Juban_Sorsogon-2020-PY16",
+      "year": 2020,
+      "recommendation": "We recommended that Management:\n\t\nRequire the concerned personnel to secure copies of the Torrens Title or any equivalent document of all land properties registered under the name of the Municipality from the Land Registration Authority (LRA) and ensure proper safekeeping of the newly secured and subsequently acquired Land Titles; \n\nThereafter, require the Municipal Accountant to record the properties over which the Municipality has acquired absolute ownership.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipality is still in the process of securing titles."
+    },
+    {
+      "id": "Juban_Sorsogon-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accountant conduct regular and periodic verification, analysis, and validation of the existence of the receivable accounts as required under Item No. 7 of COA Circular No. 2016-005. For those unsettled receivables supported with legal and valid documents, send demand letters to concerned agencies/association/personnel for them to settle immediately, while those account where settlement/collectability could no longer be ascertained, we recommended that Management follow the guidelines and procedures on the write-off of dormant receivable accounts as prescribed under COA Circular No. 2016-005.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "There was a change of Municipal Accountant."
+    },
+    {
+      "id": "Juban_Sorsogon-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended that Management require the Municipal Accountant to:\n\nSecure copies of debit memos and credit memos from the concerned banks to support the adjustments to be made in the books and make proper representation with the concerned bank to correct the bank error;\nPrepare the necessary adjustments in the books for all valid book reconciling items in order to arrive at a correct Cash in Bank account; and\nEnsure that all subsequent valid reconciling items to be recorded and adjusted in the books are properly supported with complete documents.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Untimely resignation of Municipal Accountant and the newly hired accountant is still coping with the workload.\n\nNo adjustments were made due to change of accountant."
+    },
+    {
+      "id": "Juban_Sorsogon-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended that Management facilitate the immediate disposal of the aforementioned unserviceable properties to recoup any salvage value thereof. Specifically, we recommended the following measures:\n\nConduct physical inspection and appraisal of the unserviceable properties and waste materials and furnish the auditor copies of fully accomplished/verified Inventory and Inspection Report of Unserviceable Properties;\nDispose the unserviceable properties based on the most appropriate mode of disposal pursuant to the provisions of COA Circular No. 92-386.",
+      "managementAction": "Sale of unserviceable properties will be conducted after appraisal.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2019-OBS1",
+      "year": 2019,
+      "recommendation": "Require the MGSO and the Municipal Accounting Office to prioritize the reconciliation process and ensure that discrepancies noted are immediately investigated and adjusted in the books accordingly;\nRequire the Municipal Accounting Office to maintain complete and updated PPELCs to support GL account balances and the MGSO to keep corresponding PCs for control purposes; and\nRequire the MGSO to conduct physical inventory and inspection of all unserviceable and obsolete items so that they may be properly disposed of and dropped from the books of accounts in accordance with the provisions of COA Circular Nos. 89-296 and 92-386.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2019-OBS2",
+      "year": 2019,
+      "recommendation": "Instruct the Municipal Accountant to continue and strengthen coordination with the Municipal Engineer to determine the condition of the infrastructure assets constructed in CYs 2015 and below, in order to assess the carrying amounts of the said assets and effect the necessary adjustments in the books to arrive at a more reliable Infrastructure Asset accounts balance in the FS;\nRequire the Municipal Engineer to provide the Inventory Committee with complete description and cost segregation of road components for road projects to facilitate the preparation of RPCLRN; and\nDirect the Inventory Committee and MGSO to prepare and submit the RPCLRN and RLRN, respectively, in accordance with the prescribed formats as provided under COA Circular No. 2015-008.\nWe also recommended that the Municipal Accountant and the MGSO prepare and maintain separate subsidiary records/LRNLCs and LRNPCs, respectively, for local road projects to ensure proper recording and control of the assets.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2019-OBS3",
+      "year": 2019,
+      "recommendation": "The MGSO initiate the conduct of physical inventory taking of all Supplies of the Municipality at year-end and prepare and submit the corresponding RPCI to the Audit Team to establish the existence, accuracy and validity of reported balances in the financial statements; and\nThe Municipal Accountant and MGSO maintain a complete and updated Stock Cards and SLCs and regularly conduct reconciliation thereof so that any discrepancies noted could be promptly adjusted and reconciled.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2019-OBS4",
+      "year": 2019,
+      "recommendation": "Enjoin the LDRRMO to exert more effort in implementing actions and measures pertaining to all aspects of disaster risk reduction and management towards building a disaster-resilient LGU and communities;\nClosely monitor the implementation of all PPAs under the LDRRMF to facilitate corrective action, if any, and the timely reprogramming and reallocation of the fund for its optimum utilization;\nDirect the LDRRMO to prepare the annual LDRRMFIP detailing all the PPAs to be funded in accordance with COA Circular 2012-002 to ensure proper evaluation of the same;\nInstruct the Municipal Accountant to transfer the unutilized balance of CY 2014 amounting to ₱107,037.03 from STF to GF for other social services as prescribed in Section 21 of RA No. 10121; and\nAdvice the MDRRMC to prioritize the utilization of the unexpended balance of LDRRMF for CY 2015 to ensure that this fund is used for the intended purpose within the prescribed period.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2019-OBS5",
+      "year": 2019,
+      "recommendation": "Conduct information and education campaign/activities, e.g. social media/radio, and other means of communication to encourage land owners to pay regularly their tax obligation, impart the benefits of paying early and/or on time and consider condonation of fines and penalties to delinquent tax payers;\nDevelop collection strategies to enhance collection of taxes like seeking the assistance of barangay officials in the house-to house campaign; and\nPost the notice of delinquency in the payment of RPT in the main entrance of the municipal building and other conspicuous public places frequently visited by people.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accountant consider the proposed accounting entries (see Annex F) on advance payment of RPT and SET in order to reflect the correct amount of RPT and SET Income, Due to LGUs and other affected accounts  in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We reiterated our prior years’ recommendation that Management strictly maximize the utilization of the 20 per cent DF and implement the PPAs within the targeted timeframe to achieve the social, economic and environmental outcomes essential in the attainment of the constitutional objective of a desired quality of life for all.\nWe also recommended that Management ensure that the 20 per cent Development Fund is used solely for development projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2019-OBS8",
+      "year": 2019,
+      "recommendation": "Expedite the submission of the 10-year Municipal SWM Plan to serve as guide for the efficient management of solid waste generated within the Municipality’s jurisdiction; and\nPrioritize SWM programs and projects by providing/allocating enough budget for their full implementation;\nWe also recommended that Management encourage the remaining five barangays to establish their own MRFs for the collection, segregation, recycling of biodegradable, recyclable, compostable and reusable wastes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2019-OBS9",
+      "year": 2019,
+      "recommendation": "We recommended that Management require the LSB to prepare the LSB three-year program and the recommendation of the DepEd PSDS and SDS as well as the required SIPs and DEDPs and other information from DepEd RO, which supposedly were the bases for the preparation and approval by the LSB of the SEF Budget and furnish the Audit Team for reference and review purposes.  Henceforth, the LSB must strictly follow the mandated required processes and documents in planning and budgeting for SEF under the revised guidelines on the use of SEF pursuant to the above-mentioned JC.\nLikewise, we recommended that the LSB strictly comply with the requirements of the said JC in identifying the PPAs that reflect an equitable distribution of the mandated priority expenses and refrain from using the SEF outside the scope for which it was established.\nFinally, justification is requested why the non-eligible expenses may not be disallowed in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2019-OBS10",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2019-OBS11",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2019-PY1",
+      "year": 2019,
+      "recommendation": "We reiterated our prior years’ audit recommendation that Management require the Municipal Accountant and the Municipal General Services Officer to intensify the review and reconciliation of their records on PPE to come up with reconciled balance of these accounts.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There were supervening events that occur in the course of the reconciliation."
+    },
+    {
+      "id": "Juban_Sorsogon-2019-PY5",
+      "year": 2019,
+      "recommendation": "We reiterated our prior years’ recommendation that Management strictly maximize the utilization of the 20 per cent Development Fund and implement the projects/programs/activities (PPAs) within the targeted timeframe to achieve the social, economic and environmental outcomes essential in the attainment of the constitutional objective of a desired quality of life for all.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Fortuitous events hindered the maximization of use of funds."
+    },
+    {
+      "id": "Juban_Sorsogon-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended that Management maximize the implementation of the identified and prioritized programs to ensure efficient utilization of the fund so that its objectives are fully achieved in accordance with Section 272 of RA No. 7160 and DepEd, DBM and DILG Joint Circular No. 1 s. 2017. \n\nWe also recommended that Management observe the documentary requirements at all times to ensure validity of claims for payment.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Time constraints affected the implementation of the projects."
+    },
+    {
+      "id": "Juban_Sorsogon-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended that the:\n\nMunicipal Treasurer to update the certified list of real property and special education taxes due and collectible based on the RPTAR/Taxpayer’s index card and submit this to the Municipal Accountant at the beginning of each year as basis in establishing the correct RPT/SET receivables; and\nMunicipal Accountant and Municipal Treasurer to regularly reconcile the balance of the /SET receivables account with the list of taxpayers with paid/unpaid real property tax dues maintained by the Municipal Treasurer to come up with an accurate /SET receivables.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The limited manpower hindered the updating.\n\n\n\nConflicting schedules of concerned officials."
+    },
+    {
+      "id": "Juban_Sorsogon-2019-PY8",
+      "year": 2019,
+      "recommendation": "We reiterated our previous years’ recommendations that:\n\nManagement encourage the Local Disater Risk and Reduction Management Officer (LDRRMO) to exert more effort in implementing actions and measures pertaining to all aspects of disaster risk reduction and management towards building a disaster-resilient LGU and communities,\nManagement closely monitor the implementation of all PPAs under the LDRRM Fund to facilitate corrective action, if any, and the timely reprogramming and reallocation of the fund for its optimum utilization, \nThe Municipal Budget Officer see to it that all charges in the LDRRM Fund are related to four (4) thematic areas of disaster risk reduction and management as prescribed in NDRRMC, DBM and DILG JMC 2013-1; and\nThe Municipal DRRM Officer prepare and submit the monthly Report on the Sources and Utilization of LDRRM Fund on time and facilitate monitoring of the accomplishment vis-à-vis the targeted projects for effective and efficient utilization of the fund.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The LDRRMO just assumed office in the first quarter of the year."
+    },
+    {
+      "id": "Juban_Sorsogon-2019-PY9",
+      "year": 2019,
+      "recommendation": "We reiterated our prior years’ recommendations that Management:\n\nFollow up the approval of the 10-year Municipal SWM Plan to serve as guide for the efficient management of solid waste generated within the Municipality’s jurisdiction; \n\nPrioritize SWM programs and projects by providing/allocating enough budget for their full implementation; \n\nExert continuous effort in educating the people of Juban the importance of solid waste management.",
+      "managementAction": "The Municipality submitted a new 10-year SWM Plan.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Limited budget."
+    },
+    {
+      "id": "Juban_Sorsogon-2019-PY10",
+      "year": 2019,
+      "recommendation": "We recommended that Management update the 2009 Revenue and Tax Code of the Municipality pursuant to Section 191 of RA No. 7160 to increase the revenue collection of local taxes that can be used to finance more valuable projects of the Municipality.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Change of legislative members affected the updating."
+    },
+    {
+      "id": "Juban_Sorsogon-2019-PY11",
+      "year": 2019,
+      "recommendation": "We recommended that the LSB identify and prioritize SEF programs based on DepEd-DBM-DILG Joint Circular No. 1 series of 2017 and ensure that the budget reflects equitable distribution of the funds among the priority activities for an effective utilization of funds and full attainment of its objectives.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2019-PY12",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\n\t\nRequire the concerned personnel to secure copies of the Torrens Title or any equivalent document of all land properties registered under the name of the Municipality from the Land Registration Authority (LRA) and ensure proper safekeeping of the newly secured and subsequently acquired Land Titles; \n\nThereafter, require the Municipal Accountant to record the properties over which the Municipality has acquired absolute ownership; and \n\nStudy the possible use of some idle lands with reference to the provisions of RA Nos. 7160 and 7279.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipality is still in the process of securing the titles."
+    },
+    {
+      "id": "Juban_Sorsogon-2019-PY13",
+      "year": 2019,
+      "recommendation": "We recommended that Management require the contractors to undertake immediate completion of the projects otherwise, take appropriate remedies as provided in the Revised IRR of RA No. 9184 including the computation and payment of liquidated damages.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY5",
+      "year": 2018,
+      "recommendation": "The Municipal DRRM Officer prepare and submit the monthly Report on the Sources and Utilization of LDRRMF on time and facilitate monitoring of the accomplishment vis-à-vis the targeted projects for effective and efficient utilization of the fund.",
+      "managementAction": "Quarterly reports on utilization of fund are done by the Accounting Office as required under DILG Full Disclosure Policy. MDRRMO was furnished with a copy of the said report.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY26",
+      "year": 2018,
+      "recommendation": "We recommended that the Office of the Municipal Accountant review these non-moving accounts, reconcile the same with other related accounts, if possible, and prepare the necessary adjustments, if any. If the review shows that these accounts have been dormant or non-moving for more than five years, or if review and   analysis     is     not possible, the same should be requested for write-off pursuant to COA Circular No. 97-001.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management was unable to gather all the necessary documents because no record was turned over by previous accountants"
+    },
+    {
+      "id": "Juban_Sorsogon-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We reiterated our prior years’ audit recommendation that Management require the Municipal Accountant and the MGSO to intensify the review and reconciliation of their records on PPE to come up with reconciled balance of these accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Accountant conduct regular and periodic verification, analysis, and validation of the existence of the receivable accounts as required under Item No. 7 of COA Circular No. 2016-005. For those unsettled receivables supported with legal and valid documents, send demand letters to concerned agencies/association/personnel for them to settle immediately, while those account where settlement/collectability could no longer be ascertained, we recommended that Management follow the guidelines and procedures on the write-off of dormant receivable accounts as prescribed under COA Circular No. 2016-005.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended that Management require the Municipal Accountant to:\nSecure copies of DMs and CMs from the concerned banks to support the adjustments to be made in the books and make proper representation with the concerned bank to correct the bank error;\nPrepare the necessary adjustments in the books for all valid book reconciling items in order to arrive at a correct Cash in Bank account; and\nEnsure that all subsequent valid reconciling items to be recorded and adjusted in the books are properly supported with complete documents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended that Management facilitate the immediate disposal of the aforementioned unserviceable properties to recoup any salvage value thereof. Specifically, we recommended the following measures:\nConduct physical inspection and appraisal of the unserviceable properties and waste materials and furnish the auditor copies of fully accomplished/verified IIRUPs;\nDispose the unserviceable properties based on the most appropriate mode of disposal pursuant to the provisions of COA Circular No. 92-386.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We reiterated our prior years’ recommendation that Management strictly maximize the utilization of the 20 per cent Development Fund and implement the PPAs within the targeted timeframe to achieve the social, economic and environmental outcomes essential in the attainment of the constitutional objective of a desired quality of life for all.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We recommended that Management maximize the implementation of the identified and prioritized programs to ensure efficient utilization of the fund so that its objectives are fully achieved in accordance with Section 272 of RA No. 7160 and DepEd, DBM and DILG Joint Circular No. 1 s. 2017.\nWe also recommended that Management observe the documentary requirements at all times to ensure validity of claims for payment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-OBS7",
+      "year": 2018,
+      "recommendation": "We recommended that Management require the:\nMunicipal Treasurer to update the certified list of real property and special education taxes due and collectible based on the Real Property Tax Account Register/Taxpayer’s index card and submit this to the Municipal Accountant at the beginning of each year as basis in establishing the correct RPT/SET receivables; and\nMunicipal Accountant and Municipal Treasurer to regularly reconcile the balance of the RPT/SET receivables account with the list of taxpayers with paid/unpaid real property tax dues maintained by the Municipal Treasurer to come up with an accurate RPT/SET receivables.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-OBS8",
+      "year": 2018,
+      "recommendation": "We reiterated our previous years’ recommendations that:\nManagement encourage the LDRRMO to exert more effort in implementing actions and measures pertaining to all aspects of disaster risk reduction and management towards building a disaster-resilient LGU and communities,\nManagement closely monitor the implementation of all PPAs under the LDRRMF to facilitate corrective action, if any, and the timely reprogramming and reallocation of the fund for its optimum utilization,\nthe Municipal Budget Officer see to it that all charges in the LDRRMF are related to four (4) thematic areas of disaster risk reduction and management as prescribed in NDRRMC, DBM and DILG JMC 2013-1; and\nthe Municipal DRRM Officer prepare and submit the monthly Report on the Sources and Utilization of LDRRMF on time and facilitate monitoring of the accomplishment vis-à-vis the targeted projects for effective and efficient utilization of the fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-OBS9",
+      "year": 2018,
+      "recommendation": "We reiterated our prior years’ recommendations that Management:\nFollow up the approval of the 10-year Municipal Solid Waste Management Plan to serve as guide for the efficient management of solid waste generated within the Municipality’s jurisdiction;\nPrioritize solid waste management programs and projects by providing/allocating enough budget for their full implementation;\nExert continuous effort in educating the people of Juban the importance of solid waste management.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-OBS10",
+      "year": 2018,
+      "recommendation": "We recommended that Management update the 2009 Revenue and Tax Code of the Municipality pursuant to Section 191 of RA No. 7160 to increase the revenue collection of local taxes that can be used to finance more valuable projects of the Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-OBS11",
+      "year": 2018,
+      "recommendation": "We recommended that the LSB identify and prioritize SEF programs based on DepEd-DBM-DILG Joint Circular No. 1 series of 2017 and ensure that the budget reflects equitable distribution of the funds among the priority activities for an effective utilization of funds and full attainment of its objectives.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-OBS12",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-OBS13",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommended that Management ensure that the 20 per cent Development Fund is used solely for development projects and no amount is utilized for expenditure items not allowed to be charged under the DILG and DBM JMC No. 2017-1.",
+      "managementAction": "Management had ensured that expenditures under 20 per cent Development Fund for CY 2018 were for items allowed under DILG and DBM JMC No. 2017-1.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY2",
+      "year": 2018,
+      "recommendation": "Management encourage the LDRRMO to exert more effort in implementing actions and measures pertaining to all aspects of disaster risk reduction and management towards building a disaster-resilient LGU and communities,",
+      "managementAction": "Quarterly reports on utilization of fund are done by the Accounting Office as required under DILG Full Disclosure Policy. MDRRMO was furnished with a copy of the said report.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY3",
+      "year": 2018,
+      "recommendation": "Management closely monitor the implementation of all PPAs under the LDRRMF to facilitate corrective action, if any, and the timely reprogramming and reallocation of the fund for its optimum utilization,",
+      "managementAction": "Quarterly reports on utilization of fund are done by the Accounting Office as required under DILG Full Disclosure Policy. MDRRMO was furnished with a copy of the said report.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY4",
+      "year": 2018,
+      "recommendation": "The Municipal Budget Officer see to it that all charges in the LDRRMF are related to four (4) thematic areas of disaster risk reduction and management as prescribed in NDRRMC, DBM and DILG JMC 2013-1; and",
+      "managementAction": "Quarterly reports on utilization of fund are done by the Accounting Office as required under DILG Full Disclosure Policy. MDRRMO was furnished with a copy of the said report.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY6",
+      "year": 2018,
+      "recommendation": "Provide the necessary training for SWM personnel to ensure that solid wastes are properly handled and that the risk of hazards to them and to the public are avoided or minimized; and",
+      "managementAction": "Prior to actual conduct of WACS, training and orientation on proper handling of solid waste and standard requirement for collection and transport were conducted by the DENR-EMB personnel.\n\nProtective gears were also provided to garbage collectors such as rubber boots, mask, hand gloves and the like.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY7",
+      "year": 2018,
+      "recommendation": "Observe the standards and requirements for the collection, transport and handling of solid wastes as required under the IRR of RA No. 9003.",
+      "managementAction": "Prior to actual conduct of WACS, training and orientation on proper handling of solid waste and standard requirement for collection and transport were conducted by the DENR-EMB personnel.\n\nProtective gears were also provided to garbage collectors such as rubber boots, mask, hand gloves and the like.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommended that the LSB strictly comply with the requirements of Section 272 of RA No. 7160 and DepEd, DBM and DILG Joint Circular No. 1 s. 2017 in identifying the PPAs that reflect an equitable distribution of the mandated priority expenses and refrain from using the SEF outside the scope for which it was established to avoid suspension or disallowance in audit.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY9",
+      "year": 2018,
+      "recommendation": "We reiterated our prior years’ recommendation that Management require, specifically the GSO and the Accounting Office to reconcile their respective records. In order to do so, the concerned agency officials should investigate the differences noted in the two reports and adjustments, if any, should be effected.",
+      "managementAction": "Reconciliations had already started. Physical count of PPEs was also conducted.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Absence of previous years’ reports/ records."
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY10",
+      "year": 2018,
+      "recommendation": "We reiterated our prior years’ recommendations that Management:\n\nRequest the concerned officials and employees to liquidate/settle immediately their outstanding cash advances by demanding the submission of duly accomplished liquidation reports. Otherwise, withhold any money due them; \n\nStrengthen the operation of preventive and monitoring controls to ensure timely submission of liquidation documents and full accounting of balances of cash advances; and\n\nInstitute appropriate legal actions/sanctions against those erring accountable officers/employees for continued non-compliance with the existing laws, rules and regulations on the granting, utilization and liquidation of cash advances, if warranted.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY11",
+      "year": 2018,
+      "recommendation": "We reiterated our prior years’ recommendations that Management: \n\nRequire the BAC, the Secretariat and the TWG to strictly abide by the standards set forth by RA No. 9184, its Revised IRR and other relevant laws on government procurement;  \nRequire them also to exercise due diligence in the performance of their duties to ensure that all requirements of the procurement law are faithfully adhered to; and\nDirect the Municipal Accountant to observe the requirements of COA Circular No. 2012-001 at all times to avoid suspension or disallowance in audit\nAlso, we recommended that Management observe the requirements of COA Circular No. 2009-001 regarding the submission of copies of approved contracts and their supporting documents to the Auditor within five (5) working days from perfection thereof.",
+      "managementAction": "The BAC, its Secretariat, and TWG were required to strictly comply with the standards set forth under RA No. 9184, its IRR and other government procurement laws.\n\nSubmitted request for contract review and contract inspection for certain infrastructures projects.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY12",
+      "year": 2018,
+      "recommendation": "Require them also to exercise due diligence in the performance of their duties to ensure that all requirements of the procurement law are faithfully adhered to;",
+      "managementAction": "The BAC, its Secretariat, and TWG were required to strictly comply with the standards set forth under RA No. 9184, its IRR and other government procurement laws.\n\nSubmitted request for contract review and contract inspection for certain infrastructures projects.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY13",
+      "year": 2018,
+      "recommendation": "Direct the Municipal Accountant to observe the requirements of COA Circular No. 2012-001 at all times to avoid suspension or disallowance in audit",
+      "managementAction": "The BAC, its Secretariat, and TWG were required to strictly comply with the standards set forth under RA No. 9184, its IRR and other government procurement laws.\n\nSubmitted request for contract review and contract inspection for certain infrastructures projects.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY14",
+      "year": 2018,
+      "recommendation": "Also, we recommended that Management observe the requirements of COA Circular No. 2009-001 regarding the submission of copies of approved contracts and their supporting documents to the Auditor within five (5) working days from perfection thereof.",
+      "managementAction": "Submitted request for contract review and contract inspection for certain infrastructures projects.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY15",
+      "year": 2018,
+      "recommendation": "We reiterated our prior year’s audit recommendation that Management: \n\nPrioritize solid waste management programs and projects by providing/allocating enough budget for their full implementation;",
+      "managementAction": "Provided funds for the purchase of lot and development of sanitary landfill.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Lack of funds and people’s lack of interest on its importance."
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY16",
+      "year": 2018,
+      "recommendation": "Exert continuous effort in educating the people of Juban the importance of solid waste management.",
+      "managementAction": "Provided funds for the purchase of lot and development of sanitary landfill.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Lack of funds and people’s lack of interest on its importance."
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY17",
+      "year": 2018,
+      "recommendation": "We reiterated our prior year’s recommendation that Management require the MGSO and the Accountant to maintain Property Cards and PPE Ledger Cards, respectively, for proper identification of the PPE of the Municipality.",
+      "managementAction": "The Accounting Office had already started preparing PPE Ledger Cards for CY 2018. Conducted physical count of PPEs.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY18",
+      "year": 2018,
+      "recommendation": "We recommended that Management conduct disposal of unserviceable properties in accordance with the process prescribed under COA Circular No. 89-296.",
+      "managementAction": "Conducted physical count and prepared inventory report of unserviceable properties.\nSome scrap materials from demolished building were disposed through transfer without cost to barangay upon request to the LCE.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY19",
+      "year": 2018,
+      "recommendation": "We reiterated our prior years’ recommendations that Management strictly comply with DBM and DILG JMC No. 2011-1, as follows: \n\nMaximize the utilization of the 20 per cent Development Fund and implement the programs, projects and activities within the targeted timeframe to achieve the social, economic and environmental outcomes essential in the attainment of the constitutional objective of a desired quality of life for all;",
+      "managementAction": "Monitoring of PPAs under the 20% CDF and PPAs was implemented.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY20",
+      "year": 2018,
+      "recommendation": "Develop a concrete plan that will articulate the program, project and activity, timeline, expected deliverables for each phase, key milestones, etc.;",
+      "managementAction": "Monitoring of PPAs under the 20% CDF and PPAs was implemented.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY21",
+      "year": 2018,
+      "recommendation": "Adopt strategies to conduct periodic monitoring and evaluation of reported accomplishments to guarantee to the stakeholders the accuracy and reliability of information that are relevant in decision-making.",
+      "managementAction": "Monitoring of PPAs under the 20% CDF and PPAs was implemented.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY22",
+      "year": 2018,
+      "recommendation": "We recommended that Management:\n\t\nRequire the concerned personnel to secure copies of the Torrens Title or any equivalent document of all land properties registered under the name of the Municipality from the Land Registration Authority (LRA) and ensure proper safekeeping of the newly secured and subsequently acquired Land Titles;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Available documents are tax declarations only."
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY23",
+      "year": 2018,
+      "recommendation": "Thereafter, require the Municipal Accountant to record the properties over which the Municipality has acquired absolute ownership; and",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Available documents are tax declarations only."
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY24",
+      "year": 2018,
+      "recommendation": "Study the possible use of some idle lands with reference to the provisions of Republic Act Nos. 7160 and 7279.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Available documents are tax declarations only."
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY25",
+      "year": 2018,
+      "recommendation": "We recommended that Management require the contractors to undertake immediate completion of the projects otherwise, take appropriate remedies as provided in the Revised IRR of RA No. 9184 including the computation and payment of liquidated damages.",
+      "managementAction": "The contractor of Construction of Dormitory had taken action after receipt of Notice of Termination by the Management.\n\nSent demand letter/termination letter to the contractor of Construction of Sipaya-Taboc FMR.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The contractor of Construction of Sipaya Taboc FMR performed its work only up to the available cash of the Agency."
+    },
+    {
+      "id": "Juban_Sorsogon-2018-PY27",
+      "year": 2018,
+      "recommendation": "We recommended that the various Revenue Collectors comply strictly with the provisions  of the NGAS Manual and  which is required also under COA Circular No. 2002 – 003 dated June 20, 2002 to enhance the financial operations of the Local Government Unit.",
+      "managementAction": "The Liquidating Officer maintains Monitoring Report of Accountability for Accountable Forms per Revenue Collectors",
+      "status": "IMPLEMENTED",
+      "reason": "Overloaded work of MTO staff"
+    },
+    {
+      "id": "Juban_Sorsogon-2017-PY7",
+      "year": 2017,
+      "recommendation": "We reiterated our prior year’s recommendation that Management require the MGSO and the Accountant to maintain Property Cards and PPE Ledger Cards, respectively, for proper identification of the PPE of the Municipality.",
+      "managementAction": "Not prioritized due to overload of work by the GSO",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Absence of previous years’ reports/records"
+    },
+    {
+      "id": "Juban_Sorsogon-2017-PY8",
+      "year": 2017,
+      "recommendation": "We recommended that Management conduct disposal of unserviceable properties in accordance with the process prescribed under COA Circular No. 89-296.",
+      "managementAction": "Conducted  physical count of unserviceable properties.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not prioritized due to overload of work by the GSO."
+    },
+    {
+      "id": "Juban_Sorsogon-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We reconjmended that Management ensure that the 20 per cent\nDevelopment Fund is used solely for development projects and no amount is utilized\nfor expenditure itéms not allowed to be charged under the DILG and DBM JMC\nNo. 2017-1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommended that:\n\na.\n\nManage\\ent encourage the LDRRMO to exert more effort in\nimplementing actions and measures pertaining to all aspects of disaster\nrisk reduction and management towards building a disaster-resilient\nLGU and communities,\n\nManagement closely monitor the implementation of all PPAs under the\nLDRRMF to facilitate corrective action, if any, and the timely\nreprogramming and reallocation of the fund for its optimum utilization;\n\nThe Mu‘nlclpal Budget Officer see to it that all charges in the LDRRMF\nare related to the four thematic areas of disaster risk reduction and\nmsnageplent as prescribed in NDRRMC, DBM and DILG JMC 2013-1;\nand |\nThe Mq{nicipal DRRM Officer prepare and submit the monthly Report\non the {Sources and Utilization of LDRRMF on time and facilitate\nmonitoring of the accomplishment vis-a-vis the targeted projects for\neffective and efficient utilization of the fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recomn?ended that Management:\n\na. Provide|the necessary training for SWM personnel to ensure that solid\nwastes are properly handled and that the risk of hazards to them and to\nthe pub#ic are avoided or minimized; and\n\nb. Observé the standards and requirements for the collection, transport and\nhandling of solid wastes as required under the IRR of RA No. 9003.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We recomlllended that the LSB strictly comply with the requirements of\nSection 272 of RA! No. 7160 and DepEd, DBM and DILG Joint Circular No. 1 s.\n2017 in identifying the PPAs that reflect an equitable distribution of the mandated\n\n?\n\npriority expenses :?nd refrain from using the SEF outside the scope for which it was\nestablished to avoif.l suspension or disallowance in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2017-PY1",
+      "year": 2017,
+      "recommendation": "We reiterated our prior years’ recommendation that Management require, specifically the GSO and the Accounting Office to reconcile their respective records. In order to do so, the concerned agency officials should investigate the differences noted in the two reports and adjustments, if any, should be effected.",
+      "managementAction": "Conducted  physical count of PPEs and validated its existence as per record",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Absence of previous years’ reports/records"
+    },
+    {
+      "id": "Juban_Sorsogon-2017-PY2",
+      "year": 2017,
+      "recommendation": "We reiterated our prior years’ recommendation that Management require, specifically the GSO and the Accounting Office to reconcile their respective records. In order to do so, the concerned agency officials should investigate the differences noted in the two reports and adjustments, if any, should be effected.",
+      "managementAction": "Some accountable officers are no longer in service.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Non-compliance  of some concerned employees/  official despite reminders and receipt of demand letters."
+    },
+    {
+      "id": "Juban_Sorsogon-2017-PY3",
+      "year": 2017,
+      "recommendation": "We reiterated our prior years’ recommendations that Management: a. require the BAC, the Secretariat and the TWG to strictly abide by the standards set forth by RA No. 9184, its Revised IRR and other relevant laws on government procurement; b. require them also to exercise due diligence in the performance of their duties to ensure that all requirements of the procurement law are faithfully adhered to; and c. direct the Municipal Accountant to observe the requirements of COA Circular No. 2012-001 at all times to avoid suspension or disallowance in audit. Also, we recommended that Management observe the requirements of COA Circular No. 2009-001 regarding the submission of copies of approved contracts and their supporting documents to the Auditor —within—five(5)~working days from perfection thereof.",
+      "managementAction": "Required the BAC, the Secretariat and the TWG to strictly abide by the standards set forth by RA NO. 9184, its Revised IRR and other relevant laws on government procurement.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Poor internet connection"
+    },
+    {
+      "id": "Juban_Sorsogon-2017-PY4",
+      "year": 2017,
+      "recommendation": "We reiterated our prior year’s recommendation that the LSB comply strictly with the requirements of Section 272 of RA No. 7160 and DECS-DBM-DILG Joint Circular Nos. 01 s. 1998, 01-A s. 2000 and 01-B s. 2001, as follows: a. identify the PPAs that reflect an equitable distribution of the mandated priority expenses and refrain from using the SEF outside the scope for which it was established; and b. maximize the implementation of the identified and prioritized PPAs to ensure efficient utilization of the fund so that its objectives are fully achieved.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2017-PY5",
+      "year": 2017,
+      "recommendation": "We reiterated our prior year’s audit recommendation that Management: a. prioritize solid waste management programs and projects by providing/allocating enough budget for their full implementation; b. strictly comply with RA No. 9003 on the establishment of solid waste facility; and c. exert continuous effort in educating the people of Juban the importance of solid waste management.",
+      "managementAction": "Provided funds for the purchase of lot and development of sanitary landfill.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Lack of funds and people’s  lack  of interest on its importance."
+    },
+    {
+      "id": "Juban_Sorsogon-2017-PY6",
+      "year": 2017,
+      "recommendation": "We recommended that Management ensure that the basic requirements for the suspension of work and extension of contract time are complied with in accordance with Annex E of the Revised IRR of RA No. 9184 and that proper documentation is observed at all times to warrant the propriety of the transactions of the Municipality.",
+      "managementAction": "Ensured that the basic requirements for the suspension and extension of contract time are observed",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2017-PY9",
+      "year": 2017,
+      "recommendation": "We reiterated our prior years’ recommendations that Management strictly comply with DBM and DILG JMC No. 2011-1, as follows: a. maximize the utilization of the 20 per cent Development Fund and implement the programs, projects and activities within the targeted timeframe to achieve the social, economic and environmental outcomes essential in the attainment of the constitutional objective of a desired quality of life for all; b. develop a concrete plan that will articulate the program, project and activity, timeline, expected deliverables for each phase, key milestones, etc.; and c. adopt strategies to conduct periodic monitoring and evaluation of reported accomplishments to guarantee to the stakeholders the accuracy and reliability of information that are relevant in decision-making.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2017-PY10",
+      "year": 2017,
+      "recommendation": "We recommended that Management: a. require the concerned personnel to secure copies of the Torrens Title or any equivalent document of all land properties registered under the name of the Municipality from the Land Registration Authority (LRA) and ensure proper safekeeping of the newly secured and subsequently acquired Land Titles; b. thereafter, require the Municipal Accountant to record the properties over which the Municipality —has acquired absolute ownership; and c. study the possible use of some idle lands with reference to the provisions of Republic Act Nos. 7160 and 7279.",
+      "managementAction": "Titling of Four (4) Municipal lots s ongoing.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2017-PY11",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Treasurer prepare an up-to-date list of all delinquent taxpayers, exert extra effort in developing strategies to collect the Real Property and Special Education Taxes and avail of the remedies provided under Section 256 of RA No. 7160 to lessen the tax delinquency.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2017-PY12",
+      "year": 2017,
+      "recommendation": "We recommended that Management direct the GAD Focal Person to: a. prepare the GAD Accomplishment Report following the prescribed format as provided in Annex E of the PCW-DILG-DBM-NEDA Joint Memorandum Circular No. 2013-01; and b. specify the particular GAD activities undertaken and the actual results thereof.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2017-PY13",
+      "year": 2017,
+      "recommendation": "We recommended that Management require the contractors to undertake immediate completion of the projects otherwise, take appropriate remedies as provided in the Revised IRR of RA No. 9184 including the computation and payment of liquidated damages.",
+      "managementAction": "Sent demand letter/termination letter to the contractor of Construction of Sipaya-Taboc FMR.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The contractor of Construction of Sipaya-Taboc FMR performed its work only up to the available cash of the Agency. Dormitory had taken action after receipt of Notice of Termination by the Management."
+    },
+    {
+      "id": "Juban_Sorsogon-2017-PY14",
+      "year": 2017,
+      "recommendation": "We recommended that the Office of the Municipal Accountant review these non-moving accounts, reconcile the same with other related accounts, if possible, and prepare the necessary adjustments, if any. If the review shows that these accounts have been dormant or non-moving for more than five years, or if review and analysis is not possible, the same should be requested for write-off pursuant to COA Circular No. 97-001.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Management was unable to gather all the necessary  documents because no record was turned over by previous accountants"
+    },
+    {
+      "id": "Juban_Sorsogon-2017-PY15",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Treasurer deposit all collections intact daily or not later than the next banking day to the authorized government depository bank pursuant to Section 28 of COA Circular No. 92-382 dated July 3, 1992 and Section 32 of the Manual on NGAS for LGUs, Volume 1. We likewise recommended that the salaries of the concerned accountable officer be withheld until such time that collections are fully deposited and suspend the release of accountable forms to those AOs with undeposited amount.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2017-PY16",
+      "year": 2017,
+      "recommendation": "We recommended that the various Revenue Collectors comply _strictly with the provisions of the NGAS Manual and which is required also under COA Circular No. 2002 — 003 dated June 20, 2002 to enhance the financial operations of the Local Government Unit.",
+      "managementAction": "The Liquidating MTO staff Officer maintains Monitoring Report of Accountability for Accountable Forms per Revenue Collectors",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Overloaded work of MTO staff"
+    },
+    {
+      "id": "Juban_Sorsogon-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We reiterated our prior years' recommendation that Management require,\nspecifically the GSO and the Accounting Office to reconcile their respective records. In\norder to do so. the concerned agency officials should investigate the differences noted in\nthe two reports and a‘d]'mtments, if any, should be effected.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We reiterated our prior years’ recommendations that Management:\ni\na. request tfle concerned officials and employees to liquidate/seitle immediately\ntheir outsrandmg cash advances by demanding the submission of duly\naccomplished liquidation reports. Otherwise, withhold any money due them;\n\nb. sirengtherjl the operation of preventive and monitoring controls fo ensure\ntimely submission of liquidation documents and full accounting of balances of\ncash advances; and\n\nc. institute appropriate legal actions/sanctions against those erring accountable\nofficers/employees for continued non-compliance with the existing laws, rules\nand regulatzons on the granting, utilization and liquidation of cash advances,\nif warranted,",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We reiterated our prior year's recommendations that Management:\n|\n\na. require the BAC, the Secretariat and the TWG to strictly abide by the\nstandards set forth by RA No. 9184, its Revised IRR and other relevant laws\non government procurement;\n\nb. require th;em also to exercise due diligence in the performance of their duties\nto ensure that all requirements of the procurement law are faithfully adhered\nto; and |\n\nc. direct the%Alunicipal Accountant to observe the requirements of COA Circular\nNo. 2012-001 at all times to avoid suspension or disallowance in audit\ni\nAlso, we recommended that Management observe the requirements of COA\nCircular No. 2009-001 regarding the submission of copies of approved contracts and\ntheir supporting documents fo the Auditor within five (5) working days from perfection\nthereof.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We reiterated our prior year’s recommendation that the LSB comply strictly with\nthe requirements of Section 272 of R4 No. 7160 and DECS-DBM-DILG Joint Circular\nNos. 01 5. 1998, 01-4 s. 2000 and 01-B 5. 2001, as follows:\n\na. identify the PPAs that reflect an equitable distribution of the mandated\npriority expenses and refrain from using the SEF outside the scope for which\nit was established; and\n\nb. maximize the implementation of the identified and prioritized PPAs to ensure\nefficient utilization of the furnd so that its objectives are fully achieved.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We reiteraied our prior year's audit recommendation that Management:\n\na. priovitize, solid waste management  programs and  projects by\nproviding/allocating enough budget for their full implementation;\n\nb, siricily c&mply with RA No. 9003 on the establishment of solid waste facility;\nand |\n\nc. exert continuous effort in educating the people of Juban the importance of\nsolid waste management.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommended that Management ensure that the basic requirements for the\nsuspension of work and extension of contract time are strictly complied with in\naccordance with Annex E of the Revised IRR of RA No. 9184 and that proper\ndocumentation is observed af all times to warrant the propriety of the transactions of the\nMunicipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We reiterated our prior year’s vecommendation that Management require the\nGSO and the Accounting Office to maintain Property Cards and PPELCs, respectively,\nfor proper identification of the PPE of the Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We recommended that Management conduct disposal of unserviceable properties\nin accordance with the process prescribed under COA Circular No. 89-296.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-OBS9",
+      "year": 2016,
+      "recommendation": "We reiterated our prior year’s recommendations that Management strictly comply\nwith DBM and DILG JMC No. 2011-1, as follows:\n\na. maximize |the utilization of the 20 per cent Development Fund and implement\nthe programs, projects and activities within the targeted timeframe to achieve the\nsocial, economic and environmental outcomes essential in the attainment of the\nconstitutional objective of a desired quality of life for all;\n\nb. develop a|concrete plan that will articulate the program, project and activity,\ntimeline, expected deliverables for each phase, key milestones, etc.; and\n\nc. adopt strategies to conduct periodic monitoring and evaluation of reported\naccomplishments to guarantee to the stakeholders the accuracy and reliability\nof information that are relevant in decision-making.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-PY1",
+      "year": 2016,
+      "recommendation": "We recommended that\nManagement require,\nspecifically the GSO and\nthe Accounting Office to\nreconcile their respective\nrecords. In order to do so,\nthe concemed agency\nofficials should investigate\nthe differences noted in the\ntwo reports and\nadjustments, if any should\nbe effected.",
+      "managementAction": "Management\nconducted physical\ncount of PPEs and\nvalidated its existence\nper record.",
+      "status": "UNKNOWN",
+      "reason": "Absence. of previous\nyears’\nreports/records."
+    },
+    {
+      "id": "Juban_Sorsogon-2016-PY2",
+      "year": 2016,
+      "recommendation": "We recommended that the\nLocal Chief Executive\nrequire the GSO to\nconduct a physical count\nof all PPE of the\nMunicipality to identify\nand validate the existence\nof the recorded PPE and\nsubmit  the  inventory\nreport in accordance with\nthe existing rules and\nregulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-PY3",
+      "year": 2016,
+      "recommendation": "We recommended that\nManagement:\n\na. require the BAC, the\nSecretariat and  the\nTWG to strictly abide\nby the standards set\nforth by RA No. 9184,\nits Revised IRR and\nother relevant laws on\ngovernment\nprocurement;\n\nb. require them also fto\nexercise due diligence\nin the performance of\ntheir duties to ensure\nthat all requirements of\nthe procurement law\nare faithfully adhered\nto; and",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-PY4",
+      "year": 2016,
+      "recommendation": "We recommended that\nManagement:\n\na. follow up the approval\nof the 10-year\nMunicipal Solid Waste\nManagement Plan to\nserve as guide for the\nefficient management\nof solid waste\ngenerated within the\nMunicipality’s\nJjurisdiction;\n\nb. prioritize solid waste\nmanagement programs\nand projects by\nproviding/allocating\nenough budget for their\nfull implementation;",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Lack of fund and\npeople’s  lack of\ninterest  of  its\nimportance."
+    },
+    {
+      "id": "Juban_Sorsogon-2016-PY5",
+      "year": 2016,
+      "recommendation": "We recommended that\nManagement:\n\na. require the concerned\npersonnel to  secute\ncopies of the Torrens\nTitle or any equivalent\ndocument of all land\nproperties  registered\nunder the name of the\nMunicipality from the\nLand Registration\nAuthority (LRA) and\nensure proper\nsafekeeping of the\nnewly secured and\nsubsequently acquired\nLand Titles;\n\nthereafter, require the\nMunicipal Accountant\nto record the properties\nownership; and\n\nstudy the possible use\nof some idle lands with\nreference  to  the\nprovisions of Republic\nAct Nos. 7160 and\n7279.",
+      "managementAction": "Titling  of  four\nMunicipal lots is in\nprocess.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-PY6",
+      "year": 2016,
+      "recommendation": "b.\n\nstrengthen the\n\n_operation of preventive\n\nand monitoring\n\ncontrols 1o  ensure\n\ntimely submission of\n\nliquidation documents\n\nand full accounting of\n\nbalances  of  cash\n\nadvances;\n\nc.\n\ninstitate  appropriate\n\nlegal actions/sanctions\n\nagainst those erring\n\naccountable\n\nofficers/employees  for\n\ncontinued non-\n\ncompliance with the\n\nexisting laws, rules and\n\nregulations on the\n\ngranting,  utilization\n\nand liquidation of cash\n\nadvances, if watranted;\n\nand\n\nd. reclassify to Other\n\nReceivables  account\n\nthe cash advances and\n\ncash  shortages of\n\nformer officials and\n\nemployees amounting\n\nto B247,569.37 and |\n\n| 228,130.20,",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Non-compliance of\nconcerned\nemployees/officials\ndespite  reminders\nand demand letters."
+    },
+    {
+      "id": "Juban_Sorsogon-2016-PY7",
+      "year": 2016,
+      "recommendation": "We recommended that\nManagement:\n\na. obtain a signed copy of\n\nthe MOA as basis for\n\nthe implementation of\n\nthe project;\n\nb. direct the OIC-\n\nMunicipal\n\nAgriculturist with the\n\nsupport of the KALIPI\n\n‘Women’s Federation to\n\nhasten the\n\nimplementation of the\n\nproject to attain its\n\ndesired objective of\n\nproviding an\n\nopportunity for the\n\nwomen to contribute in\n\nthe poverty alleviation\n\nin the locality; and\n\nc. in the future, instruct\n\nthe concerned officials\n\nthat__all\n\nsalient provisions are\n\nincorporated in the\n\nMOA for all\n\nundertakings for an\n\neffective and efficient\n\nimplementation of the\n\nsame,",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-PY8",
+      "year": 2016,
+      "recommendation": "We recommended that the\nMunicipal Treasurer\nprepare an up-to-date list\nof all delinquent taxpayers,\nexert extra effort in\ndeveloping strategies to\ncollect the Real Property\nand Special Education\nTaxes and avail of the\nremedies provided under\nSection 256 of RA No.\n7160 to lessen the tax\ndelinquency.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-PY9",
+      "year": 2016,
+      "recommendation": "DECS-DBM-DILG _ Joint.\n\n__of RA No. 7160 and the | Circular Nos. 01 s. 1998,\n\npertinent  provisions of | 01-A s. 2000 and 01-B s.\n\nDECS-DBM-DILG Joint | 2001, as follows:\n\nCircular Nos. 01 s. 1998, | a. identify the projects,\n\n01-A s. 2000, and 01-B\n\ns. 2001, thus defeating | programs and activitics\n\nthe purpose and intent that reflect an equitable\n\nfor which the Fund was distribution  of  the\n\nestablished. projects and refrain\n\nfrom using the Special\n\nEducation Tund\n\noutside the scope for\n\nwhich it was\n\nestablished; and\n\nb. maximize the\n\nimplementation of the\n\nidentified and\n\nprioritized programs to\n\nensure efficient\n\nutilization of the Fund\n\nso that its objectives\n\nare fully achieveﬁ.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-PY10",
+      "year": 2016,
+      "recommendation": "We recommended that\nManagement observe the\nrequirements of\n\nNDRRMC-DBM-DILG\n\nJoint Memorandum\n\nCircular No. 2013-1 at all\n\ntimes to ensure that the\n\nLDRRMF is used strictly\n\nfor disaster risk reduction\n\nand management activities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-PY11",
+      "year": 2016,
+      "recommendation": "We  recommended  that\nManagement require the\nMGSO and the Accountant\nto maintain Property Cards\nand PPE Ledger Cards,\nrespectively, for proper\nidentification of the PPE of\nthe Municipality.",
+      "managementAction": "Soft copies are being\nmaintained.",
+      "status": "UNKNOWN",
+      "reason": "Non-maintenance of\nPPE ledger cards was\ndue to lack of\npersonnel."
+    },
+    {
+      "id": "Juban_Sorsogon-2016-PY12",
+      "year": 2016,
+      "recommendation": "10121 and COA Circular\nNo. 2012-002",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-PY13",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-PY14",
+      "year": 2016,
+      "recommendation": "dation\na. prepare the GAD\nAccomplishment\nReport following the\nprescribed format as\nprovided in Annex E of\n\nthe  PCW-DILG-\nDBM-NEDA Joint\nMemorandum Circular\nNo. 2013-01; and\n\nb. specify the particular\nGAD activities\nundertaken and the\nactual results thereof,",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-PY15",
+      "year": 2016,
+      "recommendation": "We recommended that\nManagement comply with\nthe  Supreme  Court’s\nDecision dated November\n19, 2013 in G.R. Nos.\n\n208566, 208493  and\n\n209251 on PDAF and\n\nremit immediately the\n\nunutilized portion of said\n\nfunds to the Bureau of\n\nTreasury.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-PY16",
+      "year": 2016,
+      "recommendation": "comply with DBM and\nDILG Joint Memorandum\nCircular No. 2011-1, as\n\n follows:\n\na.\n\nmaximize the\n\nutilization of the 20 per\n\ncent Development\n\nTFund and implement\n\nthe programs, projects\n\nand activitics within\n\nthe targeted timeframe\n\nto achieve the social,\n\neconomic and\n\nenvironmental\n\noutcomes essential in\n\nthe attainment of the\n\nconstitutional objective\n\nof a desired quality of\n\nlife for all;\n\ndevelop a concrete\n\nplan/utilization  report\n\nthat will articulate the\n\nprogram, project and\n\nactivity, timeline,\n\nexpected _deliverables\n\nfor each phase,b kéy\n\nmilestones, etc.; and\n\nc. adopt sirategies to\n\nconduct periodic\n\nmonitoring and\n\naccomplishments  to\n\nguarantee  to  the\n\nstakeholders the\n\naccuracy and reliability\n\nof information that are\n\nrelevant in decision-\n\nmaking.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-PY17",
+      "year": 2016,
+      "recommendation": "We  recommended that\nManagement require the\ncontractors to undertake\nimmediate completion of\nthe projects otherwise,\ntake appropriate remedies\nas provided in the Revised\nIRR of RA No. 9184\nincluding the computation\nand payment of liquidated\ndamages.",
+      "managementAction": "Management sent\nnotice of termination to\nthe contractor of the\nDormitory ~ Building.\nThe contractor took\naction afler the receipt\nof said notice.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-PY18",
+      "year": 2016,
+      "recommendation": "We recommended that the\nOffice of the \" Municipal\nAccountant review these\nnon-moving accounts,\nreconcile the same with\nother related accounts, if\npossible, and prepare the\nnecessary adjustments, if\nany. If the review shows\nthat these accounts have\nbeen dormant or mnon-\nmoving for more than five\nyears, or if review and\nanalysis is not\npossible, the same should\nbe requested for write-off\npursuant to COA. Circular\nNo. 97-001.",
+      "managementAction": "Management was not\nable to gather all the\nnecessary documents\nbecause no record\nwas turned over by\nthe previous\naccountants,",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-PY19",
+      "year": 2016,
+      "recommendation": "We recommended that\nManagement adopt the\nPerpetual Inventory\nMethod in the recording\nand issuance of drugs and\nmedicines and comply with\nthe process and\ndocumentation prescribed\nunder Sections 114 and\n\n121 of the Manual on\nNGAS for LGUs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-PY20",
+      "year": 2016,
+      "recommendation": "We recommended that\n\n| Management conduct the |\ndisposal of unserviceable\nproperty in accordance\nwith the process\nprescribed under COA\nCircular No. 89-296.",
+      "managementAction": "Disposal of\n| unserviceable\nproperties was not\npriotitized due to\nwork overload.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-PY21",
+      "year": 2016,
+      "recommendation": "We recommended that the\nMunicipal Treasurer\ndeposit  all  collections\nintact daily or not later\nthan the next banking day\nto the aythorized\ngovernment depository\nbank pursuant to Section\n28 of COA Circular No.\n92-382 dated July 3, 1992\nand Section 32 of the\nManual on NGAS for\nLGUs, Volume I We\nlikewise recommended that\nthe salaries of the\nconcerned accountable\nofficer be withheld until\nsuch time that collections\nare fully deposited and\nsuspend the release of\n\n“accountable forms to those\n\nAOs with undeposited\namount.",
+      "managementAction": "Previous accountable\nofficers partially paid\ntheir  undeposited\ncollections.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Juban_Sorsogon-2016-PY22",
+      "year": 2016,
+      "recommendation": "We recommended that the\nvarious Revenue\nCollectors comply strictly\nwith the provisions of the\nNGAS Manual and which\nis required also under COA\nCircular No. 2002 — 003\ndated June 20, 2002 to\nenhance  the  financial\noperations of the Local\nGovernment Unit.",
+      "managementAction": "The Liquidating\nofficer maintains\nmonitoring report of\naccountability  for\naccountable  forms\nper revenue\ncollectors,",
+      "status": "UNKNOWN",
+      "reason": ""
+    }
+  ]
+}

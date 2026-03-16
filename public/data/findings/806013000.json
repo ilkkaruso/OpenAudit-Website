@@ -1,0 +1,1878 @@
+{
+  "lguCode": "806013000",
+  "lguName": "Pinabacdao",
+  "province": "Samar",
+  "region": "Region VII (Central Visayas)",
+  "scores": {
+    "total": 1,
+    "normalized": 0.99,
+    "maxStreak": 1,
+    "currentStreak": 1
+  },
+  "observations": [
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended and the MA agreed to draw a JEV to record the following entries:\nDebit – Trust Liabilities 2-04-01-010 P 8,705,966.00\nCredit - Government Equity 4-03-02-030 P 8,698,119.00\nDue to Other Funds 2-03-01-010 P 7,847.00",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The documents for the correcting entries were not submitted for validation.\nThe transaction documents cannot be traced to the CY 2021 General Ledgers."
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended that:\na) the GSO use RIS in the issuance of inventories for consolidation in the RSMI and submit both documents to the AU at the end of the month for recording; and\nb) the AU:\n   i) coordinate with the GSO for the conduct of physical count of undistributed goods at the end of the year so that appropriate adjustment be made restoring the carrying value of undistributed inventory in the books;\n   ii) classify goods for distribution as inventory under Welfare Goods for Distribution account, and recognize the same as expense only upon issuance to distribution site, as reported in the RSMI and duly supported with RIS; and\n   iii) recognize expenses to their appropriate expense account, to avoid reporting of inaccurate information.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The LGU did not submit proof of compliance with the audit recommendations.\nDocuments were not submitted for validation."
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended that the LCE require:\n(a) the BAC Chairman to strictly comply with the posting requirements of the GPPB to ensure accountability and transparency of government transactions, and aid in the accurate reporting by the GPPB of information on government procurements; and\n(b) the BAC Chairman and MA to strictly comply with the documentary requirements prescribed by the GPPB on procurements of highly needed goods during the state of national emergency, to avoid possible losses of government funds.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No documents were submitted for validation."
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended that the MA submit the following documents:\na. Proof that the personnel and workers have physically reported for work at their respective offices or work stations, such as but not limited to:\n   • Approved DTRs/Certificate of Service\n   • Accomplishment Reports\n   • Logbooks\n   • Minutes of the Meetings\nb. Authority to report for work during ECQ, for the payments totaling P487,750.00; and\nc. Duly received payrolls, for the payment to regular employees amounting P203,750.00.\nWe also recommended that the MA carefully review the work of the bookkeepers/staff, particularly in the recording of the Municipality’s transactions, to avoid reporting of inaccurate information.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Related audit observations are mentioned in Part II of this report."
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommended that the LCE require the Municipal Accountant to:\na. draw a Journal Entry Voucher to adjust the net understatement of P95,486.04; \nb. include in the Schedule of Status Report of Unliquidated Cash Advances the outstanding cash advances totaling ₱182,352.96, as basis in the issuance of demand letters to accountable officers withissuance of demand letters; and\nc. exert more effort to identify the remaining unaccounted cash advances totaling ₱826,577.05, and immediately apply appropriate actions to settle the same.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Accounting Office still to include in the schedule the composition of the outstanding cash advances.\nThere were still some reconciling items and absence of updated BRS. (Nos. 25 and 26)"
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We recommended that the LCE direct the Accountant to prepare and submit immediately the Bank Reconciliation Statement for each account maintained with the depository banks, as required under Section 74 of PD No. 1445 and COA Circular No. 96-011.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in Part II of this report."
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "We recommended that the LCE requires the Municipal Accountant, Municipal Engineer and General Services Officer be directed to comply with the Accounting and Reporting Procedures on Local Road Asset Management System duties and responsibilities provided in Items V to VII of COA Circular No. 2015-008 dated November 23, 2015.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "There were no disclosures in the Notes to Financial Statements.\nThe Subsidiary Ledgers were not submitted for validation."
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY14",
+      "year": 2021,
+      "recommendation": "We recommended that the LCE requires the designated Municipal Engineer to submit the Bidding Documents, Plans/Drawings, Program of Works and As-Built Plans for the subject infrastructure projects and henceforth, ensure that all contracts and disbursement vouchers submitted to the auditors are supported with complete documentation.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No documents were submitted for validation."
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY15",
+      "year": 2021,
+      "recommendation": "We recommended that the LCE require the Municipal Economic Enterprise Officer and the Municipal Accountant to prepare and submit the required physical and financial reports for the economic enterprises of the Municipality, for monitoring of the operating performance and viability of the LEEs and to serve as decision-making tool of the agency.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No documents were submitted for validation."
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY16",
+      "year": 2021,
+      "recommendation": "We recommended that the LCE:\na) Require the Municipal Accountant to: (1) Prepare updated bank reconciliation statements for each bank account and effect adjustments on identified reconciling items, including the unrecorded bank credits totaling ₱596,690.00; and (2) Verify the unaccounted/unidentified balance in the Trust Fund amounting ₱1,595,823.63.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "There were still some reconciling items and absence of updated BRS.\nReiterated in Part II of this report."
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY17",
+      "year": 2021,
+      "recommendation": "We recommended the LCE:\nEnsure that the LDRRM Office operates effectively, for constituents to receive the exact DRRM services and the benefits therefrom, including the appointment of qualified personnel and creation of position of three (3) staff to supervise the DRRM activities.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No documents were submitted for validation."
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY19",
+      "year": 2021,
+      "recommendation": "We recommended that the LCE require:\na. the concerned personnel to expedite the processing of land title in the name of the municipality; and\nb. periodic monitoring and follow-up of the processing of the land titling",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The LGU designated a personnel who will focus on the land titling. Management still has to ask the Assessor for the monthly status report."
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY20",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Accountant reconcile the reciprocal accounts in the General Fund, Trust Fund, and Special Education Fund books and effect adjustments to correct the account balances in the Financial Statements.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The reconciliation function cannot be delegated as of this time since there are other issues to be addressed such as the recording adjustments of previous years."
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY22",
+      "year": 2021,
+      "recommendation": "We recommended that the Inventory Committee conduct the physical count of the local roads and submit the Report on the Physical Count of the Road Network System. Likewise, enjoin all concerned department heads to submit a lapsing schedule for the computation of depreciation, maintain a Local Road Inventory and Road Map, keep a complete Local Road Network Property Card, render a Report on Local Road Network and provide disclosure in the Notes to the Financial Statements of the LGU.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management still has to obtain the detailed list and carry out inventory taking and reconciliation."
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY23",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Accountant prepare the correcting entries on the errors made affecting Cash in Bank accounts; validate and verify all reconciling items in the Bank Reconciliation Statements and make the necessary adjustment in the books to avoid its repetitive inclusion in subsequent BRS, and provide subsidiary ledgers for each bank account.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Related audit observations are mentioned in Part II of this report."
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY24",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor comply with the requirements provided for in the Notice of Suspension issued on the said transaction.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Validation documents were not submitted."
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY25",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Treasurer and the Municipal Accountant submit immediately the lacking Disbursement Vouchers and its supporting documents as well as the original copies of cancelled checks.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "There were still cancelled/stale/spoiled checks that needed validation; Management to provide the missing documents."
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY26",
+      "year": 2021,
+      "recommendation": "Require the Municipal Accountant to submit the lacking DVs together with the supporting documents.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lacking DVs were not completely submitted; management claims some were already submitted in prior years but could not show proof."
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY27",
+      "year": 2021,
+      "recommendation": "We recommended that the LCE require the Municipal Accountant to submit the missing documents pursuant to Section 13 of COA Circular No. 2012-001 dated June 14, 2012.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The LGU still has to ask for update from the Assessor’s Office as to the status of LGU properties."
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY28",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to draw a Journal Entry Voucher to record the necessary adjustments to come up with correct account balances.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No documents were submitted for validation."
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "1.16 We recommended and the Local Chief Executive agreed to ;\n1. Direct the Municipal Accountant to:\na. Draw a JEV for the erroneous and omitted transactions related to CIB – LCCA;\nb. Draw a JEV to recognize an intra-agency receivable from other funds and effect the actual fund transfer.\nc. Create a task group to prepare the BRS; and\nd. Prepare the subsidiary ledgers for each depository account under the Trust Fund.\n\n1.17 The Municipal Accountant (MA) has drawn correcting entries for the errors. Likewise, the MA confirmed that BRS will be part of the focus and currently preparing subsidiary ledgers for each depository accounts under Trust Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "2.4 We recommended and the LCE agreed to direct the Municipal Treasurer to properly account the collections and deposits and submit the RCD to the Accounting Unit on a timely manner, in order to properly account the collections in the year the transactions occurred.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "3.10 We recommended and the LCE agreed to:\na. Create an Inventory Committee as required by COA Circular No. 2020-006 dated January 31, 2020;\nb. Require the Municipal Accountant and Municipal General Services Officer to reconcile the variances between the actual counts and recorded PPEs; and\nc. Require the Municipal Accountant to review and draw adjusting entries for the discrepancies in the PPE accounts.\n\n3.11 During the exit conference, the MGSO has committed to have close coordination with the Accounting Unit for PPE reconciliation. Moreover, the MA agreed to draw a JEV for the correcting entries.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "4.9 We recommended and the LCE agreed to direct the Municipal Accountant to:\na. Prepare the necessary adjusting journal entries to effect the corrections on erroneous/unposted accounting entries; and\nb. Henceforth, exercise due diligence in the posting of accounts and preparation of journal entries.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "5.11 We recommended and the LCE agreed to require the Municipal Accountant to draw an adjusting entry to set up the Due from LGUs for the transfer of funds to the recipient barangays and remind her to strictly follow the existing accounting standards in IPSASs and COA Circular No. 2015-009 dated December 01, 2015.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "6.17 We recommended and the LCE agreed to:\na. Instruct the Municipal Accountant to properly accrue and transfer the unexpended 5% LDRRMF from the General Fund to the Trust Fund account;\nb. Instruct the Municipal Accountant to draw a JEV to reclassify the entry made for the acquired equipment for the LDRRM;\nc. Require the Administrative Officer (HRMO II):\n1. To review the designation order for LDRRMO II if in accordance with the existing CSC rules and regulation;\n2. Expedite the recruitment process for LDRRMO II; and\n3. Review the plantilla positions and initiate the creation or establishment of three (3) DRRM staff;\n\n6.18 The MA commented that she has transferred the unexpended LDRRMF from General Fund to Special Trust Fund. The MA also recognized the adjusting entry to for the PPEs. The HRMO II also agreed and will expedite the process on the recruitment of LDRRMO II. Likewise, the management will look into the fund availability if additional three (3) DRRM staff can be accommodated taking into account the Personnel Services limitations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "7.17 We recommended and the LCE agreed to;\n1. Direct the Municipal General Services Officer to establish control in monitoring Purchase Orders or contract with pending delivery of goods or services;\n2. Direct the Municipal Accountant to:\na) Draw a JEV for the recovery of the liquidated damages from supplier and send demand letter for the refund;\nb) Draw a JEV to recognize a receivable from the Job Order Personnel and offset/deduct the collectibles from their respective salaries and return the amount of ₱50,500.00 to DOLE-8 once collected; and\nc) Draw a JEV for the unrecorded refund to DOH-8 of ₱23,409.01.\n3. Direct the Municipal PESO Manager Designate that henceforth, to revalidate list of beneficiaries of the same programs to make sure that there will be no duplication of benefits;\n4. Require the PHWs concerned to submit immediately to the audit team, thru the Accountant, the following documents to establish their claim to SRAs under AO No. 36:\na) Authority for the entitlement of the allowance/ office order/ authority to report for work;\nb) Daily Time Records with Biometric printouts/copies of logbook or Certificate of Attendance in the COVID Facility/Center by their immediate supervisor during the period of claims;\nc) Accomplishment reports indicating the number of COVID patients attended to in a day; and\nd) For health workers not directly catering COVID-19 patients, an explanation as to the scientific basis for the premise that healthcare workers not directly catering to COVID-19 patients are equally exposed to COVID-19 and can be considered “in contact with COVID-19 patients”, and thus should be given the SRA.\n\n7.18 The MGSO will have to establish a monitoring tool for the pending Purchase Orders and Contracts. Likewise, the Designated PESO Manager reassured to revalidate list of beneficiaries for similar activities. Meanwhile, the Municipal Accountant has prepared the correcting entries in the books of accounts. Moreover, the Management agreed to recover the payment made to ineligible TUPAD beneficiaries and refund to DOLE-8.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-OBS8",
+      "year": 2021,
+      "recommendation": "8.8 We recommended and the LCE agreed to:\na. Ensure the immediate implementation of the PPA’s funded from the 20% Development Fund;\nb. Require the MPDC to review developmental projects that are feasible for implementation and ensure that the programs, projects and activities are well-planned and procurement-and-implementation ready; and\nc. Include in the provisions of the MOA the period of submission of the liquidation reports by the concerned recipients and that the non-implementation or non-liquidation of the transferred funds within the allotted timeframe would disqualify the delinquent barangay/s from being a recipient of financial assistance for future projects.\n\n8.9 The MPDC emphasized on its reply to the AOM No. 2022-001(2021) that as of audit report, at least three (3) projects out of eleven (11) unimplemented PPAs as of December 31, 2021 were fully implemented and completed in CY 2022. While the other eight (8) PPAs are still in the on process of implementation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-OBS9",
+      "year": 2021,
+      "recommendation": "9.11 We recommended and the LCE agreed to :\na. Instruct the Administrative Officer or HRMO to meticulously calculate the accumulated leave credit balance of every officer and employee; submit to the Audit Team the Leave Cards and Certification from previous employer; and submit supporting documents on the erroneous terminal leave credit grants; and\nb. Instruct the Municipal Accountant to initiate the recovery through sending demand letter to the retirees with excess payments of TLB, if warranted.\n\n9.12 During the exit conference, the Municipal Accountant pointed out that she relied on the submitted documents for the Terminal Leave of retirees hence she did not meticulously recalculate the presented supporting documents in relation to the claims. Henceforth, the MA will now revalidate or recalculate the TLB of the retirees. Likewise, the HRMO committed to submit to the Audit Team the lacking documents for the TLB.\n\nCompliance with Tax Laws\nManagement complied with the existing BIR rules and regulations and remitted to the Bureau of Internal Revenue (BIR) taxes withheld as of December 31, 2021 totaling ₱5,940,719.08.\n\nSummary of Audit Suspensions, Disallowances and Charges\nThe balances of audit suspensions, disallowance and charges as of December 31, 2021 are summarized as follows:\nJanuary to December\nBeg. Balance 2021 Ending Balance\nParticulars\nAs of Dec. 31,\n2020 NS/ND/NC NSSDC Dec. 31, 2021\nNotice of ₱11,381,770.57 00.00 00.00 ₱11,381,770.57\nSuspension\nNotice of 839,770.30 00.00 00.00 839,770.30\nDisallowance\nNotice of Charge 00.00 00.00 00.00 00.00\nTotal ₱12,221,540.87 00.00 00.00 ₱12,221,540.87",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Accountant (MA) draw the following entries:\nCash in Bank – LCCA 1-01-02-010 P 8,485,000.00\nDue to National Government Agencies 2-04-01-010 P 8,485,000.00\nWe further recommended that the MA faithfully perform her duty by recording financial transactions and operations conformably with generally accepted accounting standards, like the IPSAS, and applicable rules and regulations.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended that the GSO immediately submit to the AU the relevant documents on the donations for proper recording in the books.\nHenceforth, the GSO is enjoined to always inform the latter of similar transactions, for immediate recording in the books.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended that Management ensure strict adherence with the laws, rules and regulations on the payment of COVID-19 SRA and other similar allowances, to avoid audit disallowances.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended that the MT should immediately conduct an inventory of all unused checks of the Municipality per bank account, for inclusion in the RAAF and strictly monitor subsequent receipts, issuances and balances using the said report, to arrive at a precise information on all accountable forms of the Municipality, and avoid its possible losses.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "We recommended the LCE directs the Municipal Accountant to prepare and submit the supporting detail/schedules and to provide adequate and necessary disclosure in the Notes to Financial Statements.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "We recommended that the LCE requires the BAC and Secretariat to submit justifications on the non-posting of results of procurements, and the identified lacking documents. Henceforth, follow strictly the provisions in the Revised IRR of RA No. 9184 to avoid legal sanctions.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY18",
+      "year": 2021,
+      "recommendation": "We recommended that the LCE require the BAC to submit the lacking bidding documents.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar_aar2021-PY21",
+      "year": 2021,
+      "recommendation": "We recommended that the LCE require the Local School Board strictly follow the time table in the planning and budgeting of SEF, in accordance with RA 7160 and DepED-DBM-DILG Joint Circular 1, s. 2017.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE requires the Accountant to prepare and submit immediately the Bank Reconciliation Statement for each account maintained with the depository banks, as required under Section 74 of PD No. 1445 and COA Circular No. 96-011.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "None posting of irregular interval. The function cannot be delegated as of this time since there are other issues to be addressed (recording and bookkeeping errors, Inventory tracking for depreciation purposes)"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE requires the designated Municipal Engineer to submit the Bidding Documents, Plans/Drawings, Program of Works and As-Built Plans for the subject infrastructure projects and henceforth, ensure that there is compliance with required submissions and to execute their respective duties and responsibilities provided in Items V to VII of COA Circular No. 2015-008 dated November 23, 2015.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommended the LCE directs the Municipal Accountant to prepare and submit the supporting detail/schedules and to provide adequate and necessary disclosure in the Notes to Financial Statements.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE requires the BAC and its Secretariat to submit justifications on the non-posting of results of procurements, and the identified lacking documents. Henceforth, follow strictly the provisions in the Revised IRR of RA 9184 to avoid legal sanctions.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "None posting of Notices to Proceed"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE requires the designated Municipal Engineer to submit the Bidding Documents, Plans/Drawings, Program of Works and As-Built Plans for the subject infrastructure projects and henceforth, ensure that all contracts and disbursement vouchers submitted to the auditors are supported with complete documentation.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "None posting of documents. Henceforth, ensure that all contracts and disbursement vouchers submitted to the auditors are supported with complete documentation."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY11",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE requires the Municipal Economic Enterprise Officer and the Municipal Accountant to prepare and submit the required physical and financial reports for the economic enterprises of the Municipality, for monitoring of the operating performance and viability of the LEEs and to serve as decision-making tool of the agency.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY21",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE require the BAC to submit the lacking bidding documents.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY29",
+      "year": 2020,
+      "recommendation": "We recommended that the accounting and reporting guidelines for the local road network construction and maintenance system as prescribed in COA Circular No. 2015-008 dated November 23, 2015 be substantially complied, thus, require the Inventory Committee to conduct the physical count of the local roads and submit the Report on the Physical Count of the Road Network System. Likewise, enjoin all concerned department heads to submit a lapsing schedule for the computation of the depreciation, maintain a Local Road Inventory and Road Map, keep a complete Local Road Network Property Card, render a Report on Local Road Network and provide disclosure in the Notes to the Financial Statements of the LGU.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY31",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant: Provide the correcting entries on the errors made on various transactions affecting Cash in Bank accounts; Validate and verify all reconciling items in the Bank Reconciliation Statements and make the necessary adjustment in the books to avoid its repetitive inclusion in subsequent BRS; Provide subsidiary ledgers for each bank account.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY33",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor comply with the requirements provided for in the Notice of Suspension issued on the said transaction.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lacking DVs not submitted."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY34",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Treasurer and the Municipal Accountant submit immediately the lacking Disbursement Vouchers and its supporting documents as well as the original copies of cancelled checks.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lacking DVs not submitted. Management claims that the subject DVs were already submitted in prior years, but failed to show document to prove the same."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY36",
+      "year": 2020,
+      "recommendation": "Require the Municipal Accountant to submit the lacking DVs together with the supporting documents.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lacking DVs not completely submitted."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY37",
+      "year": 2020,
+      "recommendation": "Management to submit the lacking documents pursuant to Section 13 of COA Circular No. 2012-001 dated June 14, 2012.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY39",
+      "year": 2020,
+      "recommendation": "The Municipal Mayor should require the Municipal Accountant to draw a Journal Entry Voucher to record the necessary adjustments to come up with correct account balances.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-OBS1",
+      "year": 2020,
+      "recommendation": "While we commended the Management for its full compliance with the\nrequirement to timely distribute the subsidies to the identified eligible\nfamilies within the Municipality, and to liquidate the fund to the DSWD, we\nalso recommend that the Municipal Accountant (MA) draw the following\nentries:\nCash in Bank – LCCA 1-01-02-010 P 8,485,000.00\nDue to National Government 2-04-01-010 P 8,485,000.00\nAgencies\nWe further recommended that the MA faithfully perform her duty by\nrecording financial transactions and operations conformably with generally\naccepted accounting standards, like the IPSAS, and applicable rules and\nregulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended that the GSO immediately submit to the AU the relevant\ndocuments on the donations for proper recording in the books. Henceforth,\nthe GSO is enjoined to always inform the latter of similar transactions, for\nimmediate recording in the books.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended and the MA agreed to draw a JEV to record the following\ncorrecting entries:\nTrust Liabilities 2-04-01-010 P 8,705,966.00\nGovernment Equity 4-03-02-030 P 8,698,119.00\nDue to Other Funds 2-03-01-010 P 7,847.00",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommended that:\na) the GSO use RIS in the issuance of inventories for distribution, for\nconsolidation in the RSMI and submit both documents to the AU at the\nend of the month for recording; and\nb) the AU:\ni) coordinate with the GSO and the DSWD for the conduct of physical\ncount of undistributed goods at the end of the year so that\nappropriate adjustment be made restoring the carrying value of\nundistributed inventory in the books;\nii) classify goods for distribution as inventory under Welfare Goods for\nDistribution account, and recognize the same as expense only upon\nissuance to distribution site, as reported in the RSMI and duly\nsupported with RIS; and\niii) recognize expenses to their appropriate expense account, to avoid reporting\nof inaccurate information.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Chief Executive (LCE) require: (a) the\nBAC Chairman to strictly comply with the posting requirements of the\nGPPB to ensure accountability and transparency of government\ntransactions, and aid in the accurate reporting by the GPPB of information\non government procurements; and (b) the BAC Chairman and MA to strictly\ncomply with the documentary requirements prescribed by the GPPB on\nprocurements of highly needed goods during the state of national emergency,\nto avoid possible losses of government funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended that the MA submit the following documents:\na. Proof that the personnel and workers have physically reported for work\nat their respective offices or work stations, such as but not limited to:\n• Approved DTRs/Certificate of Service\n• Accomplishment Reports\n• Logbooks\n• Minutes of the Meetings\nb. Authority to report for work during ECQ, for the payments totaling\nP487,750.00; and\nc. Duly received payrolls, for the payment to regular employees amounting\nP203,750.00.\n\nWe also recommended that the MA carefully review the work of the\nbookkeepers/staff, particularly in the recording of the Municipality’s\ntransactions, to avoid reporting of inaccurate information.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We recommended that Management ensure strict adherence with the laws,\nrules and regulations on the payment of COVID-19 SRA and other similar\nallowances, to avoid audit disallowances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We recommend that the MT should immediately conduct an inventory of all\nunused checks of the Municipality per bank account, for inclusion in the\nRAAF and strictly monitor its subsequent receipts, issuances and balances\nusing the said report, to arrive at a precise information on all accountable\nforms of the Municipality, and avoid its possible losses.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant provides depreciation on the LGU’s depreciable assets for fair presentation of the related Expense, and accounts in the Financial Statements.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE requires the Municipal Accountant to:\na. draw a Journal Entry Voucher to adjust the understatement of the outstanding SDO, and include in the schedule the P182,352.96, as basis in the composition of the outstanding cash advances to the outstanding SDO, and provide the composition of the outstanding cash advances to date;\nb. include in the Schedule of Unliquidated Cash Advances the outstanding cash advances totaling P182,352.96, as basis in the issuance of demand letters to accountable officers with unliquidated cash advances to date;\nc. recommend the suspension of the salaries of accountable officers who continuously fail to submit their liquidation reports;\nd. stop the grant of additional cash advances to employees with previous unliquidated cash advances; and\ne. exert more effort to identify the remaining unaccounted cash advances totaling P826,577.05, and immediately apply appropriate actions to settle the same.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "The Accounting Office still to include in the schedule the Advances for payroll and schedule of outstanding SDO, and still to provide the composition of the outstanding cash advances."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE directs the Accountant to draw journal entry voucher to take up the bookkeeping errors so as to bring the Cash Local Treasury account to its desired balance of P14,983.59 and increase the balances of Due to Other Fund and Due to LGU accounts by P39,254.64 and P44,161.38, respectively.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY9",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Disaster Risk Reduction and Management Office properly collaborate/communicate with the LCE to ensure that there is sufficient equipage to address the DRRM Operations of the LGU as prescribed in NDRRMC, DBM and DILG Joint Memorandum Circular No. 2013-1.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY10",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE requires the Municipal Treasurer to intensify the collection efforts, issue/post Notices of Delinquency, and avail of the remedies for the collection of taxes on Real Properties in accordance with Sections 254, 256, 269 and 470 (d) (2) of Republic Act (RA) No. 7160.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY12",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed that the LCE requires the Municipal Accountant and the Municipal Treasurer to withhold the correct amount of taxes from all honoraria payments, and remit the same to the Bureau of Internal Revenue within the reglementary period, pursuant to Sections 5 and 7 of Revenue Regulations No. 11-2018.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY13",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE requires:\n\na. The Municipal Accountant to verify the balance of the Due to GSIS account and prepare necessary journal entries to adjust year-end balances;\n\nb. The Municipal Treasurer to remit the withheld funds on time; and\n\nc. All concerned officials to strictly adhere to the provisions cited in PD No. 1445, COA Circular No. 92-382, and IRR of RA No. 8291 on the remittance of GSIS premiums and loan amortizations withheld.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY14",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE requires:\n\n1. The Municipal Accountant to:\n\na. Reconcile monthly the amount withheld from payroll/DVs on premium contributions against the remittance list;\n\nb. Prepare necessary journal entries to adjust year-end balances and submit the lacking Official Receipt;\n\n2. The Municipal Treasurer to remit the withheld funds on time and intact;\n\n3. Henceforth, the Municipal Accountant and Treasurer to strictly adhere to the provisions cited in PD No. 1445, PhilHealth Circular No. 01-2014, and IRR of R.A. 7875 on the remittance of premiums and contributions withheld. This is without prejudice to the issuance of notice of disallowance on the penalties totaling P1,071.27 which was paid out of LGU fund.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY15",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE:\n\na) Require the Municipal Accountant to:\n\n(1) Prepare updated bank reconciliation statements for each bank account and effect adjustments on identified reconciling items, if necessary, including the unrecorded bank credits totaling P596,690.00; and\n\n(2) Verify the unaccounted/unidentified balance in the Trust Fund amounting P1,595,823.63.\n\n(3) Require the Municipal Treasurer to verify the nature and purpose of the funds received totaling P596,690.00 and ensure that the same shall not be utilized while verification is ongoing, to avoid the misapplication of the said fund.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY16",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE require that reconciliation between accounting and Quedancor bookkeeper be made before Financial Reports are finalized. Moreover, exert more effort to exhaust other available remedies to collect the delinquent accounts, to avoid the loss of government funds.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY17",
+      "year": 2020,
+      "recommendation": "We recommended to the LCE the following:\n\nRequire the Municipal Treasurer to strictly impose the five percent (5%) surcharge on late payment of dues; and\n\nEffect the disconnection of services to the consumers for non-payment of bills for three (3) consecutive months, to avoid the unregulated use of the LGU’s natural water resources.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY18",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE direct the Bids and Awards Committee (BAC) and Technical Working Group (TWG) to submit the lacking contract documents and henceforth, adhere to the bidding process prescribed under RA No. 9184 and its IRR, including the proper dissemination of bid opportunities and its result, the conduct of a strict evaluation of bids until the post qualification activity, and the submission of complete contract documents.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY19",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE requires the Municipal Accountant to ensure that only claims with complete supporting documents are processed and for payment.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY20",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE:\n\nRequire the Municipal Budget Officer to maintain the registries for LDRRMF in the Special Trust Fund for more accurate monitoring of the fund; and\n\nEnsure that the LDRRM Office operates effectively, for the constituents to receive the exact DRRM services and the benefits therefrom, including the appointment of qualified personnel and creation of position of three (3) staff to supervise the DRRM activities.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY22",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE require:\n\na. the concerned personnel to expedite the processing of land title in the name of the municipality; and\n\nb. all barangays to create BSWM Committee and prepare BSWMP.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY23",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant: (a) provide SL for each of the two (2) bank accounts in the General Fund; prepare and update the BRS for each bank account; verify all reconciling items thereon and effect adjustments, if necessary, including the stale checks; and validate and verify the material unaccounted/ unidentified balance in Trust Fund amounting P2,670,626.19.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY24",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant reconcile the reciprocal accounts in the General Fund, Trust Fund, and Special Education Fund books and effect adjustments to correct the account balances in the Financial Statements. Henceforth, follow the proper accounting procedures in recording and reporting intra-agency transactions, to attain fair presentation in the Financial Statements.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY25",
+      "year": 2020,
+      "recommendation": "We recommended that the Local School Board prepare a three-year program for the proper allocation of SEF to schools, and strictly follow the time table in the planning and budgeting of SEF, in accordance with RA 7160 and DepED-DBM-DILG Joint Circular 1, s. 2017.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY26",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE require the LDRRMO-Designate to ensure that programs, projects and activities included in the LDRRMFIP are implemented in order to enhance disaster preparedness and response capabilities. Also, require the Accountant to prepare Monthly Report of LDRRMF Sources and Utilization and Subsidiary Ledgers for LDRRMF transferred to the Trust Fund by year of transfer, and henceforth, strictly comply with the provisions of COA Circular No. 2012-002 dated September 12, 2012 for proper accounting and reporting of LDRRMF.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY27",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor ensure that contracts and all documents forming part thereof are submitted within the five (5) days from execution pursuant to pertinent provisions of COA Circular No. 2009-001 dated February 12, 2009, 2012-001 dated June 14, 2012, RA 9184 and PD 1445.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY28",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant be required to provide an allowance for depreciation on all of the municipality’s depreciable assets as mandated under existing regulation in order to fairly present the PPE accounts.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY30",
+      "year": 2020,
+      "recommendation": "We recommended that the municipality maximize utilization of appropriated fund in implementing the various programs for risk reduction management in order to enhance disaster preparedness and response capabilities. Likewise consider the creation of the mandatory positions of the Office of the LDRRMO to ensure that programs and projects will be judiciously implemented under their supervision.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY32",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor issue a directive to the Inventory Committee to complete, within a specified timeframe, the conduct of the physical count of all properties of LGU Pinabacdao and to prepare the necessary Report on the Physical Count of Property Plant and Equipment within one month from the completion of the inventory-taking. We also recommended that the Municipal Accountant reconcile the RPCPPE with accounting records.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY35",
+      "year": 2020,
+      "recommendation": "Require the Municipal Mayor submit to the Audit Team, within ten (10) days after the award of each infrastructure project or before the start of program/activity, that appropriate signboards and public notices were already posted, supported with pictures and description of the signboard location.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY38",
+      "year": 2020,
+      "recommendation": "Management to strictly observe the guidelines on the grant, utilization and liquidation of cash advances and strictly adhere regulations on the proper accounts to be used in recording cash advances.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY40",
+      "year": 2020,
+      "recommendation": "We advised that Municipal Accountant- Designate who certifies on the vouchers as to the legality and propriety of the claims, as well as the completeness of the supporting documents should affix her signature and process the disbursements only when supported with the required documentation.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Samar__Pinabacdao_Samar-2020-PY41",
+      "year": 2020,
+      "recommendation": "It is recommended that every financial transaction should be recorded and correctly recorded in the original book of entry for fair presentation of the affected accounts in the financial statements.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY25",
+      "year": 2019,
+      "recommendation": "We recommended that the (60) Municipal Mayor comply with the requirements provided for in the Notice of Suspension issued on the said transaction.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY27",
+      "year": 2019,
+      "recommendation": "We recommended that the (62) Municipal Mayor submit to the Audit Team, within ten (10) days after the award of each infrastructure project or before the start of program/activity, that appropriate signboards and/or public notices were already posted, supported with pictures and description of the signboard location.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-OBS1",
+      "year": 2019,
+      "recommendation": "1.10 We recommended that the Municipal Accountant provides depreciation on the\nLGU’s depreciable assets for fair presentation of accounts in the Financial\nStatements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-OBS2",
+      "year": 2019,
+      "recommendation": "2.12 We recommended that the Local Chief Executive requires the Municipal\nAccountant to:\n    a. draw a Journal Entry Voucher to adjust the net understatement of\n    P95,486.04;\n    b. include in the Schedule of Status Report of Unliquidated Cash Advances\n    the outstanding cash advances totaling P182,352.96, as basis in the\n    issuance of demand letters to accountable officers with unliquidated cash\n    advances to date;\n    c. recommend the suspension of the salaries of accountable officers who\n    continuously fail to submit their liquidation reports;\n    d. stop the grant of additional cash advances to employees with previous\n    unliquidated cash advances; and\n    e. exert more effort to identify the remaining unaccounted cash advances\n    totaling P826,577.05, and immediately apply appropriate actions to settle\n    the same.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-OBS3",
+      "year": 2019,
+      "recommendation": "3.11 We recommended and Management agreed that the LCE requires the\nAccountant to draw journal entry voucher to take up the bookkeeping errors\nso as to bring the Cash Local Treasury account to its desired balance of\nP14,983.59 and increase the balances of Due to Other Fund and Due to LGU\naccounts by P39,254.64 and P44,161.38, respectively.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-OBS4",
+      "year": 2019,
+      "recommendation": "4.11 We recommended that the LCE directs the Accountant to prepare and submit\nimmediately the Bank Reconciliation Statement for each account maintained\nwith the depository banks, as required under Section 74 of PD No. 1445 and\nCOA Circular No. 96-011.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-OBS5",
+      "year": 2019,
+      "recommendation": "5.9 We recommended that the Municipal Accountant, Municipal Engineer and\nGeneral Services Officer be directed to comply with the Accounting and\nReporting Procedures on Local Road Asset Management System and to\nexecute their respective duties and responsibilities provided in Items V to VII\nof COA Circular No. 2015-008 dated November 23, 2015.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-OBS6",
+      "year": 2019,
+      "recommendation": "6.6 We recommended the Local Chief Executive directs the Municipal\nAccountant to prepare and submit the supporting detail/schedules and to\nprovide adequate and necessary disclosure in the Notes to Financial\nStatements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-OBS7",
+      "year": 2019,
+      "recommendation": "7.8 We recommended that the Local Chief Executive requires the BAC and its\nSecretariat to submit justifications on the non-posting of results of\nprocurements, and the identified lacking documents. Henceforth, follow\nstrictly the provisions in the Revised IRR of RA No. 9184 to avoid legal\nsanctions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-OBS8",
+      "year": 2019,
+      "recommendation": "8.9 We recommended and Management agreed that the Local Chief Executive\nrequires the designated Municipal Engineer to submit the Bidding Documents,\nPlans/Drawings, Program of Works, and As-Built Plans for the subject\ninfrastructure projects, and henceforth, ensure that all contracts and\ndisbursement vouchers submitted to the auditors are supported with complete\ndocumentation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-OBS9",
+      "year": 2019,
+      "recommendation": "9.7 We recommended that the Municipal Disaster Risk Reduction and\nManagement Office properly collaborate/communicate with the LCE to\nensure that there is sufficient equipage to address the DRRM Operations of\nthe LGU as prescribed in NDRRMC, DBM and DILG Joint Memorandum\nCircular No. 2013-1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-OBS10",
+      "year": 2019,
+      "recommendation": "10.9 We recommended that the Local Chief Executive requires the Municipal\nTreasurer to intensify the collection efforts, issue/post Notices of Delinquency,\nand avail of the remedies for the collection of taxes on Real Properties in\naccordance with Sections 254, 256, 269 and 470 (d) (2) of Republic Act (RA)\nNo. 7160.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-OBS11",
+      "year": 2019,
+      "recommendation": "11.7 We recommended that the Local Chief Executive requires the Municipal\nEconomic Enterprise Officer and the Municipal Accountant to prepare and\nsubmit the required physical and financial reports for the economic\nenterprises of the Municipality, for monitoring of the operating performance\nand viability of the LEEs and to serve as decision- making tool of the agency.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-OBS12",
+      "year": 2019,
+      "recommendation": "12.6 We recommended and Management agreed that the LCE requires the\nMunicipal Accountant and the Municipal Treasurer to withhold the correct\namount of taxes from all honoraria payments, and remit the same to the\nBureau of Internal Revenue within the reglementary period, pursuant to\nSections 5 and 7 of Revenue Regulations No. 11-2018.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-OBS13",
+      "year": 2019,
+      "recommendation": "13.11 We recommended that the Local Chief Executive requires:\n    a. The Municipal Accountant to verify the balance of the Due to GSIS\n    account and prepare necessary journal entries to adjust year-end balances;\n    b. The Municipal Treasurer to remit the withheld funds on time;\n    c. All concerned officials to strictly adhere to the provisions cited in PD No.\n    1445, COA Circular No. 92-382, and IRR of RA No. 8291 on the remittance\n    of GSIS premiums and loan amortizations withheld.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-OBS14",
+      "year": 2019,
+      "recommendation": "14.11 We recommended that the LCE requires:\n1. The Municipal Accountant to:\n    a. reconcile monthly the amount withheld from payroll/DVs on\n    premium contributions against the remittance list;\n    b. prepare necessary journal entries to adjust year-end balances and\n    submit the lacking Official Receipt;\n2. The Municipal Treasurer to remit the withheld funds on time and intact;\n3. Henceforth, the Municipal Accountant and Treasurer to strictly adhere to\n    the provisions cited in PD No. 1445, PhilHealth Circular No. 01-2014, and\n    IRR of R.A. 7875 on the remittance of premiums and contributions\n    withheld. This is without prejudice to the issuance of notice of\n    disallowance on the penalties totaling P1, 071.27 which was paid out of\n    LGU fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive (LCE):\na) Require the Municipal Accountant to: (1) Prepare updated bank reconciliation statements for each bank account and effect adjustments on identified reconciling items, if necessary, including the unrecorded bank credits totaling P596,690.00; and (2) Verify the unaccounted/unidentified balance in the Trust Fund amounting P1,595,823.63.\n(3) Require the Municipal Treasurer to verify the nature and purpose of the funds received totaling P596,690.00 and ensure that the same shall not be utilized while verification is ongoing, to avoid the misapplication of the said fund.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended that the LCE (4) direct the Municipal Accountant to make necessary adjusting entries to correct the erroneous recording of collections and unrecognized non-cash transactions, and henceforth, (5) require that reconciliation between accounting and Quedancor bookkeeper be made before the Financial Reports are finalized. Moreover, (6) exert more effort to exhaust other available remedies to collect delinquent accounts, to avoid the loss of government funds.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended to the LCE the following: (7) Assess the necessity and number of Job Order personnel assigned in the operation of the PWWS to minimize expenses; (8) Direct the Municipal Accountant to recognize in the books of accounts the unrecorded water bills receivables and include in the special accounts the expenses incurred in the operation of the waterworks system to arrive an accurate information on the results of operations and balances for affected management decision; (9) Require the Municipal Treasurer to strictly impose and collect the five percent (5%) surcharge on late payment of dues; and (10) Effect the disconnection of services to the consumers for non-payment of bills for three (3) consecutive months, to avoid the unregulated use of the LGU’s natural water resources.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive (11) ensure that all programs, projects and activities to be funded by the 20% Development Fund are eligible and implemented during the budget year to attain optimum utilization of the fund and full enjoyment of benefits by the populace.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended that the LCE (12) direct the Bids and Awards Committee (BAC) and Technical Working Group (TWG) to submit the lacking contract documents and henceforth, (13) adhere to the bidding process prescribed under RA No. 9184 and its IRR, including the proper dissemination of bid opportunities and its result, the conduct of a strict evaluation of bids until the post qualification activity, and the submission of complete contract documents.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended that the LCE (14) direct the Municipal Engineering Office to submit the approved suspension and resumption orders, if any, or an explanation for the delay in project completion, and otherwise collect the corresponding amount of liquidated damages from the contractor. Likewise, (15) require the Municipal Accountant to ensure that only claims with complete supporting documents are processed and for payment.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended that the LCE (16) require the Property Officer to notify the AT of all deliveries, and for him, as well as the Inspection Officer, to fill-out the AIR properly, in order to provide complete information thereon.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommended that the (17) BAC and Municipal Accountant make representation with the concerned suppliers and contractors to post warranty securities for the procurement of goods and infrastructure projects that had already been fully paid. Henceforth, (18) strictly observe the mandatory posting of warranty security to guarantee that the contractor shall perform his responsibilities pursuant to Section 62 of the IRR of RA No. 9184 and Section 9.1.1.4 and 9.1.3.1 of COA Circular No. 2012-001 dated June 14, 2012.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY9",
+      "year": 2019,
+      "recommendation": "We recommended that the LCE: (19) Require the Municipal Budget Officer to maintain the registries for LDRRMF in the Special Trust Fund for more accurate monitoring of the fund; (20) Require the Municipal Accountant to transfer the amount of P3,064,187.48 to the special trust fund and revise the Report on the Sources and Utilization of LDRRMF to reflect the correct charging of disbursement; and (21) Ensure that the LDRRM Office operates effectively, for the constituents to receive the exact DRRM services and the benefits therefrom, including the appointment of qualified personnel and creation of position of three (3) staff to supervise the DRRM activities.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY10",
+      "year": 2019,
+      "recommendation": "We recommended that the LCE (22) require the Accountant to submit the necessary documents to support the recognition of the rice seeds as expense, and reclassify to inventory account any item which remain unissued to date. Likewise, (23) require the BAC to provide the clear description of the unit of issue used on the procured agrivet supplies to determine the exact quantity for delivery by the supplier, and (24) submit the lacking bidding documents.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY11",
+      "year": 2019,
+      "recommendation": "We recommended the Local Chief Executive require: (25) the Municipal Solid Waste Management Board to intensify efforts to have the SWMP approved by the NSWMC; (26) the concerned personnel to expedite the processing of land title in the name of the municipality; and (27) all barangays to create BSWM Committee and prepare BSWMP. We further recommended to (28) intensify efforts to finance the planned procurement of vehicle for garbage collection, and to consider other projects or alternatives for the LGU to operationalize the centralized disposal of its residual wastes.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY12",
+      "year": 2019,
+      "recommendation": "We recommended that the LCE (29) require the Municipal Accountant to adjust the erroneous entries made on the Due to BIR account and submit the lacking disbursement vouchers (DVs) totaling P63,819.09, as well as the lacking supporting documents on submitted DVs totaling P711,434.18. Also, (30) require all others concerned to strictly comply with the deadlines for the remittance of withheld taxes set forth in BIR Regulations No. 6-2001 and BIR Revenue Memorandum Circular 23-2007.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY13",
+      "year": 2019,
+      "recommendation": "We recommended that the LCE (31) require the GAD Chairperson to revise the GAD AR and provide adequate disclosure on the attribution of PS to avoid misconception by users of the report, and henceforth, (32) ensure that only expenditures that are addressing/responsive to the selected gender issues are charged to the GAD Fund.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY14",
+      "year": 2019,
+      "recommendation": "We recommended that the LCE require the BAC to obtain from the supplier a Certificate of Product Registration from the FDA on the drugs and medicines procured, and certification from the MHO that the medicines procured conformed with the PNDF. Likewise, (34) require the Municipal Accountant to submit the necessary documents to support the recognition of inventories as expense, and reclassify to inventory account any item which remain unissued to date.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY15",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accountant (35) provide SL for each of the two (2) bank accounts in the General Fund; (36) prepare and update the BRS for each account; (37) verify all reconciling items thereon and effect adjustments, if necessary, including the stale checks; and (38) validate and verify the material unaccounted/ unidentified balance in Trust Fund amounting P2,670,626.19.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY16",
+      "year": 2019,
+      "recommendation": "We recommended that (39) the Municipal Accountant reconcile the reciprocal accounts in the General Fund, Trust Fund, and Special Education Fund books and effect adjustments to correct the account balances in the Financial Statements. Henceforth, (40) follow the proper accounting procedures in recording and reporting intra-agency transactions, to attain fair presentation in the Financial Statements.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY17",
+      "year": 2019,
+      "recommendation": "We recommended that the Local School Board (41) prepare a three-year program for the proper allocation of SEF to schools, and (42) strictly follow the time table in the planning and budgeting of SEF, in accordance with RA 7160 and DepED-DBM-DILG Joint Circular 1, s. 2017.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY18",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive (43) require the LDRRMO-Designate to ensure that programs, projects and activities included in the LDRRMFIP are implemented in order to enhance disaster preparedness and response capabilities. Also, (44) require the Accountant to prepare Monthly Report of LDRRMF Sources and Utilization and Subsidiary Ledgers for LDRRMF transferred to the Trust Fund by year of transfer, and henceforth, (45) strictly comply with the provisions of COA Circular No. 2012-002 dated September 12, 2012 for proper accounting and reporting of LDRRMF.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY19",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive: (46) direct the concerned officers and employees to submit the lacking documents; and (47) henceforth, ensure that contracts and all documents forming part thereof are submitted within the five (5) days from execution and (48) all claims are supported with complete documentation before payment, pursuant to pertinent provisions of COA Circular No. 2009-001 dated February 12, 2009, 2012-001 dated June 14, 2012, RA 9184 and PD 1445.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY20",
+      "year": 2019,
+      "recommendation": "We recommended that (49) Municipal Accountant be required to provide an allowance for depreciation on all of the municipality’s depreciable assets as mandated under existing regulation in order to fairly present the PPE accounts.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY21",
+      "year": 2019,
+      "recommendation": "We recommended that the accounting and reporting guidelines for the local road network construction and maintenance system as prescribed in COA Circular No. 2015-008 dated November 23, 2015 be substantially complied, thus, require (51) the Inventory Committee to conduct the physical count of the local roads and submit the Report on the Physical Count of the Road Network System. Likewise, (52) enjoin all concerned department heads to submit a lapsing schedule for the computation of depreciation, maintain a Local Road Inventory and Road Map, keep a complete Local Road Network Property Card, render a Report on Local Road Network and provide disclosure in the Notes to the Financial Statements of the LGU.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY22",
+      "year": 2019,
+      "recommendation": "We recommended that the (53) municipality maximize utilization of appropriated fund in implementing the various programs for risk reduction management in order to enhance disaster preparedness and response capabilities. Likewise (54) consider the creation of the mandatory positions of the Office of the LDRRMO to ensure that programs and projects will be judiciously implemented under their supervision.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY23",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accountant: (55) Prepare the correcting entries on the errors made on Cash in Bank accounts; (56) Validate and verify all reconciling items in the Bank Reconciliation Statements and make the necessary adjustment in the books to avoid its repetitive inclusion in subsequent BRS, and; (57) Provide subsidiary ledgers for each bank account.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY24",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor (58) issue directive to the Inventory Committee to complete, within a specified timeframe, the conduct of physical count of all properties of LGU Pinabacdao and to prepare the necessary Report on the Physical Count of Property Plant and Equipment within one month from the completion of the inventory-taking. We also recommended that the (59) Municipal Accountant reconcile the RPCPPE with accounting records.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY26",
+      "year": 2019,
+      "recommendation": "We recommended that (61) the Municipal Treasurer and the Municipal Accountant submit immediately the lacking Disbursement Vouchers and its supporting documents as well as the original copies of cancelled checks.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY28",
+      "year": 2019,
+      "recommendation": "We recommended (63) Require the Municipal Accountant to submit the lacking DVs together with the supporting documents.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "(63) Lacking DVs not completely submitted."
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY29",
+      "year": 2019,
+      "recommendation": "We recommended (64) Management submits the lacking documents pursuant to Section 13 of COA Circular No. 2012-001 dated June 14, 2012.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY30",
+      "year": 2019,
+      "recommendation": "We recommended (49) Management to strictly observe the guidelines on the grant, utilization and liquidation of cash advances and strictly adhere regulations on the proper accounts to be used in recording cash advances.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY31",
+      "year": 2019,
+      "recommendation": "We recommended (66) The Municipal Mayor should require the Municipal Accountant to draw a Journal Entry Voucher to record the necessary adjustments to come up with correct account balances.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY32",
+      "year": 2019,
+      "recommendation": "We recommended (67) Further, we advised that Municipal Accountant-Designate who certifies on the vouchers as to the legality and propriety of the claims, as well as the completeness of the supporting documents should affix her signature and process the disbursements only when supported with the required documentation.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2019-PY33",
+      "year": 2019,
+      "recommendation": "We recommended (68) It is recommended that every financial transaction be recorded and correctly recorded in the original book of entry for fair presentation of the affected accounts in the financial statements.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2018-OBS1",
+      "year": 2018,
+      "recommendation": "1.14 We recommended that the Local Chief Executive (LCE):\na) Require the Municipal Accountant to:\ni) Prepare updated bank reconciliation statements for each bank\naccount and effect adjustments on identified reconciling items, if\nnecessary, including the unrecorded bank credits totaling\nP596,690.00; and\nii) Verify the unaccounted/unidentified balance in the Trust Fund\namounting P1,595,823.63.\nb) Require the Municipal Treasurer to verify the nature and purpose of\nthe funds received totaling P596,690.00 and ensure that the same shall\nnot be utilized while verification is ongoing, to avoid the misapplication\nof the said fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2018-OBS2",
+      "year": 2018,
+      "recommendation": "2.16 We recommended that the LCE direct the Municipal Accountant to make\nnecessary adjusting entries to correct the erroneous recording of collections\nand unrecognized non-cash transactions, and henceforth, require that\nreconciliation between accounting and Quedancor bookkeeper be made\nbefore the Financial Reports are finalized. Moreover, exert more effort to\nexhaust other available remedies to collect the delinquent accounts, to avoid\nthe loss of government funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2018-OBS3",
+      "year": 2018,
+      "recommendation": "3.13 We recommended to the LCE the following:\n1. Assess the necessity and number of Job Order personnel assigned in the\noperation of the PWWS to minimize expenses;\n2. Direct the Municipal Accountant to recognize in the books of accounts\nthe unrecorded water bills receivables and include in the special\naccounts the expenses incurred in the operation of the waterworks\nsystem to arrive an accurate information on the results of operations\nand balances for management decision making-purposes;\n3. Require the Municipal Treasurer to strictly impose and collect the five\npercent (5%) surcharge on late payment of dues; and\n4. Effect the disconnection of services to the consumers for non-payment\nof bills for three (3) consecutive months, to avoid the unregulated use of\nthe LGU’s natural water resources.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2018-OBS4",
+      "year": 2018,
+      "recommendation": "4.8 We recommended that the Local Chief Executive ensure that all programs,\nprojects and activities to be funded by the 20% Development Fund are\neligible and implemented during the budget year to attain optimum utilization\nof the fund and full enjoyment of benefits by the populace.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2018-OBS5",
+      "year": 2018,
+      "recommendation": "5.12 We recommended that the Local Chief Executive direct the Bids and Awards\nCommittee (BAC) and Technical Working Group (TWG) to submit the\nlacking contract documents and henceforth, adhere to the bidding process\nprescribed under RA No. 9184 and its IRR, including the proper\ndissemination of bid opportunities and its result, the conduct of a strict\nevaluation of bids until the post qualification activity, and the submission of\ncomplete contract documents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2018-OBS6",
+      "year": 2018,
+      "recommendation": "6.9 We recommended that the LCE direct the Municipal Engineering Office to\nsubmit the approved suspension and resumption orders, if any, or an\nexplanation for the delay in project completion, otherwise collect the\ncorresponding amount of liquidated damages from the contractor. Likewise,\nrequire the Municipal Accountant to ensure that only claims with complete\nsupporting documents are processed and for payment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2018-OBS7",
+      "year": 2018,
+      "recommendation": "7.9 We recommended that the LCE require the Property Officer to notify the AT\nof all deliveries, and for him, as well as the Inspection Officer, to fill-out the\nAIR properly, in order to provide complete information thereon.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2018-OBS8",
+      "year": 2018,
+      "recommendation": "8.9 We recommended that the BAC and Municipal Accountant make\nrepresentation with the concerned suppliers and contractors to post warranty\nsecurities for the procurement of goods and infrastructure projects that had\nalready been fully paid. Henceforth, strictly observe the mandatory posting of\nwarranty security to guarantee that the contractor shall perform his\nresponsibilities pursuant to Section 62 of the IRR of RA No. 9184 and Section\n9.1.1.4 and 9.1.3.1 of COA Circular No. 2012-001 dated June 14, 2012.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2018-OBS9",
+      "year": 2018,
+      "recommendation": "9.18 We recommended that the LCE:\na) Require the Municipal Budget Officer to maintain the registries for\nLDRRMF in the Special Trust Fund for more accurate monitoring of\nthe fund;\nb) Require the Municipal Accountant to transfer the amount of\nP3,064,187.48 to the special trust fund and revise the Report on the\nSources and Utilization of LDRRMF to reflect the correct charging of\ndisbursement; and\nc) Ensure that the LDRRM Office operates effectively, for the constituents\nto receive the exact DRRM services and the benefits therefrom,\nincluding the appointment of qualified personnel and creation of\nposition of three (3) staff to supervise the DRRM activities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2018-OBS10",
+      "year": 2018,
+      "recommendation": "10.17 We recommended that the LCE require the Accountant to submit the\nnecessary documents to support the recognition of the rice seeds as expense,\nand reclassify to inventory account any item which remain unissued to date.\nLikewise, require the BAC to provide the clear description of the unit of issue\nused on the procured agrivet supplies to determine the exact quantity for\ndelivery by the supplier, and submit the lacking bidding documents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2018-OBS11",
+      "year": 2018,
+      "recommendation": "11.5 We recommended that the LCE require:\na) The Municipal Solid Waste Management Board to intensify efforts to\nhave the SMWP approved by the NSWMC;\nb) The concerned personnel to expedite the processing of land title in the\nname of the municipality; and\nc) All barangays to create BSWM Committee and prepare BSWMP.\n\n11.6 We further recommended to intensify efforts to finance the planned\nprocurement of vehicle for garbage collection, and to consider other projects\nor alternatives for the LGU to operationalize the centralized disposal of its\nresidual wastes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2018-OBS12",
+      "year": 2018,
+      "recommendation": "12.12 We recommended that the LCE require the Municipal Accountant to adjust\nthe erroneous entries made on the Due to BIR account and submit the lacking\ndisbursement vouchers (DVs) totaling P63,819.09, as well as the lacking\nsupporting documents on submitted DVs totaling P711,434.18. Also, require\nall others concerned to strictly comply with the deadlines for the remittance\nof withheld taxes set forth in BIR Regulations No. 6-2001 and BIR Revenue\nMemorandum Circular 23-2007.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2018-OBS13",
+      "year": 2018,
+      "recommendation": "13.10 We recommended that the LCE require the GAD Chairperson to revise the\nGAD AR and provide adequate disclosure on the attribution of PS to avoid\nmisconception by users of the report, and henceforth, ensure that only\nexpenditures that are addressing/responsive to the selected gender issues are\ncharged to the GAD Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2018-OBS14",
+      "year": 2018,
+      "recommendation": "14.9 We recommended that the Local Chief Executive require the BAC to obtain\nfrom the supplier a Certificate of Product Registration from the FDA on the\ndrugs and medicines procured, and certification from the MHO that the\nmedicines procured conformed with the PNDF. Likewise, require the\nMunicipal Accountant to submit the necessary documents to support the\nrecognition of inventories as expense, and reclassify to inventory account any\nitem which remain unissued to date.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2018-PY1",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY22",
+      "year": 2017,
+      "recommendation": "We recommend that the municipal mayor require the municipal budget officer to strictly observe the 55% limitation in the annual budget.",
+      "managementAction": "Finding No. 12 AAR CY 2014 Not implemented as of CY 2017.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Budget and actual expenditures for personal services in CY 2017 exceeded the 55% limitation by more than 1 million and 700 thousand, respectively."
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Treasurer deposit intact all her\ncollections as well as collections turned over to her by the collectors daily or on\nthe next banking day, particularly when collections reach P10,00.00 and stop the\npractice of encashment of agency checks out of cash collections, pursuant to\nSection 28 of COA Circular No. 92-382 and Section 67 (1) & (3) of PD 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Accountant: (a) provide subsidiary\nledgers for each of the two (2) bank accounts in the General Fund; (b) prepare\nand update the BRS for each account; (c) verify all reconciling items thereon\nand effect adjustments, if necessary, including the stale checks; and (d) validate\nand verify the unaccounted/unidentified balance in Trust Fund amounting\nP2,670,626.19.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Accountant reconcile the reciprocal\naccounts in the General Fund, Trust Fund, and Special Education Fund books\nand effect adjustments to correct the account balances in the Financial\nStatements. Henceforth, follow the proper accounting procedures in recording\nand reporting intra-agency transactions, to attain fair presentation in the\nFinancial Statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We recommended that: (i) procurement of FOL products be covered by\nan Annual Procurement Plan as required in Section 7.2 of RA 9174; (ii) require\nthe concerned officers and employees to prepare and submit a Monthly Report\nof Official Travel and Monthly Report of Fuel Consumption; and (iii)\nhenceforth, strictly comply with the requirements of COA Circular No. 77-61\ndated September 26, 1977 in order to control and regulate the use of government\nvehicles and consumption of fuel.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive direct the Local\nFinance Committee to include in the Annual Budget an appropriation equivalent\nto 1% of IRA to finance Local Council for the Protection of Children activities\nand adopt a comprehensive plan and program for the welfare of the children.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We recommended that the Local School Board prepare a three-year\nprogram for the proper allocation of SEF to schools, and strictly follow the time\ntable in the planning and budgeting of SEF, in accordance with RA 7160 and\nDepED-DBM-DILG Joint Circular 1, s. 2017.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-OBS7",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive require the LDRRMO\nto ensure that programs, projects and activities included in the LDRRMFIP are\nimplemented in order to enhance disaster preparedness and response\ncapabilities. Also, require the Accountant to prepare Monthly Report of\nLDRRMF Sources and Utilization and Subsidiary Ledgers for LDRRMF\ntransferred to the Trust Fund by year of transfer, and henceforth, strictly\ncomply with the provisions of COA Circular No. 2012-002 dated September 12,\n2012 for proper accounting and reporting of LDRRMF.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-OBS8",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive: (i) direct the concerned\nofficers and employees to submit the all the lacking documents; and (ii)\nhenceforth, ensure that contracts and all documents forming part of thereof are\nsubmitted within the five (5) days from execution and all claims are supported\nwith complete documentation before payment, pursuant to pertinent provisions\nof COA Circular No. 2009-001 dated February 12, 2009, 2012-001 dated June\n14, 2012, RA 9184 and PD 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-OBS9",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive require the concerned\nofficers and employees to: (i) expedite the formulation of internal policy on the\nimplementation of biometrics machine as the official register to record daily\nattendance of its employees; (ii) prepare monthly report of undertime and\nabsences based on the DTRs to monitor compliance with the CSC policies on\ngovernment hours; and (iii) effect the updating of leave cards based thereon, to\navoid the possible loss of government funds in the form of overpayment of leave\nbenefits.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-OBS10",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY1",
+      "year": 2017,
+      "recommendation": "We recommend that the Municipal Accountant be required to provide an allowance for depreciation on all of the municipality’s depreciable assets in order to present the PPE accounts.",
+      "managementAction": "Finding No. 1 AAR CY 2016 Ordered the GSO to have an inventory of all properties of the LGU, donated or purchased.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Majority of the depreciable assets of the LGU are still not provided with allowance for depreciation. Total depreciation recognized in 2017 was only P246,788.34. (per 2016 AAR, unrecorded allowance for depreciation for 2016 alone amounted to P424,572.46)"
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY2",
+      "year": 2017,
+      "recommendation": "We recommend that the Municipal Accountant be directed to draw a journal entry voucher to take up the bookkeeping errors so as to bring the account to its desired balance of P394,704.19.",
+      "managementAction": "Finding No. 2 AAR CY 2016 Adjusting entries have been made to correct the errors.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY3",
+      "year": 2017,
+      "recommendation": "We recommend that the accounting and reporting guidelines for the local road network be complied with as prescribed in COA Circular No. 2015-008 dated November 23, 2015.",
+      "managementAction": "Finding No. 3 AAR CY 2016 The LCE already created Inventory Committee and issued a memo for the conduct of physical count and reconciliation of records of the LGU.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "With unidentified items equivalent to 46.69% of the total account balance; Items paid in previous years reflected. Project costs shown were for the on-going projects instead of progress payments. RPCRNS not properly filled-out. No Local Road Property Card."
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY4",
+      "year": 2017,
+      "recommendation": "We recommend that the municipality maximize utilization of appropriated fund in implementing the various programs of risk reduction and disaster preparedness and response.",
+      "managementAction": "Finding No. 4 AAR CY 2016 The LCE already created Inventory Committee and required the filling-up of mandatory positions of the Office of the LDRRMO.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The LGU is now monitoring its utilization of the fund as to program and project allocation. The LGU already filled-up the LDRRM Officer position as of CY 2018."
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY5",
+      "year": 2017,
+      "recommendation": "We recommend for the strict observance of the guidelines on the appropriation and utilization of the 20% Development Fund as provided for in DILG-DBM Joint Memorandum Circular No. 2011-1 dated April 13, 2011.",
+      "managementAction": "Finding No. 5 AAR CY 2016 Development projects included in 2017 budget were all eligible for funding.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY6",
+      "year": 2017,
+      "recommendation": "We recommend that the Solid Waste Management Board be directed to develop the 10-year Municipal Solid Waste Management Plan that shall promote the long-term management of solid waste as well as integrate the various waste management strategies of the barangays in its jurisdiction. Likewise, intensify the information dissemination and campaign on waste management especially on the segregation and garbage collection.",
+      "managementAction": "Finding No. 6 AAR CY 2016 The LGU required the Barangays for the inclusion of the Material Recovery Facility in their Annual Investment Plan for CY 2018 while the formulation of the 10-year SWMP is ongoing.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "10-Year SWMP not yet finished. Intensify information dissemination and campaign on waste management."
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY7",
+      "year": 2017,
+      "recommendation": "We recommend that the Municipal Mayor require the monthly net take home pay of employees will not be reduced to an amount lower than P3,500.00 and observe the prescribed limitations on payroll deductions so that the monthly net take home pay of the employees will not be reduced to an amount lower than P3,500.00.",
+      "managementAction": "Finding No. 7 AAR CY 2016 The LGU is now observing the monthly net take home pay of its employees below P3,500.00 with monthly net take home pay increased from thirty (30) in December 2016 to forty (40) in December 2017.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "With lapsing schedule but Inventory showed an unidentified items equivalent to 46.69% of the total account balance; specific employees concerned still within the prescribed net pay."
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY8",
+      "year": 2017,
+      "recommendation": "We recommend that the Municipal Accountant record and maintain separate books of accounts and maintain Special Accounts in the General Fund for the local water system and Quedancor re-loaned funds.",
+      "managementAction": "Finding No. 8 AAR CY 2016 Prepared separate books of accounts for the Municipality’s Local Water System and the re-loaning of Quedancor Funds under the Management of the LGU; however separate books exclusively for the Quedancor accounts were not submitted.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "No books of accounts exclusively for the Quedancor was submitted."
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY9",
+      "year": 2017,
+      "recommendation": "We recommend that the Municipal Accountant: a.) Prepare the complete bank reconciliation statements; b.) Review the work of accounting personnel to ensure accurate recording of transactions; c.) Validate and verify all reconciling items in the bank reconciliation statements; d.) make the necessary adjustment in the books to avoid repetitive inclusion in subsequent BRS; and e.) provide subsidiary ledgers for each bank account.",
+      "managementAction": "Finding No. 1 AAR CY 2012 Submitted 11 out of 13 subsidiary ledgers for bank accounts. The Municipal Accountant is exerting efforts to update and prepare the BRS for the remaining accounts.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "BRS not complete with recurring and unidentified reconciling items. Ongoing update."
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY10",
+      "year": 2017,
+      "recommendation": "We recommend that the Mayor issue a directive to the Inventory Committee to conduct the physical count of its properties and prepare the necessary Report on the Physical Count of Property, Plant and Equipment within a specified timeframe and reconcile the RPCPPE with the accounting records.",
+      "managementAction": "Finding No. 2 AAR CY 2015 Conducted the physical count of its properties and submitted the Report on the Physical Count of Property Plant and Equipment; RPCPPE submitted.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Balances of some specific PPE items not reconciled with accounting records. RPCPPE showing a balance of P99,315,480.79, equivalent to 97% of the total cost of PPE as at year-end."
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY11",
+      "year": 2017,
+      "recommendation": "We recommend that the Municipal Accountant prepare the Journal Entry Voucher to adjust the errors using the correct accounts.",
+      "managementAction": "Finding No. 3 AAR CY 2015 Adjusting entries have been made to correct the errors.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY12",
+      "year": 2017,
+      "recommendation": "We recommend that the Municipal Accountant record loan payments based on bank documents and update Bank Reconciliation Statements to monitor bank transaction and correct discrepancies between book and bank balances. Also, prepare necessary correcting entries on the accounts affected.",
+      "managementAction": "Finding No. 4 AAR CY 2015 Adjusting entries have been made to correct the errors.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY13",
+      "year": 2017,
+      "recommendation": "We recommend that the Municipal Accountant prepare the necessary adjustment in the books to revert payables which are not supported with valid claimants, or which had been outstanding for two years or more and against which no actual claim has been filed in order to present in the financial statement a credible balance of financial liabilities.",
+      "managementAction": "Finding No. 5 AAR CY 2015 Adjusting entries have been made to correct the errors.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY14",
+      "year": 2017,
+      "recommendation": "We recommend that the Municipal Accountant compute the amount and the Municipal Treasurer prepare the disbursement voucher and transfer the utilized appropriation of the LDRRMF to the depository bank account maintained for LDRRMF. We also recommend that the LDRRMO, the Municipal Budget Officer and the Municipal Accountant prepare and submit the report on the sources and utilization of the LDRRMF monthly using the prescribed format in order to provide the Local Chief Executive and the LDRRM Council a regular update on the status of the fund.",
+      "managementAction": "Finding No. 7 AAR CY 2015 Unexpended LDRRMF fund in 2015 and 2014 in 2015 and 2014 have been transferred in 2016.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY15",
+      "year": 2017,
+      "recommendation": "We recommend that payments out of Quedancor Fund are made through issuance of check only and that the bank account of LGU Pinabacdao be provided sufficient quantity of blank checks.",
+      "managementAction": "Finding No. 8 AAR CY 2015 Payments out of Quedancor Fund 2015 have been strictly prohibited.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "NS No. 2016-02-100(2015) and 2016-03-100(2015), both dated June 9, 2016, not yet settled."
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY16",
+      "year": 2017,
+      "recommendation": "We recommend that the Municipal Treasurer and the Accountant submit immediately the lacking Disbursement Vouchers and its supporting documents as well as the original copies of cancelled checks.",
+      "managementAction": "Finding No. 9 AAR CY 2015 Submitted 27 DVs with total amount of P388,650.18. 6 DVs with total amount of P3,904,939.86 remain unsubmitted as of 2014.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "11 DVs with total amount of P2,495,601.35 per NSSDC No. 2017-002 dated September 20, 2017 and NSSDC No. 2017-003 dated October 23, 2017 not yet submitted."
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY17",
+      "year": 2017,
+      "recommendation": "We recommend that the Municipal Mayor submit to the Audit Team, within ten (10) days after the award of each infrastructure project or program, the appropriate signboards and public notices together with pictures and description of the signboard location.",
+      "managementAction": "Finding No. 10 AAR CY 2015 Pictures on posting of appropriate signboards were submitted.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "PPAs were not submitted at the beginning of CY 2018, and for the 1st quarter of 2018."
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY18",
+      "year": 2017,
+      "recommendation": "We recommend that the Mayor require the former Accountant to submit the books of accounts and financial reports for CY 2013 to the present Municipal Accountant so that the accuracy of the beginning balances of the CY 2014 financial statements could be ascertained.",
+      "managementAction": "Finding No. 1 AAR CY 2013 Submitted the CY 2013 accounts in August to December 2016 so that the accuracy of the beginning balances ascertained.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY19",
+      "year": 2017,
+      "recommendation": "We recommend that the Municipal Treasurer and Accountant to strictly observe the timely submission of accounts and financial reports and require the Accountant to submit the lacking DVs together with the supporting documents.",
+      "managementAction": "Finding No. 2 AAR CY 2014 Submitted the lacking documents; however 6 DVs with total amount of P3,904,939.86 remain unsubmitted.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "6 DVs with total amount P3,904,939.86 remain unsubmitted."
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY20",
+      "year": 2017,
+      "recommendation": "We recommend the municipal mayor to submit the lacking documents pursuant to Section 13 of COA Circular No. 2012-001 dated June 14, 2012.",
+      "managementAction": "Finding No. 9 AAR CY 2007 The Mayor issued a memo to the assessor’s office for the compliance of required documents.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Supporting documents not yet submitted."
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY21",
+      "year": 2017,
+      "recommendation": "We recommend the Management to strictly observe the guidelines on the cash advances and time-bound liquidation and strictly adhere to the proper accounts to be used in recording cash advances. Require the Municipal Accountant to submit the schedule of Cash Advances and process reimbursement or new cash advance only after liquidation of previous cash advances.",
+      "managementAction": "Finding No. 10 AAR CY 2014 The policy “No Processing of Reimbursement or New Cash Advance” was implemented. Demand Letters for overdue accounts were issued.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Schedule of Cash Advances as of previous year-end and Cash Advance balance per GL did not reconcile. Unliquidated outstanding balances outstanding for more than 10 years. Demand letters issued for overdue accounts."
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY23",
+      "year": 2017,
+      "recommendation": "We recommend that the Municipal Accountant record all transactions in the books of account for fair presentation of the financial statement and require the Municipal Accountant to draw a Journal Entry Voucher to record the necessary adjustments to come up with correct account balances.",
+      "managementAction": "Finding No. 3 AAR CY 2012 Submitted Subsidiary Ledgers for identified items; journal entries have been made for prior years' errors as confirmed by the accountant.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reconciliation ongoing. Subsidiary Ledgers have been maintained for identified items, and journal entries have been made for the prior years' errors as confirmed by the accountant."
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY24",
+      "year": 2017,
+      "recommendation": "We recommend that the Municipal Accountant make the necessary corrections/adjustments in the books of accounts to come up with correct account balances.",
+      "managementAction": "Finding No. 2 AAR CY 2013 The Municipal Accountant was directed to make necessary corrections/adjustments in the accounts to come up with correct balances. Submitted reconciled accounts.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY25",
+      "year": 2017,
+      "recommendation": "We recommend that the Loans payable account should be reconciled in order to bring the loan payable account and fairly present the same in the financial statements.",
+      "managementAction": "Finding No. 6 AAR CY 2010 Adjusting entries have been made to correct the errors.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY26",
+      "year": 2017,
+      "recommendation": "We recommend that all transactions be recorded in the books of account for fair presentation of the financial statements.",
+      "managementAction": "Finding No. 7 AAR CY 2010 Submitted a certified photocopy of the General Journal entry to record the said IRA.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY27",
+      "year": 2017,
+      "recommendation": "We recommend that procurement of goods, services, and infrastructure items be made through public bidding to obtain the price most advantageous to the government. Also designate who certifies the vouchers as to the legality and propriety of the claims, as well as the completeness of the supporting documents and affix her signature on the vouchers.",
+      "managementAction": "Finding No. 8 AAR CY 2009 Procurement through public bidding for infrastructure projects in CY 2009 have been complied. Submission of pertinent documents for CY 2009 being observed.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Submission of complete documents for procurements in CY 2009 through public bidding not completely complied as reiterated in Part II of this Report."
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY28",
+      "year": 2017,
+      "recommendation": "It is recommended that every financial transaction should be recorded and correctly recorded in the original book of entry for fair presentation of the affected accounts in the financial statements.",
+      "managementAction": "Finding No. 4 AAR CY 2009 Recorded the 2.5M heavy equipment and capitalization of construction and major repair of buildings and other structures not yet made.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Adjustment for the capitalization of the cost of construction and major repair of buildings and other structures not yet made."
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY29",
+      "year": 2017,
+      "recommendation": "It is recommended that grants and donations from other level of government should be recorded as Income from Grants and Donations.",
+      "managementAction": "Finding No. 7 AAR CY 2009 That grants already recorded by the Accountant as Income from Grants and Donations. Transfers from NGAs were recorded as “Due to Other NGAs”.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY30",
+      "year": 2017,
+      "recommendation": "It is recommended that every financial transaction should be recorded in the original book of entry and the General Ledger for fair presentation of the affected accounts in the financial statements.",
+      "managementAction": "Finding No. 8 AAR CY 2009 The advances made to contractor amounting to P2,950,608.00 were already recouped. The advances appearing in the financial statements are current accounts for FY 2015-2017.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2017-PY31",
+      "year": 2017,
+      "recommendation": "Management should create a committee to evaluate and monitor the efficiency of the implementation of the livelihood loan projects and review the provisions of the loan agreement to ensure repayment of loans granted.",
+      "managementAction": "Finding No. 4 AAR CY 2008 Created a committee headed by the Budget Officer to handle the transactions.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY16",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY18",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY20",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Absence of previous years’ records. The LGU committed to make effort to reconcile Cash in Bank base on existing accounting records."
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY21",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management explained their predicament on how to comply because of absence of other important prior years records."
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY23",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The LGU stated they have no idea on how to solve this error."
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY25",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY26",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY29",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in Part II of this Report"
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY31",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY32",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY35",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The newly elected Local Chief Executive and the Municipal Accountant explained they cannot yet implement the recommendation because of absence of records on file for quite a long time now."
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We recommend that the Municipal Accountant be required to provide an\nallowance for depreciation on all of the municipality’s depreciable assets as\nmandated under existing regulation in order to fairly present the PPE accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We recommend that the Municipal Accountant be directed to draw a journal\nentry voucher to take up the bookkeeping errors so as to the bring the account to its\ndesired balance of P394,704.19.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommend that the accounting and reporting guidelines for the local road\nnetwork construction and maintenance system as prescribed in COA Circular No.\n2015-008 dated November 23, 2015 be substantially complied, thus, require the\nInventory Committee to conduct the physical count of the local roads and submit\nthe Report on the Physical Count of the Road Network System. Likewise, enjoin\nall concerned department heads to submit a lapsing schedule for the computation\nof depreciation, maintain a Local Road Inventory and Road Map, keep a\ncomplete Local Road Network Property Card, render a Report on Local Road\nNetwork and provide disclosure in the Notes to the Financial Statements of the\nLGU.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We recommend that the municipality maximize utilization of appropriated\nfund in implementing the various programs for risk reduction management in order\nto enhance disaster preparedness and response capabilities. Likewise consider the\ncreation of the mandatory positions of the Office of the LDRRMO to ensure that\nprograms and projects will be judiciously implemented under their supervision.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommend for the strict observance of the guidelines on the\nappropriation and utilization of the 20% Development Fund as provided for in DILG-DBM\nJoint Memorandum Circular No. 2011-1 dated April 13, 2011.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommend that the Solid Waste Management Board be directed to\ndevelop the 10-year Municipal Solid Waste Management Plan that shall promote the\nlong-term management of solid waste as well as integrate the various waste\nmanagement strategies of the barangays in its jurisdiction. Likewise, intensify\ninformation dissemination and campaign on waste management specially on the\nsegregation and garbage collection be conducted so that the Municipality’s\nconstituents will be fully aware of the benefits derived from the program.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We recommend that the officer in charge of payroll preparation be advised\nto strictly observe the limitations on payroll deductions so that the monthly net take\nhome pay of employees will be not be reduced to an amount lower than P3,500.00\npursuant to Section 52 of the General Provisions of RA 10717.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We recommend that the Municipal Accountant be required to set-up and\nmaintain Special Accounts in the General Fund for the Municipality’s Local Water\nSystem and the re-loaning of Quedan Corporation Funds under the Management of\nthe LGU .",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-OBS9",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY1",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Absence of previous years’ records."
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY2",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY3",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY4",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY5",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY6",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY7",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY8",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY9",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY10",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY11",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY12",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY13",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY14",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY15",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY17",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Although not fully liquidated, the percentage of reduction of the Outstanding Balance in CY 2016 were as follows: 2011 & PY- 49.90% 2012 - 0% 2013 - 100% 2014 – 48.11% 2015 – 88.57% 2016 – 70.19%"
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY19",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY22",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Only selected properties as of December 31, 2012 were confirmed and included in the RCPPPE and management has yet to submit CY 2016 Inventory Report of PPEs."
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY24",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY27",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY28",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The audit team observed that management may conduct biddings on infra projects in CY 2017."
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY30",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY33",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pinabacdao_Samar-2016-PY34",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    }
+  ]
+}

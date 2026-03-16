@@ -1,0 +1,1382 @@
+{
+  "lguCode": "102901000",
+  "lguName": "Alilem",
+  "province": "Ilocos Sur",
+  "region": "Region I (Ilocos Region)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2024-PY1",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive require the Municipal Accountant to immediately prepare and submit Bank Reconciliation Statements (BRS) and ensure the monthly preparation of BRS for all accounts, with strict adherence to Section 74 of Presidential Decree No. 1445 and Section 3 of COA Circular No. 96-011. Thus, mitigate the risk of unreliable reported balance for the Cash in Bank – Local Currency account instead, ensure compliance with regulatory requirements and maintaining the integrity and accuracy of the financial statements.",
+      "managementAction": "The management was not able to fully comply with the audit recommendation. Nonetheless, the Municipal Accountant has requested snapshots from the banks and is securing all the necessary documents to fully comply with the recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Bank reconciliation statements for FY 2024 for the General Fund and Special Education Fund were prepared and submitted to the Auditor."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2024-PY2",
+      "year": 2024,
+      "recommendation": "We emphasize our recommendation from the previous year that the Local Chief Executive promptly directs the General Services Officer to initiate the one-time cleansing of PPE accounts, adhering strictly to the procedures outlined in COA Circular No. 2020-006. This action will facilitate the proper disposal of unserviceable properties, enabling the Municipal Accountant to accurately prepare the requisite journal entries for removing the corresponding costs of these properties from the books. Furthermore, it will allow the Municipality to realize additional income from the saleable scrap items, thereby ensuring the accuracy and propriety of the reported PPE in the Statement of Financial Position of the Municipal Government.",
+      "managementAction": "The unserviceable PPEs, totaling ₱4,860,408.17, were already disposed of through public auction. However, the proper procedures for one-time cleansing under COA Circular No. 2020-006 were not followed; hence, an Audit Observation Memorandum (AOM) was issued regarding the discrepancy between the RPCPPE and the accounting records.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Documents related to the disposal were submitted by the Municipal Accountant. These documents served as the basis for dropping the cost of the unserviceable PPEs from the Statement of Financial Position.\n\nAudit finding on the discrepancy between the Report on the Physical Count of Property, Plant, and Equipment (RPCPPE) and the accounting records is fully discussed in Part II of this report."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2024-PY6",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive require the Municipal Accountant to review the year-end unexpended LDRRMF and cause the immediate reversion of the unused funds after five (5) years to enable the reappropriation of the same for other social services, hence maximizing the usage of the funds. Also, management require the DRRM Officer to determine the projects which are non-implementable/viable and adjust the LDRRM plan based on emerging needs and risks, and establishing a method for timely fund reallocation. This will ensure compliance with the provisions of Republic Act No. 10121 and Commission on Audit (COA) Circular No. 2012-02, dated September 12, 2012, effectively address its disaster risk reduction and management needs.",
+      "managementAction": "Prompt compliance with the audit recommendation was made by the Municipal Accountant.\n\nThe DRRM Officer was not able to comply with the Audit recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2024-PY9",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Government consider the advantages of engaging in a Framework Agreement facilitated through Competitive Bidding. This approach will ensure efficiency in procurement, minimize delays in acquisition, provide immediate delivery on short notice, and offer fixed or adjusted prices for the duration of the agreement, among other benefits. Furthermore, by exploring the utilization of Framework Agreements in accordance with GPPB Resolution No. 27-2019, the Municipality can enhance transparency, fairness, and value for money in its procurement processes while effectively meeting the needs of its constituents.",
+      "managementAction": "Management continued to procure catering services through Small Value Procurement on an as-needed basis or whenever events requiring such services were held. Nonetheless, efforts are being made to consider the use of a framework agreement, recognizing that it is more advantageous as it minimizes delays in procurement, ensures immediate delivery on short notice, and provides fixed or adjustable pricing throughout the duration of the agreement, among other benefits.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Verified during the post-audit of the Municipality’s 2024 Disbursement Vouchers."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2024-PY12",
+      "year": 2024,
+      "recommendation": "We reiterated our previous year's recommendation that the Local Chief Executive instruct the Bids and Awards Committee (BAC) to post all awards on the PhilGEPS website within the prescribed period of three calendar days from the date of issuance. This action is essential to ensure and uphold transparency in the procurement process.",
+      "managementAction": "The BAC was unable to comply with the audit recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Result of post-audit showed that NOA were still posted on the PhilGEPS website beyond the prescribed period."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2024-PY14",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive direct the acting Municipal Accountant to fully disclose the required financial information in the Notes to Financial Statements to achieve fair presentation of the Financial Statements, as well as, assist its users in analyzing and understanding the financial statements pursuant to the pertinent provisions of IPSAS 1.",
+      "managementAction": "The management was able to comply with the audit recommendation.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Verified during the review of Notes to Financial Statements submitted for CY 2024 that the required disclosures were not yet included."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2024-OBS1",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive instruct:\nthe Municipal Accountant to reconcile the balances of RPT/SET Receivables with the corresponding Deferred RPT/SET Income, properly set-up receivables at the beginning of the year and ensure the timely and accurate recording of advance payments to reflect the correct balances in the year-end Financial Statements;\nthe Municipal Treasurer to ensure that accurate amounts are reported in the Certified List of Taxpayers, Certified List of Delinquent Taxpayers, and in each taxpayer’s RPTAR, in order to prevent under- or over-collection of RPT and SET, and to guarantee that advance payments are receipted within the appropriate accounting period; and\nboth the Municipal Accountant and the Municipal Treasurer to conduct a thorough review and reconciliation of their respective records to ensure that accurate and consistent balances are reported in their financial and administrative reports.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2024-OBS2",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive instruct the Municipal Accountant to ensure the correct recording of PPE acquired through the Trust Fund based on the prescribed entries in the MNGAS and other applicable accounting standards. It is also recommended that the Municipal Accountant prepare and record the necessary adjusting entries to correct the balance of the PPE and related accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2024-OBS3",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive require the Municipal Accountant to ensure the preparation of monthly BRS for all accounts, with strict adherence to Section 74 of Presidential Decree No. 1445. Furthermore, require the Municipal Accountant and Acting Municipal Treasurer to coordinate with each other for the immediate reconciliation and resolution of the noted discrepancy of ₱2,828,477.09 so that the fair presentation of the Cash and Cash Equivalents account in the Municipality’s financial statements would be ensured.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2024-OBS4",
+      "year": 2024,
+      "recommendation": "We recommended that Local Chief Executive require the Inventory Committee to ensure proper investigation and resolution of the unreconciled difference between the physical count balance with the Property and Accounting Unit records and, ultimately with the balances presented in the year-end financial statement to establish a PPE balance that is verifiable as to existence, condition, and accuracy. It is also recommended that the Inventory Committee, together with the concerned officials and employees, strictly adhere to the provisions of COA Circular No. 2020-006 to improve the monitoring and inventory-taking of PPEs and facilitate the timely submission of the RPCPPE to the Auditor concerned.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2024-OBS5",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive instruct the Municipal Accountant to:\nPrepare a Lapsing Schedule that includes all items under per PPE account, detailing the necessary information for the computation of depreciation expense, such as the asset descriptions, acquisition costs, and acquisition dates, for a more accurate computation of depreciation expense; and\nRecompute the depreciation and adjust the same in accordance with IPSAS 17, COA Circular No. 2004-003 and COA Circular No. 2003-007 to ensure accuracy and reliability of the carrying amounts of PPE reported in the Financial Statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2024-OBS6",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Executive Chief instruct the Municipal Accountant to reconcile the balances of Due to Other Funds and Due from Other Funds accounts, and to record the necessary adjusting entries to correct the reported balances as at year-end. It is further recommended that the Municipal Accountant implement appropriate internal control measures, including the regular and timely reconciliation of these accounts, to facilitate the prompt identification and resolution of discrepancies and ensure accurate reporting of balances",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2024-OBS7",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive direct the LSB to submit the quarterly and annual SEF utilization reports to the DepEd CO, thru appropriate channels and furnish copies to the Regional Office of the DBM within the prescribed timelines.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2024-OBS8",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive direct the Bids and Awards Committee (BAC) and end-users to avoid referencing specific brand names or proprietary models in Purchase Requests. Instead, they should use generic descriptions based on performance and functional requirements, except in cases where the procurement involves items or parts that are compatible with existing fleet or equipment of the same make and brand, and where such reference is necessary to maintain the performance, functionality, and useful life of the equipment. Furthermore, Management should ensure strict compliance with the provisions of RA No. 9184, now RA 12009, and its Revised Implementing Rules and Regulations (IRR), and uphold the principles of fairness, competitiveness, and economy in all procurement activities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2024-PY3",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Government to prioritize the timely submission of the Utilization/ Accomplishment Report for the 20% Development Fund in order to facilitate effective oversight and evaluation of fund utilization. Additionally, it is crucial to ensure compliance with the guidelines outlined in DBM-DOF-DILG Joint Memorandum Circular (JMC) No.1 dated November 4, 2020. The Municipality should carefully note the expenditures permitted and prohibited under the 20% Development Fund to ensure proper allocation and utilization of resources.",
+      "managementAction": "The management complied with the audit recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": "Submitted 20% Development Fund Accomplishment/Utilization Report within the prescribed period.\n\nImplemented\n\nReviewed pertinent documents and confirmed that all PPAs funded under the 20% Development Fund supported socio-economic and environmental development, thereby promoting the general welfare of the municipality."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2024-PY4",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Government strictly adhere to the provisions outlined in DBM-DOF-DILG Joint Memorandum Circular (JMC) No.1 dated November 4, 2020. It is imperative that the Municipal Government prioritize the implementation of developmental projects aimed at promoting the general welfare of its constituents. By aligning expenditures with these guidelines and focusing on impactful projects, the Municipality can ensure effective utilization of resources for sustainable community development. Furthermore, it is crucial to emphasize that expenses such as the acquisition of office supplies, as evidenced in this instance, should rightfully be charged to the General Fund rather than the 20% Development Fund.",
+      "managementAction": "Management acknowledged and implemented the audit recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": "There were no similar transactions during the period under audit."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2024-PY5",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Government should prioritize compliance with the provisions outlined in the PCW-DILG-DBM-NEDA Joint Memorandum Circular No. 2016-01 and COA Circular No. 2014-001. It is imperative that the GAD Focal Point ensures the timely preparation and submission of the annual GAD Plan and Budget. Additionally, the Municipality must promptly deliver the GAD Accomplishment Report to the Audit Team as per the prescribed timeline to facilitate a comprehensive evaluation of the Municipality's commitment and effectiveness in implementing gender-responsive programs, projects, and activities.",
+      "managementAction": "The management complied with the audit recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": "Submitted on time the GAD Plan and Budget with certificate of endorsement by the DILG.\n\nImplemented\n\nThe corresponding GAD accomplishment Report was submitted by the Municipality within the prescribed period."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2024-PY7",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive direct the concerned Municipal Officer to prioritize the immediate recruitment of competent staff for the LDRRM Office. This action will not only ensure compliance with statutory obligations but also significantly bolster the Municipality's resilience to potential disasters. Consequently, it will safeguard lives, property, and resources that are invaluable to the community's wellbeing and development.",
+      "managementAction": "Management diligently complied with the audit recommendation by designating employees to the three essential positions within the Local Disaster Risk Reduction and Management Office (LDRRMO).",
+      "status": "IMPLEMENTED",
+      "reason": "Submitted records and appointments for the three essential positions within the Local Disaster Risk Reduction and Management Office (LDRRMO)."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2024-PY8",
+      "year": 2024,
+      "recommendation": "We reiterate our previous year's audit recommendation that the Local Chief Executive require all concerned Department Heads/employees to submit detailed action plans on the CY 2022 Annual Audit Report (AAR) findings and recommendations to be incorporated in the AAPSI and submitted to the Audit Team. Moreover, We recommended that the management strictly follow the provisions of the General Appropriations Act (GAA) and COA Memorandum Circular No. 2014-002 regarding the submission of the AAPSI within 60 days from the receipt of the COA Annual Audit Report. This timeline ensures enough time for the auditor to review, monitor, and evaluate the actions taken by the management on the audit recommendations. Thus, any deficiencies identified could be communicated to Management for appropriate action.",
+      "managementAction": "Complied",
+      "status": "IMPLEMENTED",
+      "reason": "Submitted AAPSI within the prescribed period.\n\nImplemented\n\nSubmitted AAPSI within the prescribed period."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2024-PY10",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to ensure that all disbursements are accompanied by proper documentation.\n\nThe Municipal Treasurer to require from the suppliers/contractors Sales Invoices or Official Receipts for any goods delivered and services rendered in accordance with the mandates of Presidential Decree (PD) No. 1445, BIR Revenue Regulation No. 18-2012, and COA Circular No. 2004-006. \n\nAlso, strengthen internal controls to enhance transparency and accountability, thus mitigate the risk of financial irregularities and uphold the Municipality's integrity in its financial operations. \n\nAdditionally, require the Municipal Treasurer to secure the Official Receipts/Sales Invoices and submit the same to the Municipal Accountant for the latter to immediately provide to the Audit Team to avoid audit suspension.",
+      "managementAction": "Complied",
+      "status": "IMPLEMENTED",
+      "reason": "Verified during the post-audit."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2024-PY11",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipality promptly provide the Audit Team with the necessary guidelines or a Sangguniang Bayan (SB) Resolution to support the implementation of the “Aid to Individuals in Crisis Situation (AICS)” program, ensuring adherence to the relevant DSWD guidelines. This action will facilitate the Audit Team's comprehensive review of the program's compliance, mitigate risks of mismanagement or misuse of funds, promote equitable distribution of resources among beneficiaries, and enhance the effectiveness of the assistance provided.",
+      "managementAction": "The Management promptly complied with the audit recommendation and submitted to the Auditor the approved guidelines, which are in line with DSWD Memorandum Circular No. 16-2022.",
+      "status": "IMPLEMENTED",
+      "reason": "Submitted SB Resolution for the grant of AICS and the corresponding guidelines."
+    },
+    {
+      "id": "03-Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2024-PY13",
+      "year": 2024,
+      "recommendation": "We reiterated our previous year's recommendation that the Local Chief Executive require the Bids and Awards Committee, through its BAC Secretariat, to send the Notification of Bid Submission to all bidders and ensure that they receive the documents. This measure is essential to maintain transparency and to verify that the bidder who submitted the bid proposal is legitimate, and not a dummy.",
+      "managementAction": "The Bids and Awards Committee (BAC) complied with the audit recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": "Confirmed during the post-audit of various agency procurements that had undergone public bidding."
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-PY1",
+      "year": 2023,
+      "recommendation": "We recommended that that the Local Chief Executive require the Municipal Accountant to immediately prepare and submit Bank Reconciliation Statements (BRS) and ensure the monthly preparation of BRS for all accounts, with strict adherence to Section 74 of Presidential Decree No. 1445 and Section 3 of COA Circular No. 96-011. Thus, mitigate the risk of unreliable reported balance for the Cash in Bank – Local Currency account instead, ensure compliance with regulatory requirements and maintaining the integrity and accuracy of the financial statements.",
+      "managementAction": "To request Landbank for the copy of Bank Transactions in all accounts of LGU Alilem and prepare Bank Reconciliation for the whole year 2023.\n\n\n\n\n\n\n\n\nRequest We-access to Landbank to have real time access of Bank Transactions to ease the timely preparation of bank reconciliation",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "After considering the bank and book transactions, there were unreconciled amounts still need further review of records."
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-OBS1",
+      "year": 2023,
+      "recommendation": "We recommended that that the Local Chief Executive require the Municipal Accountant to immediately prepare and submit Bank Reconciliation Statements (BRS) and ensure the monthly preparation of BRS for all accounts, with strict adherence to Section 74 of Presidential Decree No. 1445 and Section 3 of COA Circular No. 96-011. Thus, mitigate the risk of unreliable reported balance for the Cash in Bank – Local Currency account instead, ensure compliance with regulatory requirements and maintaining the integrity and accuracy of the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-OBS2",
+      "year": 2023,
+      "recommendation": "We emphasize our recommendation from the previous year that the Local Chief Executive promptly directs the General Services Officer to initiate the one-time cleansing of PPE accounts, adhering strictly to the procedures outlined in COA Circular No. 2020-006. This action will facilitate the proper disposal of unserviceable properties, enabling the Municipal Accountant to accurately prepare the requisite journal entries for removing the corresponding costs of these properties from the books. Furthermore, it will allow the Municipality to realize additional income from the saleable scrap items, thereby ensuring the accuracy and propriety of the reported PPE in the Statement of Financial Position of the Municipal Government.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-OBS3",
+      "year": 2023,
+      "recommendation": "We recommended that the Municipal Government:\n\nPrioritize the timely submission of the Utilization/Accomplishment Report for the 20% Development Fund in order to facilitate effective oversight and evaluation of fund utilization.\n\nAdditionally, it is crucial to ensure compliance with the guidelines outlined in DBM-DOF-DILG Joint Memorandum Circular (JMC) No.1 dated November 4, 2020. The Municipality should carefully note the expenditures permitted and prohibited under the 20% Development Fund to ensure proper allocation and utilization of resources.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-OBS4",
+      "year": 2023,
+      "recommendation": "We recommended that the Municipal Government:\n\nStrictly adhere to the provisions outlined in DBM-DOF-DILG Joint Memorandum Circular (JMC) No.1 dated November 4, 2020. It is imperative that the Municipal Government prioritize the implementation of developmental projects aimed at promoting the general welfare of its constituents. By aligning expenditures with these guidelines and focusing on impactful projects, the Municipality can ensure effective utilization of resources for sustainable community development.\n\nFurthermore, it is crucial to emphasize that expenses such as the acquisition of office supplies, as evidenced in this instance, should rightfully be charged to the General Fund rather than the 20% Development Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-OBS5",
+      "year": 2023,
+      "recommendation": "We recommended that the Municipal Government:\n\nShould prioritize compliance with the provisions outlined in the PCW-DILG-DBM-NEDA Joint Memorandum Circular No. 2016-01 and COA Circular No. 2014-001. It is imperative that the GAD Focal Point ensures the timely preparation and submission of the annual GAD Plan and Budget.\n\nAdditionally, the Municipality must promptly deliver the GAD Accomplishment Report to the Audit Team as per the prescribed timeline to facilitate a comprehensive evaluation of the Municipality's commitment and effectiveness in implementing gender-responsive programs, projects, and activities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-OBS6",
+      "year": 2023,
+      "recommendation": "We recommended that the Local Chief Executive:\n\nRequire the Municipal Accountant to review the year-end unexpended LDRRMF and cause the immediate reversion of the unused funds after five (5) years to enable the reappropriation of the same for other social services, hence maximizing the usage of the funds.\n\nAlso, management require the DRRM Officer to determine the projects which are non-implementable/viable and adjust the LDRRM plan based on emerging needs and risks, and establishing a method for timely fund reallocation. This will ensure compliance with the provisions of Republic Act No. 10121 and Commission on Audit (COA) Circular No. 2012-02, dated September 12, 2012, effectively address its disaster risk reduction and management needs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-OBS7",
+      "year": 2023,
+      "recommendation": "We recommended that the Local Chief Executive direct the concerned Municipal Officer to prioritize the immediate recruitment of competent staff for the LDRRM Office. This action will not only ensure compliance with statutory obligations but also significantly bolster the Municipality's resilience to potential disasters. Consequently, it will safeguard lives, property, and resources that are invaluable to the community's wellbeing and development.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-OBS8",
+      "year": 2023,
+      "recommendation": "A. We reiterate our previous year's audit recommendation that the Local Chief Executive require all concerned Department Heads/employees to submit detailed action plans on the CY 2022 Annual Audit Report (AAR) findings and recommendations to be incorporated in the AAPSI and submitted to the Audit Team. \nB. Moreover, we recommend that the management strictly follow the provisions of the General Appropriations Act (GAA) and COA Memorandum Circular No. 2014-002 regarding the submission of the AAPSI within 60 days from the receipt of the COA Annual Audit Report. This timeline ensures enough time for the auditor to review, monitor, and evaluate the actions taken by the management on the audit recommendations. Thus, any deficiencies identified could be communicated to Management for appropriate action.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-OBS9",
+      "year": 2023,
+      "recommendation": "We recommended that the Municipal Government consider the advantages of engaging in a Framework Agreement facilitated through Competitive Bidding. This approach will ensure efficiency in procurement, minimize delays in acquisition, provide immediate delivery on short notice, and offer fixed or adjusted prices for the duration of the agreement, among other benefits. Furthermore, by exploring the utilization of Framework Agreements in accordance with GPPB Resolution No. 27-2019, the Municipality can enhance transparency, fairness, and value for money in its procurement processes while effectively meeting the needs of its constituents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-OBS10",
+      "year": 2023,
+      "recommendation": "We recommended that the Municipal Mayor:\n\nRequire the Municipal Accountant to ensure that all disbursements are accompanied by proper documentation;\n\nAnd the Municipal Treasurer to require from the suppliers/contractors Sales Invoices or Official Receipts for any goods delivered and services rendered in accordance with the mandates of Presidential Decree (PD) No. 1445, BIR Revenue Regulation No. 18-2012, and COA Circular No. 2004-006; \n\nAlso, strengthen internal controls to enhance transparency and accountability, thus mitigate the risk of financial irregularities and uphold the Municipality's integrity in its financial operations. Additionally, require the Municipal Treasurer to secure the Official Receipts/Sales Invoices and submit the same to the Municipal Accountant for the latter to immediately provide to the Audit Team to avoid audit suspension.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-OBS11",
+      "year": 2023,
+      "recommendation": "We recommended that the Municipality promptly provide the Audit Team with the necessary guidelines or a Sangguniang Bayan (SB) Resolution to support the implementation of the “Aid to Individuals in Crisis Situation (AICS)” program, ensuring adherence to the relevant DSWD guidelines. This action will facilitate the Audit Team's comprehensive review of the program's compliance, mitigate risks of mismanagement or misuse of funds, promote equitable distribution of resources among beneficiaries, and enhance the effectiveness of the assistance provided.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-OBS12",
+      "year": 2023,
+      "recommendation": "We reiterate our previous year's recommendation that the Local Chief Executive instruct the Bids and Awards Committee (BAC) to post all awards on the PhilGEPS website within the prescribed period of three calendar days from the date of issuance. This action is essential to ensure and uphold transparency in the procurement process.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-OBS13",
+      "year": 2023,
+      "recommendation": "We reiterate our previous year 's recommendation that the Local Chief Executive require the Bids and Awards Committee, through its BAC Secretariat, to send the Notification of Bid Submission to all bidders and ensure that they receive the documents. This measure is essential to maintain transparency and to verify that the bidder who submitted the bid proposal is legitimate, and not a dummy.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-PY2",
+      "year": 2023,
+      "recommendation": "We emphasize our recommendation from the previous year that the Local Chief Executive promptly directs the General Services Officer to initiate the one-time cleansing of PPE accounts, adhering strictly to the procedures outlined in COA Circular No. 2020-006. This action will facilitate the proper disposal of unserviceable properties, enabling the Municipal Accountant to accurately prepare the requisite journal entries for removing the corresponding costs of these properties from the books. Furthermore, it will allow the Municipality to realize additional income from the saleable scrap items, thereby ensuring the accuracy and propriety of the reported PPE in the Statement of Financial Position of the Municipal Government.",
+      "managementAction": "GSO shall prepare the schedule of unserviceable Property, Plant and Equipment (PPE) using the form for one-time cleansing and identify which offices the unserviceable PPE were assigned.\n\nThere shall be one room which is spacious and secured which will serve as storage for all unserviceable PPE for easier inventory count and documentation. GSO and Municipal Accountant shall coordinate with the Municipal Mayor and different heads of offices to transfer all unserviceable PPE to the room identified.\n\nCoordinate with the Commission on Audit (COA) to facilitate the inspection of unserviceable Property, Plant, and Equipment (PPE) in accordance with the guidelines specified in COA Circular No. 2020-006, dated January 31, 2020.\n\nCoordinate with the Municipal Mayor and the Sangguniang Bayan Members for the passing of a resolution authorizing the Municipal Mayor for the proper disposal of the inspected unserviceable PPEs.\n\nDetermine the scrap value of the unserviceable PPEs thru auction from available garbage collectors.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Management is evaluating alternative options due to the low scrap value proposed by the bidder."
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-PY3",
+      "year": 2023,
+      "recommendation": "We recommended that the Municipal Government:\n\nPrioritize the timely submission of the Utilization/Accomplishment Report for the 20% Development Fund in order to facilitate effective oversight and evaluation of fund utilization.\n\nAdditionally, it is crucial to ensure compliance with the guidelines outlined in DBM-DOF-DILG Joint Memorandum Circular (JMC) No.1 dated November 4, 2020. The Municipality should carefully note the expenditures permitted and prohibited under the 20% Development Fund to ensure proper allocation and utilization of resources.",
+      "managementAction": "Accomplish and submit to the Audit Team the 2023 20% Development Fund Utilization/ Accomplishment Report.\nCoordinate with COA to establish a schedule for submitting the 20% Utilization Report, ensuring timely submission in the succeeding fiscal years.\n\nRegular coordination with the Municipal Engineer / MPDC for the accomplishment of the 20% Utilization Report for its timely submission to concerned agencies.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-PY4",
+      "year": 2023,
+      "recommendation": "We recommended that the Municipal Government:\n\nStrictly adhere to the provisions outlined in DBM-DOF-DILG Joint Memorandum Circular (JMC) No.1 dated November 4, 2020. It is imperative that the Municipal Government prioritize the implementation of developmental projects aimed at promoting the general welfare of its constituents. By aligning expenditures with these guidelines and focusing on impactful projects, the Municipality can ensure effective utilization of resources for sustainable community development.\n\nFurthermore, it is crucial to emphasize that expenses such as the acquisition of office supplies, as evidenced in this instance, should rightfully be charged to the General Fund rather than the 20% Development Fund.",
+      "managementAction": "Review the supporting documents of the transactions and check disbursement journals how the transaction was recorded.\n\nCoordinate with the MSWDO on the actual materials purchased and documentation of the outputs from the produced Quality Books and Program Materials.\n\nRemind BAC and Municipal Accountant to be diligent in checking source of fund of the transaction before proceeding.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-PY5",
+      "year": 2023,
+      "recommendation": "We recommended that the Municipal Government:\n\nShould prioritize compliance with the provisions outlined in the PCW-DILG-DBM-NEDA Joint Memorandum Circular No. 2016-01 and COA Circular No. 2014-001. It is imperative that the GAD Focal Point ensures the timely preparation and submission of the annual GAD Plan and Budget.\n\nAdditionally, the Municipality must promptly deliver the GAD Accomplishment Report to the Audit Team as per the prescribed timeline to facilitate a comprehensive evaluation of the Municipality's commitment and effectiveness in implementing gender-responsive programs, projects, and activities.",
+      "managementAction": "Accomplish and submit the 2023 5% GAD Plan and Budget and the corresponding accomplishment Report.\n\nCoordinate with COA on the schedule of submitting the 5% GAD Plan and Budget and accomplishment report ensuring the timely submission on the succeeding financial years.\n\nRegular coordination with the GAD Focal Person for the accomplishment of the 5% GAD Plan and Budget and accomplishment report for its timely submission to concerned agencies.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-PY6",
+      "year": 2023,
+      "recommendation": "We recommended that the Local Chief Executive:\n\nRequire the Municipal Accountant to review the year-end unexpended LDRRMF and cause the immediate reversion of the unused funds after five (5) years to enable the reappropriation of the same for other social services, hence maximizing the usage of the funds.\n\nAlso, management require the DRRM Officer to determine the projects which are non-implementable/viable and adjust the LDRRM plan based on emerging needs and risks, and establishing a method for timely fund reallocation. This will ensure compliance with the provisions of Republic Act No. 10121 and Commission on Audit (COA) Circular No. 2012-02, dated September 12, 2012, effectively address its disaster risk reduction and management needs.",
+      "managementAction": "Review the unutilized LDRRMF exceeding the 5-year threshold and prepare the necessary supporting documents for transfer from Trust Fund to General Fund.\n\nReview existing LDRRM Plan and adjust if necessary. Establish a schedule of aging the MDRRMF transferred to Trust Fund to monitor years still in Trust Fund and ensure timely reallocation when exceeding the 5-year threshold.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-PY7",
+      "year": 2023,
+      "recommendation": "We recommended that the Local Chief Executive direct the concerned Municipal Officer to prioritize the immediate recruitment of competent staff for the LDRRM Office. This action will not only ensure compliance with statutory obligations but also significantly bolster the Municipality's resilience to potential disasters. Consequently, it will safeguard lives, property, and resources that are invaluable to the community's wellbeing and development.",
+      "managementAction": "Designation of LDRRM Office Staff assigned for: 1. Administration and Training; 2. Research and Planning; 3. Operations and Warning.\nCreation of 3 LDRRM Staff to be included in the 2025 Annual Budget.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-PY8",
+      "year": 2023,
+      "recommendation": "A. We reiterate our previous year's audit recommendation that the Local Chief Executive require all concerned Department Heads/employees to submit detailed action plans on the CY 2022 Annual Audit Report (AAR) findings and recommendations to be incorporated in the AAPSI and submitted to the Audit Team. \nB. Moreover, we recommend that the management strictly follow the provisions of the General Appropriations Act (GAA) and COA Memorandum Circular No. 2014-002 regarding the submission of the AAPSI within 60 days from the receipt of the COA Annual Audit Report. This timeline ensures enough time for the auditor to review, monitor, and evaluate the actions taken by the management on the audit recommendations. Thus, any deficiencies identified could be communicated to Management for appropriate action.",
+      "managementAction": "Remind the Municipal Accountant to submit the AAPSI on time",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-PY9",
+      "year": 2023,
+      "recommendation": "We recommended that the Municipal Government consider the advantages of engaging in a Framework Agreement facilitated through Competitive Bidding. This approach will ensure efficiency in procurement, minimize delays in acquisition, provide immediate delivery on short notice, and offer fixed or adjusted prices for the duration of the agreement, among other benefits. Furthermore, by exploring the utilization of Framework Agreements in accordance with GPPB Resolution No. 27-2019, the Municipality can enhance transparency, fairness, and value for money in its procurement processes while effectively meeting the needs of its constituents.",
+      "managementAction": "Check and consolidate Annual Procurement Plan (APP) for all catering services to be implemented from July to December, 2024 and process for bidding.\n\nResearch for sample framework agreement to be adopted to winning supplier.",
+      "status": "IMPLEMENTED",
+      "reason": "No qualified supplier to bid within our municipality for consolidated purchases. Likewise, the LGU sort to alternative way of purchases thru canvass for previous transactions because it is impractical to engage to suppliers outside the municipality due to the nature of goods which are perishable."
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-PY10",
+      "year": 2023,
+      "recommendation": "We recommended that the Municipal Mayor:\n\nRequire the Municipal Accountant to ensure that all disbursements are accompanied by proper documentation;\n\nAnd the Municipal Treasurer to require from the suppliers/contractors Sales Invoices or Official Receipts for any goods delivered and services rendered in accordance with the mandates of Presidential Decree (PD) No. 1445, BIR Revenue Regulation No. 18-2012, and COA Circular No. 2004-006; \n\nAlso, strengthen internal controls to enhance transparency and accountability, thus mitigate the risk of financial irregularities and uphold the Municipality's integrity in its financial operations. Additionally, require the Municipal Treasurer to secure the Official Receipts/Sales Invoices and submit the same to the Municipal Accountant for the latter to immediately provide to the Audit Team to avoid audit suspension.",
+      "managementAction": "Check the duplicate of the voucher submitted and see if there was receipt attached.\n\n.\nRemind the Municipal Treasurer to require Official Receipts upon payment to suppliers.\n\nMake a checklist as routing slip for common government transactions to guide concerned offices on the process and supporting documents necessary before payment.",
+      "status": "IMPLEMENTED",
+      "reason": "Official Receipt was unintentionally detached from the submitted vouchers"
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-PY11",
+      "year": 2023,
+      "recommendation": "We recommended that the Municipality promptly provide the Audit Team with the necessary guidelines or a Sangguniang Bayan (SB) Resolution to support the implementation of the “Aid to Individuals in Crisis Situation (AICS)” program, ensuring adherence to the relevant DSWD guidelines. This action will facilitate the Audit Team's comprehensive review of the program's compliance, mitigate risks of mismanagement or misuse of funds, promote equitable distribution of resources among beneficiaries, and enhance the effectiveness of the assistance provided.",
+      "managementAction": "Municipal Social Welfare and Development Officer coordinate with the Sangguniang Bayan for the adoption of the existing guidelines being used by LGU regarding AICS.",
+      "status": "IMPLEMENTED",
+      "reason": "There was already existing guidelines being adopted by the LGU but not presented to Sangguniang Bayan for approval. This guideline was also inline with the Memorandum Circular No. 16 – 2022 of DSWD entitled as, “Revised Guidelines on the Implementation of the Assistance to Individuals in Crisis Situation."
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-PY12",
+      "year": 2023,
+      "recommendation": "We reiterate our previous year's recommendation that the Local Chief Executive instruct the Bids and Awards Committee (BAC) to post all awards on the PhilGEPS website within the prescribed period of three calendar days from the date of issuance. This action is essential to ensure and uphold transparency in the procurement process.",
+      "managementAction": "Remind the Bids and Awards Committee (BAC) to adhere on the prescribed 3-day posting period.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "03_-_Region-I__Municipalities__Ilocos-Sur__Alilem_IlocosSur-2023-PY13",
+      "year": 2023,
+      "recommendation": "We reiterate our previous year 's recommendation that the Local Chief Executive require the Bids and Awards Committee, through its BAC Secretariat, to send the Notification of Bid  Submission to all bidders and ensure that they receive the documents. This measure is essential to maintain transparency and to verify that the bidder who submitted the bid proposal is legitimate, and not a dummy.",
+      "managementAction": "Remind the Bids and Awards Committee (BAC) thru its BAC Secretariat to always send Notification of Bid Submission to all bidders and ensure that they receive the documents.\n\n\nTo require the BAC to attach the receiving copy of the letters as supporting documents.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended that Management avail of the one-time cleansing of PPE accounts of government agencies to establish PPE balances that are verifiable as to existence, condition and accountability as provided for under COA Circular No. 2020-06 dated January 31, 2020, in order to have an accurate and fair presentation of the accounts in the financial statements will be presented.",
+      "managementAction": "The Management conducted the physical inventory taking of its properties, however only it was incomplete. The submitted RPCPPE pertains to several properties of the Municipality.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in Observation No. 1, page 34 of the report."
+    },
+    {
+      "id": "Alilem_IS_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended that the Management require the Municipal Accountant and Municipal Treasurer to coordinate with each other for the immediate remittance of the Sand and Gravel Tax Share to the Provincial Government in accordance with Section 293 of RA 7160, and in order that the latter will have more funds for other priority projects.",
+      "managementAction": "The Management remitted only the current collections for Sand and Gravel Tax. Prior years collections still unremitted. Verification of the financial statements reveals that there are balances of the Sand and Gravel Tax.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in Observation No. 2, page 34 of the report."
+    },
+    {
+      "id": "Alilem_IS_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended that the Management require the MSWMB complete the approval process of its 10-year SWM Plan in compliance with Section 16 of RA 9003 for efficient management of solid waste in the municipality.",
+      "managementAction": "The Management consistently followed-up the status of their 10-year SWM Plan at the EMB and were informed that the deliberation for the approved of their SWM Plan was set on the last week of April, 2022.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No copy of the 10-year SWM Plan was shown to the team."
+    },
+    {
+      "id": "Alilem_IS_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended that the Management require the Municipal Accountant to record the procurement of goods for distribution as inventories and to take-up as an expense only upon distribution. Also, make the necessary adjustments to reflect the correct balance of inventories if there are still undistributed farm equipment and fertilizers.",
+      "managementAction": "The Acting Municipal Accountant will record the procurement of goods for distribution as an outright expense.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in Observation No. 4, page 36 of the report."
+    },
+    {
+      "id": "Alilem_IS_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipality organize its PMC in compliance with DILG MC No. 2019-188 to ensure transparency and accountability in the implementation of local development programs and projects.",
+      "managementAction": "The Management has already an existing Project Monitoring Committee (PMC).",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in Observation No. 6, page 38 of the report."
+    },
+    {
+      "id": "Alilem_IS_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended that Management avail of the one-time cleansing of\nPPE accounts of government agencies to establish PPE balances that are\nverifiable as to existence, condition and accountability as provided for\nunder COA Circular No. 2020-06 dated January 31, 2020, in order to\nhave an accurate and fair presentation of the accounts in the financial\nstatements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended that the Management require the Acting Municipal\nAccountant and the Municipal Treasurer to coordinate with each other\nfor the immediate remittances of the Sand and Gravel Tax share to the\nProvincial Government in accordance with Section 293 of RA 7160 thus,\nthe later would have additional funds for the implementation of its\npriority projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended that the Management strictly adhere with the provisions of DILG-DBM JMC No. 2017-1, stop appropriating funds for the repair and maintenance of MDRRM equipment from the 20% Development Fund in order to have more funds for developmental projects for the constituents.",
+      "managementAction": "The Management only include in their Annual Development Plan the programs/projects/activities which are developmental in nature.",
+      "status": "IMPLEMENTED",
+      "reason": "Review of the Report on the Utilization of the 20% Development Fund reveals that no repair and maintenance for equipment was included in the plan."
+    },
+    {
+      "id": "Alilem_IS_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended that the municipality to implement programs/projects/activities embodied in their GAD Plan in order to address the gender issues stated therein.",
+      "managementAction": "The Management has implemented the five programs/projects/activities funded by their GAD Fund.",
+      "status": "IMPLEMENTED",
+      "reason": "Review of the Accomplishment Report revealed that these programs/projects/ activities were implemented."
+    },
+    {
+      "id": "Alilem_IS_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended that the municipality settle their suspensions before the 90 days period to avoid these suspensions maturing to disallowances.",
+      "managementAction": "The Management settled their suspensions amounting to ₱542,262.27.",
+      "status": "IMPLEMENTED",
+      "reason": "Issuance of the Notice of Suspensions, Disallowances and Charges (NSSDC) amounting to ₱542,262.27."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Sur__Alilem_IS-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommended that the Inventory Committee conduct a complete physical inventory taking of all its properties and prepare the RPCPPE by type of property and reconcile with the balances in the books.",
+      "managementAction": "Management conducted physical inventory of all its properties but were not able to reconcile with the balance appearing in their financial statements.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Unreconciled balance of RPCPPE submitted to the Auditor with the balance appearing in the financial statements.\n\nReiterated in Observation No. 1, page 33 of the report."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Sur__Alilem_IS-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended that the OIC – Municipal Accountant coordinate with the officials concerned on the recognition of Local Road Network in the books to reconcile their records. The inventory committee should only include in the RPCPPE those infrastructure projects implemented by the municipality as those were the ones recorded in the books.",
+      "managementAction": "The management did not conduct physical inventory on the Road Networks.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No RPCPPE was submitted to the Auditor."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Sur__Alilem_IS-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Treasurer and the OIC-Municipal Accountant coordinate with each other to facilitate the immediate remittance of the Sand and Gravel Tax Share to the Provincial Government.",
+      "managementAction": "The management did not remit the share of the provincial government in the share on the collection of Sand and Gravel Tax pertaining to prior years.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Verification from the financial statements showed the provincial share on the collection of Sand and Gravel Tax has a balance of ₱8,573,814.65 as of year-end.\n\nReiterated in Observation No. 2, page 33 of the report."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Sur__Alilem_IS-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Solid Waste Management Board complete the approval process of its 10-year Solid Waste Management Plan in compliance with Section 16 of Republic Act 9003. We recommended further that the MSWMB comply with the other provisions of Republic Act 9003.",
+      "managementAction": "The management have already submitted the revised SWM Plan to EMB for approval.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Interview with the MENRO revealed that they are awaiting the approval of the SWM Plan.\n\nReiterated in Observation No. 3, page 34 of the report."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Sur__Alilem_IS-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended that Management avail of the one-time cleansing of PPE accounts of government agencies to establish PPE balances that are verifiable as to existence, condition and accountability as provided for under COA Circular No. 2020-06 dated January 31, 2020, in order to have an accurate and fair presentation of the accounts in the financial statements will be presented.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Sur__Alilem_IS-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended that the Management require the Municipal Accountant and Municipal Treasurer to coordinate with each other for the immediate remittance of the Sand and Gravel Tax Share to the Provincial Government in accordance with Section 293 of RA 7160, and in order that the latter will have more funds for other priority projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Sur__Alilem_IS-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended that the Management require the MSWMB complete the approval process of its 10-year SWM Plan in compliance with Section 16 of RA 9003 for efficient management of solid waste in the municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Sur__Alilem_IS-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommend that the Management require the Municipal Accountant to record the procurement of goods for distribution as inventories and to take-up as an expense only upon distribution. Also, make the necessary adjustments to reflect the correct balance of inventories if there are still undistributed farm equipment and fertilizers.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Sur__Alilem_IS-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipality organize its PMC in compliance with DILG MC No. 2019-188 to ensure transparency and accountability in the implementation of local development programs and projects",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Sur__Alilem_IS-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended that the Management strictly adhere with the provisions of DILG-DBM JMC No. 2017-1, stop appropriating funds for the repair and maintenance of MDRRM equipment from the 20% Development Fund in order to have more funds for developmental projects for the constituents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Sur__Alilem_IS-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We recommended that the municipality to implement programs/projects/activities embodied in their GAD Plan in order to address the gender issues stated therein.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Sur__Alilem_IS-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We recommended that the municipality settle their suspensions before the 90 days period to avoid these suspensions maturing to disallowances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Sur__Alilem_IS-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended that the OIC - Municipal Accountant withhold taxes from the payment of benefits to officials and employees in accordance with the provisions of Republic Act 10963 or otherwise known as the TRAIN Act.",
+      "managementAction": "The management withheld taxes from payment of benefits of officials and employees in accordance with the provisions of R.A. 10963 or otherwise known as the TRAIN Act.",
+      "status": "IMPLEMENTED",
+      "reason": "Post-audit of payrolls showed that taxes were withheld from payments of benefits of officials and employees."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Sur__Alilem_IS-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Chief Executive ensure the full implementation of the programs/projects/ activities embodied in their Development Plan in order to achieve their objectives set forth in their plan and provide timely benefits to the constituents.",
+      "managementAction": "The management implement all the 31 projects during the year.",
+      "status": "IMPLEMENTED",
+      "reason": "Review of the Report on the Utilization of the 20% Development Fund showed that all programs/ projects/ activities were implemented."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Sur__Alilem_IS-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended that the municipal government prioritize the implementation of the unimplemented programs/projects funded under RA 7171 so that the purpose for which the fund was created will immediately benefit the tobacco farmers in the locality.",
+      "managementAction": "The management implemented all the 46 projects during the year.",
+      "status": "IMPLEMENTED",
+      "reason": "Review of the Report on the Utilization of RA 7171 Fund showed that all the projects were implemented."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Sur__Alilem_IS-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended that the GAD Focal Person submit the GAD Plan and Budget bearing the approval of the DILG Regional Office and corresponding Accomplishment Report within the time prescribed under COA Circular No. 2014-001 to facilitate immediate review of the same.",
+      "managementAction": "The management submitted a copy of the GAD Plan and Budget with corresponding Accomplishment Report within the required time.",
+      "status": "IMPLEMENTED",
+      "reason": "The GAD Plan and Budget and the accompanying Accomplishment Report received by the Audit Team."
+    },
+    {
+      "id": "Region-I__Municipalities__Ilocos-Sur__Alilem_IS-2020-PY9",
+      "year": 2020,
+      "recommendation": "We recommended that the OIC-Municipal Accountant look into the completeness of the documentary requirements of all the transactions of the municipality before affixing her signature in the disbursement voucher to avoid suspension in post audit.",
+      "managementAction": "The management settled the suspension amounting to ₱576,000.00 during the year.",
+      "status": "IMPLEMENTED",
+      "reason": "Issuance of NSSDC."
+    },
+    {
+      "id": "Alilem_IS-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended that the Inventory Committee conduct a complete physical inventory taking of all its properties and prepare the RPCPPE by type of property and reconcile with the balances in the books.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended that the OIC – Municipal Accountant coordinate with the officials concerned on the recognition of Local Road Network in the books to reconcile their records. The inventory committee should only include in the RPCPPE those infrastructure projects implemented by the municipality as those were the ones recorded in the books",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Treasurer and the OIC-Municipal Accountant coordinate with each other to facilitate the immediate remittance of the Sand and Gravel Tax Share to the Provincial Government.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Solid Waste Management Board complete the approval process of its 10-year Solid Waste Management Plan in compliance with Section 16 of Republic Act 9003. We recommended further that the MSWMB comply with the other provisions of Republic Act 9003.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommend that the OIC - Municipal Accountant withhold taxes from the payment of benefits to officials and employees in accordance with the provisions of Republic Act 10963 or otherwise known as the TRAIN Act.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive ensure the full implementation of the programs/projects/activities embodied in their Development Plan in order to achieve their objectives set forth in their plan and provide timely benefits to the constituents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We recommended that the municipal government prioritize the implementation of the unimplemented programs/projects funded under RA 7171 so that the purpose for which the fund was created will immediately benefit the tobacco farmers in the locality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2019-OBS8",
+      "year": 2019,
+      "recommendation": "We recommended that the GAD Focal Person submit the GAD Plan and Budget bearing the approval of the DILG Regional Office and corresponding Accomplishment Report within the time prescribed under COA Circular No. 2014-001 to facilitate immediate review of the same.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2019-OBS9",
+      "year": 2019,
+      "recommendation": "We recommended that the OIC-Municipal Accountant look into the completeness of the documentary requirements of all the transactions of the municipality before affixing her signature in the disbursement voucher to avoid suspension in post audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended that the OIC-Municipal Accountant prepare monthly Bank Reconciliation Statements (BRS) so that reconciling items are adjusted whenever there are errors committed. Likewise she should give priority on the reconciliation of the three (3) bank accounts with unreconciled balances.",
+      "managementAction": "Prepared and submitted the Monthly Bank Reconciliation Statements to the Auditor.",
+      "status": "UNKNOWN",
+      "reason": "Received Monthly Bank Reconciliation Statements from the acting Municipal Accountant."
+    },
+    {
+      "id": "Alilem_IS-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended that the Inventory Committee conduct a complete physical inventory taking of all its properties and prepare the RPCPPE by type of property and reconcile with the balances in the books.",
+      "managementAction": "The municipality conducted physical inventory of all its properties but were not able to reconcile with the balance appearing in their financial statements.",
+      "status": "UNKNOWN",
+      "reason": "Unreconciled balance of RPCPPE submitted to the Auditor with the balance appearing in the financial statements."
+    },
+    {
+      "id": "Alilem_IS-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Treasurer and the OIC-Municipal Accountant coordinate with each other to facilitate the immediate remittance of the Sand and Gravel Tax Share to the Provincial Government.",
+      "managementAction": "The acting Municipal Accountant and the Municipal Engineer is in the process of reconciling their reports before remittance.",
+      "status": "UNKNOWN",
+      "reason": "Verification from the financial statements showed the Provincial share on the collection of Sand and Gravel Tax has a balance of ₱3,105,498.61 as of year-end."
+    },
+    {
+      "id": "Alilem_IS-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive instruct the General Service Officer to determine all insurable properties of the Municipal Government and that an appropriation for the premiums of the insurance of all properties be included in the Annual Budget and effect the payment of the premiums immediately when due.",
+      "managementAction": "The municipality is in the process of accomplishing the documents required by the GSIS for the insurance of their properties.",
+      "status": "UNKNOWN",
+      "reason": "Interview with the acting Municipal Accountant revealed that the properties of the Municipal Government were not yet insured."
+    },
+    {
+      "id": "Alilem_IS-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executives instruct the Municipal Budget Officer to include in their Annual Budget one percent (1%) of their IRA for the LCPC and allocate the fund for programs, projects and activities for the welfare and protection of children.",
+      "managementAction": "The Municipality included in their Annual Budget an allocation for Local Council for the Protection of Children (LCPC).",
+      "status": "UNKNOWN",
+      "reason": "Review of the 2019 Annual Budget of the Municipality showed that there was already an allocation for LCPC."
+    },
+    {
+      "id": "Alilem_IS-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended that the BAC and/or GSO submit to the Auditor copies of perfected contracts and their supporting documents within the prescribed period as provided in COA Circular No. 2009-001 dated February 12, 2009.",
+      "managementAction": "The Municipality submitted copies of perfected contracts including the supporting documents to the Auditor.",
+      "status": "UNKNOWN",
+      "reason": "Received copies of perfected contracts together with the supporting documents."
+    },
+    {
+      "id": "Alilem_IS-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive implement all programs/projects/ activities funded under \nR. A. 7171 to promote the self-reliance of the tobacco farmers which is the main objective of the said law.",
+      "managementAction": "The Municipality implemented some of the programs/projects/activities funded from R. A. 7171 but were not able to implement fully.",
+      "status": "UNKNOWN",
+      "reason": "Verification from the Report on the Utilization of Fund for R. A. 7171 as of December 31, 2019 showed that there were forty six (46) programs/\nprojects/\nactivities that were not implemented."
+    },
+    {
+      "id": "Alilem_IS-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommended that the OIC – Municipal Accountant make the necessary adjusting entries to effect the unrecorded RPT Receivables and SET Receivables at the beginning of the year. Likewise, she should also strictly follow the provisions of Section 20, Volume I of the MNGAS.\n\nMoreover, the Municipal Treasury Office should exert more effort in the collection of taxes as this would result to more funds that could be appropriated for their priority programs/projects/ activities.",
+      "managementAction": "The acting Municipal Accountant prepared the JEV to set-up the RPT Receivable and SET Receivable at the beginning of the year.",
+      "status": "UNKNOWN",
+      "reason": "Post-audit of JEV showed that RPT Receivable and SET Receivable was already set-up at the beginning of the year."
+    },
+    {
+      "id": "Alilem_IS-2019-PY9",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Treasurer transfer the unexpended balance of the LDRRMF – MOOE to the Trust Fund at year-end as provided in COA Circular No. 2012-002 dated September 12, 2012.",
+      "managementAction": "The Municipal Treasurer prepared the check equivalent to the untransferred LDRRMF in the General Fund for the transfer to Trust Fund.",
+      "status": "UNKNOWN",
+      "reason": "Review of the financial statements showed that the unexpended balances of the LDRRMF were already in the Trust Fund."
+    },
+    {
+      "id": "Alilem_IS-2019-PY10",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive ensure the full implementation of programs/projects/ activities embodied in their 20% Annual Development Plan in order to attain their objectives contained in the plan and the constituents would also be benefited.",
+      "managementAction": "The Municipality implemented only some of the programs/projects/activities funded under the 20% Development Plan.",
+      "status": "UNKNOWN",
+      "reason": "Review of the Report of Utilization of the 20% Development Fund showed that four (4) programs/ projects/ activities funded in their current appropriations were not implemented. Likewise twenty seven (27) were not implemented from their continuing appropriations."
+    },
+    {
+      "id": "Alilem_IS-2019-PY11",
+      "year": 2019,
+      "recommendation": "We recommended that the Management through the monitoring of the GAD Focal Person fully implement activities/ programs specified in their GAD Plan & Budget in pursuance of the objectives of Gender and Development and resolve identified gender concerns and issues.",
+      "managementAction": "The Municipality implemented fully their projects contained in their GAD Plan.",
+      "status": "UNKNOWN",
+      "reason": "Review of the GAD Plan and Accomplishment Report showed that all these programs/\nprojects/\nactivities were implemented."
+    },
+    {
+      "id": "Alilem_IS-2019-PY12",
+      "year": 2019,
+      "recommendation": "We recommended that the OIC-Municipal Accountant look into the legality of the charges against the funds of the municipality before affixing her signature to avoid disallowance in post-audit.",
+      "managementAction": "The municipality have settled their suspensions amounting to ₱100,000.00 by submitting the documentary requirements. The disallowance was also settled thru the issuance of the Notice of Finality of Decision from the Commission Proper granting their appeal.",
+      "status": "UNKNOWN",
+      "reason": "Issuance of Notice of Settlement of Suspension/\nDisallowance/Charge (NSSDC)."
+    },
+    {
+      "id": "Alilem_IlocosSur-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended that the OIC-Municipal Accountant prepare monthly Bank Reconciliation Statements (BRS) so that reconciling items are adjusted whenever there are errors committed. Likewise she should give priority on the reconciliation of the three (3) bank accounts with unreconciled balances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IlocosSur-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We recommended that the Inventory Committee conduct a complete physical inventory taking of all its properties and prepare the RPCPPE by type of property and reconcile with the balances in the books.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IlocosSur-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Treasurer and the OIC – Municipal Accountant coordinate with each other to facilitate the immediate remittance of the Sand and Gravel Tax Share to the Provincial Government.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IlocosSur-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive instruct the General Service Officer to determine all insurable properties of the Municipal Government and that an appropriation for the premiums of the insurance of all properties be included in the Annual Budget and effect the payment of the premiums immediately when due.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IlocosSur-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executives instruct the Municipal Budget Officer to include in their Annual Budget one percent (1%) of their IRA for the LCPC and allocate the fund for programs, projects and activities for the welfare and protection of children.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IlocosSur-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We recommended that the BAC and/or GSO submit to the Auditor copies of perfected contracts and their supporting documents within the prescribed period as provided in COA Circular No. 2009-001 dated February 12, 2009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IlocosSur-2018-OBS7",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive implement all programs/projects/activities funded under R. A. 7171 to promote the self-reliance of the tobacco farmers which is the main objective of the said law.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IlocosSur-2018-OBS8",
+      "year": 2018,
+      "recommendation": "We recommended that the OIC-Municipal Accountant make the necessary adjusting entries to effect the unrecorded RPT Receivables and SET Receivables at the beginning of the year. Likewise, she should also strictly follow the provisions of Section 20, Volume I of the MNGAS.\n\nMoreover, the Municipal Treasury Office should exert more effort in the collection of taxes as this would result to more funds that could be appropriated for their priority programs/projects/activities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IlocosSur-2018-OBS9",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Treasurer transfer the unexpended balance of the LDRRMF – MOOE to the Trust Fund at year-end as provided in COA Circular No. 2012-002 dated September 12, 2012.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IlocosSur-2018-OBS10",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive ensure the full implementation of the programs/projects/activities embodied in their 20% Annual Development Plan in order to attain their objectives contained in the plan and the constituents would also be benefited.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IlocosSur-2018-OBS11",
+      "year": 2018,
+      "recommendation": "We recommended that the Management through the monitoring of the GAD Focal Person fully implement activities/programs specified in their GAD Plan & Budget in pursuance of the objectives of Gender and Development and resolve identified gender concerns and issues.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IlocosSur-2018-OBS12",
+      "year": 2018,
+      "recommendation": "We recommended that the OIC-Municipal Accountant look into the legality of the charges against the funds of the municipality before affixing her signature to avoid disallowance in post-audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IlocosSur-2018-PY1",
+      "year": 2018,
+      "recommendation": "We have recommended that the Municipal Treasurer return the unutilized funds to the Bureau of Treasury or to the source agencies to fully liquidate the accounts in the books of the said agencies and so that they can re-appropriate the funds for other projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IlocosSur-2018-PY2",
+      "year": 2018,
+      "recommendation": "We have recommended that all employees concerned see to it that all Purchase Orders for procurement of goods contain all the necessary information as prescribed by Section B.1 of COA Circular No. 96-010 dated August 15, 1996.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IlocosSur-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommended the following measures/procedures to correct the above deficiencies to ensure the validity of transactions:\n\nThat the OIC-Municipal Accountant see to it that all supporting documents for all types of transactions are complete.\n\nThat the BAC, thru the BAC Secretariat see to it that, before submitting the contracts for approval to the HOPE, the construction safety and health programs are approved by DOLE.\n\nThat the BAC, BAC Secretariat and TWG Members of the Municipality, at all times, be guided with the 2016 Revised IRR of RA 9184 in the procurement of goods and services, infrastructure projects and consulting services.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "In the post-audit of transactions pertaining to procurement of infrastructure projects, it was observed that some of their procurements were not still accompanied by the construction safety and health programs approved by DOLE. Bidding documents were not yet posted at its website and the PHILGEPS website. In all the procurement activities no representative from a duly recognized private group relevant to the procurement at hand was invited."
+    },
+    {
+      "id": "Alilem_IlocosSur-2018-PY4",
+      "year": 2018,
+      "recommendation": "We recommended the following measures/procedures to correct the above deficiencies to ensure the validity of transactions:\n\nThat the Municipal Accountant see to it that all supporting documents for all types of transactions are complete.\n\nThat the BAC, thru the BAC Secretariat see to it that, before submitting the contracts for approval to the HOPE, the construction safety and health programs are approved by DOLE.\n\nThat the BAC, BAC Secretariat and TWG Members of the Municipality, at all times, be guided with the 2016 Revised IRR of RA 9184 in the procurement of goods and services, infrastructure projects and consulting services.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "In the post-audit of transactions pertaining to procurement of infrastructure projects, it was observed that some of their procurements were not still accompanied by the construction safety and health programs approved by DOLE. Bidding documents were not yet posted at its website and the PHILGEPS website. In all the procurement activities no representative from a duly recognized private group relevant to the procurement at hand was invited."
+    },
+    {
+      "id": "Alilem_IlocosSur-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommended that the OIC-Municipal Accountant, BAC and BAC Secretariat ensure that all small value procurements of the Municipality comply with the documentary requirements for alternative methods of procurement as prescribed under Annex “H”, Appendix A of 2016 Revised IRR of RA 9184 before payment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IlocosSur-2018-PY6",
+      "year": 2018,
+      "recommendation": "We recommended that Management be meticulous, judicious and prudent in preparing their budget so that funds are fairly distributed and more projects are given priority for the betterment of the people of the Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IlocosSur-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor cause the immediate completion of the funded projects with emphasis on the ones under suspension and ensure that suspension orders are issued within a reasonable time and for a reasonable period of suspension so that the benefits derived from these projects will be timely delivered to the constituents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IlocosSur-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommended that the MDRRMO submit Monthly Report on the Utilization of Disaster Risk Reduction and Management Fund, prepare the LDRRMFIP in accordance with COA Circular 2012-002 dated September 12, 2012 and that MOOE and capital outlay of the LDRRMO be charged to the General Fund and not the LDRRMF.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommended that the OIC-Municipal Accountant prepare monthly Bank Reconciliation Statements (BRS) so that reconciling items can still be easily identified and submit the same to the Auditor a copy for verification and that reconciliation of unreconciled balances be given priority.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommended that the Accounting Office prepare PPE ledger cards and the General Services Office their PPE property cards so that the Inventory Committee can use them as basis and facilitate their inventory taking.\n\nWe also recommended that both officers give priority in reconciling the results of the inventory count with the accounting records, determine land actually owned by the LGU and record them in the books supported with Transfer Certificate of Titles.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recommended that the OIC-Municipal Accountant commit to the target of implementation for the recognition of the Public Infrastructures as Road Networks and strictly adhere to the provisions of COA Circular No. 2016-004 dated September 30, 2016.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We recommended that the OIC-Municipal Accountant and Municipal Treasurer immediately release the gravel tax shares of the Province of Ilocos Sur in accordance with existing provisions of RA 7160.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Treasurer return the unutilized funds to the Bureau of Treasury or to the source agencies to fully liquidate the accounts in the books of the said agencies and so that they can re-appropriate the funds for other projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive instruct the General Service Officer to determine all insurable properties of the Municipal Government and that an appropriation for the premiums of the insurance of all properties will be included in the Annual Budget and to effect the payment of the premiums immediately when due.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2017-OBS7",
+      "year": 2017,
+      "recommendation": "We recommended that the OIC Municipal Accountant prepare a checklist of required documents for each kind of transaction in accordance with COA Cir. No. 2012-001 dated June 14, 2012 and attach to DVs so that all concerned officials and employees are reminded of the required documents and see which document is not yet attached thus ensuring all transactions are duly supported with the required documents in compliance with Section 6 of Presidential Decree No. 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2017-OBS8",
+      "year": 2017,
+      "recommendation": "We recommended that all employees concerned see to it that all Purchase Orders for procurement of goods contain all the necessary information as prescribed by Section B.1 of COA Circular No. 96-010 dated August 15, 1996.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2017-OBS9",
+      "year": 2017,
+      "recommendation": "We recommend that the Local Chief Executive instruct the Municipal Budget Officer to appropriate in the LGU’s Annual Budget one percent (1%) of its IRA for the LCPC and allocate the fund for programs, projects and activities for the protection of children.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2017-OBS10",
+      "year": 2017,
+      "recommendation": "We recommended the following measures/procedures to correct the above deficiencies to ensure the validity of transactions:\nThat the OIC-Municipal Accountant see to it that all supporting documents for all types of transactions are complete.\nThat the BAC, thru the BAC Secretariat see to it that, before submitting the contracts for approval to the HOPE, the construction safety and health programs are approved by DOLE.\nThat the BAC, BAC Secretariat and TWG Members of the Municipality, at all times, be guided with the 2016 Revised IRR of RA 9184 in the procurement of goods and services, infrastructure projects and consulting services.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2017-OBS11",
+      "year": 2017,
+      "recommendation": "We recommended the following measures/procedures to correct the above deficiencies to ensure the validity of transactions:\nThat the Municipal Accountant see to it that all supporting documents for all types of transactions are complete.\nThat the BAC, thru the BAC Secretariat see to it that, before submitting the contracts for approval to the HOPE, the construction safety and health programs are approved by DOLE.\nThat the BAC, BAC Secretariat and TWG Members of the Municipality, at all times, be guided with the 2016 Revised IRR of RA 9184 in the procurement of goods and services, infrastructure projects and consulting services.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2017-OBS12",
+      "year": 2017,
+      "recommendation": "We recommended that the OIC-Municipal Accountant, BAC and BAC Secretariat ensure that all small value procurements of the Municipality comply with the documentary requirements for alternative methods of procurement as prescribed under Annex “H”, Appendix A of 2016 Revised IRR of RA 9184 before payment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2017-OBS13",
+      "year": 2017,
+      "recommendation": "We recommended that Management be meticulous, judicious and prudent in preparing their budget so that funds are fairly distributed and more projects are given priority for the betterment of the people of the Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2017-OBS14",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Treasurer and staff exert more effort in the collection of taxes thereby increasing the income of the Municipality.\n\nAlso, we recommended that the OIC-Municipal Accountant take up in the books unrecorded RPT and SET Receivables to present the correct balances of the accounts of the Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2017-OBS15",
+      "year": 2017,
+      "recommendation": "We recommended that the Management cause the immediate implementation of funded projects so that benefits derived from them will be timely delivered to the constituents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2017-OBS16",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor cause the immediate completion of the funded projects with emphasis on the ones under suspension and ensure that suspension orders are issued within a reasonable time and for a reasonable period of suspension so that the benefits derived from these projects will be timely delivered to the constituents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2017-OBS17",
+      "year": 2017,
+      "recommendation": "We recommended that the MDRRMO submit Monthly Report on the Utilization of Disaster Risk Reduction and Management Fund, prepare the LDRRMFIP in accordance with COA Circular 2012-002 dated September 12, 2012 and that MOOE and capital outlay of the LDRRMO be charged to the General Fund and not the LDRRMF.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2017-OBS18",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor ensure that the 20% Development Fund is optimally utilized to attain desirable socio-economic and environmental outcomes for the Municipality and its intended beneficiaries.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2017-OBS19",
+      "year": 2017,
+      "recommendation": "We recommended that the Management through the monitoring of the GAD Focal Person fully implement activities/programs specified in their GAD Plan & Budget in pursuance of the objectives of Gender and Development and resolve identified gender concerns and issues.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2017-OBS20",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive direct all officials concerned to cause the immediate settlement of all suspensions or disallowances before they mature to disallowances or become final and executory. Likewise, the Municipal Accountant should strictly adhere in the documentation of all disbursement vouchers before effecting payment of all claims and before submission to the Auditor’s Office to avoid suspensions and disallowances. COA Circular No. 2012-001 dated June 14, 2012 should be used as reference on the documentary requirements for common government transactions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2017-PY1",
+      "year": 2017,
+      "recommendation": "We have recommended that the OIC-Municipal Accountant prepare monthly Bank Reconciliation Statements (BRS) so that reconciling items can still be easily identified and the investigation of the reported unreconciled differences should be given priority.",
+      "managementAction": "The OIC-Municipal Accountant prepared a yearly Bank Reconciliation.",
+      "status": "UNKNOWN",
+      "reason": "Only yearly Bank Reconciliation Statements (BRS) instead of monthly were submitted to the Auditor but four (4) funds have unreconciled balances totaling to ₱1,148,745.50."
+    },
+    {
+      "id": "Alilem_IS-2017-PY2",
+      "year": 2017,
+      "recommendation": "For the proper management and handling of the PPE, we have recommended that:\n\nThe inventory committee conduct the required annual physical count of each category of PPE as of December of every year. The actual count may be undertaken any month during the current year, but has to be updated at year-end. This procedure is a must in order to know the physical existence of the PPE and their conditions; and to identify, segregate and reclassify unserviceable assets. Reconciliation of the result of the count with the accounting records is to be undertaken to effect the necessary adjustments; and to pin point responsibility/ accountability/liability for missing PPEs. Further, the Inventory Committee should invite the audit team to observe during the annual physical count\n\nThe GSO verify from the Municipal Assessor the records or titles of all land owned by the LGU. For the buildings account, the Municipal Accountant should provide copies of disbursement vouchers or verify general ledgers for payment of the buildings to the Inventory Committee as basis for the annual physical count.\n\n The GSO maintain/update the PPELC which are required under MNGAS for proper identification, control and monitoring of the PPEs.",
+      "managementAction": "The municipality conducted annual physical count.",
+      "status": "UNKNOWN",
+      "reason": "Deficiencies were still uncovered in the audit of PPE."
+    },
+    {
+      "id": "Alilem_IS-2017-PY3",
+      "year": 2017,
+      "recommendation": "We have recommended that the Municipal Accountant complete the Registry of Public Infrastructures from 2002 to 2015 as basis for the computation of the balance of the road networks which should be recognized as PPE in the financial statements in accordance with the aforementioned sections of COA Circular No. 2015-008 dated November 25, 2015. Also, we recommend the General Services Officer, Municipal Engineer and Inventory Committee to comply with the duties and responsibilities provided in the said circular to be able to complete the recognition of the account Local Road Networks in the books of the Municipality in accordance with the transitory provision of the said circular.",
+      "managementAction": "Only 2015 Public Infrastructures were recorded back in the books of accounts.",
+      "status": "UNKNOWN",
+      "reason": "Public Infrastructures acquired or constructed before 2015 is not yet recorded in the books."
+    },
+    {
+      "id": "Alilem_IS-2017-PY4",
+      "year": 2017,
+      "recommendation": "We have recommended that all the concerned officials accomplish all the forms mentioned above for the years prior to 2014 to 2016 and the chief accountant shall prepare a JEV to record the debit to RPT/SET Receivable the amount which will appear in the report prepared by the Treasurer. Henceforth, we have recommended that the Municipal Assessor comply with the requirements of Section 248 of RA 7160 and the Municipal Accountant and Municipal Treasurer with Section 20 of MNGAS Vol. I for LGUs to present the true financial condition of the Municipality.",
+      "managementAction": "The OIC-Municipal Accountant recorded receivables for 2015 to 2017 only.",
+      "status": "UNKNOWN",
+      "reason": "The RPT and SET Receivables for 2014 were not taken up in the books."
+    },
+    {
+      "id": "Alilem_IS-2017-PY5",
+      "year": 2017,
+      "recommendation": "We have recommended that the MDRRMO submit the monthly Report on Utilization of Disaster Risk Reduction and Management Fund on time and the LDRRMFIP be prepared and submitted in accordance with COA Circular 2012-002 dated September 12, 2012.\nWe have recommended also that management utilize the 30% Quick Response Fund during or immediately in times of calamities in order that the living conditions of the victims normalize as quickly as possible otherwise utilize the 70% Mitigation Fund for stockpiling of goods for relief.",
+      "managementAction": "LDRRMFIP was prepared.",
+      "status": "UNKNOWN",
+      "reason": "As per record, no monthly report of utilization of MDRRMF was noted. Non-submission of monthly report of utilization is mentioned again in Observation no. 16, page 45 of the report."
+    },
+    {
+      "id": "Alilem_IS-2017-PY6",
+      "year": 2017,
+      "recommendation": "We have recommended that the OIC Municipal Accountant prepare a checklist of required documents for each kind of transaction in accordance with COA Cir. No. 2012-001 dated June 14, 2012 and attach to DVs so that all concerned officials are reminded and see which document is not yet attach to ensure that all transactions are duly supported with the required documents in compliance with Section 6 of Presidential Decree No. 1445.",
+      "managementAction": "The OIC-Municipal Account was vigilant in checking the completeness of supporting documents.",
+      "status": "UNKNOWN",
+      "reason": "Several deficiencies were still noted in 2017."
+    },
+    {
+      "id": "Alilem_IS-2017-PY7",
+      "year": 2017,
+      "recommendation": "We have recommended that the OIC-Municipal Accountant and Municipal Treasurer immediately release the gravel tax shares of the barangays and of the Province of Ilocos Sur in accordance with existing provisions of RA 7160 on the release of such shares.",
+      "managementAction": "Sand and Gravel tax shares of the Province of Ilocos Sur in the amount of ₱1,273,470.07 were still not released in 2017.",
+      "status": "UNKNOWN",
+      "reason": "This is reiterated in Observation no. 4, page 29 of the report."
+    },
+    {
+      "id": "Alilem_IS-2017-PY8",
+      "year": 2017,
+      "recommendation": "We have recommended that the BAC, BAC Secretariat and TWG Members of the Municipality follow all the provisions of the Revised IRR of RA 9184 and all other issuances for the procurement of goods and services so that the interest of the Municipality is at all times protected. Likewise, it is recommended that the OIC-Municipal Accountant submit the lacking documents and to see to it that all payments of goods and services are supported with complete documentation in compliance with Section 6 of PD 1445.",
+      "managementAction": "The BAC tried their best to comply with the recommendation.",
+      "status": "UNKNOWN",
+      "reason": "Deficiencies were still noted."
+    },
+    {
+      "id": "Alilem_IS-2017-PY9",
+      "year": 2017,
+      "recommendation": "We have recommended that the Management implement immediately RA 7171 funded projects so that benefits derived from them will be timely delivered to the farmer-beneficiaries.",
+      "managementAction": "Only ten (10) out of the eighteen (18) projects appropriated in 2016 were completed during 2017.",
+      "status": "UNKNOWN",
+      "reason": "Delayed implementation of projects were observed again and discussed in Observation no. 14, page 42 of the report."
+    },
+    {
+      "id": "Alilem_IS-2017-PY10",
+      "year": 2017,
+      "recommendation": "We have recommended that the Municipal Mayor instruct concerned officials to monitor and inspect the implementation of the corn production and hog raising project granted to five (5) cooperatives.  Likewise, remind the cooperative to submit semi-annual physical reports, liquidation reports and other reports stipulated in the Memorandum of Agreement. Moreover, we have recommended that no contracts shall be entered into by the Municipal Mayor without prior authorization by the Sanggunian.",
+      "managementAction": "Monitoring reports were submitted.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2017-PY11",
+      "year": 2017,
+      "recommendation": "We have recommended that the Municipal Government cause the immediate implementation of funded projects so that benefits derived from them will be timely delivered to the constituents.",
+      "managementAction": "Implementation of 20% Development Fund projects were still delayed.",
+      "status": "UNKNOWN",
+      "reason": "Projects appropriated under current and continuing amounting to ₱14,496,325.38 were not implemented."
+    },
+    {
+      "id": "Alilem_IS-2017-PY12",
+      "year": 2017,
+      "recommendation": "We have recommended that the Local Chief Executive direct all officials concerned to cause the immediate settlement of all suspensions or disallowances before they mature to disallowances or become final and executory. Likewise, the Municipal Accountant should strictly adhere in the documentation of all disbursement vouchers before effecting payment of all claims and before submission to the Auditor’s Office to avoid suspensions and disallowances. COA Circular No. 2012-001 dated June 14, 2012 should be used as reference on the documentary requirements for common government transactions.",
+      "managementAction": "The OIC-Municipal Accountant see to it that supporting documents of DVs were complete.",
+      "status": "UNKNOWN",
+      "reason": "No issuance of notice of suspension in 2017."
+    },
+    {
+      "id": "Alilem_IS-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We have recommended that the OIC-Municipal Accountant prepare\nmonthly Bank Reconciliation Statements (BRS) so that reconciling items can\nstill be easily identified and the investigation of the reported unreconciled\ndifferences should be given priority.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2016-OBS2",
+      "year": 2016,
+      "recommendation": "For the proper management and handling of the PPE, we have\nrecommended that:\n\na. The inventory committee conduct the required annual physical count\nof each category of PPE as of December of every year. The actual\ncount may be undertaken any month during the current year, but\nhas to be updated at year-end. This procedure is a must in order to\nknow the physical existence of the PPE and their conditions; and to\nidentify, segregate and reclassify unserviceable assets. Reconciliation\nof the result of the count with the accounting records is to be\nundertaken to effect the necessary adjustments; and to pin point\nresponsibility/ accountability/liability for missing PPEs. Further, the\nInventory Committee should invite the audit team to observe during\nthe annual physical count\n\nb. The GSO verify from the Municipal Assessor the records or titles of\nall land owned by the LGU. For the buildings account, the Municipal\nAccountant should provide copies of disbursement vouchers or verify\ngeneral ledgers for payment of the buildings to the Inventory\nCommittee as basis for the annual physical count.\n\nc. The GSO maintain/update the PPELC which are required under\nMNGAS for proper identification, control and monitoring of the PPEs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We have recommended that the Municipal Accountant complete the\nRegistry of Public Infrastructures from 2002 to 2015 as basis for the\ncomputation of the balance of the road networks which should be recognized as\nPPE in the financial statements in accordance with the aforementioned sections\nof COA Circular No. 2015-008 dated November 25, 2015. Also, we recommend\nthe General Services Officer, Municipal Engineer and Inventory Committee to\ncomply with the duties and responsibilities provided in the said circular to be\nable to complete the recognition of the account Local Road Networks in the\nbooks of the Municipality in accordance with the transitory provision of the\nsaid circular.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We have recommended that all the concerned officials accomplish all the\nforms mentioned above for the years prior to 2014 to 2016 and the chief\naccountant shall prepare a JEV to record the debit to RPT/SET Receivable the\namount which will appear in the report prepared by the Treasurer. Henceforth,\nwe have recommended that the Municipal Assessor comply with the\nrequirements of Section 248 of RA 7160 and the Municipal Accountant and\nMunicipal Treasurer with Section 20 of MNGAS Vol. I for LGUs to present the\ntrue financial condition of the Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We have recommended that the MDRRMO submit the monthly Report\non Utilization of Disaster Risk Reduction and Management Fund on time and\nthe LDRRMFIP be prepared and submitted in accordance with COA Circular\n2012-002 dated September 12, 2012.\n\nWe also have recommended that management utilize the 30% Quick\nResponse Fund during or immediately in times of calamities in order that the\nliving conditions of the victims normalize as quickly as possible otherwise utilize\nthe 70% Mitigation Fund for stockpiling of goods for relief.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We have recommended that the OIC Municipal Accountant prepare a\nchecklist of required documents for each kind of transaction in accordance with\nCOA Cir. No. 2012-001 dated June 14, 2012 and attach to DVs so that all\nconcerned officials are reminded and see which document is not yet attach to\nensure that all transactions are duly supported with the required documents in\ncompliance with Section 6 of Presidential Decree No. 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We have recommended that the OIC-Municipal Accountant and\nMunicipal Treasurer immediately release the gravel tax shares of the barangays\nand of the Province of Ilocos Sur in accordance with existing provisions of RA\n7160 on the release of such shares.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We have recommended that the BAC, BAC Secretariat and TWG\nMembers of the Municipality follow all the provisions of the Revised IRR of RA\n9184 and all other issuances for the procurement of goods and services so that\nthe interest of the Municipality is at all times protected. Likewise, it is\nrecommended that the OIC-Municipal Accountant submit the lacking\ndocuments and to see to it that all payments of goods and services are supported\nwith complete documentation in compliance with Section 6 of PD 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2016-OBS9",
+      "year": 2016,
+      "recommendation": "We have recommended that the Management implement immediately\nRA 7171 funded projects so that benefits derived from them will be timely\ndelivered to the farmer-beneficiaries.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2016-OBS10",
+      "year": 2016,
+      "recommendation": "We have recommended that the Municipal Mayor instruct concerned\nofficials to monitor and inspect the implementation of the corn production and\nhog raising project granted to five (5) cooperatives. Likewise, remind the\ncooperative to submit semi-annual physical reports, liquidation reports and\nother reports stipulated in the Memorandum of Agreement. Moreover, we have\nrecommended that no contracts shall be entered into by the Municipal Mayor\nwithout prior authorization by the Sanggunian.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2016-OBS11",
+      "year": 2016,
+      "recommendation": "We have recommended that the Municipal Government cause the\nimmediate implementation of funded projects so that benefits derived from\nthem will be timely delivered to the constituents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2016-OBS12",
+      "year": 2016,
+      "recommendation": "We have recommended that the Local Chief Executive direct all officials\nconcerned to cause the immediate settlement of all suspensions or disallowances\nbefore they mature to disallowances or become final and executory. Likewise,\nthe Municipal Accountant should strictly adhere in the documentation of all\ndisbursement vouchers before effecting payment of all claims and before\nsubmission to the Auditor’s Office to avoid suspensions and disallowances.\nCOA Circular No. 2012-001 dated June 14, 2012 should be used as reference on\nthe documentary requirements for common government transactions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2016-PY1",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2016-PY2",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2016-PY3",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2016-PY4",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2016-PY5",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2016-PY6",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2016-PY7",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2016-PY8",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2016-PY9",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2016-PY10",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Alilem_IS-2016-PY11",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    }
+  ]
+}

@@ -1,0 +1,838 @@
+{
+  "lguCode": "405603000",
+  "lguName": "Atimonan",
+  "province": "Quezon",
+  "region": "Region III (Central Luzon)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "Atimonan_Quezon_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant and the\nMunicipal Treasurer to verify with the Provincial Accountant and Provincial\nTreasurer the discrepancies of P4,662,102.73 and P4,361,510.24 between the\nrecorded balances of the reciprocal accounts reflected in the books of the Province\nand adjust the same to present the correct balances of the said accounts in the\nMunicipality’s financial statement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the GSO to prepare PLCs and submit the same to the Municipal Accountant to reconcile the same with the LCs maintained by the Accounting Office and effect adjustments, if warranted.",
+      "managementAction": "The GSO- Designate had already reconciled the PELC and Property and Equipment Card.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the GSO to prepare IIRUP and to facilitate the disposal of the unserviceable properties in accordance with Section 79 of P.D. No. 1445 to avoid further deterioration and earn the salvage value from the sale of these assets.",
+      "managementAction": "The GSO- submitted the IIRUP to the Audit Team and will proceed for the disposal of unserviceable properties.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the: a. Municipal Accountant to exert more effort in providing the breakdown or the undetailed recorded lot and amounting to P1,702,275.75; b. Appraisal Committee to continue the valuation of the unrecorded lands, which will be used as the basis of recording the parcels of land/adjusting the Land account balance; and c. Municipal Assessor to continue her efforts to verify the ownership of the lots named under the Municipality per its tax declarations but were not supported with certificate of titles and make the necessary follow-ups with the concerned agencies for the titling of all untitled lots owned by the Municipality.",
+      "managementAction": "The Municipal Accountant provided an adjusting entry for the dropping of recorded land amounting to P1,702,275.75.\nThe Appraisal Committee provided the appraisal reports and submitted the same to the Municipal Accountant as their basis of recording the lots in the books of accounts.\nThe Municipal Assessor verified that the ownership of the lots named under the Municipality per its tax declarations were supported by deed of donation and certificate of titles which are for transfer in favor of the Municipality.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Agriculturist to prepare Property Card for the Biological Assets and to update it regularly; and submit the Inventory of Biological Assets to the Accounting Office for recording in the books of accounts the gain or loss on fair value of biological assets and the addition or reduction of the same.",
+      "managementAction": "The Biological Assets was presented using its fair value less cost to sell as of December 31, 2021.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Health Officer to adhere with the provisions of COA Circular No. 2012-001 to ensure the safety and quality of the procured drugs and medicines and to submit to the Audit Team the required documents for evaluation and validation.",
+      "managementAction": "A certification from the manufacturer that the supplier is an authorized distributor/dealer of the product was already submitted.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer and Municipal Accountant to release the RPT share of the component Barangays promptly within five days after the end of each quarter.",
+      "managementAction": "The Municipality distributed the RPT share of the component Barangays promptly within five days after the end of each quarter.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor file a legal action against the contractor to demand the refund of the advance payment made to them to avoid loss of government funds.",
+      "managementAction": "A compromise agreement was entered into between the Municipality of Atimonan and Mr. Earl Ferrer Garcia dated May 20, 2022 for the refund of the mobilization fee and to pay P50,000.00 every quarter starting June 20, 2022 up to March 31, 2025.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partial collection was made during CY 2022."
+    },
+    {
+      "id": "Atimonan_Quezon_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the GFPS: a. seek timely review and approval of GPB through prompt submission and follow-up from the oversight agencies as scheduled; and b. ensure the GAD maximum optimally utilization of the GAD funds through the implementation of GAD-related projects and attain the objective for which funds were provided.",
+      "managementAction": "Approved GPB was submitted to the Audit Team for evaluation.\nBudget was fully utilized as of year-end.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Atimonan_Quezon-2020-PY8",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Accountant demand the refund of the advance payment from the Contractor or resort to other courses of action to ensure that the advance payment made be returned to the Municipality to avoid loss of government funds.",
+      "managementAction": "Several demand letters were sent to the contractor but no response was received.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The contractor still failed to refund the amount as promised in their meeting in October 2017 for unknown reasons."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Atimonan_Quezon-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the GSO to prepare PLCs and\nsubmit the same to the Municipal Accountant to reconcile the same with the LCs\nmaintained by the Accounting Office and effect adjustments, if warranted.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Atimonan_Quezon-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the GSO to prepare IIRUP and\nto facilitate the disposal of the unserviceable properties in accordance with Section 79\nof P.D. No. 1445 to avoid further deterioration and earn at least the salvage value\nfrom the sale of these assets.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Atimonan_Quezon-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the:\n\na. Municipal Accountant to exert more effort in providing the breakdown or details\nof the recorded lot amounting to P1,702,275.75;\n\nb. Appraisal Committee to continue the valuation of the unrecorded lands, titled\nand untitled, which will be used as the basis of the Municipal Accountant in\nrecording the parcels of land/adjusting the Land account balance; and\n\nc. Municipal Assessor to continue her efforts to verify the ownership of the lots\nnamed under the Municipality per its tax declarations but were not supported\nwith certificate of titles and make the necessary follow-ups with the concerned\nagencies for the titling of all untitled lots owned by the Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Atimonan_Quezon-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Agriculturist to\nprepare the Property Card for the Biological Assets and to update it regularly; and\nsubmit the Inventory of Biological Assets to the Accounting Office for recording in the\nbooks of accounts the gain or loss on fair value of biological assets and the addition or\nreduction of the same.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Atimonan_Quezon-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Health Officer to\nadhere with the provisions of COA Circular No. 2012-001 to ensure the safety and\nquality of the procured drugs and medicines and to submit to the Audit Team the\nrequired documents for evaluation and validation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Atimonan_Quezon-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer and\nMunicipal Accountant to release the RPT share of the component Barangays\npromptly within five days after the end of each quarter in accordance with Section\n36 of COA Circular No. 92-382 and Section 271 (d) of RA No. 7160.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Atimonan_Quezon-2020-PY1",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the OIC-GSO to submit to the Audit Team a complete RPCPPE and instruct the Municipal Accountant to reconcile the ledger cards with the property cards maintained by the OIC-GSO and effect adjustments, if warranted.",
+      "managementAction": "The GSO prepared and completed the RPCPPE which was submitted to the Audit Team.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Atimonan_Quezon-2020-PY2",
+      "year": 2020,
+      "recommendation": "a. Municipal Accountant to exert more effort in providing the breakdown or details of the recorded lot amounting to P1,702,275.75;",
+      "managementAction": "The Municipal Accountant coordinated with the OIC-Municipal Assessor since the lots were acquired prior to her assumption to office.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipal Accountant is still having difficulty in retrieving records"
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Atimonan_Quezon-2020-PY3",
+      "year": 2020,
+      "recommendation": "b. Appraisal Committee to continue the valuation of the unrecorded lands, titled and untitled, which will be used as the basis of the Municipal Accountant in recording the parcels of land/adjusting the Land account balance;",
+      "managementAction": "The Appraisal Committee was able to submit the valuation for the three lots. The remaining two were planned for valuation in CY 2021.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The valuation and verification of the mode of acquisition of the said lots in this recommendation is still to be done."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Atimonan_Quezon-2020-PY4",
+      "year": 2020,
+      "recommendation": "c. Municipal Assessor to continue her efforts to verify the ownership of the lots named under the Municipality per its tax declarations but were not supported with certificate of titles and make the necessary follow-ups with the concerned agencies for the titling of all untitled lots owned by the Municipality.",
+      "managementAction": "The Municipal Assessor continues her efforts in coordinating with the agencies concerned as these lots were already surveyed and are waiting for approval of subdivision plan, hence for titling except for the lot in Barangay Sokol which is waiting for clearance from the Department of Agrarian Reform (DAR).",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The titling of the said lots is still in process. Already cleared in the Bureau of Internal Revenue (BIR) while in the Department of Agrarian Reform (DAR), it is still subject for clearance."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Atimonan_Quezon-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the OIC-GSO to prepare the Property Card for the Work/Zoo Animals and Breeding Stocks accounts and to update it regularly. Furthermore, require the Municipal Accountant to submit the documents on the dropping of the deceased animals for evaluation of the Audit Team.",
+      "managementAction": "Property cards were prepared and maintained by the GSO for these assets. Property Ledger Card and Report of the Work Animals and Breeding Stocks Status were forwarded to the Audit Team for evaluation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Atimonan_Quezon-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to prepare a separate set of financial statements for each economic enterprise so that adequate information as to assets, liabilities, equity and results of operations can be monitored and evaluated to determine viability of the economic enterprises.",
+      "managementAction": "A separate set of financial statements for each economic enterprise were prepared and submitted to the Audit Team.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Atimonan_Quezon-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Planning and Development Coordinator and the Municipal Engineer to work for the optimal utilization of the 20 percent Development Fund which is primarily intended to fund projects that shall contribute to the attainment of desirable socio-economic and environmental management outcomes.",
+      "managementAction": "Fund was used to finance COVID-19 pandemic response in accordance with the rules and regulations issued by the DBM pertaining to the utilization of 20% Development Fund.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Atimonan_Quezon-2020-PY9",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Disaster Risk Reduction and Management Officer (MDRRMO) to fully implement the programmed projects and activities in order to strengthen the capacity of the Municipality for disaster risk reduction and management.",
+      "managementAction": "Fund was used to finance COVID-19 pandemic response.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2019-PY7",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor continue the demand for the refund of the advance payment from the Contractor or to resort to other courses of action to ensure the return of the said amount to avoid loss of government funds.",
+      "managementAction": "Several Notices were sent to the Contractor but no response was received from them. Also, the Municipal Mayor is still yet to consult with the Provincial Attorney regarding the matter as it was not done in CY 2019.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Contractor still failed to refund the amount as promised; consultation with the Provincial Public Attorney’s Office did not materialize in CY 2019 due to conflict in schedules."
+    },
+    {
+      "id": "Atimonan_Quezon-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the OIC-GSO to submit to the Audit Team a complete RPCPPE and instruct the Municipal Accountant to reconcile the ledger cards with the property cards maintained by the OIC-GSO and effect adjustments, if warranted.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the:\n Municipal Accountant to exert more effort in providing the breakdown or details of the recorded lot amounting to P1,702,275.75;\n Appraisal Committee to continue the valuation of the unrecorded lands, titled and untitled, which will be used as the basis of the Municipal Accountant in recording the parcels of land/adjusting the Land account balance; and\n OIC-Municipal Assessor to continue her efforts to verify the ownership of the lots named under the Municipality per its tax declarations but were not supported with certificate of titles and make the necessary follow-ups with the concerned agencies for the titling of all untitled lots owned by the Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the OIC-GSO to prepare the Property Card for the Work/Zoo Animals and Biological Assets accounts and to update it regularly. Furthermore, require the Municipal Accountant to submit the documents on the dropping of the deceased animals for evaluation of the Audit Team.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to prepare a separate set of financial statements for each economic enterprise so that adequate information as to assets, liabilities, equity and results of operations can be monitored and evaluated to determine viability of the economic enterprises.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the OIC-GSO to submit the RPCPPE. Furthermore, require the Municipal Accountant to reconcile her ledger cards with the property cards maintained by the OIC-GSO and make the necessary adjustments after reconciliation.",
+      "managementAction": "The OIC-GSO was able to submit to the Audit Team the RPCPPE.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reconciliation with the ledger cards maintained by the Accounting Office cannot be done because the submitted RPCPPE was incomplete."
+    },
+    {
+      "id": "Atimonan_Quezon-2019-PY2",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the: a. Municipal Accountant to exert more effort in providing the breakdown or details of the recorded lot amounting to P1,702,275.75; b. Appraisal Committee to continue the valuation of the unrecorded lands, titled and untitled, which will be used as the basis of the Municipal Accountant in recording the parcels of land/adjusting the Land account balance; and c. OIC-Municipal Assessor to continue her efforts to verify the ownership of the lots named under the Municipality per its tax declarations but were not supported with certificate of titles and make the necessary follow-ups with the concerned agencies for the titling of all untitled lots owned by the Municipality.",
+      "managementAction": "The Municipal Assessor presented a matrix on the updates on the titling and/or valuation process of the lots indicated in this observation and assured the Audit Team that the Municipality is exerting the best effort to implement the recommendations in close coordination with the Municipal Accountant and the Municipal Mayor.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipal Accountant is still in the process of retrieving records prior to her assumption of Office. The Appraisal/valuation and verification of certain lots are still on-going and some lots are still for verification and valuation in CY 2020; titling of untitled lots is still on-going."
+    },
+    {
+      "id": "Atimonan_Quezon-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant and the OIC-General Services Officer to determine the estimated useful life considering the accounting, budget and payroll factors mentioned in PPSAS 31 so that the Municipal Accountant may be able to compute for the said asset’s amortization and record it in the books for fair presentation.",
+      "managementAction": "Amortization was recorded and the new computer system was acquired by the agency which includes not only the accounting, budget and payroll but as well as Procurement Process, Treasury Operations, etc.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the OIC-GSO to prepare the Property Card for the Work/Zoo Animals and Biological Assets accounts and to update it regularly. Furthermore, require the Municipal Accountant to submit the documents on the dropping of the deceased animals for evaluation of the Audit Team.",
+      "managementAction": "Status report regarding valuation and conditions of the animals was prepared by the Municipal Agriculturist and validated by the GSO. Adjusting entry was made in the books based on the report submitted by the Municipal Agriculturist and validated by the GSO. Deceased animals under the Work/Zoo Animals account were dropped from the books amounting to P119,400.00 based on the report submitted by the Municipal Agriculturist and validated by the GSO.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Property cards were not maintained by the OIC-GSO for these assets; reconciliation of ledger cards and property cards remains outstanding."
+    },
+    {
+      "id": "Atimonan_Quezon-2019-PY5",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal Accountant to continue her efforts in providing the details/breakdown of the remaining bail bonds payable for fair presentation in the financial statements.",
+      "managementAction": "These payables were reverted to Unappropriated Surplus (General Fund) through the Sangguniang Bayan Resolution No. 2019-192. If in case of future claims arise, an appropriation will be provided for the said claims.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Treasurer to remit the unexpended balances totaling P1,185,437.72 to its Source Agencies/National Treasury to enable the government to utilize the said funds for other vital projects/programs.",
+      "managementAction": "The unexpended balances in Due to NGAs amounting to P190,476.52 and P994,961.20, totaling P1,185,437.72, were already remitted to the account of Bureau of the Treasury and DILG-RIV-A respectively.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to make the necessary corollary entry in the Trust Fund for fair presentation of the affected accounts in the financial statements.",
+      "managementAction": "Corollary entry for DRRMF of CY 2018 was made in the Trust Fund in CY 2019.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2019-PY9",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor advise the OIC-Municipal Disaster Risk Management Officer (MDRRMO) and the Municipal Engineer in the review of the aforementioned projects to resolve the issue and establish the necessary budget for its implementation.",
+      "managementAction": "In the review of the two projects in coordination with the OIC-MDRRMO and the Municipal Engineer, one of the projects (Improvement/Rehabilitation of Evacuation Center) was already implemented while the other project (Slope Protection-Landslide Prone Area) cannot be accommodated by the local budget and will be requested to DPWH for implementation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2019-PY10",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the MPDC to expedite the establishment of a GAD Database using the results and information derived from the ERBI and CBMS that will assist the gender-responsive programming and policy formulation of the Municipality.",
+      "managementAction": "The Municipal MPDC stated that the GAD Database was established and the Municipality will use the results and information derived from ERBI and CBMS to assist gender-responsive programming and policy formulation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommended the Municipal Mayor to follow up the demand for the refund of the advance payment from the Contractor or to resort to other courses of action to ensure the return of the said amount to avoid loss of government funds.",
+      "managementAction": "The Municipal Mayor and the Municipal Accountant is amenable with the audit recommendation and committed to send another demand letter to the Contractor. The Municipal Mayor further explained that he will consult with the Provincial Attorney’s Office regarding the matter.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Despite the commitment of the Contractor to refund the amount in their meeting in October 2017 and sending of demand letter, the Contractor still failed to fulfill the said promise as of year-end for undisclosed reasons. The Municipal Mayor is to consult with the Provincial Attorney regarding the matter."
+    },
+    {
+      "id": "Atimonan_Quezon-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the OIC-GSO to submit to the Audit Team a complete RPCPPE. Furthermore, require the Municipal Accountant to reconcile her ledger cards with the property cards maintained by the OIC-GSO and make the necessary adjustments after reconciliation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the:\n\na. Municipal Accountant to exert effort in providing the breakdown or details of the recorded lot amounting to P1,702,275.75;\n\nb. Appraisal Committee to continue the valuation of the unrecorded lands, titled and untitled, which will be used as the basis of the Municipal Accountant in recording the parcels of land/adjusting the Land account balance;\n\nc. OIC-Municipal Assessor to verify the ownership of the lots named under the Municipality per its tax declarations but were not supported with certificate of titles; and\n\nd. OIC-Municipal Assessor to continue the titling of the all untitled lots found to be owned by the Municipality and to make the necessary follow-ups to concerned agencies to avoid third party claims and land disputes in the future.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant and the OIC-GSO to determine the estimated useful life of the computer software considering the factors mentioned in PPSAS 31 so that the Municipal Accountant may be able to compute for the said asset’s amortization and record it in the books for fair presentation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Agriculturist to prepare a status report regarding the valuation and condition of the animals and to submit the said report to the Municipal Accountant and to the OIC-GSO. Furthermore, instruct the Municipal Accountant and the OIC-GSO to update their ledger cards and property cards and make the necessary adjustments for fair presentation of the accounts in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal Accountant to continue her efforts in providing the details/breakdown of the remaining bail bonds payable for fair presentation in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommended that the Inventory Committee headed by OIC-GSO to submit a complete RPCPPE to the Audit Team. Furthermore, the Municipal Accountant and the OIC-GSO must reconcile the PPELC and the property cards and investigate/adjust any discrepancy that will be noted. (Reiterated in Audit Observation No. 1, Page No. 28)",
+      "managementAction": "The OIC-GSO was able to submit to the Audit Team the RPCPPE. Furthermore, the ledger cards maintained by the Accounting Office and the property cards maintained by the General Services Office is still for reconciliation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The submitted RPCPPE is incomplete as the OIC-GSO is yet to prepare the RPCPPE for infrastructure assets. Furthermore, the ledger cards maintained by the Accounting Office and the property cards maintained by the General Services Office is still for reconciliation."
+    },
+    {
+      "id": "Atimonan_Quezon-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the: a. Municipal Accountant to exert effort in providing the breakdown or details of the recorded lot amounting to P1,702,275.75; b. Appraisal Committee to continue the valuation of the unrecorded lands, titled and untitled, which will be used as the basis of the Municipal Accountant in recording the parcels of land/adjusting the Land account balance; c. OIC-Municipal Assessor to verify the ownership of the lots named under the Municipality per its tax declarations but were not supported with certificate of titles; and d. OIC-Municipal Assessor to continue the titling of the all untitled lots found to be owned by the Municipality and to make the necessary follow-ups to concerned agencies to avoid third party claims and land disputes in the future. (Reiterated in Audit Observation No. 2, Page No. 28)",
+      "managementAction": "The Municipal Accountant is having difficulty in retrieving records prior to her assumption of Office. She is coordinating with the OIC-Municipal Assessor regarding the details of the lots subject of the recommendation “b”. The Appraisal Committee was already established. The OIC-Municipal Assessor was able to find documents and some relevant information. The valuation and determination of the mode of acquisition of some of the lots in this recommendation is still on-going. According to the Municipal Assessor she is still in the process of validating the ownership of these lots.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Although the Appraisal Committee was established, the documents are found and some relevant information are established, the valuation and determination of the mode of acquisition of the said lots in this recommendation is still on-going. According to the Municipal Assessor she is still in the process of validating the ownership of some lots."
+    },
+    {
+      "id": "Atimonan_Quezon-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor and the Municipal Accountant to demand the submission of the monthly financial status and accomplishment report from LPATA to determine if the purpose of the project was achieved. Instruct the Municipal Accountant to make the necessary adjustments by debiting the Due from NGOs/POs account and crediting Prior Period Adjustment account for fair presentation of the said accounts in the financial statements.",
+      "managementAction": "The OIC-GSO was able to submit to the Audit Team the RPCPPE. Furthermore, the ledger cards maintained by the Accounting Office and the property cards maintained by the General Services Office is still for reconciliation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The submitted RPCPPE is incomplete as the OIC-GSO is yet to prepare the RPCPPE for infrastructure assets. Furthermore, the ledger cards maintained by the Accounting Office and the property cards maintained by the General Services Office is still for reconciliation."
+    },
+    {
+      "id": "Atimonan_Quezon-2018-PY4",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal Accountant to exert efforts in providing the details/breakdown of the said Bail bonds payable for fair presentation in the financial statements.",
+      "managementAction": "The Municipal Accountant was able to determine that of the amount mentioned, P50,641.00 pertains to bidder’s bonds which was erroneously recorded in the Bail Bonds Payable account.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipal Accountant is still in the process of retrieving the supporting documents for the remaining amount."
+    },
+    {
+      "id": "Atimonan_Quezon-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to reconcile the balance of Due to BIR account and consequently make the necessary adjustments or remittance to the Bureau of Internal Revenue of whatever amount due to the Agency. We also recommended to make the necessary adjustments to the Due to Pag-IBIG account for fair presentation of the accounts in the financial statements.",
+      "managementAction": "The Municipal Accountant reconciled the balance and made adjustments in the books of accounts.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2018-PY6",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor oblige the OIC-GSO to see to it that all the insurable properties of the Municipality are covered with insurance with the GSIS.",
+      "managementAction": "The insurable properties of the Municipality was already insured with GSIS.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Treasurer to remit the unexpended balances totaling P276,713.23 to its Source Agencies/National Treasury to enable the government to utilize the said funds for other vital projects/programs.",
+      "managementAction": "The Municipal Treasurer was able to remit a total amount of ₱86,236.71 out of the amount mentioned in this observation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The remaining amount is yet to be remitted due to the uncertainty regarding the manner of remittance of the said balances to the National Treasury."
+    },
+    {
+      "id": "Atimonan_Quezon-2017-PY1",
+      "year": 2017,
+      "recommendation": "Committee to complete the necessary information in RPCPPE. Moreover, require the Municipal Accountant and ICO-GSO w© prepare the corresponding ledger cards and property cards for all types of properties, reconcile the same to establish the correct PPE balances and investigate/adjust any discrepancy that will be noted.",
+      "managementAction": "The RPCPPE was not completed and submitted to the Audit Team in CY 2017 due to time and manpower constraints.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Team in CY 2017 due to time and manpower constraints.\nReiterated in\nObservation No. I, Part\n11 of this Report."
+    },
+    {
+      "id": "Atimonan_Quezon-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor require the Inventory\nCommittee headed by OIC-GSO to submit a complete RPCPPE to the Aundit\nTeam. Furthermore, the Municipal Accountant and the OIC-GSO must be\nrequired to reconcile the PPELC and the property cards and investigate/adjust\nany discrepancy that will be noted.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor:\n\ninstruct the Municipal Accountant to exert effort in providing the\nbreakdown or details of the recorded lot amounting to 21,702,275.75;\n\ninstruct the Municipal Treasurer/OIC-Municipal Assessor in locating\ndocuments to establish the amount and mode of acquisition of the\nunrecorded lots titled in the name of the Municipality or prioritize the\ncreation of the Appraisal Committee for the valuation of the\nunrecorded lots, titled and untitled, which will be used as the basis of\nthe Municipal Accountant in recording the parcels of land/adjusting\nthe Land account balance;\n\ninstruct the OIC-Municipal Assessor to verify the ownership of the lots\nnamed under the Municipality per tax declarations but were not\nsupported with certificate of titles; and\n\ninstruct the OIC-Municipal Assessor to facilitate the titling of the all\nuntitled lots found to be owned by the Municipality and to make the\nnecessary follow-ups to concerned agencies to avoid third party claims and\nland disputes in the future.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal\nAccountant and MPDC to demand the submission of the Monthly financial status\nand accomplishment report from LPATA to determine if the purpose of the\nproject was achieved. Instruct further the Municipal Accountant to make the\nnecessary adjustments by debiting the Due from NGOs/POs account and crediting\nPrior Period Adjustment account for fair presentation of the said accounts in the\nfinancial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the\nMunicipal Accountant to exert efforts in providing the details/breakdown of the\nsaid Bail bonds payable for fair presentation in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal\nAccountant to reconcile the balance of Due to BIR account and consequently make\nthe necessary adjustments or remittance to the Bureau of Internal Revenue of\nwhatever amount due to the said Agency. We also recommended to make the\nnecessary adjustments to the Due to Pag-IBIG account for fair presentation of the\naccounts in the financial statements,",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor oblige the OIC-GSO to\nsee to it that all the insurable properties of the Municipality are covered with\ninsurance with the GSIS.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2017-OBS7",
+      "year": 2017,
+      "recommendation": "We recommended the Municipal Mayor to follow up the demand for the\nrefund of the advance payment from the Contractor or to resort to other courses\nof action to ensure the return of the said amount to avoid loss of government\nfunds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2017-OBS8",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal\nTreasurer to remit the unexpended balances totaling P276,713.23 to its Source\nAgencies/National Treasury to enable the government to utilize the said funds for\nother vital projects/programs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2017-PY2",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor instruct the 1CO-Municipal Treasurer to submit to the Municipal Accountant the certified list of taxpayers showing the amounts due and collectible for the year to establish the correct balances of the accounts.",
+      "managementAction": "The 1CO-Municipal Treasurer already submitted to the Municipal Accountant certified taxpayers. Consequently, Municipal Accountant adjusted the RPT and SET receivables based on the certified list.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2017-PY3",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor:\n(e instruct the Municipal Accountant to provide for the breakdown or details of the Municipal land unidentified recorded of P1,473,275.75; \n(¢) instruct the Municipal Treasurer/Municipal Assessor in locating documents to establish the amount and mode of acquisition of the unrecorded lots titled in the name of the Municipality or prioritize the creation of the Appraisal Committee for the valuation of the unrecorded lands, titled and untitled, which will be used as the basis of the Municipal Accountant in recording the parcels of land/adjusting the Land account balance;\n* instruct the MBO 1o provide the budget for the processing of the land titles; and\n* require the Municipal Assessor/designated person to facilitate the titling of the untitled parcels of land.",
+      "managementAction": "The budget for the processing of the land titles was already provided.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Accountant in recording the said lots.\nReiterated in\nObservation No. 2, Part\n11 of this Report.\n\nThe OIC-Municipal Assessor still needs to make necessary follow-ups with the concerned agencies or consider other courses of action in securing the title of the untitled parcels of land."
+    },
+    {
+      "id": "Atimonan_Quezon-2017-PY4",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to record deposits collections based on actual dates of deposit in accordance with Section 112 of P.D. No. 1445 for fair presentation of the concerned accounts in the financial statements.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2017-PY5",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to:\na) reconcile the Due 10 BIR and Due to Pag-IBIG accounts and remit whatever balance is due, to avoid incurrence of penalties and surcharges, and to provide funds for the national government for its priority programs and projects and the member-beneficiaries the enjoyment of the immediate benefits that may be derived therefrom; and\nb) reclassify the amounts due for refund to employees to Due to Officers and Employees for fair presentation of the accounts in the financial statements. Likewise, make the necessary adjustment for the erroneous recording of October 2016 remittance of PhilHealth contributions by debiting Prior Period Adjustments and crediting Due to PhilHealth accounts.",
+      "managementAction": "Reclassification of the amounts/adjusting entries were already made by the Municipal Accountant. Likewise, make the necessary adjustment for the erroneous recording of October 2016 remittance of PhilHealth contributions by debiting Prior Period Adjustments and crediting Due to PhilHealth accounts.",
+      "status": "IMPLEMENTED",
+      "reason": "Not Implemented Pertinent  documents were not immediately located, hence were not remitted or adjusted in CY 2017. Reiterated in Observation No. 5, Part 11 of this Report."
+    },
+    {
+      "id": "Atimonan_Quezon-2017-PY6",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to reclassify the Bail Bonds Payable of P128,972.55 and 7,225.00 to Guaranty/Security Deposits - Payable and Other Payables, respectively, and to exert efforts in providing the details/breakdown of the recorded Bail Bonds Payable of P736,414.01 for fair presentation in the financial statements.",
+      "managementAction": "The reclassification/adjusting entry was already made by the Municipal Accountant. The amount of Bail Bonds Payable without details/breakdown was  reduced P220,976.35.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Difficulty in locating pertinent records to be able to provide the breakdown of the Bail Bonds Payable balance amounting to £220,976.35.\nReiterated in Observation No. 4, Part 11 of this Report."
+    },
+    {
+      "id": "Atimonan_Quezon-2017-PY7",
+      "year": 2017,
+      "recommendation": "We recommended the Municipal Mayor to instruct the Municipal Accountant to make the necessary reclassification and transfer of the Interest Income of B343,036.27 from  Other  Payables account in the TF book to Prior Year's Adjustments (Interest Income) in the GF book.",
+      "managementAction": "Adjustments in the GF for PYAs interest income was already made by the Municipal Accountant.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2017-PY8",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor and the Municipal Treasurer see to it that all the insurable properties of the Municipality are covered with insurance with the GSIS in compliance with the provisions of COA Circular No. 92-390 and RA No. 656.",
+      "managementAction": "The New Municipal Building and its contents was insured with the GSIS on April 20, 2018 with a total sum assured of 210.801,225.00 under Policy ID No. 4400504661.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The OIC-GSO still needs to prioritize the insurance of other buildings of the Municipality.\nReiterated in Observation No. 6, Part 11 of this Report,"
+    },
+    {
+      "id": "Atimonan_Quezon-2017-PY9",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to submit to the Auditor for evaluation the required complete documents and always see to it that only disbursements with complete and proper documentation are paid.",
+      "managementAction": "The required documents were already submitted to the Audit Team and is subject for request of technical evaluation and inspection. The Municipal Accountant that only disbursements ~ with complete and proper documentation are paid.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2017-PY10",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor:\na) rescind/terminate the contracts with Homefixmix Builders Center for the projects that were abandoned for more than a year, following all the procedures for the termination of the contracts;\nb) recommend the blacklisting of the said Contractor to GPPB and banning in the participation to the Municipality’s subsequent procurements; and\nd) demand the immediate refund of the amount paid as Mobilization Fee.",
+      "managementAction": "The contracts were already rescinded/terminated by the Municipality.\nThe Municipality already banned the Contractor in  the participation lo the Municipality's subsequent procurements.\nMeeting  with  the Contractor was held in October 2017 and the Contractor promised to refund the amount by the end of the CY 2017.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The blacklisting of the said Contractor to the GPPB was not prioritized by the BAC in CY 2017 due to their busy schedule.\nDespite the commitment of the Contractor to refund the amount in their meeting in October 2017, the Contractor still failed to fulfill the said promise as of year-end for undisclosed reasons.\nReiterated in Observation No. 7, Part 11 of this Report."
+    },
+    {
+      "id": "Atimonan_Quezon-2017-PY11",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer to secure authority from SB to support the investment of the balance of P6,839,395.79  without authority. also recommended the submission of the specific sources of the funds used for the total investments in time deposits of P16,839,395.79 to establish whether these are essentially idle funds in accordance with the aforementioned Circular. Furthermore, we recommended that future placement and termination of investments in_time deposits be supported with authority from the SB and approval of the LCE and be backed wup by computation of idle funds in  compliance  with  Sections 21 and 22 of COA Circular No. 92-382.",
+      "managementAction": "Authority from the SB to support the investment was already secured as these were essentially idle funds of the Municipality.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2017-PY12",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor instruct the:\na. Municipal Accountant to require the recipient Tricycle Association to submit the lacking documents noted above and the reasons for not having them available at the time of payment. Henceforth, ensure that supporting documents are complete before effecting payment in compliance with COA Circular No. 2012-001; \nb. reclassify the recorded transfer/payment from Organizations Other -MOOE to Due from NGOs/POs account in the amount of £1,000,000.00; and\nb. Head of the MPDO to: o prepare clear MOA as the guidelines on the transfer of funds to Atimonan Tricycle Association, Inc.; o strictly evaluate, verify and check the submitted documents in compliance with the requirements of COA Circular No. 2007-001 as reiterated in COA Circular No. 2012-001; and\nc. submit to the Audit Team a copy of status report on the utilization of the transferred funds to the Livelihood Program of Atimonan Tricycle Association Inc. as of December 31, 2016.",
+      "managementAction": "The Municipal Accountant was able to comply and provide justifications regarding the lacking documents. She ensured that all documents will be complete in accordance with COA Circular No. 2012-001.\nClear MOA was already prepared.\nThe MPDC ensured that all submitted documents will be checked and verified in accordance with the regulations.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The reclassification of the amount to Due from NGOs/POs was not given priority by the Municipal Accountant in CY 2017.\nReiterated in Observation No. 3, Part 11 of this Report.\nNot Implemented Demand for the submission of the status report on the utilization of the funds was not prioritized by the MPDC in CY 2017.\nReiterated in Observation No. 3, Part 11 of this Report."
+    },
+    {
+      "id": "Atimonan_Quezon-2017-PY13",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to revert the unutilized balance of DRRMF for the year 2011 amounting to £1,994.43 pursuant to the cited regulations.",
+      "managementAction": "Reversion of the unutilized balance of DRRMEF for the year 2011 was already made by the Municipal Accountant.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2017-PY14",
+      "year": 2017,
+      "recommendation": "We recommended the Municipal Mayor Authority from the SB for the write-off of the said receivables following the guidelines under COA Circular No. 2016-005.",
+      "managementAction": "Authority from the SB for the write-off of the said receivables was already secured and the same was also submitted to the Commission on Audit.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2017-PY15",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor instruct the ICO-Municipal Treasurer to strictly comply with the requirements stated under COA Circular No. 92-389 to prevent the possible re-use of those documents for other claims of same nature as part of a sound internal control system in the disbursement of funds.",
+      "managementAction": "The DVs were already stamped “PAID”.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2017-PY16",
+      "year": 2017,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the OIC-MDRRMO to submit to the Audit Team the Monthly Report on the Sources and Utilization of DRRMF on or before the 15\" day after the end of each month through the LDRRMC and the LDC in compliance with Item 5.1.5 of COA Circular No. 2012-002.",
+      "managementAction": "The Monthly Reports on Sources and Utilization of DRRMF were already submitted to the Audit Team.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2017-PY17",
+      "year": 2017,
+      "recommendation": "We reiterated our recommendation that the Municipal Accountant maintain subsidiary ledgers for the Municipality's special accounts and prepare the financial statements of its economic enterprise, the Atimonan Port, to provide Management relevant information for decision making purposes.",
+      "managementAction": "Special accounts in the GF were already maintained and financial statements were prepared by the Municipal Accountant.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2016-PY7",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor direct the LDRRMO to submit the monthly Report on Sources and Utilization of DRRMF (duly certified by the Municipal Accountant) to the Auditor to facilitate the timely audit on whether the utilization of the fund is in accordance with COA Memorandum No. 2014-009.",
+      "managementAction": "No action was undertaken by the Management in CY 2016.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "For CY 2016, the submission of the Utilization Report of DRRMF was not prioritized due to the busy schedule of the Municipal Accountant and Acting-LDRRMO. Reiterated in Observation No. 16, Page 55, Part II of this Report."
+    },
+    {
+      "id": "Atimonan_Quezon-2016-PY9",
+      "year": 2016,
+      "recommendation": "We reiterated the recommendation that the Municipal Mayor requests authority from the Sangguniang Bayan that said accounts duly supported with required documents be written-off and forward such request to COA for approval.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The request for write-off was not prioritized due to the transitions made during the year, particularly, the change of Municipal Mayor. Reiterated in Observation No. 14,       Page 53, Part II of this Report."
+    },
+    {
+      "id": "Atimonan_Quezon-2016-PY10",
+      "year": 2016,
+      "recommendation": "We reiterated the recommendation that the Municipal Accountant maintain subsidiary ledgers for the Municipality’s special accounts.  At the end of the year, post-closing trial balance and financial statements should be prepared to provide management relevant information for decision making purposes.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "In CY 2016, subsidiary ledgers for special accounts and financial statements for economic enterprises were not yet prepared due to high volume of work, manpower constraints and difficulty in retrieving records to establish the beginning balances of the Statement of Financial Position (Balance Sheet). Please see Observation No. 17, Page 56, Part II of this Report."
+    },
+    {
+      "id": "Atimonan_Quezon-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We recommended the Municipal Mayor to instruct the Inventory Committee to complete the necessary information in RPCPPE. Moreover, require the Municipal Accountant and ICO-GSO to prepare the corresponding ledger cards and property cards for all types of properties, reconcile the same to establish the correct PPE balances and investigate/adjust any discrepancy that will be noted.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor instruct the ICO-Municipal Treasurer to submit to the Municipal Accountant the certified list of taxpayers showing the amounts due and collectible for the year to establish the correct balances of the accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor:\ninstruct the Municipal Accountant to provide for the breakdown or details of the unidentified recorded land of P1,473,275.75;\ninstruct the Municipal Treasurer/Municipal Assessor in locating documents to establish the amount and mode of acquisition of the 16 unrecorded lots or prioritize the creation of the Appraisal Committee for the valuation of the unrecorded lands, titled and untitled, which will be used as the basis of the Municipal Accountant in recording the parcels of land/adjusting the Land account balance;\ninstruct the MBO to provide the budget for the processing of the land titles; and\nrequire the Municipal Assessor/designated person to facilitate the titling of the untitled parcels of land.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to record deposits of collections based on actual dates of deposit in accordance with Section 112 of P.D. No. 1445 for fair presentation of the concerned accounts in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to:\nreconcile the Due to BIR and Due to Pag-IBIG accounts and remit whatever balance is due, to avoid incurrence of penalties and surcharges, and to provide funds for the national government for its priority programs and projects and the member-beneficiaries the enjoyment of the immediate benefits that may be derived therefrom; and\nreclassify the amounts due for refund to employees to Due to Officers and Employees for fair presentation of the accounts in the financial statements.  Likewise, make the necessary adjustment for the erroneous recording of October 2016 remittance of PhilHealth contributions by debiting Prior Period Adjustments and crediting Due to PhilHealth accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to reclassify the Bail Bonds Payable of P128,972.55 and P7,225.00 to Guaranty/Security Deposits Payable and Other Payables, respectively, and to exert efforts in providing the details/breakdown of the recorded Bail Bonds Payable of P736,414.01 for fair presentation in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We recommended the Municipal Mayor to instruct the Municipal Accountant to make the necessary reclassification and transfer of the Interest Income of P343,036.27 from Other Payables account in the TF book to Prior Year’s Adjustments (Interest Income) in the GF book.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor and the Municipal Treasurer see to it that all the insurable properties of the Municipality are covered with insurance with the GSIS in compliance with the provisions of COA Circular No. 92-390 and RA No. 656.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2016-OBS9",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to submit to the Auditor for evaluation the required complete documents and always see to it that only disbursements with complete and proper documentation are paid.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2016-OBS10",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor:\nrescind/terminate the contracts with Homefixmix Builders Center for the projects that were abandoned for more than a year, following all the procedures for the termination of the contracts;\nrecommend the blacklisting of the said Contractor to GPPB and banning in the participation to the Municipality’s subsequent procurements; and\ndemand the immediate refund of the amount paid as Mobilization Fee.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2016-OBS11",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer to secure authority from SB to support the investment of the balance of P6,839,395.79 without authority. We also recommended the submission of the specific sources of the funds used for the total investments in time deposits of P16,839,395.79 to establish whether these are essentially idle funds in accordance with the aforementioned Circular.\nFurthermore, we recommended that future placement and termination of investments in time deposits be supported with authority from the SB and approval of the LCE and be backed up by computation of idle funds in compliance with Sections 21 and 22 of COA Circular No. 92-382.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2016-OBS12",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor instruct the:\nMunicipal Accountant to require the recipient Tricycle Association to submit the lacking documents noted above and the reasons for not having them available at the time of payment. Henceforth, ensure that supporting documents are complete before effecting payment in compliance with COA Circular No. 2012-001. Reclassify the recorded Other –MOOE to Due from NGOs/POs account in the amount of P1,000,000.00; and\nHead of the MPDO to:\nprepare clear MOA as the guidelines on the transfer of funds to NGOs/POs to Atimonan Tricycle Association, Inc.;\nstrictly evaluate, verify and check the submitted documents in compliance with the requirements of COA Circular No. 2007-001 as reiterated in COA Circular No. 2012-001; and\nsubmit to the Audit Team a copy of status report on the utilization of the transferred funds to the Livelihood Program of Atimonan Tricycle Association Inc. as of December 31, 2016.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2016-OBS13",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to revert the unutilized balance of DRRMF for the year 2011 amounting to P1,994.43 pursuant to the above-cited regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2016-OBS14",
+      "year": 2016,
+      "recommendation": "We recommended the Municipal Mayor to request authority from the SB for the write-off of the said receivables following the guidelines under COA Circular No. 2016-005.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2016-OBS15",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor instruct the ICO-Municipal Treasurer to strictly comply with the requirements stated under COA Circular No. 92-389 to prevent the possible re-use of those documents for other claims of same nature as part of a sound internal control system in the disbursement of funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2016-OBS16",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the OIC-MDRRMO to submit to the Audit Team the Monthly Report on the Sources and Utilization of DRRMF on or before the 15th day after the end of each month through the LDRRMC and the LDC in compliance with Item 5.1.5 of COA Circular No. 2012-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2016-OBS17",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that the Municipal Accountant maintain subsidiary ledgers for the Municipality’s special accounts and prepare the financial statements of its economic enterprise, the Atimonan Port, to provide Management relevant information for decision making purposes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2016-PY1",
+      "year": 2016,
+      "recommendation": "We recommended the Municipal Mayor to:\ninstruct the Inventory Committee headed by the Acting Municipal General Services Officer to conduct the physical inventory, prepare and submit the RPCPPE per type of property.\n\nrequire the Municipal Accountant and Acting Municipal General Services Officer to prepare the corresponding ledger cards and property cards for all types of properties and reconcile the same to establish the correct PPE balances. Investigate and adjust accordingly any discrepancy that may be noted.",
+      "managementAction": "Inventory Report for CY 2016 was submitted to the Audit Team.\n\n\n\nNo action was undertaken by the Management in CY 2016.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The submitted Inventory Report was incomplete and lacks necessary data. Please see Observation No. 1, page 31, Part II of this Report.\n\n\nThe preparation of the ledger cards and property cards was not prioritized due to the busy schedule of the OIC-GSO and Accounting Office."
+    },
+    {
+      "id": "Atimonan_Quezon-2016-PY2",
+      "year": 2016,
+      "recommendation": "We recommended the Municipal Mayor to instruct the Municipal Accountant to:\n\nprovide for the depreciation of the Hospitals and Health Centers in the General Fund amounting to P368,378.50.\n\nexert effort in retrieving records to establish the breakdown of the properties totaling P2,799,652.90 under the SEF, compute for the depreciation and make the necessary adjustments for fair presentation of the financial statements.",
+      "managementAction": "Depreciation was already provided by the Municipal Accountant in the General Fund.\n\n\nDepreciation and breakdown of properties were also provided by the Municipal Accountant in the SEF.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2016-PY3",
+      "year": 2016,
+      "recommendation": "We recommended the Municipal Mayor to instruct the Bids and Awards Committee to submit:\n\nan explanation/ clarification on why the tax clearances of winning bidders of the said projects/purchases as part of the eligibility requirements for legal documents were not provided to the Audit Team during post-audit; and\n\n\nto the Audit Team the copy of the tax clearances of winning bidders for the listed projects, valid at the time of bidding and verifiable via BIR Website/Portal. Otherwise, failure to comply will result to the issuance of Notice of Disallowance.",
+      "managementAction": "A letter was received by the Audit Team from the Municipal Mayor asking for extension of time for them to reply to the Audit Observation Memorandum as the transactions cover four sets of BAC Members.\n\nThe BAC also explained in another letter that they relied on the BAC Secretariat that all eligibility requirements were secured from suppliers/bidders.\n\nOne supplier was able to provide the valid tax clearance at the time of bidding. The Audit Team issued the corresponding Notice of Settlement of Suspension, Disallowance and Charges (NSSDC) for the settlement of the issued Notice of Suspension.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "In another letter reply, the BAC Members mentioned that they already coordinated with the suppliers in securing copies of their tax clearances valid at the time of bidding. However, the suppliers provided only their current tax clearances.\n \nThe Audit Team issued Notices of Suspension for the transactions and is still waiting for the compliance/submission of the suppliers of the tax clearances valid at the time of bidding."
+    },
+    {
+      "id": "Atimonan_Quezon-2016-PY4",
+      "year": 2016,
+      "recommendation": "We recommended the Municipal Mayor to require:\n\nan explanation from the BAC on the failure to verify the authenticity of the said tax clearances submitted by the bidders and if indeed found spurious may result in the disallowance of the said payments; and\n\n\nthe Bids and Awards Committee to verify all documents submitted by bidders and ensure that they are eligible, prior to award of the projects/contracts.",
+      "managementAction": "A letter was received by the Audit Team from the Municipal Mayor asking for extension of time for them to reply to the Audit Observation Memorandum as the transactions cover four sets of BAC Members.\n\nThe BAC also explained in another letter that they relied on the BAC Secretariat on all the eligibility requirements of suppliers/bidders.\n\n(The Audit Team already issued Notices of Disallowance for the said transactions and an Appeal Memorandum was already filed/ submitted in the COA Regional Office.)\n\nThe BAC is now verifying all documents by bidders to ensure that they are eligible and complying prior to award of the projects/contracts.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2016-PY5",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to strictly comply with the provisions of R.A. 9679 and limit the HDMF Contribution-Government Share at P100.00 per month for each employee-member.\n\nAlso, require employees who were benefited to refund the amount of government share in excess of P100.00 per month.",
+      "managementAction": "The HDMF Contribution-Government Share remitted per month is already P100.00 for each employee-member.\n\n\n\nRefunds were already made through salary deduction.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "As of December 31, 2016, only a total of P170,142.78 was refunded for the excess remittance of HDMF Government Share based on the Schedule of Prior Year’s Adjustments provided by the Municipal Accountant."
+    },
+    {
+      "id": "Atimonan_Quezon-2016-PY6",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor submit the:\n\nlist of all on-going government PPAs and those that are to be implemented during the year, as of January 1, 2015; and\n\nmonthly monitoring report in compliance with the above cited regulations.",
+      "managementAction": "The list of PPAs was already submitted to the Audit Team.\n\n\n\nThe report was already submitted.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Atimonan_Quezon-2016-PY8",
+      "year": 2016,
+      "recommendation": "We recommended the Municipal Mayor to instruct the Municipal Accountant to make the necessary reclassification and transfer of the Interest Income of P295,781.21 from Other Payables in the Trust Fund to Prior Year’s Adjustment (Interest Income) in the General Fund and the Performance Challenge Fund of P988,861.20 and Gulayan sa Paaralan of P21,038.00 under the Other Payables account to Due to NGAs and Due to LGUs accounts in the Trust Fund, respectively.",
+      "managementAction": "Reclassification/\nAdjustments were made for the Performance Challenge Fund and Gulayan sa Paaralan.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Interest Income was still not adjusted in the books. Please see Observation No. 7, Page 40, Part II of this Report."
+    }
+  ]
+}

@@ -1,0 +1,734 @@
+{
+  "lguCode": "405630000",
+  "lguName": "Pagbilao",
+  "province": "Quezon",
+  "region": "Region III (Central Luzon)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "Pagbilao_Quezon_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Acting Municipal Treasurer and the Municipal Assessor to coordinate with the Bids and Awards Committee to expedite the procurement of surveying activity and completion of documentary requirements for the titling of the four lots in the name of the Municipality, and to exert extra effort to determine/identify the unidentified lots valued at P119,174.29 to avoid possible third party claims that may arise in the future and for the fair presentation of the Land account in the financial statements as required under Paragraph 27 of IPSAS 1.",
+      "managementAction": "The gathering and processing of the required documents are still ongoing due to the two failed bidding.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The titling of the parcels of land are still ongoing due to the two failed bidding."
+    },
+    {
+      "id": "Pagbilao_Quezon_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Treasurer to\nexpedite the preparation of all necessary documents, proceed with the appraisal and prioritize the\nimmediate disposal of the unserviceable properties to prevent further deterioration of the same and\nto realize additional income from the proceeds of saleable items. Afterwards, provide the Municipal\nAccountant with the copy of completed IIRUP to support the dropping of disposed PPEs in the\nbooks of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the:\n\na. Municipal Treasurer to prepare and complete the prescribed Report on the\nPhysical Count of Inventory and submit to the COA Audit Team; and\n\nb. Municipal Treasurer and the Municipal Accountant to coordinate for the\nreconciliation of their records regularly and make the necessary adjustments\nin their respective records, if warranted.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor: • instruct the Municipal Engineer to continue and complete the inventory of all the road networks of the Municipality and their components and coordinate with the Municipal Accountant for the reconciliation of their records for the fair presentation of the account in the books of accounts; and • ensure strict compliance with the reporting requirements of COA Circular No. 2015-008.",
+      "managementAction": "The Municipal Engineer, the Municipal Accountant and the Municipal Treasurer were reconciled.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor: • require the Acting Municipal Treasurer to prepare and maintain the property cards for all PPE of the Municipality and reconcile it with the PPE Ledger Cards maintained in the Office of the Municipal Accountant; • re-establish the Appraisal and Disposal Committee to complete the necessary information in the IIRUP; • submit to the COA Audit Team the IIRUP together with its supporting documents; and • require the Municipal Accountant to prepare the necessary adjusting entries for the derecognition of the unserviceable properties upon disposal pursuant to Paragraph 82 of IPSAS 17 and Paragraph 27 of IPSAS 1 for the fair presentation of the accounts in the financial statements.",
+      "managementAction": "Re-established the Appraisal and Disposal Committee per Executive Order (EO) No. 22, series of 2021. The Municipal Treasurer started the preparation of property cards for the reconciliation with the records of the Municipal Accountant.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The application for disposal of unserviceable vehicles and other properties subject for condemnation and disposal of the Municipality could not be acted upon due to lack of proper documents and information on the submitted IIRUP."
+    },
+    {
+      "id": "Pagbilao_Quezon_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor: • instruct the Acting Municipal Treasurer/Property Custodian to expedite the completion of the physical count and the proper reporting in the RPCI in order to facilitate the Audit Team for the reconciliation of inventory accounts, and thereafter coordinate with the Municipal Accountant for the reconciliation of the Accounting and Property records; and • require the Municipal Accountant to recognized asset account initially for purchases of supplies/inventories and recognize the expense account once the inventories are consumed/distributed for proper matching of revenue and expense in accordance with IPSAS 12 and Paragraph 27 of IPSAS 1 for the fair presentation of these accounts in the financial statements.",
+      "managementAction": "The Municipal Treasurer submitted RPCI to the Audit Team. The Municipal Accountant recognized asset account initially for purchases of supplies/inventories and recognized the expense account once the inventories are consumed/distributed.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The submitted RPCI lacks necessary information."
+    },
+    {
+      "id": "Pagbilao_Quezon_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendations that the Municipal Mayor: • instruct the Acting Municipal Treasurer to continue pursuing the collection of the receivables from the beneficiaries of the livelihood project by sending demand letters; and • refile the request for write-off of not uncollectible receivables of P45,325.00 due to insolvency and P5,600.00 representing loans granted to beneficiaries who are already deceased supported by documents enumerated under COA Circular No. 2016-005 dated December 16, 2016.",
+      "managementAction": "The Acting Municipal Treasurer resulted in the collection of P16,400.00 by sending demand letters. The Municipality will pursue the collection.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The continuous sending of demand letters by the Acting Municipal Treasurer resulted in the collection of P16,400.00. The request for write-off was not refiled; will pursue collection."
+    },
+    {
+      "id": "Pagbilao_Quezon_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor: • file the request for write-off of uncollectible receivables representing loans granted to beneficiaries who are already deceased supported by documents enumerated under COA Circular No. 2016-005 dated December 16, 2016; and • in the meantime, require the Municipal Accountant to set up the provision for Allowance for Impairment in order to present fairly the Other Receivables account in the financial statements at net realizable amount consistent with the requirements of COA Circular No. 2016-005 and for the fair presentation of the account in the financial statements.",
+      "managementAction": "Full collection was made by the Municipal Accountant amounting to P63,190.95 for CY 2021.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor: • ensure that all issuance of properties be properly receipted by PAR as prescribed under applicable rules and regulations; • ensure that complete information is provided in the PAR before its issuance; and • continue and complete the preparation of renewal of PAR for all PPEs of the Municipality over three years after issuance and ensure that PAR is renewed every three years or whenever there is a change in custodianship, in compliance with existing rules and regulations.",
+      "managementAction": "All issuance of properties was receipted by the PAR as prescribed under applicable rules and regulations. Continuous preparation and renewal of PAR and renewal thereon by the Municipal Treasurer were made.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to submit to the Audit Team all the required supporting documents for payrolls, DTRs, payrolls, DTRs, Authority to physically report during ECQ and copies of accomplishments reports of the JO personnel certified by the HRMO.",
+      "managementAction": "Payrolls, DTRs, Authority to physically report during ECQ and copies of accomplishments reports of the JO personnel certified by the HRMO on May 24, 2021 were submitted to the Audit Team.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the OIC- Municipal Planning and Development Coordinator to expedite the completion of CBMS that will establish/create a database that will assist the gender-responsive planning, programming and policy formulation of the Municipality.",
+      "managementAction": "The CBMS database will assist the gender-responsive planning, programming and policy formulation of the Municipality was completed by the Municipal Planning and Development Coordinator and was furnished to the Audit Team on February 16, 2022.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant and the Municipal Engineer to assist the Acting Municipal Treasurer in providing the necessary supporting documents required by the GSIS to immediately process their application for property insurance of all the insurable properties of the Municipality.",
+      "managementAction": "Various insurable properties were insured by the Municipal Treasurer and the Municipal Accountant in CY 2021.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Due to voluminous insurable properties of the Municipality, gathering of documents to support the insurance will take time."
+    },
+    {
+      "id": "Pagbilao_Quezon_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Planning and Development Coordinator to maximize the utilization of 20% Development Fund through proper planning so that all its programmed development projects could be implemented immediately and completed within the year to ensure that intended beneficiaries could avail of the maximum benefits that will be derived therefrom.",
+      "managementAction": "The Municipality appropriated a total amount of P44,336,331.40 for the 20% Development Fund. Per annual accomplishment report, a total of P36,923,889.73 was completed and utilized.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the MDRRMO to prepare the: • Summary/List of Donations Received, Distributed and Balances for In-kind Donations; and • Report on the Receipt and Distribution/Issuance of Donated Relief Goods and furnish the same to the NDRRMC, through the OCD, copy furnished the Audit Team within ten working days after the end of each quarter pursuant to COA Circular Nos. 2014-002 and 2020-009.",
+      "managementAction": "The Summary/List of Donations Received, Disaster and Risk Reduction Balances for In-kind Donations Received, Distributed and Balances for In-kind Goods was prepared and furnished to the Audit Team by the MDRRMO.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the BAC Secretariat to submit to the Audit Team copies of the purchase order and its supporting documents on the disbursements from BGCM in CY 2020, and regularly furnish the Audit Team with copies of perfected contracts together with the supporting documents within five (5) working days from approval thereof in accordance with COA Circular No. 2009-001 dated February 12, 2009 to ensure timely review, evaluation and verification thereof.",
+      "managementAction": "The copies of the purchase order for the rice distributed to the household affected by the COVID-19 pandemic funded under BGCM was submitted by the Municipal Accountant on May 24, 2021. Timely submission of perfected contracts was observed by the BAC Secretariat.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Pagbilao_Quezon-2020-PY12",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the OIC-Municipal Planning and Development Coordinator to expedite the completion of CBMS that will establish/create a GAD database that will assist the gender-responsive planning, programming and policy formulation of the Municipality.",
+      "managementAction": "The Municipal Planning and Development Coordinator, together with the GAD Focal Point Person, committed to accomplish and finalize the CBMS project. The project was interrupted due to untimely demise of the former MPDC and technical problems which resulted in failure of bidding. The MPDC committed to establish a working Database Management System for the Municipality as soon as the appropriation ordinance has been issued.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Untimely demise of former MPDC and technical problems which resulted on the failure of bidding."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Pagbilao_Quezon-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor:\n• instruct the Municipal Engineer to continue and complete the inventory of all the\nroad networks of the Municipality and their components and coordinate with the\nMunicipal Accountant for the recording in the books of accounts; and\n• instruct the Municipal Engineer, the Municipal Accountant and the Acting\nMunicipal Treasurer to expedite the reconciliation of their records for the fair\npresentation of the account in the financial statements pursuant to Paragraph 27 of\nIPSAS 1.\nHenceforth, ensure strict compliance with the reporting requirements of COA Circular\nNo. 2015-008.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Pagbilao_Quezon-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor:\n• require the Acting Municipal Treasurer to prepare and maintain the property\ncards for all PPE of the Municipality and reconcile it with the PPE Ledger\nCards maintained in the Office of the Municipal Accountant;\n• re-establish the Appraisal and Disposal Committee to complete the\nnecessary information in the IIRUP;\n• submit to the COA Audit Team the IIRUP together with its supporting\ndocuments;\n• cause the immediate disposal of the unserviceable properties of\nP22,193,588.64 in order to maximize any realizable value from their disposal\nby sale in accordance with the existing regulations; and\n• require the Municipal Accountant to prepare the necessary adjusting entries\nfor the derecognition of the unserviceable properties upon disposal\npursuant to Paragraph 82 of IPSAS 17 and Paragraph 27 of IPSAS 1 for the\nfair presentation of the accounts in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Pagbilao_Quezon-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor:\n• instruct the Acting Municipal Treasurer/Property Custodian to expedite the\ncompletion of the physical count and the proper reporting in the RPCI in\norder to facilitate the reconciliation of inventory accounts, and thereafter\ncoordinate with the Municipal Accountant for the reconciliation of the\nAccounting and Property records; and\n• require the Municipal Accountant to record the purchases of\nsupplies/inventories initially as an asset account and recognize the expense\naccount once the inventories are consumed/distributed for proper matching\nof revenue and expense in accordance with IPSAS 12 and Paragraph 27 of\nIPSAS 1 for the fair presentation of these accounts in the financial\nstatements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Pagbilao_Quezon-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Acting Municipal\nTreasurer and the Municipal Assessor to coordinate with the Bids and Awards\nCommittee to expedite the procurement of surveying activity and completion of\ndocumentary requirements for the titling of the four lots in the name of the\nMunicipality, and to exert extra effort to determine/identify the unidentified lots\nvalued at P119,174.29 to avoid possible third party claims that may arise in the\nfuture and for the fair presentation of the Land account in the financial\nstatements as required under Paragraph 27 of IPSAS 1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Pagbilao_Quezon-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendations that the Municipal Mayor:\n• instruct the Acting Municipal Treasurer to continue pursuing the collection of the\nreceivables from the beneficiaries of the livelihood project who are able to pay by\nsending demand letters; and\n• refile the request for write-off of uncollectible receivables of P45,325.00 due to\ninsolvency and P5,600.00 representing loans granted to beneficiaries who are\nalready deceased supported by documents enumerated under COA Circular No.\n2016-005 dated December 16, 2016.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Pagbilao_Quezon-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor:\n• file the request for write-off of uncollectible receivables representing loans\ngranted to beneficiaries who are already deceased supported by documents\nenumerated under COA Circular No. 2016-005 dated December 16, 2016; and\n• in the meantime, require the Municipal Accountant to set up the provision\nfor Allowance for Impairment in order to present fairly the Other\nReceivables account in the financial statements at net realizable amount\nconsistent with the requirements of COA Circular No. 2016-005 and for the\nfair presentation of the account in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Pagbilao_Quezon-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Acting Municipal\nTreasurer to:\n● ensure that all issuance of properties be properly receipted by PAR as\nprescribed under applicable rules and regulations;\n● ensure that complete information is provided in the PAR before its\nissuance; and\n● continue and complete the renewal of PAR for all PPEs of the Municipality\nover three years after issuance and ensure that PAR is renewed every three\nyears or whenever there is a change in custodianship, in compliance with\nthe existing rules and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Pagbilao_Quezon-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to\nsubmit to the Audit Team all the required supporting documents for evaluation.\nOtherwise, the same may be suspended or disallowed in audit.\n\nAlso, ensure that all claims against government funds are properly supported\nwith complete documentation in compliance with Section 4 (6) of PD No. 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Pagbilao_Quezon-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor audit the High-yield savings account (HSA) amounting to P23,297,341.78 under the SEF and P275,330,245.86 under the GF and instruct the Municipal Accountant to make the necessary adjustments for fair presentation of the accounts in the financial statements in accordance with Paragraph 27 of IPSAS 1.",
+      "managementAction": "The Municipal Accountant complied with the adjustments to reflect in the financial statements.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Pagbilao_Quezon-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the: ● Municipal Accountant to conduct the physical count of PPE under SEF and include the same in the RPCPPE for reconciliation with the records; and ● Municipal Accountant to prepare and maintain the property cards for all PPE of the Municipality and reconcile it with the PPE Ledger Cards maintained in the Office of the Municipal Accountant; and ● Municipal Mayor to cause the disposition of unserviceable properties of P12,782,438.12 in accordance with applicable rules and regulations.",
+      "managementAction": "The Municipal Accountant conducted the RPCPPE and the property cards were prepared and reconciled with the PPELC. IIRUP contains incomplete information because the Management was unable to renew the Appraisal and Disposal Committee.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "IIRUP contains incomplete information because the Management was unable to renew the Appraisal and Disposal Committee."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Pagbilao_Quezon-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Assessor to expedite the gathering of documents necessary for the application of title of items 2 to 4 will be secured; and Municipal Accountant to record the cost directly attributable to the acquisition of land as part of the purchase price and not as separate land items and ensure the fair presentation of the Land account in the financial statements.",
+      "managementAction": "The Municipal Assessor informed the Audit Team that the Sanitary Landfill is already for titling while the surveying and titling of the three remaining lots is for procurement process upon the approval of the Supplemental Budget for the year. The Acting Municipal Treasurer also commented that she will look for the documents pertaining for the unidentified lump sum amount recorded under Land account in SEF.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The budget for the surveying activity in CY 2020 for the three remaining untitled lots in previous years were re-budgeted for CY 2021 due to failure of bidding."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Pagbilao_Quezon-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor: ● require the Acting Municipal Treasurer to pursue the collection of the receivables from the beneficiaries of the livelihood project who are able to pay by sending demand letters; and ● refile the request for write-off of uncollectible receivables of P45,325.00 due to insolvency and P5,600.00 representing loans granted to beneficiaries who are already deceased supported by documents enumerated under COA Circular No. 2016-005 dated December 16, 2016; and ● require the Municipal Accountant to set up the provision for Allowance for Impairment in order to present fairly the Loan Receivable – Others account in the financial statements at net realizable amount consistent with the requirements of COA Circular No. 2016-005 and in accordance with Paragraph 27 of IPSAS 1.",
+      "managementAction": "The Acting Municipal Treasurer commented that her office is continuously sending demand letters to the beneficiaries. Minimal response and payment were received resulting in collection of P1,400.00. Due to absence of death certificates from PSA they were not able to refile the request for write-off. The Allowance for Impairment for the Loan Receivable – Others were set up by the Municipal Accountant.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Due to financial condition, change of address and death of beneficiaries. Lack of supporting documents required under COA Circular No. 2016-005 prevented refiling of the write-off request."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Pagbilao_Quezon-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor: ● instruct the Municipal Engineer to continue the inventory of all the road networks of the Municipality and their components and coordinate with the Municipal Accountant for the recording in the books of accounts; ● require the Municipal Accountant to provide the lacking information in the LRNLC relative to the year-end balance of P25,447,564.58 for reconciliation, control and proper monitoring; and ● require the Acting Municipal Treasurer to prepare the RLRN and LRNPC and reconcile with the accounting records.",
+      "managementAction": "The Inventory of Road Network was conducted and submitted to the Audit Team. The Notes to Financial Statements as of December 31, 2020 included the disclosure of P39,826,939.12 representing 3.98 kilometers of total road network system constructed and developed by the Municipality. The RLRN and LRNPC were prepared and maintained by the Acting Municipal Treasurer which were reconciled with the accounting records.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Inventory of Road Network was only finished on February 10, 2021, thus the accounting records was not adjusted as of year-end. With the new developments, the audit observation is updated and presented anew under observation no. 1, Part II of this Report."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Pagbilao_Quezon-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Breeding Stocks Accountant to make the necessary adjustments to reflect the correct balance of the Breeding Stocks in the Livestock Dispersal Inventory Report and for the account to have a fair presentation in the financial statements pursuant to Paragraph 27 of IPSAS 1; and Acting Municipal Treasurer to prepare and maintain the WOABSPC to reconcile her inventory of livestock and for the reconciliation of the book of accounts in the Accounting Office.",
+      "managementAction": "Breeding Stocks account were adjusted by the Municipal Accountant representing the dead animals and were reconciled with the Livestock Dispersal Inventory Report. WOABSPC were prepared and maintained by the Acting Municipal Treasurer and were reconciled with the report from the Municipal Agriculturist and the books in the Accounting Office.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Pagbilao_Quezon-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to make the necessary adjustments to reflect the correct discrepancy of P725,495.27 for the fair presentation of the financial statements in accordance with Paragraph 27 of IPSAS 1.",
+      "managementAction": "Necessary adjustments were made by the Municipal Accountant.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Pagbilao_Quezon-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor: ● file the request for write-off of uncollectible receivables representing loans granted to beneficiaries who are already deceased supported by documents enumerated under COA Circular No. 2016-005 dated December 16, 2016; and ● in the meantime, require the Municipal Accountant to set up the provision for Allowance for Impairment in order to present fairly the Other Receivables account in the financial statements at net realizable amount consistent with the requirements of COA Circular No. 2016-005 and for the fair presentation of the account in the financial statements.",
+      "managementAction": "The Acting Municipal Treasurer commented that she is continuously exerting efforts to make possible the collection of the Other Receivables, however due to their financial condition and pandemic situation no collection was made. They were not able to refile the request for write-off due to lack of death certificates from PSA. The Municipal Accountant commented that she will coordinate with the Audit Team for its correct computation to be reflected in the financial statements.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Due to financial condition, change of address and death of beneficiaries. Relatives hesitant and not cooperative in providing death certificates issued by PSA. Gathering information to determine the amount to be set up and the entries to be made for the allowance for impairment."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Pagbilao_Quezon-2020-PY9",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the SDO to submit the cash advance voucher with its supporting documents for the cash advance within seven (7) days after the release of the check to the COA ATL for validation; and Municipal Accountant to ensure that all cash advances are liquidated at year-end in accordance with the existing regulations.",
+      "managementAction": "SDO submitted the cash advance voucher with its supporting documents within seven (7) days after the release of the check. Timely submission was made and cash advances at year-end were liquidated.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Pagbilao_Quezon-2020-PY10",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to: ● maintain subsidiary ledgers for RPT/SET Receivables and reconcile with their reciprocal Deferred RPT/SET Income accounts; and ● make the necessary regular adjustments in the affected accounts for fair presentation in the financial statements.",
+      "managementAction": "Subsidiary Ledgers were maintained for RPT/SET Receivables and were reconciled with their reciprocal Deferred RPT/SET Income accounts. Adjustments were made by the Municipal Accountant to reconcile Deferred RPT/SET Income accounts.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Pagbilao_Quezon-2020-PY11",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Acting Municipal Treasurer to: ● ensure that all issuance of properties be properly receipted by PAR as prescribed under applicable rules and regulations; ● ensure that complete information is provided in the PAR before its issuance; and ● continue the renewal of PAR for PARs over three years after issuance and ensure that PAR is renewed every three years or whenever there is a change in custodianship, and prepare the PAR and issue to end users for PPE acquired during the year totaling P56,699,278.90.",
+      "managementAction": "The Acting Municipal Treasurer commented that all new acquisitions are properly receipted by end-users with PARs with complete details/information. She added that they are continually updating/renewing the PAR and the renewal thereof within three years or whenever there is a change in custodianship in compliance with the existing rules and regulations. The preparation of PAR for CY 2019 was made partly and renewal was done on a \"per account\" basis. For CY 2020, some PARs were prepared covering P20,435,535.00 but PAR was not prepared for PPE totaling P13,699,048.00.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Due to voluminous PPE owned by the Municipality, the preparation and updating of PAR will take time."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Quezon__Pagbilao_Quezon-2020-PY13",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct Acting Municipal Treasurer to: ● expedite the gathering of necessary information and documents for the reapplication of property insurance for Sentrong Pangkabuhayan and coordinate with the Municipal Engineer to provide the technical information necessary for the application of property insurance for municipal buildings; and ● ensure that all insurable properties of the Municipality are covered with appropriate insurance with the GSIS in compliance with the provisions of COA Circular No. 92-390 and RA No. 656.",
+      "managementAction": "The Acting Municipal Treasurer informed the Audit Team on the status of the following insurable properties: ● Sentrong Pangkabuhayan Building and Animal Impounding Facility – for processing of payment for insurance premium. ● Solid Waste Processing Building and New Public Cemetery – for completion of the documentary requirements. ● Motor Vehicles – they will coordinate with the concerned departments to facilitate the processing of the insurance coverage under their custody.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Lacking information and absence of documents required by GSIS. With new developments, the audit observation is updated and presented anew under observation no. 10, Part II of this Report."
+    },
+    {
+      "id": "Pagbilao_Quezon-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the OIC-Municipal Planning and Development Coordinator (MPDC) to expedite the completion of CBMS that will establish/create a GAD Database that will assist the gender-responsive planning, programming and policy formulation of the Municipality.",
+      "managementAction": "The MPDC committed to establish a working Database Management System for the Municipality at the soonest time possible or until the first quarter of 2021. With the given timeframe, his Office is aware that having an ideal tool equipped with a credible, updated and valid household information could cater and support projects utilizing government resources in its full efficiency. Although we are still in a pandemic rendering limited mobility to everyone and the MPDC has been in position for only six months, he guaranteed that a gender-responsive 2020 CBMS will be up and running insofar as all agencies and sectors, both local and national will benefit from it. At this time, the project has been included in the Supplemental Annual Investment Plan and set to be included and eventually be deliberated on under the Supplemental Budget.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Due to the untimely death of the MPDC who is responsible in setting up and maintenance of the CBMS."
+    },
+    {
+      "id": "Pagbilao_Quezon-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to\nmake the necessary adjustments for fair presentation of the accounts in the\nfinancial statements in accordance with Paragraph 27 of IPSAS 1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Acting Municipal Treasurer\nto:\n• conduct the physical count of PPE under SEF and include the same in the\nRPCPPE for reconciliation with the accounting records; and\n• prepare and maintain the property cards for all PPE of the Municipality and\nreconcile it with the PPELC maintained in the Office of the Municipal Accountant.\n\nWe also recommended that the unserviceable properties of P12,782,438.12 be\ndisposed of in accordance with the applicable rules and regulations on the disposal\nof unserviceable properties.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the:\n• Municipal Assessor to expedite the gathering of documents necessary for the\napplication of title of item 1 of Annex G and ensure that land title for items 2 to\n4 will be secured;\n• Municipal Accountant to communicate with the Municipal Assessor in order to\nidentify and locate documents relative the lump sum amount recorded in the\nbooks in order to establish its existence; and\n• Municipal Accountant to record the cost directly attributable to the acquisition\nof land as part of the purchase price and not as separate land items.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended the Municipal Mayor to:\n• require the Acting Municipal Treasurer to pursue the collection of the\nreceivables from the beneficiaries of the livelihood project who are able to pay\nby sending demand letters;\n• refile the request for write-off of uncollectible receivables of P45,325.00 due to\ninsolvency and P5,600.00 representing loans granted to beneficiaries who are\nalready deceased supported by documents enumerated under COA Circular No.\n2016-005 dated December 16, 2016; and\n• require the Municipal Accountant to set up the provision for Allowance for\nImpairment in order to present fairly the Loan Receivable - Others account in\nthe financial statements at net realizable amount consistent with the requirements\nof COA Circular No. 2016-005 and in accordance with Paragraph 27 of IPSAS 1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor:\n• instruct the Municipal Engineer to continue the inventory of all the road\nnetworks of the Municipality and their components, if possible and coordinate\nwith the Municipal Accountant for recording in the books of accounts;\n• require the Municipal Accountant to provide the lacking information in the\nLRNLC relative to the year-end balance of P25,477,564.58 for disclosure in the\nNotes to Financial Statements; and\n• require the Acting Municipal Treasurer to prepare the RLRN and LRNPC for the\nbalance of P25,447,564.58 as of December 31, 2019 for reconciliation, control\nand proper monitoring purposes.\n\nHenceforth, ensure to comply with the reportorial requirements in COA Circular\nNo. 2015-008.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the:\n• Municipal Accountant to make the necessary adjustments to reflect the correct\nbalance of the Breeding Stocks account by reconciling her records with the Livestock\nDispersal Inventory Report of the Municipal Agriculturist in order for the account to\nhave a fair presentation in the financial statements pursuant to Paragraph 27 of IPSAS\n1; and\n• Acting Municipal Treasurer to prepare and maintain the WOABSPC to provide\nupdated inventory of livestock and for the reconciliation of the report from the\nMunicipal Agriculturist and books in the Accounting Office.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to\nmake the necessary adjustments on the noted discrepancy of P725,495.27 for the\nfair presentation of the financial statements in accordance with Paragraph 27 of\nIPSAS 1.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2019-OBS8",
+      "year": 2019,
+      "recommendation": "We recommended the Municipal Mayor to:\n• require the Acting Municipal Treasurer to pursue the collection of the\nreceivables from KKK beneficiaries who are able to pay by sending them\ndemand letters;\n• file the request for write-off of uncollectible receivables totaling P43,704.60\nrepresenting loans granted to beneficiaries who are already deceased\nsupported by documents enumerated under COA Circular No. 2016-005 dated\nDecember 16, 2016; and\n• require the Municipal Accountant to set up the provision for Allowance for\nImpairment in order to present fairly the other receivables accounts in the\nfinancial statements at net realizable amount consistent with the requirements\nof COA Circular No. 2016-005.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2019-OBS9",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor require the:\n• SDO to submit the cash advance voucher with its supporting documents for\nconfidential fund within seven (7) days after the release of the check to the COA\nATL for validation; and\n• Municipal Accountant to ensure that all cash advances are liquidated at year-\nend in accordance with the existing regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2019-OBS10",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to:\n• maintain subsidiary ledgers for RPT/SET Receivables accounts for\nreconciliation with their reciprocal Deferred RPT/SET Income accounts; and\n• make the necessary adjustments in the affected accounts for the fair\npresentation of the accounts in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2019-OBS11",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Acting Municipal Treasurer:\n• ensure that all information is provided in the PAR before its issuance;\n• continue the renewal of PAR for PPE of the Municipality with over three years\nafter issuance and ensure that PAR is renewed every three years or whenever\nthere is a change in custodianship, in compliance with the existing rules and\nregulations; and\n• prepare the PAR and issue to end users for PPE acquired during the year\ntotaling P56,699,278.90.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2019-PY1",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Municipal Assessor to exert extra effort to facilitate the immediate titling of the lots in the name of the Municipality to avoid contingent claims that may arise in the future pursuant to Section 39(2) of PD No. 1445 and Section 148 of COA Circular No. 92-386 and for the fair presentation of the land account in the Financial Statements.",
+      "managementAction": "The Municipality secured the land title for the five parcels of land amounting to P8,620,000.00. With the new developments, the audit observation is updated and presented anew under observation no. 3, Part II of this Report.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Four parcels of land remained untitled due to lack of documents needed for the application of land title."
+    },
+    {
+      "id": "Pagbilao_Quezon-2019-PY2",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the: • Municipal Treasurer to adopt efficient and aggressive collection strategies and send demand letters to enforce collection and ensure the recovery of the amounts from concerned beneficiaries; and • Municipal Accountant to determine those receivables the collection thereof is not anymore feasible despite diligent efforts and request for write-off of receivables be filed with the Commission on Audit in accordance with COA Circular No. 2016-005 dated December 19, 2016.",
+      "managementAction": "Through the continuous efforts and sending of demand letters by the Acting Municipal Treasurer resulted in the collection of a total amount of P2,000.00. The Municipal Mayor filed a request for write-off of receivables amounting to P50,925.00. With the new developments, the audit observation is updated and presented anew under observation no. 4, Part II of this Report.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Due to financial condition, change of address and death of beneficiaries."
+    },
+    {
+      "id": "Pagbilao_Quezon-2019-PY3",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal Accountant and the Municipal Treasurer to continue exerting effort in collecting the receivables from KKK proponents by constant follow-up and sending demand letters. In case there are still amounts which are no longer collectible due to death of proponents, submit to the COA a request for write-off of receivable pursuant to COA Circular No. 2016-005 dated December 19, 2016.",
+      "managementAction": "Through the continuous efforts, the Acting Municipal Treasurer manage to collect a total amount of P2,661.75 from seven beneficiaries. The Municipal Mayor filed a request for write-off of receivables amounting to P12,500.00. With the new developments, the audit observation is updated and presented anew under observation no. 8, Part II of this Report.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Due to financial condition, change of address and death of beneficiaries."
+    },
+    {
+      "id": "Pagbilao_Quezon-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to confirm with the contractors/suppliers and to request them to submit documents pertaining to their claims. In the event that they fail to support their claims, revert the account to the Unappropriated Surplus of the General Fund, subject to an authority from the Sangguniang Bayan (SB) through a Resolution with a condition that appropriation shall be made available in the event that claim arises in the future.",
+      "managementAction": "The total amount of P97,343.26 was reverted to the unappropriated surplus of the General Fund through SB Resolution No. 223 dated October 31,2019.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor: • Inventory Committee prepare the Report on the Physical Count of the Road Network System (RPCLRN) of the Municipality; • Acting Municipal Treasurer to maintain a Local Road Inventory and Road Map and keep a complete Local Road Network Property Card for all roads and its components; • Municipal Engineer to provide the Municipal Accountant and the Acting Municipal Treasurer with their complete description and cost segregation of their road networks with complete details; and • Municipal Accountant to record the amount of road networks required in the transitory provision of COA Circular No. 2015-008.",
+      "managementAction": "The RPCLRN for the year was prepared by the Municipal Engineer. The Municipal Engineer identified road networks up to year 2013. The Acting Municipal Treasurer thought that it is the same as the Local Road Network Ledger Cards maintained by the Municipal Accountant. The Municipal Accountant recorded only those road networks with complete details as submitted by the Office of the Municipal Engineer. With the new developments, the audit observation is updated and presented anew under observation no. 5, Part II of this Report.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Due to voluminous road networks and the absence of documents pertaining to road networks prior to 2013."
+    },
+    {
+      "id": "Pagbilao_Quezon-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer to: • ensure that Property Acknowledgement Receipt is renewed every three years or whenever there is a change in custodianship, in compliance with the existing rules and regulations; and • assign a responsible person in the renewal of PAR every three years after issuance.",
+      "managementAction": "The Acting Municipal Treasurer commented that since she assumed office on March 19, 2019 she started updating the PAR ensuring that all new acquisitions are properly receipted. However, some details/information cannot be provided for some PAR due to limited records on file. Rest assured that the next time we conduct physical inventory, all the available information will be reflected in the report for proper control and monitoring. Additional staff was assigned to properly monitor the renewal of PAR.",
+      "status": "IMPLEMENTED",
+      "reason": "Due to voluminous PPE owned by the Municipality."
+    },
+    {
+      "id": "Pagbilao_Quezon-2018-PY2",
+      "year": 2018,
+      "recommendation": "Inventory Committee to coordinate with the Municipal Engineer to prepare the road map of the Municipality to facilitate the preparation of a proper inventory and reporting of the Municipality’s road network;",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No list of government owned lot and lot with Deed of Donations to the government. Separately presented in Audit Observation No. 5 Pages No. 40-42"
+    },
+    {
+      "id": "Pagbilao_Quezon-2018-PY4",
+      "year": 2018,
+      "recommendation": "Municipal Accountant to record the amount of road networks required in the transitory povision of COA Circular No. 2015-008",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No current year expense for the projects. Separately presented in Audit Observation No. 5 Pages No. 40-42"
+    },
+    {
+      "id": "Pagbilao_Quezon-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor instruct the Municipal Assessor to exert extra effort to facilitate the immediate titling of the lots in the name of the Municipality to avoid contingent claims that may arise in the future pursuant to Section 39(2) of PD No. 1445 and Section 148 of COA Circular No. 92-386 and for the fair presentation of the land account in the Financial Statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendations that the Municipal Mayor require the:\n Municipal Treasurer to adopt efficient and aggressive collection strategies and send demand letters to enforce collection and ensure the recovery of the amounts from concerned beneficiaries; and\n Municipal Accountant to determine those receivables the collection thereof is not anymore feasible despite diligent efforts and request for write-off of receivables be filed with the Commission on Audit in accordance with COA Circular No. 2016-005 dated December 19, 2016.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the Municipal Accountant and the Municipal Treasurer to continue exerting effort in collecting the receivables from KKK proponents by constant follow-up and sending demand letters. In case there are still amounts which are no longer collectible due to death of proponents, submit to the Commission on Audit a request for write-off of receivable pursuant to COA Circular No. 2016-005 dated December 9, 2016.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to confirm with the contractors/suppliers and to request them to submit documents pertaining to their claims. In the event that they fail to support their claims, revert the account to the Unappropriated Surplus of the General Fund, subject to an authority from the Sangguniang Bayan through a Resolution with a condition that appropriation shall be made available in the event that claim arises in the future.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the:\n Inventory Committee to prepare the Report on the Physical Count of the Road Network System (RPCLRN) of the Municipality;\n Acting Municipal Treasurer to maintain a Local Road Inventory and Road Map and keep a complete Local Road Network Property Card for all roads and its components;\n Municipal Engineer to provide the Municipal Accountant and the Acting Municipal Treasurer with complete description and cost segregation of road components for road projects;\n Acting Municipal Treasurer to submit the list of government owned lot and lot with Deed of Donations to the Municipal Engineer; and\n Municipal Accountant to record the amount of road networks required in the transitory povision of COA Circular No. 2015-008",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Treasurer to:\n ensure that Property Acknowledgement Receipt is renewed every three years or whenever there is a change in custodianship, in compliance with Section 492 of the Government Accounting and Auditing Manual (GAAM), Volume I, in order that record of accountability for PPEs is updated; and\n assign a responsible person in the renewal of PAR every three years after issuance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2018-PY1",
+      "year": 2018,
+      "recommendation": "Municipal Treasurer to facilitate the immediate titling of the subject lots in the name of the Municipality to avoid contingent claims that may arise in the future in compliance with Section 39(2) of PD No. 1445 and Section 148 of COA Circular No. 92-386;",
+      "managementAction": "The Municipal Treasurer identified the lots as to whether these properties are owned by the Municipality.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The titling of lots will be effected in 2019. Reiterated in Audit, Observation No. 1 Pages No. 34-35"
+    },
+    {
+      "id": "Pagbilao_Quezon-2018-PY3",
+      "year": 2018,
+      "recommendation": "Municipal Engineer to provide the Municipal Accountant and the Acting Municipal Treasurer with complete description and cost segregation of road components for road projects;",
+      "managementAction": "Municipal Engineer requested the list of government owned lot and lot with Deed of Donations.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "No list of government owned lot and lot with Deed of Donations to the government. Separately presented in Audit Observation No. 5 Pages No. 40-42"
+    },
+    {
+      "id": "Pagbilao_Quezon-2018-PY5",
+      "year": 2018,
+      "recommendation": "Municipal Social Welfare and Development Officer and the Municipal Agriculturist to continue the already conduct of visitorial to remind them of their responsibility of the projects entrusted to them;",
+      "managementAction": "Municipal Social Welfare and the Municipal Agriculturist already conduct visitorial and remind them of the projects entrusted to them.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2018-PY6",
+      "year": 2018,
+      "recommendation": "Municipal Accountant to determine those receivables the collection thereof is not anymore feasible despite diligent efforts and request for write-off of receivables be filed with the Commission on Audit in accordance with COA Circular No. 2016-005 dated December 19, 2016.",
+      "managementAction": "The Municipal Mayor submitted to the Audit Team the request for write off of receivables from Mr. Alex Regis in the amount of P45,325.00 and in 2018 the Municipal Mayor submitted to the Audit Team documents requesting for write off of receivables of the following borrowers. However, request for write-off of receivables is denied and they may refile the request for write-off provided that the basis for denial has been satisfactorily complied with.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Request for write-off of receivables is denied, however they may refile the request for write-off provided that the basis for denial has been satisfactorily complied with."
+    },
+    {
+      "id": "Pagbilao_Quezon-2018-PY7",
+      "year": 2018,
+      "recommendation": "Municipal Accountant and the Municipal Treasurer to continue exerting effort in collecting the receivables from KKK proponents by constant follow-up and sending demand letters. In case there are still amounts which are no longer collectible due to death of proponents, submit to the Commission on Audit a request for write-off of receivable pursuant to COA Circular No. 2016-005 dated December 9, 2016.",
+      "managementAction": "The Acting Municipal Treasurer informed the Audit Team that they are exerting efforts to communicate and encourage the beneficiaries of the loans to settle their accounts. They are also continuously sending demand letters to the loan beneficiaries. Further, she stated that other loans can be considered or classified as bad debts accounts because they can no longer locate their residences and others are already dead. In addition, they are requesting for write-off for the deceased borrowers.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Other Receivables balance is still for collection. Reiterated in Audit Observation No. 3 Pages No. 37-39"
+    },
+    {
+      "id": "Pagbilao_Quezon-2018-PY8",
+      "year": 2018,
+      "recommendation": "require the Municipal Planning and Development Council (MPDC) to ensure that the mandatory Development Fund appropriated out of the Internal Revenue Allotment be optimally utilized to implement prioritized identified programs, projects and activities to help achieve the desirable outcome on socio-economic development and environmental management outlined in the DILG-DBM JMC No. 2017-1;",
+      "managementAction": "The Municipal Mayor stated that she instructed the Municipal Planning and Development Council (MPDC) to ensure that the mandatory Development Fund appropriated out of the Internal Revenue Allotment be optimally utilized to implement prioritized identified programs, projects and activities to help achieve the desirable outcome on socio-economic development and environmental management outlined in the DILG-DBM JMC No. 2017-1.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2018-PY9",
+      "year": 2018,
+      "recommendation": "install regular monitoring mechanism to assess the progress of project implementation so that all its programmed development projects could be implemented immediately to ensure that intended beneficiaries avail of the maximum benefits that will be derived therefrom;",
+      "managementAction": "Fully Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2018-PY10",
+      "year": 2018,
+      "recommendation": "ensure that a closer coordination among the officials involved in planning, execution and monitoring is enhanced to achieve the desired level of efficiency.",
+      "managementAction": "Fully Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2018-PY11",
+      "year": 2018,
+      "recommendation": "secure the approval of its 10-year Solid Waste Management Plan (SWMP) from the National Solid Waste Management Commission;",
+      "managementAction": "Solid Waste Management Plan was submitted to the Department of Environment and Natural Resources (DENR).",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We recommended the Municipal Mayor  to  instruct  the  Municipal\n     Treasurer to finish the physical inventory and prepare and submit  the\n     RPCPPE per type of property to  the  Auditor.  Moreover,  require  the\n     Municipal Accountant and Municipal Treasurer to reconcile the  PPE  to\n     establish the correct balances and to adjust any discrepancy that will\n     be noted.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the:\n\n\n        • MSWDO and MA  to  conduct  visitorial  and  monitoring  of   the\n          projects and exert all effort to collect  the  said  receivables\n          from the concerned beneficiaries; and\n\n\n        • Municipal Treasurer to adopt efficient and aggressive collection\n          strategies to enforce collection of the  amount  of  P348,038.10\n          from concerned beneficiaries to ensure  the  continuity  of  the\n          livelihood project  and  give  other  prospective  beneficiaries\n          equal  opportunity  in  availing  capital  for  the   livelihood\n          program.\n\n          We further recommended that request for write-off of receivables\n     be filed with the Commission on Audit in accordance with COA  Circular\n     No. 2016-005 dated December 19, 2016 should collection be not feasible\n     despite diligent efforts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor  require  the  Municipal\n     Accountant and the  Municipal  Treasurer  to  continue  exerting  more\n     efforts in collecting the receivables from  KKK  proponents  and  send\n     demand letters. For the amounts which are no longer collectible due to\n     death of proponents, submit to the Commission on Audit a  request  for\n     write-off of receivable pursuant to COA Circular  No.  2016-005  dated\n     December 9,  2016.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require the  members  of\n     the Local School Board to:\n\n    a. prepare a balanced budget with conscious and concerted  efforts  of\n       observing compliance with the legal and regulatory requirements  on\n       SEF budgeting, allocation and utilization;\n\n    b. refrain from accommodating expenditures for  activities  for  which\n       the DepEd has the direct mandate to execute;\n\n    c. request for input from the  DepEd  officials  or  Schools  Division\n       Superintendent  in  the  prioritization   of   SEF   projects   and\n       expenditures in accordance with the DepEd  criteria  and  with  due\n       regard to the provisions of laws, rules and regulations prescribing\n       the limitations on the use of the fund; and\n\n    d. maximize the utilization of SEF to attain its  objectives,  monitor\n       the implementation of the projects/programs and activities  (PPAs),\n       and take appropriate actions such as realignment or  reprogramming,\n       if necessary.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor to:\n\n     • require the Municipal Planning and Development  Council  (MPDC)  to\n       ensure that the mandatory Development Fund appropriated out of  the\n       Internal Revenue Allotment be  utilized  to  implement  prioritized\n       identified programs, projects and activities to  help  achieve  the\n       desirable outcome on socio-economic development  and  environmental\n       Management outlined in the DILG-DBM Joint Memorandum  Circular  No.\n       2011-1.\n\n\n\n\n     • install regular monitoring mechanism  to  assess  the  progress  of\n       project implementation  so  that  all  its  programmed  development\n       projects could be implemented immediately to ensure  that  intended\n       beneficiaries avail of the maximum benefits that  will  be  derived\n       therefrom.\n\n\n\n\n     • ensure that a closer coordination among the officials  involved  in\n       planning, execution and  monitoring  is  enhanced  to  achieve  the\n       desired level of efficiency.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommend that the Municipal Mayor instruct  the  persons-in-\n     charge   of   the    programs    (Municipal    Agriculturist/Municipal\n     Administrator) to:\n\n        ➢     conduct     monitoring     and     evaluation     of     the\n          results/accomplishments of the programs and submit a  report  as\n          required in the design of the project.\n        ➢ submit the Distribution Reports for the other Programs.\n        ➢ include the following in the program guidelines among others:\n           o selection of beneficiaries\n           o terms and conditions, responsibility of the beneficiaries\n\n\n          Also, we recommend that a summary of collections be prepared for\n     the programs where part  of  the  price  will  be  shouldered  by  the\n     beneficiaries.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We  recommended  that  the  Human  Resource  Management  Officer\n     observe the rules established by the PRAISE Committee and  review  the\n     eligibility of every employee for the cash service award.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require the BAC Secretariat to\nfurnish the Audit Team with copies of the perfected contracts together  with\ntheir   supporting   documents   within   five   (5)   working   days   from\napproval/issuance thereof, for timely verification and review of  the  same,\npursuant to COA Circular No. 2009-001 dated February 12, 2009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2016-OBS9",
+      "year": 2016,
+      "recommendation": "We recommended that  the  Municipality,  through  the  Municipal\n     Solid Waste Management Board, secure the approval of its 10-year Solid\n     Waste  Management  Plan  from  the  National  Solid  Waste  Management\n     Commission  pursuant  to  the  provisions  under   the   above   cited\n     regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2016-PY1",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor require the:\n\nMunicipal Social Welfare and Development Officer and the Municipal Agriculturist to conduct visitorial and monitoring of the projects and exert all efforts to collect the said receivables from the concerned beneficiaries; and\n\nMunicipal Treasurer to adopt efficient and aggressive collection strategies to enforce collection of the amount of the of ₱353, 463.10 from concerned beneficiaries to ensure the continuity of the livelihood project and give other prospective beneficiaries equal opportunity in availing capital for the livelihood program.",
+      "managementAction": "The MSWDO tried to locate the whereabouts of the beneficiaries. They send letter of invitation to meet the clients in the barangay. Also, they set an appointment to the beneficiaries to pay the amount due to them gradually.\n\nInstead of visitorial, the Office of the Municipal Agriculturist conducted a meeting on July 27, 2016 at the Sangguniang Bayan Hall with the concerned beneficiaries namely Mr. Alexis Regis for Duck Raising, Ms. Arceli S. Fulgar for Quail Raising and Mr. Benjamin Santiago for Pineapple Production. Mr. Santiago was not able to attend the meeting. Also present during the meeting were, Councilor Apolinar Martinez, Councilor Fuentes and OIC- Municipal Agriculturist. The farmers explained what exactly happened on their respective projects. According to them, that from the kind of living they are into, it is somewhat impossible for them to pay the local government. The MSWDO, Municipal Agriculturist and Municipal Treasurer had joint effort to collect the receivables by serving demand letters to all recipients. Some are paying the arrears and willing to pay.\n\nThey wrote a letter to the Sangguniang Bayan for the bad-debts write-off.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The MSWDO were not able to meet all the beneficiaries and need to follow-up as well as those had been met but failed to do so due to continuous activities of the agency being undertaken. There are beneficiaries who were already dead; relatives were asked to submit the documents as proof of death. However, despite of having an agreement, the family of the beneficiaries still did not submit the required documents."
+    },
+    {
+      "id": "Pagbilao_Quezon-2016-PY2",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Assessor to:\n\nfill out the Field Appraisal and Assessment Sheets (FAAS) properly; and\n\nensure that all Tax Declarations are supported with FAAS and other necessary documents.",
+      "managementAction": "Approved tax declaration which shows the assessment of the property is always recorded and updated in their assessment roll although there is no FAAS attached. Pagbilao is a tax mapped municipality and every property has already their own property index number recorded in their assessment roll. Before, Management only prepare FAAS for building and machineries but effective CY 2015 as per instruction of the Provincial Assessor, all property to be assessed and transferred its ownership were now supported with FAAS whether it is already declared or newly declared. At present, all tax declarations are supported by FAAS with other necessary documents.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2016-PY3",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor follow-up with the Sangguniang Bayan the submission of the revised Local Revenue Code to attain realistic rates of taxes and enhance collections.",
+      "managementAction": "The Management included the revision of the Municipal Revenue Code in the Executive-Legislative Agenda from 2016-2019. Presently, the Sangguniang Bayan has conducted series of public consultation and public hearings.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipal Mayor is waiting for the passage of the proposed Revised Municipal Revenue Code by the Sangguniang Bayan."
+    },
+    {
+      "id": "Pagbilao_Quezon-2016-PY4",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant and the Municipal Treasurer to exert more efforts in collecting the receivables from KKK proponents and send demand letters for payment of the amounts collectible. If the efforts proved futile, prepare and submit to the Sangguniang Bayan a request for write off, duly supported with complete and proper documents.",
+      "managementAction": "The Management requested the Sangguniang Bayan for the resolution to write-off the said receivables. The Sangguniang Bayan conducted committee hearings with the concerned department heads.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipal Treasurer disclosed that the loan was released since 1982 and for the past 35 years, most of the recipient has no capacity to pay and some were already deceased. However, there are recipients who settled the remaining balances of their loan. The request for write-off was disapproved by the Sangguniang Bayan.\n\nReiterated in Part II, Observation No.3"
+    },
+    {
+      "id": "Pagbilao_Quezon-2016-PY5",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Planning and Development Council (MPDC) to maximize the utilization of the 20% Development Fund so that that all its programmed development projects could be implemented immediately to ensure that intended beneficiaries avail of the maximum benefits that will be derived therefrom.",
+      "managementAction": "The Municipality has tried all possibilities to serve its constituents at all times. The Purchase & Installation of Solid Waste Processing Equipment was completed on July 14, 2016. The Notice To Proceed was served on March 18, 2016.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The item Rehabilitation of Senior Citizen’s Building amounting to P500,000.00 was not utilized because the Regional DSWD has made a recommendation to relocate the building because it does not comply with the requirement for accreditation of Senior Citizen’s Buildings as mandated by the department. Thus, the purchased of lot to relocate such building is being prioritized and the construction of new building based on DSWD Standards is being studied.\n\nReiterated in Part II, Observation No.5"
+    },
+    {
+      "id": "Pagbilao_Quezon-2016-PY6",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Treasurer to secure/keep the documents supporting the Gross Receipts for business tax purposes.",
+      "managementAction": "The Municipal Treasurer required all the contractors and sub-contractors from Power Plant to present the contract amount and the purchase order in determining the gross receipt as the basis of computing business tax and for other businesses, they require submission of BIR Form 1702 as supporting documents in the renewal of business permit. They are now securing and keeping the said documents for business tax purposes.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2016-PY7",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Assessor to revisit the SFMV and conduct general revision of property assessment every three (3) years, as required under Section 219 of the LGC.",
+      "managementAction": "The finalization of the proposed schedule of unit value for land and building by groupings of municipality has been conducted. The proposed schedule of unit for land and building were submitted to BLGF for review approval and enactment as ordinance approved by the Sangguniang Panlalawigan for implementation. The Municipal Assessor reported that the Assessor of Province of Quezon had already finalized, prepared and submitted the revised schedule of unit market value of the land and buildings to the BLGF for review and approval.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2016-PY8",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor require the BAC Secretariat to furnish the Auditor with copies of the perfected contracts/purchase orders together with their supporting documents within five (5) working days from approval/issuance thereof, for timely verification and review of the same.",
+      "managementAction": "The Management submitted to the Audit Team the contracts and supporting documents for infrastructure projects for CY 2016.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Management is complying with the recommendation but not submitted on time and only 50%, or 34 out of 68 perfected contracts for CY 2016 were submitted to the Audit Team.\n\nReiterated in Part II, Observation No.8"
+    },
+    {
+      "id": "Pagbilao_Quezon-2016-PY9",
+      "year": 2016,
+      "recommendation": "We reiterated that the Municipal Mayor strengthens the LGU GFPS by creating the GFPS TWG and completing the composition of the GFPS Execom to ensure the LGU GFPS could fulfill its task.",
+      "managementAction": "The Municipality created on June 3, 2016 the Executive Order No. 6 Series of 2016 An order completing the membership of the LGU-GAD Focal Point System (GFPS) Executive Committee and Technical Working.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Pagbilao_Quezon-2016-PY10",
+      "year": 2016,
+      "recommendation": "We reiterated that the Municipal Mayor require the LGU GFPS to:\n\nFully implement the GAD Plan and Budget so that the intent of GAD on promoting gender-responsive governance, protecting and fulfilling women’s human rights, and promoting women’s empowerment as mandated could be fully achieved; and\n\nStrictly monitor the implementation of the planned GAD program, projects and activities to ensure that the plan was fully implemented.",
+      "managementAction": "The Management revisited the GAD Plan, conducted Assessment of previous actions, and reiterated the implementing agencies for an immediate action but due to delayed approval of the budget, very short period has been allotted thus not fully implement the plan.\n\nThe Management is now monitoring the implementation of GAD Plan.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The LGU GFPS reported that the non-implementation was due to late approval of budget, thus did not meet the required period for implementation.\n\nManagement still failed to fully implement the plan.\n\nReiterated in Part II, Observation No.10"
+    }
+  ]
+}

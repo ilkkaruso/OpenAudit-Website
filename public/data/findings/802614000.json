@@ -1,0 +1,1742 @@
+{
+  "lguCode": "802614000",
+  "lguName": "Maslog",
+  "province": "Eastern Samar",
+  "region": "Region VII (Central Visayas)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-PY1",
+      "year": 2024,
+      "recommendation": "We recommended that the:\n\nInventory Committee conducts the physical count of all properties of the Municipality and provides all the necessary details in the RPCPPE. Thereafter, submit updated RPCPPE to the Audit Team;\n\nOIC-Municipal Accountant:\n\nTrace the records of those PPE with lacking information;\n\nPrepare journal entries for the incorrect recording of PPE as expenses, as well as the misclassified PPEs; and\n\nProvide complete disclosure of PPE in the Notes to the Financial Statements as required in IPSAS 17.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not all properties of the Municipality were physically counted.\n\n\n\n\nThis is a reiterated audit finding.\n\n\n\n\nThis is a reiterated audit finding."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-PY2",
+      "year": 2024,
+      "recommendation": "We recommended that the OIC-Municipal Accountant:\n\nTake up in the books the unrecorded reconciling items which have been long outstanding. Henceforth, ensure that all valid book reconciling items are recorded real time; \n\nRecord in the books the four Trust Fund bank accounts of the Municipality; and\n\nInquire from the depository bank if BUB, RHU RCI, and RHU Professional Fees bank accounts were dormant already, and if proven so, consider the closure of the accounts and revert the balance to the General Fund.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "This is a reiterated audit finding."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-PY3",
+      "year": 2024,
+      "recommendation": "We recommended that the OIC-Municipal Accountant prepare the adjusting entries to correct the deficiency and going forward, always compute the depreciation in accordance with IPSAS 17 and PAG 6 of IPSAS 17.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Adjusting entries were not prepared."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-PY4",
+      "year": 2024,
+      "recommendation": "We recommended that the OIC-Municipal Accountant prepare and include the required reconciliation on the Notes to the Financial Statements.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The OIC-Municipal Accountant did not prepare and include the required reconciliation on the Notes to the FS. This is a reiterated audit finding."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-PY11",
+      "year": 2024,
+      "recommendation": "We recommended that the OIC - Municipal Accountant set up the Real Property Tax Receivables and Special Education Tax Receivables every beginning of the year, based on the list submitted by the Municipal Treasurer, in compliance with the Modified Accrual method of accounting for income from real property tax.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The OIC-Municipal Accountant did not set up the Real Property Tax Receivables and Special Education Tax Receivables."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-PY12",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive prioritize the hiring of an accountant qualifying the requirements of the Civil Service Commission and provide sufficient and capable staff to the accounting department.\n\nMeanwhile, we recommended that the Municipal Accountant Designate submit to the audit team supporting schedules and prepare the necessary adjusting entries to correct the deficiencies noted.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of persons interested in applying for the position.\n\n\n\n\nSupporting schedules were not submitted and no adjusting journal entries were prepared."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-PY14",
+      "year": 2024,
+      "recommendation": "We recommended that Local Chief Executive fill the funded plantilla positions already in accordance with RA 7160 and the CSC Rules; and hire competent staff with the basic knowledge and competence to carry on their work to ensure operational efficiency.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of persons interested in applying for the vacant positions."
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-OBS1",
+      "year": 2024,
+      "recommendation": "We recommended that the:\nInventory Committee conducts the physical count of all properties of the Municipality and supplies all the necessary details in the RPCPPE. Thereafter, submit updated RPCPPE to the Audit Team; and\nOIC-Municipal Accountant to trace the records of those PPE with lacking information, and provide complete disclosure of PPE in the Notes to the Financial Statements as required in IPSAS 17.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-OBS2",
+      "year": 2024,
+      "recommendation": "We recommended that the OIC-Municipal Accountant:\nTake up in the books the unrecorded reconciling items which have been long outstanding. Henceforth, ensure that all valid book reconciling items are recorded promptly; and\nRecord in the books the six Trust Fund bank accounts of the Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-OBS3",
+      "year": 2024,
+      "recommendation": "We recommended that the OIC-Municipal Accountant trace the records and supporting documents of the fund transfers that were unidentifiable as to its source, and prepare subsidiary ledgers.  We also recommended to return any unutilized balances to donor agencies.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-OBS4",
+      "year": 2024,
+      "recommendation": "We recommended that the OIC-Municipal Accountant prepare and include the required reconciliation in the Notes to the Financial Statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-OBS5",
+      "year": 2024,
+      "recommendation": "We recommended that the:\nLocal Development Council includes only priority development projects in the LGU’s Local Development Plan and indicates doable and reasonable starting and completion dates therein to create a sense of urgency in the implementation thereof; and\nMPDC and Municipal Engineer, through proper coordination with other offices involved, ensure the timely implementation of priority development projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-OBS6",
+      "year": 2024,
+      "recommendation": "We recommended that the LDRRM Council, headed by the Municipal Mayor, evaluate and review the LDRRMF Investment Plan with emphasis on the proper identification and selection of specific priority PPAs to accelerate their implementation and achieve 100% utilization of the Municipality’s LDRRM – Mitigation Fund.\n\nWe also recommended returning the remaining financial assistance amounting to P2,612,918.00 to the Office of the President if the purpose was already served.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-OBS7",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Mayor direct the:\na.) Municipal Budget Officer and GAD Focal Person to enhance their coordination in the charging of disbursements to the GAD Fund.;\nb.) Management refrains from charging to the Fund expenditures that are not included in the GAD Plan and Budget; and\nc.) Management to ensure that expenditures are aligned with gender-specific PPAs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-OBS8",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Mayor require the HRMO to:\nCome up with a concrete policy guideline relative to the hiring and rehiring of JO personnel to establish a clear expectation and protect the rights of both the employees and the Municipality;\nProvide Statement of Duties and Responsibilities of JO personnel to clearly identify their responsibilities and perform their duties efficiently;\nSet a standard wage rate based on their qualifications and suitability for the job applied, subject to the Municipality’s financial capacity, and\nRequest the installation of biometrics system for JO personnel to properly monitor their DTRs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-OBS9",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Mayor ensure their compliance with the DILG MC No. 2010-101 by placing the official seal or name of the LGU in all government vehicles, marking it with the words “FOR OFFICIAL USE ONLY”, and LTO MC No. VPT 2013-1172 by securing appropriate license plates for government vehicles.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-OBS10",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Mayor hire a DRRM Officer and three essential support staff as mandatory positions in the LDRRM Office in charge of administration/training, research/planning, and operations/warning.\n\nWe further recommended that the OIC-LDRRM Officer submit the monthly report on sources and utilization on or before the 15th day after the end of each month through the LDRRM Council and Local Development Council (LDC) to the COA auditor of the LGU.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-OBS11",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-OBS12",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-OBS13",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-OBS14",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-PY5",
+      "year": 2024,
+      "recommendation": "We recommended that Management:\n\nObserve strictly the existing rules and regulations on payment of claims; and,\n\nNot to pay on any claim that is not supported with appropriate and complete documents.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-PY6",
+      "year": 2024,
+      "recommendation": "We recommended that the: \n\nMunicipal Budget Officer in the preparation of annual and supplemental budgets:\n\nuse the correct amount of Past Year Actual Receipts and Expenditures as bases for the Budget Year Proposed Receipts and Expenditures; \n\nlimit the allocation for Extraordinary and Miscellaneous Expenses (EME) to the Office of the Municipal Mayor; and\n\ncomply with the 2% statutory limitation for EME based on the actual collections of real property taxes in the next preceding calendar year in compliance with Section 325(h) of RA No. 7160.\n\nMunicipal Accountant:\n\nstrengthen control on the disbursement of funds by disapproving payments charged against the EME more than the 2% limitation; and\n\nsubmit the journal entry vouchers and liquidation reports of the charges against EME without details provided in the journal.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-PY7",
+      "year": 2024,
+      "recommendation": "We recommended that the:\n\nLocal Development Council include only priority and doable development projects in the LGU’s Local Development Plan and indicate specific starting and completion dates therein to create a sense of urgency in the implementation thereof; and\n\nMPDC and Municipal Engineer, through proper coordination with other offices involved, ensure the timely implementation of priority development projects.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-PY8",
+      "year": 2024,
+      "recommendation": "We recommended that the LCE instruct the:\n\nMunicipal Engineer to coordinate with the contractor to expedite the project; and\n\nMunicipal Accountant to determine the amount of liquidated damages and deduct the same from the payment that may be due to the contractor or collect such liquidated damages from the retention money or other securities posted by the contractor.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-PY9",
+      "year": 2024,
+      "recommendation": "We recommended that the LDRRMO, Municipal Accountant, and Municipal Budget Officer reconcile their records.  We likewise recommended that the Municipal Budget Officer prepare separate RAAOs for the QRF, MOOE, and CO of the LDRRM Fund.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-PY10",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive-\n\nEnsure the timely implementation of the development projects by the Municipality’s Local Development Council through proper coordination with the Municipal Engineer, MPDC, and other offices involved; \n\nRequire the Municipal Engineer and other concerned officials to expedite the implementation of the unimplemented projects;\n\nRequire the Municipal Engineer to submit data to the Municipal Accountant, for the computation and enforcement of liquidated damages for projects with delayed completion.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11-Region-VIII__Municipalities__Eastern_Samar__Maslog_EaSamar-2024-PY13",
+      "year": 2024,
+      "recommendation": "We recommended that the LCE direct the:\n\nMunicipal Engineer to monitor regularly all infrastructure projects to avoid delayed implementations; and,\n\nMunicipal Accountant to provide for the liquidated damages to be deducted from the claim of the contractor.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Implemented"
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2023-PY1",
+      "year": 2023,
+      "recommendation": "We recommended that the Municipal Mayor: 1. create an Inventory Committee to conduct the physical inventory of properties for the One-Time Cleansing of PPE. 2. designate separate personnel as GSO, other than the Municipal Accountant, for check and balance; 3. direct the OIC-Municipal Accountant and General Services Officer to a) prepare and update PPELCs and Property Cards, respectively; and b) reconcile both records; and 4. require the OIC-Municipal Accountant to provide depreciation for the listed PPE since they were ready for use, and moving forward, always provide depreciation of assets.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "There was an Inventory Committee created but the physical inventory of properties was not conducted to ascertain PPELCs were not ascertained; PPELCs remained incomplete and the OIC-Municipal Accountant still functions as the GSO."
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2023-PY2",
+      "year": 2023,
+      "recommendation": "We recommended that the Municipal Mayor hire/designate a qualified Municipal Accountant pursuant to Section 474 of Book 3 of the Local Government Code and provide additional personnel to the Accounting Office to be able to comply with the preparation of a complete monthly bank reconciliation statements and other accounting related duties and responsibilities. We also recommended that the Municipal Accountant trace bank records and previous transactions to identify the ₱1,219,769.28, reconciliing items and prepare the necessary adjusting entries.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The book reconciling items remained unrecorded in the books. No qualified Municipal Accountant was hired."
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2023-PY6",
+      "year": 2023,
+      "recommendation": "We recommended that: a. Ensure the timely implementation of the development projects by the Municipality’s Local Development Council through proper coordination with the Municipal Engineer, MPDC, and other offices involved; b. Require the Municipal Engineer and other concerned officials to expedite the implementation of the unimplemented projects; and c. Require the Municipal Engineer to submit data to the Municipal Accountant, for the computation and enforcement of liquidated damages for projects with delayed completion.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Projects funded from the 20% DF were not fully implemented."
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2023-PY8",
+      "year": 2023,
+      "recommendation": "We recommended that the OIC - Municipal Accountant set up the Real Property Tax Receivables and Special Education Tax Receivables at the beginning of the year, based on the list submitted by the Municipal Treasurer, in compliance with the Modified Accrual method of accounting for income from real property tax.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No action taken by management."
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2023-PY10",
+      "year": 2023,
+      "recommendation": "We recommended that the Local Chief Executive prioritize the hiring of an accountant qualifying the requirements of the Civil Service Commission and provide sufficient and competent staff to the accounting department.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of persons interested in applying for the position."
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2023-OBS1",
+      "year": 2023,
+      "recommendation": "1. Inventory Committee conducts the physical count of all properties of the\nMunicipality and provides all the necessary details in the RPCPPE. Thereafter,\nsubmit updated RPCPPE to the Audit Team;\n2. OIC-Municipal Accountant:\na. Trace the records of those PPE with lacking information;\nb. Prepare journal entries for the incorrect recording of PPE as expenses, as well\nas the misclassified PPEs; and\nc. Provide complete disclosure of PPE in the Notes to the Financial Statements\nas required in IPSAS 17.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2023-OBS2",
+      "year": 2023,
+      "recommendation": "We recommended that the OIC-Municipal Accountant:\n1. Take up in the books the unrecorded reconciling items which have been long\noutstanding. Henceforth, ensure that all valid book reconciling items are\nrecorded real time;\n2. Record in the books the four Trust Fund bank accounts of the Municipality; and\n3. Inquire from the depository bank if BUB, RHU RCI, and RHU Professional Fees\nbank accounts were dormant already, and if proven so, consider the closure of\nthe accounts and revert the balance to the General Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2023-OBS3",
+      "year": 2023,
+      "recommendation": "We recommended that the OIC-Municipal Accountant prepare the adjusting entries\nto correct the deficiency and going forward, always compute the depreciation in\naccordance with IPSAS 17 and PAG 6 of IPSAS 17.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2023-OBS4",
+      "year": 2023,
+      "recommendation": "We recommended that the OIC-Municipal Accountant prepare and include the\nrequired reconciliation on the Notes to the Financial Statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2023-OBS5",
+      "year": 2023,
+      "recommendation": "We recommended that Management:\n1. Observe strictly the existing rules and regulations on payment of claims; and,\n2. Not to pay on any claim that is not supported with appropriate and complete\ndocuments.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2023-OBS6",
+      "year": 2023,
+      "recommendation": "We recommended that the:\nA. Municipal Budget Officer in the preparation of annual and supplemental budgets:\n1. use the correct amount of Past Year Actual Receipts and Expenditures as\nbases for the Budget Year Proposed Receipts and Expenditures;\n2. limit the allocation for Extraordinary and Miscellaneous Expenses (EME) to\nthe Office of the Municipal Mayor; and\n3. comply with the 2% statutory limitation for EME based on the actual\ncollections of real property taxes in the next preceding calendar year in\ncompliance with Section 325(h) of RA No. 7160.\nB. Municipal Accountant:\n1. strengthen control on the disbursement of funds by disapproving payments\ncharged against the EME more than the 2% limitation; and\n2. submit the journal entry vouchers and liquidation reports of the charges\nagainst EME without details provided in the journal.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2023-OBS7",
+      "year": 2023,
+      "recommendation": "We recommended that the:\na. Local Development Council include only priority and doable development\nprojects in the LGU’s Local Development Plan and indicate specific\nstarting and completion dates therein to create a sense of urgency in the\nimplementation thereof; and\nb. MPDC and Municipal Engineer, through proper coordination with other\noffices involved, ensure the timely implementation of priority development\nprojects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2023-OBS8",
+      "year": 2023,
+      "recommendation": "We recommended that the LCE instruct the:\na.) Municipal Engineer to coordinate with the contractor to expedite the\nproject; and\nb.) Municipal Accountant to determine the amount of liquidated damages and\ndeduct the same from the payment that may be due to the contractor or\ncollect such liquidated damages from the retention money or other\nsecurities posted by the contractor.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2023-OBS9",
+      "year": 2023,
+      "recommendation": "We recommended that the LDRRMO, Municipal Accountant, and Municipal Budget\nOfficer reconcile their records. We likewise recommended that the Municipal Budget\nOfficer prepare separate RAAOs for the QRF, MOOE, and CO of the LDRRM Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2023-PY3",
+      "year": 2023,
+      "recommendation": "We recommended that the Municipal Accountant recognize accounts payable and accounts for the unpaid purchases with corresponding asset accounts for the unpaid purchases with supporting IAR and other corroborating documents.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2023-PY4",
+      "year": 2023,
+      "recommendation": "We recommended that: 1. Municipal Accountant demand for liquidation of the funds transferred to Barangays and update its records accordingly; 2. Local Chief Executive ensures that MOAs are prepared for every fund transfer for specific purposes and ensure that these MOAs contain specific provisions for the implementation period and submission of liquidation reports by the implementing units.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2023-PY5",
+      "year": 2023,
+      "recommendation": "We recommended that the Municipal Accountant stop recognizing procurement and receipt of construction materials for distribution as expenses in the form of donations and ensure that donations made be supported with a deed of donation and acknowledgment of receipt from the recipients.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2023-PY7",
+      "year": 2023,
+      "recommendation": "We recommended that the management strictly follow the utilization of the LDRRMFIP in the utilization of the fund, and in the event of changes, a supplemental budget and revised LDRRMFIP must support such changes.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2023-PY9",
+      "year": 2023,
+      "recommendation": "We recommended that the Local Chief Executive: • Coordinate with the concerned Offices in identifying/tracing the reconciling items and locating the documents supporting the same, and prepare necessary adjustments, if any; and • Conduct regular/periodic reconciliation of reciprocal accounts to eliminate the difference and to ensure accuracy of the recorded transactions; and • Make the necessary adjustments to properly reflect the transfer of funds within the agency.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2023-PY11",
+      "year": 2023,
+      "recommendation": "We recommended that the LCE direct and install measures for the BAC Secretariat to facilitate the timely submission of Purchase Orders and supporting documents and POs for documents within five (5) working days from issuance thereof to facilitate auditorial review and inspection pursuant to COA Circular No. 2009-001.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2023-PY12",
+      "year": 2023,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Accountant to prioritize the gathering of source documents or reports to aid him in the preparation of Bank Reconciliation Statements, employing all necessary procedures to properly identify all unreconciled items and submit the same to the office of the audit team as soon as possible.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2023-PY13",
+      "year": 2023,
+      "recommendation": "We recommended that: 1. Municipal Engineer to monitor regularly all infrastructure projects to avoid delayed implementations; and, 2. Municipal Accountant to provide for the liquidated damages to be deducted from the claim of the contractor.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Failure of the Municipal Engineer in monitoring the various infrastructure projects."
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2023-PY14",
+      "year": 2023,
+      "recommendation": "We recommended that the Local Chief Executive fill the funded plantilla positions already in vacant positions in accordance with RA 7160 and the CSC Rules; and hire competent staff with the basic knowledge and competence to carry on their work to ensure operational efficiency.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "Lack of persons interested in applying for the vacant positions."
+    },
+    {
+      "id": "11_-_Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2023-PY15",
+      "year": 2023,
+      "recommendation": "Require the concerned officials and employees to liquidate immediately their cash advances in accordance with Accounting Circular No. 2006-001 and COA Circular No. 97-002, otherwise, withhold payments of any money due them in accordance with Section 5.9 of COA Circular No. 97-002 and Section 37 of PD 1445.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2022-PY4",
+      "year": 2022,
+      "recommendation": "We recommended that the Local Chief Executive direct the: • Coordinate with the concerned Offices in identifying/tracing the reconciling items and locating the documents supporting the same, and prepare necessary adjustments, if any; • Conduct regular/periodic reconciliation of reciprocal accounts to eliminate the difference and to ensure accuracy of the recorded transactions; and • Make the necessary adjustments to properly reflect the transfer of funds within the agency.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of able personnel."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2022-PY6",
+      "year": 2022,
+      "recommendation": "We recommended that the Local Chief Executive direct the: • Property Custodian to include all PPE items in the preparation of the RPCPPE, to maintain property cards for all PPEs, and to prepare a Report on Physical Count of Inventories (RPCI) for the semi-expendable items and consumable items; and • Municipal Accountant to assign values to the PPEs based on the Accounting Office’s earliest records, if available, or the fair market value of similar assets, and to reconcile the value of the assets arrived in the RPCPPE to the PPE Ledger Cards.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Inventory Committee not created yet."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2022-PY10",
+      "year": 2022,
+      "recommendation": "Meanwhile, we recommended that the Municipal Accountant Designate submit to the audit team supporting schedules and prepare the necessary adjusting entries to correct the deficiencies noted.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of persons interested in applying for the qualifying position."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2022-PY11",
+      "year": 2022,
+      "recommendation": "We recommended that the Local Chief Executive directs the: 1. General Services Officer to complete the listing of the LGU Properties and furnish the Report of Physical Count of PPE to the Municipal Accountant; 2. The Municipal Engineer to furnish the Mun. Accountant with all Statement of Works Accomplished (SWA) on all Infrastructure Assets monitored by their office; 3. Municipal Accountant – Designate to extract all the PPE items from his earliest available records to aid him in the preparation of the PPE schedule, reconcile the data furnished by GSO and Mun. Engineer, and set up depreciation expenses based on the established schedule; 4. Municipal Accountant - Designate to make appropriate adjusting entries for deficiencies and errors noted in items A, B and C and as summarized in the table 2.1 shown in this finding; and, 5. Three officers mentioned above to coordinate with each other in establishing the data necessary to complete the PPE schedule of the LGU.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "On the process of identifying the PPEs. However, depreciation of PPEs acquired during CY 2021 is already being depreciated"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2022-PY14",
+      "year": 2022,
+      "recommendation": "We recommended that the LCE direct and install measures for the BAC Secretariat to facilitate the timely submission of Purchase Orders and supporting documents within five (5) working days from issuance thereof to facilitate auditorial review and inspection pursuant to COA Circular No. 2009-001.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Transportation is not always readily available due to the remoteness wherein the Municipality is located."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2022-PY15",
+      "year": 2022,
+      "recommendation": "We recommended the Local Chief Executive direct the Municipal Accountant to prioritize the gathering of source documents or reports to aid him in the preparation of Bank Reconciliation Statements, employing all necessary procedures to properly identify all unreconciled items and submit the same to the office of the audit team as soon as possible.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Bank Reconciliation Statements for GF available. BRS for SEF and TF still ongoing."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2022-PY17",
+      "year": 2022,
+      "recommendation": "We recommended that the LCE direct the: 1. Municipal Engineer to monitor regularly all infrastructure projects to avoid delayed implementations; and, 2. Municipal Accountant to provide for the liquidated damages to be deducted from the billings of the contractor.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Failure of the Municipal Engineer in monitoring the various infrastructure projects."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2022-PY19",
+      "year": 2022,
+      "recommendation": "Require the concerned officials and employees to liquidate immediately their outstanding cash advances in accordance with Accounting Circular No. 2006-001 and COA Circular No. 97-002, otherwise, withhold payments of any money due them in accordance with Section 5.9 of COA Circular No. 97-002 and Section 37 of PD 1445.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Unliquidated amount reduced but cannot be fully implemented yet due to difficulty in locating persons involved."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2022-OBS1",
+      "year": 2022,
+      "recommendation": "1.4 We recommended that the Municipal Mayor:\n1. Create an Inventory Committee to conduct the physical inventory of properties\nfor the One-Time Cleansing of PPE;\n2. Designate separate personnel as GSO, other than the Municipal Accountant, for\ncheck and balance;\n3. Direct the OIC-Municipal Accountant and General Services Officer to a)\nprepare and update PPELCs and Property Cards, respectively; and b)\nreconcile both records; and\n4. Require the OIC-Municipal Accountant to provide depreciation for the listed\nPPE since they were ready for use, and moving forward, always provide\ndepreciation of assets.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2022-OBS2",
+      "year": 2022,
+      "recommendation": "2.8 We recommended that the Municipal Accountant trace records and previous\ntransactions to identify the ₱1,219,769.28, reconciling items and prepare the\nnecessary adjusting entries.\n\n2.9 We also recommended that the Municipal Mayor hire/designate/ a qualified\nMunicipal Accountant pursuant to Section 474 of Book 3 of the Local Government\nCode and provide additional personnel to the Accounting Office to be able to comply\nwith the preparation of a complete monthly bank reconciliation statements and other\naccounting related duties and responsibilities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2022-OBS3",
+      "year": 2022,
+      "recommendation": "3.6 We recommended that the Municipal Accountant recognized accounts payable and\nthe corresponding asset accounts for the unpaid purchases with properly\naccomplished IAR and other corroborating supporting documents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2022-OBS4",
+      "year": 2022,
+      "recommendation": "4.8 We recommended that the:\n1. Municipal Accountant demand for the liquidation of the funds transferred to\nBarangays and update its records accordingly; and\n2. Local Chief Executive ensures that MOAs are prepared for every fund\ntransfer for specific purposes and ensure that these MOAs contain specific\nprovisions for the implementation period and submission of liquidation\nreports by the implementing units.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2022-OBS5",
+      "year": 2022,
+      "recommendation": "5.8 We recommended that the Municipal Accountant stop recognizing procurement and\nreceipt of construction materials for distribution as expenses in the form of donations\nand ensure that donations made be supported with a deed of donation and\nacknowledgment receipt from the recipients.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2022-PY1",
+      "year": 2022,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Accountant to revert the identified stale checks to the CIB-LCCA account and recognize Accounts Payable.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2022-PY2",
+      "year": 2022,
+      "recommendation": "We recommended that the Local Chief Executive direct: • The Municipal Accountant to follow the entries in the RCI in preparing the Check Disbursement Journal, in accordance with Section 43 of the MNGAS; and • The Municipal Treasurer to prepare a Schedule of Unreleased Checks every end of the month, to aid the Municipal Accountant in the determination of the actual balance of the cash account net of charges against the Notice of Cash Allocation available for withdrawal from the bank.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2022-PY3",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Accountant prepare general ledgers for SEF and TF and subsidiary ledgers for all funds to determine at any given time the details and status of the accounts and to facilitate verification of the Financial Statements.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2022-PY5",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Accountant prepare the necessary adjustments and, moving forward, to properly classify the accounts for each transaction.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2022-PY7",
+      "year": 2022,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Accountant to refrain from recording as outright expense the purchased/acquired PPEs or inventories but instead record such in their appropriate accounts first and recognize expense only upon issuance to end-users for semi-expendable and consumable items, based on the RIS and SSMI prepared by the General Services or Treasurer.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2022-PY8",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipality use the LDRRMF for disaster risk reduction and management activities only, specifically those that are listed in COA Circular No. 2012-002.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2022-PY9",
+      "year": 2022,
+      "recommendation": "We recommended that the Local Chief Executive direct the: • Municipal Budget Officer to include the list of projects and activities charged to the unexpended LDRRMF of previous years, in accordance with Section 5.1.2 of COA Circular No. 2012-002; and • LDRRMO to prepare a report on Sources and Utilization of DRRMF monthly to facilitate the reconciliation of funds with the Accounting Office and to submit the same to the Audit team.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2022-PY12",
+      "year": 2022,
+      "recommendation": "We recommended that the LCE direct the Municipal Accountant – Designate to: 1. Establish the correct balance of the fund through coordinating with the MBO",
+      "managementAction": "2. Maintain the subsidiary ledgers for LDRRMF",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2022-PY13",
+      "year": 2022,
+      "recommendation": "We recommended that the LCE direct the LDRRMO: a.) To submit the correct report on utilization of LDRRMF with supporting schedules",
+      "managementAction": "and b.) Regularly prepare and submit the monthly report on utilization of the LDRRMF to the audit team.",
+      "status": "UNKNOWN",
+      "reason": "Implemented"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2022-PY16",
+      "year": 2022,
+      "recommendation": "Require the concerned official to: a) Create an inventory committee that would give priority to the conduct of the physical count of PPE",
+      "managementAction": "b) Direct the Property Custodian to submit the RPCPPE to the audit team immediately after completion",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2022-PY18",
+      "year": 2022,
+      "recommendation": "We recommended that Local Chief Executive fill the funded plantilla positions already in accordance with RA 7160 and the CSC Rules",
+      "managementAction": "and hire competent staff with the basic knowledge and competence to carry on their work to ensure operational efficiency.",
+      "status": "UNKNOWN",
+      "reason": "Not Implemented"
+    },
+    {
+      "id": "Maslog_EaSamar_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended that the Local Chief Executive prioritize the hiring of an accountant qualifying the accounting requirements of the Civil Service Commission and provide sufficient and capable staff to the accounting department. Meanwhile, we recommended that the Municipal Accountant Designate submit to the audit team supporting schedules and prepare the necessary adjusting entries to correct the deficiencies noted.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of persons interested in applying for the position."
+    },
+    {
+      "id": "Maslog_EaSamar_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended that the Local Chief Executive directs the: 1. General Services Officer to complete the listing of the LGU Properties and furnish the Report of Physical Count of PPE to the Municipal Accountant; 2. The Municipal Engineer to furnish the Mun. Accountant with all Statement of Works Accomplished (SWA) on all Infrastructure Assets monitored by their office; 3. Municipal Accountant – Designate to extract all the PPE items from his earliest available records to aid him in the preparation of the PPE schedule, reconcile the data furnished by GSO and Mun. Engineer, and set up depreciation expenses based on the established schedule; 4. Municipal Accountant - Designate to make appropriate adjusting entries for deficiencies and errors noted in items A, B and C and as summarized in the table 2.1 shown in this finding; and, 5. Three officers mentioned above to coordinate with each other in establishing the data necessary to complete the PPE schedule of the LGU.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The LGU is still on the process of identifying the PPEs."
+    },
+    {
+      "id": "Maslog_EaSamar_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended that the LCE direct the Municipal Accountant – Designate to: 1. Establish the correct balance of the fund through coordinating with the MBO; 2. Maintain the required subsidiary ledgers for LDRRMF; 3. Submit immediately to the audit team copies of SL in LDRRMF and JEV on the adjusting and closing of the 2020 books of accounts.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Coordination between the different departments concerned still needs improvement."
+    },
+    {
+      "id": "Maslog_EaSamar_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended that the LCE direct the LDRRMO: a.) To submit the correct report on utilization of LDRRMF with supporting schedules; and b.) Regularly prepare and submit the monthly report on the utilization of the LDRRMF to the audit team.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of personnel"
+    },
+    {
+      "id": "Maslog_EaSamar_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "We recommended that the LCE should: 1. Prescribe the appropriate procurement methods to be employed in each of the PAPs in the preparation of its Annual Procurement Plan and all revisions thereto; and 2. Require the Bids and Awards Committee to adhere strictly to the APP in the implementation of the procurement activities and/or issue a resolution in cases of deviations from the plan.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Transportation is not always readily available due to the Municipality is located."
+    },
+    {
+      "id": "Maslog_EaSamar_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Accountant to prioritize the gathering of source documents or reports to aid him in the preparation of Bank Reconciliation Statements, employing all necessary procedures to properly identify all unreconciled items and submit the same to the office of the audit team as soon as possible.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Bank Reconciliation Statements for GF SEF and TF still ongoing."
+    },
+    {
+      "id": "Maslog_EaSamar_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "We recommended the Local Chief Executive to: a) Create an inventory committee that would give priority to the conduct of the physical count of PPE; b) Direct the Property Custodian to submit the RPCPPE to the audit team immediately after completion; and c) Direct the Municipal Accountant – Designate to reconcile the completed RCPPE with the recorded PPE account and provide for its depreciation expense.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of able personnel to be part of the inventory committee."
+    },
+    {
+      "id": "Maslog_EaSamar_aar2021-PY14",
+      "year": 2021,
+      "recommendation": "We recommended that the LCE direct the: 1. Municipal Engineering Office to regularly monitor infrastructure projects and avoid delayed implementations; and, 2. Municipal Accountant to provide for the liquidated damages to be deducted from the claim of the contractor.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Delays were minimized but were not completely eradicated."
+    },
+    {
+      "id": "Maslog_EaSamar_aar2021-PY17",
+      "year": 2021,
+      "recommendation": "We recommended that the Local Chief Executive fill the funded plantilla positions already in accordance with RA 7160 and the CSC Rules; and hire competent staff with the basic knowledge and competence to carry on their work to ensure operational efficiency.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of persons interested in applying for the vacant positions."
+    },
+    {
+      "id": "Maslog_EaSamar_aar2021-PY18",
+      "year": 2021,
+      "recommendation": "Require the concerned officials and employees to liquidate immediately their outstanding cash advances in accordance with Accounting Circular No. 2006-001 and COA Circular No. 97-002, otherwise, withhold payments of any money due them in accordance with Section 5.9 of COA Circular No. 97-002 and Section 37 of PD 1445.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Unliquidated amount significantly reduced but cannot be fully implemented yet due to difficulty in locating persons involved."
+    },
+    {
+      "id": "Maslog_EaSamar_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "1.6 We recommended that the Local Chief Executive direct the Municipal Accountant to\nrevert the identified stale checks to the CIB-LCCA account and recognize Accounts\nPayable.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "2.5 We recommended that the Local Chief Executive direct:\n1. The Municipal Accountant to follow the entries in the RCI in preparing the\nCheck Disbursement Journal, in accordance with Section 43 of the MNGAS;\nand\n2. The Municipal Treasurer to prepare a Schedule of Unreleased Checks every\nend of the month, to aid the Municipal Accountant in the determination of the\nactual balance of the cash account net of charges against the Notice of Cash\nAllocation available for withdrawal from the bank.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "3.7 We recommended that the Local Chief Executive direct the Municipal Accountant to:\n1. Coordinate with the concerned Offices in identifying/tracing the reconciling items\nand locating the documents supporting the same, and prepare necessary adjustments,\nif any; and\n2. Conduct regular/periodic reconciliation of reciprocal accounts to eliminate the\ndifference and to ensure accuracy of the recorded transactions; and\n3. Make the necessary adjustments to properly reflect the transfer of funds within the\nagency.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "4.6 We recommended that the Municipal Accountant prepare the necessary adjustments\nand, moving forward, to properly classify the accounts for each transaction.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended that: 1. The Municipal Accountant - Designate prepare adjusting entries to correct the erroneous recording of the BGCM Fund; 2. The required monthly fund utilization reports and status of PPA implementation of PPAs using the prescribed format be immediately prepared with complete supporting documents submitted, and posted thereafter in at least three (3) conspicuous places.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended that the Local Chief Executive (LCE) direct: 1. The Municipal Budget Officer to create and maintain the three (3) RAAOs required for the easy monitoring of the status and movement of the fund; 2. The Municipal Accountant, LDRRMO and the Mun. Budget Officer refer to the LDRRMFIP for the amount of available appropriations, correct the Plan if found erroneous, and submit to the audit team the corrected copy. Otherwise, prepare their respective records and report based on the original LDRRMFIP; and 3. Submit to the audit team correct copies of RAAO-QRF, RAAO-MOOE, RAAO-CO, Revised LDRRMFIP and disclosure to the notes to FS on LDRRMF.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended that the LCE direct the MBO to avoid obligating expenditures without existing appropriations and meticulously monitor the charges against the LDRRMF through a properly prepared and maintained RAAO.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended that the Local Chief Executive (LCE) direct the MBO and the MPDC to: 1. Revisit the AIP on 20% DF and establish the correctness of the Plan, revise if erroneous and submit to the office of the audit team the corrected plan; and 2. Determine the causes of the difference in balances from the 2019 ending balance and the 2020 beginning balance of the fund, and submit to the audit team the results of reconciliation.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommended that the Local Chief Executive direct the MPDC to only include PAPs for the 20% DF which are in conformity with the guidelines set forth in the DILG-DBM JMC 2017-1, dated February 22, 2017.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We recommended that the LCE direct the Municipal Accountant – Designate and the MBO to reconcile their records, correct the SCBAA and therefore, the RAAO, and submit to the audit team the corrected copies of the statement and the registry.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar_aar2021-PY15",
+      "year": 2021,
+      "recommendation": "We recommended that the Local School Board conduct regular meetings and follow the specific guidelines of the JMC 1, S. 2017 as stated above to be able to craft and approve budget for the SEF for the current year 2019 and the ensuing years.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar_aar2021-PY16",
+      "year": 2021,
+      "recommendation": "We recommended that the LCE direct the concerned officials and employees to refund the excess payment of their travelling expenses. Moving forward, the LCE and other responsible officials/personnel should strictly observe the above-mentioned laws and regulations.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Accountant to prioritize the gathering of source documents or reports to aid him in the preparation of Bank Reconciliation Statements, employing all necessary procedures to properly identify all unreconciled items and submit the same to the office of the audit team as soon as possible.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of able personnel"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Chief Executive prioritize the hiring of an accountant qualifying the requirements of the Civil Service Commission and provide sufficient and capable staff to the accounting department.\nMeanwhile, we recommended that the Municipal Accountant – Designate submit to the audit team supporting schedules for the item (a) and prepare the necessary adjusting entries to correct the deficiencies noted in (b), (c), and (d).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Chief Executive direct the:\nGeneral Services Officer to complete the listing of the LGU Properties and furnish the Report of Physical Count of PPE to the Municipal Accountant;\nThe Municipal Engineer to furnish the Mun. Accountant with all Statement of Works Accomplished (SWA) on all Infrastructure Assets monitored by their office;\nMunicipal Accountant Designate to extract all the PPE items from his earliest available records to aid him in the preparation of the PPE schedule, reconcile the data furnished by GSO and Mun. Engineer,  and set up depreciation expenses based on the established schedule;\nMunicipal Accountant Designate to make appropriate adjusting entries for deficiencies and errors noted in items A, B and C and as summarized on the table 2.1 shown in this finding; and,\nThree officers mentioned above to coordinate with each other in establishing the data necessary to complete the PPE schedule of the LGU.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE direct the Municipal Accountant – Designate to:\nEstablish the correct balance of the fund through coordinating with the MBO;\nMaintain the required subsidiary ledgers for LDRRMF; and\nSubmit immediately to the audit team copies of the SL in LDRRMF and JEV on the adjusting and closing entries related to the closing of the 2020 books of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommended that:\nThe Municipal Accountant - Designate prepare adjusting entries to correct the erroneous recording of the BGCM Fund.\nThe required monthly fund utilization reports and status of implementation of PPAs using the prescribed format (Annex C) be immediately prepared with complete supporting documents, submitted, and posted thereafter in at least three (3) conspicuous places.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Chief Executive (LCE) direct:\nThe Municipal Budget Officer to create and maintain the three (3) RAAOs required for the LDRRMF for easy monitoring of the status and movement of the fund;\nThe Municipal Accountant, LDRRMO and the Mun. Budget Officer refer to the LDRRMFIP for the amount of available appropriations, correct the Plan if found erroneous, and submit to the audit team the corrected copy. Otherwise, prepare their respective records and report based on the original LDRRMFIP; and\nSubmit to the audit team correct copies of RAAO-QRF, RAAOMOOE, RAAOCO, Revised LDRRMFIP and disclosure to the notes to FS on LDRRMF.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE direct the MBO to avoid obligating expenditures without existing appropriations and meticulously monitor the charges against the LDRRMF through a properly prepared and maintained RAAO.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE direct the LDRRMO:\nTo submit the correct report on utilization of LDRRMF with supporting schedules; and,\nRegularly prepare and submit the monthly report on utilization of the LDRRMF to the audit team.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Chief Executive (LCE) direct the MBO and the MPDC to:\na.    Revisit the AIP on 20% Development Fund and establish the correctness of the Plan, revise if erroneous and submit to the audit team the corrected plan; and\nb.      Determine the causes of the difference in balances from the 2019 ending balance and the 2020 beginning balance of the fund, and submit to the audit team the results of reconciliation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-OBS9",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Chief Executive direct the MPDC to only include PAPs for the 20% Development Fund which are in conformity with the guidelines set forth in the DILG-DBM JMC 2017-1, dated February 22, 2017.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-OBS10",
+      "year": 2020,
+      "recommendation": "We recommended that that the LCE direct the Municipal Accountant – Designate and the MBO to reconcile their records, correct the SCBAA and the RAAO, and submit to the audit team the corrected copies of the statement and the registry.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-OBS11",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Chief Executive should:\nPrescribe the appropriate procurement methods to be employed in each of the PAPs in the preparation of its Annual Procurement Plan and all revisions thereto; and,\nRequire the Bids and Awards Committee to adhere strictly to the APP in the implementation of the procurement activities and/or issue a resolution in cases of deviations from the plan.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-OBS12",
+      "year": 2020,
+      "recommendation": "We recommended that the:\nLocal Chief Executive (LCE), in coordination with the Budget Officer, make proper planning in the preparation of the Annual Budget; and\nSangguniang Bayan adhere strictly to existing rules, laws and regulations in the use of appropriated funds and savings.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-OBS13",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-OBS14",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommended to the Local Chief Executive to require the concerned municipal officials to strictly follow the provision of COA Circular No. 2015-008 on the proper accounting and reporting for local road and road network system to ensure that all roads are properly valued and recorded, and to assure the fair presentation of the account infrastructure assets in the financial statements.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE direct the accounting department to:\nSubmit immediately all JEV from January to December 2018.\n\nEnsure that LRs for local travels are submitted within thirty (30) days from return to official station and submit the same to COA within 10 days after the end of each month of liquidation; and,\n\nRecord immediately travel liquidations in the general journal upon submission of LRs.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Chief Executive install measures to facilitate the posting of signboards for its PPAs and to ensure that it will be protected against unauthorized removal to allow transparency of the LGUs implementation of its PPAs pursuant to COA Circular No. 2013-004.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE direct and install measures for the BAC Secretariat to facilitate the timely submission of Purchase Orders and supporting documents within five (5) working days from issuance thereof to facilitate auditorial review and inspection pursuant to COA Circular No. 2009-001.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Delays incurred are caused by travel restrictions due to pandemic."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended that Local Chief Executive and the Legislative Office to refrain from granting financial assistance or rice allowance and granting food allowance to officials and employees which is not covered by valid appropriation.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommended that Local Chief Executive and the BAC to require posting of performance security from the winning bidder to ensure performance and delivery of goods as agreed per contract.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended that Local Disaster Risk Reduction Management Council and the Local Chief Executive to:\n\nMeticulously plan the PPAs to be included in the LDRRMP to ensure that the items being invested into are geared towards disaster preparedness, mitigation and response rehabilitation and recovery; and,\n\nDirect budget officer to monitor spending of the Fund to avoid overspending of budget line items per investment plan, otherwise, if not avoided make appropriate revision of the DRRM investment plan and supplemental budget or realignment of budget with the concurrence of the Sanggunian.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY9",
+      "year": 2020,
+      "recommendation": "We recommended the Local Chief Executive to:\n\na)    Create an inventory committee that would give priority to the conduct of the physical count of PPE;\nb)    Direct the Property Custodian to submit the RPCPPE to the audit team immediately after completion; and\nc)    Direct the Municipal Accountant – Designate to reconcile the completed RCPPE with the recorded PPE account and provide for its depreciation expense.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "On-going reconciliation to comply with the recommendation."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY10",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant-Designate:\na)    Submit immediately all JEV from January to December 2018.\nb)    Attach JEV to all accounts submitted to the Audit Team whether it be cash receipts, Disbursements and non-cash transactions.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY11",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Chief Executive require the Municipal Accountant-Designate and the Municipal Treasurer to work together to ensure the submission of the lacking Disbursement Vouchers complete with relevant supporting documents and to keenly observe the deadline set for the submission of trial balances and other financial reports.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY12",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE direct the:\n\nMunicipal Engineer to monitor regularly all infrastructure projects to avoid delayed implementations; and,\n\nMunicipal Accountant to provide for the liquidated damages to be deducted from the claim of the contractor.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY13",
+      "year": 2020,
+      "recommendation": "We recommended that the Local School Board conduct regular meetings and follow the specific guidelines of the JMC 1, S. 2017 as stated above to be able to craft and approve budget for the SEF for the current year 2019 and the ensuing years.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY14",
+      "year": 2020,
+      "recommendation": "We recommended the strict compliance and enforcement of collection of SET by continuous information campaign and annual collection drive to increase available resources to support the needs of schools in the municipality of Maslog.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY15",
+      "year": 2020,
+      "recommendation": "We recommended that management conduct regular and close monitoring of the barangays on the status of compliance with the waste segregation, identify individual problems of each barangay, and formulate strategies to inculcate discipline and encourage participation of the residents in waste segregation.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY16",
+      "year": 2020,
+      "recommendation": "We recommended the proper allocation of the 5% LDRRMF by meticulous review of the Local Finance Committee and the LCE of the annual budget as well as on time submission of the necessary income estimates. Moving forward, we also recommended to provide for supplemental budget for the 2019 on any deficient amount of LDRRMF.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY17",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Chief Executive direct the:\n\nMunicipal Accountant to set up a Special Trust Fund, Account and transfer the unexpended balances of the LDRRMF amounting to ₱6,454,653.48 to Trust Fun-DRRM and to make the necessary adjusting entries as provided under COA Circular No. 2012-002.\n \nLDRRM Officer and LDRRM Council to prepare revised LDRRMIP which will include the unappropriated balances of the prior years.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY18",
+      "year": 2020,
+      "recommendation": "We recommended for the Municipal Accountant to review the disbursements and make sure that withholding taxes on all government money payments are deducted and withheld from the suppliers, more importantly remitted to the appropriate national government agency.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY19",
+      "year": 2020,
+      "recommendation": "We recommended the LCE to direct the MBO to allocate at least 5% of the total annual budget for implementation of GAD-related activities as required under Section 36(a) of RA No. 9710 or the Magna Carta of Women.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY20",
+      "year": 2020,
+      "recommendation": "We recommended the LCE to direct GAD Focal person to maximize the utilization of the GAD funds through the implementation of GAD-related programs and projects in order to attain the objective for which the funds were provided.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY21",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE directs the Municipal Accountant/ Responsible Officials to immediately submit the lacking supporting documents. This is without prejudice to any disallowances that may be issued, if warranted. Stop the practice of paying without complete supporting documents.\n\nMoving forward, the LCE should ensure that all Disbursement Vouchers are properly authorized and supported with the required documents before its final approval for payment.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY22",
+      "year": 2020,
+      "recommendation": "We recommend that the Local Chief Executive to direct the Municipal Accountant that :\n\nFor the consumed cell cards, submit immediately the list of recipients with the corresponding positions and signatures and a certification from the LCE that all calls and texts are official.\n\nManagement makes a policy guideline (within the bounds of the law) for the issuance of cell cards and ensure its strict compliance to avoid disallowance.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY23",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE direct the concerned officials and employees to refund the excess payment of their travelling expenses.\n\nMoving forward, the LCE and other responsible officials/personnel should strictly observe the above-mentioned laws and regulations.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some employees are yet to refund excess payments received."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY24",
+      "year": 2020,
+      "recommendation": "We recommended that Local Chief Executive fill the funded plantilla positions already in accordance with RA 7160 and the CSC Rules; and hire competent staff with the basic knowledge and competence to carry on their work to ensure operational efficiency.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Not all positions are filled yet."
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY25",
+      "year": 2020,
+      "recommendation": "Require the concerned officials and employees to liquidate immediately their outstanding cash advances in accordance with Accounting Circular No. 2006-001 and COA Circular No. 97-002, otherwise, withhold payments of any money due them in accordance with Section 5.9 of COA Circular No. 97-002 and Section 37 of PD 1445.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Former officials/employees not in government service has yet to liquidate their cash advances"
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY26",
+      "year": 2020,
+      "recommendation": "We recommended that:\n\nThe Municipal Mayor include in the Local Solid Waste Management board a representative from the manufacturing or packaging industry.  \n\nThe Local Solid Waste Management Board revise the current Solid Waste Management Plan to incorporate the requirements of RA9003 and submit it to the National Solid Waste Commission for approval. \n\nThe Local Solid Waste Management Board intensity the information drive regarding the proper segregation of solid waste and corresponding fines and penalties for non-compliance\n\nThe LGU avail fund assistance from National Solid Waste Management Commission to augment fund for the procurement of land intended for a complaint final disposal site and Material Recovery Facility installation.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VIII__Municipalities__Eastern-Samar__Maslog_EaSamar-2020-PY27",
+      "year": 2020,
+      "recommendation": "Require the BAC/Municipal General Service Officer to furnish the Audit Team with copies of approved contracts/purchase orders within five days upon approval thereof in order to implement a systematic and effective review to generating timely and relevant audit results.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended and the Local Chief Executive agreed to require the concerned\nmunicipal officials to strictly follow the provision of COA Circular No. 2015-008 on the\nproper accounting and reporting for local road and road network system to ensure that all\nroads are properly valued and recorded, and to assure the fair presentation of the account\ninfrastructure assets in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended and the LCE agreed to direct the accounting department to:\n monitor and submit the proper and complete liquidation reports for all 2019\ntravel claims;\n ensure that LRs for local travels are submitted within thirty (30) days from return\nto official station and submit the same to COA within 10 days after the end of each\nmonth of liquidation; and,\n record immediately travel liquidations in the general journal upon submission of\nLRs.\n\nThis is without prejudice to the issuance of the Notice of Suspension and/or Disallowance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended and the Local Chief Executive agreed to install measures to facilitate the\nposting of signboards for its PPAs and to ensure that it will be protected against\nunauthorized removal to allow transparency of the LGUs implementation of its PPAs\npursuant to COA Circular No. 2013-004.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommend and the LCE agreed to direct and install measures for the BAC\nSecretariat to facilitate the timely submission of Purchase Orders and supporting documents\nwithin five (5) working days from issuance thereof to facilitate auditorial review and\ninspection pursuant to COA Circular No. 2009-001.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended and the Local Chief Executive, as well as the Legislative Office\nagreed to refrain from granting financial assistance or rice allowance and granting food\nallowance to officials and employees which is not covered by valid appropriation.\n\nThis is without prejudice to the issuance of the Notice of Suspension and/or Disallowance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended and the Local Chief Executive agreed to direct the BAC to require\nposting of performance security from the winning bidder to ensure performance and\ndelivery of goods as agreed per contract.\n\nThis is without prejudice to the issuance of the Notice of Suspension and/or Disallowance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2019-PY1",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommend that Management require the: \n\na. Municipal General Services Officer to submit a Report of the Physical Inventory of the Property, Plant and Equipment for the year 2017 and to maintain updated Property Cards as prescribed by Section 119 & 124 of COA Circular 2002-003;\n\nb.Yearly conduct of physical count of PPE as mandated by law; \n\nc.Municipal Accountant to maintain Property, Plant and Equipment Ledger Cards, Real Property Ledger Cards as prescribed by Section 119, 120 of COA Circular 2002-003.",
+      "managementAction": "Conducted partial physical count;",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "LCE has not yet created an inventory committee to complete the physical count"
+    },
+    {
+      "id": "Maslog_EaSamar-2018-PY4",
+      "year": 2018,
+      "recommendation": "We recommend that the Local Chief Executive to direct the Municipal Accountant that :\n\na.\tFor the consumed cellcards, submit immediately the list of recipient for cellcards with the corresponding positions and signatures and a certification from the LCE that all calls and text are official.\n\nb.\tManagement make a policy guidelines (within the bounds of the law) for the issuance of cellcards and ensure its strict compliance to avoid disallowance.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No policy on the allowed communication expense has been established by the LGU."
+    },
+    {
+      "id": "Maslog_EaSamar-2018-PY14",
+      "year": 2018,
+      "recommendation": "Require the BAC/Municipal General Service Officer to furnish the Audit Team with copies of approved contracts/purchase orders within five days upon approval thereof in order to implement a systematic and effective review to generating timely and relevant audit results.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of personnel"
+    },
+    {
+      "id": "Maslog_EaSamar-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Accountant to prioritize the gathering of source documents or reports to aid him in the preparation of Bank Reconciliation Statements, employing all necessary procedures to properly identify all unreconciled items and submit the same to the office of the audit team as soon as possible.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive:\nCreate an inventory committee that would give priority to the conduct of the physical count of PPE;\nDirect the Property Custodian to submit the RPCPPE to the audit team immediately after completion; and\nDirect the Municipal Accountant – Designate to reconcile the completed RCPPE with the recorded PPE account and provide for its depreciation expense.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Accountant-Designate:\nSubmit immediately all JEV from January to December 2018.\nAttach JEV to all accounts submitted to the Audit Team whether it be cash receipts, Disbursements and non-cash transactions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive require the Municipal Accountant-Designate and the Municipal Treasurer to work together to ensure the submission of the lacking Disbursement Vouchers complete with relevant supporting documents and to keenly observe the deadline set for the submission of trial balances and other financial reports.\nWe further recommended that the LCE employ necessary administrative sanctions if the same deficiency will be repeated in the following years.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We recommended that the LCE direct the:\nMunicipal Engineer to monitor regularly all infrastructure projects to avoid delayed implementations; and,\nMunicipal Accountant to provide for the liquidated damages to be deducted from the claim of the contractor.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We recommended the proper allocation of the 5% LDRRMF by meticulous review of the LFC and the LCE of the annual budget as well as on time submission of the necessary income estimates. Moving forward, we also recommended to provide for supplemental budget for the 2019 on any deficient amount of LDRRMF.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2018-OBS7",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive direct the:\nMunicipal Accountant to set up a Special Trust Fund Account and transfer the unexpended balances of the LDRRMF amounting to P7,452,087.23 to Trust Fund-DRRM and to make the necessary adjusting entries as provided under COA Circular No. 2012-002.\nLDRRMO and LDRRMC to prepare revised LDRRMIP which will include the unappropriated balances of the prior years.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2018-OBS8",
+      "year": 2018,
+      "recommendation": "We recommended for the Municipal Accountant to review the disbursements and make sure that withholding taxes on all government money payments are deducted and withheld from the suppliers, more importantly remitted to the appropriate national government agency.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2018-OBS9",
+      "year": 2018,
+      "recommendation": "We recommended that management conduct regular and close monitoring of the barangays on the status of compliance with the waste segregation, identify individual problems of each barangay, and formulate strategies to inculcate discipline and encourage participation of the residents in waste segregation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2018-OBS10",
+      "year": 2018,
+      "recommendation": "We recommended the LCE to direct the MBO and the GAD Focal Person to allocate at least 5% of the total annual budget for implementation of GAD-related activities as required under Section 36(a) of RA No. 9710 or the Magna Carta of Women.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2018-OBS11",
+      "year": 2018,
+      "recommendation": "We recommended that the LCE direct the GAD Focal Person maximize the utilization of the GAD funds through the implementation of GAD-related programs and projects in order to attain the objective for which the funds were provided.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2018-OBS12",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2018-OBS13",
+      "year": 2018,
+      "recommendation": "We recommended that the Local School Board to conduct regular meetings and follow the specific guidelines of the JMC 1, S. 2017 as stated above to be able to craft and approve budget for the SEF for the current year 2019 and the ensuing years.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2018-OBS14",
+      "year": 2018,
+      "recommendation": "We recommended the strict compliance and enforcement of collection of SET by continuous information campaign and annual collection drive to increase available resources to support the needs of schools in the municipality of Maslog.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2018-OBS15",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2018-OBS16",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2018-OBS17",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommend that the Local Chief Executive to direct the Municipal Accountant to immediately submit all the lacking disbursement vouchers and supporting documents, as well as the cancelled checks. This is without prejudice to any notices of suspension, charges or disallowances that may be issued as a result of our audit.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommend that the LCE directs the Municipal Accountant/ Responsible  Officials to immediately submit the lacking supporting documents. This is without prejudice to any disallowances that may be issued, if warranted. Stop the practice of paying without complete supporting documents.\nMoving forward, the LCE should ensure that all Disbursement Vouchers are properly authorized and supported with the required documents before its final approval for payment.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommend that the Local Chief Executive meticulously plan the procurement of the PPA’s funded out of 20% Development Fund and to consider the important development projects in their budget proposal to ensure its implementation in accordance with the provisions of JMC 2017-1.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2018-PY6",
+      "year": 2018,
+      "recommendation": "We recommend that the LCE direct the concerned officials and employees to refund the excess payment of their travelling expenses.\n\nMoving forward, the LCE and other responsible officials/personnel should strictly observe the above mentioned laws and regulations.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some payments are still processed by the OIC-Accountant."
+    },
+    {
+      "id": "Maslog_EaSamar-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommend that the Local Chief Executive direct the :\n\na.\tpersonnel concerned to meticulously plan the procurement of the projects funded out of the BUB/GPBP to ensure that they are implemented within the timelines;\n b.\tMunicipal Accountant to submit the Memorandum of Agreement ;\n c.\tInstall the community billboard for the BUB Funds downloaded and provide a picture;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommend that the LGU provide for the 1% LCPC funding allocation in their CY 2018 Annual Budget, and all years thereon.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2018-PY9",
+      "year": 2018,
+      "recommendation": "We recommend that Local Chief Executive fill the funded plantilla positions already in accordance with RA 7160 and the CSC Rules; and hire competent staff with the basic knowledge and competence to carry on their work to ensure operational efficiency.",
+      "managementAction": "Already submitted to CSC the list of vacant positions for posting",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "No response yet from applicants."
+    },
+    {
+      "id": "Maslog_EaSamar-2018-PY10",
+      "year": 2018,
+      "recommendation": "Require the concerned officials and employees to liquidate immediately their outstanding cash advances in accordance with Accounting Circular No. 2006-001 and COA Circular No. 97-002, otherwise, withhold payments of any money due them in accordance with Section 5.9 of COA Circular No. 97-002 and Section 37 of PD 1445.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some Cash Advances pertaining to current year has already been liquidated but for prior years cash advances of some mun. officials and employees were not liquidated because some of them are already not in gov’t service."
+    },
+    {
+      "id": "Maslog_EaSamar-2018-PY11",
+      "year": 2018,
+      "recommendation": "We recommend that management should stop charging expenditures that are operating and administrative in nature against the 20% Development Fund. We also recommend that the Municipal Mayor thru the Municipal Development Council include in their Annual Investment Plan (AIP) those programs and projects that are specifically included in the DILG-DBM Joint Circular No. 2011-1 to ensure the attainment of desirable , social , economic and environmental outcomes for the  constituents.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2018-PY12",
+      "year": 2018,
+      "recommendation": "We recommend that:\n\na. The Municipal Mayor include in the Local Solid Waste Management board a representative from the manufacturing or packaging industry.  \n\nb.  The Local solid \nWaste Management Board revise the current Solid Waste Management Plan to incorporate the requirements of RA9003 and submit it to the National Solid Waste Commission for approval.                  \n\nc. The dumpsite be closed permanently and rehabilitated immediately. \n\nd.  The Local Solid Waste Management Board intensity the information drive regarding the proper segregation of solid waste and corresponding fines and penalties for non-compliance\ne. The LGU avail fund assistance from National Solid Waste Management Commission to augment fund for the procurement of land intended for a complaint final disposal site and Material Recovery Facility installation.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reiterated in this Report. \n\nWaste segregation at source is not closely monitored."
+    },
+    {
+      "id": "Maslog_EaSamar-2018-PY13",
+      "year": 2018,
+      "recommendation": "Management should follow strictly the provisions of RA 9184 and its IRR and the provision of GPPB Resolution No. 018-2006 in the implementation of their programs or  projects so that they could assure a reasonable project cost and the possible savings could be used in other prioritized projects.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommend that Local Chief Executive require the:\na. Municipal General Services Officer / Property Custodian to submit a Report of\nthe Physical Inventory of the Property, Plant and Equipment for the year 2017\nand to maintain updated Property Cards as prescribed by Section 119 & 124 of\nCOA Circular 2002-003;\nb. Yearly conduct of physical count of PPE as mandated by law;\nc. Municipal Accountant to maintain Property, Plant and Equipment Ledger\nCards, Real Property Ledger Cards as prescribed by Section 119, 120 of COA\nCircular 2002-003.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommend that the Local Chief Executive to direct the Municipal\nAccountant to immediately submit all the lacking disbursement vouchers and\nsupporting documents, as well as the cancelled checks. This is without prejudice to\nany notices of suspension, charges or disallowances that may be issued as a result\nof our audit.\nEnsure that all disbursement vouchers/supporting documents and copies of\nthe checks be submitted on a regular and timely basis.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recommend that the Local Chief Executive direct the Municipal\nAccountant to immediately submit the lacking supporting documents. Stop the\npractice of paying without complete supporting documents.\nThis is without prejudice to any disallowances that may be issued, if warranted",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We recommend that the Local Chief Executive to direct the Municipal Accountant\nto :\na. For the consumed cellcards, submit immediately the list of recipient for\ncellcards with the corresponding positions and signatures and a certification\nfrom the LCE that all calls and text are official.\nb. Management make a policy guidelines (within the bounds of the law) for the\nissuance of cellcards and ensure its strict compliance to avoid disallowance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommend that the Local Chief Executive meticulously plan the\nprocurement of the PPAs funded out of 20% Development Fund and to consider\nthe important development projects in their budget proposal to ensure its\nimplementation in accordance with the provisions of JMC 2017-1.\nEnsure that the unimplemented AIPs are completely implemented in the\nsucceeding year, otherwise, submit a justification for its non-implementation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We recommend that the LCE direct the concerned officials and employees to\nrefund the excess payment of their travelling expenses.\nMoving forward, the LCE and other responsible officials/personnel should strictly\nobserve the above mentioned laws and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2017-OBS7",
+      "year": 2017,
+      "recommendation": "We recommend that the Local Chief Executive direct the :\na. personnel concerned to meticulously plan the procurement of the\nprojects funded out of the BUB/GPBP to ensure that they are\nimplemented within the timelines;\nb. Municipal Accountant to submit the Memorandum of Agreement ;\nc. Install the community billboard for the BUB Funds downloaded and\nprovide a picture;\nMoving forward, the Management should ensure that that all Fund\nTransfers from the National Government Agencies is provided by a Memorandum\nof Agreement and a copy thereof should be furnished the audit team.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2017-OBS8",
+      "year": 2017,
+      "recommendation": "We recommend that the Local Chief Executive provide for the 1% LCPC funding\nallocation in their CY 2018 Annual Budget, and all years thereon.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2017-OBS9",
+      "year": 2017,
+      "recommendation": "We recommend that the Local Chief Executive fill the funded plantilla positions\nalready in accordance with RA 7160 and the CSC Rules; and hire competent staff with\nthe basic knowledge and competence to carry on their work to ensure operational\nefficiency",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2017-PY1",
+      "year": 2017,
+      "recommendation": "Require the\nMunicipal Accountant to\nmaintain properly and\ncompletely the\nrelated subsidiary\nledgers for the Cash\nin Bank accounts and\nsubmit immediately\nthe Bank\nReconciliation\nStatements with related\nsupporting documents, so\nthat all reconciling\nitems can be\nproperly/accurately\naccounted for.\nHenceforth the\nmonthly Bank\nReconciliation\nStatements should be\nsubmitted within the\nreglementary period\nfor verification\npurposes, pursuant to\nSection 74 of P.D.\n1445 and Sec. 3.2 of\nCOA Circular No.\n96-011.",
+      "managementAction": "Not Reiterated in this\nReport",
+      "status": "IMPLEMENTED",
+      "reason": "late receipt of the Bank bank statement\nReconciliation from LBP and\npaid\nchecks and other\nsupporting documents"
+    },
+    {
+      "id": "Maslog_EaSamar-2017-PY2",
+      "year": 2017,
+      "recommendation": "Management should\n(a) require the\nMunicipal Accountant\n(a) provide for\ndepreciation expense\nfor all depreciable\nproperties; (b) create\nan Inventory Team to\nconduct physical count of\nall properties and submit\nthe report in\naccordance with\nSection 156 of COA\nCircular No. 92-386;\n(c)require the\nMunicipal General\nService Officer or the\nMunicipal Treasurer to\nmaintain and\nupdate Property\nCards and reconcile\nthe records with the\nAccountant.",
+      "managementAction": "On the process of\ncompleting PPE physical\nInventory",
+      "status": "IMPLEMENTED",
+      "reason": "Still on the process of\nconducting\nInventory\nprocess of\nproperties\nare not complete.\nData’s\nare not complete."
+    },
+    {
+      "id": "Maslog_EaSamar-2017-PY3",
+      "year": 2017,
+      "recommendation": "Require the concerned\nofficials and employees to\nliquidate immediately\ntheir outstanding cash\nadvances in\naccordance with\nAccounting Circular\nNo. 2006-001 and\nCOA Circular No.\n97-002, otherwise,\nwithhold payments of\nany money due them\nin accordance with\nSection 5.9 of COA\nCircular No. 97-002\nand Section 37 of PD\n1445.",
+      "managementAction": "Partially Implemented",
+      "status": "IMPLEMENTED",
+      "reason": "Some Cash Advances\npertaining to current year has\nalready been liquidated but for\nprior years cash advances of\nsome mun.\nofficials and employees were\nnot liquidated because some of\nthem are already not in gov’t\nservice."
+    },
+    {
+      "id": "Maslog_EaSamar-2017-PY4",
+      "year": 2017,
+      "recommendation": "We recommend that the\nMunicipal Accountant\ndesignate and such\nother responsible\nofficials having\nadministrative control\nover their respective\ndepartment funds, to\nstrictly observe the\nabove mentioned\nlaws and regulations.\nLikewise, require the\nconcerned officials\nand employees to\nrefund immediately\nthe excess payment of\ntheir traveling\nexpenses.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2017-PY5",
+      "year": 2017,
+      "recommendation": "We recommend that the\nmanagement stop\ncharging expenditures\nthat are operating and\nadministrative in nature\nagainst the 20%\nDevelopment Fund. We\nalso recommend that the\nMunicipal Mayor thru\nthe Municipal\nDevelopment Council\ninclude in their\nAnnual Investment\nPlan (AIP) those\nprograms and projects\nthat are specifically\nincluded in the DILG-\nDBM Joint Circular No.\n2011-1 to ensure the\nattainment of\ndesirable , social ,\neconomic and\nenvironmental\noutcomes for the\nconstituents.",
+      "managementAction": "Partially Implemented",
+      "status": "IMPLEMENTED",
+      "reason": "Some MOOE expenses are no\nlonger charge to the\n20% Dev. Fund."
+    },
+    {
+      "id": "Maslog_EaSamar-2017-PY6",
+      "year": 2017,
+      "recommendation": "We recommend that\nLDRRM Fund should be\nutilized only to support\ndisaster risk\nmanagement\nactivities in\naccordance with the\napproved Annual\nInvestment Program\nand LDRRM Plan and\nstop charging to the\nfund expenditures\nthat are considered\nregular maintenance\nand operating\nexpenses.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": "LDRRM Fund should be\nutilized only to support disaster risk\nmanagement"
+    },
+    {
+      "id": "Maslog_EaSamar-2017-PY7",
+      "year": 2017,
+      "recommendation": "We recommend that:\n(a) The Municipal Mayor\ninclude in the Local Solid\nWaste Management\nBoard a representative\nfrom the manufacturing\nor packaging industry.\n(b) The Local solid\nWaste Management\nBoard revise the\ncurrent Solid Waste\nManagement plan to\nincorporate the\nrequirements of RA\n9003 and submit it to\nthe National Solid\nWaste Commission for\napproval.\n(c) The dumpsite be\nclosed permanently and\nrehabilitated\nimmediately.\n(d) The Local Solid\nWaste Management\nBoard intensify the\ninformation drive\nregarding the proper\nsegregation of solid\nwaste and revised\nsolid waste mgt.\nordinance.\n(e) The LGU avail fund\nassistance from the\nNational Solid Waste\nManagement Commission\nto augment fund for\nthe procurement of\nland intended for a\ncomplaint final\ndisposal site and\nMaterial Recovery\nFacility installation.",
+      "managementAction": "Partially Implemented",
+      "status": "IMPLEMENTED",
+      "reason": "No recycling and\nManufacturing\nindustry present\nin the locality.\nWas already\nimplemented\nNo open\ndumpsite since\n2007, all open\ndumpsite were\nclosed\npermanently."
+    },
+    {
+      "id": "Maslog_EaSamar-2017-PY8",
+      "year": 2017,
+      "recommendation": "Management should\nstrictly follow the\nprovisions of RA 9184\nand its IRR and the\nprovision of GPPB\nResolution No. 018-2006\nin the implementation\nof their programs or\nprojects so that they\ncould assure a\nreasonable project\ncost and the possible\nsavings could be used\nin other prioritized\nprojects.",
+      "managementAction": "Partially Implemented",
+      "status": "IMPLEMENTED",
+      "reason": "Pakyaw contract were\napplied for labor only and by-\nadministration program"
+    },
+    {
+      "id": "Maslog_EaSamar-2017-PY9",
+      "year": 2017,
+      "recommendation": "Management should\nstrictly observe the\nprovisions of COA-\nDBM-DILG-GCG-DND\nJoint Circular No.\n2015-01 for the\nentitlement, release ,\nuse and reporting\nrequirements of\nconfidential and/or\nintelligence fund,\nspecifically on the\nsubmission of cash\nadvance vouchers and\nsupporting documents\nto the Audit Team\nLeader within 7 days\nafter the release of\ncheck.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2017-PY10",
+      "year": 2017,
+      "recommendation": "Require the BAC/Municipal\nGeneral Service Officer to\nfurnish the Audit Team\nwith copies of approved\ncontracts/purchase\norders within five days\nupon approval thereof\nin order to implement a\nsystematic and effective\nreview to generating\ntimelyand relevant audit\nresults.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": "No monthly,\nno quarterly,\nno pre-closing TB"
+    },
+    {
+      "id": "Maslog_EaSamar-2017-PY11",
+      "year": 2017,
+      "recommendation": "Management should\nalign their GAD Plan\nand programs with\nthe Philippines Plan\nfor Gender-Responsive\nDevelopment intended\nto address gender\nissues prevailing in the\nMunicipality of\nMaslog. Designate a\nGAD Focal Person and\nGAD Technical\nWorking group that\nwill identify gender\nissues prevailing in\nthe Municipality and\nundertake activities to\naddress the issues\nidentified. Prepare the\nAnnual Gender and\nDevelopment (GAD)\nPlan and Budget the\nAnnual GAD\nAccomplishment\nReport in accordance\nwith the template\nprescribed in the\nPCW-NEDA-DBM Joint\nCircular No. 2012-01.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2017-PY12",
+      "year": 2017,
+      "recommendation": "Direct the LGU officials\nconcerned to submit\nimmediately the above\nlisted reports with\ncomplete supporting\ndocuments. Henceforth,\nstrictly comply the\naforecited provisions of\nthe law and regulations\nand impose the applicable\nadministrative and\npenal sanctions provided\nfor by the said provisions\nagainst the erring\nofficials if warranted\nunder circumstances.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2016-PY4",
+      "year": 2016,
+      "recommendation": "Management should follow strictly the provisions of RA9184 and its IRR and the provision of GPPB Resolution No. 018-2006 in the implementation of programs or projects so that they could assure a reasonable project cost and the possible savings could be used in other prioritized projects.",
+      "managementAction": "Not Implemented",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Pakyaw contract were made for labor only and with small amount of materials which may result to the delay of projects if thru the procurement process."
+    },
+    {
+      "id": "Maslog_EaSamar-2016-PY5",
+      "year": 2016,
+      "recommendation": "Disbursement vouchers and supporting documents for confidential and/or intelligence fund should be submitted to the Audit Team Leader within 7 days after release of check in accordance with COA-DBM-DILG-DND Joint Circular No. 2015-01 for the entitlement, release, use and reporting requirements of confidential and/or intelligence fund.",
+      "managementAction": "Not Implemented",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Cash Advances for intelligence fund were not submitted to Audit Team within 7 days after release of check."
+    },
+    {
+      "id": "Maslog_EaSamar-2016-PY6",
+      "year": 2016,
+      "recommendation": "Require the Municipal Accountant to submit immediately the lacking supporting document to the Audit Team for review. Henceforth, the Local Chief Executive should require the Municipal accountant and Municipal Treasurer to pay only those claims with complete and appropriate documents as required per COA Circular 2012-001 dated June 14, 2012.",
+      "managementAction": "Not Implemented",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lacking documents still not yet submitted."
+    },
+    {
+      "id": "Maslog_EaSamar-2016-PY7",
+      "year": 2016,
+      "recommendation": "Require the BAC/Municipal General Services Office to furnish the Audit Team with copies of approved contracts/purchase orders within five days upon approval thereof in order to implement a systematic and effective review process with a view to generating timely and relevant audit results.",
+      "managementAction": "Not Implemented",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Required documents not submitted within the reglementary period."
+    },
+    {
+      "id": "Maslog_EaSamar-2016-PY10",
+      "year": 2016,
+      "recommendation": "We recommend that the local chief executive institute measures as a policy, to ensure quarterly, monthly, no officials and employees of the municipality faithfully discharges their duties and functions as provided for under Section 444, sub-section b.1 (x) of R.A. No. 7160. In this regard, he should compel the Municipal Accountant to prepare and submit the Financial Statements, schedules and other financial reports within the prescribed period pursuant to Section 41 (2) of P.D No. 1445. Initiate disciplinary measures against all erring executives, officials, and employees of the municipality who failed to discharge their duties and functions faithfully as provided for under Section 444, sub-section b.1 (x) of R.A. No. 7160.",
+      "managementAction": "Not Implemented",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Lack of personnel; monthly submission from the treasurer’s office such as Disbursement Vouchers were submitted but not on time."
+    },
+    {
+      "id": "Maslog_EaSamar-2016-OBS1",
+      "year": 2016,
+      "recommendation": "Require the Municipal Accountant to maintain properly and completely the related\nsubsidiary ledgers for the Cash in Bank accounts and submit immediately the Bank\nReconciliation Statements for all bank accounts with complete supporting documents such\nas Bank Statements, paid checks and other related documents, so that all reconciling items\ncan be properly/accurately accounted for. Henceforth the monthly Bank Reconciliation\nStatements should be submitted within the reglementary period for verification purposes,\npursuant to Section 74 of P.D. 1445 and Sec. 3.2 of COA Circular No. 96-011.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We recommend that: (a) require the Municipal Accountant to provide for\ndepreciation expense for all depreciable properties, (b) create an Inventory Team\nto conduct a complete and proper physical count of all properties of the\nMunicipality in accordance with Section 156 of COA Circular No. 92-386, (b)\nrequire the Municipal General Services Officer or the Municipal Treasurer to\nsubmit physical inventory report of the PPE every year as mandated by law, and\nto maintain and update the Property Cards and reconcile the records with the\nAccountant.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommend that the Municipal Mayor direct the concerned officials and\nemployees to liquidate immediately their outstanding cash advances in accordance\nwith Accounting Circular No. 2006-001 and COA Circular No. 97-002, otherwise,\nwithhold payments of any money due them in accordance with Section 5.9 of COA\nCircular No. 97-002 and Section 37 of PD 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We recommend that the Municipal Accountant-Designate and such other responsible\nofficials having administrative control over their respective department funds, to strictly\nobserve the above mentioned laws and regulations. Likewise, require the concerned\nofficials and employees to refund immediately the excess payment of their travelling\nexpenses.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2016-PY1",
+      "year": 2016,
+      "recommendation": "Require the Municipal Accountant to maintain properly and completely the related subsidiary ledgers for the Cash in Bank accounts and submit immediately the Bank Reconciliation Statements, paid checks and other related documents, so that all reconciling items can be properly/accurately accounted for. Henceforth the monthly Bank Reconciliation Statements should be submitted within the reglementary period for verification purposes, pursuant to Section 74 of P.D. 1445 and Sec. 3.2 of COA Circular No. 96-011.",
+      "managementAction": "Implement this Report ed",
+      "status": "UNKNOWN",
+      "reason": "The Municipal Accountant did not prepare the bank reconciliation statement due to late receipt of bank statement and lack of personnel to handle the reconciliation."
+    },
+    {
+      "id": "Maslog_EaSamar-2016-PY2",
+      "year": 2016,
+      "recommendation": "Management should (a) require the Municipal Accountant to provide for depreciation expense for all depreciable properties; (b) create an Inventory Team to conduct physical count of all properties of the municipality in accordance with Section 156 of COA Circular No. 92-386; (b) require the Municipal General Service Officer or the Municipal Treasurer to submit physical inventory report of the PPE every year as mandated by law, and to maintain and update the Property Cards and reconcile the records with the Accountant.",
+      "managementAction": "On the process of completing PPE physical Inventory",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Still on the process of completing PPE."
+    },
+    {
+      "id": "Maslog_EaSamar-2016-PY3",
+      "year": 2016,
+      "recommendation": "Require the concerned officials and employees to liquidate current year outstanding cash advances immediately in accordance with Accounting Circular No. 2006-001 and COA Circular No. 97-002, otherwise, withhold payments of any money due them in accordance with Section 5.9 of COA Circular No. 97-002 and Section 37 of PD 1445.",
+      "managementAction": "Partially Implemented",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some Cash Advances pertaining to current year has already been liquidated but for prior years cash advances of some municipal officials and employees were not liquidated because some of them are already not in government service."
+    },
+    {
+      "id": "Maslog_EaSamar-2016-PY8",
+      "year": 2016,
+      "recommendation": "Require the Municipal Accountant immediate submission of all financial reports with complete supporting documents. Henceforth, management should see to it that section 7.2.1 paragraph (a) of COA Circular No. 2009-006 and Section 347 of RA 7160 be strictly complied, by close coordination and follow-ups with the concerned responsible officers/employees.",
+      "managementAction": "Partially Implemented",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Delayed submission of reports from the treasurer’s office such as Disbursement Vouchers, RCI etc."
+    },
+    {
+      "id": "Maslog_EaSamar-2016-PY9",
+      "year": 2016,
+      "recommendation": "Require the local chief executive to designate a GAD Focal Person and GAD Technical Working Group that will identify gender issues prevailing in the Municipality and undertake activities to address the issues identified. Management should also prepare the Annual Gender and Development (GAD) Plan and Budget and the Annual GAD Accomplishment Report in accordance with the template prescribed in the PCW-NEDA-DBM Joint Circular No. 2012-01.",
+      "managementAction": "Partially Implemented",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "GAD Plan prepared but GAD Accomplishment Report not prepared in accordance with the prescribed format."
+    },
+    {
+      "id": "Maslog_EaSamar-2016-PY11",
+      "year": 2016,
+      "recommendation": "Require the BAC Chairman, Municipal Engineer and Municipal Accountant to submit immediately the approved contracts with their supporting documents to the Audit Team for purposes henceforth, management should see to it that Provision of RA 9184 be strictly followed/completed by full coordination/supervision of all concerned officers.",
+      "managementAction": "Partially Implemented",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some contract documents were still not submitted."
+    },
+    {
+      "id": "Maslog_EaSamar-2016-PY12",
+      "year": 2016,
+      "recommendation": "Require the Municipal Accountant to submit list of cellcards with the corresponding positions and signatures. Likewise, require them to submit their certification that all calls and text are official. Henceforth, management should see to it that the provisions of law especially on section 4 part 2 and 6 of PD 1445 and COA Circular 2012-001 dated June 14, 2012 be strictly followed.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Maslog_EaSamar-2016-PY13",
+      "year": 2016,
+      "recommendation": "We recommend that management should implement the Ecological Solid Waste Management Act of 2000 by including it in the Annual Budget, create Municipal Solid Waste Management Board and coordinate with the Provincial Solid waste Management Board for the programs and projects to be undertaken.",
+      "managementAction": "Partially Implemented",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reiterated in this Report."
+    },
+    {
+      "id": "Maslog_EaSamar-2016-PY14",
+      "year": 2016,
+      "recommendation": "Direct the LGU officials concerned to submit immediately the above listed reports with complete supporting documents. Henceforth, strictly comply the aforecited provisions of the law and regulations. Management should impose the applicable administrative and penal sanctions provided for by the said provisions against the erring officials if warranted under circumstances.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    }
+  ]
+}

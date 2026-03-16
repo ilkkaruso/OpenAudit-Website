@@ -1,0 +1,1686 @@
+{
+  "lguCode": "600401000",
+  "lguName": "Altavas",
+  "province": "Aklan",
+  "region": "Region V (Bicol Region)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-PY2",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to require the concerned personnel to exert effort to retrieve records or other alternative documents to substantiate the existence and correctness of accounts. Conduct periodic physical inventory of supplies and materials which shall be reported in the Report of the Physical Count of Inventories (RPCI) and submitted to the Auditor not later than July 31 and January 31 of each year for the first and second semesters, respectively. Make necessary adjustments, if warranted.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Ongoing Reconciliation – These are forwarded balances form previous financial report for over 10 years"
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-PY6",
+      "year": 2024,
+      "recommendation": "We recommended that the Office of the Mayor propose the creation of the GSO to the Sangguniang Bayan and appoint a permanent General Services Officer in accordance with the qualification cited in Section 490(a) of RA 7160 and the Civil Service laws, rules and regulations.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "LGUs available resources is not enough for the creation of the position"
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-PY7",
+      "year": 2024,
+      "recommendation": "We recommended that and the Management agreed that:\n\nManagement maintain property and subsidiary ledger cards and prepare/reconcile same with the RPCPPE;\n\nManagement appropriate fund for the titling of all land; \n\nThe LCE direct the Municipal Assessor̕ s Office to exert effort in titling the land owned by the Municipality; and\n\nThe LCE require the Accounting Office to set up and maintain complete accounting records.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-OBS1",
+      "year": 2024,
+      "recommendation": "1.9\tWe recommended and Management agreed to the following:\na.\tUpdate or recreate Inventory Committee and mobilize additional competent personnel from other departments as members and completely conduct physical count of Inventory of the Municipality’s PPE annually and submit to the Office of the Auditor the duly accomplished RPCPPE of all PPE accounts;\nb.\tDirect the Municipal Accountant and designate General Services Officer reconcile and analyze the difference between ledger and RPCPPE report and effect necessary adjustments;\nc.\tRequire the Municipal Accountant and the GSO maintain Property, Plant and Equipment Ledger Cards (PPELC) and Property Cards for each group of PPEs, respectively and reconciliation between these two records shall be undertaken regularly;\nd.\tRequire the Municipal Accountant and the GSO to start the reclassification process of the properties that have cost of ₱50,000.00 and below. The Municipal Accountant likewise make necessary adjustments by: a) debiting Prior Period Adjustments and crediting appropriate PPE account for reclassification; and b) debiting Accumulated Depreciation and crediting Prior Period Adjustments for closing of previously recognized accumulated depreciation;\ne.\tRequire the Municipal Accountant and GSO that the existing AREs of properties that cost ₱50,000.00 and below, except for low-valued semi-expendable property shall be replaced by ICS; and\nf.\tIn response to COA Circular No. 2020-006 dated January 31, 2020, create an Inventory Committee for the sole purpose of conducting a one-time cleansing of the Municipality’s PPE which shall be composed of adequate number of members to be able to complete the physical inventory.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-OBS2",
+      "year": 2024,
+      "recommendation": "2.10\tWe recommended and the Management agreed that the Accounting Office exert extra effort to look for the available documents of the unidentified beginning balances of CIP account and make necessary adjustments thereafter that includes:\nRecognizing PPE and Payable to completed but unpaid project cost at year-end;\nReclassifying all completed projects from CIP to their appropriate asset accounts; and\nc.\tRecognizing Depreciation Expense.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-OBS3",
+      "year": 2024,
+      "recommendation": "3.8\tWe recommended and the Management agreed to direct:\na.\tThe Municipal Accountant investigate the dormant and unidentified balances of the Due to NGAs account to determine its nature, specific purpose and the source agency from which the funds were received. Thereafter, facilitate evaluation to determine whether the corresponding projects have been implemented and return the unused funds to the source agency, if warranted;\nb.\tThe Municipal Treasurer return to the Source Agency any unutilized funds which are no longer needed after the completion of the specific programs and projects pursuant to Item 4.9 of COA Circular No. 94-013 dated December 13, 1994; and\nc.\tThe responsible Department Heads furnish the Audit Team with copies of Memorandum of Agreement and supporting documents, for review and evaluation of the terms and conditions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-OBS4",
+      "year": 2024,
+      "recommendation": "4.8\tWe recommended and the Management agreed to the following:\nExert effort through the General Services Office to reconstruct and update its property cards and reconcile with accounting records to facilitate the setting up and periodic provision of depreciation for those depreciable assets not provided with depreciation; and\nRequire the Municipal Accountant to compute the correct depreciation expenses of its assets and a journal entry must be drawn to update/correct the accumulated depreciation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-OBS5",
+      "year": 2024,
+      "recommendation": "5.12\tWe recommended and Management agreed to direct the Municipal Accountant:\na.\tContinue the conduct of thorough analysis of the unreconciled beginning balances: exert effort to retrieve all possible data and information of prior years; and reconcile the accounts Due from Other Funds and Due to Other Funds to determine whether all transfers of funds are authorized and received by other funds. Effect the necessary adjustments if appropriate to bring the affected accounts into agreement;\nb.\tEnsure that since these are reciprocal accounts, the same amount should be reflected in the book of accounts from both accounts in the given date; and\nc.\tLikewise, Municipal Accountant provides detailed information in the JEV and SL of recorded transactions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-OBS6",
+      "year": 2024,
+      "recommendation": "6.11\tWe recommend that the Local Chief Executive direct the Municipal Accountant to:\nUndertake a detailed reconciliation/analysis or investigation of the causes of the error/discrepancies of the accounts;\nCoordinate with the concerned government agencies such as GSIS and Pag-IBIG for the proper reconciliation of the amount balances due to them; and\nCause the booking up of the necessary adjustments of any error/ discrepancies noted in order to arrive at the correct balances of the accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-OBS7",
+      "year": 2024,
+      "recommendation": "7.16\tWe recommended and the Management agreed that the Municipal Accountant ensures timely recording and make sure that all transactions have been recorded in the book of accounts to arrive at the correct balance of accounts in the financial statements as of year-end.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-OBS8",
+      "year": 2024,
+      "recommendation": "8.9\tWe recommended and the Management agreed that the Municipal Accountant, for ensuing transactions, record Transfer of unexpended Quick Response Fund and Mitigation Fund-MOOE as of year-end to both General and Trust Fund Books as required in compliance with COA Circular No. 2012-002 dated September 12, 2012",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-OBS9",
+      "year": 2024,
+      "recommendation": "9.10\tWe recommended and the Management agreed to direct the Municipal Accountant:\nUndertake a thorough review and analysis of the details of the above payable accounts and regularly prepare Schedule of Accounts Payable and Other Payables to keep track of the list of all the outstanding payable, creditor/suppliers, and how much is owed to substantiate the accuracy of the amount of claim against the Municipality;\nPrepare and maintain complete subsidiary ledger and schedule/aging of Accounts Payable and ensure that the schedule is reconciled with the balance reflected on the General Ledger and the financial statement; and\nUndertake a thorough review and analysis of the dormant payables to identify outstanding invalid claims, administrative or judicial, has been filed or that are not covered by perfected contracts and make a proper presentation for its possible reversion to the General fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-OBS10",
+      "year": 2024,
+      "recommendation": "10.11\tWe recommended and the Management agreed to:\nRequire the coordination between the Municipal Accountant and the designated General Services Officer towards the full implementation of the perpetual inventory method in the recording of all Inventory Accounts to ensure proper accounting and promote better control in the receipt and issuance of supplies and materials; and\nRequire the Municipal Accountant and GSO maintain the prescribed ledger cards and stock cards, respectively, for each type of Inventory, keep track the actual Supplies Inventory on hand and reconcile the balances of the two inventory records.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-OBS11",
+      "year": 2024,
+      "recommendation": "11.9\tWe recommended and the Management agreed to direct the Municipal Accountant conduct a thorough reconciliation of the \"Due to BIR\" account to identify and correct the discrepancies. Likewise, prepare necessary adjustments of any error/ discrepancies noted to arrive at the accurate balance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-OBS12",
+      "year": 2024,
+      "recommendation": "We recommended and the Management agreed to:\nFully utilize developmental PPAs funded under 20% DF. See to it that during the preparation of the Annual Budget for 20% Development Fund includes only PPAs which are feasible and procurement-and-implementation ready that could be accomplished within the specific timeline for completion; and\nAt the end of each year, review all unimplemented projects and verify whether they can be implemented in the succeeding year. Otherwise, cause the reversion or re-alignment of the appropriated funds including those savings from previous completed PPAs so that same may be used effectively and efficiently for more appropriate priority development projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-OBS13",
+      "year": 2024,
+      "recommendation": "13.12\tWe recommend and the Local Chief Executive agreed to direct the Municipal Accountant to strictly comply with the provisions of COA Circular No. 2023-008 dated August 17, 2024 on the required analysis of dormant accounts and to comply with all the conditions and requirements of the said circular for the possible request for the write off and the proper disposal thereafter of the specified dormant receivables from the Commission on Audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-OBS14",
+      "year": 2024,
+      "recommendation": "14.6\tWe recommended and the Management agreed to direct Municipal Accountant:\nGather and file all necessary documents to substantiate the ledger balance, remit the unremitted contributions and perform a detailed reconciliation of the Due to PhilHealth account to identify and correct the discrepancies;\nAssign personnel responsible for monitoring and formally communicate with PhilHealth to obtain statements of account and resolve any discrepancies; and\nPrepare necessary adjustments of any error/ discrepancies noted.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-OBS15",
+      "year": 2024,
+      "recommendation": "15.7\tWe recommended and the Management agreed to exert effort in implementing the PPAs identified in its LDRRMFIP to increase its capabilities and preparedness to respond in case of disaster or emergencies.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-OBS16",
+      "year": 2024,
+      "recommendation": "16.16\tWe recommended and the Management agreed to require the  GAD Focal Point System to the following:\na.\tEnsures that the programs, projects, and activities are in compliance with the PCW-DILG-DBM-NEDA JMC No. 2013-001 and 2016-1 and that the same are GAD-responsive and address GAD issues; and\nb.\tRegularly update sex-disaggregated data in order to have and effective planning, budgeting and implementation of GAD PPAs of the Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-OBS17",
+      "year": 2024,
+      "recommendation": "17.5\tWe recommended and the Management agreed to require the GAD Focal Point System to prepare and complete the Municipality’s GAD Agenda 2022-2025 following the steps provided under the PCW-DILG-DBM-NEDA Joint Memorandum Circulars.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-OBS18",
+      "year": 2024,
+      "recommendation": "18.3\tWe recommended and the Management agreed to require the Sanggunian to formulate and pass a local GAD Code or ordinances with the assistance of the LGU GFPS, to support the localization of Magna Carta of Women and to ensure that GAD is mainstreamed in local policy-making and integrated in local development plans.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-PY1",
+      "year": 2024,
+      "recommendation": "We recommended and the Management agreed that the LCE requires the Municipal Accountant to:\n\nMake the necessary adjustments in the books to correct all erroneous recording/classifications noted by:\n\nFor Maintenance and Other Operating Expenses classified as Road Network, debit Prior years adjustment and credit Road Networks and CIP account:\n\nFor unrecorded Biological Assets, debit Biological Assets – Plants and Trees and Prior years adjustment with Credit to Construction in Progress- Infrastructure Assets\n\nCheck the nature and source documents for each type of transactions should be analyzed and reviewed before recording in the books of accounts to maintain reliability, accuracy, and fairness of presentation of the financial statements.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-PY3",
+      "year": 2024,
+      "recommendation": "We recommended and Management agreed to the following:\n\nTake necessary actions on the noted observations and refund the discrepancy amounting to ₱154,103.36 between the revised Contract Cost and COA Evaluated Cost from the persons liable;\n\nRequired the Contractor to cause the delivery and installation of the Automatic Sprinkle System amounting to₱0.583 million inclusive of direct and indirect costs, otherwise, said amount will be disallowed in audit; and\n\nRe-compute and impose liquidated damages that includes the remaining unperformed portion of the work after the targeted date of completion of March 20, 2022 and for the undelivered/uninstalled items for item XIV – Automated Sprinkle System.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-PY4",
+      "year": 2024,
+      "recommendation": "We recommended and the Local Chief Executive agreed to direct the focal person to review the corresponding MOA, Trust Agreement, or MU governing the utilization of funds and coordinate with the Source Agency whether the same could still be utilized for the furtherance of the objectives of the funds. Otherwise, the Municipality return the fund to Source Agencies of the option to allocate the unutilized funds for other government projects.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-PY5",
+      "year": 2024,
+      "recommendation": "We recommended and the Local Disaster Risk Reduction and Management Officer (LDRRMO) agreed to stop charging such administrative expenses (fuel) to the 5% LDRRMF in pursuant to the provisions Section 4.3 of NDRRMC, DILG, DBM and CSC Joint Memorandum Circular instead it shall be sourced from the General Fund of the Municipality.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "09-Region-VI__Municipalities__Aklan__Altavas_Aklan-2024-PY8",
+      "year": 2024,
+      "recommendation": "We recommended and the Management agreed that the Solid Waste Management Office continuously coordinate with the concerned barangays to prioritize and facilitate the establishment of functional MRFs as required under Section 32 of RA 9003 to help achieve the municipality’s commitment towards sustainable development and implementation of environmentally sound and safe management of its solid waste.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Aklan__Altavas_Aklan-2023-PY6",
+      "year": 2023,
+      "recommendation": "We recommended and the Local Chief Executive agreed to direct the Municipal Accountant to strictly comply with the provisions of COA Circular No. 2016-005 dated December 19, 2016 on the required analysis of dormant accounts and to comply with all the conditions and requirements of the said Circular for the possible request for the write off of the specified dormant receivables from the Commission on Audit.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No request for write off was received\n\nNo disclosure in the in the Noted to Financial Statements because reconciliation is still ongoing"
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Aklan__Altavas_Aklan-2023-PY7",
+      "year": 2023,
+      "recommendation": "Undertake a detailed reconciliation/analysis or investigation of the causes of the error/discrepancies of the accounts; \n\nCoordinate with the concerned government agencies such as GSIS, Pag-ibig and Philhealth for the proper reconciliation of the amount balances due to them; and\n\nCause the booking up of the necessary adjustments of any error/discrepancies noted in order to arrive at the correct balances of the accounts.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not Implemented\n\nOn-going Reconciliation\n\nStill looking for available records"
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Aklan__Altavas_Aklan-2023-PY8",
+      "year": 2023,
+      "recommendation": "We recommended that the Office of the Mayor propose the creation of the GSO to the Sangguniang Bayan and appoint a permanent General Services Officer in accordance with the qualification cited in Section 490(a) of RA 7160 and the Civil Service laws, rules and regulations.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "As to date, no such position was created due to PS Limitation."
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Aklan__Altavas_Aklan-2023-PY9",
+      "year": 2023,
+      "recommendation": "Management maintain property and subsidiary ledger cards and prepare/reconcile same with the RPCPPE;\n\nManagement appropriate fund for the titling of all land; \n\n\nThe LCE direct the Municipal Assessor̕ s Office to exert effort in titling the land owned by the Municipality; and\n\nThe LCE require the Accounting Office to set up and maintain complete accounting records.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not Implemented The accounting office has partially maintained ledger cards.\n\nNot Implemented\n\nManagement did not appropriate fund for the titling of all land.\n\nNot Implemented\n\nNo fund appropriated for the titling.\n\nNot Implemented\n\nThe Accounting Office to set up partial accounting records."
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Aklan__Altavas_Aklan-2023-PY10",
+      "year": 2023,
+      "recommendation": "Revert to the General Fund the accounts payable which have been outstanding for two years or more against which no actual claim, has been filed or which are not covered by perfected contract on records; and, \n\nConduct periodic review to ensure that the Accounts Payable account consist only of valid and legitimate claims against the Municipal Government.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not Implemented Reconciliation of Accounts is ongoing."
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Aklan__Altavas_Aklan-2023-PY11",
+      "year": 2023,
+      "recommendation": "We recommended that the Solid Waste Management Office continuously coordinate with the concerned barangays to prioritize and facilitate the establishment of functional MRFs as required under Section 32 of RA 9003 to help achieve the municipality’s commitment towards sustainable development and implementation of an environmentally sound and safe management of its solid waste.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "As per verification 13 out of 14 barangays have MRF."
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Aklan__Altavas_Aklan-2023-OBS1",
+      "year": 2023,
+      "recommendation": "1.22 \tWe recommended and Management agreed to the following:\nUpdate or recreate Inventory Committee and mobilize additional competent personnel from other departments as members and completely conduct physical count of Inventory of the Municipality’s PPE annually and submit to the Office of the Auditor the duly accomplished RPCPPE of all PPE accounts;\nDirect the Municipal Accountant and designate General Services Officer reconcile and analyze the difference between ledger and RPCPPE report and effect necessary adjustments;\nRequire the Municipal Accountant and the Designate GSO-Designate maintain Property, Plant and Equipment Ledger Cards (PPELC) and Property Cards for each group of PPEs, respectively and reconciliation between these two records shall be undertaken regularly;\nRequire the Accounting Office exert extra effort to look for the available documents of the unidentified beginning balances of CIP account and make necessary adjustments thereafter;\nTo require the Municipal Accountant reclassify the fully completed projects with cost aggregating to ₱39.723 million from CIP to its appropriate Asset account; and\nIn response to COA Circular No. 2020-006 dated January 31, 2020, create an Inventory Committee for the sole purpose of conducting a one-time cleansing of the Municipality’s PPE which shall be composed of adequate number of members to be able to complete the physical inventory.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Aklan__Altavas_Aklan-2023-OBS2",
+      "year": 2023,
+      "recommendation": "2.9\tWe recommended and Management agreed to the following:\nMunicipal Accountant examine the unidentified beginning balances of the Due to NGAs account and exert effort to recover documents that will determine the nature, specific purpose, source agency and other information of the unidentified Due to NGAs account/balances. Thereafter, facilitate evaluation to determine whether the corresponding projects have been implemented and return the unused funds to the source agency, if warranted;\nMunicipal Accountant and Municipal Treasurer cause the refund of the excess amount of completed projects and idle/unutilized amount to the concerned SAs in compliance with COA Circular No. 94-013 dated December 13, 1994 and with the MOA; and\nEffect proper adjustments for deficiencies noted and errors uncovered to reflect the correct account balances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Aklan__Altavas_Aklan-2023-OBS3",
+      "year": 2023,
+      "recommendation": "3.8\tWe recommended and Management agreed:\nExert effort through the General Services Office to reconstruct and update its property cards and reconcile with accounting records to facilitate the setting up and periodic provision of depreciation for those depreciable assets not provided with depreciation; and\nRequire the Municipal Accountant to compute the correct depreciation expenses of its assets and a journal entry must be drawn to update/correct the accumulated depreciation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Aklan__Altavas_Aklan-2023-OBS4",
+      "year": 2023,
+      "recommendation": "4.14\tWe recommended and management agreed to require the Municipal Accountant to:\nMake the necessary adjustments in the books to correct all erroneous recording/classifications noted:\nFor Maintenance and Other Operating Expenses classified as Road Network, debit Prior years adjustment and credit Road Networks and CIP account;\nFor unrecorded Biological Assets, debit Biological Assets – Plants and Trees and Prior years adjustment with Credit to Construction in Progress- Infrastructure Assets; and\nCheck the nature and source documents for each type of transactions should be analyzed and reviewed before recording in the books of accounts to maintain reliability, accuracy, and fairness of presentation of the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Aklan__Altavas_Aklan-2023-OBS5",
+      "year": 2023,
+      "recommendation": "5.8\tWe recommended and the OIC Municipal Accountant agreed to continue to conduct a thorough analysis of the unreconciled beginning balances, exert effort to retrieve all possible data and information of prior years and reconcile the accounts Due from Other Funds and Due to Other Funds to determine whether all transfers of funds are authorized and received by other funds. Effect the necessary adjustment if appropriate to bring the affected accounts into agreement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Aklan__Altavas_Aklan-2023-OBS6",
+      "year": 2023,
+      "recommendation": "6.10\tWe recommended and both the Municipal Accountant and the designate General Services Officer agreed to the following:\nTheir coordination towards the full implementation of the perpetual inventory method in the recording of all Inventory Accounts to ensure proper accounting and promote better control in the receipt and issuance of supplies and materials; and\nMaintain the prescribed ledger cards and stock cards, respectively, for each type of Inventory, keep track the actual Supplies Inventory on hand and reconcile the balances of the two inventory records.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Aklan__Altavas_Aklan-2023-OBS7",
+      "year": 2023,
+      "recommendation": "7.4\tWe recommended and Management agreed to require the concerned personnel to exert effort to retrieve records or other alternative documents to substantiate the existence and correctness of accounts. Conduct periodic physical inventory of supplies and materials which shall be reported in the Report of the Physical Count of Inventories (RPCI) and submitted to the Auditor not later than July 31 and January 31 of each year for the first and second semesters, respectively. Make necessary adjustments, if warranted.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Aklan__Altavas_Aklan-2023-OBS8",
+      "year": 2023,
+      "recommendation": "8.12\tWe recommended and Management agreed to the following:\nTake necessary actions on the noted observations and refund the discrepancy amounting to ₱154,103.36 between the revised Contract Cost and COA Evaluated Cost from the persons liable;\nRequired the Contractor to cause the delivery and installation of the Automatic Sprinkle System amounting to₱0.583 million inclusive of direct and indirect costs, otherwise, said amount will be disallowed in audit; and\nRe-compute and impose liquidated damages that includes the remaining unperformed portion of the work after the targeted date of completion of March 20, 2022 and for the undelivered/uninstalled items for item XIV – Automated Sprinkle System.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Aklan__Altavas_Aklan-2023-OBS9",
+      "year": 2023,
+      "recommendation": "9.9\tWe recommended and Management agreed to fully utilize developmental PPAs funded under the 20% DF. See to it that during the preparation of the Annual Budget for 20% Development Fund include only PPAs which are feasible and procurement-and-implementation ready that could be accomplished within the specific timeline for completion.\n9.10\tWe further recommended that the end of each year, review all unimplemented projects and verify whether they can be implemented in the succeeding year. Otherwise, cause the reversion or re-alignment of the appropriated funds so that same may be used effectively and efficiently for more appropriate priority development projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Aklan__Altavas_Aklan-2023-OBS10",
+      "year": 2023,
+      "recommendation": "10.6\tWe recommended and the Management agreed to review the corresponding MOA, Trust Agreement, or MU governing the utilization of funds and coordinate with the Source Agency whether the same could still be utilized for the furtherance of the objectives of the funds. Otherwise, the Municipality return the fund to Source Agencies of the option to allocate the unutilized funds for other government projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Aklan__Altavas_Aklan-2023-OBS11",
+      "year": 2023,
+      "recommendation": "11.7\tWe recommended and the Local Disaster Risk Reduction and Management Officer (LDRRMO) agreed to stop charging such administrative expenses (fuel) to the 5% LDRRMF in pursuant to the provisions Section 4.3 of NDRRMC, DILG, DBM and CSC Joint Memorandum Circular instead it shall be sourced from the General Fund of the Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Aklan__Altavas_Aklan-2023-PY1",
+      "year": 2023,
+      "recommendation": "Require the BAC to undergo procurement process in hiring consultants of which all documentary requirements needed in evaluating the qualifications of the consultants such as Professional License, Term of Reference and other requirements on the expertise and qualifications necessary for the understanding be submitted as required in Section 2 of the Revised IRR of RA 9184;\n\nRequire the Municipal Budget Officer to include Consultancy Services in the Annual Procurement Plan;\n\nRequire the Municipal Accountant to see to it that the detailed accomplishments report was attached in every claim of the consultancy services;\n\nStop hiring consultants for doing job that does not require the level of expertise of attention of a consultant but instead let the regular or job order employee with the same function of duties will do the job;\n\nRequire the Human Resource Department to make an assessment whether the purpose for hiring consultants was achieved by preparing Consultancy Progress Reports and submit the same to the Local Chief Executive. Ensure that the duties stated on COS were aligned on actual services rendered; and\n\nSee to it that all contracts and documents forming part thereof be submitted to the Office of the Auditor within five days from the date of execution.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Aklan__Altavas_Aklan-2023-PY2",
+      "year": 2023,
+      "recommendation": "We recommended and the Municipal Treasurer agreed to prepare a duly certified list showing the name of the taxpayers and the amount due and collectible based on the Assessment Roll submitted by the Municipal Assessor and submit the same to the Municipal Accountant to serve as the basis in setting up the beginning balance of RPT/SET Receivable in the books of accounts.\n\nLikewise, we recommended and the Local Chief Executive (LCE), Municipal Treasurer and other concerned Municipal Officials agreed to continue to exert concerted efforts to intensify collections Real Property Tax including the interest thereon so that more development programs may be implemented for the benefit of the constituents.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Aklan__Altavas_Aklan-2023-PY3",
+      "year": 2023,
+      "recommendation": "We recommended and the Management agreed to require the Local Disaster Risk Reduction and Management Officer (LDRRMO) to stop charging such administrative expenses to the 5% LDRRMF in pursuant to the provisions Section 4.3 of NDRRMC, DILG, DBM and CSC Joint Memorandum Circular instead it shall be sourced from the General Fund of the Municipality.  Also, see to it that the expenditures charged against the said funds are only those for the implementation of projects and activities for disaster prevention and mitigation, preparedness, response and rehabilitation, and recovery.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Aklan__Altavas_Aklan-2023-PY4",
+      "year": 2023,
+      "recommendation": "Management require the concerned personnel to subject the damaged parts of the property to pre-repair evaluation and inspections before requisition for replacement and the replaced parts to post-repair inspection by the designated LGU inspector to ascertain that the property is in operational and the part requested were all installed;\n\nRequire the preparation of Waste Material Reports for the damaged replaced part and have is inspected before disposal is made; and\n\nThe Municipal Accountant cautiously check the completeness of all the pertinent supporting documents before allowing the payment.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "09_-_Region-VI__Municipalities__Aklan__Altavas_Aklan-2023-PY5",
+      "year": 2023,
+      "recommendation": "We recommended and the Bids and Awards Committee agreed to comply strictly in the posting requirement to the PhilGEPS of Requests for Quotations with an Approved Budget for the Contract above P50,000.00 and require all suppliers/bidders to submit Omnibus Sworn Statements except for procurement with an ABC below P50,000.00 for all the subsequent transaction pursuant to the provisions of the RA 9184 and its Updated IRR. Relatively, in all succeeding transactions, the BAC shall prepare and issue Notice of Award to all winning suppliers.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "Inter-agency and Other Receivable account balances totaling P2.538 million had been dormant for over 10 years due to the unavailability of documents to validate the claim, however, no allowance for Impairment of receivables was recognized, nor these accounts were properly presented, thus, accounts were not fairly presented in the financial statements.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-PY15",
+      "year": 2021,
+      "recommendation": "The Municipality was not  able to organize  the General Services Office  (GSO),   nor a General Services Officer position was created, thus, there is no responsible employee  tasked to directly  exercise control and supervision over the Property and Supply Division causing delay in the preparation and submission of reports.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended and the Management agreed:\nTo review composition of Inventory Committee and mobilize competent and responsible personnel as members of the Inventory Committee to conduct completely physical count of the Municipality’s PPE annually, prepare reports and to submit the duly accomplished RPCPPE to the Auditor;\nTo direct the Municipal Accountant and designated General Services Officer religiously maintain the PPELC and Stock Cards/Property Cards;\nTo direct the Municipal Accountant and designated General Services Officer to reconcile and analyzed the difference between their respective and effect necessary adjustments; and\nTo instruct the Inventory and Appraisal Committee to give extra effort in determining the vital information needed of the unserviceable properties and conduct disposal process thru auction or sale thereof to generate additional income considering that the non-operating assets are subject to further deterioration and diminishing market value.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended and the Management agreed to:\nExert effort through the General Services Office to reconstruct and update its property cards and reconcile with accounting records to facilitate the setting up and periodic provision of depreciation for those depreciable assets not provided with depreciation;\nCreate an Appraisal Committee to conduct evaluation of assets whose records could not be found in order to establish the commencement of depreciation and determine the depreciable cost and estimated remaining life for the computation of the respective depreciation; and\nRequire the Municipal Accountant to compute the correct depreciation expenses of its assets and a journal entry must be drawn to update/correct the accumulated depreciation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "We recommended and the Local Chief Executive agreed to direct the Municipal Accountant to:\nPromptly draw JEVs on all book reconciling items and henceforth, regularly prepare adjustments to those items as it appears in the BRS;\nIdentify the composition of the unidentified reconciling items, locate the documents supporting the reconciling items and make presentation with the bank for the furnishing of the original copy of the debit and credit advices as the case maybe; and\nComply with Section 59 of the Manual on NGAS for LGU Volume 1 pertaining to stale checks and make proper action to effect the necessary adjustments in the books of accounts and for the former to furnish the Office of the Auditor copy(ies) of the corresponding Journal Entry Voucher/s (JEVs).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "We recommended and the Municipal Accountant agreed to record unrecorded disbursements amounting to P0.546 million and also make the necessary adjusting entries to all accounts affected.  Likewise, he should be cautious in drawing the correct journal entries of the transactions and the posting to ledger to avoid errors and deficiencies.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "We recommended and the Municipal Accountant agreed to conduct a thorough analysis of the unreconciled beginning balances and reconcile the accounts Due from Other Funds and Due to Other Funds to determine whether all transfers of funds are authorized and received by other funds and to ensure accuracy of its balances and be able to effect the necessary adjustment if appropriate to bring the affected accounts into agreement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "We recommended and the Local Chief Executive agreed to direct the Municipal Accountant to strictly comply with the provisions of COA Circular No. 2016-005 dated December 19, 2016 on the required analysis of dormant accounts and to comply with all the conditions and requirements of the said Circular for the possible request for the write off of the specified dormant receivables from the Commission on Audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "We recommended and the Management agreed to fully utilize developmental PPAs funded under the 20% DF. See to it that during the preparation of the Annual Budget for 20% Development Fund include only PPAs which are feasible and procurement-and-implementation ready that could be accomplished within the target date of completion. Also, at the end of each year, review all unimplemented projects and verify whether they can be implemented in the succeeding year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-OBS8",
+      "year": 2021,
+      "recommendation": "We recommended and the BAC Secretariat agreed to submit copy of all contracts to the Office of the Auditor within five working days from the date of perfection and each of all the documents forming part thereof as prescribed under COA Circular No. 2009-001 dated February 12, 2009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-OBS9",
+      "year": 2021,
+      "recommendation": "We recommended and the BAC Chairman and Secretariat agreed to comply strictly in the posting requirement of awarded contracts to PhilGEPS pursuant to the provisions of the RA 9184 and its Revised IRR.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-OBS10",
+      "year": 2021,
+      "recommendation": "We recommended and the management agreed to exert effort in implementing the PPAs identified in its LDRRMFIP in order to increase its capabilities and preparedness to respond in case of disaster or emergencies.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-OBS11",
+      "year": 2021,
+      "recommendation": "Management must take necessary action on the settlement of the Notices of Suspensions, Notices of Disallowance and Notices of Charge as of December 31, 2021 in the total amount of P227,651.49.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "The accuracy, completeness and condition of the Property, Plant and Equipment (PPE) amounting to P64.691 million were not established due to a) incomplete conduct of physical count and absence of the corresponding Report on the Physical Count of Property Plant and Equipment (RPCPPE); and b) non-maintenance of Property, Plant and Equipment Ledger Card (PPELC) and Stock/Property Cards.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "Depreciable Property, Plant and Equipment (PPE) amounting to P63.283 million were not provided with depreciation resulting to overstatement of PPE accounts as reflected in the Statement of Financial Position and understatement of Depreciation Expenses, hence, the accuracy and reliability of the balances of the PPE accounts could not be ascertained.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "The accuracy and reliability of Advances for Payroll and Inter-Agency Payables accounts showing negative/abnormal balances amounting to P180,199.01 and P5.367million, respectively were doubtful due to inadequacy of control measures for proper recording, monitoring and reconciliation of the accounts, hence, the correctness of the reported accounts could be doubtful.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "Monthly bank reconciliation statements on the Municipality’s depository accounts were not submitted monthly, thus casting doubt on the accuracy of the P 95.656 million Cash in Bank Account, Local Currency, Current Account affecting the accuracy of the account.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "Disbursements totaling P12.989 million did not contain basic requirements under Emergency Procurement under the Bayanihan Act, thus the legality and propriety of the transactions cannot be established.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "Compliance with the posting requirements on the updated Annual Procurement Plan (APP), Notice of Award (NOA) and other information relative to the Emergency Procurements was not strictly observed by the Management, thus accountability and transparency were not attained.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "Expenditures amountingP1.268 million were inappropriately charged against the Local Disaster Risk Reduction Management Fund (LDRRMF) thus, the objectives for the prevention and mitigation, preparedness, response, rehabilitation and recovery and for quick response may not be fully achieved.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "The management was not able to prepare and submit the Local Disaster Risk Reduction Management Fund Investment Plan (LDRRMFIP), thus appropriateness of the expenditures charged to Local Disaster Risk Reduction Management Fund (LDRRMF) totaling P8.145 million could not be assured. Moreso, information on continuing programs, projects and activities (PPAs) from prior years could not be monitored.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "Monthly Reports on Sources and Utilization of LDRRMF were submitted beyond the prescribed period to the Office of the Auditor, thus, timely verification of sources, application and expenditures of fund were not made.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "Management was not able to submit the list of all on-going and those to be implemented Projects/Programs/Activities (PPAs) at the beginning of the year, hence, monitoring and validation of the PPAs were not immediately conducted.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "The Municipality of Altavas was not able to completely comply with Documentary Requirements and other existing Rules and Regulations on Disbursements of Public Funds resulted to unsettled Notices of Suspension, Disallowance and Charge.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Unimplemented\nThe Management was not able to enforce the necessary action to enforce the NS and ND"
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "Due from Other Funds and Due to Other Funds with balance of P12.389 million and P22.157 million, respectively, or a difference of P9.768 were not reconciled, thus, casting doubt on the accuracy of the reciprocal accounts affecting its fair presentation in the financial statements.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-PY14",
+      "year": 2021,
+      "recommendation": "The municipality could have collected the unpaid Real Property Tax amounting to P2.181 million had remedial measures and enforcement of collection on past due RPTbeen  exerted, thus, deprived the Municipality of opportunity income which can be used to finance various developmental programs,  projects  and  activities for the benefit of its constituents.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-PY16",
+      "year": 2021,
+      "recommendation": "Correctness of Land valued at P2.677 million is not ascertained due to lack of (RPCPPE), property records, subsidiary ledger and Torrens Title contrary to Section 148 of COA Circular No. 92-386, thus making these assets susceptible to possible claim of third parties and render the reliability and propriety of the Land account in the Financial Statements doubtful.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-PY17",
+      "year": 2021,
+      "recommendation": "The Accounts Payable amounting to P6.671 million which has been outstanding in the books for more than two years were not reverted to the General Fund in violation of Section 98 of Presidential Decree No. 1445 and COA Circular No. 75-45 thereby, overstating liability account and understating government equity account.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-PY18",
+      "year": 2021,
+      "recommendation": "Stale checks amounting to P65,935.00 remained unadjusted in the books of accounts in violation of Section 59 of the NGAS Manual for LGUs which resulted to the understatement of the Cash in Bank- Local Currency, Current Account and Payable accounts by the same amount.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan_aar2021-PY19",
+      "year": 2021,
+      "recommendation": "Non-establishment of Material Recovery Facility (MRF) in all barangays as required under Section 32 of RA 9003 hampers the efficient and effective implementation of the municipality’s waste segregation and disposal program.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended to the Municipal Accountant the following:\na)\tProperly provide disclosure in the Notes to Financial Statements; and\n\n\nb) Comply with all the conditions and requirements for possible filing for request of authority to write off dormant receivable accounts by the Local Chief Executive to the Commission on Audit.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommended that the Office of the Mayor propose the creation of the GSO to the Sangguniang Bayan and appoint a permanent General Services Officer in accordance with the qualification cited in Section 490(a) of RA 7160 and the Civil Service laws, rules and regulations.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended that:\n\n1. Management maintain property and subsidiary ledger cards and prepare/reconcile same with the RPCPPE;\n\n\n\n2. Management appropriate fund for the titling of all land; \n\n\n3.\tThe LCE direct the Municipal Assessor̕ s Office to exert effort in titling the land owned by the Municipality;\n\n\n4. The LCE require the Accounting Office to set up and maintain complete accounting records; and,\n\n\n\n\n5. The LCE require the Treasurer̕ s Office/GSO to keep on file complete records of real properties.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended and management agreed that:\nThe Inventory Committee conduct physical inventory of the Municipality’s PPE annually and submit to the Office of the Auditor the duly accomplished RPCPPE not later than January 31 of the following year;\nThe inventory taking shall be per PPE account/each category of assets and prepare the RPCPPE on the result thereof in conformity with the above-mentioned Manual for LGUs.\nThe accounting office and designated General Services Officer religiously maintain the PPELC and Stock Cards/Property Cards; and\nThe Accounting office and General Services Office reconcile PPE accounts between PPELC and Property Cards.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended and the Management agreed to:\nRequire the  Municipal Accountant compute the correct depreciation expenses of its assets and a journal entry must be drawn to update/correct the accumulated depreciation;\nExert effort through the General Services Office, reconstruct and update its property cards and reconcile with accounting records to facilitate the setting up and periodic provision of depreciation for those depreciable assets not provided with depreciation; and\nCreate an Appraisal Committee to conduct evaluation of assets whose records could not be found in order to establish the commencement of depreciation and determine the depreciable cost and estimated remaining life for the computation of the respective depreciation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended and the management agreed to direct the Municipal Accountant a) undertake a detailed reconciliation/analysis or investigation of the causes of the error/discrepancies of the accounts; b) coordinate with the concerned government agencies such as GSIS, Pag-ibig and Philhealth for the proper reconciliation of the amount balances due to them; and c) cause the booking up of the necessary adjustments of any error/ discrepancies noted in order to arrive at the correct balances of the accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommended and the Municipal Accountant agreed to submit, at once, the BRS covering the period from January to December 2020 and henceforth, the regular submission of the monthly bank reconciliation of the Municipality.  Strictly adhere the compliance with COA Circular No. 96-011 on the preparation of BRS to achieve an accurate financial reporting of Cash in Bank account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We recommended and the Management agreed that the Bids and Awards Committee (BAC) submit justification for undertaking the Emergency Procurement under the Bayanihan Act without complying with the requirements of GPPB Circular No. 01-2020 and be always updated with the issuances of the GPPB as the governing board for all the procurement activities of the government.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended and the Management agreed that the BAC strictly comply with the mandatory posting requirements of the updated APP, NOA, and other information relative to the Emergency Procurement under the Bayanihan Act in the GPPB Online Portal as mandated in GPPB Circular No. 1-2020 in order to promote transparency and accountability for all emergency procurements relative in the implementation of Bayanihan Act.  Regularly visit the GPPB’s website to be aware of any updates with their issuances to avoid any more non-compliance in the future.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We recommended and the Management agreed to require Local Disaster Risk Reduction and Management Officer (LDRRMO) and Municipal Budget Officer to stop charging Personal Services and MOOE of the LDRRM Office to the LDRRMF instead it shall be sourced from the General Fund of the Municipality.  Also, see to it only expenditures appropriately chargeable against the said funds are those in pursuant to the provisions of Section 5 of NDRRMC, DBM and DILG Joint Circular No. 2013-01 and Section 4.3 of NDRRMC, DILG, DBM and CSC Joint Memorandum Circular.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We recommended and the Management agreed that:\nThru its LDRRMO, prepare the Local Disaster Risk Reduction Management Fund Investment Plan in the ensuing years in compliance to Section 5.1.2 of COA Circular No. 2012-002 dated September 12, 2012; and\nLDRRMO incorporate in the LDRRMFIP not only current year’s appropriation but also those of prior years.  Plan ahead of time the possible programs, projects and activities for the unexpended balances of LDRRMF that will support the disaster risk management activities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-OBS9",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed that Municipal Accountant regularly prepare the required Monthly Reports on Sources and Utilization of LDRRMF and the same will also be submitted regularly by the Local Disaster Risk Reduction and Management Officer within the prescribed period as pursuant to Section 5.1.5 of COA Circular No. 2012-002 dated September 12, 2012.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-OBS10",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed to strictly comply with the requirements of Section 2.1 of COA Circular No. 2013-004 on the submission of the required list of on-going PPAs and those that are to be implemented during the year to facilitate regular monitoring and validation of the Municipality’s program/projects/activities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-OBS11",
+      "year": 2020,
+      "recommendation": "Recommendation:\nManagement must take necessary action on the settlement of the Notices of Suspensions, Notices of Disallowance and Notices of Charge as of December 31, 2020 in the total amount of P227,651.49.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommended that:\n\na)\tThe Local Chief Executive tap personnel that are not very busy to help in the physical inventory;\t\t\n\nb)\tThe inventory taking shall be done by office and prepare the corresponding RPCPPE on the results thereof; and,\n\nc)\tThe RPCPPE shall then be reconciled with accounting records in order to ensure that PPE account balances in the financial statements are fairly presented.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended that management require the Municipal Accountant to reconcile the balances of these Intra-agency accounts, Due to Other Funds and Due from Other Funds to promptly identify any discrepancy in the balances of the two accounts and to be able to effect the necessary adjustments if appropriate to bring the affected accounts into agreement.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Treasurer:\na)\tKeep on sending demand letters to delinquent taxpayers; and\n\n\nb)\tAdopt the procedures and remedies provided in Republic Act 7160.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant prepare the Disbursement Voucher and the Municipal Treasurer issue the check to transfer the unutilized LDRRMF for CY 2014 totaling P1.190 million and deposit the amount to the General Fund account.\nWe also recommended that the Municipal Mayor through the Municipal Budget Officer appropriate the available funds for potential projects or programs on other basic services beneficial to its constituents.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended that:\n\nThe Municipality during the preparation of the Annual Budget for 20% Development Fund include only Programs/Projects/Activities which are feasible and could be accomplished within the target date of completion, after taking into consideration the priorities of the LGU leadership;\n\nImplement the development projects programmed during the year as embodied in the Annual Investment/Development Plan and ensure optimum utilization of the 20% Development Fund in compliance with the provisions of DILG and DBM Joint Memorandum Circular No. 2011-1 dated April 13, 2011 for the benefit of the constituents of the Municipality;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-PY9",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to:\n\n1.\tRevert to the General Fund the accounts payable which have been outstanding for two years or more against which no actual claim, has been filed or which are not covered  by perfected contract on records; and,\n\n2.\tConduct periodic review to ensure that the Accounts Payable account consist only of valid and legitimate claims against the Municipal Government.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-PY10",
+      "year": 2020,
+      "recommendation": "We recommended that management require the Municipal Accountant to reconcile the Intra-agency accounts, Due to Other Funds and Due from Other Funds to promptly identify any discrepancy in the balances of the two accounts and to be able to effect the necessary adjustments if appropriate to bring the affected accounts into agreement.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-PY11",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Treasurer to send a written notice to the payees or holder in due course to surrender the stale check for cancellation and issuance of a new one.\n\nWe further recommended that the Municipal Accountant make adjusting entry for stale checks that remained outstanding for more than six months and cannot be presented for payment to reflect the correct balance of Cash in Bank-Local Currency and Accounts Payable accounts.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-PY12",
+      "year": 2020,
+      "recommendation": "We recommended that all concerned officials:\n\nClosely monitor and ensure the efficient implementation of all priority development projects and programs under the 20% Development fund as conceptualized under DILG and DBM JMC No. 2011-1 dated April 13, 2011; and\nMaximize the utilization of the 20% Development Fund allocated for the implementation of various projects, programs and activities (PPAs) that are envisioned to help in the attainment of social, economic and environmental development.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-PY13",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE direct:\n\nThe Municipal Engineer and other Focal Persons to closely monitor the implementation of the projects funded by NGAs to fully attain the objectives of the projects in addressing the needs of the populace;\n\nThe Municipal Accountant to secure the MOA for the fund transfers received as a guide in the disposition and implementation of the projects; and,\n\nProvide the Office of the Audit Team Leader copies of the MOA.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-PY14",
+      "year": 2020,
+      "recommendation": "We recommended that Municipality prioritize the construction of garage for their motor vehicles and heavy equipment.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-PY15",
+      "year": 2020,
+      "recommendation": "We recommended that the LCE require the Municipal Engineer to:\n\n Prepare and submit regularly to the Auditor Monthly Report of Fuel   Consumption; and,\n\n\nExercise proper control over the use of government vehicles and fuel consuming equipment through properly accomplished and duly approved, serially numbered Driver’s Trip Tickets, a summary of which shall be made at the end of each month in the Monthly Report of Official travels for audit purposes.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-VI__Municipalities__Aklan__Altavas_Aklan-2020-PY16",
+      "year": 2020,
+      "recommendation": "We recommended that the Solid Waste Management Office continuously coordinate with the concerned barangays to prioritize and facilitate the establishment of functional MRFs as required under Section 32 of RA 9003 to help achieve the municipality’s commitment towards sustainable development and implementation of an environmentally sound and safe management of its solid waste.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended that:\n\na)\tThe Local Chief Executive tap personnel that are not very busy to help in the physical inventory;\n\nb)\tThe inventory taking shall be done by office and prepare the corresponding RPCPPE on the results thereof; and,\n\nc)\tThe RPCPPE shall then be reconciled with accounting records in order to ensure that PPE account balances in the financial statements are fairly presented.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended that management require the Municipal Accountant to reconcile the balances of these Intra-agency accounts, Due to Other Funds and Due from Other Funds to promptly identify any discrepancy in the balances of the two accounts and to be able to effect the necessary adjustments if appropriate to bring the affected accounts into agreement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended to the Municipal Accountant the following:\n\na)\tConduct a thorough verification and analysis of the dormant receivable   accounts and provide for an allowance for impairment;\n\nb)\tProperly provide disclosure in the Notes to Financial Statements; and,\n\nc)\tComply with all the conditions and requirements for possible filing for request of authority to write off dormant receivable accounts by the Local Chief Executive to the Commission on Audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Treasurer:\n\na)\tKeep on sending demand letters to delinquent taxpayers; and,\n\nb)\tAdopt the procedures and remedies provided in Republic Act 7160.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accountant prepare the Disbursement Voucher and the Municipal Treasurer issue the check to transfer the unutilized LDRRMF for CY 2014 totaling P1.190 million and deposit the amount to the General Fund account.\n\nWe also recommended that the Municipal Mayor through the Municipal Budget Officer appropriate the available funds for potential projects or programs on other basic services beneficial to its constituents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended that the Office of the Mayor propose the creation of the GSO to the Sangguniang Bayan and appoint a permanent General Services Officer in accordance with the qualification cited in Section 490(a) of RA 7160 and the Civil Service laws, rules and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We recommended that:\n\na)The Municipality during the preparation of the Annual Budget for 20% Development Fund include only Programs/Projects/Activities which are feasible and could be accomplished within the target date of completion, after taking into consideration the priorities of the LGU leadership;\n\nb)Implement the development projects programmed during the year as embodied in the Annual Investment/Development Plan and ensure optimum utilization of the 20% Development Fund in compliance with the provisions of DILG and DBM Joint Memorandum Circular No. 2017-1 dated February 22, 2017 for the benefit of the constituents of the Municipality;",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended that:\n\n1.\tThe Local Chief Executive (LCE) prioritize the conduct of complete  Inventory  Taking and tap personnel that are not very busy to help in the   physical inventory;\t\n\n2.\tThe inventory taking shall be done by office and prepare the corresponding Report of Physical Count of PPE (RPCPPE) on the results thereof, and;\n\n3.\tThe RPCPPE shall then be reconciled with accounting records in order to ensure that PPE account balances in the financial statements are fairly presented.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended that:\n\n1.   Management conduct physical inventory of the land;\n\n\n\n2.Management maintain property and subsidiary ledger cards and prepare/reconcile same with the RPCPPE;\n\n\n3.   Management appropriate fund for the titling of all land; \n\n\n4. The LCE direct the Municipal Assessor̕ s Office to exert effort in titling the land owned by the Municipality;\n\n5. The LCE require the Accounting Office to set up and maintain complete accounting records; and,\n\n\n\n6.   The LCE require the Treasurer̕ s Office/GSO to keep on file complete records of real properties.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended that management follow the guidelines set in PPSAS 17 in computing depreciation expense.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to:\n\n1.\tRevert to the General Fund the accounts payable which have been outstanding for two years or more against which no actual claim, has been filed or which are not covered  by perfected contract on records; and,\t\n\n2. \tConduct periodic review to ensure that the Accounts Payable account consist only of valid and legitimate claims against the Municipal Government.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended that management require the Municipal Accountant to reconcile the Intra-agency accounts, Due to Other Funds and Due from Other Funds to promptly identify any discrepancy in the balances of the two accounts and to be able to effect the necessary adjustments if appropriate to bring the affected accounts into agreement.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Treasurer to send a written notice to the payees or holder in due course to surrender the stale check for cancellation and issuance of a new one.\nWe further recommended that the Municipal Accountant make adjusting entry for stale checks that remained outstanding for more than six months and cannot be presented for payment to reflect the correct balance of Cash in Bank-Local Currency and Accounts Payable accounts.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Treasurer:\n\n Keep on sending demand letters to delinquent taxpayers; and,\n\n\n\nAdopt the procedures and remedies provided in RA 7160.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommended that:\n\nThe Municipal Treasurer and the Municipal Accountant exert efforts to reconcile their respective amounts of terminal leave pay paid to outgoing officials with the amount appearing in the Statement of Audit Suspensions, Disallowances and Charges (SASDC) of December 31, 2012; and,\n\nThe Municipal Accountant strictly monitor the settlement of suspensions and disallowances.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2019-PY9",
+      "year": 2019,
+      "recommendation": "We recommended that management closely monitor the utilization of the MDRRMF and ensure that planned PPAs are implemented.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2019-PY10",
+      "year": 2019,
+      "recommendation": "We recommended that all concerned officials:\n\nClosely monitor and ensure the efficient implementation of all priority development projects and programs under the 20% Development fund as conceptualized under DILG and DBM JMC No. 2011-1 dated April 13, 2011; and,\n\nMaximize the utilization of the 20% Development Fund allocated for the implementation of various projects, programs and activities (PPAs) that are envisioned to help in the attainment of social, economic and environmental development.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2019-PY11",
+      "year": 2019,
+      "recommendation": "We recommended that the LCE direct:\n\nThe Municipal Engineer and other Focal Persons to closely monitor the implementation of the projects funded by NGAs to fully attain the objectives of the projects in addressing the needs of the populace;\n\nThe Municipal Accountant to secure the MOA for the fund transfers received as a guide in the disposition and implementation of the projects; and,\n\nProvide the Office of the Audit Team Leader copies of the MOA.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2019-PY12",
+      "year": 2019,
+      "recommendation": "We recommended that Management comply with the aforementioned regulation and require the Municipal Engineering Office and other officials concerned to disclose all transactions involving PPAs for transparency and accountability.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2019-PY13",
+      "year": 2019,
+      "recommendation": "We recommended that Municipality prioritize the construction of garage for their motor vehicles and heavy equipment.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2019-PY14",
+      "year": 2019,
+      "recommendation": "We recommended that the LCE require the Municipal Engineer to:\n\n Prepare and submit regularly to the Auditor Monthly Report of Fuel   Consumption; and,\n\n\n\nExercise proper control over the use of government vehicles and fuel consuming equipment through properly accomplished and duly approved, serially numbered Driver’s Trip Tickets, a summary of which shall be made at the end of each month in the Monthly Report of Official travels for audit purposes.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2019-PY15",
+      "year": 2019,
+      "recommendation": "We recommended that the Solid Waste Management Office continuously coordinate with the concerned barangays to prioritize and facilitate the establishment of functional MRFs as required under Section 32 of RA 9003 to help achieve the municipality’s commitment towards sustainable development and implementation of an environmentally sound and safe management of its solid waste.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2019-PY16",
+      "year": 2019,
+      "recommendation": "We recommended that the obsolete accountable forms be disposed of pursuant to Chapter 1V.B of COA Cash Examination Manual, 2013 revision.\n\nWe further recommended that the AO shall prepare an Inventory of Obsolete Accountable Forms in four copies, submit the same to the authorized officials for approval and finally to the COA Auditor pursuant to Section 99 of GAAM, Vol. 1.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2019-PY17",
+      "year": 2019,
+      "recommendation": "We recommended that the LCE and the Human Resource Management Officer (HRMO) consider complying with the directive of the DILG by encouraging contractual/Jo employees to enroll in SSS and PhilHealth membership.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommended that management consolidate the materials needed for various projects to be undertaken for the period and adhere strictly to the procurement guidelines provided under RA 9184.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-PY10",
+      "year": 2018,
+      "recommendation": "We recommended that the Solid Waste Management Office continuously coordinate with the concerned barangays to prioritize and facilitate the establishment of functional MRFs as required under Section 32 of RA 9003 to help achieve the municipality̕ s commitment towards sustainable development and implementation of an environmentally sound and safe management of its solid waste.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended that:\n1.\tThe Local Chief Executive (LCE) prioritize the conduct of complete  Inventory  Taking and tap personnel that are not very busy to help in the   physical inventory;\n2.\tThe inventory taking shall be done by office and prepare the corresponding Report of Physical Count of PPE (RPCPPE) on the results thereof, and;\n3.\tThe RPCPPE shall then be reconciled with accounting records in order to ensure that PPE account balances in the financial statements are fairly presented.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We recommended that:\n1.   Management conduct physical inventory of the land;\n2.\tManagement maintain property and subsidiary ledger cards and prepare/reconcile same with the RPCPPE;\n3.   Management appropriate fund for the titling of all land;\n4.\tThe LCE direct the Municipal Assessor̕ s Office to exert effort in titling the land owned by the Municipality;\n5.\tThe LCE require the Accounting Office to set up and maintain complete accounting records; and,\n6.   The LCE require the Treasurer̕ s Office/GSO to keep on file complete records of real properties.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended that management follow the guidelines set in PPSAS 17 in computing depreciation expense.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Municipal Accountant to:\n1.\tRevert to the General Fund the accounts payable which have been outstanding for two years or more against which no actual claim, has been filed or which are not covered  by perfected contract on records; and,\n2.\tConduct periodic review to ensure that the Accounts Payable account consist only of valid and legitimate claims against the Municipal Government.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We recommended that management require the Municipal Accountant to reconcile the Intra-agency accounts, Due to Other Funds and Due from Other Funds to promptly identify any discrepancy in the balances of the two accounts and to be able to effect the necessary adjustments if appropriate to bring the affected accounts into agreement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Treasurer to send a written notice to the payees or holder in due course to surrender the stale check for cancellation and issuance of a new one.\n\nWe further recommended that the Municipal Accountant make adjusting entry for stale checks that remained outstanding for more than six months and cannot be presented for payment to reflect the correct balance of Cash in Bank-Local Currency and Accounts Payable accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-OBS7",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Treasurer:\n1.  Keep on sending demand letters to delinquent taxpayers; and,\n2.  Adopt the procedures and remedies provided in Republic Act 7160.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-OBS8",
+      "year": 2018,
+      "recommendation": "We recommended that:\n1.  The Municipal Treasurer and the Municipal Account exert efforts to reconcile their respective amounts of terminal leave pay paid to outgoing officials with the amount appearing in the SASDC of December 31, 2012; and,\n2. The Municipal Accountant strictly monitor the settlement of suspensions and disallowance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-OBS9",
+      "year": 2018,
+      "recommendation": "We recommended that management closely monitor the utilization of the LDRRMF and ensure that planned PPAs are implemented.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-OBS10",
+      "year": 2018,
+      "recommendation": "We recommended that all concerned officials:\nClosely monitor and ensure the efficient implementation of all priority development projects and programs under the 20% Development Fund as conceptualized under DILG and DBM JMC No. 2011-1 dated April 13, 2011; and,\nMaximize the utilization of the 20% Development Fund allocated for the implementation of various projects, programs and activities that are envisioned to help in the attainment of social, economic and environmental development.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-OBS11",
+      "year": 2018,
+      "recommendation": "We recommended that the LCE direct:\n1. The Municipal Engineer and other Focal Persons to closely monitor the implementation of the projects funded by the NGAs to fully attain the objectives of the projects in addressing the needs of the populace;\n2.\tThe Municipal Accountant to secure the MOA for the fund transfers received as a guide in the disposition and implementation of the projects; and,\n3.   Provide the Office of the Audit Team Leader copies of the MOA.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-OBS12",
+      "year": 2018,
+      "recommendation": "We recommended that Management comply with the aforementioned regulation and require the Municipal Engineering Office and other officials concerned to disclose all transactions involving PPAs for transparency and accountability.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-OBS13",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipality prioritize the construction of garage for their motor vehicles and heavy equipment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-OBS14",
+      "year": 2018,
+      "recommendation": "We recommended that the LCE require the Municipal Engineer to:\n1. \tPrepare and submit regularly to the Auditor the Monthly Report of Fuel Consumption for verification purposes; and,\n2. \tExercise proper control over the use of government vehicles and fuel consuming equipment through properly accomplished and duly approved serially numbered Driver̕ s Trip Tickets, a summary of which shall be made at the end of each month in the Monthly Report of Official Travels for audit purposes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-OBS15",
+      "year": 2018,
+      "recommendation": "We recommended that the Solid Waste Management Office continuously coordinate with the concerned barangays to prioritize and facilitate the establishment of functional MRFs as required under Section 32 of RA 9003 to help achieve the municipality̕ s commitment towards sustainable development and implementation of an environmentally sound and safe management of its solid waste.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-OBS16",
+      "year": 2018,
+      "recommendation": "We recommended that the obsolete accountable forms be disposed of pursuant to Chapter IV.B of COA Cash Examination Manual, 2013 revision.\nWe further recommended that the AO shall prepare an Inventory of Obsolete Accountable Forms in four copies, submit the same to the authorized officials for approval and finally to the COA Auditor pursuant to Section 99 of GAAM, Volume I.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-OBS17",
+      "year": 2018,
+      "recommendation": "We recommended that the LCE and the HRMO consider complying with the directive of the DILG in encouraging contractual/JO employees to enroll in SSS and PhilHealth membership.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommended that:\n\n1.\tThe inventory taking shall be done by office and prepare the corresponding RPCPPE on the results thereof; and,\n\n\n\n2.\tThe RPCPPE shall then be reconciled with accounting records in order to ensure that PPE account balances in the financial statements are fairly presented.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommended that management:\n\n1.\tDiscontinue the practice of piecemeal procurement;\n\n\n\n2.\tEach department should prepare the Project Procurement Management Plan (PPMP) and submit to the BAC for consolidation and basis in preparing the Annual Procurement Plan (APP); and,\n\n3.\tThe APP shall be the basis of the bidding activities in bulk to avail discounts and lower costs.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-PY4",
+      "year": 2018,
+      "recommendation": "We recommended that:\n\n1.\tThe Municipal Treasurer prepare and submit the reports, accounts and the complete supporting papers to the Accounting Office  not later than the 5th day of each month; and,\n\n2.\tThe Municipal Accountant  submit the financial reports, Official Receipts, Disbursement Vouchers  and its supporting documents to the auditor on or before the 20th day of each month.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommended that:\n\n1.\tThe Municipal Treasurer furnish the Office of the Audit Team Leader a list of the terminal leave claims of the outgoing elective officials in 2010 as basis for verification in the Municipal Treasurer̕ s cashbook for reconciliation with the document submitted to serve as her guide in the subsequent audit decision(s); and,\n\n2.\tThe Municipal Accountant strictly monitor the settlement of suspensions and disallowances.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-PY6",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Accountant strictly enforce the provisions of COA Circular No. 2012-001 prescribing the Revised Guidelines and Documentary Requirements for Common Government Transactions and to ensure the completeness of documents before recording in the books of accounts and to establish the validity and propriety of claims.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommended that the Office of the Municipal Accountant review the JEVs prepared to identify the causes of the discrepancies and prepare the necessary adjustments to reflect the correct balances of the accounts Due from Other Funds and Due to Other \nFunds. Likewise, periodic reconciliation of the accounts should be made to ensure that all transactions are properly and accurately recorded in the books of accounts.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommended that those personnel in charge of approving loans exercise diligence in approving the applications to ensure that employees enjoy the net take home pay of Four Thousand Pesos.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-PY9",
+      "year": 2018,
+      "recommendation": "We recommended that management:\n\n1.Require the council to conduct regular meetings and special meetings when necessary; and,\n\n\n2.Post in the LGU ̕ s premises its organizational structure for the information of the affected and interested parties/constituents.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-PY11",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Accountant exert extra effort to locate valid documents to support the claims. If efforts proved futile, revert the amount to Prior Years Adjustment.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-PY12",
+      "year": 2018,
+      "recommendation": "We recommended that all concerned officials:\n\n1.\tClosely monitor and ensure the efficient implementation of all priority development projects and programs under the 20 percent Development Fund as conceptualized under DILG and DBM JMC No. 2011-1 dated April 13, 2011; and,\n\n2.\tMaximize the utilization of the 20 percent Development Fund allocated for the implementation of various projects, programs and activities that are envisioned to help   in the attainment of social, economic and environmental development.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-PY13",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive:\n\n1.\tStrengthen the coordination among the officials involved in the implementation of these projects to ensure proper and timely completion of the same; and,\n\n\n2.\tFurnish duly signed MOA/Work and Financial Plan to the Office of the Auditor.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-PY14",
+      "year": 2018,
+      "recommendation": "We recommended that management remit all the withheld funds due the BIR, GSIS, Pag-IBIG and Philhealth within the prescribed period to enable these agencies to use the needed funds for their operation in a timely manner.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-PY15",
+      "year": 2018,
+      "recommendation": "We recommended that the LDRRMO prepare the LDRRMFIP annually following the format shown as Annex A in COA Circular No. 2012-002 dated September 12, 2012.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-PY16",
+      "year": 2018,
+      "recommendation": "We recommended that the concerned LGU officials and employees:\n\nOn Real Property Tax\n\n1. \tConduct study on the reason for delinquent accounts;\n\n\n\n2. \tThe Municipal Assessor̕ s Office conduct information dissemination on what to do about the lots distributed through CARP; and,\n\n3.Adopt the procedures and remedies provided in Republic Act 7160.\n\n\nOn Stall Rentals\n\n1. \tSend demand letters and tracers; and,\n\n\n\n2. \tStrictly comply the stipulations embodied in the Lease Contract.\n\n\nOn Water Consumption\n\n1. \tSend demand letters and tracers; and\n\n\n2. \tConduct meeting with the concessionaires.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2018-PY17",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive require the Municipal Agricultural Officer (MAO) to effect the immediate opening and utilization of the center for business in order to achieve the purpose for which the same had been constructed.  Likewise, the MAO should install the faucet in the completed project.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2017-PY1",
+      "year": 2017,
+      "recommendation": "We recommended that:\n\n1. The inventory taking shall be done by office for a start and prepare the corresponding RPCPPE on the results thereof.\n\n2. The RPCPPE shall be reconciled with accounting with accounting records in order to ensure that PPE account balances in the FS are fairly presented.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2017-PY2",
+      "year": 2017,
+      "recommendation": "We recommended that management:\n\nrequire the personnel concerned to submit regularly the Monthly Report of Official Travels and the Monthly Report of Fuel Consumption; and\n\nConcerned personnel should be instructed to properly accomplish the monthly Report of Fuel Consumption and Official Travels.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2017-PY4",
+      "year": 2017,
+      "recommendation": "We recommended that:\n\n1. The Municipal Treasurer furnish the Office of the Audit Team Leader a list of the terminal leave claims of the outgoing elective officials in 2010 as basis for verification in the Municipal Treasurer’s cashbook for reconciliation with the documents submitted to serve as her guide in the subsequent audit decision(s).\n\n2. The Municipal Accountant strictly monitor the settlement of suspensions and disallowances.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2017-PY7",
+      "year": 2017,
+      "recommendation": "We recommended that:\n\n1. The Municipal Treasurer prepare and submit the reports, accounts and the complete supporting papers to the Accounting Office not later than the 5th day of each month.\n\n2. The Municipal Accountant submit the financial reports, Official Receipts, Disbursement Vouchers and its supporting documents to the Auditor on or before the 20th day of each month.\n3. Management impose sanctions for failure of the official or employee concerned to submit the documents and reports considering that it is a ground for the automatic suspension of payment of his/her salary.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2017-PY8",
+      "year": 2017,
+      "recommendation": "We recommended that the LDRRMO prepare the LDRRMFIP annually following the format shown as Annex A in COA Circular No. 2012-002 dated September 12, 2012.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommended that:\n1.\tThe inventory taking shall be done by office and prepare the corresponding RPCPPE on the results thereof, and;\n2.\tThe RPCPPE shall then be reconciled with accounting records in order to ensure that PPE account balances in the financial statements are fairly presented.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommended that management:\n1.\tDiscontinue the practice of piecemeal procurement;\n2.\tEach department should prepare the PPMP and submit to the BAC for consolidation and basis in preparing the APP; and,\n3.\tThe APP will be the basis of the bidding activities in bulk to avail discounts and lower costs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recommended that management consolidate the materials needed for various projects to be undertaken for the period and adhere strictly to the procurement guidelines provided under RA 9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We recommended that:\n1. The Municipal Treasurer prepare and submit the reports, accounts and the complete supporting papers to the Accounting Office not later than the 5th day of each month; and,\n2. Municipal Accountant submit the financial reports, Official Receipts, Disbursement Vouchers and its supporting documents to the auditor on or before the 20th day of each month.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommended that:\n1.\tThe  Municipal  Treasurer  furnish  the Office  of the  Audit Team Leader a list of the terminal leave claims of the outgoing elective officials in 2010 as basis for verification in the Municipal Treasurer’s cashbook  for reconciliation with the documents submitted to serve as her guide in the subsequent audit decision(s).\n2.\tThe Municipal Accountant strictly monitor the settlement of suspensions and disallowance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Accountant strictly enforce the provisions of COA Circular No. 2012-001 prescribing the Revised Guidelines and Documentary Requirements for Common Government Transactions and to ensure the completeness of documents before recording in the books of accounts and to establish the validity and propriety of claims.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2017-OBS7",
+      "year": 2017,
+      "recommendation": "We recommended that the Office of the Municipal Accountant review the JEVs prepared to identify the causes of the discrepancies and prepare the necessary adjustments to reflect the correct balances of the accounts Due from Other Funds and Due to Other Funds. Likewise, periodic reconciliation of the accounts should be made to ensure that all transactions are properly and accurately recorded in the books of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2017-OBS8",
+      "year": 2017,
+      "recommendation": "We recommended that those personnel in charge of approving loans exercise diligence in approving the applications to ensure that employees enjoy the net take home pay of Four Thousand Pesos.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2017-OBS9",
+      "year": 2017,
+      "recommendation": "We recommended that management:\n1.\tRequire the council to conduct regular meetings and special meetings when    necessary; and,\n2.\tPost in the LGU̕ s premises its organizational structure for the information of the affected and interested parties/constituents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2017-OBS10",
+      "year": 2017,
+      "recommendation": "We recommended that the Solid Waste Management Office continuously coordinate with the concerned barangays to prioritize and facilitate the establishment of functional MRFs as required under Section 32 of RA 9003 to help achieve the municipality̕ s commitment towards sustainable development and implementation of an environmentally sound and safe management of its solid waste.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2017-OBS11",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Accountant exert extra effort to locate valid documents to support the claims. If efforts proved futile, revert the amount to Prior Years Adjustment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2017-OBS12",
+      "year": 2017,
+      "recommendation": "We recommended that all concerned officials:\n1.\tClosely monitor and   ensure the  efficient  implementation  of  all priority development projects and programs under the 20 percent Development  Fund  as conceptualized under DILG and DBM JMC No. 2011-1 dated    April 13, 2011; and,\n2.\tMaximize the utilization of the 20 percent  Development Fund allocated for the   implementation of various projects, programs and activities that are envisioned to help in the attainment of social, economic and environmental development.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2017-OBS13",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive:\n1.\tStrengthen the coordination among the officials involved in the   implementation of these projects to ensure proper and timely completion of the same.\n2.\tFurnish duly signed MOA/Work and Financial Plan to the Office of the Auditor.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2017-OBS14",
+      "year": 2017,
+      "recommendation": "We recommended that management remit all the withheld funds due the BIR, GSIS, Pag-IBIG and Philhealth within the prescribed period to enable these agencies to use the needed funds for their operation in a timely manner.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2017-OBS15",
+      "year": 2017,
+      "recommendation": "We recommended that the LDRRMO prepare the LDRRMFIP annually following the format shown as Annex A in COA Circular No. 2012-002 dated September 12, 2012.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2017-PY3",
+      "year": 2017,
+      "recommendation": "We recommended that:\n\n1. all department heads prepare a Project Procurement Management Plan (PPMP) in consonance with the budget to support the cost estimates of each department’s budget proposal and ensure that the PPMPs shall include only activities crucial to the efficient discharge of its functions;\n\n2. the Bids and Awards Committee (BAC) prepare, in the ensuing year, consolidated Annual Procurement Plan (APP) based on the standard form and shall reflect the entirety of the procurement activities of the municipality for CY 2017, classified according to the mode of procurement of goods, infrastructure projects or consulting services; and\n\n3. personnel in charge in preparing the APP should be instructed on how to properly prepare the APP on the prescribed format.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2017-PY5",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Accountant:\n\n1. Keep on sending letter of demand to the accountable officers;\n\n\n\n2. Encourage accountable officers who are still with the LGU to liquidate their cash advances; and\n\n\n\n3. Refrain from granting additional cash advances those who failed to liquidate their previous cash advances.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2017-PY6",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Accountant prioritize the preparation of the BRS every month as provided in the New Government Accounting System Manual and submit the same to the Office of the Auditor to facilitate timely verification and corrections/adjustments on the Cash in Bank Account.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2017-PY9",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Government though the SB an amount should appropriate amount for the construction of a sanitary landfill, purchase of shredder or request fund from the national agency to finance the construction of a sanitary landfill.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2017-PY10",
+      "year": 2017,
+      "recommendation": "We recommended that management:\n\nFor transfer from other agencies\n1. Cause the immediate implementation of the development projects in accordance with the guidelines set forth in the DILG-DBM Joint MC 2011-1  `dated April 13, 2011;\n\nFor 20% development fund projects\n1. Require the Municipal Planning and Development Council to regularly monitor all the programs and projects of the municipality and submit a monitoring report as basis for the former to issue memorandum to the implementing office to ensure full implementation of the development projects.\n\n\n2. Realign funds of prior year’s continuing appropriation that have  not been implemented for over two years to identified priority projects duly approved by the Municipal Development Council.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We recommended that:\n1.  The inventory taking shall be done by office for a start and prepare the corresponding RPCPPE on the results thereof.\n2.  The RPCPPE shall then be reconciled with accounting records in order to ensure that PPE account balances in the FS are fairly presented.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We recommended that management:\nrequire the personnel concerned  to submit regularly the Monthly Report of Official Travels and the Monthly Report of Fuel Consumption; and\nconcerned personnel should be instructed to properly accomplish the  monthly  Report of Fuel Consumption and Official Travels.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommended that:\n1.\tall   department  heads  prepare  a Project Procurement Management Plan  (PPMP) in consonance with the budget to support the cost estimates of each department̕ s budget proposal and ensure that the PPMPs shall include only activities crucial to the efficient discharge of its functions;\n2.\tthe   Bids  and   Awards Committee (BAC) prepare, in the ensuing year, consolidated Annual Procurement Plan (APP) based on the standard form  and shall reflect the entirety of the procurement activities of the municipality for CY 2017, classified according to the mode of procurement on the procurement of goods, infrastructure projects or consulting services;and\n3.\tpersonnel in charge in preparing the APP should be instructed on how to properly prepare the APP on the prescribed format.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We recommended that:\n1.  The  Municipal  Treasurer  furnish  the Office  of the  Audit Team Leader a list of the terminal leave claims of the outgoing elective officials in 2010 as basis for verification in the Municipal Treasurer’s cashbook  for reconciliation with the documents submitted to serve as her guide in the subsequent audit decision(s).\n2.\tThe Municipal Accountant strictly monitor the settlement of   suspensions and disallowance.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Accountant:\n1.\tKeep on sending letter of demand to the accountable officers;\n2.\tEncourage those accountable officers who are still with the LGU to liquidate their cash advances; and\n3. Refrain from granting additional cash advances those who failed to liquidate their previous cash advances",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Accountant prioritize the preparation of the BRS every month as provided in the New Government Accounting System Manual and submit the same to the Office of the Auditor to facilitate timely verification and correction /adjustments on the Cash in Bank account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We recommended that:\n1.\tThe Municipal Treasurer prepare and submit the reports, accounts and the complete   supporting papers  to the Accounting Office not later than the 5th day of each month.\n2.\tThe Municipal Accountant  submit the  financial reports, Official Receipts,  Disbursement vouchers and its supporting  documents to the auditor  on or before the 20th day of each month.\n3.\tManagement impose  sanction for failure of the official or employee concerned to submit the documents and reports considering that it is a  ground for the automatic suspension of payment of his/her salary.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We recommended that the LDRRMO prepare the LDRRMFIP annually following the format shown as Annex A in COA Circular No. 2012-002 dated September 12, 2012.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2016-OBS9",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Government though the SB should appropriate an amount for the construction of a sanitary landfill, purchase of shredder or request fund from the national agency to finance the construction of a sanitary landfill.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2016-PY1",
+      "year": 2016,
+      "recommendation": "We recommend that management should require the Accountant to submit the monthly accounts to the Office of the Auditor within the reglementary period.",
+      "managementAction": "All the vouchers and its supporting documents were carefully reviewed as to their regularity and completeness.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2016-PY2",
+      "year": 2016,
+      "recommendation": "We recommend that the Municipal Accountant prepare the BRS every month as provided in the New Government Accounting System Manual and submit the same to the Office of the Auditor within the prescribed period.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The newly designated Municipal Accountant found it difficult to obtain previous years records."
+    },
+    {
+      "id": "Altavas_Aklan-2016-PY3",
+      "year": 2016,
+      "recommendation": "We recommend that the Local Government should conduct physical inventory of Property, Plant and Equipment annually and submit the required report thereon pursuant to Section 124 of the Manual on the NGAS for LGUs, Vol. I.",
+      "managementAction": "Inventory by office were conducted but discontinued",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Previous year’s record cannot be found."
+    },
+    {
+      "id": "Altavas_Aklan-2016-PY4",
+      "year": 2016,
+      "recommendation": "We recommend that management:\n4.1. Stop the charging and payment of personal services, operating expenses and other expenses of the district office which are not included in the list of priority expenses chargeable against SEF.\n4.2. Make proper representation for the payment of expenditures for other important operational expenses of public schools but not included in the priority items where SEF may be used and the same should be properly charged to the General Fund of the   Municipal Government subject to the conditions provided under Section 458(xi) of RA 7160 or to the appropriate budget of the Department of Education, Culture and Sports (DECS).\n4.3. Ensure  that  the  Special  Education  Fund be expended solely and exclusively for expenditures provided for under Republic Act No. 5447, Republic Act No. 7160 and DECS-DBM-DILG Joint Circular Nos. 01 s 1998 and 01-A dated April 14, 1998 and March 14, 2000, respectively.",
+      "managementAction": "Improper charges against SEF were stopped\n\nFully implemented. Public School operational expenses were changed to General Fund",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2016-PY5",
+      "year": 2016,
+      "recommendation": "We recommend that the Municipal Accountant keep on sending letter of demand to the accountable officers.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There are still those with unliquidated cash advances that failed to liquidate."
+    },
+    {
+      "id": "Altavas_Aklan-2016-PY6",
+      "year": 2016,
+      "recommendation": "We recommend that the Solid Waste Management Board cause the closure of existing open dump site pursuant to Sections 17(h) and 37 of RA 9003.  As an alternative, sanitary landfill sites shall be developed and operated as a final disposal site for solid and, eventually, residual wastes of a municipality in compliance with the Solid Waste Management Act.",
+      "managementAction": "The closure of the open dump site is in process.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The LGU lacks fund to construct a sanitary landfill."
+    },
+    {
+      "id": "Altavas_Aklan-2016-PY7",
+      "year": 2016,
+      "recommendation": "We recommend that the MSWM Board faithfully performs its duties and responsibilities on the IEC campaign, specifically the following:\n7.1. Prepare IEC campaign materials for distribution.  They should be crafted in accord to the level of understanding of the stakeholders in order to saturate the target stakeholders in its entirety.\n7.2. Develop training modules which should be patterned after those already developed by the Solid Waste Association of the Philippines.\n7.3. Collaborate IEC campaigns with the Barangay officials to achieve proper coordination and synchronization.  Establish focal persons for each barangays who shall be responsible in the arrangements and schedules of IEC campaigns.\n7.4. Follow-ups on IECs be conducted regularly in the whole municipality to ensure that the information and education drive is applied consistently and continuously.",
+      "managementAction": "The information campaign had been incorporated in the 10-yr. Solid Waste Management Plan.\n\nPartially implemented the development of training modules is in process.\n\nPartially implemented.\nCoordination of barangay officials is in process.\n\nPartially implemented.\nIn process.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2016-PY8",
+      "year": 2016,
+      "recommendation": "We recommend that Materials Recovery Facility be established in every barangay or cluster of barangays.  The municipality may initially pilot a single barangay to establish MRF project in order to institute a system of knowledge in establishing one as well as to gain commitment/participation of barangay officials on the proper administration and the operation of MRF.",
+      "managementAction": "The physical structure for the Material Recovery Facility was constructed and completed on February 19, 2016 at sitio Cabilan, Catmon, Altavas.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2016-PY9",
+      "year": 2016,
+      "recommendation": "We recommend the following:\n9.1. Designate person who shall be in charge in maintaining and securing that the same are guarded against misuse.\n9.2. Segregated waste collections be maintained.  Considering that the municipality has its own dump truck to be used in the operation, temporary compartments should be installed therein, segregating the solid waste accordingly.",
+      "managementAction": "Segregation of solid waste was practiced in school, and public places.\n\nSegregation of solid waste was practiced in school, and public places.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2016-PY10",
+      "year": 2016,
+      "recommendation": "We recommend that management, upon authorization from Sangguniang Bayan, open a separate bank account in the General Fund for the 20% Development Fund. Upon opening, the Municipal Treasurer and Accountant should be directed to transfer the balance of the 20% development fund amounting to P12,040,273.99.",
+      "managementAction": "A separate account has been opened thru SB Resolution No. 035, series of 2016 dated July 25, 2016. Unexpended balance has been transferred to the account.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2016-PY11",
+      "year": 2016,
+      "recommendation": "We recommend that the Local Chief Executive direct the Engineering Office to make the proper markings of “FOR OFFICIAL USE ONLY”, facilitate issuance the LTO of Red Plate on all government vehicles owned.",
+      "managementAction": "Motor vehicles were marked ̋For Official Use Only.̏",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Altavas_Aklan-2016-PY12",
+      "year": 2016,
+      "recommendation": "We recommend that:\n1. The  Municipal  Treasurer  furnish the Office of the Team Leader a list of the terminal leave claims of the outgoing elective officials in 2010 as basis for verification in the Municipal Treasurer s cashbook  and copies  of the  leave cards to serve as her guide in the subsequent audit decision(s).\n2. The Municipal Accountant strictly monitor the settlement of suspensions and disallowance.",
+      "managementAction": "The Mun. Treasurer is preparing the list.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially implemented.\n\nCurrent suspensions were not fully settled. The Municipal Accountant failed to closely monitor the settlement of the suspensions because he was busy preparing the FS for 2015. He assumed office on March 7, 2016."
+    }
+  ]
+}

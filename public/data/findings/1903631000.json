@@ -1,0 +1,950 @@
+{
+  "lguCode": "1903631000",
+  "lguName": "Marogong",
+  "province": "Lanao del Sur",
+  "region": "BARMM",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-PY10",
+      "year": 2022,
+      "recommendation": "We recommended that Management furnish the Auditor copies of the contract documents and POs not later than five (5) working days from its perfection, together with its duly accomplished supporting documents, for technical review and evaluation in compliance with COA Circular No. 2009-001.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-PY16",
+      "year": 2022,
+      "recommendation": "We recommended that Management create Inventory Committee to conduct complete physical count of all properties owned by the Municipality and prepare a report thereon in accordance with Section 124 and 114 of NGAS Manual for LGUs, Volume I to determine the existence and accuracy of PPE.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-PY19",
+      "year": 2022,
+      "recommendation": "We recommended that Management require the Municipal Accountant to transfer/deposit the unexpended balance to Special Trust Fund under the account “Trust Liability-DRRM” in the Trust Fund Books” pursuant to COA Circular 2012-002 dated September 12, 2012 which prescribes the accounting and reporting guidelines for LDRRMF of the Local Government Units, National Local Risk Reduction Management Fund given to LGUs.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-OBS1",
+      "year": 2022,
+      "recommendation": "1.8 We recommended that the Local Chief Executive:\na) Hire/appoint General Services Officer who shall take custody of and be accountable for all properties, real or personal, owned by the Municipality; and\nb) Create an Inventory Committee who shall conduct a complete physical count of all properties owned by the Municipality and prepare a report thereon in accordance with Section 124 and 114 of NGAS Manual for LGUs to determine the existence and accuracy of PPE.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-OBS2",
+      "year": 2022,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-OBS3",
+      "year": 2022,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-OBS4",
+      "year": 2022,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-OBS5",
+      "year": 2022,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-OBS6",
+      "year": 2022,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-OBS7",
+      "year": 2022,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-PY1",
+      "year": 2022,
+      "recommendation": "Bank Reconciliation Statements – within 10 days from receipts of the Bank Statements furnished by the LGU depository",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-PY2",
+      "year": 2022,
+      "recommendation": "Report of Checks Issued, Report of Disbursements, and Report of Collections and Deposits – immediately after recorded in the books of accounts, within 10 days of the ensuing month;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-PY3",
+      "year": 2022,
+      "recommendation": "Pre-closing Trial Balance – not later than the 20th day after the end of the month",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Fully Implemented"
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-PY4",
+      "year": 2022,
+      "recommendation": "Post-closing Trial Balance – not later than the 14th day of February after the end of the calendar year",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Fully Implemented"
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-PY5",
+      "year": 2022,
+      "recommendation": "Year-end Financial Statements – within 60 days after 31st of December of each year",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Fully Implemented"
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-PY6",
+      "year": 2022,
+      "recommendation": "For local Treasurer, consolidated Report of Accountability for Accountable Forms (CRAAF) – not later than the fifth (5th) day of the ensuing month; and",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-PY7",
+      "year": 2022,
+      "recommendation": "For local DRRM Officer, report on Sources and Utilization of Disaster Risk Reduction and Management Fund (DRRMF) – on or before 15th day after the end of each month.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-PY8",
+      "year": 2022,
+      "recommendation": "We recommended further, that the Local Chief Executive require the authorized government depository bank to furnish a monthly bank statement reports on the condition of the LGU account standing on their books in pursuant to Section 74 of PD 1445.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-PY9",
+      "year": 2022,
+      "recommendation": "We recommended that the Honorable Mayor instruct the Municipal Accountant to make the corresponding adjustments to correct the balance of the PPE and Loans Payable-Domestic accounts as of year-end in the amount of ₱27M and start maintaining a special account for the loan to easily track its status.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-PY11",
+      "year": 2022,
+      "recommendation": "Exert the necessary actions to select and hire a Municipal Accountant who can meet the qualification standards mandated under Section 474 of R.A. 7160so that the accounting and internal audit functions of the Municipality be effectively acted upon and that necessary reports be submitted on time",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Not Implemented"
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-PY12",
+      "year": 2022,
+      "recommendation": "Strictly observe the rules/requirements on Human Resource Action particularly the Designation procedure as provided in Section 13, Rule IV of the 2017 Omnibus Rules on Appointment and Other Human Resource Actions.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-PY13",
+      "year": 2022,
+      "recommendation": "We also recommended that the Municipal Treasurer prepare monthly Report of Collections and Deposits, submit the same to COA and exercise due diligence in the supervision over collecting officers under his supervision.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-PY14",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Treasurer deposit/remit the collection at least once a week or as soon as the collections reach ₱5,000.00 as required under Section 29 of NGAS Volume I.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-PY15",
+      "year": 2022,
+      "recommendation": "We also recommended that the Municipal Treasurer prepare monthly Report of Collections and Deposits, submit the same to COA and exercise due diligence in the supervision over collecting officers under his supervision.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-PY17",
+      "year": 2022,
+      "recommendation": "Further, we recommended that the LCE direct the Municipal Accountant and the Municipal Treasurer maintain PPE Ledger Cards and Acknowledgement Receipt for Equipment (ARE), respectively in compliance to Section 114 of same Manual.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-PY18",
+      "year": 2022,
+      "recommendation": "We recommended that the office of the Municipal Treasurer prepare and submit the Real Property Tax Receivable to the office of the Municipal Accountant at the start of the year or during the month of January",
+      "managementAction": "and the office of the Municipal Accountant to immediately set up the RPT/SET Receivables for the current year.",
+      "status": "UNKNOWN",
+      "reason": "Not Implemented"
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-PY20",
+      "year": 2022,
+      "recommendation": "We recommended that Management direct the Municipal Treasurer and the Municipal Accountant to strictly observe the prescribed time to submit these documents to COA and for the immediate supervisors to monitor its compliance.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-PY21",
+      "year": 2022,
+      "recommendation": "We also recommended that Management require all the concerned officials to submit immediately all unsubmitted documents, reports, ORs, liquidations and the like.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-PY22",
+      "year": 2022,
+      "recommendation": "We recommended that Management require the Municipal Accountant the unexpended balance be transferred/deposited to Special Trust Fund under the account “Trust Liability-DRRM” in the Trust Fund Books” pursuant to COA Circular 2012-002 dated September 12, 2012 which prescribes the accounting and reporting guidelines for LDRRMF of the Local Government Units, National Local Risk Reduction Management Fund given to LGUs.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LdS-2022-PY23",
+      "year": 2022,
+      "recommendation": "We recommended that Management require the Accounting Department to prepare separate trial balances for the special accounts in the General Fund most importantly for development projects funded out of IRA that will facilitate reporting of utilized funds and review thereof.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LdS_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "12. We recommended that Management create Inventory Committee to conduct complete physical count of all properties owned by the Municipality and prepare a report thereon in accordance with Section 124 and 114 of NGAS Manual for LGUs, Volume I to determine the existence and accuracy of PPE.\n13. Further, we recommended that the LCE direct the Municipal Accountant and the Municipal Treasurer maintain PPE Ledger Cards and Acknowledgement Receipt for Equipment (ARE), respectively in compliance to Section 114 of same Manual.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LdS_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "14. We recommended that the office of the Municipal Treasurer prepare and submit the Real Property Tax Receivable to the office of the Municipal Accountant at the start of the year or during the month of January; and the office of the Municipal Accountant to immediately set up the RPT/SET Receivables for the current year.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LdS_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "15. We recommended that Management require the Municipal Accountant to transfer/deposit the unexpended balance to Special Trust Fund under the account “Trust Liability-DRRM” in the Trust Fund Books pursuant to COA Circular 2012-002 dated September 12, 2012 which prescribes the accounting and reporting guidelines for LDRRMF of the Local Government Units, National Local Risk Reduction Management Fund given to LGUs.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LdS_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "1.12. We recommended that the Local Chief Executive direct the concerned\nlocal officials and accountable officers to submit the following\naccounting records, reports and forms to the Auditor within the\nreglementary period as prescribed by the pertinent applicable COA\nrules and regulations, to wit:\n1.12.1 Local Accountant\na) Bank Reconciliation Statements – within 10 days from\nreceipts of the Bank Statements furnished by the LGU\ndepository; and\nb) Report of Checks Issued, Report of Disbursements, and\nReport of Collections and Deposits – immediately after\nrecorded in the books of accounts, within 10 days of the\nensuing month;\nc) Pre-closing Trial Balance – not later than the 20th day\nafter the end of the month;\nd) Post-closing Trial Balance – not later than the 14th day of\nFebruary after the end of the calendar year; and\ne) Year-end Financial Statements – within 60 days after 31st\nof December of each year;\n1.12.2 For local Treasurer, consolidated Report of Accountability for\nAccountable Forms (CRAAF) – not later than the fifth (5th)\nday of the ensuing month; and\n1.12.3 For local DRRM Officer, report on Sources and Utilization of\nDisaster Risk Reduction and Management Fund (DRRMF) –\non or before 15th day after the end of each month.\n\n1.13. We recommended further, that the Local Chief Executive require the\nauthorized government depository bank to furnish a monthly bank\nstatement reports on the condition of the LGU account standing on\ntheir books in pursuant to Section 74 of PD 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LdS_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "2.6 We recommended that the Honorable Mayor instruct the Municipal\nAccountant to make the corresponding adjustments to correct the\nbalance of the PPE and Loans Payable-Domestic accounts and start\nmaintaining a special account for the loan to easily track its status.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LdS_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "3.5 We recommended that Management furnish the Auditor copies of the\ncontract documents and POs not later than five (5) working days from\nits perfection, together with its duly accomplished supporting\ndocuments, for technical review and evaluation in compliance with COA\nCircular No. 2009-001.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LdS_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "4.6 We recommended that the LCE, through the HRM Officer:\na) Exert the necessary actions to select and hire a Municipal\nAccountant who can meet the qualification standards mandated\nunder Section 474 of R.A. 7160so that the accounting and internal\naudit functions of the Municipality be effectively acted upon and\nthat necessary reports be submitted on time; and\nb) Strictly observe the rules/requirements on Human Resource\nAction particularly the Designation procedure as provided in\nSection 13, Rule IV of the 2017 Omnibus Rules on Appointment\nand Other Human Resource Actions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LdS_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended that the Local Chief Executive:\n1. Direct the Municipal Road Engineer to provide the Municipal Accountant and the General Services Officer with the complete description and cost segregation of road components of their road projects;\n2. Direct the General Services Officer (Municipal Treasurer) to maintain the Local Road Network Property Card for all roads and its components; and\nRequire the Municipal Accountant the following reporting procedures:\n3. Prepare JEV to record the beginning balance of the local road network and its components in the general ledger and the Local Road Network Ledger Card, respectively. Support the JEV with the Registry of Public Infrastructures for Roads, working paper on the distribution of costs for the road components, and working paper on the determination of the depreciated replacement cost for road components with no available cost per registry;\n4. Keep and maintain subsidiary records for roads and road components for every road network; and\n5. Prepare a lapsing schedule records for the computation of the depreciation for each component at the end of the year.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LdS_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "6. We recommended that the Municipal Treasurer deposit/remit the collection at least once a week or as soon as the collections reach ₱5,000.00 as required under Section 29 of NGAS Volume I.\n7. We also recommended that the Municipal Treasurer prepare monthly Report of Collections and Deposits, submit the same to COA and exercise due diligence in the supervision over collecting officers under his supervision.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LdS_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "8. We recommended that the Municipal Treasurer deposit/remit the collection at least once a week or as soon as the collections reach ₱5,000.00 as required under Section 29 of NGAS Volume I.\n9. We also recommended that the Municipal Treasurer prepare monthly Report of Collections and Deposits, submit the same to COA and exercise due diligence in the supervision over collecting officers under his supervision.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LdS_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Accountant and the Municipal Treasurer:\n10. Prepare the Report of Disbursement for each cash advance drawn and attach the corresponding supporting payroll/paid vouchers; and\n11. Submit Report of Disbursement as prescribed under of Section 54 Volume II of the New Government Accounting System (NGAS) Manual for Local Government Units (LGUs).",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LdS_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "16. We recommended that Management direct the Municipal Treasurer and the Municipal Accountant to strictly observe the prescribed time to submit these documents to COA and for the immediate supervisors to monitor its compliance.\n17. We also recommended that Management require all the concerned officials to submit immediately all unsubmitted documents, reports, ORs, liquidations and the like.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LdS_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "18. We recommended that Management require the Municipal Accountant the unexpended balance be transferred/deposited to Special Trust Fund under the account “Trust Liability-DRRM” in the Trust Fund Books pursuant to COA Circular 2012-002 dated September 12, 2012 which prescribes the accounting and reporting guidelines for LDRRMF of the Local Government Units, National Local Risk Reduction Management Fund given to LGUs.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LdS_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "19. We recommended that Management require the Accounting Department to prepare separate trial balances for the special accounts in the General Fund most importantly for development projects funded 20% out of the IRA that will facilitate reporting of funds utilized and review thereof.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LDS-2020-PY1",
+      "year": 2020,
+      "recommendation": "1)We recommended that Management create Inventory Committee to conduct complete physical count of all properties owned by the Municipality and prepare report thereon in accordance with Section 124 and 114 of NGAS Manual for LGUs, Volume I to determine the existence and accuracy of PPE.\n2) Further, we recommended that the LCE direct the Municipal Accountant and the Municipal Treasurer maintain PPE Ledger Cards and Acknowledgement Receipt for Equipment (ARE), respectively in compliance to Section 114 of same Manual.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LDS-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended that the office of the Municipal Treasurer prepare and submit the Real Property Tax Receivable to the office of the Municipal Accountant at the start of the year or during the month of January; and the office of the Municipal Accountant to immediately set up the RPT/SET Receivables for the current year.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LDS-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended that Management direct the Municipal Accountant and Treasurer to jointly work on the analysis/review of the accounts. If it is not possible due to the absence of records and documents, the Municipal Accountant should request for write-off and/or adjustments of account balances from the COA.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LDS-2020-OBS1",
+      "year": 2020,
+      "recommendation": "1.9 We recommended that the Local Chief Executive:\na.) Direct the Municipal Engineer to provide the Municipal Accountant and the General Services Officer with the complete description and cost segregation of road components of their road projects;\nb.) Direct the General Services Officer (Municipal Treasurer) to maintain the Local Road Network Property Card for all roads and its components; and\nc.) Require the Municipal Accountant the following reporting procedures:\n\ni. Prepare JEV to record the beginning balance of the local road network and its components in the general ledger and the Local Road Network Ledger Card, respectively. Support the JEV with the Registry of Public Infrastructures for Roads, working paper on the distribution of costs for the road components, and working paper on the determination of the depreciated replacement cost for road components with no available cost per registry;\nii. Keep and maintain subsidiary records for roads and road components for every road network; and\niii. Prepare a lapsing schedule records for the computation of the depreciation for each component at the end of the year",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LDS-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended that Management direct the Municipal Treasurer to record cancelled checks in the cash book and maintain Check Register where check claimants will be required to acknowledge receipt thereof in compliance to Sections 41 and 42, Volume I of NGAs Manual for LGUs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LDS-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Treasurer:\na. Deposit/remit the collection at least once a week or as soon as the collections reach ₱5,000.00 as required under Section 29, Volume I of NGAS Manual for LGUs; and\nb. Prepare monthly Report of Collections and Deposits, submit the same to Office of the Auditor and exercise due diligence in the supervision over collecting officers under his supervision.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LDS-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant and the Municipal Treasurer:\na. Prepare the Report of Disbursement for each cash advance drawn and attach the corresponding supporting payroll/paid vouchers; and\nb. Submit Report of Disbursement as prescribed under of Section 54 Volume II of the New Government Accounting System (NGAS) Manual for Local Government Units (LGUs).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LDS-2020-OBS5",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LDS-2020-OBS6",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LDS-2020-OBS7",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LDS-2020-PY3",
+      "year": 2020,
+      "recommendation": "4)The Municipal Budget Officer prepare and maintain Registries of Appropriation and Obligations (RAO) for personal services (PS), maintenance and other operating expenses (MOOE), capital outlay (CO) and, financial expenses (FE); and\n5)The management justify the lapses noted and justify the bases of the preparation of the financial statements.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LDS-2020-PY5",
+      "year": 2020,
+      "recommendation": "7)We recommended that Management direct the Municipal Treasurer and the Municipal Accountant to strictly observe the prescribed time to submit these documents to COA and for the immediate supervisors to monitor its compliance.\n8)We also recommended that Management require all the concerned officials to submit immediately all unsubmitted documents, reports, ORs, liquidations and the like.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LDS-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommended that Management require the Municipal Accountant the unexpended balance be transferred/deposited to Special Trust Fund under the account “Trust Liability-DRRM” in the Trust Fund Books” pursuant to COA Circular 2012-002 dated September 12, 2012 which prescribes the accounting and reporting guidelines for LDRRMF of the Local Government Units, National Local Risk Reduction Management Fund given to LGUs.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LDS-2020-PY7",
+      "year": 2020,
+      "recommendation": "We reiterated to recommend that the LGU formulate LDPC and LIPC and implement LCPC and utilize LCPC Fund in accordance with the identified PPAs as provided in DILG MC No. 2012-120 dated July 4, 2012.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__Marogong_LDS-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended that Management require the Accounting Department to prepare separate trial balances for the special accounts in the General Fund most importantly for development projects funded out of the IRA that will facilitate reporting of funds utilized and review thereof.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2019-PY2",
+      "year": 2019,
+      "recommendation": "2) We recommended that Management create Inventory Committee to conduct complete physical count of all properties owned by the Municipality and prepare a report thereon in accordance with Section 124 and 114 of NGAS Manual for LGUs, Volume I to determine the existence and accuracy of PPE.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2019-PY3",
+      "year": 2019,
+      "recommendation": "3) Further, we recommended that the LCE direct the Municipal Accountant and the Municipal Treasurer maintain PPE Ledger Cards and Acknowledgement Receipt for Equipment (ARE), respectively in compliance to Section 114 of same Manual.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2019-OBS1",
+      "year": 2019,
+      "recommendation": "1.8 We recommended that:\na) The Local Chief Executive hire/appoint a General Services Officer\nwho shall take custody of and be accountable for all properties,\nreal or personal, owned by the Municipality.\nb) The Management create an Inventory Committee, to once and for\nall, conduct a complete physical count of all properties owned by\nthe Municipality and prepare a report pursuant to Section 156\nCOA Circular No. 92-386 to determine the existence and accuracy\nof PPE.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2019-OBS2",
+      "year": 2019,
+      "recommendation": "2.8 We recommended that the office of the Municipal Treasurer prepare and\nsubmit the Real Property Tax Receivable to the office of the Municipal\nAccountant at the start of the year or during the month of January; and\nthe office of the Municipal Accountant to immediately set up the\nRPT/SET Receivables for the current year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2019-OBS3",
+      "year": 2019,
+      "recommendation": "3.3 We recommended that:\na) The Municipal Budget Officer prepare and maintain Registries of\nAppropriation and Obligations (RAO) for personal services (PS),\nmaintenance and other operating expenses (MOOE), capital\noutlay (CO) and, financial expenses (FE); and\nb) The management justify the lapses noted and justify the bases of\nthe preparation of the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2019-OBS4",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2019-OBS5",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2019-OBS6",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2019-PY1",
+      "year": 2019,
+      "recommendation": "1) We recommended that Management require the Municipal Accountant to transfer/deposit the unexpended balance to Special Trust Fund under the account “Trust Liability-DRRM” in the Trust Fund Books” pursuant to COA Circular 2012-002 dated September 12, 2012 which prescribes the accounting and reporting guidelines for LDRRMF of the Local Government Units, National Local Risk Reduction Management Fund given to LGUs.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2019-PY4",
+      "year": 2019,
+      "recommendation": "4) We recommended that Management direct the Municipal Treasurer and the Municipal Accountant to strictly observe the prescribed time to submit these documents to COA and for the immediate supervisors to monitor its compliance.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2019-PY5",
+      "year": 2019,
+      "recommendation": "5) We also recommended that Management require all the concerned officials to submit immediately all unsubmitted documents, reports, ORs, liquidations and the like.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2019-PY6",
+      "year": 2019,
+      "recommendation": "6) We recommended that Management require the Municipal Accountant the unexpended balance be transferred/deposited to Special Trust Fund under the account “Trust Liability-DRRM” in the Trust Fund Books” pursuant to COA Circular 2012-002 dated September 12, 2012 which prescribes the accounting and reporting guidelines for LDRRMF of the Local Government Units, National Local Risk Reduction Management Fund given to LGUs.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2019-PY7",
+      "year": 2019,
+      "recommendation": "7) We reiterated to recommend that the LGU formulate LDPC and LIPC and utilize and implement LCPC Fund in accordance with identified PPAs as provided in DILG MC No. 2012-120 dated July 4, 2012.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2019-PY8",
+      "year": 2019,
+      "recommendation": "8) We recommended that Management require the Accounting Department to prepare separate trial balances for the special accounts in the General Fund most importantly for development projects funded out of the IRA that will facilitate reporting of funds utilized and review thereof.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2019-PY9",
+      "year": 2019,
+      "recommendation": "9) We recommended that Management conduct orientation among concerned personnel on GAD in particular to the provisions of PCW-NEDA-DBM JC 2012-01. Specifically, make sure that proper budgeting, accounting and reporting of GAD Fund are duly complied with and, that, the Fund can only be utilized according to the intended purpose(s).",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommended that Management create Inventory Committee to conduct complete physical count of all properties owned by the Municipality and prepare a report thereon in accordance with Section 124 and 114 of NGAS Manual for LGUs, Volume I to determine the existence and accuracy of PPE.\nWe further recommended that the LCE direct the Municipal Accountant and the Municipal Treasurer maintain PPE Ledger Cards and Acknowledgement Receipt for Equipment (ARE), respectively in compliance to Section 114 of same Manual.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommended that the LGU formulate LDPC and LIPC and utilize and implement LCPC Fund in accordance with identified PPAs as provided in DILG MC No. 2012-120 dated July 4, 2012.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommended that Management should conduct orientation among concerned personnel on GAD in particular to the provisions of PCW-NEDA-DBM JC 2012-01. Specifically, make sure that proper budgeting, accounting and reporting of GAD Fund are duly complied with and, that, the Fund can only be utilized according to the intended purpose(s).",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommended that Management direct the Municipal Accountant\nand Treasurer to jointly work on the analysis/review of the accounts, if\nit is not possible due to the absence of records and documents, the\nmunicipal accountant should request for write-off and/or adjustments\nof account balances from the COA.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We recommended that Management create Inventory Committee to\nconduct complete physical count of all properties owned by the\nMunicipality and prepare a report thereon in accordance with Section\n124 and 114 of NGAS Manual for LGUs, Volume I to determine the\nexistence and accuracy of PPE.\n\nFurther, we recommended that the LCE direct the Municipal\nAccountant and the Municipal Treasurer maintain PPE Ledger Cards\nand Acknowledgement Receipt for Equipment (ARE), respectively in\ncompliance to Section 114 of same Manual.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive (LCE) direct the Municipal Accountant to prepare and submit the BRS and its supporting the paid checks and original documents monthly to the Auditor, within ten days after receipt of the Bank Statements in compliance with the provisions of Section 74 of PD 1445 and COA Circular 96-011 dated October 2, 1996.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommended that Management require the Municipal Accountant to transfer or deposit the unexpended balance to Special Trust Fund under the account “Trust Liability-DRRM” in the Trust Fund Books” pursuant to COA Circular 2012-002 dated September 12, 2012 which prescribes the accounting and reporting guidelines for LDRRMF of the Local Government Units, National Local Risk Reduction Management Fund given to LGUs.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2018-PY4",
+      "year": 2018,
+      "recommendation": "We recommended that Management a. Prepare LDRRMFIP for the DRRM program annually in the prescribed format required under COA Circular No. 2012-002; and b. Direct the Municipal Accountant and MDRRMO to submit Monthly Report on Sources and Utilization of DRRMF in prescribed format on or before the 15th day after the end of each month.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2018-PY6",
+      "year": 2018,
+      "recommendation": "We recommended that Management strictly implement the mandatory deductions pertaining to GSIS, Philhealth, Pag-ibig and withholding tax for personnel and remitting said deductions on time in compliance with provisions of laws and regulations.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2017-PY2",
+      "year": 2017,
+      "recommendation": "We have recommended to the Municipal Accountant to prepare and submit monthly bank reconciliation statements regularly for special education fund and trust funds pursuant to Section 74 of PD 1445 and COA Cir. 96-11.",
+      "managementAction": "The agency prepares and submits BRS.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Responsible official needs training to gain work competence and the LGU is still hiring additional qualified personnel."
+    },
+    {
+      "id": "Marogong_LDS-2017-PY4",
+      "year": 2017,
+      "recommendation": "Recommendations:          Require the completion of the physical inventory report and determine the insurable properties;     Instruct the General Services Officer to officially request the GSIS to conduct evaluation of properties for the consideration in the insurance plan coverage;  Direct the General Services Officer to coordinate with the Municipal Budget Officer in the estimation of premiums that may be incurred for the insurance plan; and  Advise the Municipal Budget Officer to appropriate the necessary amount to cover for the payment of premiums for the insurance of the properties in annual budget.      We further recommend strict compliance with R.A. No. 656 (Property Insurance Law) to ensure that all identified insurable assets belonging to the Municipality of Marogong are adequately covered /insured with GIF of the GSIS.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2017-PY6",
+      "year": 2017,
+      "recommendation": "We recommend that the unexpended balance be transferred/deposited to Special Trust Fund under the account “Trust Liability-DRRM” in the Trust Fund Books pursuant to COA Circular 2012-002 dated September 12, 2012.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in this year’s report."
+    },
+    {
+      "id": "Marogong_LDS-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We recommended that Management create Inventory Committee to conduct complete physical count of all properties owned by the Municipality and prepare a report thereon in accordance with Section 124 and 114 of NGAS Manual for LGUs, Volume I to determine the existence and accuracy of PPE.\nWe further recommended that the LCE direct the Municipal Accountant and the Municipal Treasurer to maintain PPE Ledger Cards and Acknowledgement Receipt for Equipment (ARE), respectively in compliance to Section 114 of same Manual.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive (LCE) direct the Municipal Accountant to prepare and submit the BRS and its supporting documents monthly to the Auditor, within ten days after receipt of the Bank Statements in compliance with the Section 74 of PD 1445 and COA Circular 96-011 dated October 2, 1996.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2017-OBS3",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2017-OBS4.1",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2017-OBS4.2",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2017-OBS5.1",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2017-OBS5.2",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2017-OBS5.3",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2017-OBS5.4",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We recommended that Management require the Municipal Accountant to transfer or deposit the unexpended balance to Special Trust Fund under the account “Trust Liability-DRRM” in the Trust Fund Books” pursuant to COA Circular 2012-002 dated September 12, 2012 which prescribes the accounting and reporting guidelines for LDRRMF of the Local Government Units, National Local Risk Reduction Management Fund given to LGUs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2017-PY1",
+      "year": 2017,
+      "recommendation": "We recommended that management should initiate necessary reforms for fiscal reporting and accountability by:    training personnel to gain work competence and or hiring additional qualified personnel and or restructuring existing personnel giving the right job for the right person; Enforcing due compliance with laws, rules and regulations on the rendition of financial reports.    It is further recommended that LCE should direct the concerned municipal officials to submit promptly the period financial reports together with the pertinent supporting documents to COA for timely post audit of transaction and communication the results thereof.",
+      "managementAction": "The LGU coordinated efforts to submit periodic reports together with its supporting documents.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Responsible official needs training to gain work competence and the LGU is still hiring additional qualified personnel."
+    },
+    {
+      "id": "Marogong_LDS-2017-PY3",
+      "year": 2017,
+      "recommendation": "We recommend that management particularly to the members of the Bids and Awards Committee to strictly adhere to the above mentioned regulations.  In cases of procurement method applied not within approved APP, the BAC through a resolution must recommend to the Head of the Procuring Entity the specific alternative method of procurement to be used and secure the prior approval pursuant to 3.2  Section 48.1 and 48.3 of IRR of RA 9184.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2017-PY5",
+      "year": 2017,
+      "recommendation": "We recommend that the Municipal Planning and Development Officer and other responsible officials be directed to submit GAD Accomplishment Report to the Auditor of the programs, project, and activities undertaken during the year.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2016-OBS1",
+      "year": 2016,
+      "recommendation": "1.7  We recommended that management should initiate necessary reforms for fiscal reporting and accountability by:\ntraining personnel to gain work competence and or hiring additional qualified personnel and or restructuring existing personnel giving the right job for the right person;\nEnforcing due compliance with laws, rules and regulations on the rendition of financial reports.\n1.8  It is further recommended that LCE should direct the concerned municipal officials to submit promptly  the period financial reports together with the pertinent supporting documents to COA for timely post audit of transaction and communication the results thereof.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2016-OBS2",
+      "year": 2016,
+      "recommendation": "2.3  We have recommended to the Municipal Accountant to prepare and submit monthly bank reconciliation statements regularly for special education fund and trust funds pursuant to Section 74 of PD 1445 and COA Cir. 96-11.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2016-OBS3",
+      "year": 2016,
+      "recommendation": "3.5  We recommend that management particularly to the members of the Bids and Awards Committee to strictly adhere to the above mentioned regulations.  In cases of procurement method applied not within approved APP, the BAC through a resolution must recommend to the Head of the Procuring Entity the specific alternative method of procurement to be used and secure the prior approval pursuant to 3.2  Section 48.1 and 48.3 of IRR of RA 9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2016-OBS4",
+      "year": 2016,
+      "recommendation": "4.6  Recommendations:\nRequire the completion of the physical inventory report and determine the insurable properties;\nInstruct the General Services Officer to officially request the GSIS to conduct evaluation of properties for the consideration in the insurance plan coverage;\nDirect the General Services Officer to coordinate with the Municipal Budget Officer in the estimation of premiums that may be incurred for the insurance plan; and\nAdvise the Municipal Budget Officer to appropriate the necessary amount to cover for the payment of premiums for the insurance of the properties in annual budget.\n4.7  We further recommend strict compliance with R.A. No. 656 (Property Insurance Law) to ensure that all identified insurable assets belonging to the Municipality of Marogong are adequately covered /insured with GIF of the GSIS.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommend that the Municipal Planning and Development Officer and other responsible officials be directed to submit GAD Accomplishment Report to the Auditor of the programs, project, and activities undertaken during the year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommend that the unexpended balance be transferred/deposited to Special Trust Fund under the account “Trust Liability-DRRM” in the Trust Fund Books” pursuant to COA Circular 2012-002 dated September 12, 2012.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2016-OBS7",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2016-OBS8",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2016-OBS9",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2016-OBS10",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2016-PY1",
+      "year": 2016,
+      "recommendation": "We recommend that the Accountable Officer should prepare and submit regularly to the Office of the Auditor the Monthly Report of Accountability for Accountable Forms With and Without Money Value to the Auditor to ensure compliance to Section 98 of PD 1445 and Section 50 of Manual of the New Government Accounting System for Local Government Units (MNGAS) Volume II.",
+      "managementAction": "The Municipal Treasurer prepared and submitted RAAF monthly.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2016-PY2",
+      "year": 2016,
+      "recommendation": "We recommend that management should conduct physical inventory of properties, plant and equipment and submit the related Report of the Physical Count on the Property, Plant and Equipment (RPCPPE) to the Auditor for verification in compliance with Section 124 of the NGAS Manual for Local Government Units (LGUs), Volume I. Further, we recommend that the Accounting and General Services Office to complete and update their property records/ledger card and reconcile existing records.",
+      "managementAction": "Physical inventory was conducted by the management and inventory reports were submitted.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "There are other reports unsubmitted for reconciliation with the records of the supply officer."
+    },
+    {
+      "id": "Marogong_LDS-2016-PY3",
+      "year": 2016,
+      "recommendation": "We recommend that the Municipal Account be directed to make the necessary adjustments in the books of accounts for the transfer of the subject PPE accounts from the Trust Fund books to the General Fund, take up the unrecognized Income from Donations and Depreciation. Prepare the related Journal Entry Voucher and submit the same to the Auditor for audit.",
+      "managementAction": "The LCE directed the accountant to transfer subject PPE from TF to GF and prepare necessary JEV and submit the same to the auditor.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2016-PY4",
+      "year": 2016,
+      "recommendation": "We recommended that the municipal accountant and treasurer should jointly work on the analysis/review of the accounts, if it is not possible due to the absence of records and documents, the municipal accountant should request for write-off and/or adjustments of account balances from the COA.",
+      "managementAction": "The Municipal Accountant jointly worked for the analysis/review of dormant accounts.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2016-PY5",
+      "year": 2016,
+      "recommendation": "Initiate measures designed to come up with a Memorandum of Agreement (MOA) with the GSIS defining therein the agreed balance of payables to GSIS, if any, and the terms and conditions in the settlement thereof. The following steps may help in facilitating reconciliation of records. Secure detailed profile of payables per GSIS records; Reconstruct old GSIS accounts, if necessary, and update records; Reconstruct old personnel profile, if necessary, and update personnel profile; Counter-check GSIS records with the reconstructed and updated accounting and personnel records of the LGU; Negotiate with the GSIS for any differences that may be noted during counter-checking activity; Enter into a formal agreement with the GSIS in the form of a Memorandum of Agreement (MOA); and Appropriate fund for the settlement of any payables to the GSIS as agreed in the MOA.",
+      "managementAction": "The liason officer of the LGU updated the records of the current administration and remitted their monthly premium contributions on time; For arrears, Letter of Intent and SB Resolution has been prepared and duly received by GSIS as pre-requisite in forging into MOA; and Some employees of the previous administration were deceased, hence their Service Records for profile purposes cannot be easily ascertained.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2016-PY6",
+      "year": 2016,
+      "recommendation": "Require the Municipal Accountant and Accountable Officer to record and facilitate the immediate submission of Reports of Check Issued (RCI), Reports of Disbursement (ROD) and transactions documents consisting of paid vouchers/payrolls together with supporting documents to Auditor’s Office and strictly adhere to the provisions of COA Circular No. 94-013 dated December 13, 1994.",
+      "managementAction": "The LCE will direct the Mun. Accountant and Mun. Treasurer to record, and facilitate the immediate submission of RCI, ROD and transaction documents.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Marogong_LDS-2016-PY7",
+      "year": 2016,
+      "recommendation": "We recommended that management should submit letter request for inspection to the Auditor of the time and date of every scheduled delivery of goods and services be made on time pursuant to COA Circular No. 95-006 dated May 18, 1995.",
+      "managementAction": "The LCE will direct the responsible officials to submit letter request for inspection to the Auditor of the time and date of every delivery of goods and services made on time.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "POs attached to its DVs and were not submitted on time."
+    },
+    {
+      "id": "Marogong_LDS-2016-PY8",
+      "year": 2016,
+      "recommendation": "We recommend that management should make sure that observers (consisting of the concerned auditor, a representative of a duly recognized private group in a sector or discipline relevant to the procurement at hand and a representative of a NGO) are duly notified in writing at least 2-day before the stages of procurement to which observers shall be invited, namely: pre-bid conference; opening of bids; post-qualification; contract award; and special meetings of the BAC.",
+      "managementAction": "The LCE will instruct responsible officials to inform COA of any procurement proceedings.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Only few transactions where the Auditor was notified."
+    }
+  ]
+}

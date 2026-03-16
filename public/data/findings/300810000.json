@@ -1,0 +1,1526 @@
+{
+  "lguCode": "300810000",
+  "lguName": "Orion",
+  "province": "Bataan",
+  "region": "Region II (Cagayan Valley)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-PY1",
+      "year": 2024,
+      "recommendation": "We reiterated the prior year’s recommendation that Management instruct the – a. Municipal Treasurer to • update in the RPTAR the running balance of delinquent taxpayers based on the assessment roll provided by the Municipal Assessor’s Office; and • implement procedures and strategies to further improve collection efficiency through publishing yearly the notice of delinquency once a week for two consecutive weeks in a newspaper of general circulation; and including remarks/statements regarding the reason/s for non-collection or non-payment in the certified list of all real property tax delinquencies which remained uncollected or unpaid for at least one year, with a request for assistance in the enforcement of the remedies for collection to be submitted to the sanggunian; b. Municipal Accountant – • consider requesting to the Commission on Audit’s Accounting Systems Development and Other Services Office (ASDOSO) under the Government Accountancy Sector to install the latest version of enhanced New Government Accounting System (e-NGAS) which will aid them in recording transactions, financial statement preparation, among others, but also to facilitate the maintenance of Subsidiary Ledgers related to RPT/ SET Receivables to provide reconciliation with records of MTO as well as to support the balance reflected in the financial statements. c. Municipal Treasurer – • request for the replacement of the resigned employee assigned in the Municipal Treasury Office (MTO) to fast track the encoding and updating of the details included in the RPTAR; and • continue to extend further actions to enforce the payment of delinquent taxpayers and increase the effort to increase percentage of collection of receivables; and enforce payment from delinquent taxpayers.",
+      "managementAction": "Not implemented. The Audit Team conducted a validation by sampling hard copies of RPTARs (index cards). The validation revealed an amount of undisclosed delinquency, totaling ₱2,580,355.65. This amount was found within two sampled drawers, where the RPTARs were kept, which contained delinquent taxpayers. The sampled drawers represented only a portion of the total RPTAR records. To speed up and streamline the process of encoding and updating RPTAR data, two (2) JO employees were hired and assigned to the Municipal Treasurer’s Office (MTO) on April 1, 2024, replacing the resigned employee who previously handled these tasks. The Certified List of All Real Property Tax Delinquencies was submitted to and received by the Commission on Audit (COA) of Orion on April 29, 2024. This submission followed a great deal of hard work and effort by both the Offices of the Municipal Accountant and Municipal Treasurer to reconcile discrepancies amounting to ₱40,333,286.97. These discrepancies concerned the recorded amount of delinquent real taxpayers as of year-end, which was noted during the audit. As required, the notice of delinquency was published once a week for two consecutive weeks in a newspaper of general circulation in Bataan. Copies were provided by the Provincial Treasurer’s Office (PTO) to the Municipal Treasurer’s Office (MTO). The MTO of Orion also issued notices to delinquent taxpayers and worked with barangays to post the list locally to improve collection. The suggestion to indicate reasons for non-payment or non-collection has been acknowledged and considered. The Office of the Municipal Accountant contacted the Commission on Audit’s Accounting Systems Development and Other Services Office (ASDOSO) regarding the enhanced eNGAS. The COA ASDOSO replied in an email dated April 28, 2025 placing the municipality in the waiting list while the latter is preparing for the data and technical requirements prior to the training of the accounting and budget staff and IT personnel, respectively. The installation of the new version will address changes to the chart of accounts and other accounting policies as well as improve efficiency in recording and maintaining records. The training request was forwarded to the Provincial Government of Bataan (PGB) and is currently awaiting confirmation of its scheduling in 2025. The municipality is currently on the official waiting list for the next scheduled training on Enhanced eNGAS version 2.0. JEV No. 2024-12-004534 and JEV-2024-12-001042 were prepared and recorded last year through JEV-2024-12-004534 and JEV-2024-12-001042 respectively. Additionally, as recommended, further adjusting entries were prepared on July 31, 2025 (JEV-2025-07-002354 for RPT Receivable and JEV-2025-07-000602 for SET Receivable) to record the unreported RPT delinquency and to correct a systematic error in the formula applied to a real property located in Sto. Domingo. However, as of this writing, the issue remains unresolved.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-PY2",
+      "year": 2024,
+      "recommendation": "We recommended that Management– a. revise EO No. 44, series of 2023, to properly address the minimum frequency of count for supplies and deadline of submission of inventory report for the 1st and 2nd semesters; and b. instruct the – • GSO to present all the information required in the RPCI format; • RHU and MSWDO consider the utilization of RPCI format with minor variation for the monitoring of expiration date and/or lot number; and • Municipal Accountant to make an adjusting entry on the understatement of inventory unrecorded donated drugs and medicines and other supplies and materials for distribution, as follows: Dr. Drugs and Medicines for Distribution ₱1,862,321.17 Dr. Other Supplies and Materials for Distribution ₱8,251.00 Cr. Government Equity 1,870,572.17 To record the donated drugs, medicines and other supplies for distribution received from the PHO and PDOHO. We reiterated prior years’ recommendations that Management – a. require the Municipal Treasurer to apply for the fidelity bond of Inventory Custodians; b. instruct the Inventory Custodian/ Accountable Officer to prepare Summary of Supplies and Materials Issued (SSMI) to be submitted every week or at least once a month to the Municipal Accountant together with Requisition and Issue Slip (RIS) or equivalent document so that issuances will be computed and recorded by the latter; c. direct the Municipal Health Officer (MHO) to (i) request from the DOH and PHO the actual amounts of drugs and medicines transferred to them or assist the Municipal Accountant or her representative in the identification of amounts, in case the agencies would not be able to provide the amounts despite of request; and (ii) ensure that all drugs and medicines donated by other agencies are reported to the Municipal Accountant’s Office by furnishing copy of delivery receipts and/or Acceptance and Inspection Report (AIR) for recording and valuation purposes; d. pursue establishment of computerized inventory system, through the assistance of the MITO, specifically in Rural Health Unit (RHU) to properly monitor receipts and issuances of drugs and medicines as well as the generation of inventory reports; and e. instruct the Municipal Accountant to (i) coordinate again with the COA Accounting Systems Development and Other Services Office (ASDOSO) regarding the errors they had been encountering with the eNGAS; and (ii) update the program in Enhanced eNGAS version 2.0 to cope with the changes in the chart of accounts and other accounting policies; as well as improve efficiency in recording and maintaining records.",
+      "managementAction": "Implemented. The understatement of inventory accounts attributed to the RHU Pharmacist totaling ₱1,870,572.17, was already rectified. The correction was made because some of the items in question were used and expensed during the CY 2024. The remaining balance of the understated amount was adjusted through Journal Entry Voucher Nos. 2024-12-004529 and 2024-12-004532, both dated December 27, 2024. The implementation of the Department of Health’s (DOH) Electronic Logistics Management Information System (eLMIS) provides visibility of unit costs for drugs and medicines, and this was effectively implemented to ensure proper monitoring of drugs and medicines. The Municipal Accountant coordinated with COA ASDOSO and the municipality has been placed on the waiting list for the Enhanced eNGAS training while preparing the necessary data and technical requirements. The Municipal Accountant has also prepared adjusting entries to record expired medicines and donated welfare goods: JEV-2025-07-002306 (Annex B) and JEV-2025-07-002330 (Annex C) dated July 1, 2025. The Office of the Municipal Accountant already forwarded copies of standardized donation acceptance form to General Services Office and MSWDO but will send another copy again; reorganize the Inventory Committee with their functions and responsibilities clearly defined in the revised executive order including the schedule and proper documentation of all regular inventory activities. The Municipal Treasurer, as of today, is unable to cause the application for the fidelity bond of Inventory Custodian because of pending appointment papers. The Municipal Health Office (MHO) provided actions such as disposal of expired medicines and coordination with MITO for connectivity improvements; the MSWDO will establish layered cabinets or storage solutions and limit access to stockroom focal persons; the GSO maintained stock cards for each class of supplies; and the MAO prepared and posted adjusting entries in the eNGAS records under JEV-2025-07-002306 dated July 1, 2025 and JEV-2025-07-002330 dated July 1, 2025 to record expired medicine as of December 31, 2024 and donated welfare goods, respectively.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-PY3",
+      "year": 2024,
+      "recommendation": "We reiterated prior years’ recommendation that Management – a. include the conduct of one-time cleansing procedure in the schedule of activities of the Inventory and Disposal Committee in 2025; and b. comply with the general and specific guidelines set forth in COA Circular No. 2020-006, for the one-time cleansing of the PPE accounts in order to fully address the recurring deficiencies noted in audit including the; (i) preparation of Physical Inventory Plan (PIP) to proceed with necessary procedures from inventory taking; (ii) recording of donated items found in the count and subsequent recording to the books of accounts, (iii) disposal of obsolete/ unserviceable PPE items; and (iv) subsequent derecognition of values related in the books of accounts; We also recommended that the Municipal Accountant make an adjusting entry on the missing PPEs after the GSO has complied with recommendation letter b, as follows: Particulars Debit Credit Prior Period Adjustments ₱215,968.73 Accumulated Depreciation 1,038,751.78 Government Equity ₱11,331.00 Various PPEs 1,243,389.51 To make an adjusting entry on the non-existing PPEs/missing assets of the Municipality.",
+      "managementAction": "Not implemented. The one-time cleansing activity has not yet been scheduled, although the GSO, MDRRMO and MITO have already undergone training in 2024. The MDRRMO mentioned during the exit conference that they had been experiencing difficulties in implementing the PPE cleansing due to its technicality. The Finance Departments were requested to assist them to conduct the PPE cleansing in 2025. The GSO submitted the Inventory of Vehicles Owned by the Municipality of Orion on April 02, 2024. The Municipal Accountant will review the PPE accounts identified as non–existing/missing assets, after which an adjusting entry will be prepared and posted in the eNGAS records to correct the overstatement of PPE in the financial statements, once verified. The Municipal Accountant stated during the exit conference that a meeting would be scheduled, involving the personnel tasked with the PPE cleansing, upon the OIC-GSO's return from vacation leave.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-PY5",
+      "year": 2024,
+      "recommendation": "While waiting for the finalization of the latest ordinance and DICT’s program, we recommended that the LCE instruct the – a. MITO – • review the tax rates under letter (g) of the existing ordinance to determine which is the approved tax table for the specified establishments; • adjust penalty rates and include surcharges based on the approved ordinance; and • utilize other features of the e-BPLS to maximize its use such as reflecting closed businesses; and b. Municipal Treasurer and BPLO – • conduct a visitation of the principal place of business of new establishments to aid them in determining whether the locations were previously occupied by delinquent taxpayers; • include in their schedules the annual visitation to 23 barangays of Orion, locating the delinquent taxpayers to determine the current status of their business operations; and • consider sending notices to delinquent taxpayers. We also recommended that the LCE direct the Municipal Treasurer to attend the Examination of Books of Accounts (EBA) and Books of Pertinent Records of Business Owners under the BLGF to enhance the skills and knowledge of the latter and increase their basic understanding of the principles and techniques in the conduct of examination of books, accounts and other pertinent records of any person, partnership, corporation or association subject to local taxes, fees, and charges.",
+      "managementAction": "Implemented. The municipality conducted comparative analysis and identified instances of both undercollection and overcollection, indicating that the tax rates being applied differed from the legally mandated rates. The MITO was instructed to start the review and update process immediately and to conduct system testing after updates. The MTO issued various Notices of Delinquency and visitation was carried out covering the Public Market and Barangay Arellano in April to May 2024. BPLO and MTO will conduct a joint planning session to outline scope, timeline and responsibilities for inspecting all business establishments; a joint inspection calendar covering all barangays is planned. The Municipal Treasurer attended the Examination of Books of Accounts (EBA) conducted on July 9–12, 2024, along with other municipal officers.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS1",
+      "year": 2024,
+      "recommendation": "We recommended that\n➢ the MTO –\n• conduct a full and thorough review of all RPTARs to ensure completeness and\naccuracy with the end-view of updating the delinquent taxpayer list;\n• update the RPTAR running balance of delinquent taxpayers based on the\nassessment roll provided by the Municipal Assessor’s Office; and\n• reinstate the provision of the importable format to MAO for the eNGAS\nsystem.\n➢ the Municipal Accountant –\n• request for the update of the eNGAS; and\n• adjust the RPT and SET receivables in the financial statements to reflect the\naccurate amount of delinquencies.\nAccount Title Debit Credit\nReal Property Tax Receivable ₱1,290,428.73\nDeferred Real Property Tax Income ₱1,290,428.73\nTo include the unreported RPT delinquency and accurately adjust the RPT\nreceivables in accordance with the Duly Certified List of RPT Delinquencies,\nas well as to rectify the systematic error in the formula applied to a real\nproperty located in Sto. Domingo\nSpecial Education Tax Receivable ₱1,290,428.73\nDeferred Special Education Tax ₱1,290,428.73\nIncome\nTo include the unreported RPT delinquency and accurately adjust the SET\nreceivables in accordance with the Duly Certified List of RPT Delinquencies,\nas well as to rectify the systematic error in the formula applied to a real\nproperty located in Sto. Domingo\n\n1.22 We additionally recommended that the Municipal Assessor and the Municipal\nTreasurer (i) coordinate with the PGB to restore the full functionality of the PATAS\nsystem; and (ii) schedule this year the training and technical assistance to set up the\nlinkage of the PATAS to the MTO to utilize the system following the existing\nMemorandum of Agreement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS2",
+      "year": 2024,
+      "recommendation": "We recommended that the MSWDO (i) designate responsible personnel for\ninventory record maintenance and reporting and ensure strict compliance with\nrecord updates; (ii) implement strict access policy to the storeroom where only\ndesignated authorized personnel is allowed entry; and (iii) submit an investigation\nreport identifying the root cause of the discrepancies including the corrective\nmeasures to prevent the future occurrences.\n\nWe also recommended that the MHO (i) reassess distribution of responsibility\nwith the end-view that the eLMIS is updated regularly and its functionalities\nexploited; (ii) address connectivity issues to ensure the operation of the eLMIS; (iii)\naddress storeroom capacity issues to mitigate operational and safety risks; and (iv)\ndesignate responsible personnel for inventory record maintenance and reporting and\nensure strict compliance with record updates.\n\nWe further recommended that the Municipal Accountant (i) coordinate with\nCOA Accounting Systems Development and Other Services Office (ASDOSO) to\nupdate the eNGAS; and (ii) prepare the following adjusting entries:\nAccount Title Debit Credit\nGovernment Equity 5-05-04-990 ₱ 4,842.00\nDrugs and Medicines for Distribution 1-04-02-030 4,842.00\nTo recognize the losses on the expired drugs and medicines as of December 31, 2024\nWelfare Goods for Distribution 1-04-02-020 260,806.00\nGovernment Equity 4-04-02-020 260,806.00\nTo record the donated welfare goods for distribution received from the various private\nindividual and/or agencies\n\nWe further recommended that Management (i) establish a standardized\ndonation acceptance form to be completed upon the receipt of all donated items,\nincorporating the donor information, detailed description of donated items, date and\ntime of donation, signature of the receiving personnel; and (ii) revise EO No. 44, series\nof 2023, to align with the MNGAS requirements by specifying semi-annual physical\ninventory counts and the corresponding submission deadlines of July 31st and\nJanuary 31st for the first and second semesters, respectively.\n\nWe recommended that the Municipal Treasurer cause the application for the\nfidelity bond of Inventory Custodians.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS3",
+      "year": 2024,
+      "recommendation": "We reiterated prior years’ recommendation that Management –\na. include the conduct of one-time cleansing procedure in the schedule of\nactivities of the Inventory and Disposal Committee in 2025; and\nb. comply with the general and specific guidelines set forth in COA Circular No.\n2020-006, for the one-time cleansing of the PPE accounts in order to fully\naddress the recurring deficiencies noted in audit.\n\nWe also recommended that the Municipal Accountant make an adjusting\nentry on the missing PPEs after the GSO has complied with recommendation letter\nb, as follows:\nParticulars Debit Credit\nPrior Period Adjustments ₱ 215,968.73\nAccumulated Depreciation 1,038,751.78\nGovernment Equity ₱ 11,331.00\nVarious PPEs 1,243,389.51\nTo make an adjusting entry on the non-existing PPEs/missing assets of the\nMunicipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS4",
+      "year": 2024,
+      "recommendation": "We reiterated the prior year’s recommendation that Management comply\nwith the general and specific guidelines set forth in COA Circular No. 2020-006, for\nthe one-time cleansing of the PPE accounts in order to fully address the recurring\ndeficiencies noted in audit including the; (i) disposal of obsolete/ unserviceable PPE\nitems; and (ii) subsequent derecognition of values related in the books of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS5",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS5",
+      "year": 2024,
+      "recommendation": "We reiterated prior year’s recommendation that the Municipal Accountant (i)\nupdate records of acquisition/disposal/transfer of PPEs in the PPELCs to ensure that\nthe total balance of PPELCs tally with the balances of controlling PPE accounts in\nthe General Ledger and the latest RPCPPE/Inventory; and (ii) coordinate with the\nCOA Accounting Systems Development and Other Services Office regarding the\nerrors they had been encountering with the eNGAS and to update the program in\nEnhanced eNGAS version 2.0 to cope with the changes in the chart of accounts and\nother accounting policies.\n\nWe recommended that the GSO ensure that all newly acquired and existing\nPPE are properly documented and recorded through PAR and PC, with complete\ndetails as required by the MNGAS for LGUs.\n\nWe further recommended that MAO and GSO implement regular\nreconciliation of the GSO's property records (PCs and PARs) with the accounting\ndepartment's PPELCs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS6",
+      "year": 2024,
+      "recommendation": "We recommended that Management –\na. make an adjusting entry for the recognition of donated lots for roads and\ncanals:\nParticulars Debit Credit\nLand ₱22,161,800.00\nGovernment Equity ₱22,161,800.00\nTo make an adjusting entry on the donated lots for roads and\ncanals to the Municipality.\nb. expedite the coordination efforts between the Municipal Treasurer and the\nSB Secretary to gather all necessary documentation related to the\nremaining unsupported donated lots amounting to ₱1,741,350.00, and if\nunavailable in existing files, immediately secure copies of the TCTs from\nthe Registry of Deeds to facilitate the proper transfer of ownership of these\nlands under the name of the Municipality.\n\nWe further recommended that the Municipal Accountant promptly record the\ndonated residential lots amounting to ₱1,741,350.00 in the Municipality’s books of\naccounts once the necessary supporting documents are obtained, to properly confirm\nthat these lots were indeed donated to the Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS7",
+      "year": 2024,
+      "recommendation": "We recommended that the Municipal Accountant draw appropriate journal\nentries to derecognize assets upon execution of Deed of Donation and turn-over\ndocuments for accurate and fair presentation of the PPE accounts, as follows:\nAccount\nAccount Name Code Debit Credit\nPrior Period Adjustments 3-01-01-020 ₱2,605,256.12\nAccumulated Depreciation-\nOther Structures 1-07-04-991 69,683.59\nDepreciation Expenses-\nBuildings and Other Structures 5-05-01-040 ₱ 66,302.26\nOther Structures 1-07-04-990 2,608,637.45\nTo record the transfer of donated\nDay Care Centers to the Barangays of\nSabatan and Bilolo, Orion, Bataan",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS8",
+      "year": 2024,
+      "recommendation": "We recommended that Management coordinate with the NHA and NGCP-\nHermosa to obtain guidance on the appropriate disposition of the unutilized amounts.\n\nWe also recommended that the Municipal Accountant make an adjusting\nentry on the remaining balance from the NGCP-Hermosa from Due to NGAs to Trust\nLiabilities, due to the nature of the fund transfer and as a privately-owned\ncorporation, to wit:\nDebit Credit\nDue to NGAs ₱46,045.54\nTrust Liabilities ₱46,045.54\nTo correct the account classification of the remaining balance of\nFinancial Assistance for drug surrenderees \"Bukas na Pintuan\" provided\nby NGCP-Hermosa\n\nWe further recommended that the PESO Coordinator/Manager –\ni. regularly and closely monitor the implementation of the projects granted\nto the beneficiaries to ensure their compliance and the achievement of the\npurpose of the fund transfers; and\nii. coordinate with the DOLE Regional Office No. III, to develop a\ncustomized MOA tailored to the specific type of Kabuhayan project,\nincluding provisions that define the responsibilities of the beneficiary\nassociation to reinforce accountability moving forward.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS9",
+      "year": 2024,
+      "recommendation": "We recommended that the:\na. Finance Committee, examine and plan the full budgeting and funding of\nemployees’ earned leave credits;\nb. Municipal HRMO to regularly update the Municipal Accountant on the\ncomputed earned leave credits using Section 3.1 of DBM-BC No. 2016-2 dated\nMarch 29, 2016; and\nc. Municipal Budget Officer to realign the OPB- Vacation and Sick Leave\nCredits to TLB to comply with IPSAS 39.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS10",
+      "year": 2024,
+      "recommendation": "We recommended that MITO revise the tax rates in the e-BPLS to conform\nwith updated tax rates as provided under Municipal Tax Ordinance No. 04-010-016.\n\nWe also recommended that Municipal Treasurer’s Office (MTO); (i) consider\nissuing public notices to taxpayers to clarify the correct tax rates to foster\ntransparency and accountability; and (ii) collect the under-collection of ₱286,773.55\nin CY 2024.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS11",
+      "year": 2024,
+      "recommendation": "We recommended that the BPLO and MTO prepare a realistic and timebound\naction plan to facilitate the inspection of business establishments within the\nMunicipality.\n\nWe further recommended that the BPLO regularly generate an updated and\ncomprehensive list of all business establishments within the Municipality, including\ntheir operational status and provide the list to the MTO for coordination and\nreference.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS12",
+      "year": 2024,
+      "recommendation": "We recommended that the –\na. MHRMO -\n➢ ensure that job descriptions in contracts accurately reflect the actual\nduties performed by JO personnel; and\n➢ Conduct a thorough assessment of the manpower needs to determine\nthe appropriate balance between plantilla positions, job orders, and\nconsultants; and\nb. Municipal Budget Officer -\n➢ Evaluate financial sustainability of hiring job orders, contract of\nservice, and consultants versus creating plantilla positions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS13",
+      "year": 2024,
+      "recommendation": "We commended the Municipality’s compliance with the set criteria in the\nappropriation and utilization of the 20% DF contributing to the achievement of economic,\nsocial and environmental benefits for its constituents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS14",
+      "year": 2024,
+      "recommendation": "We recommended that (a) the MPDO, implementing offices and Punong\nBarangay of the 23 Barangays define the implementation timelines of the identified\nPPAs; and (b) the MPDO clearly define the project scope, location and intended\nbeneficiaries for PPAs included in the MDP.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS15",
+      "year": 2024,
+      "recommendation": "We commended Management for ensuring that the DRRMF was utilized in\naccordance with Item 3.0 of COA Circular No. 2012-001 and related Item 5.0 of JMC\nNo. 2013-01 dated March 25, 2013, enabling the Municipality to effectively implement\nvarious disaster-related activities in CY 2024, enhancing its disaster preparedness\nand response capabilities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS16",
+      "year": 2024,
+      "recommendation": "We recommended that the GFPS –\n(i) include a training program on the HGDG in its GPB for the incoming year\nand request for the assistance of a gender analysis specialist/expert in the\nuse of and/or administration of HGDG; and\n(ii) include in the municipal budgeting process the application of the HGDG\ntool in the identified PPAs providing inputs in the preparation of the GPB\nand GAD AR.\n\nLastly, we reiterated prior year’s recommendation that the GFPS consider the\ninclusion of infrastructure support to PWDs and elderly in accordance with BP\nBilang 344 and its revised Implementing Rules and Regulations under Goal No. 5\n(Provide the infrastructure support for mobility and accessibility of all) to its GAD\nAgenda to clearly address the stated goal.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS17",
+      "year": 2024,
+      "recommendation": "We recommended that –\na. the Municipal Accountant prepare the required separate financial\nstatements of the Orion Public Market to provide decision-makers with a\nclearer financial view of its operations; and\nb. the Market Committee (i) conduct benchmarking activities with other local\ngovernment units that have effective market operations and adopt\nstrategies to enhance efficiency and sustainability of the public market;\nand (ii) consider revising pertinent provisions of the 2003 Market Code or,\nalternatively, implement the stipulated periodic rental fee adjustments\nguided by data-driven analysis and supported by financial performance\nreports.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS18",
+      "year": 2024,
+      "recommendation": "We recommended that the MENRO a) develop and implement a time-bound\naction plan to ensure immediate functionality of high value equipment; and b)\nthrough the aid of the Municipal Engineer, institutionalize a pre-implementation\nreadiness assessment for all capital projects to ensure site conditions, utility\nrequirements, and supporting infrastructure are in place before procurement and\ndelivery.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS19",
+      "year": 2024,
+      "recommendation": "We commended Management for continuously extending assistance to the\nNational Government through faithful compliance of duties as withholding and\nremitting agent of taxes in accordance with tax laws, rules and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS20",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS20",
+      "year": 2024,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS20",
+      "year": 2024,
+      "recommendation": "We commended the Municipal government in its continuous compliance with\nexisting laws, rules and regulations on proper deductions and remittance of GSIS\npremiums and loans in accordance with the provisions of RA No. 8291.\n\nWe reiterated prior year’s recommendation that the Municipal Accountant\nand Municipal Human Resources Management Office (MHRMO) strictly monitor\nthe status of loan amortizations to prevent over withholding which will eventually be\nrefunded to the personnel.\n\nWe recommended that the MHRMO and the Municipal Accountant, to exert\nall possible efforts to reconcile the Municipality’s records with the GSIS to safeguard\nthe interest of members/beneficiaries.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS21",
+      "year": 2024,
+      "recommendation": "We commended Management in its continuous compliance with existing laws,\nrules and regulations on proper deduction and remittance of HDMF contributions in\naccordance with the provisions of RA No. 9679.\n\nWe recommended that the Municipal Accountant, communicate with the\nHDMF for the confirmation and reconciliation of unremitted balance from previous\nyears.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS22",
+      "year": 2024,
+      "recommendation": "We commended Management for their continuous effort to withhold and\nremit contributions within the specified time provided by PHIC.\n\nTo prevent penalties and potential future financial losses of ₱130,700.00, we\nrecommended that the Municipal Accountant or her authorized representative\nsubmit a Data Amendment request to PhilHealth regarding the deficiencies reflected\nin the SPA.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-OBS23",
+      "year": 2024,
+      "recommendation": "We recommended that Management continue its compliance with laws,\naccounting, budgeting and auditing rules and regulations and act swiftly on noted\ndeviations in audit to avoid audit suspensions and disallowances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-PY4",
+      "year": 2024,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to prepare the following adjusting entries: a. coordinate with the PGB, as the source agency, regarding the outstanding Due to LGU – Provincial Treasurer’s Office (PTO) account of the Municipality to seek clarification on the transfers (i) remaining balance; and (ii) unutilized amount for possible return to the former or recording to miscellaneous income in the General Fund of the latter to be appropriated to other identified PPAs beneficial to the Municipality’s constituents; b. request for the assistance of various department heads who implemented the PPAs (e.g. Municipal Engineer for infrastructure projects) to retrieve the pertinent details and documentation concerning the outstanding Due to LGUs account of the Municipality; c. prepare the aging of various fund transfers to determine the dormant accounts; and d. facilitate cleansing of all dormant accounts covered by the latest circular.",
+      "managementAction": "Implemented. The Municipal Accountant’s Office prepared following entries via Journal Entry Voucher Nos. 2024-12-001206, dated December 27, 2024 (Trust Fund (TF)), and JEV Nos. 2024-12-004476, dated December 27, 2024 and 2025-01-000598 dated January 31, 2025 (General Fund (GF)), totaling ₱631,191.55. Of the ₱631,191.55, ₱501,958.03 represents composition of CY 2024 'Due to LGU' financial accounts, totaling ₱3,990,286.53, consists of: (i) ₱2,002,212.17 earmarked for utilization in CY 2025; (ii) ₱1,513,706.19 allocated in CY 2017 for expenses utilization in 2025; and (iii) ₱474,368.17 subject to ongoing receipts and disbursements. The Municipality coordinated with the Provincial Treasurer’s Office (PTO) and other implementing offices to gather supporting documents. The cleansing of dormant accounts is currently not applicable to the Municipality. The Municipal Accountant communicated and coordinated the matter and the Municipal Accountant prepared the necessary adjusting entries. The detailed discussion of Fund Transfers is included in Part II of this report.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "05-Region-III__Municipalities__Bataan__Orion_Bataan-2024-PY6",
+      "year": 2024,
+      "recommendation": "We recommended that the Local Chief Executive instruct the – a. Municipal Engineer to (i) inspect the defective solar ...",
+      "managementAction": "Implemented. (The report's Part III entry indicates the projects were implemented and operational; the Municipal Engineer inspected and followed up. The detailed listing and the updated status are reflected in Part II of this report.)",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "05_-_Region-III__Municipalities__Bataan__Orion_Bataan-2023-PY2",
+      "year": 2023,
+      "recommendation": "We recommended and Management agreed to instruct the – \n\nMunicipal Treasurer to – \n\ni.\txxx;\n\n\n\n\n\n\n\n\n\nii.\tupdate the data in the RPTAR and reflect the running balance based on the assessment roll provided by the Municipal Assessor’s Office;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\niii.\tprepare duly certified list showing the name of taxpayers and the amount due and collectible for the year based on the RPTAR and furnish the Municipal Accountant;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\niv.\tcoordinate with the Provincial Government of Bataan regarding the technical assistance to set up the linkage of the PATAS to the MTO to utilize the system in accordance with the existing Memorandum of Agreement (MOA); and\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nv.\timplement procedures and strategies on how to further improve collection efficiency through publishing yearly the notice of delinquency once a week for two consecutive weeks in a newspaper of general circulation; and including remarks/statement regarding the reason/s for non-collection or non-payment in the certified list of all real property tax delinquencies which remained uncollected or unpaid for at least one year, with a request for assistance in the enforcement of the remedies for collection submitted to the Sanggunian.\n\n\n\nMunicipal Accountant to consider requesting to Commission on Audit’s Accounting Systems Development and Other Services Office (ASDOSO) under the Government Accountancy Sector the installation of the latest version of enhanced New Government Accounting System (e-NGAS) which will aid them in recording transactions, financial statement preparation, among others, but also to facilitate the maintenance of Subsidiary Ledgers related to RPT/ SET Receivables to provide reconciliation with records of MTO as well as to support the balance reflected in the financial statements.",
+      "managementAction": "Additional personnel were already hired to the MTO for the encoding of details and updating of Real Property Tax Account Register (RPTAR).\n\n\n\n\n\n\n\n\n\n\n\nTechnical assistance from PGB has been extended to the municipality in the early months of third quarter of 2023 to set up the linkage of the PATAS to the MTO. However, the system was not yet fully utilized due to pending inclusion of SHT (Socialized Housing Tax) computation in the system. According to treasury personnel, they have been advised that another technical session will be conducted to fully train them, but no training was scheduled as of this date.\n\nThe Municipal Treasurer joined the tax campaign on May 5, 2023, together with other Municipal Treasurers, City Treasurer and Provincial Treasurer to further inform the constituents regarding the Tax Ordinance No. 2023-001 or Bataan Revenue of 2023 which took effect on April 1, 2023 pursuant to Article 276 of the Implementing Rules and Regulations of the Local Government Code.\n\nInquiry to COA ASDOSO thru phone call was done to confirm the procedure in securing schedule of training, when and how it will be conducted. However, when the accounting office together with MITO, are about to formally finalize the request, it is also the time where we are being advised by the Mayor's office about the sudden moving out from old municipal building to our new temporary office at MDRRM Compound, and giving way to the construction of new municipal building. Thus, the concerned offices decided to reschedule the request to conduct training and installation of the latest version, next year, when a more secure internet connection is available. For the meantime, the accounting office is in process of facilitating the maintenance and reconciliation of the subsidiary ledger balances related to RPT/SET Receivables so that correct beginning balances will be used once the latest version is installed.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Updating of the RPTAR is still ongoing.\n\n\nNot implemented.\n\nThough the certified list was forwarded and copy was furnished to the Municipal Accountant, however, the RPTARs were not yet completed.\n\nNot implemented.\n\nCoordination was already initiated by the Municipality to the PGB.  However, the latter, as the main implementor of PATAS had no clear schedule of implementation related to the Treasury’s use of PATAS.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNot implemented\n\n\n\nNot implemented.\n\nThe old municipal building was demolished and the new municipal building is currently under construction, thus, the implementation of recommendation related to the installation of new version of eNGAS was temporarily stopped.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReiterated under part II of this report with corresponding updates."
+    },
+    {
+      "id": "05_-_Region-III__Municipalities__Bataan__Orion_Bataan-2023-PY3",
+      "year": 2023,
+      "recommendation": "We recommended and Management agreed to  –\n\n•\testablish an Inventory Committee assigned in the (i) xxx; and \n\n\n\n\n(ii) ensure the preparation of Report on Physical Count of Inventories (RPCI) in the required format, certified correct by the Inventory Committee, attested by the representative of the Auditor concerned and approved by the Head of the Agency and cause the submission thereof to the Audit Team on or before the prescribed period;\n\n•\tpursue establishment of computerized inventory system specifically in Rural Health Unit (RHU) to properly monitor receipts and issuances of drugs and medicines as well as the generation of inventory reports; and\n\n•\tinstruct the Municipal Accountant (i) xxx; and \n\n(ii) to update the program in Enhanced eNGAS version 2.0 to cope with the changes in the chart of accounts and other accounting policies.\n\n\n\nWe reiterated the following recommendations and Management agreed to  –\n\na. \txxx;\n\n\n\n\nb.\tinstruct the Inventory Custodian/Accountable Officer to maintain and update Stock Cards (SCs) and prepare Summary of Supplies and Materials Issued (SSMI) to be submitted every week or at least once a month to the Municipal Accountant together with Requisition and Issue Slip (RIS) or equivalent document so that issuances will be computed and recorded by the latter; and\n\n\n\nc. \tdirect the Municipal Health Officer to (i) xxx; and \n\n(ii) ensure that all drugs and medicines donated by other agencies are reported to the Municipal Accountant’s Office by furnishing copy of delivery receipts and/or Acceptance and Inspection Report (AIR) for recording and valuation.",
+      "managementAction": "The Inventory Committee for the conduct of count of supplies was created by Executive Order (EO) No. 44 issued on October 10, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nOne of the MSWDO employees assigned in the control of relief goods was already bonded with risk number 0308-2023-01041N and period of effectivity from June 14, 2023 to June 12, 2024.\n\nStock cards (SC) for each class of supplies and materials or its equivalent were already maintained by the General Services Office (GSO), Rural Health Unit (RHU) and Municipal Social Welfare and Development Office (MSWDO).\n\n\n\n\n\n\n\n\n\nCommunication letters and reports forwarded and received by respective offices. However, CL-CHD does not indicate the price of commodities (vaccines, medicines, and medical supplies) received by PHO and PDOHO for distribution to RHU, thus, affecting the proper recording and valuation of inventory. They also followed up request to indicate price of downloaded medical commodities.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Recommended RPCI format was utilized by the GSO but it was not accomplished properly and submission was only provided after Audit Team’s request instead of an automatic submission on or before the prescribed period\n\nNot implemented.\n\nThere was no action yet.\n\n\n\n\nNot implemented.\n\nThe Municipal Accountant was not able to pursue the enhancement of eNGAs to version 2.0 in CY 2023 due to ongoing construction of the Municipal Building, and they were temporarily in-housed at a different location.\n\n(The recommendation in the Part II extended to custodians who are job order, contractual and casual employees based in Treasury Circular No. 02-2019.)\n\n\n\n\nNot implemented.\n\nSame with previous year’s report, Summary of Supplies and Materials Issued (SSMI) from GSO, RHU and MSWDO remained unsubmitted in CY 2023.\n\n\n\n\nNot implemented.\n\nAlthough separate recordings were maintained by the RHU Pharmacist, records of the same were not furnished to the Municipal Accountant for proper valuation and recording, hence, understating the inventory accounts by ₱1,870,572.17.\n\nReceipts include drugs and medicines from Provincial Department of Health Office (PDOHO) and Provincial Health Office (PHO). However, it was still noted that there were records which did not include the value to serve as basis in recording of amounts.\n\nReiterated under part II of this report with corresponding updates."
+    },
+    {
+      "id": "05_-_Region-III__Municipalities__Bataan__Orion_Bataan-2023-PY4",
+      "year": 2023,
+      "recommendation": "We reiterated the following recommendations and Management agreed to –   \n\na.\tcomply with the general and specific guidelines set forth in COA Circular No. 2020-006, for the one-time cleansing of the PPE accounts in order to fully address the recurring deficiencies noted in audit including designation of Inventory Committee and preparation of Physical Inventory Plan (PIP) to proceed with necessary procedures from inventory taking, recording of donated items found in the count and subsequent recording to the books of accounts, disposal of obsolete/ unserviceable PPE items and subsequent derecognition of values related in the books of accounts;\n\n\n\n\nb.\tdirect the Municipal Treasurer and the Municipal Officials who are knowledgeable regarding the history of the donated lots to facilitate the proper transfer of ownership of these lands under the name of the Municipality and for recording of Municipal Accountant in the books of accounts; and\n\n\n\n\nc.\tinstruct the Municipal Accountant (i) xxx; and \n\n\n\n\n\n\n(ii) to update the program in Enhanced eNGAS version 2.0 to cope with the changes in the chart of accounts and other accounting policies; and (ii)  Municipal Health Officer (MHO) and Accounting Units/Departments of DOH – Central Luzon Center for Health Development and  Provincial Government of Bataan (PGB) to gather documents related to the donated equipment inclusive of the transfer journal entry vouchers (JEVs).",
+      "managementAction": "Maintenance of complete and updated property cards was already implemented by GSO in the recent transactions. \n\nOther unserviceable property, plants and equipment (PPE) are currently in the warehouse of GSO and Bahay Pagbabago and is being assembled for preparation in one-time cleansing of PPE. Report on Physical Count of PPEs is currently being updated for year 2023. The inventory committee and other related offices planned to take the training on one time cleansing this December but upon confirmation of attendees, slots became unavailable. Thus, the scheduled dates for the training session they have reserved are April 23-24, 2024.\n\nThe Municipal Treasurer facilitated the transfer of ownership of donated lots which is still in process. As for the unrecorded donated lots, coordination with Sangguniang Bayan (SB) Secretary and Municipal Assessor has been facilitated in order to proceed with the proper recognition in the books of accounts.\n\nThe Municipal Accountant and the MISO already coordinated with the ASDOSO and the technical requirements (eg. hardware and software components for the server and workstation) was already complied.\n\n\n\n\n\n\n\n\nThe Municipal Accountant confirmed the submission of the RHU only in 2024 but proof of submission was not forwarded.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The assigned personnel for the PPE cleansing was not able to avail the PPE Cleansing Seminar in 2023.\n\nDespite the maintenance of Property Cards for acquisitions made from CY 2021 by the GSO and MS Excel file for the monitoring of Municipal Accountant which consisted of details equivalent to PPE Ledger Cards (PPELCs), it has been observed that there was lack of reconciliation between the records maintained by GSO and those maintained by the accounting department.\n\n\n\n\nNot implemented.\n\n\n\nNot implemented.\n\nRequested face-to-face seminar was not yet scheduled in 2023.  At that time, webinar was the only available mode, but they opted not to avail.  Their decision was also affected by the ongoing construction of the Municipal building.\n\nNot implemented.\n\nThe RHU has not yet provided a copy of the details to the accounting department to rectify this deficiency and carry out the necessary valuation, which is essential for recording purposes.\n\nReiterated under part II of this report with corresponding updates."
+    },
+    {
+      "id": "05_-_Region-III__Municipalities__Bataan__Orion_Bataan-2023-PY6",
+      "year": 2023,
+      "recommendation": "We recommended and Management agreed to –\n\na.\tOn the electricity of market -\n\n•\tconsider to (i) transfer the electricity connections of market stalls directly to PENELCO in order to save time, fund and effort from reading sub-meters, collecting payments, recording of receivables and payments and enforcing actions against defaulting owners of sub-meters; or (ii) to create/craft clear-cut/written and approved guidelines for the detailed procedures in the over-all operations in the distribution, collection and recording of electric consumption in the Orion Public Market and the duties and responsibilities of the assigned personnel/employees, which shall include, (without prejudice to Management’s decision in incorporating additional controls):\n\n•\timproved procedures of electric meter reading and period when to conduct the reading, computation of rates, deadline of payments and penalties of late payments of electricity consumption;\n\n•\tthe preparation of Summary of Billings and individual billing statement as signed by the preparer and to be submitted to the MTO for the counterchecking of its computation;\n\n\n\n•\tthe manner of distribution of copies of pre-numbered individual billing statements or statement of accounts, to wit:\n\nOriginal – Consumer/Owner of sub-meter\nDuplicate – COA (as attachment to OR/AF No. 51)\nTriplicate – Market file\n\n•\tthe method of setting up the receivables based on the computed and approved electricity billings of a given month and the maintenance of the subsidiary ledger per lessee/owner of sub-meter by the Municipal Accountant’s Office;\n\n•\tthe periodic reconciliation of MTO’s records related to market collection with the subsidiary ledger maintained in the Municipal Accountant’s Office;\n\n•\txxx;\n\n•\tthe recording of electricity collections by crediting electricity expenses (to remove the electricity expenses of stallholders in the records of Market); \n\n•\tthe salaries/wages of person/s directly involve in Orion Public Market and other expenses directly incurred with the electricity connection, disconnection and reconnection; and\n\n•\tinstruct the Head of the Market Operations to guarantee the strict enforcement of policies, rules and regulations for Market-Electricity operations.\n\nb.\tinstruct the Municipal Accountant to (i) maintain subsidiary records for the LEEs; and (ii) prepare a Statement of Financial Condition, Statement of Financial Performance and Statement of Cash Flows for the market and other economic enterprises of the Municipality to (a) determine whether the income generated by the public utilities or economic enterprises are sufficient to meet their respective operating costs; and (b) provide adequate information as to the assets, liabilities, equity, receipts, transfers and expenditures of each special account;\n\nc.\tdirect the Market Committee and other market officials to (i) conduct benchmarking to other LGUs with successful market operations and consider the adoption of their strategies to gradually improve the market operations and balance the protection of Municipality, legitimate stallholders and its constituent’s interests; (ii) revise pertinent sections of the 2003 Market Code which were found to be outdated (e.g. rental rates) after proper consultation with stallholders via public hearing/s; and (iii) strictly implement the stipulations of the Market Code to protect government’s welfare;\n\nd.\tif the budget permits, consider the appointment of full-time Market Administrator;\n\ne.\tspecify in the Market Code the officials who shall spearhead in the revision and finalization of contract of lease per stallholder; and\n\nf.\tconsider the inclusion of performance of periodic inspection and review of municipal market operations and guaranteeing that market operations are economically viable and self-reliant in the duties and responsibilities of Market Committee.",
+      "managementAction": "The Market Administration Office via their Electrician installed sub-meters to stalls which was previously reported had fixed monthly billing of ₱170.00.\n\n\n\n\n\n\nMeter reading was conducted simultaneously with PENELCO reading.\n\n\n\n\n\n\nMonthly summary of billings was already prepared.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Management opted not to transfer electricity connections directly to PENELCO to save time, fund and effort.  However, the Management was not able to establish clear-cut guidelines related to the over-all operations of electric consumption of Orion Public Market.\n\n\n\n\nNot implemented.\n\nClear-cut guidelines is not yet established.\n\n\n\n\nNot implemented.\n\nIndividual billing statement was not prepared, thus, the stallholders had no proof on the amount to be paid, instead it was only verbally communicated to them.\n\nNot implemented.\n\nThe Municipal Accountant mentioned that there was an existing ordinance declaring the market electricity as part of revenue of the Municipality, that was why setting-up of receivables for electricity of stallholders was not implemented, but it was not yet forwarded to the Audit Team to substantiate the claim.\n\nNot implemented.\n\n\n\n\nNot implemented.\n\n\n\n\nNot implemented.\n\n\n\n\nNot implemented.\n\n\n\n\nNot implemented.\n\n\n\n\nNot implemented.\n\n\n\n\nNot implemented.\n\n\n\n\nReiterated under part II of this report with corresponding updates."
+    },
+    {
+      "id": "05_-_Region-III__Municipalities__Bataan__Orion_Bataan-2023-PY7",
+      "year": 2023,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Accountant xxx.\n\n\n\n\nWe reiterated prior year’s recommendation and the LCE agreed to (a) ensure strict observance of applicable regulations provided for the proper utilization of the NDRRMF; and \n\n(b) instruct the Municipal Treasurer to refund the unutilized NDRRM Fund to the National Treasury as required in Items 3.7 of Local Budget Circular No. 130 dated November 19, 2020.",
+      "managementAction": "The Municipal Accountant already transferred all unexpended/unobligated balance of the QRF and the DRRMF-MOOE to the Special Trust Fund account of the Municipality at the end of the year.\n\n\n\n\nInquiry was sent by the Management on June 6, 2023, and a follow-up email on December 11, 2023, the query was not responded to this date.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not implemented.\n\nThe Municipal Accountant commented that the fund was not refunded to the National Treasury because the Municipal Mayor inquired with the Department of Budget and Management (DBM) if they could still use the mentioned NDRRMF in CY 2023, but to no avail.\n\nReiterated under part II of this report with corresponding updates."
+    },
+    {
+      "id": "05_-_Region-III__Municipalities__Bataan__Orion_Bataan-2023-PY8",
+      "year": 2023,
+      "recommendation": "We reiterated prior year’s recommendation and Management agreed to conduct thorough planning and provide specific PPAs and implementation dates for the efficient and appropriate timing of implementation of projects.\n\nWe further recommended and Management agreed to direct –\n\n(i)\tthe Municipal Engineer and other concerned officials to xxx; \n\n\n\n\n(ii)\tthe BAC Chairperson and BAC Secretariat to ensure the (i) xxx; and \n\n\n\n\n(ii)\ttimely submission of the perfected contracts, including the supporting documents to facilitate the auditorial review; and\n\n\n\n\n(iii)\tMunicipal Accountant to (a) xxx; and\n\n\n\n\n(b) xxx.",
+      "managementAction": "The Management included PPAs which had socio-economic, environmental, and other benefits to the Municipality’s constituents.\n\nThe BAC already conducted pre-procurement conference in accordance with the RIRR of RA No. 9184.\n\n\n\n\nThe Municipal Accountant also included the minutes of pre-procurement conference and attendance sheet as supporting documents for projects which conduct of pre-procurement conference is required under RA No. 9184 and ensured completeness and propriety of supporting documents.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not implemented.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReiterated under part II of this report with corresponding updates."
+    },
+    {
+      "id": "05_-_Region-III__Municipalities__Bataan__Orion_Bataan-2023-PY9",
+      "year": 2023,
+      "recommendation": "We also recommended and Management agreed to direct the –\n\n•\tBAC Chairperson and BAC Secretariat to ensure the (i) xxx; and \n\n\n\n\n(ii)\ttimely submission of the perfected contracts, including the supporting documents to facilitate the review and evaluation of the technical aspects of the projects;\n\n•\tMunicipal Accountant to xxx; and\n\n\n\n\n•\tMunicipal Engineer, as the head of the infrastructure arm of the Municipality, to (i) ensure that the required information on the project status had been properly filled out; and \n\n(ii) xxx.",
+      "managementAction": "The BAC already conducted pre-procurement conference in accordance with the RIRR of RA No. 9184.\n\n\n\n\nThe Municipal Accountant also included the minutes of pre-procurement conference and attendance sheet as supporting documents for projects which conduct of pre-procurement conference is required under RA No. 9184.\n\n\n\n\nThe Municipal Engineer included Work Suspension Order (WSO), Work Resumption Order (WRO) and/or Contract Time Extension (CTE) as supporting documents to be issued to contractor/supplier, for infrastructure projects/goods with delays in implementation/delivery.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated under part II of this report with corresponding updates.\n\n\n\n\n\n\n\n\n\n\n\n\nNot implemented.\n\n\n\n\nNot implemented."
+    },
+    {
+      "id": "05_-_Region-III__Municipalities__Bataan__Orion_Bataan-2023-PY10",
+      "year": 2023,
+      "recommendation": "We reiterated prior year’s recommendation and Management agreed to –\n\na.\tinstruct the Solid Waste Management Board (SWMB) to –\n\n•\tdirect the 23 Punong Barangays during their quarterly meetings to (i) strictly implement measures to ensure compliance with mandatory segregation at source (household level); and (ii) ensure that the barangay Materials Recovery Facility (MRF) are properly labeled as to type of waste, covered to prevent scattering of litter and the functionality thereof;\n\n•\treview the SWMP every two years or as the need arises for purposes of ensuring its sustainability, viability, effectiveness and relevance in relation to local and international developments in the field of solid waste management; \n\n•\treview the municipality’s existing Comprehensive Solid Waste Management Code (Municipal Ordinance 12-020-077 dated October 16, 2012 for updating and inclusion of programs to be implemented with corresponding assigned committees with members’ duties and responsibilities; and\n\n•\txxx;\n\n\n\nb.\tdirect the designated Municipal Environment and Natural Resources Officer (MENRO) to –\n\n•\tconduct Waste Analysis and Characterization Study (WACS) to be used in the updating of the Solid Waste Management Plan (SWMP) and endorse the updating of the plan incorporating the COVID-19 waste management to SWMB; and\n\n•\trevisit the MOA with MCWMC to (i) request for the amendment on xxx; and (ii) xxx;\n\n\n\nc.\tinstruct the MEO and designated MENRO to ensure the monitoring of the utilization of the facilities in the central MRF that these were being used in accordance with its intended usage and compliant with environmental standards; and\n\nd.\tprioritize the establishment of MENRO Office and appoint a full-time Officer to be able to address various compliances on solid waste management as well as other environmental standards compliance being implemented.\n\nWe also recommended that the Solid Waste Management Board, with the aid of the Sanggunian Bayan (SB), particularly the Committee on Environment, revisit all the existing ordinances of the Municipality related to the environment and waste management for its revision, if needed, in accordance with the issued republic acts, for their doable and proper implementation.",
+      "managementAction": "The Municipality procured garbage steel bins for the kitchen wastes of households.  These bins were distributed to 23 barangays.\n\n\n\n\n\n\n\nInformation, education and communication (IEC) campaigns were continually done by the Management with quarterly meetings with the members of SWMB.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nServices of Metro Clark Waste Management, Corp. was no longer in 2023, evidenced by lack of disbursements.\n\n\n\n\nIn April 2024, prior to the finalization and issuance of the CY 2023 AAR, the full-fledged MENRO was already hired by the Management.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not implemented.\n\n\n\n\nThe Municipality had no clear-cut guidelines on how to utilize the stated bins, thus, these were still unused. \n\nNot implemented.\n\nThe revision is planned in 2024.\n\n\n\n\nNot implemented.\n\nDue to the absence of full-time MENRO, the stated recommendation was not yet prioritized in CY 2023.\n\n\n\n\nProblems were encountered in 2023 due to the change in the members of SWMB, with majority of the PBs was replaced by newly-elected PBs.  Thus, intense IEC campaign is planned to be re-conduct in 2024 in line with the planned full operations of the Central MRF.\n\n\n\n\nNot implemented.\n\nThe newly-hired MENRO in April 2024, will be attending the WACS Seminar, tentatively in 2024.\n\n\n\n\nNot implemented.\n\nThe Central MRF was not yet fully operational in 2023 and early months of 2024.  They were only conducting the trial stages for the pyrolysis during the 1stQ of 2024.\n\n\n\n\nNot implemented.\n\nMENRO was not yet established in 2023, but budget intended for the full-fledged MENRO is already available in 2024.\n\n\n\n\nNot implemented.\n\n\n\n\nReiterated under part II of this report with corresponding updates."
+    },
+    {
+      "id": "05_-_Region-III__Municipalities__Bataan__Orion_Bataan-2023-PY15",
+      "year": 2023,
+      "recommendation": "We recommended and Management agreed to coordinate with PhilHealth regarding the deficiencies reflected in Statement of Premium Account (SPA) totaling to ₱130,700.00 to prevent penalties/ future losses.",
+      "managementAction": "Constant checking of payroll was done to ensure if amount withheld tallies with amount that will be remitted. Philhealth contributions were also remitted on time. As to the deficiencies reflected in Statement of Premium Account (SPA), only August 2021 premium payment was already reflected as paid while the previous ones are yet to be coordinated.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "05_-_Region-III__Municipalities__Bataan__Orion_Bataan-2023-OBS1",
+      "year": 2023,
+      "recommendation": "We reiterated the prior year’s recommendation that Management instruct\nthe –\na. Municipal Treasurer to –\n• update in the RPTAR the running balance of delinquent taxpayers\nbased on the assessment roll provided by the Municipal Assessor’s\nOffice; and\n• implement procedures and strategies to further improve collection\nefficiency through publishing yearly the notice of delinquency once a\nweek for two consecutive weeks in a newspaper of general circulation;\nand including remarks/statements regarding the reason/s for non-\ncollection or non-payment in the certified list of all real property tax\ndelinquencies which remained uncollected or unpaid for at least one\nyear, with a request for assistance in the enforcement of the remedies\nfor collection submitted to the Sanggunian; and\nb. Municipal Accountant to consider requesting to Commission on Audit’s\nAccounting Systems Development and Other Services Office (ASDOSO)\nunder the Government Accountancy Sector to install the latest version of\nenhanced New Government Accounting System (e-NGAS) which will aid\nthem in recording transactions, financial statement preparation, among\nothers, but also to facilitate the maintenance of Subsidiary Ledgers related\nto RPT/ SET Receivables to provide reconciliation with records of MTO\nas well as to support the balance reflected in the financial statements.\n1.31 We recommended that Management direct the –\na. Municipal Accountant make an adjusting entry to rectify the erroneous\njournal entry made on March 27 and May 30, 2023, to wit:\nAccount Title Debit Credit\nSpecial Education Tax Receivable ₱1,980.00\nDeferred Special Education Tax Income ₱1,980.00\nb. Municipal Treasurer –\n• request for the replacement of the resigned employee assigned in the\nMunicipal Treasury Office (MTO) to fast track the encoding and\nupdating of details included in the RPTAR; and\n• continue to extend further actions to enforce the payment of\ndelinquent taxpayers and increase the percentage of collection of\nreceivables.\nc. Municipal Accountant and the Municipal Treasurer –\n• reconcile the discrepancies between the amount recorded in the\nAccounting Department and the MTO regarding the delinquent real\ntaxpayers as of year-end; and\n• schedule this year the training and technical assistance to set up the\nlinkage of the PATAS to the MTO to utilize the system following the\nexisting Memorandum of Agreement (MOA) then coordinate the\nschedule with the Provincial Government of Bataan.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05_-_Region-III__Municipalities__Bataan__Orion_Bataan-2023-OBS2",
+      "year": 2023,
+      "recommendation": "We recommended that Management –\na. revise EO No. 44, series of 2023, to properly address the minimum\nfrequency of count for supplies and deadline of submission of inventory\nreport for the 1st and 2nd semesters; and\nb. instruct the –\n• GSO to present all the information required in the RPCI format;\n• RHU and MSWDO consider the utilization of RPCI format with\nminor variation for the monitoring of expiration date and/or lot\nnumber; and\n• Municipal Accountant to make an adjusting entry on the unrecorded\ndonated drugs and medicines and other supplies and materials for\ndistribution, as follows:\nDrugs and Medicines for Distribution 1-04-02-030 Dr ₱1,862,321.17\nOther Supplies and Materials for 1-04-02-990 Dr 8,251.00\nDistribution\nGovernment Equity 3-01-01-010 Cr 1,870,572.17\nTo record the donated drugs, medicines and other supplies for distribution received\nfrom the PHO and PDOHO.\n2.31 We reiterated prior years’ recommendations that Management –\na. require the Municipal Treasurer to apply for the fidelity bond of\nInventory Custodians;\nb. instruct the Inventory Custodian/Accountable Officer to prepare\nSummary of Supplies and Materials Issued (SSMI) to be submitted every\nweek or at least once a month to the Municipal Accountant together with\nRequisition and Issue Slip (RIS) or equivalent document so that issuances\nwill be computed and recorded by the latter;\nc. direct the Municipal Health Officer to (i) request from the DOH and PHO\nthe actual amounts of drugs and medicines transferred to them or assist\nthe Municipal Accountant or her representative in the identification of\namounts, in case the agencies would not be able to provide the amounts\ndespite of request; and (ii) ensure that all drugs and medicines donated by\nother agencies are reported to the Municipal Accountant’s Office by\nfurnishing copy of delivery receipts and/or Acceptance and Inspection\nReport (AIR) for recording and valuation;\nd. pursue establishment of computerized inventory system, through the\nassistance of the MITO, specifically in Rural Health Unit (RHU) to\nproperly monitor receipts and issuances of drugs and medicines as well as\nthe generation of inventory reports; and\ne. instruct the Municipal Accountant to (i) coordinate again with the COA\nAccounting Systems Development and Other Services Office (ASDOSO)\nregarding the errors they had been encountering with the eNGAS; and (ii)\nupdate the program in Enhanced eNGAS version 2.0 to cope with the\nchanges in the chart of accounts and other accounting policies.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05_-_Region-III__Municipalities__Bataan__Orion_Bataan-2023-OBS3",
+      "year": 2023,
+      "recommendation": "We recommended that Management –\na. direct the Municipal Accountant to update records of\nacquisition/disposal/transfer of PPEs in the PPE Ledger Cards (PPELCs)\nto ensure that the total balance of PPELCs tally with the balances of\ncontrolling PPE accounts in the General Ledger and the latest\nRPCPPE/Inventory;\nb. include the conduct of one-time cleansing procedure in the schedule of\nactivities of the Inventory and Disposal Committee in 2024; and\nc. instruct the GSO to submit the pertinent information/details regarding\nthe motor vehicles owned by the Municipality namely; purchase cost of\nthe vehicles, copies of the Land Transportation Office (LTO) Certificate\nof Registration (CR) and official receipt (OR), and the documentation\nregarding the Government Service Insurance System (GSIS) policy\ninsurance.\n3.17 We reiterated the following recommendations that Management–\na. comply with the general and specific guidelines set forth in COA Circular\nNo. 2020-006, for the one-time cleansing of the PPE accounts in order to\nfully address the recurring deficiencies noted in audit including the; (i)\npreparation of Physical Inventory Plan (PIP) to proceed with necessary\nprocedures from inventory taking; (ii) recording of donated items found\nin the count and subsequent recording to the books of accounts, (iii)\ndisposal of obsolete/ unserviceable PPE items; and (iv) subsequent\nderecognition of values related in the books of accounts;\nb. direct the Municipal Treasurer and the Municipal Officials who are\nknowledgeable regarding the history of the donated lots to facilitate the\nproper transfer of ownership of these lands under the name of the\nMunicipality and for the recording of Municipal Accountant in the books\nof accounts; and\nc. instruct the Municipal Accountant to coordinate with the (i) COA\nAccounting Systems Development and Other Services Office (ASDOSO)\nregarding the errors they had been encountering with the eNGAS and to\nupdate the program in Enhanced eNGAS version 2.0 to cope with the\nchanges in the chart of accounts and other accounting policies; and (ii)\nMunicipal Health Officer (MHO) and Accounting Units/Departments of\nDOH – Central Luzon Center for Health Development and Provincial\nGovernment of Bataan (PGB) to gather documents related to the donated\nequipment inclusive of the transfer journal entry vouchers (JEVs).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05_-_Region-III__Municipalities__Bataan__Orion_Bataan-2023-OBS4",
+      "year": 2023,
+      "recommendation": "We recommended that Management instruct the Municipal Accountant to –\na. coordinate with the PGB via Provincial Treasurer’s Office (PTO), as the\nsource agency, regarding the outstanding Due to LGU – PTO account of\nthe Municipality to seek clarification on the transfers with (i) remaining\nbalance; and (ii) unutilized amount for possible return to the former or\nrecording to miscellaneous income in the General Fund of the latter to be\nappropriated to other identified PPAs beneficial to the Municipality’s\nconstituents;\nb. request for the assistance of various department heads who implemented\nthe PPAs (e.g. Municipal Engineer for infrastructure projects) to retrieve\nthe pertinent details and documentation concerning the outstanding Due\nto LGUs account of the Municipality;\nc. prepare the aging of various fund transfers to determine the dormant\naccounts; and\nd. facilitate cleansing of all dormant accounts covered by the latest circular.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05_-_Region-III__Municipalities__Bataan__Orion_Bataan-2023-OBS5",
+      "year": 2023,
+      "recommendation": "We recommended that the LCE instruct the –\na. MITO –\n• review the tax rates under letter (g) of the existing ordinance to\ndetermine which is the approved tax table for the specified\nestablishments;\n• adjust penalty rates and include surcharges based on the approved\nordinance; and\n• utilize other features of the e-BPLS to maximize its use such as\nreflecting closed business establishments; and\nb. Municipal Treasurer and BPLO –\n• conduct a visitation of the principal place of business of new\nestablishments to aid them in determining whether the locations were\npreviously occupied by delinquent taxpayers;\n• include in their schedules the annual visitation to 23 barangays of\nOrion, locating the delinquent taxpayers to determine the current\nstatus of their business operations; and\n• consider sending notices to delinquent taxpayers.\n5.32 We also recommended that the LCE direct the Municipal Treasurer to attend\nthe Examination of Books of Accounts (EBA) and Pertinent Records of Business\nOwners under the BLGF to enhance the set of skills and knowledge of the latter and\nincrease their basic understanding of the principles and techniques in the conduct of\nexamination of books, accounts and other pertinent records of any person,\npartnership, corporation or association subject to local taxes, fees, and charges.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05_-_Region-III__Municipalities__Bataan__Orion_Bataan-2023-PY1",
+      "year": 2023,
+      "recommendation": "We recommended and Management agreed to direct the – \n\na.\txxx;\n\nb.\txxx; and\n\nc.\txxx.",
+      "managementAction": "The Municipal Treasurer submitted Schedule of Unreleased Checks which was utilized by the Municipal Accountant in adding to the Cash in Bank balance all of the unreleased checks.  The reversion was evidenced by JEV No. 2023-12-004548 dated December 29, 2023 amounting to ₱7,438,429.18.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05_-_Region-III__Municipalities__Bataan__Orion_Bataan-2023-PY5",
+      "year": 2023,
+      "recommendation": "We recommended and Management agreed to instruct the –\n\na.\tMunicipal Health Officer (MHO) to –\n\n•\txxx; and\n\n•\txxx;\n\n\n\nb.\tGeneral Services Officer (GSO) xxx;\n\n\n\n\nc.\tMunicipal Accounting Office xxx; and\n\n\n\n\nd.\tBids and Awards Committee xxx.",
+      "managementAction": "As for the proper receipt, recording, issuance and reporting of COVID-19 vaccines, coordination with concerned offices and personnel will be acted upon to maintain check and balance and to ensure proper recording in the book of accounts.\n\nCopies of supplies transferred to MHO were furnished to other related offices such as accounting and general service office. Communication letters and reports forwarded and received by respective offices. However, CL-CHD does not indicate the price of commodities (vaccines, medicines, and medical supplies) received by PHO and PDOHO for distribution to RHU, thus, affecting the proper recording and valuation of inventory. Followed up request to indicate price of downloaded medical commodities.\n\nThe BAC has been instructed to comply with the provisions of the updated GPPB rulings and apply this to subsequent procurement transactions, reporting and documentations, to ensure full compliance thereto.",
+      "status": "UNKNOWN",
+      "reason": "As the municipality and the rest of the world is moving towards the new normal.  Vaccines for COVID-19 were no longer available as at year-end as compared to previous years.\n\n\n\n\nDisbursements related to COVID-19 and receipts and issuances is no longer rampant in 2023 as the world is moving towards the new normal after the peak of the pandemic.\n\n\n\n(The regulations pertains to procurement of ancillary supplies and services necessary for the implementation of the COVID-19 vaccination program is no longer applicable as at year-end as the world moves towards to the new normal)"
+    },
+    {
+      "id": "05_-_Region-III__Municipalities__Bataan__Orion_Bataan-2023-PY11",
+      "year": 2023,
+      "recommendation": "We reiterated prior year’s recommendation and Management agreed that the LCE xxx.\n\n\n\n\nWe also recommended and Management agreed that the GFPS and the GAD M&E (to be established thru an EO) ensure xxx.",
+      "managementAction": "A copy of Executive Order (EO) No. 22 dated May 3, 2023 reorganizing the GFPS and including the mandated committees under Orion GAD Council such as: Committee on Gender-Based Violence, Committee on the Economic Empowerment of Women, Committee on Reproductive Health and Committee on Education and Research, was already submitted to the Audit team on May 29, 2023.\n\nThe three-year GAD agenda was already completed in 2023.",
+      "status": "UNKNOWN",
+      "reason": "Updated observations were discussed under Part II of this report."
+    },
+    {
+      "id": "05_-_Region-III__Municipalities__Bataan__Orion_Bataan-2023-PY12",
+      "year": 2023,
+      "recommendation": "We recommended and the Municipal Accountant xxx.",
+      "managementAction": "Series of meetings with BIR was conducted. \n\nThe internal procedures/deadlines set regarding transfer of funds from SEF and TF to General Fund for the taxes withheld were still being practiced by the accounting personnel in-charge a week before end of the month. The consolidated amount of taxes withheld for all funds were then remitted to BIR on or before the 10th day of the month following the month in which the withholding was made. Moreover, review of SL balances of \"Due to BIR\" account was done and reconciled with BIR and was later agreed that the difference be remitted not later than November 2023. As such, ₱762,030.22 was remitted last November 17, 2023. (per DV No. 20-2023-11-118 dated November 15, 2023).",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05_-_Region-III__Municipalities__Bataan__Orion_Bataan-2023-PY13",
+      "year": 2023,
+      "recommendation": "We commended the Municipal government xxx.\n\n\n\n\nWe recommended the Municipal Accountant to xxx.",
+      "managementAction": "The Municipal government had been continually comply with existing laws, rules and regulations on proper deductions and remittance of GSIS premiums and loans in accordance with the provisions of RA No. 8291\n\nConstant checking of payroll was done to ensure if amount withheld tallies with amount that will be remitted. Further, we ensure that any discrepancy reported has its own valid reason and that contributions and loans or total amount due to GSIS were remitted on or before 10th day of the following month.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05_-_Region-III__Municipalities__Bataan__Orion_Bataan-2023-PY14",
+      "year": 2023,
+      "recommendation": "We recommended xxx.",
+      "managementAction": "The Municipal Accountant installed internal control by constantly checking payroll to ensure if amount withheld tallies with amount that will be remitted. Inquiries to person-in-charge of remittances reports were exercised if there is any under/over remittance made for the month, for clarification.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "05_-_Region-III__Municipalities__Bataan__Orion_Bataan-2023-PY16",
+      "year": 2023,
+      "recommendation": "We recommended and Management agreed to xxx.",
+      "managementAction": "The Management continue its compliance with laws, accounting, budgeting and auditing rules and regulations and act swiftly on noted deviations in audit to avoid audit suspensions and disallowances.\n\nThe Management coordinated with school heads/principals regarding prior year’s disallowance with remaining balance of ₱175,147.61.00, as at year-end. A copy of updated payment in 2023 was forwarded to COA, together with copies of ORs. \n\nFor the ₱20 million PDAF disallowance, petition for review of COA Region III’s decision was filed to the COA Central Office on March 27, 2024 via registered mail.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended that the Local Chief Executive (LCE) in coordination with the Local Development Council (LDC) (i) conduct thorough planning and provide specific implementation dates in the AIP for the efficient and appropriate timing of implementation of projects; and \n\n\n(ii) regularly monitor the\nimplementation of developmental PPAs and fast track the identification of new priority PPAs if the municipality will revise its AIP.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Due to non-inclusion of the specific period of implementation by the concerned offices, the same was not still included in the AIP during consolidation.\n\nPartially implemented.\n\nAbsence of requests from concerned departments on the implementation resulted to non-implementation of some projects.\n\nReiterated in Observation No. 8"
+    },
+    {
+      "id": "Orion_Bataan_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended that Management – \n(a)    Organize an ICT Committee; and\n(b)    Update and implement an ISSP that will fast track government digitization.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not Implemented\n\nEstablishment of ICT Committee was not yet prioritized; Updating of the ISSP was scheduled prior to pandemic hence ISSP was not yet updated since the MITO alongside with MHO were in focus on the roll out of vaccination in the municipality."
+    },
+    {
+      "id": "Orion_Bataan_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended that –\n \n(a)    designate or assign a Local Population Officer;\n\n(b)    include the designated or assigned Local Population Officer in the GAD Committee; \n\n\n(c)    incorporate in the GAD, programs to supplement sex education in Department of Education (DepEd) modules with the use of interactive forms of communication; and\n\n(d)    incorporate in the GAD other responsible parenthood and reproductive health programs to address teenage pregnancies.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not Implemented \n\nOnly a Local Population Officer for Provincial Office attends to the LGU.\n\nNot implemented.\n\n\nPartially implemented.\n\nResponsible parenthood and reproductive health programs to address teenage pregnancies were included in the GPB but only minimal percentage of the budget was utilized."
+    },
+    {
+      "id": "Orion_Bataan_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We recommend to management the following:\n\nxxx\n\nd) formulate guidelines/ criteria for the scholarship program of the agency for approval of the Sangguniang Bayan (SB).",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended and the Management agreed to (a) be guided on rules and regulations issued by Government Procurement Policy Board (GPPB) to fully comply in the promotion of the accountability and transparency; and (b) ensure that important details in every document be properly filled in or supplied with correct information to support the validity and reliability of each and every transaction.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended and the Management agreed to be guided under the GPPB Circular No. 02-2021 in preparing the project requirements during the implementation of COVID-19 Vaccination program and instruct the Bids and Award Committee to be kept abreast of the new rules, regulations and guidelines pertinent to the more effective discharge of their duties   that may be issued by authorities from time to time, and to ensure full compliance thereto.\nWe also recommended and the Management agreed to direct the (i) Municipal GSO, Municipal Accountant and MHO to strengthen their internal control from receipts, recording, issuances and reporting of COVID-19 vaccines to maintain the check and balance among the mentioned departments without compromising the effectivity/expiry of the vaccines; and (ii) Municipal Accountant to coordinate with the Provincial Accountant to obtain the cost of the COVID-19 vaccines as at a certain date to facilitate the recording and reporting in the Municipality’s books.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended that the Management instruct the (a) MDRRMO to (i) update its MDRRMP taking consideration the current COVID-19 pandemic; (ii) coordinate the implementation of all identified PPAs in the LDRRMIP to address the disaster risks within the Municipality;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially implemented\n\nReiterated in Observation No. 9"
+    },
+    {
+      "id": "Orion_Bataan_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended that the Management require the (a) Municipal Accountant xxx\n\n(ii) provide SLCs for supplies and materials by type/class; and \n\n\n\n\n(b) Municipal Treasurer (i) maintain stock cards for supplies and materials by type/class; \n\n\n\n\n\n(ii) prepare and submit to the Municipal Accountant strictly on a weekly basis the SSMI based on consolidated RIS; and \n\n\n\n\n(iii) conduct semestral count of inventories and submit RPCI not later than July 31 and January 31 of each year.\n\n\n\nWe also recommended that Management (a) provide a large stockroom to accommodate all the supplies and materials of the Municipality; and xxx",
+      "managementAction": "The Municipal Accountant maintains MS Excel File for the monitoring of the supplies and materials received and issued.\n\nThe LGU has established General Services Office (GSO). Stock Cards (SCs) maintained were only for office supplies under the GSO.\n\nPhysical count of inventories was made at year-end.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Due to non-submission of Summary of Supplies and Materials Issued (SSMI), the same was not updated.\n\nPartially implemented.\n\nSCs for other inventory items such as welfare goods and drugs and medicines were not established but equivalent records were noted such as logbook and listing of receipts and issuances.\n\nNot implemented.\n\nAccountable Officers were not yet able to furnish the Accounting Office with the SSMI based on consolidated RIS.\n\nPartially implemented.\n\nThe physical count was only made on annual basis and the RPCI submitted was only for the office supplies while summary/ list was submitted for the drugs and medicines and welfare goods.\n\nNot implemented.\n\nReiterated in Observation No. 4"
+    },
+    {
+      "id": "Orion_Bataan_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended that the Management instruct the – \n\n(a)\tInventory Committee led by the Municipal Treasury Office - \n\nxxx\n\nii. update and complete the property cards to enable the reconciliation with accounting records and inventory report; \n\n\n\nxxx \n\n(c)\tMunicipal Accountant – \n\ni. complete and update the PPELCs by class and/or type and reconcile the balances of the PPE accounts per physical count and property records; and \n\n\nxxx\n\n(b) follow the guidelines and procedures on the one time cleansing of PPE accounts in accordance with COA Circular No. 2020-006 dated January 31, 2020.",
+      "managementAction": "Property cards for current year’s purchases already maintained\n\n\n\n\n\n\n\nThe Accounting Office maintains MS Excel File as equivalent record for the PPELCs.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reconciliation between the accounting and property records was not made.\n\n\nPartially implemented.\n\nReconciliation of accounting and property records were not yet made due to voluminous transactions. \n\n\nNot implemented.\n\nThere was no formal meeting yet among the concerned offices to address the one-time cleansing.\n\nReiterated in Observation No. 5"
+    },
+    {
+      "id": "Orion_Bataan_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended that the Management (a) fast track the operation of the central MRF and implement the SCRP and Post Closure Plan to achieve the total closure of the controlled dumpsite; \n\n\n\n\n\n\n\n(b) monitor the compliance of the barangays in the mandatory segregation at source in order to minimize the volume of collected solid wastes of the Municipality; and \n\n(c) update the Solid Waste Management Plan incorporating the COVID-19 waste management plan.\n\n\n\n(b) pass an ordinance on the establishment of the MENRO and create plantilla positions thereto.",
+      "managementAction": "The Management inaugurated the facility on March 2022.\n\n\n\n\n\n\n\n\n\n\nPlantilla position already included in the LGU’s devolution plan.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Due to delay in securing related certifications in compliance with environmental standards, the facility was not yet operational at year-end. The recommendations of DENR related to the SCRP and Post Closure Plan is yet to be complied.\n\nNot implemented.\n\n\nNot Implemented.\n\nDue to non-conduct of WACS, updating of  the  SWMP  was\nnot yet complied.\n\nPartially implemented.\n\nDue to Personnel Services limitation, the appointment of MENRO was not yet established."
+    },
+    {
+      "id": "Orion_Bataan_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed that the\n\n(a) Sangguniang Bayan pass an ordinance declaring an Arbor Day or Tree Planting Day at a fixed day every calendar year; \n(b) Budget Officer allocate budget for annual tree planting; and \n(c) MENRO prepare and implement an annual greening plan.",
+      "managementAction": "Draft of the ordinance related to declaration of Arbor Day in the municipality was already prepared and still subject for review. Nevertheless, the LGU was already intiating mangrove planting activities during the celebration of its Bakawan Festival as part of its annual cultural activity.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Not Implemented\n\nPartially Implemented"
+    },
+    {
+      "id": "Orion_Bataan_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommend that management provide at least 10% of the SSIP project cost as counterpart from the LGU in the form of right-of-way cost and watershed development of at least one (1) hectare by planting agro-forest trees above the waterline of the reservoir as agreed in the MOA with BSWM and DA-RFU III.\n\nHenceforth, we recommend that management conform to Revised IRR of RA 9184 on all their procurements.",
+      "managementAction": "The Municipal Agriculturist will include the PANDAM area in the planned watershed rehabilitation program. This will be coordinated with MENRO and DENR to pursue planting in CY 2022.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "Orion_Bataan_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "We recommend that the management should take up in the books the public market and loans payable to fairly present the municipality’s financial condition.",
+      "managementAction": "Some documents regarding the loan were located. However, the Presidential Committee on Flagship Programs and Projects (PCFPP) that granted the loan was abolished and transferred to the Office of the Presidential Adviser for Regional Development. \n\nConsidering the lapse of time and further reorganization of the Office of the President, Management will confirm with the said agency the status and collectability of the loan.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Bataan__Orion_Bataan-2020-OBS1",
+      "year": 2020,
+      "recommendation": "1.14\tWe recommended that Management require the (a) Municipal Accountant to check the completeness of supporting documents of disbursements in accordance with COA Circular 2012-001 and Section 4 (6) of PD No. 1445; (b) concerned departments to always update the postings on Municipality’s website and full disclosure policy board.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Bataan__Orion_Bataan-2020-OBS2",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Bataan__Orion_Bataan-2020-OBS3",
+      "year": 2020,
+      "recommendation": "3.29\tWe recommended that the Management instruct the (a) MDRRMO to (i) update its MDRRMP taking consideration the current COVID-19 pandemic; (ii) coordinate the implementation of all identified PPAs in the LDRRMIP to address the disaster risks within the Municipality; (b) Municipal Accountant and Municipal Treasurer (i) as the pandemic situation improves, to strictly adhere to the rules and regulations in disbursement of funds specifically on the grant of cash advances; (ii) submit to the OCD the Summary/List of Cash Donations received, distributed and balances; and (c) Municipal Accountant (i) strictly withhold taxes on government purchases in compliance with Section 2.57.4 of RR No. 2-98 as amended by RR No. 12-2001; (ii) transfer the unutilized cash donations to the Trust fund books under the Trust Liability-DRRM account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Bataan__Orion_Bataan-2020-OBS4",
+      "year": 2020,
+      "recommendation": "4.10\tWe recommended that the Management require the (a) Municipal Accountant (i) compute the inventory cost of every inventory item using the moving average method; and (ii) provide SLCs for supplies and materials by type/class; and (b) Municipal Treasurer (i) maintain stock cards for supplies and materials by type/class; (ii) prepare and submit to the Municipal Accountant strictly on a weekly basis the SSMI based on consolidated RIS; and (iii) conduct semestral count of inventories and submit RPCI not later than July 31 and January 31 of each year.\n4.11\tWe also recommended that Management (a) provide a large stockroom to accommodate all the supplies and materials of the Municipality; and (b) fill-up the vacant plantilla positions of the General Services Office.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Bataan__Orion_Bataan-2020-OBS5",
+      "year": 2020,
+      "recommendation": "5.16\tWe recommended that the Management instruct the –\nInventory Committee led by the Municipal Treasury Office -\ncontinue to conduct physical count of all properties and submit the RPCPPE not later than January 31 of each year;  and\nupdate and complete the property cards to enable the reconciliation with accounting records and inventory report;\nDisposal and Appraisal Committee –\nprepare the Inspection and Inventory Report of Unserviceable Properties (IIRUP) to properly account all unserviceable/destroyed properties for disposal; and\nrecommend the disposal of unserviceable properties to the Local Chief Executive and the manner of disposition;\nMunicipal Accountant –\ncomplete and update the PPELCs by class and/or type and reconcile the balances of the PPE accounts per physical count and property records; and\n5.17\tWe also recommended that Management (a) fill-up the vacant plantilla positions of the GSO; and (b) follow the guidelines and procedures on the one time cleansing of PPE accounts in accordance with COA Circular No. 2020-006 dated January 31, 2020.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Bataan__Orion_Bataan-2020-OBS6",
+      "year": 2020,
+      "recommendation": "6.8\tWe recommended that the Local Chief Executive (LCE) in coordination with the Local Development Council (LDC) (i) conduct thorough planning and provide specific implementation dates in the AIP for the efficient and appropriate timing of implementation of projects; and (ii) regularly monitor the implementation of developmental PPAs and fast track the identification of new priority PPAs if the municipality will revise its AIP.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Bataan__Orion_Bataan-2020-OBS7",
+      "year": 2020,
+      "recommendation": "7.16\tWe recommended that the Management (a) fast track the operation of the central MRF and implement the SCRP and Post Closure Plan to achieve the total closure of the controlled dumpsite; (b) monitor the compliance of the barangays in the mandatory segregation at source in order to minimize the volume of collected solid wastes of the Municipality; and (c) update the Solid Waste Management Plan incorporating the COVID-19 waste management plan.\n7.17\tWe also recommended that the Sangguniang Bayan (a) pass an ordinance on the banning of use of single-use plastics at the Municipal Offices; and (b) pass an ordinance on the establishment of the MENRO and create plantilla positions thereto.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Bataan__Orion_Bataan-2020-OBS8",
+      "year": 2020,
+      "recommendation": "8.12\tWe recommended that Management –\nOrganize an ICT Committee; and\nUpdate and implement an ISSP that will fast track government digitization.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Bataan__Orion_Bataan-2020-OBS9",
+      "year": 2020,
+      "recommendation": "9.11\tWe recommended that –\ndesignate or assign a Local Population Officer;\ninclude the designated or assigned Local Population Officer in the GAD Committee;\nincorporate in the GAD, programs to supplement sex education in Department of Education (DepEd) modules with the use of interactive forms of communication; and\nincorporate in the GAD other responsible parenthood and reproductive health programs to address teenage pregnancies.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Bataan__Orion_Bataan-2020-OBS10",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Bataan__Orion_Bataan-2020-OBS11",
+      "year": 2020,
+      "recommendation": "11.4\tWe recommended and the Municipal Mayor agreed to instruct the Municipal Accountant and Acting Municipal Treasurer expedite the immediate transfer of funds for the timely remittance of taxes withheld to BIR from SEF and TF to the GF.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Bataan__Orion_Bataan-2020-OBS12",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Bataan__Orion_Bataan-2020-OBS13",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Bataan__Orion_Bataan-2020-OBS14",
+      "year": 2020,
+      "recommendation": "14.7\tWe recommended and the Management agreed that the (a) Municipal Accountant regularly remind the persons liable for the disallowance of hardship allowance to settle their liability in accordance with the installment schedule approved by the Commission Proper; and (b) persons liable for the disallowance of PDAF be required to settle their liability and/or appeal to the appropriate tribunal within the prescribed period as stated in COA Circular No. 2009-006 should the appeal be dismissed by the COA Regional Office No. III",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Bataan__Orion_Bataan-2020-PY1",
+      "year": 2020,
+      "recommendation": "We reiterated our previous years’ recommendation that the Management instruct the\n\n(a) created inventory, appraisal and disposal committees (i) (xxx); and (ii) determine the value of the properties with no cost and unserviceable/destroyed properties for disposal indicating the manner of disposition; and\n\n(b) Municipal Accountant and Municipal Treasurer complete and update the PPELCs and PCs by class and/or type and reconcile the balances of the PPE accounts per books and property records.",
+      "managementAction": "Additional personnel were hired to conduct physical count of PPEs. The finalized RPCPPE was submitted to the Office of the Auditor on January 8, 2021.\n\nNecessary adjustments will be taken up to ascertain the PPE balances per book. \nLikewise, reorganization of inventory, appraisal and disposal committees was done to facilitate the proper appraisal of properties with no cost and properties for disposal.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Bataan__Orion_Bataan-2020-PY2",
+      "year": 2020,
+      "recommendation": "We reiterated prior year’s recommendation that the MSWDO as the focal person facilitate the mainstreaming of GAD to the other departmental PPAs of the Municipality to increase GAD implementation rate.",
+      "managementAction": "Management will closely review its plan to increase the mainstreaming of GAD to other departmental PPAs in order to support gender responsiveness and provide assistance to all its marginalized constituents.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Bataan__Orion_Bataan-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor instruct the Solid Waste Management Implementing Group \n\n(a) speed up the operation of the central MRF and incinerator to implement the full closure of the controlled dumpsite; \n\n(b) strictly enforce the penalties for the violators of RA No. 9003 and other environmental ordinances; and \n\n(c) prioritize and implement the approved Ten-Year SWMP in accordance with the requirements of RA No. 9003.",
+      "managementAction": "The construction of the Central MRF was already finished and the conveyor, sorting facility, composting tank and pyrolysis were already installed but remained unoperational as of this date due to late testing of the equipment and the necessary compliance certificates from DENR and DOST.\n\nA revised Safe Closure and Rehabilitation Plan was submitted to the EMB on August 14, 2020 which states the adjustment on the timeframe for implementation in consideration of the delays due to lockdown brought about by the COVID-19 pandemic.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Bataan__Orion_Bataan-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed that the HRMO and Municipal Accountant study the impact of increasing the minimum daily wage of its JO personnel to align with the minimum daily wage authorized under Wage Order No. RB111-21 for approval of the LCE.",
+      "managementAction": "Budgetary constraints limit the Municipality to have the minimum wage implemented. On a happy note, JO workers were granted a substantial increase in their daily wages last October 2019.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Bataan__Orion_Bataan-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended and Management agreed that the\n\n(a) Sangguniang Bayan pass an ordinance declaring an Arbor Day or Tree Planting Day at a fixed day every calendar year; \n(b) Budget Officer allocate budget for annual tree planting; and \n(c) MENRO prepare and implement an annual greening plan.",
+      "managementAction": "Draft of the ordinance related to declaration of Arbor Day in the municipality was already prepared and still subject for review. Nevertheless, the LGU was already intiating mangrove planting activities during the celebration of its Bakawan Festival as part of its annual cultural activity.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Bataan__Orion_Bataan-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommend that management provide at least 10% of the SSIP project cost as counterpart from the LGU in the form of right-of-way cost and watershed development of at least one (1) hectare by planting agro-forest trees above the waterline of the reservoir as agreed in the MOA with BSWM and DA-RFU III.\n\nHenceforth, we recommend that management conform to Revised IRR of RA 9184 on all their procurements.",
+      "managementAction": "The Municipal Agriculturist will include the PANDAM area in the planned watershed rehabilitation program.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Bataan__Orion_Bataan-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommend to management the following:\n\nxxx;\n\nensure that all claims are adequately supported with complete documents and sufficient data before effecting payments to provide a reasonable basis for establishing the authenticity of the claims.\n\nstop the practice of payment thru reimbursement unless the circumstances warrant its application.\n\nformulate guidelines/criteria for the scholarship program of the agency for approval of the Sangguniang Bayan (SB).",
+      "managementAction": "Checking of completeness, authorizations and correctness of supporting documents has been done in subsequent transactions before proceed with payment of claims and expenses. \n\nMoreover, the practice of payment thru reimbursement was already minimized.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Bataan__Orion_Bataan-2020-PY8",
+      "year": 2020,
+      "recommendation": "We   recommend that    the management should    take up in the books the public market and loans payable to fairly    present        the municipality’s     financial condition.",
+      "managementAction": "Some documents regarding the loan were located. However, the Presidential Committee on Flagship Programs and Projects (PCFPP) that granted the loan was abolished and transferred to the Office of the Presidential Adviser for Regional Development. \n\nConsidering the lapse of time and further reorganization of the Office of the President, Management will confirm with the said agency the status and collectability of the loan.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2019-OBS1",
+      "year": 2019,
+      "recommendation": "1.8 \tWe reiterated our previous years’ recommendation that the Management instruct the (a) created inventory, appraisal and disposal committees (i) conduct actual count of all properties and summarize the results in the RPCPPE; and (ii) determine the value of the properties with no cost and unserviceable/destroyed properties for disposal indicating the manner of disposition; and (b) Municipal Accountant and Municipal Treasurer complete and update the PPELCs and PCs by class and/or type and reconcile the balances of the PPE accounts per books and property records.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2019-OBS2",
+      "year": 2019,
+      "recommendation": "2.7 \tWe commended the Management for the efforts taken to increase the utilization rate of the PPAs under 20% DF and recommend to continuously optimize the implementation of developmental PPAs to contribute to the attainment of desirable socio-economic development and environmental management outcomes of the Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2019-OBS3",
+      "year": 2019,
+      "recommendation": "3.5 \tWe recommended that Management attend trainings or conduct self-study sessions about accounting for disaster risk reduction and management activities to ensure that future in-kind donations are accounted for properly.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2019-OBS4",
+      "year": 2019,
+      "recommendation": "4.7 \tWe reiterated prior year’s recommendation that the MSWDO as the focal person facilitate the mainstreaming of GAD to the other departmental PPAs of the Municipality to increase GAD implementation rate.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2019-OBS5",
+      "year": 2019,
+      "recommendation": "5.7 \tWe recommended that the Municipal Accountant and Municipal Treasurer return/refund the unused balances of the Due to NGAs account in compliance with COA Circular No. 94-013 dated December 13, 1994.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2019-OBS6",
+      "year": 2019,
+      "recommendation": "6.9 \tWe recommended that the Municipal Mayor instruct the Solid Waste Management Implementing Group (a) speed up the operation of the central MRF and incinerator to implement the full closure of the controlled dumpsite; (b) strictly enforce the penalties for the violators of RA No. 9003 and other environmental ordinances; and (c) prioritize and implement the approved Ten-Year SWMP in accordance with the requirements of RA No. 9003.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2019-OBS7",
+      "year": 2019,
+      "recommendation": "7.4 \tWe recommended that Management instruct the personnel in charge of collection at MHO to immediately issue official receipts for every payments made by clients to safeguard government funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2019-OBS8",
+      "year": 2019,
+      "recommendation": "8.5 \tWe recommended that management require the Business Permit and Licensing Officer to conduct close monitoring or review of business permit applications be made to ensure that forms and documentary requirements are complete and attached to each application for proper review of assessments.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2019-OBS9",
+      "year": 2019,
+      "recommendation": "9.5\tWe recommended and the Municipal Mayor agreed to instruct the (a) Municipal Accountant reconcile the Due to GSIS account to identify the errors in the subsidiary ledger balances and take the necessary adjustments thereof; and (b) Acting Municipal Treasurer (i) withhold and remit the total amount due to the GSIS within the 10th day of the following month; and (ii) follow the provisions of the GAA on the employee’s net take home pay.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2019-OBS10",
+      "year": 2019,
+      "recommendation": "10.4 \tWe recommended and the Municipal Mayor agreed to instruct the Municipal Accountant and Acting Municipal Treasurer to find ways on how to expedite the immediate transfer of funds from the SEF and TF to the GF for the taxes withheld.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2019-OBS11",
+      "year": 2019,
+      "recommendation": "11.5 \tWe recommended and the Municipal Mayor agreed to instruct the (a) Municipal Accountant to reconcile the Due to Pag-IBIG account to identify the errors in the subsidiary ledger balances and take the necessary adjustments; and (b) Acting Municipal Treasurer (i) withhold and remit the total amount due to the Pag-IBIG Fund within the prescribed period; and (ii) follow provisions of the GAA on the employee’s net take home pay.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2019-OBS12",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2019-OBS13",
+      "year": 2019,
+      "recommendation": "13.9 \tWe recommended and the Management agreed that the (a) Municipal Accountant regularly remind the persons liable for the disallowance of hardship allowance to settle their liability in accordance with the installment schedule approved by the Commission Proper; and (b) persons liable for the disallowance of PDAF be required to settle their liability and/or appeal to the appropriate tribunal within the prescribed period as stated in COA Circular No. 2009-006 should the appeal be dismissed by the COA Regional Office No. III.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2019-PY1",
+      "year": 2019,
+      "recommendation": "We reiterated our previous years’ recommendation that the Management instruct the (a) created inventory, appraisal and disposal committees (i) conduct actual count of all properties and summarize the results in the RPCPPE; and (ii) determine the value of the properties with no cost and unserviceable/destroyed properties for disposal indicating the manner of disposition; and (b) Municipal Accountant and Municipal Treasurer complete and update the PPELCs and PCs by class and/or type and reconcile the balances of the PPE accounts per books and property records.",
+      "managementAction": "Physical count was conducted partially for CY 2019 and still on-going.\n\nThe management agreed to comply with the audit recommendation to determine the value of properties with no cost and those subject for disposal.\n\nThe management promised to update the PPELCs and PCs by class and/or type and reconcile the balances of the PPE accounts per books and property records.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reiterated in Observation No. 1"
+    },
+    {
+      "id": "Orion_Bataan-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed that the MSWDO as the focal person facilitate the mainstreaming of GAD to the other departmental PPAs of the Municipality to increase GAD implementation rate.",
+      "managementAction": "Management will closely review its plan to increase the mainstreaming of GAD to other departmental PPAs in order to support gender responsiveness and provide assistance to all its marginalized constituents.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reiterated in Observation No. 4"
+    },
+    {
+      "id": "Orion_Bataan-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed that the HRMO and Municipal Accountant study the impact of increasing the minimum daily wage of its JO personnel to align with the minimum daily wage authorized under Wage Order No. RB111-21 for approval of the LCE.",
+      "managementAction": "Budgetary constraints limit the Municipality to have the minimum wage implemented. On a happy note, JO workers were granted a substantial increase in their daily wages last October 2019.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed that (a) Sangguniang Bayan pass an ordinance declaring an Arbor Day or Tree Planting Day at a fixed day every calendar year; (b) Budget Officer allocate budget for annual tree planting; and (c) MENRO prepare and implement an annual greening plan.",
+      "managementAction": "Draft of the ordinance related to declaration of Arbor Day in the municipality was already prepared and still subject for review. Nevertheless, the LGU was already intiating mangrove planting activities during the celebration of its Bakawan Festival as part of its annual cultural activity.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended that the (ii) prepare and submit a certified monthly Report on Sources and Utilization of DRRMF on or before the 15th day of the following month.",
+      "managementAction": "Submission of report on sources and utilization of DRRMF was still done on quarterly basis.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2019-PY6",
+      "year": 2019,
+      "recommendation": "We commended the Management for the actions taken to implement RA No. 9003. We recommended that the Solid Waste Management Implementing Group (a) xxx; (b) strictly enforce the penalties for the violators of RA No. 9003 and other environmental ordinances; and (c) prioritize and implement the approved Ten-Year SWMP in accordance with the requirements of RA No. 9003.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Reiterated in Observation No. 6"
+    },
+    {
+      "id": "Orion_Bataan-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommend that the Municipal Mayor effect the full tranches of salary/wage increase of municipal officials and employees before giving additional allowances to national government officials in compliance with rules and regulations.",
+      "managementAction": "The management had implemented the third tranche of SSL IV effective for the CY 2019.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommend that management provide at least 10% of the SSIP project cost as counterpart from the LGU in the form of right-of-way cost and watershed development of at least one (1) hectare by planting agro-forest trees above the waterline of the reservoir as agreed in the MOA with BSWM and DA-RFU III.",
+      "managementAction": "The Municipal Agriculturist will include the PANDAM area in the planned watershed rehabilitation program.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2019-PY9",
+      "year": 2019,
+      "recommendation": "We recommend to management the following: ensure that all claims are adequately supported with complete documents and sufficient data before effecting payments to provide a reasonable basis for establishing the authenticity of the claims. stop the practice of payment thru reimbursement unless the circumstances warrant its application. formulate guidelines/criteria for the scholarship program of the agency for approval of the Sangguniang Bayan (SB).",
+      "managementAction": "Checking of completeness, authorizations and correctness of supporting documents has been done in subsequent transactions before proceed with payment of claims and expenses.\n\nMoreover, the practice of payment thru reimbursement was already minimized.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2019-PY10",
+      "year": 2019,
+      "recommendation": "We recommend that management create an appraisal committee to determine value of donated road lots and require recording in the agency’s books thereafter.",
+      "managementAction": "An appraisal committee has been created to determine value of properties with no costs. Proper valuation and recording of donated lots will be done once copies of titles and deeds of donation are secured.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2019-PY11",
+      "year": 2019,
+      "recommendation": "We recommend that the management should take up in the books the public market and loans payable to fairly present the municipality’s financial condition.",
+      "managementAction": "Some documents regarding the loan were located. However, the Presidential Committee on Flagship Programs and Projects (PCFPP) that granted the loan was abolished and transferred to the Office of the Presidential Adviser for Regional Development.\n\nConsidering the lapse of time and further reorganization of the Office of the President, Management will confirm with the said agency the status and collectability of the loan.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We reiterated our previous years’ recommendation that the Management instruct the (a) created inventory, appraisal and disposal committees (i) conduct actual count of all properties and summarize the results in the RPCPPE; and (ii) determine the value of the properties with no cost and unserviceable/destroyed properties for disposal indicating the manner of disposition; and (b) Municipal Accountant and Municipal Treasurer complete and update the PPELCs and PCs by class and/or type and reconcile the balances of the PPE accounts per books and property records.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We recommended and the Management agreed that the:\n(a)  Municipal Accountant provide allowance for impairment for RPT and SET Receivable;\n(b) Municipal Treasurer to (i) intensify efforts to collect long outstanding RPT and SET Receivable and or (ii) initiate civil remedies for the collection thereof.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended and Management agreed that the (a) Municipal Treasurer open a separate bank account for 20% DF; and (b) Municipal Accountant (i) properly account all transactions for 20% DF under a special account in the General Fund; and (ii) prepare financial reports for the special account distinct and separate from the General Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We recommended and the Local Chief Executive agreed to increase the implementation rate of the programs, projects and activities under 20% DF that will redound to the benefits of its constituents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We recommended and the Local Chief Executive agreed to instruct the DRRMO to properly analyze the existing plan and revise its LDRRMP and coordinate the implementation of identified PPAs to address the disaster risks within the Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We recommended and Management agreed that the MSWDO as the focal person facilitate the mainstreaming of GAD to the other departmental PPAs of the Municipality to increase GAD implementation rate.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-OBS7",
+      "year": 2018,
+      "recommendation": "We recommended and Management agreed that the (a) HR department continue the registration of JO personnel at the SSS; and (b) Accounting personnel deduct SSS contributions based on declared monthly net earnings.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-OBS8",
+      "year": 2018,
+      "recommendation": "We recommended and Management agreed that the (a) HRMO to strengthen policy on personnel loans; (b) MSWDO to program financial literacy and livelihood seminars for their personnel to augment their income; and (c) Municipal Accountant to prioritize authorized deductions in the following preference: 1. BIR, PHIC, GSIS and HDMF, 2. Savings and Loan associations for the benefit of employees, 3. Associations and provident funds managed by employees for their benefit, 4. Government Financial Institutions, and 5. Thrift bank and rural banks.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-OBS9",
+      "year": 2018,
+      "recommendation": "We recommended and Management agreed that the HRMO and Municipal Accountant study the impact of increasing the minimum daily wage of its JO personnel to align with the minimum daily wage authorized under Wage Order No. RB111-21 for approval of the LCE.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-OBS10",
+      "year": 2018,
+      "recommendation": "We recommended and Management agreed that the (a) Sangguniang Bayan pass an ordinance declaring an Arbor Day or Tree Planting Day at a fixed day every calendar year; (b) Budget Officer allocate budget for annual tree planting; and (c) MENRO prepare and implement an annual greening plan.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-OBS11",
+      "year": 2018,
+      "recommendation": "We recommended and the Local Chief Executive agreed to designate a DPO in accordance with the circulars and advisories of the NPC who will ensure compliance with the provisions of the DPA.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-OBS12",
+      "year": 2018,
+      "recommendation": "We recommended and Management agreed that the (a) HRMO follow-up the application of ATM cards of JO personnel at the Municipality’s partner government bank; and (b) Treasury to pay the JO personnel’s salary through the bank.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-OBS13",
+      "year": 2018,
+      "recommendation": "We recommended and the Municipal Mayor agreed to instruct the (a) Municipal Accountant reconcile the Due to GSIS account to identify the errors in the subsidiary ledger balances and take the necessary adjustments; and (b) Acting Municipal Treasurer (i) withhold and remit the total amount due to the GSIS within the 10th day of the following month; and (ii) follow provisions of the GAA on the employee’s net take home pay.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-OBS14",
+      "year": 2018,
+      "recommendation": "We recommended and the Municipal Mayor agreed to instruct the Municipal Accountant and Acting Municipal Treasurer to find ways on how to expedite the immediate transfer of funds from the SEF and TF to the GF for the taxes withheld.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-OBS15",
+      "year": 2018,
+      "recommendation": "We recommended and the Municipal Mayor agreed to instruct the (a) Municipal Accountant to reconcile the Due to Pag-IBIG account to identify the errors in the subsidiary ledger balances and take the necessary adjustments; and (b) Acting Municipal Treasurer (i) withhold and remit the total amount due to the Pag-IBIG Fund within the prescribed period; and (ii) follow provisions of the GAA on the employee’s net take home pay.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-OBS16",
+      "year": 2018,
+      "recommendation": "We recommended and the Municipal Mayor agreed to instruct the Municipal Accountant to reconcile the Due to PhilHealth account to identify the errors in the subsidiary ledger balances and take the necessary adjustments.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-OBS17",
+      "year": 2018,
+      "recommendation": "We recommended and the Management agreed that the (a) Municipal Accountant regularly remind the persons liable for the disallowance of hardship allowance to settle their liability in accordance with the installment schedule approved by the Commission Proper; and (b) persons liable for the disallowance of PDAF be required to settle their liability and/or appeal to the appropriate tribunal within the prescribed period as stated in COA Circular No. 2009-006 should the appeal be dismissed by the COA Regional Office No. III.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-PY1",
+      "year": 2018,
+      "recommendation": "We reiterated and the Management agreed that the (a) created inventory, appraisal and disposal committees (i) conduct actual count of all properties; and (ii) determine the value of the properties with no cost and unserviceable/destroyed properties for disposal indicating the manner of disposition; and \n\n\n\n(b) Municipal Accountant and Municipal Treasurer complete and update the PPELCs and PCs by class and/or type and reconcile the balances of the PPE accounts per books and property records.",
+      "managementAction": "Physical count was conducted last August to September 2018 and still on-going.\n\nThe management agreed to comply with the audit recommendation to determine the value of properties with no cost and those subject for disposal.\n\nThe management promised to update the PPELCs and PCs by class and/or type and reconcile the balances of the PPE accounts per books and property records.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommended that the Acting Municipal Mayor instruct the Project Coordinators to submit to the Auditor’s Office copies of perfected MOA and Project Proposals for all fund transfers for the latter to verify if such funds were used in accordance with the intended purpose.",
+      "managementAction": "Management already called the attention of all Project Coordinators and concerned offices to strictly adhere with COAs recommendation to submit required copies of perfected MOA and Project Proposals of all subsequent fund transfers from different source agencies, including the previous ones disclosed in the AOM. Moreover, concerned offices were already instructed to comply with the recommendation to secure and submit liquidation reports with stamped \"received\" by the source agency.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-PY3",
+      "year": 2018,
+      "recommendation": "We reiterated that the Local Chief Executive require the Municipal Development Council to optimally use the 20% DF to implement the identified social, economic and environmental management development PPAs as planned.",
+      "managementAction": "Management ensure that PPAs identified covers the three major sectors for development. Also the 20% DF was used to satisfy the needs and priorities of the community.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-PY4",
+      "year": 2018,
+      "recommendation": "We recommended that the (a) Acting Municipal Mayor fill up the mandatory positions in the MDRRM Office; \n\n\n(b) designated MDRRMO (i) implement and monitor the planned PPAs in the LDRRMIP; and (ii) prepare and submit a certified monthly Report on Sources and Utilization of DRRMF on or before the 15th day of the following month.",
+      "managementAction": "Mandatory positions in the MDRRM Office were filled up starting January 2019. \n\nSubmission of report on sources and utilization of DRRMF was still done on quarterly basis.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-PY5",
+      "year": 2018,
+      "recommendation": "We commended the Management for the actions taken to implement RA No. 9003.  We recommended that the Solid Waste Management Implementing Group (a) xxx; \n\n(b) strictly enforce the penalties for the violators of RA No. 9003 and other environmental ordinances; and \n\n(c) prioritize and implement the approved Ten-Year SWMP in accordance with the requirements of RA No. 9003.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-PY6",
+      "year": 2018,
+      "recommendation": "We recommend that the Municipal Mayor effect the full tranches of salary/wage increase of municipal officials and employees before giving additional allowances to national government officials in compliance with rules and regulations.",
+      "managementAction": "The management had implemented the fourth tranche of SSL 3 effective January 2018. New RATA rates for municipal heads had been applied since 2014. Transportation allowances granted to national government officials were discontinued. \n\nThe first tranche of SLL was implemented starting January 2019. Additional allowances to national government officials were discontinued on June 2017.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommend that management provide at least 10% of the SSIP project cost as counterpart from the LGU in the form of right-of-way cost and watershed development of at least one (1) hectare by planting agro-forest trees above the waterline of the reservoir as agreed in the MOA with BSWM and DA-RFU III.\n\nHenceforth, we recommend that management conform to Revised IRR of RA 9184 on all their procurements.",
+      "managementAction": "The Municipal Agriculturist will include the PANDAM area in the planned watershed rehabilitation program this 2019.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommend to management the following:\n\nxxx;\n\nensure that all claims are adequately supported with complete documents and sufficient data before effecting payments to provide a reasonable basis for establishing the authenticity of the claims.\n\nstop the practice of payment thru reimbursement unless the circumstances warrant its application.\n\nformulate guidelines/criteria for the scholarship program of the agency for approval of the Sangguniang Bayan (SB).",
+      "managementAction": "Checking of completeness, authorizations and correctness of supporting documents has been done in subsequent transactions before proceed with payment of claims and expenses. \n\nMoreover, the practice of payment thru reimbursement was already minimized.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-PY9",
+      "year": 2018,
+      "recommendation": "We recommend that management create an appraisal committee to determine value of donated road lots and require recording in the agency’s books thereafter.",
+      "managementAction": "An appraisal committee has been created to determine value of properties with no costs. Proper valuation and recording of donated lots will be done once copies of titles and deeds of donation are secured.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2018-PY10",
+      "year": 2018,
+      "recommendation": "We   recommend that    the management should    take up in the books the public market and loans payable to fairly    present        the municipality’s     financial condition.",
+      "managementAction": "Some documents regarding the loan were located. However, the Presidential Committee on Flagship Programs and Projects (PCFPP) that granted the loan was abolished and transferred to the Office of the Presidential Adviser for Regional Development. \n\nConsidering the lapse of time and further reorganization of the Office of the President, Management will confirm with the said agency the status and collectability of the loan.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2017-OBS1",
+      "year": 2017,
+      "recommendation": "We reiterated and the Management agreed that the (a) created inventory, appraisal and disposal committees (i) conduct actual count of all properties; and (ii) determine the value of the properties with no cost and unserviceable/destroyed properties for disposal indicating the manner of disposition; and (b) Municipal Accountant and Municipal Treasurer complete and update the PPELCs and PCs by class and/or type and reconcile the balances of the PPE accounts per books and property records.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2017-OBS2",
+      "year": 2017,
+      "recommendation": "We reiterated that the (a) Municipal Accountant exert extra efforts to reconcile the difference between RPT and SET Receivables before considering a request for write-off; (b) Municipal Treasurer (i) coordinate with the Municipal Assessor to take advantage of the PATAS program to generate an updated certified list of taxpayers; and (ii) submit to the Municipal Accountant a duly certified list of taxpayers for the proper set-up of RPT and SET Receivables account at the beginning of each year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Accountant (a) compute/determine the impairment of Receivables and PPE in accordance with the PPSAS; (b) depreciate the Public Infrastructures over their estimated useful life; and (c) recognize the impairment and depreciation in the books of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2017-OBS4",
+      "year": 2017,
+      "recommendation": "We recommended that the Acting Municipal Mayor (a) require the Assistant Municipal Treasurer to keep on recording and depositing immediately all collections received to the authorized government depository bank; and (b) file appropriate administrative and disciplinary actions against the erring Municipal Treasurer.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2017-OBS5",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Accountant submit the MOA which was the basis of the treatment of collections from PCSO for verification of the Audit Team, otherwise, record the municipal share on STL as Share from PCSO subject to budgetary restrictions and requirements in the General Fund and return the unused balances of the proceeds from Trust Fund to General Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2017-OBS6",
+      "year": 2017,
+      "recommendation": "We recommended that the Acting Municipal Mayor instruct the Project Coordinators to submit to the Auditor’s Office copies of perfected MOA and Project Proposals for all fund transfers for the latter to verify if such funds were used in accordance with the intended purpose.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2017-OBS7",
+      "year": 2017,
+      "recommendation": "We reiterated that the Municipal Accountant (a) ascertain completeness of the supporting documents, information and signatures for every transaction before the same is processed, approved and paid; (b) stop the payment of telephone expenses by means of communication allowance paid to school principals; and (c) make all payments by checks directly to creditors, except payments in small amounts which may be made by cash through the petty cash fund as specified in Items 2.2 and 2.3 of COA Circular No. 97-002.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2017-OBS8",
+      "year": 2017,
+      "recommendation": "We reiterated that the Local Chief Executive require the Municipal Development Council to optimally use the 20% DF to implement the identified social, economic and environmental management PPAs as planned.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2017-OBS9",
+      "year": 2017,
+      "recommendation": "We recommended that the (a) Acting Municipal Mayor fill up the mandatory positions in the MDRRM Office; (b) designated MDRRMO (i) implement and monitor the planned PPAs in the LDRRMIP; and (ii) prepare and submit a certified monthly Report on Sources and Utilization of DRRMF on or before the 15th day of the following month; and (c) Municipal Accountant (i) record the rescue vehicle and equipment purchased in the General Fund; and (ii) transfer the unexpended/unobligated balance of the QRF and the DRRMF-MOOE to the Special Trust Fund at the end of the year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2017-OBS10",
+      "year": 2017,
+      "recommendation": "We commended the Management for the actions taken to implement RA No. 9003.  We recommended that the Solid Waste Management Implementing Group (a) speed up the operation of the central MRF and fully close the controlled dumpsite; (b) strictly enforce the penalties for the violators of RA No. 9003 and other environmental ordinances; and (c) prioritize and implement the approved Ten-Year SWMP in accordance with the requirements of RA No. 9003.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2017-OBS11",
+      "year": 2017,
+      "recommendation": "We recommended that the Acting Municipal Mayor instruct the Municipal Accountant and Municipal Treasurer to (a) withhold and remit the total amount due to the GSIS within the 10th day of the following month; and (b) follow provisions of the GAA on the employee’s net take home pay.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2017-OBS12",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2017-OBS13",
+      "year": 2017,
+      "recommendation": "We recommended that the Acting Municipal Mayor instruct the Municipal Accountant and Municipal Treasurer to (a) withhold and remit the total amount due to the Pag-IBIG within the prescribed period; and (b) follow provisions of Section 47 of the GAA pertaining to mandatory deductions from the employee’s salary and the required net take home pay.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2017-OBS14",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Accountant always remind the persons liable for the disallowance to settle their liability in accordance with the installment schedule approved by the Commission Proper.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2017-PY1",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2016-PY1",
+      "year": 2016,
+      "recommendation": "We reiterated the prior year’s recommendation that Municipal Mayor (a) require the Municipal Treasurer to deposit all collections intact daily or not later than the next banking day; and (b) establish a proper monitoring and control procedures on collections and deposits to avoid the risk of loss/misplacement and misuse/misappropriation of government money.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Collections remained not deposited intact due to unavailability of service vehicle and some were granted to officials and employees as vales/IOUs. Reiterated in Observation No. 3"
+    },
+    {
+      "id": "Orion_Bataan-2016-PY3",
+      "year": 2016,
+      "recommendation": "We reiterated our previous year’s recommendations that Management (a) create an inventory committee to conduct actual physical inventory and further verification to reconcile the balance of the PPE account as presented in the financial statements and inventory report; (b) create an appraisal committee to revalue properties with no costs; (c) require the Municipal Accountant to maintain PPELC to monitor the whereabouts and status of PPE; and (d) accomplish the required IIRUPs for the unserviceable and condemnable equipment indicating the manner of disposition.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Local Chief Executive did not addressed the creation of inventory and appraisal committee. Maintenance of PPELCs and PCs was not adopted by the Municipal Accountant and Municipal Treasurer.\n\nReiterated in Observation No. 1"
+    },
+    {
+      "id": "Orion_Bataan-2016-PY6",
+      "year": 2016,
+      "recommendation": "We recommended that Management strictly comply with the provisions of Section 7.2.1(a) of the RRSA, Section 39 of PD No. 1445, Section 23 (1) (3) of the Administrative Code of 1987 and other laws and regulations on submission and rendering of accounts.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "DVs, collection and liquidation reports were submitted late due to delayed submission of supporting documents by the different departments.\n\nReiterated in Observation No. 11"
+    },
+    {
+      "id": "Orion_Bataan-2016-PY8",
+      "year": 2016,
+      "recommendation": "We recommended that Management (a) establish clear-cut policy on monitoring and implementation of BuB projects, particularly microfinance from DSWD; and (b) install internal control in recording and deposit of collections in order to avoid wastage of government meager resources and attain project objectives.",
+      "managementAction": "The Municipality will schedule talks with DSWD with regards to the recording and deposits of collections from beneficiaries.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Municipality did not make any representations with source agencies regarding the monitoring and implementation of BuB projects.\n\nReiterated in Observation No. 8"
+    },
+    {
+      "id": "Orion_Bataan-2016-PY10",
+      "year": 2016,
+      "recommendation": "We recommended that Management (a) review and update annually the LDRRMFIP to include activities to be funded from the unexpended QRF and DRRMF-MOOE of the previous year’s transferred to the Special Trust Fund account; (b) adhere to the accounting and reporting guidelines of the LDRRMF to properly account for the expenses related thereto; and (c) direct the OIC-MDRRMO to (i) prepare a certified monthly Report on the Utilization of DRRMF and submit to COA on or before the 15th day after the end of each month; and (ii) monitor and evaluate the utilization of the LDRRMF based on the programs, projects and activities listed in the LDRRMIP as incorporated in the annual investment plan to ensure the full implementation of the pre-disaster preparedness programs.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "LDRRMF was still utilized on expenditures not related to calamity. LDRRM reports was not prepared and submitted within the given timelines. The unutilized balance was not yet transferred to the Special Trust Fund account.\n\nReiterated in Observation No. 9"
+    },
+    {
+      "id": "Orion_Bataan-2016-PY12",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Accountant record the municipal share on sales proceeds of the PCSO Small Town Lottery (STL) as income in the General Fund to be made available for appropriation.\n\nWe also recommended that management revert the unexpended balances of collections amounting to ₱596,415.85 from the Trust Fund to the General Fund.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The LCE stated that there is a MOA between the Municipality and PCSO on the treatment of STL collections."
+    },
+    {
+      "id": "Orion_Bataan-2016-PY15",
+      "year": 2016,
+      "recommendation": "We reiterated that the municipality procure its common-use supplies from PS-DBM and secure a certificate of non-availability if common-use supplies were source from alternative suppliers.\n\nWe also recommended that management submit the APP-CSE on or before November 15 of each year to DBM Regional Office No. III.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management commented that goods procured at PS-DBM were often sub-standard and usually not-on-hand."
+    },
+    {
+      "id": "Orion_Bataan-2016-PY16",
+      "year": 2016,
+      "recommendation": "We recommended that management create an appraisal committee to determine value of donated road lots and require recording in the agency’s books thereafter.",
+      "managementAction": "Necessary documents are not on hand to support recording of the assets in the books of accounts.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The previous administration did not turnover any documents related to donated road lots to the present administration."
+    },
+    {
+      "id": "Orion_Bataan-2016-PY18",
+      "year": 2016,
+      "recommendation": "We recommended that the management should take up in the books the public market and loans payable to fairly present the municipality’s financial condition.",
+      "managementAction": "The agency cannot act on this observation because no ESF loan was availed to fund the public market.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The management claimed that they did not avail an ESF loan to fund the public market. According to them, if they have an ESF loan, the financial institution who lent them the fund will force them to pay the said loan."
+    },
+    {
+      "id": "Orion_Bataan-2016-OBS1",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation and the Management agreed that the (a) LCE (i) create an inventory committee to conduct physical count of all properties; and (ii) create an appraisal committee to determine the value of the properties with no costs; and (b) Municipal Accountant and Municipal Treasurer complete and update the PPELC and PC by class and/or type and reconcile the balance of the PPE accounts per books and property records.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2016-OBS2",
+      "year": 2016,
+      "recommendation": "We recommended that the (a) Municipal Mayor assign personnel who will help the Municipal Treasurer in updating the list of taxpayers; (b) Municipal Accountant request for write-off of RPT/SET Receivables after exerting all efforts in reconciling the said accounts; (c) Municipal Treasurer (i) follow up the sent files for list of delinquent accounts with the barangays by coordinating with the Barangay Captain who has the jurisdiction thereof; and (ii) submit to the Municipal Accountant a duly certified list of taxpayers to evade the incorrect set-up of RPT/SET Receivables at the beginning of each year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2016-OBS3",
+      "year": 2016,
+      "recommendation": "We recommended and the Management agreed that the (a) Municipal Mayor (i) instruct the Municipal Treasurer to immediately deposit collections and avoid keeping large amount of money in the vault; and (ii) secure authority from the SB to close the PNB account to prevent dormancy and incurrence of bank service charges; and (b) Municipal Treasurer (i) stop using collections for the payment of reimbursements, cash advances, vales/IOUs, among others, and deposit immediately all collections received daily or not later than the next banking day; and (ii) designate a personnel to prepare and submit monthly RAAFs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2016-OBS4",
+      "year": 2016,
+      "recommendation": "We reiterated our prior year’s recommendation that the (a) Municipal Accountant and Municipal Treasurer (a) ensure that the cash advances and liquidations of payroll of the Municipality strictly comply with the provisions of Section 194 of the GAAM, Volume I and Item 1.2.1 of COA Circular No. 2012-001; (b) HRMO include all casual and job order employees in the biometric system; and (c) MITO transfer to the HRMO the operation of the biometric system as ordered by the LCE.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2016-OBS5",
+      "year": 2016,
+      "recommendation": "We recommended and the Management agreed that the Municipal Accountant (i) cause the payment through checks of all disbursements, except payments in small amounts, as specified in Item 2.2 of COA Circular No. 97-002; and (ii) ascertain completeness of the supporting documents and signatures in every transactions before the same are processed.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommended that the (a) Municipal Treasurer make all payments by checks directly to suppliers and ensure that only small amounts are paid by cash through the petty cash fund as provided for in Items 2.2 and 2.3 of COA Circular No. 97-002; and (b) Members of the Bids and Awards Committee (BAC) comply strictly with the rules and regulations of RA No. 9184 to avoid evasion of the bidding process and resorting to alternative procurement procedures.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2016-OBS7",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor effect the full tranches of salary/wage increase of municipal officials and employees before giving additional allowances to national government officials in compliance with rules and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2016-OBS8",
+      "year": 2016,
+      "recommendation": "We recommended and the Management agreed that (a) Project Coordinators (i) ensure that all BuB projects are implemented in accordance with the duly approved MOA and project proposal and the proposed budget are specified in detail; and (ii) make representation with the DILG Region III for the perfected MOA of the Evacuation Facility, Salintubig and LGSF projects; (b) MSWDO submit the revised guidelines and/or project proposal of the SLP SEA-K Scheme; and (c) Municipal Accountant, Municipal Engineer and BAC Chairman ensure that all documentary requirements are attached in the disbursement vouchers, supported by sufficient information and signed by authorized officials and employees before payment as evidence of the validity of transactions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2016-OBS9",
+      "year": 2016,
+      "recommendation": "We reiterated that the (a) OIC-MDRRMO (i) monitor and evaluate the utilization of LDRRMF based on the programmed PPAs in the LDRRMIP as incorporated in the annual investment plan to ensure the full implementation of the pre-disaster preparedness PPAs to avoid the underutilization thereof; (ii) prepare a certified monthly Report on Sources and Utilization of DRRMF and submit the report  on or before the 15th day after the end of each month; and (iii) review and update annually the LDRRMFIP to include activities to be funded from the unexpended QRF and DRRMF-MOOE of the previous years; (b) Municipal Accountant (i) adhere to the accounting and reporting guidelines of the LDRRMF to properly account the expenses related thereto; (ii) transfer the unexpended/unobligated balance of the QRF and the DRRMF-MOOE to the Special Trust Fund at the end of the year; and (iii) ascertain completeness of the supporting documents, information and signatures before payments are processed; and (c) Officer-In-Charge-Municipal Budget Officer avoid charging expenses not related to the LDRRMF.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2016-OBS10",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive require the (a) Municipal Development Council to identify PPAs which are the top priority of the Municipality to avoid change of plans and re-programming of unimplemented projects; (b) Municipal Planning and Development Officer and Municipal Engineer to (i) always supervise the status of PPA implementation so that vital changes may be presented before time; and (ii) create feasible timetable to evade delays in implementing the development projects; and (c) Municipal Accountant to maintain special accounts under the General Fund for development projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2016-OBS11",
+      "year": 2016,
+      "recommendation": "We recommended that the (a) Municipal Mayor (i) assign additional competent personnel in the Accounting Department; and (ii) instruct the other departments of the agency to submit the necessary SDs to the DVs to avoid delayed submission of the latter; and (b) Municipal Accountant (i) submit to the Auditor’s Office the accounts, financial records and required reports within the prescribed period; and (ii) strictly comply with the provisions of Section 7.2.1 of the RRSA, Sections 23 (1) and (3) of the Administrative Code of 1987 and other laws, rules and regulations on submission and rendering of accounts to avoid suspension and eventually, disallowance of the Municipality’s transactions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2016-OBS12",
+      "year": 2016,
+      "recommendation": "We commended Management for the significant efforts made to implement RA No. 9003.  We recommended that extra effort still be exerted and the (a) Solid Waste Management Implementing Group (i) speed up the operation of the Sanitary Landfill since the submitted SCRP was good as approved by the EMB; (ii) strictly enforce the penalties for the violators of “KASUNDUAN”, CSWMCO, RA No. 9003, Municipal Ordinance No. 12-020-077 and No Collection/No Segregation Policy; and (iii) make representation with the NSWMC for the approval of the 10-year plan; (b) OIC-MENRO prioritize the implementation of the requirements of RA No. 9003 and RA No. 8749 particularly the prohibition of open burning of solid wastes; and (c) Municipal Agriculturist encourage farmers to do composting of farm waste, instead of burning, to enrich the soil with natural fertilizers.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2016-OBS13",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendation and the Management agreed that the Municipal Mayor, thru the MPDO Officer/GFPS TWG Chair and MSWD Officer/GFPS TWG Secretariat, (a) fully establish the Municipality’s GAD database to serve as basis for gender-responsive, planning, programming and policy formulation; and (b) strictly comply with the guidelines and procedures embodied in the JMC.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2016-OBS14",
+      "year": 2016,
+      "recommendation": "We recommended that the (a) OTFRB (i) strictly implement the Municipal Ordinance on the regulation of the operations of three-wheeled public conveyances along the Roman Super-highway within the locality to prevent undesirable consequences which might endanger both pedestrians and motorists; (ii) impose fines and penalties on tricycles operating their routes on national highways; and (iii) continuously conduct information campaign on the provision of operating conditions for tricycles; and (b) Municipal Engineer and Head of Orion Command Center to (i) inspect the condition of existing CCTVs and evaluate the need for repair and/or replacement thereof; (ii) assess the technical specifications of the CCTV needed in order to maximize the benefits of their utilization, taking into consideration the cost effectiveness and performance efficiency; (iii) install some of the proposed additional units within the national highway of the Municipality to provide  protection, monitoring and record purposes and for the promotion of public safety and order and immediate rescue and assistance to the public in case of accidents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2016-OBS15",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2016-OBS16",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed that the Municipal Accountant (a) pay reimbursements, net of withholding tax on procurement of goods and services; and (b) continue the effort of deducting the corresponding taxes from compensation of their officials and employees and all payments to suppliers/contractors and remitting the same within the prescribed period.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2016-OBS17",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Mayor, through the Municipal Accountant, require the persons determined liable for the disallowance to settle their liability since the prescriptive period within which to file a motion for reconsideration with the Commission Proper as prescribed in COA Circular No. 2009-006 dated September 15, 2009 has already elapsed.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2016-PY2",
+      "year": 2016,
+      "recommendation": "We commended the Municipal Accountant for the thorough review and adjustments made to correct the balances. We still recommended that she continue all the efforts started in undertaking a thorough review of the encoding and journalizing of RPT/SET collections in view of the discrepancy between the RPT/SET Receivable and Deferred RPT/SET Income accounts and appropriately draw a journal entry voucher to take the necessary adjustments.\n\nWe also recommended that the Municipal Treasurer submit to the Municipal Accountant a duly certified list showing the names of taxpayers and the amount due and collectible for the year pursuant to Section 20 of the Manual on the NGAS to avoid the improper set-up of RPT/SET Receivable and Deferred RPT/SET Income accounts.",
+      "managementAction": "Review of the entries made was stopped since no journal entry voucher was left behind during the review in CY 2015. The Management will request for the write-off of the discrepancy.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "As of CY 2016, the unreconciled balance between the RPT/SET Receivables stood at ₱860,190.80. According to the Municipal Treasurer, the Assessment Roll of the Municipality for CY 2016 was not provided by the Provincial Capitol of Bataan thus, non-submission of duly certified list of taxpayers to the Municipal Accountant.\n\nReiterated in Observation No. 2"
+    },
+    {
+      "id": "Orion_Bataan-2016-PY4",
+      "year": 2016,
+      "recommendation": "We reiterated prior years’ recommendation that Management limit the granting of honoraria to national government officials unless the municipality has already implemented the New Salary Standardization Rates for Philippine Government Employees and new RATA rates under DBM LBC No. 103 dated May 15, 2013.",
+      "managementAction": "The 2nd tranche of the Salary Standardization Law (SSL) was implemented on January 2016. The Municipality still grants allowances to other national government officials chargeable against Other Maintenance and Other Operating Expenses.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Aside from financial constraints of the Municipality, the former Municipal Mayor did not implement immediately the salary/wage increase for CY 2010.\n\nReiterated in Observation No. 7"
+    },
+    {
+      "id": "Orion_Bataan-2016-PY5",
+      "year": 2016,
+      "recommendation": "We reiterated our prior year’s recommendation that Management (a) comply strictly with the mandates of COA Accounting Circular No. 2006-001 dated November 9, 2006 and Section 194 of the GAAM, Volume I; and (b) implement measures on the advantages of the secured Biometric System.",
+      "managementAction": "Salary schedules have been adjusted to avoid off-setting of the salary differences of casual and job order employees. Instead of the normal 15-30 schedule, the salary of job order and casual employees are now given on the 20th of the current month and the 5th day of the following month.\n\nA “No DTR – No Salary” rule has been implemented to further avoid the off-setting practice and instill responsibility and discipline to employees.\n\nThe Accounting Office has assigned a personnel to handle the DTRs of employees and take responsibilities on such upon transmittal from the HRMO.\n\nWith the non-transfer of the operation of the biometric to the HRMO, a closer coordination with the Municipal Information Technology Office (MITO) has been adapted to facilitate the order and timely downloading and monitoring of employee attendance.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Orion_Bataan-2016-PY7",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Solid Waste Management Board headed by the Local Chief Executive (a) prioritize the operation of a Sanitary Landfill especially upon approval of the Safe Closure and Rehabilitation of Disposal Facilities and other requirements of RA No. 9003; (b) involve closely the barangay officials in the strict implementation of the existing municipal solid waste management ordinances and environmental laws so that efficient management of solid waste will be effectively enforced; and (c) implement the Ten-Year Solid Waste Management Plan.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The implementation of Safe Closure Rehabilitation Plan (SCRP) was still on-going while the 10-Year Solid Waste Management Plan (SWMP) was not yet approved.\n\nReiterated in Observation No. 12"
+    },
+    {
+      "id": "Orion_Bataan-2016-PY9",
+      "year": 2016,
+      "recommendation": "We reiterated our previous recommendation that the Local Chief Executive, in coordination with the GFPS, establish GAD Code, GAD Database and processes provided by the guidelines and strengthen the GFPS to accelerate gender mainstreaming within the locality and ensure that all issues and concerns will be addressed in pursuit of women-empowerment and gender equal locality.\n\nWe also recommended that Management strictly expend the GAD funds in accordance with the approved Annual GAD Plan and Budget.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Municipality’s GAD database was no yet fully established.\n\nReiterated in Observation No. 13"
+    },
+    {
+      "id": "Orion_Bataan-2016-PY11",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive (a) instruct the BAC members and the Municipal Engineer to properly plan and schedule all procurement activities pertaining to development projects to pave the way for their timely implementation and completion; and (b) ensure that the Municipal Planning and Development Officer and Municipal Engineer regularly monitor the status of project implementation so that necessary interventions may be introduced at the earliest time.\n\nWe also recommended that the Municipal Accountant maintain special accounts under the General Fund for development projects for proper accountability and control.\n\nWe further recommended that BAC conduct mandatory review and evaluation of the terms, conditions and specifications in the bidding documents when there is a failure of bidding in consonance with Section 35.2 of RA No. 9184 Implementing Rules and Regulations.",
+      "managementAction": "All government projects implemented by the Municipality were planned and monitored carefully but due to occurrence of unforeseeable things which sometimes hamper the completion of projects on time.\n\nThe unutilized portion of 20% Development Fund was due to the conscious effort of the Municipality to save fund for Solid Waste Management projects.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "20% DF was not optimally utilized as of year-end due to the saving of fund for Solid Waste Management projects.\n\nReiterated in Observation No. 10"
+    },
+    {
+      "id": "Orion_Bataan-2016-PY13",
+      "year": 2016,
+      "recommendation": "We recommended that management provide at least 10% of the SSIP project cost as counterpart from the LGU in the form of right-of-way cost and watershed development of at least one (1) hectare by planting agro-forest trees above the waterline of the reservoir as agreed in the MOA with BSWM and DA-RFU III.\n\nHenceforth, we recommended that management conform to Revised IRR of RA 9184 on all their procurements.\n\nWe also recommended that management require the Municipal Accountant to record the rehabilitation/construction of SSIP, as follows:\n\nUnder Trust Fund books, to record the transfer of completed SSIP to Public Infrastructure:\n\nDebit\nPublic Infrastructures\n4,864,332.96\n\nCredit\nIrrigation, Canals and Laterals\n4,864,332.96\n\nUnder General Fund books, to record the transfer of completed SSIP with the TF JEV No. as basis:\n\nDebit\nPublic Infrastructures\n4,864,332.96\n\nCredit\nGovernment Equity\n4,864,332.96\n\nTo record the rehabilitation/construction of SSIP in the Registry of Public Infrastructures (RPI) under the GF books at the end of the year:\n\nDebit\nGovernment Equity\n4,864,332.96\n\nCredit\nPublic Infrastructures\n4,864,332.96",
+      "managementAction": "Liquidation report was already forwarded to BSWM.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The SSIP project was the brainchild of previous administration. As such, the current administration did not prioritize the implementation of the supposed counterpart of the LGU."
+    },
+    {
+      "id": "Orion_Bataan-2016-PY14",
+      "year": 2016,
+      "recommendation": "We recommended that management submit liquidation report supported by necessary documents/data; procure goods through public bidding and pay directly through check; and require the Municipal Accountant to take up the expenses made from the fund transfers before taking up the liquidation in the books and to deduct the required taxes.",
+      "managementAction": "Funds for supplemental feeding were released to Day Care parents on a two-weeks requirement basis through a cash advance in the name of the Municipal Treasurer.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Liquidations were already supported with necessary documents. However, procurement of goods were still not coursed thru public bidding."
+    },
+    {
+      "id": "Orion_Bataan-2016-PY17",
+      "year": 2016,
+      "recommendation": "We recommended that management of the Municipality of Orion verify the liquidation report submitted by the NGO. Substantiate the reasonableness of the cost of the Barangay Peace and Order Kit of ₱9,900.00 per unit. List of recipients should be attached to the report of disbursements.",
+      "managementAction": "The management always follows up the liquidation report on the address of the NGO as written in the official receipt. However, no reply has been received. Some of the Barangay Peace and Order Kits were distributed to nearby municipalities, the previous Municipal DILG as in-charge.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Only partial documents were submitted by the PPDFI to the municipality. Management will not be able to require the full liquidation report of the Barangay Peace and Order Kit Project since the address of the foundation has been verified by Special Audit Office (SAO) as non-existing. Management however, should substantiate the reasonableness of the cost of the Barangay Peace and Order Kit of ₱9,900.00 per unit and submit list of recipients."
+    }
+  ]
+}

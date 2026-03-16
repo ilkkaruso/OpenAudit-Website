@@ -1,0 +1,1694 @@
+{
+  "lguCode": "1606708000",
+  "lguName": "Del Carmen",
+  "province": "Surigao del Norte",
+  "region": "Region XIII (Caraga)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "DelCarmen_SDN_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "1.10 We recommended that the Municipal Accounting Office and Municipal\nTreasury Office perform the required reconciliation at least quarterly;\nand the Accounting Office to prepare the Bank Reconciliation\nStatements (BRS) for all the funds/bank accounts maintained by the\nMunicipality with the authorized depository banks every month duly\nreconciled with the cashbooks of the Treasury Office and submit the\nsame to the Office of the Auditor within the prescribed period.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-OBS8",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-OBS9",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-OBS10",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-OBS11",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-OBS12",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-OBS13",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-OBS14",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-OBS15",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-OBS16",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-OBS17",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-OBS18",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-OBS19",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "Per agreement of the Municipal Treasurer and Municipal Accountant, the treasurer must be the one to made adjustments in her book based on Bank Reconciliations supported by Bank Statements and Subsidiary Ledgers of the Municipal Accountant. Any variance in her reconciliations she must call the attention of the accountant for the adjustments needed.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "The two offices have already an agreement for the monitoring of the issued checks and the same to be count at the end of the year as basis for the preparation of Schedule of Unreleased Checks and Schedule of Index of Payment.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "The offices concerned already made strategy through CAFOA for the correct charging fund disbursement and for the regular reconciliations of RAO, Cash Book and Budget monitoring records",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "The accountant had already drawn journal entries with JEV No. OTHJ-04-15575 and OTHJ-04-15576 dated April 21, 2021 to transfer the said amount from Advances to Officers and Employees to Due from Officers and Employees with a corresponding disclosure.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "The accountant had already drawn journal entries with JEV No. OTHJ-04-15805 to adjust the correct balance on Discount on Real Property Tax - Basic and Deferred Real Property Tax.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "Adjustments have already been made and the Municipal Treasurer's Office submit a summary based on the Real Property Tax Index Card the amount collectible for FY 2021 to the Municipal Accounting Office. And the latter recorded in their system re:subsidiary ledger the Real Property Tax Receivable and Special Education Tax Receivable.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "Adjustments have already been made and the Municipal Treasurer's Office submit a summary based on the Real Property Tax Index Card the amount collectible for FY 2021 to the Municipal Accounting Office. And the latter recorded in their system re:subsidiary ledger the Real Property Tax Receivable and Special Education Tax Receivable.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "The accounting office already made adjustment and the municipal accountant issued Office Order No. 2021-001 dated May 10, 2021 \"Updates and amendments on the accounting operations, internal controls and Policies per Government Accounting Manual (GAM)\" Section 3 subsection 3.22 \"For purchases of construction materials, the staff must record it as Construction Materials Inventory with inclusion of the intended purpose or final product\". Also, upon issuance to end users, the same will be included in the Summary of Supplies and Materials Issued on a monthly basis.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "The Municipal Inventory Committee had already conducted their first inventory-taking one June 9-15, 2021 on all properties of LGU. Corresponding relevant reports are already prepared and subject to submission to Commission on Audit.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "The Municipal Inventory Committee had already conducted their first inventory-taking one June 9-15, 2021 on all properties of LGU. Corresponding relevant reports are already prepared and subject to submission to Commission on Audit. On top of that, road lots that are not owned by the LGU are not included in the carrying amount of the road network per discussion with the Commission on Audit during the Exist Conference.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "The HRMO is still on-going on the computation of the accumulated leave credits on retiring employees",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "Upon the introduction of the Government Accounting Manual (GAM) for LGUs, the Obligation Request (Obr) was changed to Certification on Appropriations, Funds and Obligations for Allotment (CAFOA) the control for the appropriations and allotments. Also, not only budget office, monitor the appropriations but also the accounting through the maintenance of the RAO for each class of allotment.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "The responsible office wasn’t able to prepare the PPMP, however, the Annual Procurement Plan for 2021 was already made but not in accordance to the applicable provisions of RA 9184 using the prescribed format under GPPB Circular No. 07-2015 and GPPB Reso. No. 20-2015 dated July 16, 2015 given that the PPMP submitted by office is not completed and the APP was not properly consolidated",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY14",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "A meeting was already conducted to ensure that each office will comply with the AOM and upon the preparation of annual budget for CY 2022 each office will submit their own PPMP for consolidation as APP. The APP will be the basis for the procurement wherein similar and related items are to be subjected into one Purchase Request and the same to undergo competitive bidding. The inventory committee also assures that during the consolidations it will assist the BAC Secretariat and the GSO to group similar and related items in the APP.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY15",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "Memorandum Order No. 019 series of 2021 dated May 1, 2021 was already issued to instruct concerned offices to stop procuring goods and services on a reimbursement basis. Also, the offices concerned only allowed the procurement of goods and services if the circumstances warrant its applications and currently these only apply to the Municipal Mayor and Municipal Vice Mayor given the nature of their roles and responsibilities. Moreover, on top of that they also allowed things that will not be subjected to reimbursements like taxes and other materials.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY16",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "Procurement Monitoring Report was already prepared by the BAC as compliance to the Full Disclosure Policy, which was also posted in the Municipality’s Bulletin.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY17",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "Despite the lack of adequate manpower, the person assigned able to submit though not in time but not also too delay the copies of government contracts and each of all the documents forming part thereof within five calendar working days giving the COA enough time to review each contracts and documents for propriety and completeness",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY18",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "The BAC is still working on the required documents",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY19",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "To subject purchases made for meals and snacks and food assistance for the response of COVID-19 to Emergency Procurement under GPPB Circular No. 01-2020 of any of the alternative mode of procurement which is consistent with the guidelines set forth by the GPPB and in Republic Act No. 9184 and its Revised Implementing Rules and Regulations.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY20",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "The municipal accounting office fully required the IATF in their processing of disbursement vouchers the attachment of attendance, pictures and distribution sheet whichever applicable in the purchases made for meals, snacks and food assistance.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY21",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "The engineering office and the BAC already contacted the contractor to discuss the AOM and to determine if any refund will be needed.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY22",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "On the monthly meeting conducted, it was proposed that during the preparation and evaluation of the list of eligible beneficiaries the MSWD office must coordinate with other offices for assignment of additional manpower so prevent any delays in the distribution.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY23",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "A meeting was already conducted and each office concerned are already informed of the procedures to be conducted. Every receipt and distributions of any forms of donations must go through the GSO and the GSO will communicate the receipt and distribution to the inventory committee, Mayor's Office, LDRR Office and Accounting Office for proper recording and accounting of the donations.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY24",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "All barangay captains were already informed to summon those illegible beneficiaries to appear in the mayor's office. A notice and demand letter are already given to those illegible beneficiaries for them to made refund of the cash they wrongfully received.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY25",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "All barangay captains were already informed to summon those illegible beneficiaries to appear in the mayor's office. A notice and demand letter are already given to those illegible beneficiaries for them to made refund of the cash they wrongfully received. On top of that a staffs of MSWD Office who illegally contracted the inclusion of illegible beneficiaries in the payroll for AICS are fired in their positions and barred from working in the LGU.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY26",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "All barangay captains were already informed to summon those illegible beneficiaries to appear in the mayor's office. A notice and demand letter are already given to those illegible beneficiaries for them to made refund of the cash they wrongfully received.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY27",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "On the monthly meeting conducted, it was proposed that during the preparation and evaluation of the list of eligible beneficiaries the MSWD office must coordinate with other offices for assignment of additional manpower so prevent any delays in the distribution.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY28",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "The same were already discussed with the legislative office and they already deliver to the league the concern of the auditor.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY29",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "The Local Chief Executive (LCE) released Memorandum Order No. 04 Series of 2019 “Government Office Hours & Attendance During Flag Raising, MMS and Flag Retreat, Submission of Form 48 (DTR) And Accomplishment Report as Basis for Salary Computation to Payroll” in order to strengthen the internal control for the computation of payroll. On top of that, the office of the Municipal Accountant strictly implemented the \"No DTR, No Salary\" Policy which the basis for the present month salary is last month DTR since the payroll for the current month is prepared in advance.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY30",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "Through the issuance of the New Municipal Internal Revenue Code, the Municipal Treasurer's Office already implemented the code and incorporate the same to their system, ETRACS.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY31",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "Coordination between the two offices is already initiated and for FY 2022 budget some adjustments based on AOM No. 22 are to be taken up.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY32",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "Adjustments have already been made to prevent the occurrence of the non-revision of GAD Plan.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY33",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "The Municipal Accountant and the Tourism Officer already made plan in accordance to Section 53.6 of the Revised IRR of RA 9184 in case of another procurement of services of hired artist. The same has already been discussed to GSO for the attachment of complete documentation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY34",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "A letter of write-off is already executed to accommodate the writing-off of said dormant accounts. Demand letters are being send to all employees that have currently outstanding cash advances. On top of that, the municipal accounting office strengthen its internal control in the cash advance of travelling expenses. The said unliquidated cash advances were pertaining to prior years laxed in terms of monitoring and controlling cash advances.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY35",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "In order to comply with AOM, the new Local Chief Executive takes action by releasing various orders such EO No. 18 Series of 2019 “Updated Creation of Technical Working Group for Municipal Inventory Committee” and Memorandum Order No. 05 Series of 2019 “Submission of Existing Fixtures, Furniture, Equipment, Vehicles, Supplies & Etc.”. On top of that, the GSO already maintained Property Card in all PPEs and the Inventory Committee already conducted physical inventory.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY36",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "The municipal engineering officer are already working out the said projects. Also notice are already given to the contractors for them to comply. An attachments such suspension order, resume order and Statement of Time Lapse are already attached to justify the time lapses.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY37",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "Changes are made to comply with the audit recommendations and the Bids and Awards Committee are already monitoring procurements to avoid the same mistakes. The BAC opt public bidding for procurement with same nature above Php 100,000.00.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY38",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "The new Local Chief Executive (LCE) released Memorandum Order No. 04 Series of 2019 “Government Office Hours & Attendance During Flag Raising, MMS and Flag Retreat, Submission of Form 48 (DTR) And Accomplishment Report as Basis for Salary Computation to Payroll” in order to strengthen the internal control for the computation of payroll. On top of that the office of the Municipal Accountant strictly implemented the \"No DTR, No Salary\" policy and to ensure the prompt submission of their DTRs.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY39",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "This was concern given by the Municipal Accounting Office to the resident auditor to help the office remit the unremitted tax withheld. The computation is made by the accounting office and all unremitted tax withheld are remitted on May 2020 thus correcting the carrying amount of Due to BIR.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY40",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "The 10-year Solid Waste Management Plan was already approved by the NSWMC.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY41",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "The office of Environment and Natural Resources had already made enormous effort to comply with these recommendations. The LGU had recently secure funding for the establishment of Material Recovery Facility (MRF). Also in the part of LGU, various solid waste management projects had already been undertaken such construction of Residual Containment Areas. Furthermore, the LGU had closed its open dumpsite rendering it inoperable.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN_aar2021-PY42",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "The BAC secretariat already made adjustments and already prepare pertinent report",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS1",
+      "year": 2020,
+      "recommendation": "The Municipal Accounting Office and Municipal Treasury Office to perform the required reconciliation at least quarterly; and the Accounting Office to prepare the Bank Reconciliation Statements (BRS) for all the funds/bank accounts maintained by the Municipality with the authorized depository banks every month duly reconciled with the cashbooks of the Treasury Office and submit the same to the Office of the Auditor within the prescribed period.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS2",
+      "year": 2020,
+      "recommendation": "Direct the Municipal Treasurer to prepare a Schedule of Unreleased Checks at the end of the year, and immediately submit the said schedule to the Municipal Accounting Office; and\n\nInstruct the Municipal Accountant to draw adjusting journal entries in the books of accounts every year-end for the total amount of unreleased checks, to fairly present the accounts in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS3",
+      "year": 2020,
+      "recommendation": "The Budget, Accounting and Treasury Offices to perform regular reconciliation of their records for immediate correction of noted deficiencies and carefully charging of fund disbursements in order to present a reliable financial statement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS4",
+      "year": 2020,
+      "recommendation": "The Municipal Accountant to:\n\nAdhere strictly with laws and provisions concerning proper usage of accounts for every transactions and events;\n\nTransfer the said amount from Advances to Officers and Employees to Due from Officers and Employees with a corresponding disclosure. \n\nReview that in the case of the active and current Mayors, the of the Advances to Special Disbursing Officer account for the recording of cash advances for confidential and intelligence funds from the Municipality shall be used.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS5",
+      "year": 2020,
+      "recommendation": "The Municipal Accountant to thoroughly review and check the totals of the figures presented in the Financial Statements for a more accurate and reliable data.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS6",
+      "year": 2020,
+      "recommendation": "a. The Municipal Accountant to- \n\n\t•\tEnsure the setting up of RPT and SET Receivables at the beginning of the year supported with a certified list from the Municipal Treasurer showing the taxpayers’ names and amounts due; \n\t•\tEstablish the beginning RPT/SET Receivables based on Taxpayer’s index card as prescribed under Section 42 Volume 1 of the GAM for LGUs; and \n\t•\tMake necessary adjustment by recognizing the RPT/SET Receivables and Deferred RPT/SET Income based on the list of delinquent taxpayers.\n\nb. The Municipal Treasurer to provide the Municipal Accountant a duly certified list of taxpayers showing the name and the amount due and collectible for the current year as basis in setting up the beginning balance of RPT and SET Receivables.\n \nc. The Local Chief Executive to direct the Municipal Assessor, Municipal Treasurer and Municipal Accountant to cooperate in generating accurate/reliable data on RPT and SET receivable balances by indicating the names of taxpayers and amounts due from them, including penalties therefrom.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS7",
+      "year": 2020,
+      "recommendation": "a. The Municipal Accountant- \n\n\t•\tEnsure the setting up of RPT and SET Receivables at the beginning of the year supported with a certified list from the Municipal Treasurer showing the taxpayers’ names and amounts due; \n\t•\tEstablish the beginning RPT/SET Receivables based on Taxpayer’s index card as prescribed under Section 20 Volume 1 of the MNGAS for LGUs; and \n\t•\tMake necessary adjustment by recognizing the RPT/SET Receivables and Deferred RPT/SET Income based on the list of delinquent taxpayers.\n\nb. The Municipal Treasurer provide the Municipal Accountant a duly certified list of taxpayers showing the name and the amount due and collectible for the current year as basis in setting up the beginning balance of RPT and SET Receivables, respectively. \n\nc. The Local Chief Executive direct the Municipal Assessor, Municipal Treasurer and Municipal Accountant to collaborate efforts in generating accurate/reliable data on RPT and SET receivable balances by indicating the names of taxpayers and amounts due from them, including penalties therefrom.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS8",
+      "year": 2020,
+      "recommendation": "The Municipal Accounting Office to strictly observe compliance with the perpetual inventory method of accounting on the supplies and materials procured for construction projects implementation by administration by recording all purchases under the account Construction Materials Inventory. Also, coordinate with the Municipal GSO, as the construction materials custodian, to implement controls on the receipt and utilization of the same and submit to the Accounting Office a summary of the utilized construction materials. Likewise, effect the necessary adjustment for the number of supplies and materials which remained unutilized for the intended projects or repairs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS9",
+      "year": 2020,
+      "recommendation": "Instruct the Municipal GSO to maintain property cards and issue Property Acknowledgement Receipt (PAR) upon issuance of the same; and\n Reactivate the Inventory Committee to be headed other than the Municipal GSO and assure their commitment to religiously exhaust all available resources and conduct the required annual physical count of plant, property and equipment duly documented through incorporating in the Report on Physical Count on Property, Plant and Equipment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS10",
+      "year": 2020,
+      "recommendation": "Require the Municipal Engineer to provide a complete description and cost segregation of road components for road projects;\n\nFor existing road networks, direct the Municipal Assessor to assist the Municipal Engineer in the assessment of the fair value of the road lot component of local roads under the jurisdiction of the Municipal Government; and\n\nDirect the Municipal Accountant to recognize the amount pertaining to the road lot as part of the reported book value of the Road Networks account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS11",
+      "year": 2020,
+      "recommendation": "The following remedial measures to ensure the proper recording and monitoring of earned leave benefits:\n\nRequire the HRMO to monitor the accumulated leave credits of the Master List of the LGU and to furnish a copy to the Accounting Office;\n\nAfter ensuring the reliability of the accumulated leave credit balances of employees as of December 31, 2020, require the Municipal Accountant to make necessary adjustments to record the Accrued Terminal Leave Benefits due to the retiring employees/officials in the ensuing year; and \n\nDirect the MBO to annually appropriate for the accrued terminal leave benefits earned by each employee even on a staggered basis depending on the availability of funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS12",
+      "year": 2020,
+      "recommendation": "The Municipal Accountant and Budget Officer stop the charging of expenses in excess of the allotted budget, and regularly monitor the spending against a specific appropriation in order to avoid incurrence of expenses in excess of the budget. Moreover, any succeeding disbursement without appropriation will be strictly disallowed in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS13",
+      "year": 2020,
+      "recommendation": "Require the end-user units to prepare the PPMP’s in accordance with Section 7 of Revised IRR of RA 9184 using the suggested format by the GPPB duly posted in its website;\n\nRequire the Budget Office to thoroughly evaluate the submitted PPMP’s in terms of amount and coherence with the proposed budget of the LGU;\n\nRequire the BAC through the BAC Secretariat to consolidate the PPMP’s and prepare the APP in accordance to be applicable provisions of RA 9184 using the prescribed format under GPPB Circular No. 07-2015and GPPB Resolution No. 20-2015 dated July 16, 2015; and \n\nCopy furnish the Office of the Auditor of the updated PPMP and APP yearly for us to validate and ensure that all procurement undertaken by the LGU was based on the approved annual procurement plan.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS14",
+      "year": 2020,
+      "recommendation": "Stop the practice of splitting the procurement of various goods and services;\n\nStop referring to brand names in preparing Purchase Requests (PRs). Instead, mention the relevant specifications and/or performance requirements of the supplies/materials needed; and\n\nInstruct the General Services Officer or BAC Secretariat, as the case maybe, to consolidate the procurement of similar and related items into one purchase request and subject the same to competitive bidding pursuant to Rule IV, Section 10 of the revised IRR of RA 9184 to ensure competitiveness and obtain the lowest and most advantageous price.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS15",
+      "year": 2020,
+      "recommendation": "Limit the procurement of goods and services on a reimbursement basis, unless the circumstances warrant its application;\n\nFollow strictly the rules and procedures of procurement provided in the Revised IRR of RA 9184;\n\nRequire the Municipal Accountant and Municipal Treasurer to ensure that payments are made by check directly to the creditors to whom payments are due and withhold corresponding tax; and\n\nEnsure that regular and recurring expenses should not be paid through reimbursements.\n\nMoreover, any succeeding material reimbursements without valid justifications will be strictly disallowed in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS16",
+      "year": 2020,
+      "recommendation": "Bids and Awards Committee should prepare the Procurement Monitoring Report, for approval by the Head of the Procuring Entity and submit the same to the GPPB in printed and electronic format within fourteen (14) calendar days after the end of each semester.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS17",
+      "year": 2020,
+      "recommendation": "The Local Chief Executive instruct the concerned officials to ensure the timely submission of copies of government contracts and each of all the documents forming part thereof within five (5) working days from execution pursuant to COA Circular No. 2009-001 dated February 12, 2009, to ensure timely review and evaluation of the same, so that the Management could immediately notified of any defects/deficiencies noted thereon.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS18",
+      "year": 2020,
+      "recommendation": "Submit the lacking documents enumerated in Annex A in accordance with the GPPB prescribed forms under the Philippine Bidding Documents, the Revised IRR of RA 9184, and COA Circular 2009-001 in order to facilitate technical review and evaluation;\n\nRequire the personnel in-charge in the submission of the contracts and its supporting documents to maintain a checklist of required documents for each of the transactions to serve as a guide to ensure the completeness of the documents submitted to COA for review; and\n\nStrictly observe and execute the duties of the BAC and TWG as stipulated in the Revised IRR of RA 9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS19",
+      "year": 2020,
+      "recommendation": "Strictly Observe the proper procedures and appropriate mode of procurement in the purchase of meals and snacks as prescribed in GPPB Circular and Republic Act No. 9184 and its Revised Implementing Rules and Regulations and refrain from reimbursing meals, snacks, and food assistance since it would deprive the Municipality of withholding taxes from the suppliers.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS20",
+      "year": 2020,
+      "recommendation": "Strictly observe prudence on the use of government funds for meals and snacks by ensuring that these are utilized only for expenses which are regular and necessary and attach to the disbursement vouchers for meals and snacks the targeted list of recipients/participants, attendance sheets/distribution list, and other significant documentary requirements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS21",
+      "year": 2020,
+      "recommendation": "The concerned contractor to refund the excess in the Contract Cost over the COA Cost Estimates and ensure that the preparation of the Approved Budget for the Contract (ABC) is compliant with DPWH Order No. 197, series of 2016 and such other applicable laws, rules and regulations to avoid any excess on the Contract Cost over COA Cost Estimate.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS22",
+      "year": 2020,
+      "recommendation": "Strengthen its monitoring controls by requiring the Accounting Office, MSWD Office, CDRRM Office, RHU Office, and Mayor’s Office to:\n\nEnsure proper coordination among the Offices concerning the receipt and distribution of Donations In-Kind;\n\nEnsure issuance of Acknowledgment Receipts to all future receipts of donations in-kind to confirm that donations are properly recorded and accounted for; \n\nEnsure that all future issuances of donated items are properly supported with Issuance Form for In-Kind Donations or any document/record to prove receipt by and distribution to the intended beneficiaries; and\n\nDetermine the inventory of remaining undistributed items for recording in the Registry of Donated Relief Goods for DRRM.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS23",
+      "year": 2020,
+      "recommendation": "The MDRRM Officer to:\n\nUpdate themselves to the latest policies and guidelines on Donations In-Kind as provided by the relevant and competent government offices; and\n\nEnsure the on-time preparation and submission of the Report of the Donations Received, Distributed and Balances to the Office of the Civil Defense and Auditor’s Office, in compliance to Section 2(b) of COA Circular 2020-009, moving forward.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS24",
+      "year": 2020,
+      "recommendation": "Requires the MSWD Office to notify the concerned beneficiary and take necessary actions and also for other concerned personnel to thoroughly review the qualified beneficiaries of the any assistance from the government to avoid any errors, duplications and other matters.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS25",
+      "year": 2020,
+      "recommendation": "Requires the MSWD Office and other concerned personnel to thoroughly review the qualified beneficiaries of any assistance from the government to serve the essence and purpose of the program.\n\nMoreover, the Management through the MSWD officer to call upon the said ineligible beneficiaries and compel them to refund the said funds, or else the liable officers in the Municipality shall burden the disallowance of this transaction.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS26",
+      "year": 2020,
+      "recommendation": "Require all the beneficiaries the necessary documentary requirements as prescribed by the DWSD Memorandum Circulars, and in the absence of the required IDs and certifications, a Barangay Certificate may be submitted in lieu of which; and\n\nThoroughly review each list of beneficiaries submitted for assessment and validation to avoid any errors, duplications, and other matters.\n\nCall upon the attention of the concerned 95 beneficiaries and reevaluate them for the submission of required documents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS27",
+      "year": 2020,
+      "recommendation": "The Municipal Social Welfare and Development Office, obtain and maintain an updated records of all indigent and in-need individuals per barangay to fast track the distribution of the assistance and improve the system of distribution for future similar occurrences. Also, establish adequate guidelines on coordination mechanisms so as not to incur the same deficiencies in the future.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS28",
+      "year": 2020,
+      "recommendation": "Direct the Municipal Accountant to scrutinize carefully the disbursement claims of the leagues of local elective officials for membership dues and contribution and determine if the rates/amounts claimed are strictly in accordance with their respective constitution and by-laws. \n\nInstruct the Municipal Treasurer not to release payments to leagues without the government prescribed O.R., and;\n\nRequire leagues annual financial and accomplish reports, as a prerequisite for the renewal of membership fees in the ensuing years, to ascertain that government funds have been utilized for lawful and exclusively for public purposes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS29",
+      "year": 2020,
+      "recommendation": "Require the concerned employees to submit the lacking DTRs from the months of January to December 2020 and direct the concerned personnel who prepares the payroll to maintain the “No DTR, No Salary” policy to ensure the prompt submission of employees DTRs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS30",
+      "year": 2020,
+      "recommendation": "Instruct the Municipal Treasurer, with coordination with appropriate Office, to ensure that local tax rates are updated every five years pursuant to Section 191 of the Local Government Code, with the end view of increasing the revenue collections of the Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS31",
+      "year": 2020,
+      "recommendation": "Instruct the GAD Focal Point System, Municipal Budget Officer and Municipal Account to:\n\nrefrain from utilizing the GAD Fund for expenses not allowed and not within the approved GAD Plan and Budget;\n\nstop disbursing the remaining funds allotted to PPAs under the centennial celebration of the municipality and any succeeding disbursement of it will be strictly disallowed in audit; and\n\nall disbursements related to GAD Fund should be check and sign first by the GAD Focal Point System before processing.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS32",
+      "year": 2020,
+      "recommendation": "Direct the GAD Focal Point System to be updated as to the issuances of different agencies related to the fund, properly plan and regularly monitor the implementation of GAD PPAs and maximize the utilization of the GAD budget to achieve the objective of the government regarding the institutionalization of GAD in the community.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-XIII__Municipalities__Surigao-del-Norte__DelCarmen_SDN-2020-OBS33",
+      "year": 2020,
+      "recommendation": "Direct the Bids and Awards Committee to determine appropriately on what mode of procurement to be used and instruct the Municipal Accountant to ensure that all payments are well supported with complete/proper documentation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2019-OBS1",
+      "year": 2019,
+      "recommendation": "1.10 We recommended that management require the Municipal Accountant to:\na. Issue of demand letters to (i) notify the concerned officials and\nemployees of their responsibility to settle their unliquidated cash\nadvances. If settlement was not received, withhold from their salaries\nconsidering that they have been notified and given more adequate time\nto liquidate; (ii) employees who already resigned and transferred to\nimmediately cause the liquidation and settlement of the unliquidated\nbalances;\nb. Request the write-off of the unliquidated cash advances of the deceased\nemployees;\nc. Reclassify “Other Receivable” account to Advances to Officers and\nEmployees account in order to present fairly the total balance of\nunsettled cash advances;\nd. Ensure the completeness of prescribed supporting documents for the\ngranting of cash advances in processing claims for payment thereof;\ne. Not grant additional cash advance to concerned officials and employees\nunless the previous cash advance has been liquidated;\nf. Strictly monitor periodically the submission of liquidation reports to\nensure timely accounting thereof and avoid undue accumulation of\noutstanding cash advances; and\ng. Strictly comply with the provisions of the aforementioned Circulars to\navoid penalty stated thereon.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2019-OBS2",
+      "year": 2019,
+      "recommendation": "2.10 We recommended that upon the completion of physical count of the\nInventory Committee, the Local Chief Executive institute measures to\nproperly dispose all obsolete and unserviceable properties pursuant to the\ndirectives of Section 79 of PD 1445 and Sections 379 of RA 7160 and in\naccordance with the procedures cited in COA Circular No. 89-296 to\nprevent further deterioration and to realize income from the sale thereof.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2019-OBS3",
+      "year": 2019,
+      "recommendation": "3.15 We recommended that Management:\na. Instruct the Municipal GSO to maintain property cards and issue\nacknowledgement receipt for equipment upon issuance of the same in\naddition to his tasks expressly recommended in the previous AOM for\nSupplies and Materials; and\nb. Reactivate the Inventory Committee and assure its commitment to\nreligiously exhaust all available resources and conduct the required\nannual physical count of plant, property and equipment duly\ndocumented through incorporating in the Report on Physical Count on\nProperty, Plant and Equipment.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2019-OBS4",
+      "year": 2019,
+      "recommendation": "4.9 We recommended Management that the:\n1. Respective Project-in-Charge to (i) exert earnest efforts to complete the\npreparation of the Final or Termination Reports for each of the\ncompleted projects for submission to the Accountant; and (ii) cause the\nimmediate completion of the remaining projects for the eventual\nsettlement of the funds received from Source Agencies (SA); and\n2. Municipal Accountant to (i) record the liquidations submitted by the\nProject-in-Charge; and (ii) submit the Liquidation/Terminal Reports\nand refund the excess project funds to the SA.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2019-OBS5",
+      "year": 2019,
+      "recommendation": "5.12 We recommended that the Municipal Planning and Development Office of\nthe LGU strictly consider the direction of the Local Chief Executive in\ndrafting those Annual Investment Programs and in coordination with the\nBudget Office for the inclusion on its regular and realigned budgets.\nFurther, the Engineering Office strictly monitor the implementation of\npriority developmental projects under the 20% Local Development Fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2019-OBS6",
+      "year": 2019,
+      "recommendation": "6.8 We recommended that the Sangguniang Bayan through the Vice-Mayor\nrevisit the pertinent provisions of the Articles 107 and 417 of the IRR of RA\n7160 and the Budget Officer and the Planning and Development Officer\ncoordinate with the Local Chief Executive to formulate priority development\nprojects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2019-OBS7",
+      "year": 2019,
+      "recommendation": "7.10 We recommended that the Municipal Engineering Office immediately\nupdate the status of the projects and communicate to the contractors\nconcerned the possible liquidated damages to be imposed with consideration\nto any approved extensions. Moreover, the Municipality strictly adheres on\nthe provisions of the Revised IRR of RA 9184 specifically on the application\nof the detailed engineering during the planning stage of the projects and\ninstall effective monitoring controls during the project implementation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2019-OBS8",
+      "year": 2019,
+      "recommendation": "8.7 We recommended that Management ensure that sufficient funds are\nprovided to LDRRMF by including the income collected from other local\nsources in the monthly fund transfer from GF-Proper to GF-LDRRMF and\nrequire the LDRRMO to prepare the monthly Utilization Report duly\nreconciled with the accounting records and certified correct by the\nMunicipal Accountant.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2019-OBS9",
+      "year": 2019,
+      "recommendation": "9.7 We recommended that Management require the Accounting Office to\ntransfer the prior years’ unexpended amount to the special trust fund and\ndemand the Treasury Office to prioritize the opening of said account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2019-OBS10",
+      "year": 2019,
+      "recommendation": "10.11 We recommended that Management require the LDRRM Officer to install\nmechanism that will monitor the implementation of the PPAs identified in\nthe LDRRM Plan and fast-track its implementation and formulate or\npropose programs that are achievable to ensure implementation thereof\nwithin the budget year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2019-OBS11",
+      "year": 2019,
+      "recommendation": "11.8 We recommended that Management provide complete budgetary support to\nthe MDRRM Office under the General Fund and refrain from using the\nLDRRMF for payment of administrative costs of the said office and for the\npurposes other than those authorized under Section 21 of RA 10121.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2019-OBS12",
+      "year": 2019,
+      "recommendation": "12.9 We recommended that Management strictly adhere to Section 336 of RA\n7160. Ensure that savings is declared first before requesting for a passage of\nan appropriation ordinance for supplemental budget to ensure legality of\nthe act. Likewise, instruct the LDRRMO to conduct a thorough planning\nand study on the projects to be included in their LDRRMF to ensure that\nthese will be fully implemented during the year and have sufficient\nappropriation to fund the project in order to avoid frequent augmentation\nand realigning of the budget.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2019-OBS13",
+      "year": 2019,
+      "recommendation": "13.13 We recommended that Management require the MDRRMO to regularly\ninclude the stockpiling of goods on their LDRRMF Plan to avoid the\npractice of splitting its procurement and demand the Bids and Awards\nCommittee to observe integrity and authenticity on their procurement\ndocuments to ensure competitiveness in obtaining the lowest and most\nadvantageous price for the government.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2019-OBS14",
+      "year": 2019,
+      "recommendation": "14.6 We recommended that Management:\na. Strictly observe the relevant provisions of RA 7160 and CSC-COA-\nDBM JM No.1 dated June 15, 2017 such that contracts are prepared\nand/or drawn in the hiring of JO workers, JOs do not perform\nregular agency functions and specific and measurable work outputs\nare defined in the contract;\nb. Observe proper measures in government spending by avoiding the\nhiring of too many JOs performing unnecessary jobs or works;\nc. Require the Accounting Office to ensure that JO contracts and the\naccomplishment reports of JOs are attached to the payroll before\npayment is made; and\nd. Ensure that rates/wages of JO workers commensurate to the actual\nwork performed.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2019-OBS15",
+      "year": 2019,
+      "recommendation": "15.9 We recommended that Management:\na. Request from the bank for a copy of a machine validated debit memo\nand deposit slips or their equivalents to support the debit amount\nfrom the LGU’s depository account and the credited amount to the\nemployees’ depository accounts for salaries and other personnel\nbenefits paid through the ATM.\nb. Submit the missing DTRs with its supporting documents from the\nmonths of January to November 2019 as well as the payrolls with the\napproved DTRs, application for leave and other pertinent supporting\ndocuments for December 2019 as required in Sections 1.2.1 and 4.2\nof COA Circular No. 2012-001 and;\nc. Direct concerned personnel who prepares the payroll to exclude\nthose employees, who failed to submit their DTRs, in the payroll to\nadopt the “NO DTR, NO SALARY” policy and to ensure the prompt\nsubmission of their DTRs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2019-OBS16",
+      "year": 2019,
+      "recommendation": "16.8 We recommended that Management:\na. Demand from the PHWs to submit all the required DTRs for CY\n2019 supported with Civil Service Form 48 together with its\nnecessary supporting documents as soon as possible; and\nb. Require the Accounting Office to stop the granting of fix rate of\n₱150.00 and ₱1,500.00 for Laundry and Subsistence Allowance,\nrespectively, and follow strictly the rules and regulations on the\ngrant of compensation-related Magna Carta benefits to PHWs based\non their Daily Time Records and/or actual number of workdays\nrendered.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2019-OBS17",
+      "year": 2019,
+      "recommendation": "17.8 We recommended that Management instruct the Treasury Office to ensure\nthe prompt release of the succeeding RPT shares to the Barangays in\naccordance with Section 271(d) of RA 7160 without need of any further\ndemand; maintain ledgers for the proper monitoring of the collections and\nremittances; and update subsidiary records to facilitate the determination of\nthe account balances due to the province and barangays.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2019-OBS18",
+      "year": 2019,
+      "recommendation": "18.7 We recommended that:\na. Cash advances of Disbursing Officer should be always supported\nwith correct list of payees or payrolls with their net amounts in\naccordance with the provisions of COA Circular No. 97-002; and\nb. Cash advance granted should be always equal to the net amount of\nthe payrolls.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2019-OBS19",
+      "year": 2019,
+      "recommendation": "19.11 We recommended that Management direct the HRMO and Accounting\nOffice as concerned recommending and approving officials to properly\nreview applications for monetization prior to approval and ensure strict\ncompliance with the related laws, rules and regulations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2019-OBS20",
+      "year": 2019,
+      "recommendation": "20.10 We recommended that Management instruct the GFPS to refrain from\nincluding religious activities in the GAD Plan and Budget without clear\njustification on the specific gender issues to be addressed and ensure that\nthe identified GAD programs and activities are truly gender-responsive and\nrefrain from utilizing the GAD Fund for expenses not within the approved\nGAD Plan and Budget.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2019-OBS21",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2019-OBS22",
+      "year": 2019,
+      "recommendation": "22.8 We recommended that Management ensure full payment of all unpaid taxes\nwithheld at the soonest possible time and strictly observe the BIR due dates\non the remittances of taxes withheld to avoid payment of interests, penalties\nand surcharges.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2018-PY4",
+      "year": 2018,
+      "recommendation": "In view of the above, we recommend the Local School Board to maximize the utilization of the SEF based on RA 5447 as well as Section 272 of RA 7160 and LOI 1462 for the benefits of its intended beneficiaries. Further, we recommend that the Local School Board initiate the inventory of local school buildings that need urgent construction/repairs, operation of such number of extension classes as may be needed to accommodate all children of school and other school needs like books, science and mathematics aids, and simple laboratory devices to help identify the priority PPAs.",
+      "managementAction": "The Local School Board will convene for proper and detailed budget for the CY 2019",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommend the management to implement and utilize the LCPC Fund to its programs, projects and activities (PPAs). Direct the members of the LCPC to prepare Local Development Plan for Children and Local Investment Plan for Children, and maximize the allocated LCPC Fund to identified PPAs provided for in DILG MC No 2012-120 dated July 4, 2012 to ensure full strengthening.",
+      "managementAction": "The LGU LCPC will create a Local Development Plan for Children and Local Investment Plan for Children and utilize the fund according to its plan.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2018-OBS1",
+      "year": 2018,
+      "recommendation": "8. We recommended and Management  agreed  to  instruct  the  Municipal\n        Mayor and Accountant to facilitate the request for write-off of the\n        dormant unliquidated cash advances in a manner  prescribed  in  COA\n        Circular No.  2016-005  and  after  exhausting  all  the  available\n        documents in the office of the Accountant to facilitate the  write-\n        off in order to achieve fair presentation of the  accounts  in  the\n        financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2018-OBS2",
+      "year": 2018,
+      "recommendation": "15. We recommended and Management agreed to instruct the Municipal  GSO\n        to prepare and maintain property cards and to  issue  PAR  for  the\n        equipment that were provided to the recipient/end user in  addition\n        to his tasks expressly recommended in the previous AOM for Supplies\n        and Materials; and direct the Inventory Committee  to  conduct  the\n        required annual physical count of PPEs, prepare RPCPPE  and  submit\n        the same to COA not later than January 31 of each year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2018-OBS3",
+      "year": 2018,
+      "recommendation": "12. We recommended and Management agreed to direct the  Accounting  and\n        Treasury Offices to trace the unreconciled  difference  and  effect\n        the required reconciliation of their records and perform  the  same\n        regularly in order to present a reliable financial statement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2018-OBS4",
+      "year": 2018,
+      "recommendation": "8. We recommended  and  Management  agreed  to  direct  the  Municipal\n        Accountant to maintain a subsidiary  ledger  of  each  account  and\n        perform constant review and  appraisal  of  transactions  to  deter\n        errors  and  omissions  and  to  reconcile  accounts   and   effect\n        adjustments to reflect correct balances of Due from Other Funds and\n        Due to Other Funds in the Financial Statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2018-OBS5",
+      "year": 2018,
+      "recommendation": "5. We recommended and Management agreed to: a.) direct  the  Municipal\n        GSO to maintain supplies and materials stock cards per stock number\n        and prepare weekly the Summary of Supplies and Materials Issued and\n        submit the same to the Municipal Accountant for recording  purposes\n        to  fairly  present  the  inventory  accounts  in   the   financial\n        statements; b.) instruct the Municipal Accountant  to  prepare  the\n        supplies ledger card per stock number. Use the Summary of  Supplies\n        and Materials Issued as basis of recognizing supplies and materials\n        expense. Reconciled the inventory accounts with the actual physical\n        count semesterly; c.) advise the Inventory Committee to conduct the\n        required semi-annual physical count and submit to  COA  the  report\n        not later than July 31  and  January  31  of  each  year;  and  d.)\n        supervise  the  proper  implementation  of  the  inventory  process\n        regularly to ensure its effectiveness, and strictly adhere with the\n        requirements and provisions of existing laws concerning  Accounting\n        for Supplies and Materials to strengthen the internal  control  for\n        supplies and materials.\n\n\n           Below is the Audit team’s proposed adjusting journal entry:\n\n              a. To adjust the overstatement of inventory account:\n\n                 Dr. Expense Account    xx\n\n                     Cr. Inventory Account         xx\n\n              b. To adjust the understatement of inventory account:\n\n                 Dr. Inventory Account  xx\n\n                     Cr. Expense Account           xx\n\n\n    5.6     The GSO commented that she has started maintaining  stock  cards\n        and has been trained  by  the  COA.  The  HRMO  committed  to  give\n        additional staff to the  GSO  for  assistance,  and  will  make  an\n        Executive Order  to  implement  the  solution  to  the  issue.  The\n        Management assured that by the end of the CY 2019, they will submit\n        a report on the physical count of  Inventory/Supplies  and  PPE  as\n        partial implementation of the recommendations.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommend the management to create an Inventory Committee to conduct complete physical inventory of all properties owned by the Municipality and prepare a report thereon in accordance with Section 124 of NGAS Manual for LGUs, Volume I. to determine the existence and accuracy of the PPE owned by the LGU. Moreover, direct the Municipal Treasurer to maintain Property Cards and issue Acknowledgement Receipt for Equipment, and the Municipal Accountant to maintain PPE Ledger Cards as required in Section 114 of the same Manual.",
+      "managementAction": "Already created an Inventory Committee but did not function as ordered to re assess the inventory of the LGU",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommend that the Municipal Treasurer shall record the financial transactions of the Municipality daily pursuant to Sections 26, 27 and 28 of the NGAS Manual for LGUs, Volume II. Likewise, direct her to update and balance all the transactions and reconcile the same with the cash on hand as provided in Section 63 (D) of LTOM. Moreover, direct the Liquidating Officer to maintain Liquidating Officer’s Cashbook for each fund which shall be updated and balanced daily as provided for in Section 63 (B) of LTOM and all the Revenue Collectors shall maintain Teller’s/ Collector’s to record all collections received and all remittances to the designated Liquidating Officer in accordance with Section 63 (C) of LTOM.",
+      "managementAction": "Municipal Collecting Officers already have their individual cash books. The Municipal Treasurer will assign a liquidating officer.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommend that the Local Chief Executive to ensure the proper granting and utilization of all cash advances as provided in Section 8 of COA Circular No. 97-002. Also, require the accountable officers concerned to immediately liquidate and/ or settle their overdue outstanding cash advances. Otherwise, such failure / or settle the same shall constitute a valid cause for the withholding of their salaries and the imposition of other sanctions. Moreover, direct the Municipal Accountant to regularly update the Monthly and Quarterly Monitoring Report of Unliquidated Cash Advances Granted to Accountable Officers including cash advances for salaries, wages and other specific purpose supported with liquidation report promptly for immediate review and submit the same on or before 5th day of the following month. Besides, require her to attach a certification that the previous cash advances have been liquidated and accounted for in the books before.",
+      "managementAction": "The Municipal Accountant issued a demand letter to all accountable officers requiring them to immediately liquidate their unliquidated cash advances only to those with available accounting copies of disbursement vouchers for the said cash advances and issued a certification that previous cash advance have been liquidated and accounted for in the books before granting cash advances to accountable officers.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommend management to: \na. Prepare LDRRMFIP for the DRRM program annually in the prescribed format required under COA Circular No. 2012-002;\nb. Direct the concerned officer to prepare and submit the Report on Sources and Utilization of DRRMF certified correct by the Municipal Accountant in prescribed form on or before the 15th day after the end of each month, through the LDRRMC and LDC, to the COA Auditor of the municipality;\nc. Direct the Municipal Treasurer and Municipal Accountant to create separate Special Trust Fund Account for the unexpended LDRRMF.",
+      "managementAction": "The LDRRMO will submit LDRRMFIP to the COA Office, prepare the utilization report certified by the accountant. The Municipal Treasurer will open a separate special trust fund account for the unexpended amount of the LDRRMF.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2018-PY6",
+      "year": 2018,
+      "recommendation": "We recommend the management should strictly adhere to the guidelines set under Section 2 of RA 10121 and COA Circular 2012-002 in the appropriation and utilization of the LDRRMF. Stop practicing of disbursement charged to LDRRMF expenses which are not related to and do not support disaster risk management activities. Further, direct the Municipal Accountant and Municipal Budget Officer to stop payment not related to LDRRMF programs and activities.",
+      "managementAction": "The MDRRMO, Municipal Accountant and Budget Officer will stop the practice of disbursing not related to LDRRMF programs and activities.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommend management to strictly adhere Section 7, Rule II of the Revised IRR of R.A. No. 9184 and prepare PPMP and consolidate APP. Require the Bids and Award Committee to furnish the Office of the Auditor of the updated PPMP and APP yearly for validation and assurance that all procurement undertaken by the LGU were based on the approved annual procurement plan.",
+      "managementAction": "The BAC Secretariat will submit PPMPs and APP to the Office of the Auditor.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2018-PY9",
+      "year": 2018,
+      "recommendation": "We recommend the management to require the GAD Focal Person to prepare the Annual GPB using the prescribed form and in coordination with the Municipal Budget Officer, submit it to the Provincial Planning and Development Office then to the DILG Regional Office for review and approval. Further, develop GAD PAPs to strengthen the Municipality’s gender-responsive governance and ensure that GAD Fund is utilized in align with the PCW-DILG-DBM-NEDA Joint Circular No. 2013-01.",
+      "managementAction": "Submit the approved GAD Plan and Budget to the Office of the Auditor",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-PY1",
+      "year": 2017,
+      "recommendation": "We recommended and Management agreed to: a. Instruct the Municipal Accountant to issue demand letters to the officials and employees with unliquidated cash advances otherwise withhold their salaries including those of the job order personnel as provided for under Item 5.9 of COA Circular No. 97-002; Strictly comply with the provisions of COA Circular Nos. 97-002 and 2012-001 and Section 347 of RA 7160 Require the Municipal Accountant to issue a certification that previous cash advances have been liquidated and accounted for in the books before granting additional cash advances; Stop the granting of additional cash advances in CY 2016 to those with unliquidated cash advances as of December 31, 2015.",
+      "managementAction": "The Management did not issue demand letter.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-PY3",
+      "year": 2017,
+      "recommendation": "We recommended and Management agreed to immediately designate an employee who shall be responsible person to facilitate the registration and insurance of all motor vehicles owned by the Municipality. Apply and/or renew the registration of all serviceable motor vehicles of the municipality with LTO and contracts of insurance with the GSIS to avoid additional expenses in terms of penalties and payment of damages to third party liabilities in case of vehicular accidents.",
+      "managementAction": "The Management will designate an employee to facilitate the non compliance.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-PY6",
+      "year": 2017,
+      "recommendation": "We recommended and Management agreed to stop the practice of charging to LDRRMF expenses which are not related to and do not support disaster risk management activities. The municipal officials shall strictly adhere to the guidelines set under Section 2 of RA 10121 and COA Circular 2012-002 in the appropriation and utilization of the LDRRMF.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-PY9",
+      "year": 2017,
+      "recommendation": "We recommended and Management agreed to manage effectively the Special Education Fund. Expenditures charged to the Fund shall always give priority to the projects enumerated in Section 272 of Republic Act 7160 and DepEd-DBM-DILG Joint Circular Nos. 01, 01-A and 01-B. Further, expenditures of schools from far flung barangays receiving smaller budget from DepEd should be given priority other than answering the expenditures of the biggest schools of the Municipality receiving bigger budgets from DepEd.",
+      "managementAction": "No action from the Management.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-PY11",
+      "year": 2017,
+      "recommendation": "We recommended and Management agreed to fully utilize the 20% development Fund for the attainment of its objectives to the advantage of the intended beneficiaries.",
+      "managementAction": "The Management assured proper implementation of the PPAs under 20% Development Fund",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-PY13",
+      "year": 2017,
+      "recommendation": "We recommended and Management agreed to ensure that all barangay shares from the Real Property and Community Tax Certificate collections are remitted to the LGUs concerned within the prescribed period in accordance with Section 271(d) of RA 7160.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-PY15",
+      "year": 2017,
+      "recommendation": "We recommended and Management agreed to instruct the HRMO to furnish the Audit Team with copies of contracts for JOs within five days after its approval in order to facilitate review thereof. Ensure that conditions are clearly stated in the contracts of Service and specify the following: a) expected outputs to facilitate comparison with the accomplishment report; b) specific period within which the work is to be accomplished; and c) source of funds for the payment of salaries.",
+      "managementAction": "Coordinated with the HRMO to furnish the Audit Team with copies of contracts for JO and ensure that conditions are clearly stated.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-OBS1",
+      "year": 2017,
+      "recommendation": "5. We recommended and Management agreed to:\n\n\n        a.  require  the  Municipal  Accountant  to  include  in  the  bank\n           reconciliation  statements  the  balances  maintained   by   the\n           Treasury Office; and\n\n\n        b. direct the  Municipal  Accountant  and  Municipal  Treasurer  to\n           investigate  the   variances   summarized   above   and   effect\n           corrections in their corresponding books of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-OBS2",
+      "year": 2017,
+      "recommendation": "10. We recommended and  Management  agreed  to  require  the  Municipal\n        Treasurer to immediately deposit all undeposited collections to the\n        depository bank and not wait for the demand letter from  the  Audit\n        Team, and instruct  the  Municipal  Accounting  Office  to  monitor\n        regularly the deposit of  collections  by  the  Municipal  Treasury\n        Office to avoid repetition of the same deficiency.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-OBS3",
+      "year": 2017,
+      "recommendation": "9. We recommended and Management  agreed  to  instruct  the  Municipal\n        Accountant to present the current portion of its Loans  Payable  in\n        the face of the LGUs financial statements to provide users of  the\n        financial statements fair presentation as to liquidity and solvency\n        is concerned.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-OBS4",
+      "year": 2017,
+      "recommendation": "5. We recommended and Management agreed to strictly  adhere  with  the\n        requirements and provisions of existing laws concerning  Accounting\n        for Supplies and Materials and:\n\n\n          a. instruct the Municipal Accountant to stop the practice of using\n             expense method in recording supplies and  materials  purchased,\n             maintain an inventory account using perpetual inventory  system\n             and prepare supplies ledger card per stock number; and\n\n\n          b. instruct the Municipal GSO to maintain supplies  and  materials\n             stock cards per stock number and prepare  Summary  of  Supplies\n             and Materials Issued and  submit  the  same  to  the  Municipal\n             Accountant  for  recording  purposes  to  fairly  present   its\n             inventory accounts in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-OBS5",
+      "year": 2017,
+      "recommendation": "12. We recommended and Management agreed to  instruct  their  Inventory\n        Committee to conduct annual physical count of all properties  owned\n        by the Municipality and prepare a report thereon to be submitted to\n        COA not later than January 31 of each year.  Moreover, direct  the\n        Treasury Office and the Accounting Office to prepare  and  maintain\n        Property Cards and PPE Ledgers Cards, respectively and ensure  that\n        reconciliation of their records is done before preparation  of  the\n        annual financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-PY2",
+      "year": 2017,
+      "recommendation": "We recommended and the Local Chief Executive agreed to: Instruct the Municipal Accountant and the General Services Officer to work together to reconcile the physical count and the accounting records; Create an Inspection/Inventory Committee to conduct the physical count of the PPE owned by the municipality and submit the Report on the Physical Count of the Property, Plant and Equipment (RPCPPE) to the Auditor pursuant to Section 124 of the Manual on the NGAS for LGUs, Volume 1 in order for the audit team to determine the validity and existence of the PPEs owned by the Municipality; Instruct the GSO to determine all properties acquired by the municipality through donations and furnish the Accountant of the report for proper recognition in the books of accounts; Work out all possible means to obtain the proof of ownership from the suppliers/donors of the motor vehicles.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-PY4",
+      "year": 2017,
+      "recommendation": "We recommended and Management agreed to exert effort to continuously implement the program on schedule so that the impact of the program will be measured and the objectives of the program will be attained. Further, the Management instructed the MSWDO for early and immediate submission of the necessary reports for the liquidation of the fund in order to avail of new funding.",
+      "managementAction": "Agreed to exert effort to implement the program on schedule",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-PY5",
+      "year": 2017,
+      "recommendation": "We recommended and Management agreed to require MOA before any financial assistance will be released to qualified recipients. The MOA shall cover the purposes and all the conditions in the implementation of the proposed programs/projects/activities by the recipients. This will be the basis in granting financial assistance and in monitoring of the utilization of the fund to make certain that funds will be properly used for its intended purpose. Further, it is recommended that the recipients of the financial assistance to liquidate and account the amount transferred to their agencies and associations supported with complete pertinent documents.",
+      "managementAction": "Require MOA before any financial assistance will be released to qualified recipients.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-PY7",
+      "year": 2017,
+      "recommendation": "We recommended and Management agreed to review its Ecological Solid Waste Management Plan and submit the same to NSWMC for approval in compliance with Section 16 of Republic Act No. 9003. Further, once the plan shall be approved, components/activities should be properly implemented as scheduled so that a clean and progressive municipality anchored on effective local governance with an ecological balanced environment and responsible citizenry shall be delivered to its constituents.",
+      "managementAction": "10 year ESWM Plan was approved by the NSWMC.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-PY8",
+      "year": 2017,
+      "recommendation": "We recommended and Management agreed to implement minimum and standard requirements for segregation and storage of solid waste pending collections and their final disposal to the dumpsite, as follows: a) Separate containers/ receptacles for all types of wastes shall be maintained from all sources; b) These containers must be properly marked or identified for on-site collections such as compostable, non-recyclable, recyclable, special waste and/or any other classification as may be determined by the Municipal Solid Waste Management Board; c) Maintain receptacles and Materials Recovery Facility for temporary placement of solid wastes; and d) Convert the open dump to a controlled dump site.",
+      "managementAction": "The Management constructed MRF but did not properly maintain the same.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-PY10",
+      "year": 2017,
+      "recommendation": "We recommended and Management agreed to prepare budgets based on the duly approved Annual Investment Plan indicating each program, project and activities and identify expected outputs for each PPAs. This shall be presented in detail stating therein the details of the projects including the exact location. For appropriations already presented in lump sum or in generic terms, a separate SB appropriation ordinance/resolution should always be secured by the Municipal Mayor to serve as an authority to enter into contract in behalf of the Municipal Government in accordance to Section 22 (c) of R.A. 7160 and pertinent rulings of G.R. No. 175527 dated December 8, 2008.",
+      "managementAction": "The Management assured to prepare budget for 20% DF based on the duly approved Annual Investment Plan",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-PY12",
+      "year": 2017,
+      "recommendation": "We recommended and Management agreed to strictly adhere with the provisions of COA, DBM, DILG, Governance Commission for GOCCs and DND Joint Memorandum Circular No. 2015-01 dated January 8, 2015. Further, we recommended and Management agreed to stop the granting of additional cash advance for Confidential Fund to the Municipal Mayor or Special Disbursing Officer unless the liquidation of previous cash advances for CY 2015 have been submitted to the COA-ICFAU for audit. The Municipal Accountant shall stamp or print on the DV that the previous cash advances for the same purpose, project or activity given to the Municipal Mayor requesting cash advance have been liquidated and properly accounting thereof was made.",
+      "managementAction": "The Management strictly followed the guidelines.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-PY14",
+      "year": 2017,
+      "recommendation": "We recommended and Management agreed to require the Municipal Accountant to prepare and submit the monthly Bank Reconciliation Statements to the Office of the Auditor within ten (10) days from the receipt of the Bank Statements as required under Sections 3.2 of COA Circular No. 96-001 dated October 2, 1996 and Section 74 of PD 1445.",
+      "managementAction": "The Municipal Accountant prepared the bank reconciliation as of December 31, 2017.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-PY16",
+      "year": 2017,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Treasurer to stop releasing and paying wages of personnel under the “job order” status without the required Accomplishment Report.",
+      "managementAction": "Instructed the Municipal Treasurer to stop releasing and paying wages of personnel under job order status without the required Accomplishment Report",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-PY17",
+      "year": 2017,
+      "recommendation": "We recommended and Management agreed to stop the practice of allowing job order personnel to travel outside the Municipality with travel allowances and/or per diems. Authority to travel should be granted only when these are urgent, extremely necessary, involves the minimum expenditure and are beneficial to the agency concerned and/or the country without resulting to depletion of LGU resources, increased MOOE and wastage of government funds.",
+      "managementAction": "The Management did not allow job order personnel to travel outside the Municipality with per diems",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-PY18",
+      "year": 2017,
+      "recommendation": "We recommended and Management agreed to stop the practice of paying salaries to employees without Daily Time Records and Approved Applications for Leave, require each and every official and employee to attach the individual daily time record to the payroll/voucher, with approved applications for leave before payment of salaries and wages shall be made, and ensure that all absences without pay must be properly deducted from the payroll.",
+      "managementAction": "Installed biometric for more accurate and reliable monitoring of attendance of LGU personnel. Ensure that LGU personnel will not be paid without the Approved DTR and Application for Leave",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-PY19",
+      "year": 2017,
+      "recommendation": "We recommended and Management agreed to require the contractor to refund the amount of P342,919.20 representing the overpayment made to him and/or deduct said amount from any existing claims of the contractor. The Municipal Engineer should validate through actual inspection the accomplishment report submitted by the contractor to ensure that actual accomplishment is in accordance with the program of works, plans and specifications to avoid overpayment to contractors. This may generate savings which can be utilized for the implementation of other priority projects related to the construction of new municipal building.",
+      "managementAction": "The Management assured actual inspection on accomplishment report.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-PY20",
+      "year": 2017,
+      "recommendation": "We recommended and Management agreed to support with the required complete documents the disbursement vouchers pursuant to Section 4 (6) of Presidential Decree No. 1445 and COA Circular No. 2012-001 dated June 14, 2012. Otherwise, a Notice of Suspension will be issued.",
+      "managementAction": "To support with the required complete documents the disbursement vouchers pursuant to Section 4 (6) of Presidential Decree No. 1445 and COA Circular No. 2012-001 dated June 14, 2012.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-PY21",
+      "year": 2017,
+      "recommendation": "We recommended and Management agreed to require the Municipal Health Officer to attach a certification that the drugs and medicines procured fall within and conform to PNDF Volume I, current edition in compliance with Paragraph II.2 of DOH AO No. 163 s. 2002.",
+      "managementAction": "The Municipal Health Officer attached the said certification for compliance.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-PY22",
+      "year": 2017,
+      "recommendation": "We recommended and Management agreed to refrain from entering into contracts which are not represented by Municipal Mayor being the head of the agency. Adhere strictly to the provisions of Sections 2 and 4(5) of PD 1445.",
+      "managementAction": "The Management stopped the practice of entering into the contract other than the Municipal Mayor.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2017-PY23",
+      "year": 2017,
+      "recommendation": "We recommended and Management agreed that the GAD focal person of the Municipality be directed to submit the GAD Plan, Accomplishment Report and reports to DILG Regional Office and furnish the same the Office of the Auditor pursuant to DILG-LBM No. 28 dated June 15, 1997 and Items 4.1.A.4).g and 4.1.C.5.1) and 2) of Philippine Commission on Women, Department of Interior and Local Government, Department of Budget and Management and National Economic and Development Authority Joint Memorandum Circular No. 2013-01.",
+      "managementAction": "The Management complied with the requirements in the recommendations.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY1",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to:\n\na.\tInstruct the Municipal Accountant to issue demand letters to the officials and employees with unliquidated cash advances otherwise withhold their salaries including those of the job order personnel as provided for under Item 5.9 of COA Circular No. 97-002;\n\nStrictly comply with the provisions of COA Circular Nos. 97-002 and 2012-001 and  Section 347 of RA 7160\n\nRequire the Municipal Accountant to issue a certification that previous cash advances have been liquidated and accounted for in the books before granting additional cash advances;\nStop the granting of additional cash advances in CY 2016 to those with unliquidated cash advances as of December 31, 2015",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in Finding No. 8 | Not Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY2",
+      "year": 2016,
+      "recommendation": "We recommended and the Local Chief Executive agreed to:\n\nInstruct the Municipal Accountant and the General Services Officer to work together to reconcile the physical count and the accounting records;\n\nCreate an Inspection/Inventory Committee to conduct the physical count of the PPE owned by the municipality and submit the Report on the Physical Count of the Property, Plant and Equipment (RPCPPE) to the Auditor pursuant to Section 124 of the Manual on the NGAS for LGUs, Volume 1 in order for the audit team to determine the validity and existence of the PPEs owned by the Municipality; \n\nInstruct the GSO to determine all properties acquired by the municipality through donations and furnish the Accountant of the report for proper recognition in the books of accounts; \n\nWork out all possible means to obtain the proof of ownership from the suppliers/donors of the motor vehicles.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in Finding No. 5 | Not Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY6",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to stop the practice of charging to LDRRMF expenses which are not related to and do not support disaster risk management activities. The municipal officials should strictly adhere to the guidelines set under Section 2 of RA 10121 and COA Circular 2012-002 in the appropriation and utilization of the LDRRMF.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in Finding No. 14 | Not Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY7",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to review its Ecological Solid Waste Management Plan and submit the same to NSWMC for approval in compliance with Section 16 of Republic Act No. 9003. Further, once the plan shall be approved, components/activities should be properly implemented as scheduled so that a clean and progressive municipality anchored on effective local governance with an ecological balanced environment and responsible citizenry shall be delivered to its constituents.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in Finding No. 11 | Not Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY9",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to manage effectively the Special Education Fund. Expenditures charged to the Fund shall always give priority to the projects enumerated in Section 272 of Republic Act 7160 and DepEd-DBM-DILG Joint Circular Nos. 01, 01-A and 01-B. Further, expenditures of schools from far flung barangays receiving smaller budget from DepEd should be given priority other than answering the expenditures of the biggest schools of the Municipality receiving bigger budgets from DepEd.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not Reiterated in Finding No. 9 | Not Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY14",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to require the Municipal Accountant to prepare and submit the monthly Bank Reconciliation Statements to the Office of the Auditor within ten (10) days from the receipt of the Bank Statements as required under Sections 3.2 of COA Circular No. 96-001 dated October 2, 1996 and Section 74 of PD 1445.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in Finding No. 7 | Not Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY15",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to instruct the HRMO to furnish the Audit Team with copies of contracts for JOs within five days after its approval in order to facilitate review thereof. Ensure that conditions are clearly stated in the contracts of Service and specify the following: a) expected outputs to facilitate comparison with the accomplishment report; b) specific period within which the work is to be accomplished; and c) source of funds for the payment of salaries.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY27",
+      "year": 2016,
+      "recommendation": "We recommended that Management create an Inspection/Inventory Committee to conduct the physical count of the PPE owned by the municipality and submit the Report on the Physical Count of the Property, Plant and Equipment (RPCPPE) to the Auditor pursuant to Section 124 of the Manual on the NGAS for LGUs, Volume 1 in order for us to determine the validity and existence of the PPEs owned by the Municipality. Moreover, instruct the Municipal Accountant and the Property Officer to maintain, reconcile and update the records of the PPE.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY34",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to strictly comply with the limitations set forth in SEF pursuant to Section 99, 100 and 272 of RA 7160 and DECS, DBM, DILG Joint Circular Nos. 01-01-A and 01-B, and refrain from charging expenditures which are not related to the operation and maintenance of elementary and secondary public schools against the Special Education Fund.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Not Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-OBS1",
+      "year": 2016,
+      "recommendation": "1.6\t\tWe recommend the management to create an Inventory Committee to conduct complete physical inventory of all properties owned by the Municipality and prepare a report thereon in accordance with Section 124 of NGAS Manual for LGUs, Volume I. to determine the existence and accuracy of the PPE owned by the LGU. Moreover, direct the Municipal Treasurer to maintain Property Cards and issue Acknowledgement Receipt for Equipment, and the Municipal Accountant to maintain PPE Ledger Cards as required in Section 114 of the same Manual.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2016-OBS2",
+      "year": 2016,
+      "recommendation": "2.5\tWe recommend the management to adhere strictly the provision of Section 379 of RA No. 7160 and Section 2 of PD No. 1445 on the filing of an application of the Property Officer/Municipal Treasurer for inspection and disposal of the unserviceable government property to COA Auditor and state policy on all resources of the government, respectively.  Further, create an Inspection and Disposal Committee to take charge the condition of the owned property of the LGU.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2016-OBS3",
+      "year": 2016,
+      "recommendation": "3.4 \tWe recommend that the Municipal Treasurer shall record the financial transactions of the Municipality daily pursuant to Sections 26, 27 and 28 of the NGAS Manual for LGUs, Volume II. Likewise, direct her to update and balance all the transactions and reconcile the same with the cash on hand as provided in Section 63 (D) of LTOM. Moreover, direct the Liquidating Officer to maintain Liquidating Officer’s Cashbook for each fund which shall be updated and balanced daily as provided for in Section 63 (B) of LTOM and all the Revenue Collectors shall maintain Teller’s/ Collector’s to record all collections received and all remittances to the designated Liquidating Officer in accordance with Section 63 (C) of LTOM.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2016-OBS4",
+      "year": 2016,
+      "recommendation": "4.7\t\tWe recommend the management to compel the Municipal Accountant to see to it that reconciliation is made between the balance shown in the reports of the depositories and the balance found in the books of the agency pursuant to Section 74 of PD No. 1445. Moreover, require her to prepare the Monthly Bank Reconciliation Statements within ten (10) days from receipt of the bank statements and submit the same to Auditor concerned as provided for in Section 3.2 of COA Circular No.   96-011. Also, direct her to furnish the Auditor copies of Accountant’s Advice of Local Check Disbursements to ensure that checks encashed by government depository banks are for legitimate local government expenditures.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2016-OBS5",
+      "year": 2016,
+      "recommendation": "5.10\tWe recommend that the Local Chief Executive to ensure the proper granting and utilization of all cash advances as provided in Section 8 of COA Circular No. 97-002. Also, require the accountable officers concerned to immediately liquidate and/ or settle their overdue outstanding cash advances. Otherwise, such failure / or settle the same shall constitute a valid cause for the withholding of their salaries and the imposition of other sanctions. Moreover, direct the Municipal Accountant to regularly update the Monthly and Quarterly Monitoring Report of Unliquidated Cash Advances Granted to Accountable Officers including cash advances for salaries, wages and other specific purpose supported with liquidation report promptly for immediate review and submit the same on or before 5th day of the following month. Besides, require her to attach a certification that the previous cash advances have been liquidated and accounted for in the books before.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2016-OBS6",
+      "year": 2016,
+      "recommendation": "6.7\tWe recommend the Municipal Local School Board to prepare                      Annual School Board Budget for the SEF and adhere strictly the prioritize programs, projects and activities (PPAs) pursuant to R.A No. 5447, Section 272 of RA 7160 and Joint Circular No. 01 series of 1998 of DECS, DBM and DILG.  Stop using the SEF to PPAs not within the list of priority expenses as provided in the latter’s provisions. Further, direct the Municipal Accountant, Municipal Budget Officer and Municipal Treasurer to stop disbursing funds without approved appropriation pursuant to Section 4 (1) of Presidential Decree No. 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2016-OBS7",
+      "year": 2016,
+      "recommendation": "7.4\tIn view of the above, we recommend the Local School Board to maximize the utilization of the SEF based on RA 5447 as well as Section 272 of RA 7160 and LOI 1462 for the benefits of its intended beneficiaries. Further, we recommend that the Local School Board initiate the inventory of local school buildings that need urgent construction/repairs, operation of such number of extension classes as may be needed to accommodate all children of school and other school needs like books, science and mathematics aids, and simple laboratory devices to help identify the priority PPAs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2016-OBS8",
+      "year": 2016,
+      "recommendation": "8.5\tWe recommend the management to strictly adhere RA 9003 to adopt a systematic, comprehensive and ecological solid waste management programs. Further, prepare the 10-year Solid Waste Management Plan consistent with the national solid waste management for approved by the National Solid Waste Management Commission to have efficient and effective implementation.\n8.6\tLikewise, please submit the Approved 10-year Solid Waste Management Plan and Status of Implementation of the approved 10-year Solid Waste Management Plan.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2016-OBS9",
+      "year": 2016,
+      "recommendation": "9.6\tWe recommend the management to:\nRequire the Municipal Planning and Development Officer to strictly adhere the provisions of DILG-DBM Joint Circular No. 2011-1 dated April 13, 2011;\nEnsure that 20% Development Fund be fully utilized to achieve the optimum desirable  socio-economic and environmental development;\nFurther, ensure that the 20% DF counterpart to KALAHII is properly included in the cost of the project rather than using the counterpart in the administrative expenses contrary to Section 4 in an item not among the priority programs and projects of the same Joint Circular.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2016-OBS10",
+      "year": 2016,
+      "recommendation": "10.4\tWe recommend management to:\nPrepare LDRRMFIP for the DRRM program annually in the prescribed format required under COA Circular No. 2012-002;\nDirect the concerned officer to prepare and submit the Report on Sources and Utilization of DRRMF certified correct by the Municipal Accountant in prescribed form on or before the 15th day after the end of each month, through the LDRRMC and LDC, to the COA Auditor of the municipality;\nDirect the Municipal Treasurer and Municipal Accountant to create separate Special Trust Fund Account for the unexpended LDRRMF.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2016-OBS11",
+      "year": 2016,
+      "recommendation": "11.10\tWe recommend the management should strictly adhere to the guidelines set under Section 2 of RA 10121 and COA Circular 2012-002 in the appropriation and utilization of the LDRRMF. Stop practicing of disbursement charged to LDRRMF expenses which are not related to and do not support disaster risk management activities. Further, direct the Municipal Accountant and Municipal Budget Officer to stop payment not related to LDRRMF programs and activities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2016-OBS12",
+      "year": 2016,
+      "recommendation": "12.5\t\tWe recommend the management to implement and utilize the LCPC Fund to its programs, projects and activities (PPAs). Direct the members of the LCPC to prepare Local Development Plan for Children and Local Investment Plan for Children, and maximize the allocated LCPC Fund to identified PPAs provided for in DILG MC No 2012-120 dated July 4, 2012 to ensure full strengthening.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2016-OBS13",
+      "year": 2016,
+      "recommendation": "13.8\tWe recommend that Management should strictly adhere in the provision under Presidential Decree No.  1445. Further, we recommend that management conduct competitive public bidding for all procurement which is not covered by Rule XVI of the Revised Implementing Rules and Regulations (IRR) of Republic Act 9184 pursuant to section 10 of the same IRR. And adhere strictly to the provisions of the Revised IRR of RA 9184.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2016-OBS14",
+      "year": 2016,
+      "recommendation": "14.4\tWe recommend management to strictly adhere Section 7, Rule II of the Revised IRR of R.A. No. 9184 and prepare PPMP and consolidate APP. Require the Bids and Award Committee to furnish the Office of the Auditor of the updated PPMP and APP yearly for validation and assurance that all procurement undertaken by the LGU were based on the approved annual procurement plan.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2016-OBS15",
+      "year": 2016,
+      "recommendation": "15.6\tWe recommend the management to require the GAD Focal Person to prepare the Annual GPB using the prescribed form and in coordination with the Municipal Budget Officer, submit it to the Provincial Planning and Development Office then to the DILG Regional Office for review and approval. Further, develop GAD PAPs to strengthen the Municipality’s gender-responsive governance and ensure that GAD Fund is utilized in align with the PCW-DILG-DBM-NEDA Joint Circular No. 2013-01.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2016-OBS16",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2016-OBS17",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY3",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to immediately designate an employee who shall be responsible person to facilitate the registration and insurance of all motor vehicles owned by the Municipality. Apply and/or renew the registration of all serviceable motor vehicles of the municipality with LTO and contracts of insurance with the GSIS to avoid additional expenses in terms of penalties and payment of damages to third party liabilities in case of vehicular accidents.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY4",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to exert effort to continuously implement the program on schedule so that the impact of the program will be measured and the objectives of the program will be attained. Further, the Management instructed the MSWDO for early and immediate submission of the necessary reports for the liquidation of the fund in order to avail of new funding.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY5",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to require MOA before any financial assistance will be released to qualified recipients. The MOA shall cover the purposes and all the conditions in the implementation of the proposed programs/projects/ activities by the recipients. This will be the basis in granting financial assistance and in monitoring of the utilization of the fund to make certain that funds will be properly used for its intended purpose. Further, it is recommended that the fund transfer shall be first taken up in the books of accounts as a receivable and be recorded to Other MOOE or Donations after receipt and evaluation of liquidation.\n\nWe further recommended and Management agreed to require the recipients of the financial assistance to liquidate and account the amount transferred to their agencies and associations supported with complete pertinent documents.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY8",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to implement minimum and standard requirements for segregation and storage of solid waste pending collections and their final disposal to the dumpsite, as follows: a) Separate containers /  receptacles  for all types of wastes shall be maintained from all sources; b) These containers must be properly marked or identified for on-site collections such as  compostable, non- recyclable, recyclable, special waste and/or any other classification as may be determined by the Municipal Solid Waste Management Board; c) Maintain receptacles and Materials Recovery Facility for temporary placement of solid wastes; and d) Convert the open dump to a controlled dump site.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY10",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to prepare budgets based on the duly approved Annual Investment Plan indicating each program, project and activities and identify the expected outputs for each PPAs. This shall be presented in detail stating therein the details of the projects including the exact location. For appropriations already presented in lump sum or in generic terms, a separate SB appropriation ordinance/resolution should always be secured by the Municipal Mayor to serve as an authority to enter into contract in behalf of the Municipal Government in accordance to Section 22 (c) of R.A. 7160 and pertinent rulings of G.R. No. 175527 dated December 8, 2008.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY11",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to fully utilize the 20% development Fund for the attainment of its objectives to the advantage of the intended beneficiaries.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY12",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to strictly adhere with the provisions of COA, DBM, DILG, Governance Commission for GOCCs and DND Joint Memorandum Circular No. 2015-01 dated January 8, 2015. Further, we recommended and Management agreed to stop the granting of additional cash advance for Confidential Fund to the Municipal Mayor or Special Disbursing Officer unless the liquidation of previous cash advances for CY 2015 have been submitted to the COA-ICFAU for audit. The Municipal Accountant shall stamp or print on the DV that the previous cash advances for the same purpose, project or activity given to the Municipal Mayor requesting cash advance have been liquidated and proper accounting thereof was made.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY13",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to ensure that all barangay shares from the Real Property and Community Tax Certificate collections are remitted to the LGUs concerned within the prescribed period in accordance with Section 271(d) of RA 7160.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY16",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Treasurer to stop releasing and paying wages of personnel under the “job order” status without the required Accomplishment Report.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY17",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to stop the practice of allowing job order personnel to travel outside the Municipality with travel allowances and/or per diems. Authority to travel should be granted only when these are urgent, extremely necessary, involves the minimum expenditure and are beneficial to the agency concerned and/or the country without resulting to depletion of LGU resources, increased MOOE and wastage of government funds.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY18",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to stop the practice of paying salaries to employees without Daily Time Records and Approved Applications for Leave, require each and every official and employee to attach the individual daily time record to the payroll/voucher, with approved applications for leave before payment of salaries and wages shall be made, and ensure that all absences without pay must be properly deducted from the payroll.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY19",
+      "year": 2016,
+      "recommendation": "We recommended and the BAC agreed to conduct pre-procurement and pre-bid conferences or as the need arises to clarify terms and conditions and specifications stipulated in the bidding documents to enhance transparency and in compliance with the implementing rules and regulations of RA 9184.",
+      "managementAction": "Fully implemented",
+      "status": "UNKNOWN",
+      "reason": "Fully implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY20",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to instruct the Municipal Accountant and the Municipal Treasurer to maintain subsidiary Ledgers on the different funds received by the LGU to strengthen the accounting controls over the transactions on all funds of the LGU and necessary information on a particular fund from a certain source agency can be gathered and validated by the end users as well as the LGU.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY21",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to require the contractor to refund the amount of P342,919.20 representing the overpayment made to him and/or deduct said amount from any existing claims of the contractor. The Municipal Engineer should validate through actual inspection the accomplishment report submitted by the contractor to ensure that actual accomplishment is in accordance with the program of works, plans and specifications to avoid overpayment to contractors. This may generate savings which can be utilized for the implementation of other priority projects related to the construction of new municipal building.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY22",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to support with the required complete documents the disbursement vouchers pursuant to Section 4 (6) of Presidential Decree No. 1445 and COA Circular No. 2012-001 dated June 14, 2012. Otherwise, a Notice of Suspension will be issued.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY23",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to require the Municipal Health Officer to attach a certification that the drugs and medicines procured fall within and conform to PNDF Volume I, current edition in compliance with Paragraph II.2 of DOH AO No. 163 s. 2002.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY24",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to refrain from entering into contracts which are not represented by Municipal Mayor being the head of the agency. Adhere strictly to the provisions of Sections 2 and 4(5) of PD 1445.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY25",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed to adhere strictly to the provisions of Philippine Commission on Women, Department of Interior and Local Government, Department of Budget and Management and National Economic and Development Authority Joint Memorandum Circular No. 2013-01. GAD Focal Point System shall be established tasked to promote gender-responsive governance, protect and fulfill women’s human rights, and promote women’s economic development.",
+      "managementAction": "Fully Implemented",
+      "status": "UNKNOWN",
+      "reason": "Fully Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY26",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed that the GAD focal person of the Municipality be directed to submit the GAD Plan, Accomplishment Report and reports to DILG Regional Office and furnish the same the Office of the Auditor pursuant to DILG-LBM No. 28 dated June 15, 1997 and Items 4.1.A.4).g and 4.1.C.5.1) and 2) of Philippine Commission on Women, Department of Interior and Local Government, Department of Budget and Management and National Economic and Development Authority Joint Memorandum Circular No. 2013-01",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY28",
+      "year": 2016,
+      "recommendation": "We recommended that Management conduct physical count of the PPEs owned by the municipality, issue Acknowledgement Report for Equipment of all items/units to determine and establish the accountability, responsibility and liability of the accountable officers who have custody of the government properties. Further, for new requisitions, ARE should be prepared prior to issuance of the items to the end user.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY29",
+      "year": 2016,
+      "recommendation": "We recommended that Management stop the practice of charging the expenses which are not related to and do not partake the nature of investment/capital expenditures to the 20% development fund. The Municipal officials shall strictly adhere to the guidelines set under Joint Memorandum Circular No. 2011-1 of the DBM and DILG in the appropriation and utilization of the 20% Development Fund to ensure its optimal utilization.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially  Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY30",
+      "year": 2016,
+      "recommendation": "We recommended that Management stop the practice of paying salaries to employees without Daily Time Records and Approved Applications for Leave, require each and every official and employee to attach the individual daily time record to the payroll/voucher, with approved applications for leave before payment of salaries and wages shall be made, and ensure that all absences without pay must be properly deducted from the payroll.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY31",
+      "year": 2016,
+      "recommendation": "We recommended that Management prepare the Driver’s Trip Tickets, Monthly Report of Official Travels and Monthly Report of Fuel Consumption in the use of government vehicles as required in Section 361 of GAAM Volume 1.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY32",
+      "year": 2016,
+      "recommendation": "We recommended that Management conduct pre-repair inspection prior to any repair and requisition of spare parts. The inspection conducted should be properly and completely documented. All deliveries of items purchased must first be received by the General Services Officer.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY33",
+      "year": 2016,
+      "recommendation": "We recommended and Management agreed stop the practice of splitting requisitions by dividing it into small segments. To remedy the adverse condition, Management must have to adhere strictly on the general rules for the procurement of supplies and materials pursuant to COA Circular No. 76-41 and RA 9184 to ensure efficiency and economy in the LGUs procurement process.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "DelCarmen_SDN-2016-PY35",
+      "year": 2016,
+      "recommendation": "We recommended that the GAD focal person of the Municipality be directed to submit the GAD Plan and reports to the NCRFW and to the Office of the Auditor pursuant to DBM,NEDA and NCRFW Joint Circular No. 2004-1, COA Memorandum No. 2009 - 020 and COA Circular No. 2014-001 dated March 18, 2014.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Partially Implemented"
+    }
+  ]
+}

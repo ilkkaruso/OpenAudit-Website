@@ -1,0 +1,918 @@
+{
+  "lguCode": "307707000",
+  "lguName": "Maria Aurora",
+  "province": "Aurora",
+  "region": "Region II (Cagayan Valley)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "MariaAurora_Aurora_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended the LCE to instruct the (a) BAC to strictly comply with the provisions of GPPB Resolution 03-2020 and the related subsequent issuances on COVID expenditures; (b) secure valid official receipts /invoices from the suppliers of the above goods procured to properly substantiate payment of the same; and (c) ensure that all procurement are catered by BIR registered suppliers and that correct taxes are withheld.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The management was not able to secure valid official receipts from the supplier because the same was not registered to BIR."
+    },
+    {
+      "id": "MariaAurora_Aurora_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended the LCE to instruct the (a) MDRRMC to continue implementing the LDRRM IP aimed towards the creation of disaster-resilient community; (b) Budget Officer to ensure that only eligible expenses are charged to the fund.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The management remained consistent in charging non-related expenses to calamity fund."
+    },
+    {
+      "id": "MariaAurora_Aurora_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "1.10\tWe recommended and the Local Chief Executive (LCE) agreed to direct the Local IATF to continuously enforce the existing health protocols implemented in the community and ensure that adequate health consciousness is instilled among its people.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "2.16\tWe recommended and the LCE agreed to direct the:\nMunicipal Accountant and Property/Supply Officer to (i) investigate the causes of the difference in their respective PPE records and make necessary adjustments, as warranted; (ii) henceforth conduct regular reconciliation of the same; (iii) ensure that retiring/resigning personnel are cleared of their property accountabilities before they leave the service; and (iv) consider the possibility of availing the option of one-time cleansing of the PPE accounts provided under COA Circular 2020-006 and take actions as appropriate; and\nInventory Committee, Property/Supply Office and Accounting Office to facilitate the immediate disposal of all unserviceable properties in accordance with the prescribed procedures; and (ii) if disposal is not outright feasible, secure the units from natural elements to at least decelerate their deterioration, and the holding area to prevent any untoward circumstances and mishap.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "3.15\tWe recommended and the LCE agreed to instruct the:\nMunicipal Accountant to strictly comply with Section 20 of NGAS in setting up the RPT Receivable and Deferred RPT Income at the beginning of the year;\nMunicipal Treasurer, in coordination with the Municipal Assessor, to provide the Municipal Accountant with the certified list of taxpayers showing the name of taxpayers and the amount due and collectibles for the year; and\nMunicipal Treasurer to exert efforts for improved RPT and SET collections and invoke the remedies provided in Section 256 of R.A. 7160 for tax delinquencies.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "4.15\tWe recommended and the LCE agreed to instruct the:\nMunicipal Engineer to carry out sufficient detailed engineering activities and ensure that the road right of way issues and similar problems are resolved prior to procurement of infrastructure projects;\nConcerned contractors to rectify immediately the deficiencies noted on the above-mentioned projects to conform with the approved program of works without prejudice to taking appropriate actions against the contractors who refused to effect the required corrections.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "5.5\tWe recommended and the LCE agreed to instruct the (a) MDRRMO and Budget Officer to ensure that all utilization of LDRRMF are in conformity with the guidelines set forth in  NDRRMC-DBM-DILG JMC No. 2013-1; and (b) Municipal Accountant and the Bids and Awards Committee to submit the lacking documents mentioned above.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "6.11\t\tWe recommended and the LCE agreed to instruct the (a) Municipal Accountant and Budget Officer to adhere with the guidelines set forth in BC No.  2007-3 dated Nov. 29, 2007; and (b) the member of the BAC, TWG and BAC Secretariat explain why they should not refund the honoraria received.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "7.11\tWe recommended and the LCE agreed that the GAD Focal Point System through the GAD Focal Person (a) employ the Harmonized Gender and Development Guidelines (HGDG) in the attribution of costs of regular program/project to GAD; and (b) nominate the GFPS members for seminars/trainings on gender analysis to familiarize themselves with the process and employment of HGDG in the attribution of costs of regular program/project to GAD.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora_aar2021-OBS8",
+      "year": 2021,
+      "recommendation": "8.3\tWe recommended and the LCE agreed to instruct the Municipal Accountant to faithfully comply with the withholding and remittance of the taxes within the prescribed period pursuant to BIR Revenue Memorandum Circular (RMC) No. 23-2012 dated February 14, 2014.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora_aar2021-OBS9",
+      "year": 2021,
+      "recommendation": "9.3\tWe recommended and the LCE agreed to require the Municipal Accountant and Municipal Treasurer to continuously comply with the deduction and remittance of GSIS contributions and loan amortization from employees, and remitting the           same including mandatory employer’s share and performing the required reportorial functions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora_aar2021-OBS10",
+      "year": 2021,
+      "recommendation": "10.3\tWe recommended and the LCE agreed to continue complying with R.A. No. 9679 on the deduction and remittance of all amounts due to Pag-IBIG fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora_aar2021-OBS11",
+      "year": 2021,
+      "recommendation": "11.2\tWe recommended and the LCE agreed to continuously comply with the existing rules and regulation on withholding and remitting Philhealth contributions that are due from employees including mandatory employer’s share, and in performing the required reportorial functions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora_aar2021-OBS12",
+      "year": 2021,
+      "recommendation": "12.3\tWe recommended and the LCE agreed to cause the settlement of all audit disallowances in accordance with Sections 9.4 and 10.4 of the RRSA.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended the Local Chief Executive (LCE) to direct the: (a) Municipal Accountant to record all purchases and issuances of inventoriable supplies and material using the Perpetual Inventory Method; and (b) Supply Officer to (i) prepare and submit the Summary of Supplies and Materials Issued (SSMI) to the Municipal Accountant as basis for recording the inventories issued; and (ii) conduct, together with the Inventory Committee, a complete physical count of inventories and reconciliation thereof with the accounting records for timely verification and, if warranted, adjustment of accounts.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended the LCE to instruct the Supply Officer/Designated GSO to (a) register said vehicles with LTO after securing GSIS insurance coverage; and (b) refrain from authorizing the use of said vehicles unless these are duly registered and properly insured.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended the LCE to (a) require the concerned contractor to rectify immediately the deficiencies noted on the above-mentioned projects to conform with the approved program of works without prejudice to taking appropriate actions against the contractors who refused to effect the required corrections; and (b) see to it that the project management plan for future projects would consider the optimum use of government funds.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended the LCE to require the Municipal Accountant and Municipal Treasurer to continuously comply with the deduction and remittance of GSIS contributions and loan amortization from employees, and remitting the same including mandatory employer’s share and performing the required reportorial functions.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended the LCE to continue complying with R.A. No. 9679  on the deduction and remittance of all amounts due to Pag-IBIG\n\nfund.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommend the LCE to continuously comply with the existing rules and regulation on withholding and remitting Philhealth contributions that are due from employees including mandatory employer’s share, and in performing the required reportorial functions.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommended the LCE to instruct the Municipal Accountant to faithfully comply with the withholding and remittance of the taxes within the prescribed period pursuant to BIR Revenue Memorandum Circular (RMC) No. 23-2012 dated February 14, 2014.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__MariaAurora_Aurora-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended the Local Chief Executive to require the (a) Municipal Accountant to strictly comply with Section 20 of NGAS in setting up the RPT Receivable and Deferred RPT Income at the  beginning of the year;  (b) Municipal Treasurer to provide the Municipal Accountant with the  certified list showing the name of taxpayers and the amount due and collectibles for the year; and (c) Municipal Assessor, Municipal Treasurer and the Municipal Accountant to coordinate among themselves for the proper accounting of the real property taxes as prescribed under R.A. No. 7160 and the Manual on the NGAS for LGUs.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Municipal Accountant still unable to set up the correct amount of RPT Receivable and Deferred RPT because tax mapping was not yet final as basis of computation.\nNot Implemented\nThe list of taxpayers and amount due and collectibles for the year cannot be relied upon since tax mapping was not yet finalized.\nNot Implemented\nOn-going tax mapping and site inspection of building’s floor area for computation of tax of the Municipal Assessor’s Office."
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__MariaAurora_Aurora-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Chief Executive (a) invest on its personnel in the Municipal Disaster Risk Reduction Office by providing them at least the necessary seminar/training as required in the manual; (b) prioritize the procurement of disaster related equipment; (c) allocate monetary resources for the upgrading and maintenance of the existing evacuation centers; and (d) in the construction of evacuation center as embodied in its 2019 AIP, make sure that it is in compliance with Department of Interior and Local Government (DILG) Memorandum Circular No. 122 dated August 8, 2018.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Due to COVID-19 pandemic, the personnel of MDRRMO were not able to attend necessary seminars provided and budgeted for them.\nFully Implemented\nNot Implemented\n\nNot Implemented\nFor CY 2020, no budget was allocated for upgrading and maintenance of existing evacuation centers."
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__MariaAurora_Aurora-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended and the Local Chief Executive (LCE) agreed to direct the: (a) Municipal Accountant to record all purchases and issuances of inventoriable supplies and material using the Perpetual Inventory Method; and (b) Supply Officer to (i) prepare and submit the Summary of Supplies and Materials Issued (SSMI) to the Municipal Accountant as basis for recording the inventories issued; and (ii) conduct, together with the Inventory Committee, a complete physical count of inventories and reconciliation thereof with the accounting records for timely verification and, if warranted, adjustment of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__MariaAurora_Aurora-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended and the LCE concurred to instruct the Supply Officer/Designated GSO to (a) register said vehicles with LTO after securing GSIS insurance coverage; and (b) refrain from authorizing the use of said vehicles unless these are duly registered and properly insured.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__MariaAurora_Aurora-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended and the LCE agreed to instruct the (a) BAC to strictly comply with the provisions of GPPB Resolution 03-2020 and the related subsequent issuances on COVID expenditures; (b) secure valid official receipts /invoices from   the suppliers of the above goods procured to properly substantiate payment of the same; and (c) ensure that all procurement are catered by BIR registered suppliers and that correct taxes are withheld.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__MariaAurora_Aurora-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommended and the LCE concurred to (a) require the concerned contractor to rectify immediately the deficiencies noted on the above-mentioned projects to conform with the approved program of works without prejudice to taking appropriate actions against the contractors who refused to effect the required corrections; and (b) see to it that the project management plan for        future projects would consider the optimum use of government funds.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__MariaAurora_Aurora-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We recommended and the LCE agreed to instruct the (a) MDRRMC to continue implementing the LDRRM IP aimed towards the creation of disaster-resilient community; (b) Budget Officer to ensure that only eligible expenses are charged to the fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__MariaAurora_Aurora-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended and the LCE concurred to require the Municipal Accountant and Municipal Treasurer to continuously comply with the deduction           and remittance of GSIS contributions and loan amortization from employees, and remitting the same including mandatory employer’s share and performing the required reportorial functions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__MariaAurora_Aurora-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We recommended and the LCE agreed to continue complying with R.A. No. 9679  on the deduction and remittance of all amounts due to Pag-IBIG fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__MariaAurora_Aurora-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We recommend and the LCE agreed to continuously comply with the         existing rules and regulation on withholding and remitting Philhealth contributions that are due from employees including mandatory employer’s share, and in performing the required reportorial functions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__MariaAurora_Aurora-2020-OBS9",
+      "year": 2020,
+      "recommendation": "We recommended and the LCE concurred to instruct the Municipal Accountant to faithfully comply with the withholding and remittance of the taxes within the prescribed period pursuant to BIR Revenue Memorandum Circular (RMC) No. 23-2012 dated February 14, 2014.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__MariaAurora_Aurora-2020-OBS10",
+      "year": 2020,
+      "recommendation": "We recommended and the LCE agreed to cause the settlement of all audit disallowances in accordance with Sections 9.4 and 10.4 of the RRSA.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__MariaAurora_Aurora-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommended the Local Chief Executive  to require the Municipal Treasurer to (a) strictly collect the applicable stall fees and surcharges if any, from the legitimate stall holders or lessees; (b) collect only the rate prescribed in revised Revenue Code of 2011; (c) institute measure/control to fully collect the market entrance for market products as required by the Code; (d) execute the contract of lease between the municipality and the qualified  stallholders before they are authorized to occupy the stalls; (e) send out demand letters to delinquent stallholders for their arrears, and after the lapse of grace period, declare the stall vacant; and (f) regularly conduct ocular inspection of the market to determine compliance with the Code and impose applicable penalty/charges on violators.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__MariaAurora_Aurora-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Chief Executive require the Municipal Budget Officer to (a) strictly comply with DILG-DBM JMC No. 2017-01 dated February 22, 2017 and limit the utilization of 20% Development Fund on programs, projects, and activities that will contribute to the attainment of socio-economic development outcomes and shall partake the nature of investment or capital expenditures; and (b) charge regular MOOE items against the General Fund or appropriate fund other than the 20% DF.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-III__Municipalities__Aurora__MariaAurora_Aurora-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended that the Local Chief Executive require the (a) municipal development council together with the MENRO to find ways how the municipality could provide the needed resources for solid waste management activities; (b) MENRO to (i) strictly enforce Municipal Ordinance No. 4, Series of 2013 and all other ordinances issued to promote effective solid waste management; and (ii) facilitate the establishment of additional waste disposal facility.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2019-OBS1",
+      "year": 2019,
+      "recommendation": "1.25\tWe recommended and the Local Chief Executive agreed to require the Municipal Treasurer to (a) strictly collect the applicable stall fees and surcharges if any, from the legitimate stall holders or lessees; (b) collect only the rate prescribed   in revised Revenue Code of 2011; (c) institute measure/control to fully collect the market entrance for market products as required by the Code; (d) execute the contract of lease between the municipality and the qualified stallholders before they are authorized to occupy the stalls; (e) send out demand letters to delinquent stallholders for their arrears, and after the lapse of grace period, declare the stall vacant; and (f) regularly conduct ocular inspection of the market to determine compliance with the Code and impose applicable penalty/charges on violators.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2019-OBS2",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2019-OBS3",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2019-OBS4",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2019-OBS5",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2019-OBS6",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2019-OBS7",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2019-OBS8",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2019-OBS9",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2019-OBS10",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive instruct the Municipal Planning and Development Coordinator and the Municipal Engineer to:\nSubmit to the Audit Team an explanation why they should not be held liable for the wastage of ₱3,991,573.92 funds spent on the flood control project and SWIP;\nHenceforth, carefully craft the project management plan and conduct detailed preliminary engineering and feasibility study for future projects prior to their implementation; and\nEnsure full coordination with other government agencies, e.g., the DPWH and NIA, as well as the community for a more effective and synchronized planning and implementation of programs and projects.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended  that the LCE instruct the \nBAC to submit the documentary evidences required under the Revised IRR to support the payments for audit purposes; \nMunicipal Engineer office to (i) explain why they should not be held liable for the erroneous computations of ABC which resulted in the awarding of contract to an unqualified bidder; and (ii) henceforth ensure that computation of Approved Budget for the Contract (ABC) was in accordance with regulations.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive:\n\nInstruct the BAC Chairman, Member, Technical Working Group, and Secretariat to (i) scrutinize the sufficiency of the contractor’s key personnel and equipment to ensure the efficiency and effectiveness of contract implementation; and (ii) strictly adhere to the provisions of the 2016 Revised IRR of Republic Act No. 9184 in the evaluation of the bids submitted by the bidders to ensure fair and competitive bidding; and\n\nEnsure that all approved contracts for projects implemented are supported with a DOLE-approved Construction Safety and Health Program pursuant to Section 37.2.3 of the IRR.",
+      "managementAction": "The Municipality considers the availability of DOLE certified or DOLE accredited training of the Manager or representative of our bidders. However, they promise to require their bidders to submit a DOLE approved Construction Safety and Health Program for their incoming projects.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2019-PY4",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "For CY 2019, the Municipality still charged travel allowances against the LDRRM fund.\n\nSeminars and conferences were still conducted outside the geographical island where the LGU is located.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive and the MENRO \ninvolve closely the barangay officials in information campaign and educating the constituents on the necessity of establishing a functional Material Recovery Facility in every barangay; and \nprovide nets or other similar material for the garbage truck to avoid unwanted discharge of waste from point of collection to point of disposal.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive instruct the members of the GAD Focal Point System Executive Committee and Technical Working Group to submit copies of Annual GAD Plan and Budget and GAD Accomplishment Report to the Audit Team within the prescribed period to facilitate timely audit of the Municipality’s GAD activities and accomplishments.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipality plainly mark all motor vehicle owned by the municipality “For Official Use Only”, under which should be written the corresponding name of the Agency operating or using the same. The mark should appear on each side of the motor vehicle. When there is no sufficient space on each side, the same should appear at the back and on the front just below the windshield of the motor vehicle.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "For CY 2019, the Municipality was not able to mark all the service vehicles “For official use only”. They explained that did not mark some of the vehicles due to security purpose."
+    },
+    {
+      "id": "MariaAurora_Aurora-2018-OBS1",
+      "year": 2018,
+      "recommendation": "1.20\tWe recommended and the Management agreed that the Local Chief Executive instruct the Municipal Planning and Development Coordinator and the Municipal Engineer to:\nSubmit to the Audit Team an explanation why they should not be held liable for the wastage of P3,991,573.92 funds spent on the flood control project and SWIP;\nHenceforth, carefully craft the project management plan and conduct detailed preliminary engineering and feasibility study for future projects prior to their implementation; and\nEnsure full coordination with other government agencies, e.g., the DPWH and NIA, as well as the community for a more effective and synchronized planning and implementation of programs and projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2018-OBS2",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2018-OBS3",
+      "year": 2018,
+      "recommendation": "3.13\tWe recommended and the management agreed that the Local Chief Executive:\nInstruct the BAC Chairman, Member, Technical Working Group, and Secretariat to (i) scrutinize the sufficiency of the contractor’s key personnel and equipment to ensure the efficiency and effectiveness of contract implementation; and (ii) strictly adhere to the provisions of the 2016 Revised IRR of Republic Act No. 9184 in the evaluation of the bids submitted by the bidders to ensure fair and competitive bidding; and\nEnsure that all approved contracts for projects implemented are supported with a DOLE-approved Construction Safety and Health Program pursuant to Section 37.2.3 of the IRR.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2018-OBS4",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2018-OBS5",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2018-OBS6",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2018-OBS7",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2018-OBS8",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2018-OBS9",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2018-OBS10",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2018-OBS11",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2018-OBS12",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2018-PY1",
+      "year": 2018,
+      "recommendation": "We recommended that the Supply Officer and Municipal Accountant work together to (a) reconcile the physical inventory count and accounting record; (b) exert time and efforts to prepare and maintain appropriate records and reports for PPE accounts; and (c) verify the unaccounted properties giving attention to properties held by individuals no longer connected with the agency, and those which cannot be ascertained on its whereabouts.",
+      "managementAction": "(a) Exerted more effort and allotted more time in reconciling the recorded amount to the physical count.\n(b) Judiciously                       prepared and maintained appropriate records and reports for PPE accounts\n(c) Investigated the causes of the variance of PPE accounts including those not found on site and determine the persons deemed liable",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "(a) Inability to reconcile the recorded amount to the physical count due to inexistence of some property and of records from the previous accountants and property officer.\n(c)the whereabouts of the accountable officers who are no longer connected with the agency cannot be determined"
+    },
+    {
+      "id": "MariaAurora_Aurora-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommended that the management (a) instruct collectors to make daily remittance of collections as required in Section 29 of NGAS; and (b) ensure that every accountable officer is bonded from the moment he is relieved of his accountability.",
+      "managementAction": "Instructed collectors to make daily remittances of collections and ensured that all accountable officers are bonded",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2018-PY3",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor, through the Bids and Awards Committee, (a) opt to purchase brand new equipment in the future to avoid costly and untimely repairs and maintenance; (b) consider the general obsolescence of the transport and heavy equipment, the availability of spare parts, and the quality, degree and extent of repair and maintenance requirements should they procure second-hand/reconditioned equipment and; (c) strictly adhere to DBM NBC 446-A in the procurement of the second-hand motor vehicles.",
+      "managementAction": "Only brand new equipment were purchased during the year.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2018-PY4",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Disaster Risk Reduction Management Council, through the MDRRM Officer develop a work plan that is responsive to Disaster Risk Reduction Management- Climate Change Adaptation (DRRM-CCA) and implement the PPAs identified, which shall include establishment and maintenance of fully equipped and fully operational evacuation centers. Moreover, we advised that the management upgrade the existing evacuation center in accordance with standards and provide adequate maintenance for the facilities.",
+      "managementAction": "The MDRRMC has developed a work plan that is responsive to Disaster Risk Reduction Management- Climate Change Adaptation and has maintained with fully equipped and operational evacuation centers",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommended that the Local School Board: \n\n(a) Conduct surveys on different public schools within the Municipality to ensure that all concerns are considered in the prioritization of projects for inclusion in the preparation of the next year’s SEF budget; and (b) Review the reasonableness and necessity of the amount provided for every expense item. Consider past transactions to come up with realistic budget, such that bigger portion of the budget may be allocated for the construction, repair and rehabilitation of school buildings and other facilities.",
+      "managementAction": "The Local School Board prepares for their annual budget and part of it is for the repair and maintenance of school buildings and other facilities to improve classrooms and other facilities of different schools.  However, their funds is not enough to address all the needs to repair all facilities, thus, the Local Government Unit funds was being used as an additional fund for their needs. The local School Board also appropriates an amount for their sports activities as it is a regular activity by the Department of Education to strengthen the body of their students and to improve the camaraderie among the students from different schools.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The existing allocation for SEF was not enough to address all the priority projects of schools."
+    },
+    {
+      "id": "MariaAurora_Aurora-2018-PY6",
+      "year": 2018,
+      "recommendation": "We recommended that the Municipal Mayor together with the Municipal Environment and Natural Resources officer (a) expand/extend the coverage of waste collection and provide adequate and appropriate garbage bins; (b) exhort the cooperation and participation of the general public in environmental protection; and (c) make the solid waste management fund exclusive for use in SWM Projects, Programs and Activities.",
+      "managementAction": "The MENRO issued a schedule of collection of garbage for every Barangays to comply with the mandates of R. A. No 9003. \n\nThe Management also budgeted an amount from 20% Development Fund to support the SWM Projects",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2018-PY7",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive direct the:\n\n(a) Municipal Engineer to (i) fast track the completion of the projects in order to attain the ADM objectives; and (ii) strengthen the monitoring control by conducting a timely evaluation and inspection of projects and immediately act on any observed lapses in order to address the identified problems for its timely completion (b) Bids and Award Committee (BAC) to conduct procurement activities in accordance with the agreed timeline. \n\nMoreover, we advised and management concurred to (a) install a billboard in the municipal hall premises for public advisory on the projects being undertaken by the LGU; and (b) issue a Warning Letter with a requirement for the Contractor to submit a Catch-up Plan",
+      "managementAction": "The LCE created a municipal technical working group that will monitor contracts between the local government unit and the contractor and will takes immediate action when needed. Evacuation Center as ADM has been completed physically as of October 31, 2018 and the management deducts an amount to the contract price for its liquidated damage as a result of delays.\nThe BAC conduct procurement activities in accordance with the agreed timeline.\nThe local government unit is practicing full disclosure policy regularly, we post public information through our 3 conspicuous places in Public Market, Rural Health Unit, and bulletin board in Municipal hall.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2018-PY8",
+      "year": 2018,
+      "recommendation": "We recommended the management to (a) refrain from pursuing a project in the absence of adequate study and due-diligence analysis concerning the undertaking; (b) instruct the MPDC and responsible focal offices to have coordinated conceptualization and stewardship for future development projects of the Municipality; and (c) institute appropriate action to construct a water source to optimize the benefits of the constructed potable water supply system.",
+      "managementAction": "The management only pursued those projects that are specific, measurable, attainable, realistic and timely. Every proposed projects by the local councils had undergo adequate study to prevent projects that are non- operational.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2017-OBS1",
+      "year": 2017,
+      "recommendation": "1.14 We recommended and the management agreed that the Supply Officer and Municipal Accountant work together to (a) reconcile the physical inventory count and accounting record; (b) exert time and efforts to prepare and maintain appropriate records and reports for PPE accounts; and (c) verify the unaccounted properties giving attention to properties held by individuals no longer connected with the agency, and those which cannot be ascertained on its whereabouts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2017-OBS2",
+      "year": 2017,
+      "recommendation": "2.9 We recommended and the management agreed to (a) instruct collectors to make daily remittance of collections as required in Section 29 of NGAS; and (b) ensure that every accountable officer is bonded from the moment he is relieved of his accountability.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2017-OBS3",
+      "year": 2017,
+      "recommendation": "3.10 We recommended and the management agreed that the Municipal Mayor, through the Bids and Awards Committee, (a) opt to purchase brand new equipment in the future to avoid costly and untimely repairs and maintenance; (b) consider the general obsolescence of the transport and heavy equipment, the availability of spare parts, and the quality, degree and extent of repair and maintenance requirements should they procure second-hand/reconditioned equipment and; (c) strictly adhere to DBM NBC 446-A in the procurement of the second-hand motor vehicles.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2017-OBS4",
+      "year": 2017,
+      "recommendation": "4.14 We recommended and the management agreed that the Municipal Disaster Risk Reduction Management Council, through the MDRRM Officer develop a work plan that is responsive to Disaster Risk Reduction Management-Climate Change Adaptation (DRRM-CCA) and implement the PPAs identified, which shall include establishment and maintenance of fully equipped and fully operational evacuation centers. Moreover, we advised that the management upgrade the existing evacuation center in accordance with standards and provide adequate maintenance for the facilities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2017-OBS5",
+      "year": 2017,
+      "recommendation": "5.11 We recommended and management agreed that the Local School Board:\n(a) Conduct surveys on different public schools within the Municipality to ensure that all concerns are considered in the prioritization of projects for inclusion in the preparation of the next year’s SEF budget; and (b) Review the reasonableness and necessity of the amount provided for every expense item. Consider past transactions to come up with realistic budget, such that bigger portion of the budget may be allocated for the construction, repair and rehabilitation of school buildings and other facilities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2017-OBS6",
+      "year": 2017,
+      "recommendation": "6.13 We recommended and the management agreed that the Municipal Mayor together with the Municipal Environment and Natural Resources officer (a) expand/extend the coverage of waste collection and provide adequate and appropriate garbage bins; (b) exhort the cooperation and participation of the general public in environmental protection; and (c) make the solid waste management fund exclusive for use in SWM Projects, Programs and Activities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2017-OBS7",
+      "year": 2017,
+      "recommendation": "7.17 We recommended and management agreed that the Local Chief Executive direct the:\n(a)\tMunicipal Engineer to (i) fast track the completion of the projects in order to attain the ADM objectives; and (ii) strengthen the monitoring control by conducting a timely evaluation and inspection of projects and immediately act on any observed lapses in order to address the identified problems for its timely completion (b) Bids and Award Committee (BAC) to conduct procurement activities in accordance with the agreed timeline.\nMoreover, we advised and management concurred to (a) install a billboard in the municipal hall premises for public advisory on the projects being undertaken by the LGU; and (b) issue a Warning Letter with a requirement for the Contractor to submit a Catch-up Plan",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2017-OBS8",
+      "year": 2017,
+      "recommendation": "8.16 We recommended and management agreed to (a) refrain from pursuing a project in the absence of adequate study and due-diligence analysis concerning the undertaking; (b) instruct the MPDC and responsible focal offices to have coordinated conceptualization and stewardship for future development projects of the Municipality; and (c) institute appropriate action to construct a water source to optimize the benefits of the constructed potable water supply system.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2017-OBS9",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2017-OBS10",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2017-OBS11",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2017-OBS12",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2017-OBS13",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2017-PY1",
+      "year": 2017,
+      "recommendation": "We recommended that the:\n\n Municipal Accountant and the Property Officer allot time and efforts to                       prepare and maintain appropriate records and reports for PPE accounts; \n\n Municipal Accountant and the Property Officer investigate the causes of the variance for seven PPE accounts including those not found on site and determine the persons deemed liable therefor so that appropriate remedial measures could be instituted; and\n\n Disposal committee to perform appropriate action on disposing the unserviceable property.",
+      "managementAction": "Exerted more effort and allotted more time to reconcile the recorded amount to the physical count.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Inability to reconcile the recorded amount to the physical count due to inexistence of some property and we cannot determine all the liable persons due to inexistence of records from the previous accountants and property officer."
+    },
+    {
+      "id": "MariaAurora_Aurora-2017-PY2",
+      "year": 2017,
+      "recommendation": "We recommended that:\n\n  the Treasurer close the dormant bank account to avoid  the incurrence of bank charges;\n\n  exert efforts to retrieve past records to support the disposition or settlement of the aging reconciling items; and/or \n\n  seek the assistance from the depository banks to recapture the necessary information to support the adjustments for unresolved items in the BRSs.",
+      "managementAction": "Exerted more effort in checking the cash in bank balance account.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Inability to close the dormant account, rather, we plan to re activate the dormant account but we need to plan properly what fund should be transferred to that account.\n\nWe cannot adjust the outstanding checks from the previous period because it is a bank reconciling item, based on the effort we made to inquire some of the payee, we determined that they have en cashed the check made to them but the bank did not reflect it in the bank statement."
+    },
+    {
+      "id": "MariaAurora_Aurora-2017-PY3",
+      "year": 2017,
+      "recommendation": "We recommended the Members of the Municipal Local School Board to:\n\n prepare a balanced budget with conscious and concerted efforts of observing compliance with the legal and regulatory requirements on SEF budgeting, allocation and utilization and stop the practice of accommodating expenditures for activities for which the DepEd has the direct mandate to execute; and\n\n Maximize the utilization of SEF to attain its objectives and monitor the implementation of the Project Program Activities (PPA’s).",
+      "managementAction": "We stop utilization of funds to disbursement not priority of Special Education Fund.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Other disbursement needed to support activities in the district offices has no appropriated budget in the Department of Education."
+    },
+    {
+      "id": "MariaAurora_Aurora-2017-PY4",
+      "year": 2017,
+      "recommendation": "We recommended the Municipal Mayor to \n\n  ensure the full or optimum utilization of the 20% Development Fund during the budget year; and\n\n  require the concerned officers to be prudent in overseeing the timely implementation of PPAs under their responsibility and properly evaluate Projects/Programs/Activities to be included in the 20% development fund.",
+      "managementAction": "We will exert more effort to finished earlier our 20% Development Fund and other funds to maximize its benefits to the public.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some of the projects are not implemented earlier because the implementing offices prioritize the prior year continuing projects, though some projects in the current period had been started but not paid until December 15, 2016 had been added to the accounts payable account giving us an implementation rate of 71% as of December 31, 2016 as per record, the utilized amount was P18, 056, 977.51 from the P25,480,966.80 budgeted amount."
+    },
+    {
+      "id": "MariaAurora_Aurora-2017-PY5",
+      "year": 2017,
+      "recommendation": "We recommended that the: \n\n  Disaster Risk Reduction Management (DRRM) Officer regularly monitor and evaluate the utilization of Local Disaster Risk Reduction Management Fund (LDRRMF) based on the PPAs listed in the Local Disaster Risk Reduction Management Plan (LDRRMP); and\n\n  Municipal Social Welfare and Development Officer (MSWDO) gather complete turn-over documents for all relief goods received by the Municipality and Municipal Accountant recognize properly in the books the receipts thereof.",
+      "managementAction": "Proper coordination and communication of the concerned official.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2017-PY6",
+      "year": 2017,
+      "recommendation": "We recommended that the Local Chief Executive: \n\na)\tcoordinate efforts and implement continuously the five basic environmental laws on preserving and protecting the environment expressly stated under R.A. No. 9003 and Municipal Ordinance No.02 series of 2006; \n\nb)\tinstruct the Municipal Solid Waste Division to monitor the establishment and operations of barangay MRFs and provide the necessary support in implementation of “waste segregation at source” policy and control measures on waste management at the barangay level; and\n\nc)\tallocate funds for the maintenance of garbage collection facilities and equipment including the provisions of appropriate assistance and protective tools for garbage collectors.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2017-PY7",
+      "year": 2017,
+      "recommendation": "We recommended that the Municipal Mayor:\n\na) instruct the BUB Focal Person of the respective implementing offices to strictly monitor the  implementation of projects and take note of any gaps/issues for future references or subsequent administrative action; and \n\nb) instruct the Bids and Awards Committee (BAC) and Municipal Accountant  to strictly adhere to the provisions of R.A. No. 9184 for projects involving procurement and submit the lacking documents required under COA Circular No. 2012-001, to avoid suspension and/or disallowance in audit.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2016-PY6",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive – \n\n(a)    instruct the members of the Municipal Local School Board to prepare and cause the approval of the annual School Board Budget for SEF by prioritizing programs, projects and activities as stipulated in Section 1, Republic Act No. 5447, Sections 100 and 272 of R.A. No. 7160, Deped-DBM-DILG Joint Circular Nos. 01, s. 1998 dated April 14, 1998, and No. 01-A, March 14, 2000;\n \n(b)    Stop the practice of utilizing the fund for payment of MOOE of the DepEd Office and other expenses not related to and/or included in the list of prioritized expenses chargeable against SEF; and \n\n(c)  Instruct the Property Custodian to coordinate with the DepEd property office and HRMO to strengthen the controls on property accountability to monitor the clearances of those of the DepEd personnel who are retiring, resigning, reassignments or terminating their employment.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Several expenses were still charged against SEF which are not in accordance with existing regulations.\nReiterated in Part II of the report."
+    },
+    {
+      "id": "MariaAurora_Aurora-2016-PY7",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive (a) direct the Municipal Planning and Development Officer and other implementing offices to ensure the effective and efficient implementation of the proposed projects under the 20% Development Fund within their targeted completion period through close monitoring and supervision to maximize the developmental benefits and the early enjoyment thereof by the intended beneficiaries.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Municipality did not institute appropriate actions to implement the audit recommendation."
+    },
+    {
+      "id": "MariaAurora_Aurora-2016-OBS1",
+      "year": 2016,
+      "recommendation": "1.15\tWe recommended that the:\nMunicipal Accountant and the Property Officer allot time and efforts to                       prepare and maintain appropriate records and reports for PPE accounts;\nMunicipal Accountant and the Property Officer investigate the causes of the variance for seven PPE accounts including those not found on site and determine the persons deemed liable therefor so that appropriate remedial measures could be instituted; and\nDisposal committee to perform appropriate action on disposing the unserviceable property.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2016-OBS2",
+      "year": 2016,
+      "recommendation": "2.6\tWe recommended and the management agreed that:\nthe Treasurer close the dormant bank account to avoid  the incurrence of bank charges;\nexert efforts to retrieve past records to support the disposition or settlement of the aging reconciling items; and/or\nseek the assistance from the depository banks to recapture the necessary information to support the adjustments for unresolved items in the BRSs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2016-OBS3",
+      "year": 2016,
+      "recommendation": "3.6\tWe recommended and the Members of the Municipal Local School Board agreed to:\nprepare a balanced budget with conscious and concerted efforts of observing compliance with the legal and regulatory requirements on SEF budgeting, allocation and utilization and stop the practice of accommodating expenditures for activities for which the DepEd has the direct mandate to execute; and\nmaximize the utilization of SEF to attain its objectives and monitor the implementation of the Project Program Activities (PPA’s).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2016-OBS4",
+      "year": 2016,
+      "recommendation": "4.9\tWe recommended and the Municipal Mayor agreed to (a) ensure the full or optimum utilization of the 20% Development Fund during the budget year; and (b) require the concerned officers to be prudent in overseeing the timely implementation of PPAs under their responsibility and properly evaluate Projects/Programs/Activities to be included in the 20% development fund.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2016-OBS5",
+      "year": 2016,
+      "recommendation": "5.7\tWe recommended that the:\n(a) Disaster Risk Reduction Management (DRRM) Officer regularly monitor and evaluate the utilization of Local Disaster Risk Reduction Management Fund (LDRRMF) based on the PPAs listed in the Local Disaster Risk Reduction Management Plan (LDRRMP); and\n(b) Municipal Social Welfare and Development Officer (MSWDO) gather complete turn-over documents for all relief goods received by the Municipality and Municipal Accountant recognize properly in the books the receipts thereof.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2016-OBS6",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive:\ncoordinate efforts and implement continuously the five basic environmental laws on preserving and protecting the environment expressly stated under R.A. No. 9003 and Municipal Ordinance No.02 series of 2006;\ninstruct the Municipal Solid Waste Division to monitor the establishment and operations of barangay MRFs and provide the necessary support in implementation of “waste segregation at source” policy and control measures on waste management at the barangay level; and\nallocate funds for the maintenance of garbage collection facilities and equipment including the provisions of appropriate assistance and protective tools for garbage collectors.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2016-OBS7",
+      "year": 2016,
+      "recommendation": "7.10\tWe recommended that the Municipal Mayor:\ninstruct the BUB Focal Person of the respective implementing offices to strictly monitor the  implementation of projects and take note of any gaps/issues for future references or subsequent administrative action; and\ninstruct the Bids and Awards Committee (BAC) and Municipal Accountant  to strictly adhere to the provisions of R.A. No. 9184 for projects involving procurement and submit the lacking documents required under COA Circular No. 2012-001, to avoid suspension and/or disallowance in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2016-OBS8",
+      "year": 2016,
+      "recommendation": "8.4\tWe recommended that the Municipal Accountant and Municipal Treasurer continue to comply with existing BIR regulations on withholding and remittance of taxes on compensation and on purchases of goods and services.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2016-OBS9",
+      "year": 2016,
+      "recommendation": "9.4\tWe recommended that the Municipal Accountant and Municipal Treasurer continuously comply with and adhere to  the existing rules and regulation on withholding GSIS due from employees, remitting the same including mandatory employer’s share and performing the required reportorial functions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2016-OBS10",
+      "year": 2016,
+      "recommendation": "10.3\tWe recommended that the Municipal Mayor cause the settlement of all audit suspensions and disallowances in accordance with Sections 9.4 and 10.4 of the RRSA.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2016-PY1",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive:\n\na)\t mobilize additional competent personnel from the Accounting Office, Property Section and create an inventory committee to facilitate the completion of physical count of all PPE items;\n\nb)\tstrengthen the controls on the handling and recording procedures for PPE by performing a periodic reconciliation of accounting records with the property and actual inventory results;\n\nc)\tcomplete the data in the Property Cards and maintain an updated, complete files of AREs which shall be renewed every three years.\n\nd)\tinvestigate the causes for the missing/unaccounted PPE items including those not found on site and identify and the persons deemed liable therefor so that appropriate remedial measures could be taken before it is too late;\n\ne)\tinstruct the Property Officer to prepare a complete Inventory and Inspection Report of Unserviceable Property (IIRUP) and request for inspection of the said unserviceable property as an initial step for the  disposal of said properties; and\n\nf)\tdirect the disposal committee to adopt appropriate action for  the prompt disposal of all unserviceable properties in accordance with Section 79 of PD No. 1445, to prevent further deterioration and decline in value of the said assets.",
+      "managementAction": "The Property Officer is still in the process of inventory taking.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Inability to locate some properties that have been purchased in the previous years; lack of subsidiary records and Acknowledgment Receipt of Equipment (ARE) present in the supply office department and accounting department. Reiterated in Finding No. 1, Part II of this report."
+    },
+    {
+      "id": "MariaAurora_Aurora-2016-PY2",
+      "year": 2016,
+      "recommendation": "We recommended that LCE instruct the Municipal Accountant and the Municipal Treasurer to: (a) locate or trace the disbursement vouchers covering the stale checks totaling ₱170,358.42 so that necessary adjustment/cancellation could be made immediately to arrive at corrected bank balance; (b) exert effort to trace the details of the Prior Period Adjustment made in the Trust Fund amounting to ₱242,296.23 to determine the correctness of the adjusting entry made;  and (c) have a regular reconciliation of balances with the Municipal Treasurer’s cashbook.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The supporting documents of prior year adjustment amounted to P242,296.23 could not be located as of Dec. 31, 2016."
+    },
+    {
+      "id": "MariaAurora_Aurora-2016-PY3",
+      "year": 2016,
+      "recommendation": "We reiterated our recommendations that the Municipal Accountant:   (a) ensure that cash advances are settled and reported on within the prescribed period of liquidation; (b) exert efforts to locate the accountable officers/persons and collect the receivables; (c) refrain from granting additional cash advances if the previous ones are not yet liquidated; and (d) adhere strictly with the provisions of COA Circular No. 97-002 and ensure continuous compliance thereon.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Part of the un liquidated cash advances had been liquidated thru salary deduction. While other unliquidated cash advances remained unliquidated as of the year ended because accountable officers are no longer connected to the agency."
+    },
+    {
+      "id": "MariaAurora_Aurora-2016-PY4",
+      "year": 2016,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Treasurer to deposit collections daily and intact with the authorized government depository in accordance with Section 32 of the Manual on NGAS and Section 69(1) of P.D. 1445 to safeguard government money from risk of loss and/or misuse.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2016-PY5",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Accountant and the Municipal Treasurer: (a) strictly comply with the regulation on the rendition of accounts and financial reports which may adversely affect the preparation of financial reports and in order not to cause delay in the verification and post-audit activities; and (b) observe the due dates of submission of the required financial reports and documents to the COA Auditor and implement/adopt the sanctions on the failure to submit thereof pursuant to existing rules and regulations.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2016-PY8",
+      "year": 2016,
+      "recommendation": "We recommended that the Municipal Accountant and Municipal Treasurer to see to it that balances of the unutilized QRF and DRRMF-MOOE are transferred to the Trust Fund at year-end to ensure that the QRF and DRRMF-MOOE are used only for the intended purpose; and to properly present the Liability and Government Equity accounts in the financial statements.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": "The unutilized balance of Trust Fund amounting to ₱2,488,143.54 was transferred to Trust Fund as of January 10, 2017."
+    },
+    {
+      "id": "MariaAurora_Aurora-2016-PY9",
+      "year": 2016,
+      "recommendation": "We recommended that the LCE through the HRMO hire job order personnel based on necessity who should be identified/attributed to specific local projects authorized by the Sanggunian and the Municipal Budget Officer to see to it that wages were charged to the appropriate program/projects related to the actual works performed.  Stop the practice of hiring job order personnel performing religious works.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "MariaAurora_Aurora-2016-PY10",
+      "year": 2016,
+      "recommendation": "We recommended that management to continue its effort to effectively implement proper solid waste management and seek full compliance and cooperation among its residents to achieve its goal of a sustainable clean and green environment.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    }
+  ]
+}

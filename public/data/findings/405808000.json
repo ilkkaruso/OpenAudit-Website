@@ -1,0 +1,854 @@
+{
+  "lguCode": "405808000",
+  "lguName": "Rodriguez",
+  "province": "Rizal",
+  "region": "Region III (Central Luzon)",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "Rodriguez_Rizal_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant and the OIC-Municipal Treasurer to conduct periodic reconciliation of their records to ensure accuracy in recording. After which, necessary adjustments, if there are any, should be effected at once to avoid accumulation of discrepancies between the two records.",
+      "managementAction": "Both the Accounting and Treasury Offices are already working with each other in order to reconcile their records.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "An unaccounted/unadjusted difference still exists between the treasury and accounting records as of December 31, 2021. Reiterated in audit observation no. 2, page no. 38."
+    },
+    {
+      "id": "Rodriguez_Rizal_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to continue coordinating with the Provincial Accounting Office to verify the discrepancies of the respective reciprocal accounts Due to and Due from LGUs accounts in the books of the Municipality and their books of the Province; and subsequently prepare the necessary adjusting journal entries to present the true balance of the said accounts in the financial statements. Likewise, strictly enforce the collection and settlement for the receivables and payables found to be valid.",
+      "managementAction": "No action was taken by the Management.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "An unreconciled balance amounting to P1,722,090.98 P2,330,497.63 and P20,967,756.13 P24,967,661.13"
+    },
+    {
+      "id": "Rodriguez_Rizal_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to continue exerting efforts to locate and retrieve the relevant documents pertaining to the long outstanding receivable accounts to establish its validity and legality; for those receivables proven to be valid, exhaust all possible means to enforce payment from the debtors; and request the write-off of the Dormant Receivable Accounts to the Commission on Audit, duly supported with the documentary requirements prescribed in Item 8.3 of COA Circular No. 2016-005.",
+      "managementAction": "The Municipal Accountant committed to do the applicable steps in order to write-off the dormant accounts.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The dormant Accounts Receivables still exist in the books of the Municipality as of December 31, 2021."
+    },
+    {
+      "id": "Rodriguez_Rizal_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "We reiterated our prior year’s recommendation that the Municipal Mayor and the RPT/SET Treasurer, in coordination with the Municipal Assessor, prepare and submit the required certified list of taxpayers and tax collectible from setting up the RPT/SET receivable at the beginning of the year to the Municipal Accountant as a basis of recording the RPT/SET Due and Receivable in the Municipality’s books of accounts.",
+      "managementAction": "The Management claimed that they already have a list of Delinquent Real Property Units as provided by their revenue system provider. As an alternative measure, the Management claimed that they already have a provider which will generate a report of remittance of collection per barangay which is the reason for the delayed remittance of Barangays’ share from the collection of RPT by the Municipality in CY 2021.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The Municipal Treasury Office was not able again to provide the certified list of taxpayers and the corresponding amount of taxes collectible for the year which will be the basis for setting up the RPT/SET Receivables at the beginning of the year."
+    },
+    {
+      "id": "Rodriguez_Rizal_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "We reiterated our prior year’s recommendation that the Municipal Mayor direct the Municipal Accountant in coordination with the OIC-Municipal Treasurer to make a representation with the Municipality’s revenue system provider and formally inquire if they can make some modifications to the current system so that a report on RPT collections per Barangay can be generated in real-time which will be used by the Accounting Office in computing the share of the Barangays in the RPT collections of the Municipality and will considerably decrease the manual process of segregating collection receipts so that the RPT remittances can be made on time.",
+      "managementAction": "The Management claimed that they are already in discussion with the system provider to find a way to generate a report of remittance of Barangays’ share from the collection of RPT of the Municipality.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Delays ranging from 4 to 72 days were still noted in the remittance of Barangays’ share from the collection of RPT by the Municipality in CY 2021."
+    },
+    {
+      "id": "Rodriguez_Rizal_aar2021-PY14",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the: a. Municipal Accountant to submit immediately to the Audit Team all the lacking supporting documents as required to facilitate review and verification of the said transactions. Otherwise, the corresponding Notice of Suspension shall be issued for its non-submission; and b. Municipal Social Welfare and Development Office to review the completeness of the supporting documents as required to ensure that the cash assistance is distributed to eligible cities and beneficiaries of the program.",
+      "managementAction": "No action was taken by the Management. The liquidation report on the cash advances for the financial assistance to cities and municipalities in NCR plus were still not submitted.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The liquidation report on the cash advances for the financial assistance to cities and municipalities in NCR plus were still not submitted."
+    },
+    {
+      "id": "Rodriguez_Rizal_aar2021-PY15",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant and Municipal Social Welfare Development Officer to cause the immediate submission of the distribution list of relief goods in relation to COVID-19 and Typhoon Ulysses indicating the contents of each pack to substantiate the actual cost of welfare goods distributed during the audited period.",
+      "managementAction": "No action was taken by the Management. The distribution list for the relief goods as well as the content of each pack were still not supplied by the Management to substantiate the actual cost of welfare goods distributed during the year.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "The distribution list for the relief goods as well as the content of each pack were still not submitted by the Management to substantiate the actual cost of welfare goods distributed during the audited period."
+    },
+    {
+      "id": "Rodriguez_Rizal_aar2021-PY19",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the GAD Focal Point Person to: a. efficiently implement the GAD Plan and Budget so that the intent of GAD on promoting gender-responsive governance, protecting and fulfilling women’s human rights, and promoting women’s empowerment could be fully achieved; and b. strictly monitor the implementation of the planned GAD program, projects and activities to ensure that the GAD objectives are fully attained and the actual expenditures will not exceed the approved budget per PPA.",
+      "managementAction": "No action was taken by the Management. The implementation of the GAD PPAs was affected by the limitations brought about by the community quarantines and distribution of financial assistance in response to the COVID-19 pandemic.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Four GAD programmed activities for CY 2021 were not implemented during the year. Nine approved CY 2021 GAD programs were not fully utilized during the year."
+    },
+    {
+      "id": "Rodriguez_Rizal_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to:\n\na. apply correcting journal entries on the noted erroneous recording of\ntransaction; and\n\nb. exercise caution in classifying and recording transactions in order to avoid such\ndeficiency.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant and the\nOIC-Municipal Treasurer to investigate to determine the details of the difference of\nP121,170,491.55 between their respective records, and subsequently prepare the\nnecessary journal entry to present the correct balance of the Cash in Bank - Local\nCurrency, Current Account in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor direct the Municipal\nAccountant to carefully analyze the transactions related to the Loans Payable\naccount to determine if there were errors committed in recording these\ntransactions. Thereafter, draw necessary journal entry to establish the correct\nbalance of the said account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the:\n\na. Inventory Committee to conduct a complete physical inventory of all the PPE\nincluding the Road Network System to visually check the existence and\ncondition of the property of the Municipality and submit and complete Report\non the Physical Count of Property, Plant and Equipment as well as Report on\nthe Physical Count of the Road Network System;\n\nb. GSO to maintain complete Property Cards with details of each property\nincluding the record of acquisition, description, custody, disposal and other\ninformation about the PPE; and\n\nc. GSO and Engineering Department to coordinate with each other in order to\nprepare the Report on Local Road Network in compliance with the above-\nmentioned regulation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to\nmaintain a complete detailed SL with all supporting documents for each of the\nMunicipality’s suppliers and vendors to properly monitor the Accounts Payable and\nto support its reported balance in the financial statement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "We reiterated our prior year’s recommendation that the Municipal Mayor direct the\nMunicipal Accountant to:\n\na. continue exerting efforts to locate and retrieve the relevant documents\npertaining to the long outstanding receivable accounts to establish its validity\nand legality;\n\nb. exhaust all possible means to enforce payment from the debtor for those\nreceivables proven to be valid; and\n\nc. request for write-off of the Dormant Receivable Accounts to the Commission on\nAudit, duly supported with the documentary requirements prescribed in Item 8.3\nof COA Circular No. 2016-005.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to: a. carefully analyze the transactions related to the Loans Payable account in order to determine if there were errors committed in recording these transactions. Thereafter, draw necessary journal entry to establish the correct balance of the said account; and b. maintain a complete detailed Subsidiary Ledger for each loan acquired for proper monitoring of the loan payments and for outstanding liabilities of the Municipality to its creditors.",
+      "managementAction": "The Municipal Accounting Office is already working on the unidentified items in the Loans Payable account.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "A discrepancy between the books and bank confirmation still exists as of December 31, 2021."
+    },
+    {
+      "id": "Rodriguez_Rizal_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the: a. Inventory Committee to conduct a complete physical inventory of all the PPE including the Road Network System employing an alternative way to visually check the existence and condition of the property of the Municipality and submit the RPCPPE within the prescribed period; b. GSO and Engineering Department to coordinate with each other in order to prepare the Report on Local Road Network in compliance with the regulation; and c. GSO to maintain complete PPE Cards for every item to account for the receipt and disposition of the same and to ensure that the custodian function is being adhered to for check and balance with the recording function of the Accounting Office.",
+      "managementAction": "Management submitted only the Report on the Physical Count of Property, Plant and Equipment as of December 31, 2021 on June 3, 2022 and committed to work on the Report on the Physical Count of the Road Network System and complete their Property Cards to fully comply with the audit recommendations.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The Management is still working on the Report on the Physical Count of Road Networks which was prepared and submitted for CY 2021. No Property Cards were presented to the Audit Team as proof that the audit recommendation was already implemented by the Management in CY 2021."
+    },
+    {
+      "id": "Rodriguez_Rizal_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the OIC-Municipal Treasurer thru the Municipal Accountant to immediately submit to the Audit Team the related disbursement vouchers and supporting documents totaling P32,350,298.94 to substantiate the entries drawn in the books of accounts of the Municipality and to facilitate the post audit of the same. Otherwise, all undocumented disbursements of the Municipality shall be suspended or disallowed in audit.",
+      "managementAction": "Municipal Accounting Office committed to submit the disbursement vouchers for the audited transactions on October 2021 and May 2022.",
+      "status": "IMPLEMENTED",
+      "reason": "The Municipal Accounting Office already submitted the disbursement vouchers for the audited transactions on October 2021 and May 2022."
+    },
+    {
+      "id": "Rodriguez_Rizal_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the: a. Municipal officials and employees with outstanding cash advances to immediately liquidate/settle their accountabilities; b. Municipal Accountant to issue demand letter to concerned accountable offices to liquidate outstanding balances; and c. Municipal Accountant to stop granting additional cash advance for the accountable person unless prior to liquidating the previous cash advances to avoid accumulation thereof and pursuant to the aforementioned Circular.",
+      "managementAction": "The Municipal Accounting Office issued demand letters to all accountable officers with outstanding balances.",
+      "status": "IMPLEMENTED",
+      "reason": "A significant amount of cash advances still exists in the books of the Municipality as of December 31, 2021."
+    },
+    {
+      "id": "Rodriguez_Rizal_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant, after analyzing and determining the payables without valid documentation and those that have been outstanding for two years or more, to request for an authority to the Sangguniang Bayan for the reversion of the same. Thereafter, make the necessary journal entry to revert the said outstanding obligations to Government Equity so that the Municipality can use the available funds for other priority projects that would ease the life of its constituents in facing the challenges brought about by the pandemic.",
+      "managementAction": "The Management submitted Kautusan Bilang 17 S. 2022 issued by the Sangguniang Bayan of Rodriguez authorizing the Accounting Office to revert accounts payable balance amounting to P16,780,156.37 without valid documentation and have been outstanding for two years or more. The reversion was covered by the following Journal Entry Vouchers Nos.: 200-21-12-175 (SEF) and 100-2202-0023 (GF) dated Dec. 31, 2021 and February 28, 2022, respectively.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to continuously work on the reconciliation of the stated accounts and make the necessary corrections based on the results of reconciliation and if warranted, consider hiring additional manpower of expertise relevant on the matter to complement the functions of the Municipal Accountant.",
+      "managementAction": "The Municipal Accountant has already determined the cause of the difference between the two accounts in CY 2020. However, a new discrepancy came up at the end of CY 2021. The Management committed that a regular monthly reconciliation of the accounts will be implemented moving forward.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "A discrepancy between the reciprocal accounts still exists in the books of the Municipality as of December 31, 2021. Reiterated in audit observation no. 1, page no. 37."
+    },
+    {
+      "id": "Rodriguez_Rizal_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "We reiterated our prior years recommendation that the Municipal Mayor instruct the: a. Implementing Municipal Office or assigned Official to expedite the implementation of the programs/projects for the benefit of the intended beneficiaries; and b. OIC-Municipal Treasurer, in coordination with the Municipal Accountant, to remit to the BTr/source agencies all the unused balance of funds and collections received, pursuant to the cited regulations so that the amount could be immediately used for other projects/programs of the National Government and to relieve the Municipality from any accountability/liability for the said unused funds. Should there be a need for the unspent funds, the Municipality should request from the source agencies for authority/approval to use the excess amounts for other purposes or projects.",
+      "managementAction": "No action was taken by the Management. Unused funds amounting to P5,310,047.13 were already remitted to its source agencies in CY 2020 and CY 2021.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Delays in the implementation of projects were still noted in CY 2021. A number of unutilized funds received from CY 2020 and earlier still exist in the books of the Municipality as of December 31, 2021."
+    },
+    {
+      "id": "Rodriguez_Rizal_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the: a. BAC, thru its Secretariat, to ensure compliance with the posting requirements of all the procurements in accordance with the 2016 Revised IRR of RA No. 9184 and GPPB Circular No. 01-2020; b. BAC of the Municipality and all those involved in the procurement process to submit all required supporting documents otherwise the related transactions will be suspended in audit; c. BAC and all those involved in the procurement process to strictly comply with the procedures and documentary requirements for government procurement prescribed in the above laws and regulations; and d. Accounting Office ensure the completeness of supporting documents for each procurement transaction as required and to ensure that only those claims with complete documentation are processed, approved and paid.",
+      "managementAction": "The Management submitted the required supporting documents. The Management agreed to comply with the audit recommendation.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal_aar2021-PY16",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor and the MSWMB convene regularly to ensure that the review of the Solid Waste Management Plan will be conducted on time or as the need arises.",
+      "managementAction": "The Management submitted a copy of the Municipal Ecological Solid Waste Management Board's minutes of meeting last September 23, 2021 wherein the updating of the 10-year Solid Waste Management Plan was raised and discussed.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal_aar2021-PY17",
+      "year": 2021,
+      "recommendation": "We reiterated our previous recommendation that the Municipal Mayor direct the: a. MDRRMO to prepare a comprehensive LDRRMFIP, which will be reviewed and updated annually, in compliance with the above-mentioned regulation; and b. Municipal Accountant in coordination with the MDRRMO to regularly prepare the monthly Report on Sources and Utilization of DRRMF and submit the same on or before the 15th day after the end of each month through the LDRRMC and LDC to the Audit Team.",
+      "managementAction": "The Municipal Accounting Office submitted the Report on Sources and Utilization of DRRMF for CY 2021 on March 2, 2022.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Delayed submission of the Report on Sources and Utilization of DRRMF was still noted in CY 2021. The Management was not able again to prepare a comprehensive LDRRMFIP for CY 2021."
+    },
+    {
+      "id": "Rodriguez_Rizal_aar2021-PY18",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor require the: a. Bids and Awards Committee and Municipal Accountant to make a written explanation on the difference in the contract amount stated in the Notice of Award and Contract Agreement as against the gross amount indicated in the DV and price proposal submitted by the contractor; and b. Municipal Engineer to submit detailed computation of the Estimated Direct Cost of the project and properly accomplished Statement of Work Accomplished and Project Completion Report to facilitate review and evaluation of the said project. Henceforth, make sure that all computations are properly supported with appropriate documents to validate the project cost.",
+      "managementAction": "A written explanation was already submitted by the BAC dated June 22, 2021. A corrected Notice of Award and Contract Agreement indicating the correct amount of P9,701,406.00 was submitted by the Management.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal_aar2021-PY20",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Mayor consider hiring/assigning additional personnel with the technical knowledge to the assigned Accounting Office to lessen the delay in the submission of accounts of the Municipality.",
+      "managementAction": "Additional personnel with technical knowledge were already hired and assigned to the Municipal Accounting Office in CY 2021.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to exert diligent efforts to locate and retrieve the relevant documents pertaining to the long outstanding receivable accounts to establish its validity and legality. For those receivables proven to be valid, the Management should exhaust all possible means to enforce payment from the debtors, otherwise, the Municipal Mayor should request the write-off of the dormant receivable accounts to the Commission on Audit, duly supported with the documentary requirements prescribed in Item 8.3 of COA Circular No. 2016-005.",
+      "managementAction": "The Accounting Office related records were furnished to Treasury. The Municipal Accountant initiated the effort to locate pertinent documents. The Municipality initiated to locate the pertinent documents. The related documents are still being located.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No action was taken by Management. Request for write-off will be done when the pertinent documents will be located."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to conduct thorough review and evaluation of the outstanding balances of Accounts Payable totaling P2,934,229.93. Those found valid should be paid immediately. On the other hand, recorded payables without valid documentation and which have been outstanding for two years or more, and against which no actual claim has been filed should be reverted to the Government Equity account with the concurrence of the Sangguniang Bayan, pursuant to the cited laws, rules and regulations for the fair presentation of the said account in the financial statements.",
+      "managementAction": "The Municipal Accountant started to analyze all outstanding balances in Accounts Payable. The Accounting Office started to analyze all outstanding balances in reprovision records.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Relevant obligation slips to these balances could not be located. Reiterated in audit observation no. 8, page 52."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-PY8",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to continuously exert efforts in order to determine the cause/s of the difference in the reciprocal accounts; and thereafter, make the necessary adjusting entry to correct the records in the books of the Municipality.",
+      "managementAction": "Ongoing investigation regarding the cause of the difference in the said accounts.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Adjustments will be made once the cause of the difference is identified."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-PY9",
+      "year": 2020,
+      "recommendation": "We reiterated our prior year’s recommendation that the Municipal Mayor direct the OIC-Municipal Treasurer, in coordination with the Municipal Assessor, to prepare and submit the required certified list of taxpayers and the tax collectible from each at the beginning of the year to the Municipal Accountant as a basis of recording the RPT/SET Receivable in the Municipality’s books of accounts.",
+      "managementAction": "Update on the automation is being done to apply appropriate corrections in compliance with required report.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Ongoing update of the system."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-PY10",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant in coordination with the OIC-Municipal Treasurer to make a representation with the Municipality’s revenue system provider and formally inquire if they can make some modifications to the current system so that a report on RPT collections per Barangay can be generated in real-time. This report will be used by the Accounting Office in computing the share of the Barangays in the RPT collections of the Municipality and will considerably decrease the manual process of segregating collection receipts so that the RPT remittances can be made on time.",
+      "managementAction": "No action was taken by Management. The Municipality is looking for ways to remit the barangay shares on time.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in audit observation no. 12, page 57."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-PY11",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the:\na. Municipal GSO to coordinate with the Municipal Engineer to prepare the road map of the Municipality to facilitate the preparation of a proper inventory and reporting of the Municipality’s road network; \nb. Municipal Engineer to provide the Municipal Accountant and the Municipal GSO with the complete description and cost segregation of road components for road projects; and thereafter;\nc. Municipal Accountant to record the amount of road networks and the equivalent to the required transition provision percentage of road networks every year starting 2016 up to 2019.",
+      "managementAction": "No action was taken by Management. The GSO awaits the data from the Municipal Engineering Office to be able to proceed with the proper recording. Posting in the DILG portal was done regularly. Update on the automation is being done to apply appropriate corrections in compliance with required report.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Reiterated in audit observation no. 4, page 44."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-PY14",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor and the MSWMB convene regularly to ensure that the review of the Solid Waste Management Plan will be conducted on time or as the need arises.",
+      "managementAction": "On going updating of the plan in coordination with the Provincial Government.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Various problems were encountered that hindered the full completion of the plan."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-OBS1",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant and\nthe OIC-Municipal Treasurer to conduct periodic reconciliation of their records to\nensure accuracy in recording. After which, necessary adjustments, if there are\nany, should be effected at once to avoid accumulation of discrepancies between\nthe two records.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-OBS2",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to\ncontinue coordinating with the Provincial Accounting Office to verify the\ndiscrepancies of P2,330,497.63 and P20,967,756.13 between the recorded balances\nof the Due from and Due to LGUs accounts of the Municipality and their respective\nreciprocal accounts Due to and Due from LGUs reflected in the books of the\nProvince; and subsequently prepare the necessary adjusting journal entries to\npresent the true balance of the said accounts in the financial statements.\nLikewise, strictly enforce the collection and settlement for the receivables and\npayables found to be valid.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-OBS3",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to:\n\na. carefully analyze the transactions related to the Loans Payable account in\norder to determine if there were errors committed in recording these\ntransactions. Thereafter, draw necessary journal entry to establish the correct\nbalance of the said account; and\n\nb. maintain a complete detailed Subsidiary Ledger for each loan acquired for\nproper monitoring of the loan payments and outstanding liabilities of the\nMunicipality to its creditors.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-OBS4",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the:\na. Inventory Committee to conduct a complete physical inventory of all the PPE\nincluding the Road Network System employing an alternative way to visually\ncheck the existence and condition of the property of the Municipality and\nsubmit the RPCPPE within the prescribed period;\nb. GSO and Engineering Department to coordinate with each other in order to\nprepare the Report on Local Road Network in compliance with the regulation;\nand\nc. GSO to maintain complete PPE Cards for every item to account for the receipt\nand disposition of the same and to ensure that the custodian function is being\nadhered to for check and balance with the recording function of the\nAccounting Office.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-OBS5",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the OIC-Municipal Treasurer\nthru the Municipal Accountant to immediately submit to the Audit Team the\nrelated disbursement vouchers and supporting documents totaling P32,350,298.94\nto substantiate the entries drawn in the books of accounts of the Municipality and\nto facilitate the post audit of the same. Otherwise, all undocumented\ndisbursements of the Municipality shall be suspended or disallowed in audit.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-OBS6",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the:\na. Municipal officials and employees with outstanding cash advances to\nimmediately liquidate/settle their accountabilities;\nb. Municipal Accountant to issue demand letter to concerned accountable offices\nto liquidate immediately their respective unliquidated cash advances; and\nc. Municipal Accountant to stop granting additional cash advance for the\naccountable person unless prior to liquidating the previous cash advances to\navoid accumulation thereof and pursuant to the aforementioned Circular.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-OBS7",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to\ncontinue exerting efforts to locate and retrieve the relevant documents pertaining\nto the long outstanding receivable accounts to establish its validity and legality.\n\nFor those receivables proven to be valid, the Management should exhaust all\npossible means to enforce payment from the debtors, otherwise, the Municipal\nMayor should request the write-off of the dormant receivable accounts to the\nCommission on Audit, duly supported with the documentary requirements\nprescribed in Item 8.3 of COA Circular No. 2016-005.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-OBS8",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant, after\nanalyzing and determining the payables without valid documentation and those\nthat have been outstanding for two years or more, to request for an authority to\nthe Sangguniang Bayan for the reversion of the same. Thereafter, make the\nnecessary journal entry to revert the said outstanding obligations to Government\nEquity so that the Municipality can use the available funds for other priority\nprojects that would ease the life of its constituents in facing the challenges\nbrought about by the pandemic.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-OBS9",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor require the Municipal Accountant to\ncontinuously work on the reconciliation of the stated accounts and make the\nnecessary corrections based on the results of the reconciliation and if warranted,\nconsider hiring additional manpower with expertise relevant on the matter to\ncomplement the functions of the Municipal Accountant.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-OBS10",
+      "year": 2020,
+      "recommendation": "We reiterated our prior years recommendation that the Municipal Mayor instruct\nthe:\na. Implementing Municipal Office or assigned Official to expedite the\nimplementation and accomplishment of the programs/projects so that the\nbenefits would be delivered to the intended beneficiaries at the soonest possible\ntime. Otherwise, the unutilized funds must be returned to the NGAs in order that\nit may be made available for other priority programs or projects of said\ngovernment agencies; and\nb. OIC-Municipal Treasurer, in coordination with the Municipal Accountant, to\nremit to the BTr/source agencies all the unused balance of funds and\ncollections received, pursuant to the cited regulations to relieve the Municipality\nfrom any accountability/liability for the said unused funds. Should there be a\nneed for the unspent funds, the Municipality should request from the source\nagencies for authority/approval to use the excess amounts for other purposes or\nprojects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-OBS11",
+      "year": 2020,
+      "recommendation": "We reiterated our prior year’s recommendation that the Municipal Mayor direct the\nOIC-Municipal Treasurer, in coordination with the Municipal Assessor, to prepare\nand submit the required certified list of taxpayers and the tax collectible from each\nat the beginning of the year to the Municipal Accountant as a basis of recording\nthe RPT/SET Receivable in the Municipality’s books of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-OBS12",
+      "year": 2020,
+      "recommendation": "We reiterated our prior year’s recommendation that the Municipal Mayor direct the\nMunicipal Accountant in coordination with the OIC-Municipal Treasurer to make a\nrepresentation with the Municipality’s revenue system provider and formally\ninquire if they can make some modifications to the current system so that a report\non RPT collections per Barangay can be generated in real-time. This report will be\nused by the Accounting Office in computing the share of the Barangays in the\nRPT collections of the Municipality and will considerably decrease the manual\nprocess of segregating collection receipts so that the RPT remittances can be\nmade on time.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-PY1",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the:\na. Inventory Committee to continue its efforts in completing the physical count of the properties of the Municipality and prepare and submit the required report thereon, in proper form, of different PPE summarized according to type of PPE and properly accomplished in all particulars, in accordance with Section 124 of the MNGAS for LGUs, Volume I; and\nb. Municipal Accountant to make the necessary adjustments to correct the non-provision for depreciation for the above PPEs, for fair presentation in the financial statements.",
+      "managementAction": "The Municipality initiated the inventory of property. Depreciation Expense were provided for",
+      "status": "IMPLEMENTED",
+      "reason": "Due to Corona Virus Disease 2019 (COVID-19), alternative work arrangement and imposition of quarantine restrictions, inventory of all properties of the Municipality proved to be difficult."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-PY2",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the:\na. Municipal Accountant and the Acting Municipal Treasurer to conduct periodic reconciliation of their records to ensure accuracy in recording. Also, necessary adjustments, if there are any, could be effected at once to avoid accumulation of discrepancies between the two records; and\nb. Acting Municipal Treasurer to exert extra efforts to locate the vouchers related to the stated unrecorded check disbursements and transmit the same to the Municipal Accounting Office for proper recording in the books; and\nc. Municipal Accountant in coordination with the Acting Municipal Treasurer to make a representation with the Municipality’s depository banks and formally request for the copies of Debit and Credit Memos so that the necessary entries/adjustments can be made in the Municipality’s books to present the correct balances of the Cash in Bank accounts in the financial statements.",
+      "managementAction": "Accounting Office related records were furnished to Treasury. The Municipality through the Accounting and Treasury Offices made verbal request to the concerned depository banks. The related department initiated to locate the vouchers.",
+      "status": "IMPLEMENTED",
+      "reason": "Not implemented due to depository bank. Reiterated in audit observation no. 1, page 40."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the:\na. Municipal officials and employees with outstanding cash advances to immediately liquidate/settle their accountabilities, if warranted, impose the advance withholding of salaries of those who fail or refuse to comply with the regulations; and\nb. Municipal Accountant to certify each claim for cash advance that the person drawing such has no outstanding cash advances prior to processing the claim, to avoid accumulation thereof and pursuant to the aforementioned circular.",
+      "managementAction": "The Municipal Accountant warned the concerned officials and employees still have unliquidated cash advances.",
+      "status": "IMPLEMENTED",
+      "reason": "Not implemented. The Municipal Accountant cannot issue a certification due to processing the claim, to some cash advances projects that might be hampered its swift implementation."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor:\na. consider hiring/assigning Additional personnel with the technical knowledge to the Accounting Office to lessen the delay in the submission of accounts of the Municipality; and\nb. direct the Municipal Accountant to immediately work on the unsubmitted accounts mentioned above and submit the same to the Audit Team for review and evaluation. Otherwise, Management cause the suspension of payment of the salaries of the employees responsible for the non-submission of the said accounts until the same shall have been complied in pursuance with Section 122(2) of Presidential Decree No. 1445.",
+      "managementAction": "The Municipality initiated to locate the vouchers. CY 2019 vouchers were submitted to the Audit Team.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to continue coordinating with the Provincial Accounting Office to verify the discrepancies of the Due from and Due to LGUs accounts of the Municipality and their respective reciprocal accounts Due to and Due from LGUs reflected in the books of the Province; and subsequently prepare the necessary adjusting journal entries to present the true balance of the said accounts in the financial statements. Likewise, strictly enforce the collection and settlement for the receivables and payables found to be valid.",
+      "managementAction": "The Municipal Accountant started to coordinate with the Provincial Accounting Officer in relation to the discrepancies.",
+      "status": "ONGOING",
+      "reason": "Reconciliation."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-PY12",
+      "year": 2020,
+      "recommendation": "We reiterated our prior year’s recommendation that the Municipal Mayor instruct the:\na. Implementing Municipal Office or assigned Official to expedite the implementation and accomplishment of the programs/projects so that the benefits would be delivered to the intended beneficiaries at the soonest possible time. Otherwise, the unutilized funds must be returned to the NGAs in order that it may be made available for other priority programs or projects of said government agencies; and\nb. OIC-Municipal Treasurer, in coordination with the Municipal Accountant, to remit to the BTr/source agencies all the unused balance of funds and collections received, pursuant to the cited regulations to relieve the Municipality from any accountability/liability for the said unused funds. Should there be a need for the unspent funds, the Municipality should request from the source agencies for authority/approval to use the excess amounts for other purposes or projects.",
+      "managementAction": "Various projects were implemented from funds received from NGAs. Remaining balance of unremitted funds will be returned in CY 2021 or conduct other measures allowable in the agreement in relation to the project. The Municipality will vigorously pursue to implement the stated project in CY 2021.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "COVID-19 pandemic and quarantine restrictions greatly affected the full completion of the said projects. Reiterated in audit observation no. 10, page 54."
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-PY13",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Engineer to closely monitor and vigorously pursue the timely and full implementation of all the programs and activities embodied in the 20% DF so that the benefits would be delivered to its intended beneficiaries at the soonest possible time.",
+      "managementAction": "Various projects were implemented under the 20% DF.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Region-IVA__Municipalities__Rizal__Rodriguez_Rizal-2020-PY15",
+      "year": 2020,
+      "recommendation": "We reiterated our previous recommendations that the Municipal Mayor direct the:\na. MDRRMO to prepare a comprehensive LDRRMFIP, which will be reviewed and updated annually, in compliance with the above-mentioned regulation; and\nb. Municipal Accountant in coordination with the MDRRMO to regularly prepare the monthly Report on Sources and Utilization of DRRMF and submit the same on or before the 15th day after the end of each month through the LDRRMC and LDC to the Audit Team.",
+      "managementAction": "Posting in the DILG portal was done regularly. The Accounting Office was aware.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "No action was taken by Management. Plan being prepared is based on the Annual Budget of the Municipality. Reiterated in audit observation no. 17, page 66."
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-PY2",
+      "year": 2019,
+      "recommendation": "We reiterated our prior years’ recommendations that the Local Chief Executive (LCE) direct the: a. Municipal Treasurer and Municipal Accountant to conduct immediate reconciliation of their records in order to determine the cause/s of the discrepancies amounting to P193,342,461.12 and P1,670,988.49, between the General Ledger and Cashbook balances of Cash in Bank - Local Currency, Current Account and Cash Local Treasury accounts, respectively, to come up with an accurate and reliable financial data; b. Municipal Accountant to immediately prepare the necessary adjustments of all valid reconciling items in the Municipality’s books to avoid accumulation thereof, and to present the correct balance of the Cash in Bank accounts in the financial statements; and c. Municipal Accountant to regularly prepare and submit to the Audit Team within the prescribed period the monthly BRS of all bank accounts with a BRS being maintained by the Municipality for their timely verification.",
+      "managementAction": "Management, thru the Municipal Accountant, stated that they will reconcile their respective balances and effect necessary adjustment and other recommendations on the noted discrepancies.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Discrepancies were still noted in the recorded balances of the Cash in Bank accounts in the General Ledger and Cashbook of the Municipality."
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Accountant conduct thorough review and evaluation of the outstanding balances of Accounts Payable totaling P2,934,229.93. Those found valid should be paid immediately. On the other hand, recorded payables without valid documentation and which have been outstanding for two years or more, and against which no actual claim has been filed should be reverted to the Government Equity account with the concurrence of the Sangguniang Bayan, pursuant to the cited laws, rules and regulations for the fair presentation of the said account in the financial statements.",
+      "managementAction": "Management, thru the Municipal Accountant, stated that whey will conduct review and evaluation on all outstanding balances and take action based on the results thereof.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Some of the noted accounts payable were still recorded in the books of accounts as of December 31, 2019."
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive with the concurrence of the Municipal Council, hasten the submission of the request of the Municipal Accountant for the authority to write-off the dormant accounts to the Commission on Audit, duly supported with the list of available records pertaining to the accounts, certification as to the extent of validation made on the accounts, reasons why the records/documents/schedules could not be located and the number of years the accounts have been dormant.",
+      "managementAction": "No action was taken by Management.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Difficulties in complying with the documentary requirements needed for the write-off of the dormant accounts."
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-PY9",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Municipal Mayor direct the: a. Municipal GSO to coordinate with the Municipal Engineer to prepare the road map of the Municipality to facilitate the preparation of a proper inventory and reporting of the Municipality’s road network system; b. Municipal Engineer to provide the Municipal Accountant and the Municipal GSO with the complete description and cost segregation of road components for road projects; and thereafter c. Municipal Accountant to record the amount of road networks equivalent to the required transition provision percentage every year starting 2016 up to 2019.",
+      "managementAction": "Management, thru the Municipal Accountant, stated that they will comply with the Audit Team’s recommendations.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No action was taken by the Management."
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-PY16",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive direct the Local School Board to incorporate in the Municipality’s AB budget the programs and activities intended for Early Childhood Care and Development.",
+      "managementAction": "No action taken by the Management.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-PY21",
+      "year": 2019,
+      "recommendation": "We recommended that the Management enforce immediate settlement of the audit suspensions and disallowances totaling P1,582,595.00 and P6,817,551.55, respectively, in accordance with Section 9.4 of COA Circular No. 2009-006 dated September 15, 2009. Henceforth, ensure that government auditing rules and regulations are strictly complied with before processing claims and effecting payments to minimize suspensions and disallowances in audit.",
+      "managementAction": "No settlement was made for the aforementioned suspensions and disallowances during the year.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the:\n\na. Inventory Committee to continue exerting efforts in completing the physical\ncount of the properties of the Municipality and prepare and submit the\nrequired report thereon, in proper form, summarized according to type of\nPPE and properly accomplished in all particulars, in accordance with Section\n124 of the MNGAS for LGUs, Volume I; and\n\nb. Municipal Accountant to make the necessary adjustments to correct the non-\nprovision for depreciation for the above PPEs for fair presentation in the\nfinancial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the:\n\na. Municipal Accountant and the Acting Municipal Treasurer to conduct\nperiodic reconciliation of their records to ensure accuracy in recording.\nAlso, necessary adjustments, if there are any, could be effected at once to\navoid accumulation of discrepancies between the two records;\n\nb. Acting Municipal Treasurer to exert extra efforts to locate the vouchers\nrelated to the unrecorded check disbursements and transmit the same to the\nMunicipal Accounting Office for proper recording in the books; and\n\nc. Municipal Accountant in coordination with the Acting Municipal Treasurer to\nmake a representation with the Municipality’s depository banks and formally\nrequest for the copies of Debit and Credit Memos so that the necessary\nentries/adjustments can be made in the Municipality’s books to present the\ncorrect balances of the Cash in Bank accounts in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to exert\ndiligent efforts to locate and retrieve the relevant documents pertaining to the long\noutstanding receivable accounts to establish its validity and legality.\n\nFor those receivables proven to be valid, the Management should exhaust all\npossible means to enforce payment from the debtors, otherwise, the Municipal\nMayor should request the write-off of the dormant receivable accounts to the\nCommission on Audit, duly supported with the documentary requirements\nprescribed in Item 8.3 of COA Circular No. 2016-005.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the:\n\na. Municipal officials and employees with outstanding cash advances to\nimmediately liquidate/settle their accountabilities, if warranted, impose the\nwithholding of salaries of those who fail or refuse to comply with the\nregulations; and\n\nb. Municipal Accountant to certify each claim for cash advance that the person\ndrawing such has no outstanding cash advances prior to processing the\nclaim, to avoid accumulation thereof and pursuant to the aforementioned\ncircular.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to\nconduct thorough review and evaluation of the outstanding balances of Accounts\nPayable totaling P2,934,229.93. Those found valid should be paid immediately. On\nthe other hand, recorded payables without valid documentation and which have\nbeen outstanding for two years or more, and against which no actual claim has been\nfiled should be reverted to the Government Equity account with the concurrence of\nthe Sangguniang Bayan, pursuant to the cited laws, rules and regulations for the\nfair presentation of the said account in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor:\n\na. consider hiring/assigning additional personnel with the technical knowledge\nto the Accounting Office to lessen the delay in the submission of accounts\nof the Municipality; and\n\nb. direct the Municipal Accountant to immediately work on the unsubmitted\naccounts mentioned above and submit the same to the Audit Team for\nreview and evaluation. Otherwise, Management cause the suspension of\npayment of the salaries of the employees responsible for the non-\nsubmission of the said accounts until the same shall have been complied in\npursuance with Section 122(2) of Presidential Decree No. 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to\ncontinue coordinating with the Provincial Accounting Office to verify the\n\n\ndiscrepancies of P1,722,713.89 and P(4,701,587.60) between the recorded balances of\nthe Due from and Due to LGUs accounts of the Municipality and their respective\nreciprocal accounts Due to and Due from LGUs reflected in the books of the\nProvince; and subsequently prepare the necessary adjusting journal entries to\npresent the true balance of the said accounts in the financial statements. Likewise,\nstrictly enforce the collection and settlement for the receivables and payables found\nto be valid.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-OBS8",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to\ncontinuously exert efforts in order to determine the cause/s of the difference in the\nreciprocal accounts; and thereafter, make the necessary adjusting entry to correct the\nrecords in the books of the Municipality.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-OBS9",
+      "year": 2019,
+      "recommendation": "We reiterated our prior year’s recommendation that the Municipal Mayor direct the\nActing Municipal Treasurer, in coordination with the Municipal Assessor, to prepare\nand submit the required certified list of taxpayers and the tax collectible from each\nat the beginning of the year to the Municipal Accountant as a basis of recording the\nRPT/SET Receivable in the Municipality’s books of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-OBS10",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant in\ncoordination with the Municipal Treasurer to make a representation with the\nMunicipality’s revenue system provider and formally inquire if they can make some\nmodifications to the current system so that a report on RPT collections per\nBarangay can be generated in real-time. This report will be used by the Accounting\nOffice in computing the share of the Barangays in the RPT collections of the\nMunicipality and will considerably decrease the manual process of segregating\ncollection receipts so that the RPT remittances can be made on time.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-OBS11",
+      "year": 2019,
+      "recommendation": "We reiterated our prior year’s recommendation that the Municipal Mayor direct the:\n\na. Municipal GSO to coordinate with the Municipal Engineer to prepare the road\nmap of the Municipality to facilitate the preparation of a proper inventory and\nreporting of the Municipality’s road network system;\n\nb. Municipal Engineer to provide the Municipal Accountant and the Municipal\nGSO with the complete description and cost segregation of road\ncomponents for road projects; and thereafter\n\nc. Municipal Accountant to record the amount of road networks equivalent to the\nrequired transition provision percentage every year starting 2016 up to 2019.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-OBS12",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor instruct the:\n\na. Implementing Municipal Office or assigned Official to expedite the\nimplementation and accomplishment of the programs/projects so that the\nbenefits would be delivered to the intended beneficiaries at the soonest possible\ntime. Otherwise, the unutilized funds must be returned to the NGAs in order that\nit may be made available for other priority programs or projects of said\ngovernment agencies; and\n\nb. OIC-Municipal Treasurer, in coordination with the Municipal Accountant, to\nremit to the BTr/source agencies all the unused balance of funds and collections\nreceived, pursuant to the cited regulations to relieve the Municipality from any\naccountability/liability for the said unused funds. Should there be a need for the\nunspent funds, the Municipality should request from the source agencies for\nauthority/approval to use the excess amounts for other purposes or projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-PY1",
+      "year": 2019,
+      "recommendation": "We reiterated our prior years’ recommendations that the Local Chief Executive (LCE) direct the: a. Inventory Committee to complete the inventory count to prove existence of the Municipality’s properties, and to submit the required report thereon to the Auditor, pursuant to Section 124 of the MNGAS, Volume I. Also, the inventory report should be reconciled with the accounting and property records. Any discrepancies found should be investigated, and the necessary adjustments should be made where the error was committed; b. OIC-GSO to maintain Property Cards to facilitate the physical count of property and equipment. Determine the officials/employees to whom the equipment was issued, and issue the corresponding Acknowledgement Receipt for Equipment (ARE) for each property to pinpoint the person accountable and responsible thereon. Moreover, renew all ARE every three years for the signature of the holder of each item listed in the RPCPPE; c. Municipal Accountant to maintain PPELC for each category of PPE to ensure correctness of the control account in the GL; and d. OIC-GSO to prepare the Inventory and Inspection Report on Unserviceable Property, to account for all unserviceable and obsolete items previously taken up in the books as assets, so that they may be properly disposed of and dropped from the accounts. Moreover, the disposal of property shall be made in accordance with COA Circular No. 89-296 dated January 27, 1989.\n\nWe also recommended that the LCE direct the Municipal Accountant to prepare the necessary adjusting journal entry to correct the provision for depreciation on property amounting to at least P1,024,661.45, for fair presentation of affected PPE accounts in the financial statements.",
+      "managementAction": "Management, thru the Municipal Accountant, stated that they are committed to continue the physical inventory of property as well as to comply with other audit recommendations.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "No RPCPPE was submitted to the Audit Team for CY 2019."
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive direct the Acting Municipal Treasurer to prepare and submit to the Municipal Accountant the required certified list of taxpayers and the tax collectible from each at the beginning of the year as the basis of recording the RPT/SET Receivables in the books of accounts. It should be emphasized that there is a need to provide an accurate and reliable basis of the actual RPT/SET Receivables from taxpayers not only for a fair presentation of the actual financial position of the Municipality, but also to provide Management with an accurate information needed in its decision making.",
+      "managementAction": "The Municipal Assessor and Municipal Services Company (SPIDC) to complete the certified list of taxpayers and the tax collectible at the beginning of the following year. The new Management IT computerized system has not implemented yet by the Municipality.\n\nManagement, thru the Municipal Accountant, stated that they will comply with the Audit Team’s recommendation.",
+      "status": "UNKNOWN",
+      "reason": "The new Management IT computerized system has not implemented yet by the Municipality and the required certified list of taxpayers was still not provided for CY 2019."
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-PY4",
+      "year": 2019,
+      "recommendation": "We reiterated that the Local Chief Executive direct the Municipal Accountant to: a. demand immediate settlement of all unliquidated cash advances from officials and employees concerned, pursuant to above cited regulation; and b. exert more efforts to compel the nine officials/employees that are no longer connected or resigned from the Municipal Government to liquidate their outstanding cash advances pursuant to COA Circular No. 2012-004 dated November 28, 2012.",
+      "managementAction": "Management, thru the Municipal Accountant, stated that they will exhaust all possible solutions to comply with the Audit Team’s recommendations.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Several demand letters were already sent to the accountable officers who still have unliquidated cash advances. The Municipal Accountant was also considering for its write-off."
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant to: a. make a detailed review of all reciprocal accounts and coordinate with the Provincial Accounting Office in order to determine the cause/s of the unreconciled amounts. Thereafter, make the necessary adjustments/corrections in the books of accounts to present the correct balances of the affected accounts; and b. exercise due professional care in the recording and classifying the Municipality’s financial transactions to ensure that the balances of the reciprocal accounts at all times be the same.",
+      "managementAction": "Management, thru the Municipal Accountant, stated that reconciliation is ongoing regarding the remaining discrepancy.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Discrepancies between the Municipality and the Province’s records were still noted in CY 2019."
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended that the Municipal Mayor direct the Municipal Accountant in coordination with the Municipal Treasurer to make a representation with the Municipality’s revenue system provider and formally inquire if they can make some modifications to the current system so that a report on RPT collections per Barangay can be generated in real-time. This report will be used by the Accounting Office in computing the share of the Barangays in the RPT collections of the Municipality and will considerably decrease the manual process of segregating collection receipts so that the RPT remittances can be made on time.",
+      "managementAction": "Management, thru the Municipal Accountant, stated that they will exhaust all possible to way to remit on time the RPT shares of all barangays.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Some of the RPT remittances for CY 2019 were still beyond the prescribed period."
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-PY10",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Accountant to maintain a special account in the GF for development projects funded from the 20 percent share of the IRA to facilitate reporting of the said special account.",
+      "managementAction": "The Municipality has already opened a separate bank account for the 20 percent DF which also serves as a separate ledger for that said special account.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-PY11",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendation that the Local Chief Executive direct the Municipal Accountant, as a means of control and source of information needed by the Management and other stakeholders in decision making, to maintain special accounts through the use of subsidiary ledger for preparation of separate financial statements in the General Fund. Identify and address the cause/s of the continued inability of the Accountant to maintain the required special accounts.",
+      "managementAction": "According to the Management, some expenses for each special account is undeterminable due to the lump sum appropriation and obligation in the Annual Budget. Also, the balances of accounts in the balance sheet are not determined.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Balances of the balance sheet accounts are not determined."
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-PY12",
+      "year": 2019,
+      "recommendation": "We reiterated that the Local Chief Executive direct the: a. Municipal Budget Officer to provide in the AB a budgetary line item for the LCPC from the allocated one percent IRA specifically for strengthening and implementation of PPAs; b. supervise the LCPC to prepare the Comprehensive Juvenile Intervention Program, LDPC, LCC, and LSCR to ensure that all identified PPAs are implemented; and c. MSWDO in coordination with the LCPC to maximize the utilization of the allocated LCPC fund through adequate planning and identification of priority PPAs for its proper implementation and strengthening the LCPC and ultimate realization of goals protecting the children’s rights and welfare.",
+      "managementAction": "The Municipal Budget Officer already provided a budget for the LCPC amounting to P6,653,978.65 as computed from the allocated one percent of IRA. As for the mandatory staffs, it was already submitted to CSC and posted in the bulletin board.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Delays in the implementation of some of the planned development projects of the Municipality extends to CY 2020."
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-PY13",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive require the Municipal Accountant to submit immediately the above disbursement and collection reports together with the supporting documents to the Audit Team not later than the 10th day of the ensuing month in compliance with the existing regulations, and to facilitate the immediate audit of the transactions of the Municipality.",
+      "managementAction": "The Municipal Accountant already hired additional personnel that will handle the task personally for them to be able to submit the documents on the prescribed time. Delays in the submission of accounts and the required reports thereon were still noted in CY 2019.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Delays in the submission of accounts and the required reports thereon were still noted in CY 2019."
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-PY14",
+      "year": 2019,
+      "recommendation": "We reiterated our prior years’ recommendation that the Local Chief Executive direct the Human Resource Management Officer to: fill-up the vacant positions which are vital in the delivery of basic services by hiring qualified applicants or by promoting non-permanent personnel to permanent positions, which would lessen the need to hire contractual workers or job orders.",
+      "managementAction": "Human Resource Management Office is continuously available and processing there are lot of appointments of Job Orders hired vacant positions in the Municipality.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Vacant plantilla positions are still available and yet the appointments of Job Orders for the vacant positions are still ongoing."
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-PY15",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive direct the concerned Municipal Officials to immediately utilize the amount of P25,114,830.31 for its intended projects. Otherwise, the funds must be returned to the source agency in order that it may be made available for other priority programs or projects of said government agencies.",
+      "managementAction": "Various projects were implemented and/or returned to the source agency in CY 2020. Also, the Municipal Engineer averred that the LGSF-AM was already bidded in December 2019 and was fully implemented in CY 2020.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "A significant portion of the fund was still charged to the development projects related to sports and training expenses instead of prioritizing the development of school facilities; some projects were implemented and/or returned to source agencies in CY 2020."
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-PY17",
+      "year": 2019,
+      "recommendation": "We reiterated that the Local Chief Executive require the Local School Board to: a. strictly adhere to the pertinent provisions of RA 5447 and DepEd, DBM and DILG Joint Circular No. 01 s. 2017 for the utilization of SEF and include as top priority the improvement of educational facilities to maximize the purpose of the SEF and ensure the optimum benefits for the schools; b. Municipal Budget Officer in coordination with the Local School Board to ensure the maximum and efficient utilization of the SEF for the priority programs and projects pertaining to the operations and maintenance of the public schools within the locality; and c. Municipal Budget Officer and the Municipal Accountant to stop charging to SEF expenditures not in conformity with the DepEd, DBM and DILG Joint Circular No. 01 s. 2017.",
+      "managementAction": "The Municipal Budget Officer already informed all Heads of various schools in the Municipality to strictly observe and follow the DepEd, DBM and DILG Joint Circular No. 01, series of 2017 and explained that expenditures are now properly charged in accordance with DepEd, DBM and DILG JC No. 1 series of 2017. No travelling expense was charged to the fund for CY 2019.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "A significant portion of the fund was still charged to training expenses related to sports instead of prioritizing the development of school facilities; now, expenditures are properly charged in accordance with DepEd, DBM and DILG JC No. 1 series of 2017."
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-PY18",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive direct the: a. Municipal Planning and Development Officer (MPDO) and Local Development Council (LDC) to identify the priority programs, projects and activities to be funded under the 20% DF and ensure that detailed allocation of funds for each project and relevant implementation timelines are reflected in the AIP so that proper monitoring and evaluation of the Municipality’s development projects may be undertaken; and b. concerned Officials to maximize the utilization of the said fund to achieve the desirable socio-economic development and environmental outcomes of the Municipality as envisioned.",
+      "managementAction": "The Municipality already expended the majority of the fund in CY 2019. Full utilization of the fund was not achieved during CY 2019 as implementation of some of the planned development projects of the Municipality extends to CY 2020.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Delays in the implementation of some of the planned development projects of the Municipality extends to CY 2020."
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-PY19",
+      "year": 2019,
+      "recommendation": "We reiterated that the Local Chief Executive: a. instruct the Municipal Engineer to initiate the immediate construction of the MRF for all barangays within the locality and ensure its full operation and sustain the MRF and effective implementation of the Central MRF; b. require the MSWMB, the active participation of all its barangay officials to support the SWM program of the Municipality by continuously educating its respective constituents through source Information Education Campaign (IEC) on the proper segregation of reusable or recyclable materials from compostable wastes and giving emphasis of their significant participation to achieve the SWM objectives; and c. through the coordination of the MENRO Coordinator to establish a partnership and linkages with the Homeowners Association, public and private sectors, schools, NGOs/POs and other business enterprises within the locality to intensify the IEC on waste management by placing trash bins with proper labels on the designated garbage collection areas and other public places and enforce collection only for those properly segregated waste. Also, the Municipal Mayor should prioritize the full implementation of the SWM plans and ensure effective enforcement of environmental ordinances towards the attainment of the objectives of the Municipal’s Ten-Year Ecological Solid Waste Plan.",
+      "managementAction": "The LCE already ordered the MENRO Coordinator to prioritize the full implementation of the Ten-Year Ecological Solid Waste Plan of the Municipality. The MENRO Coordinator visited Barangays for their MRF and the construction of the MRF of the Municipality is still ongoing. The Municipality has intensified their IEC and existing active partnership with schools under Ynares Eco-System (YES) Organization. Approved Municipal Ordinances were distributed to the Barangays and private businesses through the Municipal Business and Permit Licensing Office.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Construction of the central MRF of the Municipality is still ongoing."
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-PY20",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive direct the Human Resource Management Officer to immediately institutionalize the establishment by complying with its mandatory staffing requirements as prescribed by RA No. 10121 and NDRRMC, DBM and CSC JMC No. 2014-01, who shall primarily be responsible for setting the direction, development, implementation and coordination of disaster risk management programs within the municipality and towards strengthening the country’s National DRRM System.",
+      "managementAction": "The Municipality appointed Engr. Edgar G. Cruz as Municipal Government Department Head - Municipal Disaster Risk Reduction and Management Office (MGDH-MDRRMO) effective March 1, 2019. As for the mandatory staffs, it was already submitted to CSC and posted in the bulletin board.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-PY22",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive require the GAD Focal Point System to: a. institutionalize the GAD database with adequate and systematically gathered sex-disaggregated data which will provide the bases for gender analysis, planning, programming and policy formulation; b. undertake gender analysis to identify and confirm existing gender issues and ensure that the programs, projects and activities are responsive to the gender issues and/or concerns of the locality and in the context of the municipal mandates; and c. revisit Annex B of PCW-DILG-DBM-NEDA JMC No. 2013-01, which identifies the data requirements for particular gender issues.",
+      "managementAction": "GAD data base has already been devised which will generate the much-needed data for gender analysis. The GAD Focal Person already attended COA GAD seminars and trainings to ensure that all the GAD programs activities and projects of the Municipality is responsive to the gender issues. The Municipality through its Local Chief Executive agreed with the recommendation and committed to do so moving forward. The Municipality continuously seeks assistance from DILG Rodriguez, DILG Rizal Province, Provincial GAD Focal Persons and other institutions to identify and confirm existing gender issues. The Municipality already revisited Annex B of the aforementioned JMC and will make sure that the required data based on the JMC will be integrated into their recently established Oracle database.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Encoding of the GAD data in the system is still in progress."
+    },
+    {
+      "id": "Rodriguez_Rizal-2019-PY23",
+      "year": 2019,
+      "recommendation": "We recommended that the Local Chief Executive require the GAD Focal Person to include in the GAD Plan specific programs designed for the gender concerns with specific targets for easy monitoring and evaluation of accomplishments to ensure the effective attainment of its objectives and efficient utilization of resources. Also, the Local Chief Executive shall inform the DILG Provincial Office in writing the changes in the DILG endorsed GPB as required in the provisions of the said JMC.",
+      "managementAction": "The GAD Focal Person attended COA GAD seminars and trainings to ensure that all the GAD programs activities and projects of the Municipality is responsive to the gender issues. The Management agreed with the recommendation and committed to do so moving forward.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Local Chief Executive (LCE) direct the:\n\na. Inventory Committee to complete the inventory count to prove existence of the Municipality’s properties, and to submit the required report thereon to the Auditor, pursuant to Section 124 of the MNGAS, Volume I. Also, the inventory report should be reconciled with the accounting and property records. Any discrepancies found should be investigated, and the necessary adjustments should be made where the error was committed;\n\nb. OIC-GSO to maintain Property Cards to facilitate the physical count of property and equipment. Determine the officials/employees to whom the equipment were issued, and issue the corresponding Acknowledgement Receipt for Equipment (ARE) for each property to pinpoint the direct person accountable and responsible thereon. Moreover, renew all ARE every three years for the signature of the holder of each item listed in the RPCPPE;\n\nc. Municipal Accountant to maintain PPELC for each category of PPE to ensure correctness of the control account in the GL; and\n\nd. OIC-GSO to prepare the Inventory and Inspection Report on Unserviceable Property (IIURP), to account for all unserviceable and obsolete items previously taken up in the books as assets, so that they may be properly disposed of and dropped from the accounts. Moreover, the disposal of property shall be made in accordance with COA Circular No. 89-296 dated January 27, 1989.\n\nWe also recommended that the LCE direct the Municipal Accountant to prepare the necessary adjusting journal entry to correct the provision for depreciation on property amounting to at least P1,024,661.45, for fair presentation of affected PPE accounts in the financial statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We reiterated our prior year’s recommendation that the Local Chief Executive direct the:\n\na. Municipal Treasurer and Municipal Accountant to conduct immediate reconciliation of their records in order to determine the cause/s of the discrepancies amounting to P193,342,461.12 and P1,670,988.49, between the General Ledger and Cashbook balances of Cash in Bank - Local Currency, Current Account and Cash Local Treasury accounts, respectively, to come up with an accurate and reliable financial data;\n\nb. Municipal Accountant to immediately prepare the necessary adjustments of all valid reconciling items in the Municipality’s book to avoid accumulation thereof, and to present the correct balance of the Cash in Bank accounts in the financial statements; and\n\nc. Municipal Accountant to regularly prepare and submit to the Audit Team within the prescribed period the monthly BRS of all bank accounts being maintained by the Municipality for their timely verification.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2018-OBS3",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive direct the Acting Municipal Treasurer to prepare and submit to the Municipal Accountant the required certified list of taxpayers and the tax collectible from each at the beginning of the year as the basis of recording the RPT/SET Receivables in the books of accounts. It should be emphasized that there is a need to provide an accurate and reliable basis of the actual RPT/SET Receivables from taxpayers not only for a fair presentation of the actual financial position of the Municipality, but also to provide Management with an accurate information needed in its decision making.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2018-OBS4",
+      "year": 2018,
+      "recommendation": "We reiterated that the Local Chief Executive direct the Municipal Accountant to:\n\na. demand immediate settlement of all unliquidated cash advances from officials and employees concerned, pursuant to above cited regulation; and.\n\nb. exert more efforts to compel the nine officials/employees that are no longer connected or resigned from the Municipal Government to liquidate their outstanding cash advances pursuant to COA Circular No. 2012-004 dated November 28, 2012.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2018-OBS5",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Accountant to analyze carefully and determine the validity of long outstanding obligations. Those found valid should be paid immediately. On the other hand, recorded payables without valid documentation and which have been outstanding for two years or more, and against which no actual claim has been filed should be reverted to Government Equity account, with the concurrence of the Sangguniang Bayan, to clear the payables accounts. Henceforth, only obligations with proper documentation should be recorded in the books of accounts, pursuant to Section 4(s) of MNGAS for LGUs, Volume I.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2018-OBS6",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive direct the Municipal Accountant to:\n\na. make a detailed review of all the recorded reciprocal accounts and coordinate with the Provincial Accounting Office in order to determine the cause/s of the unreconciled amounts. Thereafter, make the necessary adjustments/corrections in the books of accounts to present the correct balances of the affected accounts; and\n\nb. exercise due professional care in the recording and classifying the Municipality’s financial transactions to ensure that the balances of the reciprocal accounts at all times be the same.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2018-OBS7",
+      "year": 2018,
+      "recommendation": "We reiterated that the Local Chief Executive to require the Municipal Accountant and Municipal Treasurer to remit the barangay shares from Real Property Tax collections within five days after the end of each quarter so that additional funds could be immediately used for the delivery of services to their constituents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2018-OBS8",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Local Chief Executive with the concurrence of the Municipal Council, hasten the submission of the request of the Municipal Accountant for the authority to write-off the dormant accounts to the Commission on Audit, duly supported with the list of available records pertaining to the accounts, certification as to the extent of validation made on the accounts, reasons why the records/documents/schedules could not be located and the number of years the accounts have been dormant.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2018-OBS9",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Local Chief Executive direct the:\n\na. concurrent Municipal GSO to coordinate with the Municipal Engineer for the Road Network Identification Number of local road projects to facilitate the preparation of yearly inventory and reporting of the Municipality’s road network system;\n\nb. Municipal Engineer to provide the Municipal Accountant and the Concurrent Municipal GSO the complete description and cost segregation of road components for road projects; and thereafter,\n\nc. Municipal Accountant to record the amount of road networks equivalent to the required transition provision percentage every year starting from CY 2016 to CY 2019.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2018-OBS10",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Local Chief Executive direct the Municipal Accountant to maintain special account in the GF for development projects funded from the 20 percent share of the IRA to facilitate reporting of utilization and monitoring of the said fund and review thereof.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2018-OBS11",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Local Chief Executive direct the Municipal Accountant, as a means of control and source of information needed by the Management and other stakeholders in decision making, to maintain special accounts through the use of subsidiary ledger for preparation of separate financial statements in the General Fund. Identify and address the cause/s of the continued inability of the Accountant to maintain the required special accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2018-OBS12",
+      "year": 2018,
+      "recommendation": "We reiterated that the Local Chief Executive:\n\na. direct the Municipal Budget Officer to provide in the Municipality’s AB a budgetary line item for the LCPC from the allocated one percent of IRA specifically for strengthening and implementation of PPAs thereof;\nb. supervise the LCPC to prepare the Comprehensive Juvenile Intervention Program, LDPC, LCC, and LSCR to ensure that all identified PPAs are implemented for the strengthening and implementation of the LDPC for the benefits of the children, and to improve the level of functionality of the LCPC Council; and\n\nc. MSWDO in coordination with the LCPC to maximize the utilization of the allocated LCPC fund through adequate planning and identification of priority PPAs for its proper implementation and strengthening the LCPC and ultimate realization of goals protecting the children’s rights and welfare.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2018-OBS13",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive require the Municipal Accountant to submit immediately the above disbursement and collection reports together with the supporting documents to the Audit Team not later than the 10th day of the ensuing month in compliance with the existing regulations, and to facilitate the immediate audit of the transactions of the Municipality. Consequently, deficiencies/ errors as well as irregularities if there is any, can be detected immediately enabling the concerned municipal officials to take appropriate action without delay. This will also enable the Audit Team to prepare and submit the report required by stakeholders and government agencies as basis of their decision making.\n\nWe also recommended that the Municipal Accountant to make a representation to the LCE to request additional personnel to ensure the timely submission of accounts and financial reports to the Audit Team within the prescribed period.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2018-OBS14",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendation that the Local Chief Executive direct the Human Resource Management Officer to fill-up the vacant positions which are in vital in the delivery of the basic services by hiring qualified applicants or by promoting non-permanent personnel to permanent positions, which would lessen the need to hire contractual workers or job orders.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2018-OBS15",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive direct the concerned Municipal Officials to immediately utilize the amount of P25,114,830.31 for its intended specific purposes to ensure that the projects benefit its constituents. Otherwise, the funds must be returned to the source agency in order that it may be made available for other priority programs or projects of said government agencies.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2018-OBS16",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive direct the LSB to incorporate in the Municipality’s SEF budget the programs and activities intended for Early Childhood Care and Development.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "Rodriguez_Rizal-2018-OBS17",
+      "year": 2018,
+      "recommendation": "We recommended that the Local Chief Executive direct the:\n\na. Local School Board to adhere strictly with the pertinent provisions of RA 5447 and DepEd, DBM and DILG Joint Circular in the utilization of the SEF and include as top priority the improvement of educational facilities to maximize the purpose of the SEF and ensure the optimum benefits for the schools is achieved. Henceforth, prioritization of expenses chargeable to SEF must be strictly enforced;\n\nb. Municipal Budget Officer in coordination with the Local School Board to ensure the maximum and efficient utilization of the SEF for the priority programs and projects pertaining to the operations and maintenance of the public schools within the locality; and\n\nc. Municipal Budget Officer and the Municipal Accountant to stop charging to SEF expenditures not in conformity with the DepEd, DBM and DILG Joint Circular No. 01 s. 2017.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    }
+  ]
+}

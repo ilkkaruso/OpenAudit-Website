@@ -1,0 +1,1374 @@
+{
+  "lguCode": "1908710000",
+  "lguName": "Sultan Kudarat",
+  "province": "Maguindanao del Norte",
+  "region": "BARMM",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2022-PY4",
+      "year": 2022,
+      "recommendation": "We recommended that the Municipal Accountant should provide the depreciation on all depreciable assets and adhere to Philippine Application Guidance (PAG) Numbers 4, 5 and 6 of the Philippine Public Sector Accounting Standards (PPSAS) 17 - Property, Plant and Equipment (PPE).",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2022-PY6",
+      "year": 2022,
+      "recommendation": "We recommended the management to account its inventory under the Perpetual Inventory method in accordance to Section 114 of the New Government Accounting System for LGUs and to rectify its Notes to Financial Statement to reflect the use of Perpetual Inventory Method.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2022-PY7",
+      "year": 2022,
+      "recommendation": "We recommended the management to submit the copies of contract for the implementation of all its structural projects within five (5) working days from the execution of contract for review and inspection in accordance with Sections 3.1.1 and 3.1.2 of Commission on Audit (COA) Circular No. 2009-001 dated February 12, 2009.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2022-OBS1",
+      "year": 2022,
+      "recommendation": "1.5. We recommended that the LCE instruct the municipal accountant to:\na. Request the depository bank (LBP – Rosary Heights Branch, Cotabato City) to provide the agency with the copy of the BSs within five days after the end of the month, and request for electronic copies (snapshots) of transactions of bank accounts to facilitate preparation of monthly BRS; and\nb. Prepare and submit monthly BRS within the prescribed period to ensure the correct and accurate year-end balance of Cash in Bank account, pursuant to Section 3.2 of COA Circular No. 96-011 dated October 2, 1996.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2022-OBS2",
+      "year": 2022,
+      "recommendation": "2.7 Therefore, we recommended that the LCE direct:\na. The Inventory Committee to conduct yearly physical count of all PPEs owned by the LGU, pursuant to Section 156 of COA Circular No. 92-386 dated October 20, 1992 and Section 114 of MNGAS, for LGUs, Volume I.\nb. The Accounting Division and the General Services Division or the Designated Property and Supply Officer to maintain the PPELC and PC, respectively, and a periodic reconciliation be made to detect any discrepancies and appropriate adjustments in both records and reflected in the book of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2022-OBS3",
+      "year": 2022,
+      "recommendation": "3.5 We recommended that the LCE direct the Municipal Accountant to:\na. Record the transfer of the cost of completed projects booked as PPE under the Trust Fund to the General Fund and;\nb. Corresponding depreciation expenses shall then be provided in the books in accordance with PPSAS 17.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2022-OBS4",
+      "year": 2022,
+      "recommendation": "4.9 We recommended that the LCE instruct the Municipal Accountant to:\na. Account its inventory under the Perpetual Inventory method in accordance to Section 114 of the MNGAS for LGUs and;\nb. Rectify its Notes to Financial Statement to reflect the use of Perpetual Inventory Method.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2022-OBS5",
+      "year": 2022,
+      "recommendation": "5.6 In view of the foregoing lapses, we recommended and Management agreed to submit the copies of contract for the implementation of all its structural projects within five (5) working days from the execution of contract review and inspection in accordance with Sections 3.1.1 and 3.1.2 of COA Circular No. 2009-001 dated February 12, 2009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2022-OBS6",
+      "year": 2022,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2022-OBS7",
+      "year": 2022,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2022-OBS8",
+      "year": 2022,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2022-OBS9",
+      "year": 2022,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2022-OBS10",
+      "year": 2022,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2022-OBS11",
+      "year": 2022,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2022-PY1",
+      "year": 2022,
+      "recommendation": "a. Request the depository bank (Land Bank of the Philippines – Rosary Heights Branch, Cotabato City) to provide the agency with the copy of the bank statements within five days after the end of the month, and request for electronic copies (snapshots) of transactions of bank accounts to facilitate preparation of monthly BRS; and b. Prepare and submit monthly BRS within the prescribed period to ensure the correct and accurate year-end balance of Cash in Bank account, pursuant to Section 3.2 of Commission on Audit (COA) Circular No. 96-011 dated October 2, 1996.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2022-PY2",
+      "year": 2022,
+      "recommendation": "We recommended and the management agreed to strictly observe and implement its cash management system in order not to incur obligations without sufficient cash balances which may lead to unnecessary cost to the government such as payment of penalties, interests and surcharges.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2022-PY3",
+      "year": 2022,
+      "recommendation": "a. Inventory Committee should conduct yearly inventory of all PPEs owned by the Municipality pursuant to the provision of Section 4.3 of COA Circular No. 97-005 dated July 10, 1997. b. PPE ledger cards and Property Cards should be maintained by the Accounting Division and by the General Services Division, and a periodic reconciliation should be regularly made to detect any discrepancies and appropriate adjustments in both records should be recorded and reflected in the book of accounts.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2022-PY5",
+      "year": 2022,
+      "recommendation": "We recommended the management to direct all responsible persons to settle the Notice of Suspensions issued before maturing into disallowances, pursuant to Section 9.3 of Commission on Audit (COA) Circular No. 2009-006 dated September 15, 2009.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "We reiterated the following recommendations and the Management agreed to: a) Instruct the Inventory Committee to conduct the physical count of PPE by type and submit the complete and accurate RPCPPE to the Auditor not later than January 31 of each year, pursuant to Section 124 of the Manual on the New Government Accounting System (MNGAS), for Local Government Units (LGUs), Volume I. b) Require the Accountant and the GSO to prepare/maintain PPE ledger cards and property cards, respectively, investigate any discrepancy noted, reconcile balances with the Inventory Report, trace and account properties acquired in the vouchers and SL/GL, pursuant to Sections 114 and 120 of the Manual on the New Government Accounting System (MNGAS), for Local Government Units (LGUs), Volume I.",
+      "managementAction": "Management laid the plan for their inventory taking.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "No management action implement ed, hence their inventory taking reiterated"
+    },
+    {
+      "id": "SultanKudarat_Maguindanao_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "We recommended that the Municipal Accountant should provide the depreciation on all depreciable assets and adhere to Philippine Application Guidance (PAG) Numbers 4, 5 and 6 of the Philippine Public Sector Accounting Standards (PPSAS) 17 - Property, Plant and Equipment (PPE).",
+      "managementAction": "No management action. To be implemented as soon as the inventory-taking is completed.",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "To be implemented as soon as the inventory-taking is completed."
+    },
+    {
+      "id": "SultanKudaratProv_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed, moving forward, to enhance its current GAD\nplanning process by effectively managing its related dependencies through adopting\nmodalities to secure and maintain relevant and up-to-date data and information; and\nestablishing enabling structures and arrangements that are vital in enhancing coordination\nand collaboration efforts with other stakeholders and effective integration of RBM\nprinciples.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to strengthen the monitoring and\nevaluation processes of its GAD initiatives by institutionalizing enabling mechanisms and\narrangements that would allow for synergistic and dynamic participation of stakeholders\nand provide relevant and needed information vital to the informed decision-making.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to strengthen its cash controls through formally\ndocumented policies and procedures and effective communication in order to reinforce\naccountability for the complete, timely, and accurate reporting of cash transactions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to improve its current accounting\ncontrols and procedures concerning Loans Payable and its related Interest Expense,\nthrough reinforcing compliance with relevant accounting standards on fair recording,\nmeasurement, presentation and disclosure of loan items, by (a) instituting measures that will\nensure timely and appropriate recognition of loans; (b) maintaining reliable subsidiary\nledgers for each loan account and conducting periodical loan reconciliation that supports\ncomplete and reliable loan balances; (c) recognizing accrued interest expense at year-end\nin order to report the reasonably accurate balances of interest expenses for the year; and (d)\npresenting the current portion of loans in the financial position and disclosing in the notes,\nthe maturity dates of loans.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "We recommended and Management agreed to adopt measures to define and\nstrengthen correspondence and seamless flow of information between the Accounting and\nTreasury Offices and to reinforce proper custody and accountability of loan documents, all\nin support of the complete, timely, and accurate recording of Loans Payable account and its\nrelated Interest Expense account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_aar2021-PY14",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_aar2021-PY15",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "1.5. We recommended and the management agreed to:\na. Request the depository bank (Land Bank of the Philippines –\nRosary Heights Branch, Cotabato City) to provide the agency with\nthe copy of the bank statements within five days after the end of the\nmonth, and request for electronic copies (snapshots) of transactions\nof bank accounts to facilitate preparation of monthly BRS; and\nb. Prepare and submit monthly BRS within the prescribed period to\nensure the correct and accurate year-end balance of Cash in Bank\naccount, pursuant to Section 3.2 of Commission on Audit (COA)\nCircular No. 96-011 dated October 2, 1996.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "2.3 We recommended and the management agreed to strictly observe and\nimplement its cash management system in order not to incur\nobligations without sufficient cash balances which may lead to\nunnecessary cost to the government such as payment of penalties,\ninterests and surcharges.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "3.5 We recommended to the management the following:\na. Inventory Committee should conduct yearly inventory of all PPEs\nowned by the Municipality pursuant to the provision of Section 4.3\nof COA Circular No. 97-005 dated July 10, 1997.\nb. PPE ledger cards and Property Cards should be maintained by the\nAccounting Division and by the General Services Division, and a\nperiodic reconciliation should be regularly made to detect any\ndiscrepancies and appropriate adjustments in both records should\nbe recorded and reflected in the book of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "4.4 We recommended that the Municipal Accountant should provide the\ndepreciation on all depreciable assets and adhere to Philippine\nApplication Guidance (PAG) Numbers 4, 5 and 6 of the Philippine\nPublic Sector Accounting Standards (PPSAS) 17 - Property, Plant and\nEquipment (PPE).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "5.3 We recommended and the management agreed to direct all responsible\npersons to settle the Notice of Suspensions issued before maturing into\ndisallowances, pursuant to Section 9.3 of Commission on Audit (COA)\nCircular No. 2009-006 dated September 15, 2009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "6.9 We recommended and the management agreed to account its inventory\nunder the Perpetual Inventory method in accordance to Section 114 of\nthe New Government Accounting System for LGUs and to rectify its\nNotes to Financial Statement to reflect the use of Perpetual Inventory\nMethod.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "7.5 We recommended and the management agreed to submit the copies of\ncontract for the implementation of all its structural projects within five\n(5) working days from the execution for contract review and inspection\nin accordance with Sections 3.1.1 and 3.1.2 of Commission on Audit\n(COA) Circular No. 2009-001 dated February 12, 2009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao_aar2021-OBS8",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao_aar2021-OBS9",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao_aar2021-OBS10",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao_aar2021-OBS11",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao_aar2021-OBS12",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao_aar2021-OBS13",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao_aar2021-OBS14",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "We recommended the management to: a. Request the depository bank (Land Bank of the Philippines – Rosary Heights Branch, Cotabato City) to provide the agency with the copy of the bank statements within five days after the end of the month, and request for electronic copies (snapshots) of transactions of bank accounts to facilitate preparation of monthly BRS; and b. Prepare and submit monthly BRS within the prescribed period to ensure the correct and accurate year-end balance of Cash in Bank account, pursuant to Section 3.2 of Commission on Audit (COA) Circular No. 96-011 dated October 2, 1996.",
+      "managementAction": "a. The management requested the depository bank to provide the bank statements.\nb. Prepared the BRS and submitted to the Office of Auditor.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "We recommended that the management should direct all responsible persons to settle the Notice of Suspensions issued before maturing into disallowances, pursuant to Section 9.3 of Commission on Audit (COA) Circular No. 2009-006 dated September 15, 2009.",
+      "managementAction": "Notice of Suspensions issued were settled by the responsible person.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2020-PY2",
+      "year": 2020,
+      "recommendation": "We reiterated the following recommendations and the Management agreed to:\na) Instruct the Inventory Committee to conduct the physical count of PPE by type and submit the complete and accurate RPCPPE to the Auditor not later than January 31 of each year, pursuant to Section 124 of the Manual on the New Government Accounting System (MNGAS), for Local Government Units (LGUs), Volume I.\nb) Require the Accountant and the GSO to prepare/maintain PPE ledger cards and property cards, respectively, investigate any discrepancy noted, reconcile balances with the Inventory Report, trace and account properties acquired in the vouchers and SL/GL, pursuant to Sections 114 and 120 of the Manual on the New Government Accounting System (MNGAS), for Local Government Units (LGUs), Volume I.",
+      "managementAction": "A",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2020-OBS1",
+      "year": 2020,
+      "recommendation": "1.5. We recommended the management to:\na. Request the depository bank (Land Bank of the Philippines – Rosary Heights Branch, Cotabato City) to provide the agency with the copy of the bank statements within five days after the end of the month, and request for electronic copies (snapshots) of transactions of bank accounts to facilitate preparation of monthly BRS; and\nb. Prepare and submit monthly BRS within the prescribed period to ensure the correct and accurate year-end balance of Cash in Bank account, pursuant to Section 3.2 of Commission on Audit (COA) Circular No. 96-011 dated October 2, 1996.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2020-OBS2",
+      "year": 2020,
+      "recommendation": "2.4 We reiterated the following recommendations and the Management agreed to:\na)Instruct the Inventory Committee to conduct the physical count of PPE by type and submit the complete and accurate RPCPPE to the Auditor not later than January 31 of each year, pursuant to Section 124 of the Manual on the New Government Accounting System (MNGAS), for Local Government Units (LGUs), Volume I.\nb) Require the Accountant and the GSO to prepare/maintain PPE ledger cards and property cards, respectively, investigate any discrepancy noted, reconcile balances with the Inventory Report, trace and account properties acquired in the vouchers and Subsidiary Ledger/General Ledger, pursuant to Sections 114 and 120 of the Manual on the New Government Accounting System (MNGAS), for Local Government Units (LGUs), Volume I.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2020-OBS3",
+      "year": 2020,
+      "recommendation": "3.4 We recommended that the Municipal Accountant should provide the depreciation on all depreciable assets and adhere to Philippine Application Guidance (PAG) Numbers 4, 5 and 6 of the Philippine Public Sector Accounting Standards (PPSAS) 17 - Property, Plant and Equipment (PPE).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2020-OBS4",
+      "year": 2020,
+      "recommendation": "4.4. We recommended that the management should direct all responsible persons to settle the Notice of Suspensions issued before maturing into disallowances, pursuant to Section 9.3 of Commission on Audit (COA) Circular No. 2009-006 dated September 15, 2009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2020-OBS5",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2020-OBS6",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2020-OBS7",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2020-OBS9",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2020-OBS10",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2020-OBS11",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2020-OBS12",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2020-OBS3",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2020-PY1",
+      "year": 2020,
+      "recommendation": "We reiterated our recommendations and the Municipal Accountant agreed to:\na. Request the depository bank (Land Bank of the Philippines – Rosary Heights Branch, Cotabato City) to provide the agency with the copy of the bank statements within five days after the end of the month, and request for electronic copies (snapshots) of transactions of bank accounts to facilitate preparation of monthly BRS; and\nb. Prepare and submit monthly BRS within the prescribed period to ensure the correct and accurate year-end balance of Cash in Bank account pursuant to Section 3.2 of Commission On Audit (COA) Circular No. 96-011 dated October 2, 1996.",
+      "managementAction": "A",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2020-PY3",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant should provide the depreciation on all depreciable assets and adhere to Philippine Application Guidance (PAG) Numbers 4, 5 and 6 of the Philippine Public Sector Accounting Standards (PPSAS) 17 - Property, Plant and Equipment (PPE).",
+      "managementAction": "A",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2020-PY4",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant should include the above-mentioned disclosures in the Notes to Financial Statements, in accordance to paragraph 8 of the Philippine Public Sector Accounting Standards (PPSAS) 17 - Property, Plant and Equipment (PPE).",
+      "managementAction": "A",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2020-PY5",
+      "year": 2020,
+      "recommendation": "We recommended that the Municipal Accountant should make the necessary adjustments for the accounting and reporting of the LDRRM, pursuant to Section 5.1.10 of COA Circular No. 2012-002 dated September 12, 2012.",
+      "managementAction": "A",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2020-PY6",
+      "year": 2020,
+      "recommendation": "We recommended that the management should direct all responsible persons to settle the Notice of Suspensions issued before maturing into disallowances, pursuant to Section 9.3 of Commission On Audit (COA) Circular No. 2009-006 dated September 15, 2009.",
+      "managementAction": "A",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Maguindanao__SultanKudarat_Maguindanao-2020-PY7",
+      "year": 2020,
+      "recommendation": "We recommended and the management agreed to implement the 20% Development Fund by focusing on the three (3) development projects in the area of social, economic and environmental management, in accordance with DBM Joint Memorandum Circular No. 2017-1 dated February 22, 2017.",
+      "managementAction": "A",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommend to the management the following:\na. Management should direct the inventory team to conduct a regular physical inventory of its Property, Plant and Equipment, pursuant to the provision of Section 4.3 of COA Circular No. 97-005 dated July 10, 1997;\nb. A periodic reconciliation of the PPE ledger cards maintained by the accountant with that of the Property Cards maintained by the Supply Officer should be regularly made to promptly detect any discrepancies and appropriate adjustments in both records should be outrightly recorded and reflected in the book of accounts; and\nc. Management should comply strictly with the aforementioned provisions of PPSAS 17.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY31",
+      "year": 2019,
+      "recommendation": "We recommended that the Provincial Accountant should set up special account so that management may be adequately informed as to result of their operations.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Sultan Kudarat Provincial Hospital is not an economic enterprise of SKPG."
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2019-OBS1",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2019-OBS2",
+      "year": 2019,
+      "recommendation": "Recommendation:\n2.5. We reiterated our recommendations and the Municipal Accountant agreed to:\na. Request the depository bank (Land Bank of the Philippines – Rosary\nHeights Branch, Cotabato City) to provide the agency with the copy of the\nbank statements within five days after the end of the month, and request\nfor electronic copies (snapshots) of transactions of bank accounts to\nfacilitate preparation of monthly BRS; and\nb. Prepare and submit monthly BRS within the prescribed period to ensure\nthe correct and accurate year-end balance of Cash in Bank account,\npursuant to Section 3.2 of Commission on Audit (COA) Circular No. 96-\n011 dated October 2, 1996.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2019-OBS3",
+      "year": 2019,
+      "recommendation": "Recommendation:\n3.4 We reiterated the following recommendations and the Management agreed to:\na) Instruct the Inventory Committee to conduct the physical count of PPE by type\nand submit the complete and accurate RPCPPE to the Auditor not later than January\n31 of each year, pursuant to Section 124 of the Manual on the New Government\nAccounting System (MNGAS), for Local Government Units (LGUs), Volume I.\nb) Require the Accountant and the GSO to prepare/maintain PPE ledger cards\nand property cards, respectively, investigate any discrepancy noted, reconcile balances\nwith the Inventory Report, trace and account properties acquired in the vouchers and\nSubsidiary Ledger/General Ledger, pursuant to Sections 114 and 120 of the Manual on\nthe New Government Accounting System (MNGAS), for Local Government Units\n(LGUs), Volume I.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2019-OBS4",
+      "year": 2019,
+      "recommendation": "Recommendation:\n4.4 We recommended that the Municipal Accountant should provide the depreciation\non all depreciable assets and adhere to Philippine Application Guidance (PAG) Numbers\n4, 5 and 6 of the Philippine Public Sector Accounting Standards (PPSAS) 17 - Property,\nPlant and Equipment (PPE).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2019-OBS5",
+      "year": 2019,
+      "recommendation": "Recommendation:\n5.3 We recommended that the Municipal Accountant should include the above-\nmentioned disclosures in the Notes to Financial Statements, in accordance with\nparagraph 8 of the Philippine Public Sector Accounting Standards (PPSAS) 17 -\nProperty, Plant and Equipment (PPE).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2019-OBS6",
+      "year": 2019,
+      "recommendation": "Recommendation:\n6.3. We recommended and the Municipal Accountant agreed to make the necessary\nadjustments for the accounting and reporting of the LDRRM, pursuant to Section 5.1.10\nof COA Circular No. 2012-002 dated September 12, 2002. In addition, the following\nentries should be made to wit;\nGeneral Fund Books:\nGovernment Equity 2,943,470.00\nCash in Bank, LCCA 2,943,470.00\nTo record the transfer of unexpended DRRM-MOOE at the end of the period.\nTrust Fund Books:\nCash in Bank, LCCA 2,943,470.00\nTrust Liability – DRRM 2,943,470.00\nTo record the transfer of unexpended DRRM-MOOE at the end of the period.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2019-OBS7",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2019-OBS8",
+      "year": 2019,
+      "recommendation": "We also recommended that those Barangays which are highly populated be installed with additional MRFs\nconsidering the bulk of household wastes generated in those barangays, which the\nmanagement took positively.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2019-OBS9",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2019-OBS10",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2019-OBS11",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2019-OBS12",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2019-OBS13",
+      "year": 2019,
+      "recommendation": "Recommendation:\n13.4. We recommended that the management should direct all responsible persons to\nsettle the Notice of Suspensions issued before maturing into disallowances, pursuant to\nSection 9.3 of Commission on Audit (COA) Circular No. 2009-006 dated September 15,\n2009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2019-OBS14",
+      "year": 2019,
+      "recommendation": "Recommendation:\n15.4 We recommended and the management agreed to implement the 20%\nDevelopment Fund by focusing on the three (3) development projects in the area of\nsocial, economic and environmental management, in accordance with Department of\nthe Interior and Local Government (DILG)-Department of Budget and Management\n(DBM) Joint Memorandum Circular No. 2017-1 dated February 22, 2017",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-OBS1",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed that the LGUs of the province\ncollectively and individually have to ensure the effective and efficient delivery of LDRRM\nresponsibilities by enhancing the level of coordination through managing the challenges on\nthe dependencies that affect the essential management processes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-OBS2",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed that the LGUs of the province have to\nensure the effective and efficient execution of disaster responses through the establishment\nof appropriately contextualized disaster protocols.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-OBS3",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed to improve the quality of its local road\nnetwork development planning process by strengthening its risk management through\ncommitted participation of capacitated stakeholders and formalized documentation of the exercise.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-OBS4",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed to enhance the delivery of its local road\nnetwork development initiatives by ensuring integration of results-based management\nthrough establishment and maintenance of reliable and relevant data and information, and,\nas far as practicable, manpower adequacy and competence.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-OBS5",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed to ensure reliable and relevant\naccountability representations over local road network development initiatives through\nimproving its reporting practices by adopting mechanisms to strengthen and adequately\nbackstop the delivery of related responsibilities.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-OBS6",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed, moving forward, to enhance the delivery\nof its GAD initiatives by improving the dependencies of its gender mainstreaming through\nadequately capacitating, the GFPS, as well as the Focal Persons of the implementing\ndivisions or sectors, not only the on the technicalities of gender mainstreaming but also on\nthe themes of project management processes; establishing and maintaining relevant and\nup-to-date SDD; and revisiting and improving current project management processes taking\ninto context the principles of results-based management.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-OBS7",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed, with OPAC as lead, to ensure\ncompliance with existing guidelines pertaining to cash advances by sustaining and\nreinforcing its adopted mechanisms to exact accountabilities and settlements through the\ninstitution of enabling arrangements or courses of actions.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2019-PY1",
+      "year": 2019,
+      "recommendation": "We reiterated our recommendations that the Office of the Municipal Accountant to:\na. Request the depository bank (Land Bank of the Philippines – Rosary Heights Branch, Cotabato City) to provide the agency with the copy of the bank statements within five days after the end of the month, and request for electronic copies (snapshots) of transactions of bank accounts to facilitate preparation of monthly BRS; and\nb. Prepare and submit monthly BRS within the prescribed period to ensure the correct and accurate year-end balance of Cash in Bank account.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY1",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed to ensure that the dependencies of formally institutionalizing internal control in SKPG are managed by taking necessary and appropriate courses of action to formalize and strengthen the component processes of its crystalize its accountability policy, and build its organizational control awareness.",
+      "managementAction": "SKPG has established its IAS and is currently working to strengthen its risk management, formalize its accountability policy, and build the organization’s control awareness. Other related actions are also being undertaken by Management to fully comply with the recommendation.",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY2",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed, as far as practicable, to undertake actions to establish enabling structures and arrangements, provide and capacitate adequate manpower complement, and adopt modalities to secure and maintain relevant and up-to-date information that are vital in enhancing coordination efforts with other stakeholders and integration of cross-cutting themes and principles in its DRRM planning process.",
+      "managementAction": "This is considered as implemented as matters contained in the audit recommendation are integrated in the raised observations of this report.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY3",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed to adopt a development approach that focuses more on reducing disaster vulnerabilities than disaster response to reinforce resiliency and sustainability of DRRM initiatives.",
+      "managementAction": "This is considered as implemented as matters contained in the audit recommendation are integrated in the raised observations of this report.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY4",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed to strengthen the monitoring and evaluation processes of its DRRM initiatives by institutionalizing arrangements and mechanisms that will enable dynamic participation of stakeholders and provide relevant and needed information vital to decision-making.",
+      "managementAction": "This is considered as implemented as matters contained in the audit recommendation are integrated in the raised observations of this report.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY5",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed to improve its current 20% DF planning process by effectively managing the related dependencies of the exercise to advance coordination, cohesion, inclusion and integration in order to enhance the crafting and eventual delivery of development initiatives.",
+      "managementAction": "SKPG is updating its PPDFP for the plan period 2021-2027. Other actions are still being undertaken by Management to fully comply with the recommendation.",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY6",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed to institute appropriate arrangements and mechanisms that will effectively manage matters affecting implementation, and enhance aspects relating to monitoring and communication to pursue optimum delivery of 20% DF initiatives.",
+      "managementAction": "The organizational structure was revisited. Relatedly, various positions and divisions were recommended to be created. Due to resource constraints, only some positions were created and filled. Ten (10) Job Orders (Civil Engineers) were hired. Other actions are still being undertaken by Management to fully comply with the recommendation.",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY7",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed to establish necessary operating modalities that will effectively address concerns affecting the timeliness, accuracy and reliability of 20% DF reporting in order to reinforce accountability.",
+      "managementAction": "SKPG has reconstituted its Provincial Project Monitoring Committee per EO No. 2020-002 dated Jan. 5, 2020. Other actions are still being undertaken by Management to fully comply with the recommendation.",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY8",
+      "year": 2019,
+      "recommendation": "We recommended and Management agreed, moving forward, to enhance the delivery of its GAD initiatives by improving the dependencies of its gender mainstreaming through strengthening or capacitating its GFPS, establishing and maintaining relevant and up-to-date SDD, and refining the related management processes, especially planning.",
+      "managementAction": "This is considered as implemented as matters contained in the audit recommendation are integrated in the raised observations of this report.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY9",
+      "year": 2019,
+      "recommendation": "We recommended and Management, with PPDO and Office of the Administrator as leads, agreed to ensure that its direction statements are aligned with the envisioned thrusts of the national government and in conformance with the result-based management framework to enable a more effective and efficient management of results through an immediate revisit of committed personnel; and capacity building and establishment of formalized processes for the said purpose moving forward.",
+      "managementAction": "Actions are still being undertaken by Management to fully comply with the recommendation.",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY10",
+      "year": 2019,
+      "recommendation": "To fully achieve the benefits of risk management, we recommended and Management, with PPDO and Office of the Administrator as leads, agreed to improve its risk management practices through appropriate contextualization, formalized documentation, and involvement of offices and other stakeholders.",
+      "managementAction": "(See related management actions on Finding No. 1 of AAR 2018.)",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY11",
+      "year": 2019,
+      "recommendation": "We recommended and Management, with PPDO and Office of the Administrator as leads, agreed to enhance its current planning practices to ensure the crafting of inclusive, responsive and sustainable development initiatives through the establishment of mechanisms that warrants availability of relevant and up-to-date data and information; properly functioning structured processes; strengthened system, council or board of committed individuals; and the integration of RBM.",
+      "managementAction": "(See related management actions on Finding No. 5 of AAR 2018.)",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY12",
+      "year": 2019,
+      "recommendation": "We recommended and Management, with PPDO, PEO and Office of the Administrator as leads, agreed to ensure, as far as practicable, an optimum level of delivery of development initiatives through institution of mechanisms that exacts the performance of responsibilities and enhances the periodic monitoring of implementation.",
+      "managementAction": "(See related management actions on Finding No. 6 of AAR 2018.)",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY13",
+      "year": 2019,
+      "recommendation": "We recommended and Management, with Office of the Administrator, PAO, PBO and PTO as leads, agreed to enhance the accountability over representations by improving its current reporting practices through adoption of mechanisms that, as far as practicable, will address the issues on timeliness and reliability.",
+      "managementAction": "(See related management actions on Finding No. 7 of AAR 2018.)",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY14",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\na. direct the Provincial Assessor’s Office to prepare and submit to the Provincial Treasurer’s Office, on or before the thirty-first (31st) day of December each year, an assessment roll containing a list of all real properties have been newly assessed or reassessed and the values of such properties;\nb. require the Provincial Treasurer’s Office to furnish the Provincial Accounting Office of a duly certified list showing the amount due and collectible for the year at the beginning of the year for each respective taxpayers as basis to draw a Journal Entry Voucher (JEV) to record the debit to Real Property Tax Receivable/Special Education Tax Receivable and crediting to Deferred Real Property Tax Income/Deferred Special Education Tax Income; and\nc. take extra care in the recording of transactions affecting RPT/SET Receivables and Deferred RPT/SET income. The balances of the four (4) accounts should be reconciled and adjustments should be made to present fairly the financial statements.",
+      "managementAction": "The variance in the 2016 receivables against the reciprocal account is due to advance collection of taxes. The necessary adjustment was already prepared.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY15",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\na. address the Accounting Division/Unit to:\ni. Maintain subsidiary records for roads and road components for every road network;\nii. prepare a lapsing schedule for the computation of the depreciation for each component at the end of the year;\niii. the total road network system shall be disclosed in the Notes to the Financial Statements (Annex B);\niv. prepare the Report on the Physical Count of the Road Network System (Annex C);\nv. prepare the Local Road Network Ledger Card (Annex D); and\nvi. ensure the proper accounting of the repairs and maintenance of the roads;\nb. require the General Services Office to:\ni. maintain a Local Road Inventory and Road Map; and\nii. keep a complete Local Road Network Property Card for all roads and its components (Annex E); and,\nc. direct the Provincial Engineers Office to provide the accounting office and the general service office with the complete description and cost segregation of road components.",
+      "managementAction": "100% of the road asset networks of SKPG were booked as at reporting date. This is considered as implemented as matters contained in the audit recommendation are integrated in the raised observations of this report.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY16",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\na. require the Accounting Office to regularly perform the following:\ni. require certification on the face of the cash advance voucher that an official/employee has no previous unliquidated cash advance, as an added control;\nii. suspend salaries if the official/employee failed to liquidate the cash advance within the prescribed period; and\niii. prepare and submit a Monthly Status of Cash Advances to the Audit Team for monitoring purposes;\nb. on the unliquidated travel expenses, send within 10 days before the expiration of the 30 days after the return from travel & impose strictly the sanctions of withholding the salary upon failure to liquidate;\nc. desist from issuing clearance from money accountabilities to the concerned accountable officers who were about to retire or separate from the service until they have fully settled their money accountabilities; and\nd. on the part of the outstanding cash advances of accountable officers who were already separated from this office, exert extra effort to locate their whereabouts to send demand letters and secure necessary documents needed to support the request for write-off.",
+      "managementAction": "This is considered as implemented as matters contained in the audit recommendation are integrated in the raised observations of this report.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY17",
+      "year": 2019,
+      "recommendation": "We recommended that management send demand letters to the officers and employees whose cash advances remain unliquidated as of year-end for the proper recording of expenses in the books. For those personnel who already transferred to other agencies and/or separated but without clearance from the Province, send demand letters to their last known addresses and exhaust all possible actions to demand liquidations from them. Also, the LGU may request from the Commission on Audit for write-off of cash advances involving deceased personnel and those whose accounts have been dormant for years together with appropriate supporting documents including proof that extensive efforts have been exerted to demand liquidation thereof.",
+      "managementAction": "This is considered as implemented as matters contained in the audit recommendation are integrated in the raised observations of this report.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY18",
+      "year": 2019,
+      "recommendation": "We advised the management to adhere with the mandatory and reglementary period of submission of financial reports such as, but not limited to reports, journals, trial balance, statement of financial performance, statement of financial position, physical inventory report, etc pursuant to COA Circulars 95-006 and 2002-003, to ensure timely review and verification of accounts on the financial transactions of the agency.",
+      "managementAction": "Efforts were undertaken and measures were institutionalized to ensure compliance with the herein recommendation.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Delays still exist due to factors that are beyond the control of Management."
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY19",
+      "year": 2019,
+      "recommendation": "We recommend that the General Services Office maintains property records and see to it that such records are reconciled with the actual inventory count. Property and accounting records should be reconciled in accordance with the provisions of the Manual on Property and Supply Management in order to reflect the correct amount of Property, Plant and Equipment in the financial statements.",
+      "managementAction": "Actions are still being undertaken by Management to fully comply with the recommendation.",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY20",
+      "year": 2019,
+      "recommendation": "We recommended that Management require the Provincial Accountant to:\ni. give priority to the preparation of the bank reconciliation statement as this is a very important device in ascertaining the completeness and correctness of the cash account balance;\nii. better yet, enroll in the “we access program” of some banks thru their website to have an updated access (online) of the transaction summary in aid of reconciliation process; and\niii. coordinate with the Provincial Treasurer in conducting deeper investigation/verification and validation of the closed/dormant accounts which are still carried in the books.",
+      "managementAction": "Actions are still being undertaken by Management to fully comply with the recommendation.",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY21",
+      "year": 2019,
+      "recommendation": "We recommended that the provincial accountant review, analyze, validate and reconcile the dormant accounts with the related accounts in the financial statements. If the analysis/review of the accounts is not possible due to the absence of records and documents, the head of the agency should seek authority from the members of the Sangguniang Panalalawigan (SP) to write off the doubtful accounts. Once the legislative body approves, submit the listings of the doubtful accounts together with the SP Resolution to the COA and request authority for their write-off supported by a list of available records and extent of validation made on the accounts stating the reasons why the books of accounts/records, financial statements/schedules and supporting vouchers/documents cannot be located.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Full compliance with the recommendation was challenged by the availability of supporting documents pertaining to long outstanding amounts."
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY22",
+      "year": 2019,
+      "recommendation": "We reiterate our recommendation that the Provincial Accountant be required to provide depreciation expense to the depreciable assets and effect the necessary adjustment and correction in their books of accounts.",
+      "managementAction": "Actions are still being undertaken by Management to fully comply with the recommendation.",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY23",
+      "year": 2019,
+      "recommendation": "We recommend that Management:\na. adhere strictly with the rules and regulations in the granting, utilization and liquidation of cash advances under COA Circular No. 97-002 and other related issuances. To avoid adverse decision on the matter, require all accountable officers to immediately liquidate the cash advances, either by submission of liquidation documents or refund the full amount;\nb. require the Accountant to send Demand Letters to the officers & employees whose cash advances remain unliquidated as of year-end for the proper recording of expenses in the books; and\nc. enforce Section 9 of COA Circular 2012-004 on the suspension of salaries as well as the filing of criminal and administrative charges against erring employees if they fail to heed the demand for the settlement of their cash advances.",
+      "managementAction": "This is considered as implemented as matters contained in the audit recommendation are integrated in the raised observations of this report.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY24",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\na. take extra effort to demand the immediate liquidation of all outstanding cash advances from the concerned officials/employees pursuant to COA Circulars 97-002 and 2012-004;\nb. impose sanctions prescribed in the said Circulars for non-compliance thereof, such as withholding the salaries and other emoluments of the officials/employees who continuously disregard, fail or decline to comply with the demand, including filing appropriate charges against them;\nc. send demand letters to officials and employees who are no longer employed with the province to liquidate their cash advances and consider taking legal actions/remedy against them; and\nd. ensure strict compliance with COA Circulars 97-002 and 2012-004 on the grant, utilization and liquidation of cash advances, particularly the period within which to liquidate the same to avoid accumulation of huge cash advances.",
+      "managementAction": "This is considered as implemented as matters contained in the audit recommendation are integrated in the raised observations of this report.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY25",
+      "year": 2019,
+      "recommendation": "We recommended for the Provincial Accountant to take the following course of action:\na. validate and account for the details of the long outstanding unidentified Construction in Progress account totalling P507,554,381.93;\nb. coordinate closely with other concerned department heads particularly with the Provincial Engineers as to the specific details of the CIP accounts;\nc. maintain separate subsidiary ledgers or CIPLC (Construction in Progress Ledger Cards-Annex12 NGAs Manual Volume II) on per project basis and;\nd. ensure that in accounting for CIP only on-going and uncompleted projects are reflected.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Full compliance with the recommendation was limited due to the changes from the old accounting system to NGAs and, now, to IPSAS/PPSAS."
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY26",
+      "year": 2019,
+      "recommendation": "We recommended that The Provincial Accountant strictly comply with the policies and procedures provided by Section 124 of New Government Accounting System (NGAs) Volume I for LGU. Moreover, proper accounting should be observed and necessary adjustments should be made to reflect the correct amounts of the accounts affected.",
+      "managementAction": "Actions are still being undertaken by Management to fully comply with the recommendation.",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY27",
+      "year": 2019,
+      "recommendation": "We recommended that The Provincial Accountant adhere to NGAs for LGU for proper valuation of PPEs and present fairly the agency’s financial condition and performance. In order to address the non-recognition of depreciation of prior years, we recommend that the Provincial Accountant coordinate with the Committee on Inventory and make necessary adjusting entries to correct the balance of prior period accounts affected.",
+      "managementAction": "Actions are still being undertaken by Management to fully comply with the recommendation.",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY28",
+      "year": 2019,
+      "recommendation": "We recommended that Management:\na. create an Inventory Committee to undertake the conduct of annual physical count of the property, plant and equipment of the Province and reconcile the results of the inventory count with the property and accounting records;\nb. through the Provincial General Services Officer (PGSO), facilitate the preparation of the Inventory and Inspection Report of Unserviceable Property for those items identified and declared as unserviceable or obsolete and to furnish the Provincial Accountant a copy thereof as his basis in the preparation of reclassifying entries; and\nc. the Provincial Accountant and PGSO to reclassify properties below the P15,000.00 threshold to Semi-expendable accounts to reflect the true balances of accounts in the Financial Statements.",
+      "managementAction": "Actions are still being undertaken by Management to fully comply with the recommendation.",
+      "status": "ONGOING",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY29",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "This is considered as implemented as matters contained in the audit recommendation are integrated in the raised observations of this report.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY30",
+      "year": 2019,
+      "recommendation": "We recommended that Management direct the Provincial Accountant to adhere strictly to the provisions of COA Circular No. 97-002 dated February 10, 1997 in the granting utilization and liquidation of cash advances to prevent further accumulation thereof. Also, ensure that officers and employees with outstanding cash advances are not granted additional cash advances under the “No liquidation, No Cash Advance” policy.",
+      "managementAction": "This is considered as implemented as matters contained in the audit recommendation are integrated in the raised observations of this report.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY32",
+      "year": 2019,
+      "recommendation": "We recommended that Management should comply strictly with the laws, rules and regulations pertaining to cash advances in order to lessen the accumulation of the same. In case of refusal to settle said outstanding cash advances, institute administrative/criminal action against those concerned.",
+      "managementAction": "This is considered as implemented as matters contained in the audit recommendation are integrated in the raised observations of this report.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudaratProv_R12-2019-PY33",
+      "year": 2019,
+      "recommendation": "We recommended that Management require the immediate liquidation of outstanding cash advances. Observe existing rules and regulations on the grant, utilization and liquidation of cash advances. No cash advance should be granted for personal use. The Provincial Accountant should see to it that cash advance granted has the corresponding appropriation so as not to delay the liquidation thereof. He should follow-up the demand letters already issued by the Auditor. Likewise, the Provincial Treasurer should withhold/deduct bigger amounts from the salaries for payments of any money due such officials and employees with outstanding cash advances.",
+      "managementAction": "This is considered as implemented as matters contained in the audit recommendation are integrated in the raised observations of this report.",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2018-PY2",
+      "year": 2018,
+      "recommendation": "We recommend to the management the following: a. Management should direct the inventory team to conduct a regular physical inventory of its Property, Plant and Equipment, pursuant to the provision of Section 4.3 of COA Circular No. 97-005 dated July 10, 1997; b. A periodic reconciliation of the PPE ledger cards maintained by the accountant with that of the Property Cards maintained by the Supply Officer should be regularly made to promptly detect any discrepancies and appropriate adjustments in both records should be out rightly recorded and reflected in the book of accounts; c. Management should comply strictly with the aforementioned provisions of PPSAS 17.",
+      "managementAction": "Management laid the plan for their inventory taking hence reiterated",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2018-OBS1",
+      "year": 2018,
+      "recommendation": "We recommend the Office of the Municipal Accountant to:\na. Request the depository bank (Land Bank of the Philippines – Rosary Heights\nBranch, Cotabato City) to provide the agency with the copy of the bank\nstatements within five days after the end of the month, and request for\nelectronic copies (snapshots) of transactions of bank accounts to facilitate\npreparation of monthly BRS; and\nb. Prepare and submit monthly BRS within the prescribed period to ensure the\ncorrect and accurate year-end balance of Cash in Bank account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2018-OBS2",
+      "year": 2018,
+      "recommendation": "We reiterated the following recommendations to the Municipal Mayor:\na) Instruct the Inventory Committee to conduct the physical count of PPE by type and\nsubmit the complete and accurate RPCPPE to the Auditor not later than January 31 of each year.\nb) Require the Accountant and the GSO to prepare/maintain PPE ledger cards and\nproperty cards, respectively, investigate any discrepancy noted, reconcile balances with the\nInventory Report, trace and account properties acquired in the vouchers and SL/GL to obtain\nnecessary information or data needed and set-up the required depreciation; and\nc) Create an Appraisal Committee to evaluate and determine the current value of prior\nyears’ PPE acquisitions without available records.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2018-OBS3",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2018-OBS4",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2018-OBS5",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2018-OBS6",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2018-OBS7",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2018-PY1",
+      "year": 2018,
+      "recommendation": "The Management should instruct the Accountant to prepare and submit the Bank Reconciliation Statements (BRSs) as at Year End and on a monthly basis as provided under Section 3.2 of COA Circular No. 96-011 dated October 2, 1996 and Section 74 of Presidential Decree No. 1445.",
+      "managementAction": "Submitted the A BRS",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2018-PY3",
+      "year": 2018,
+      "recommendation": "We reiterated our recommendations that the Office of the Municipal Accountant to: a. Request the depository bank (Land Bank of the Philippines – Rosary Heights Branch, Cotabato City) to provide the agency with the copy of the bank statements within five days after the end of the month, and request for electronic copies (snapshots) of transactions of bank accounts to facilitate preparation of monthly BRS; and b. Prepare and submit monthly BRS within the prescribed period to ensure the correct and accurate year-end balance of Cash in Bank account.",
+      "managementAction": "Submitted the A BRS",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2018-PY4",
+      "year": 2018,
+      "recommendation": "We recommend that management should hit its GAD targets by fully utilizing the GAD budget.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2018-PY5",
+      "year": 2018,
+      "recommendation": "We recommend that the management should direct all responsible persons to settle the Notice of Suspensions issued before maturing into disallowances.",
+      "managementAction": "Settled the issued Notice of Suspension",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2017-PY1",
+      "year": 2017,
+      "recommendation": "The Management should instruct the Accountant to prepare and submit the Bank Reconciliation Statements (BRSs) as at Year End and on a monthly basis as provided under Section 3.2 of COA Circular No. 96-011 dated October 2, 1996\nand Section 74 of Presidential Decree No. 1445.",
+      "managementAction": "No action taken",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2017-PY2",
+      "year": 2017,
+      "recommendation": "We recommend to the management the following:\n\nManagement should direct the inventory team to conduct a regular physical inventory of its Property, Plant and Equipment, pursuant to the provision of Section 4.3 of COA Circular No. 97-005 dated July 10, 1997;\n\nA periodic reconciliation of the PPE ledger cards maintained by the accountant with that of the Property Cards maintained by the Supply Officer should be regularly made to promptly detect any discrepancies and appropriate adjustments in both records should be out rightly recorded and reflected in the book of accounts;\n\nManagement should comply strictly with the aforementioned provisions of PPSAS 17.",
+      "managementAction": "No action taken",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2017-OBS1",
+      "year": 2017,
+      "recommendation": "1.6.    We reiterated our recommendations that the Office of the Municipal Accountant to:\nRequest the depository bank (Land Bank of the Philippines – Rosary Heights Branch, Cotabato City) to provide the agency with the copy of the bank statements within five days after the end of the month, and request for electronic copies (snapshots) of transactions of bank accounts to facilitate preparation of monthly BRS; and\n\nPrepare and submit monthly BRS within the prescribed period to ensure the correct and accurate year-end balance of Cash in Bank account.\n\nNature of Fund | Account Number | Bank | Amount\nGeneral Fund | 2742-1026-56 | LBP – Rosary Heights | ₱          15,201,778.84\nSEF | 2742-1026-64 | LBP – Rosary Heights | 14,410,279.40\nTrust Fund | 2742-1048-02 | LBP – Rosary Heights | 14,743,684.71\nTOTAL | TOTAL | TOTAL | ₱        44.355.742.95",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2017-OBS2",
+      "year": 2017,
+      "recommendation": "2.6.    We recommend that the Local Chief Executive should direct the Inventory Committee to conduct yearly inventory of all PPEs owned by the Municipality pursuant to the provision of Section 4.3 of COA Circular No. 97-005 dated July 10, 1997, and PPE ledger cards should be maintained by the Accounting Division and General Services Division and a periodic reconciliation should be regularly made to detect any discrepancies and appropriate adjustments in both records should be recorded and reflected in the book of accounts.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2017-OBS3",
+      "year": 2017,
+      "recommendation": "We also recommend that management should hit its targets by fully utilizing the GAD budget.\n\nParticulars | Amount\nTotal Annual Appropriations | ₱234,566,000.00\nGAD-related programs | 11,728,300.00\nGAD budget | 5%\nExpended for GAD-related activities | 10,728,525.95\nAccomplishments | 91.47%",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2017-OBS4",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2017-OBS5",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2017-OBS6",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2017-OBS7",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2017-OBS8",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2017-OBS9",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2017-PY3",
+      "year": 2017,
+      "recommendation": "We recommend that management should direct all the responsible persons to settle the Notice of Suspensions issued before maturing into disallowances.",
+      "managementAction": "The Local Chief Executive directed the concerned individuals to settle the NS issued to them.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2017-PY4",
+      "year": 2017,
+      "recommendation": "We recommend that the Local Chief Executive should direct the Municipal Accountant to record all related transactions completely, properly classify related accounts, and fully disclose the LDRRMF in accordance with the stated accounting guidelines.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2016-PY7",
+      "year": 2016,
+      "recommendation": "We recommend that the Local Chief Executive to direct the Accountant to disclose fully in the Notes to Financial Statement the amount and details of the Local Disaster Risk Reduction and Management Fund as of every year-end reporting period and to adhere strictly with the provisions of related laws and regulations thereof.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2016-OBS1",
+      "year": 2016,
+      "recommendation": "19.\tWe have reiterated our prior year’s recommendation to comply with rules and regulations on cash management and accounting standards that -\n20.\ta)    The Accountant to prepare and submit the Bank Reconciliation Statements \t(BRS) as at   Year End and on a monthly basis, as provided under Section 74 of Presidential Decree No. 1445.\t.\n21.\tb)  For the Accountant to regularly prepare and submit the monthly Bank Reconciliation Statements (BRS) and submit the same to the Office of the Auditor within fifteen (15) days after the end of each month as prescribed under COA Circular No. 92-125 A dated March 4, 1992.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2016-OBS2",
+      "year": 2016,
+      "recommendation": "38.\tIn this regard, the accountant is advised to re-compute the annual depreciation and the accumulated depreciation of the PPEs using PPSAS 17, particularly Philippine Application Guidance (PAG 4, 5 and 6) and provide disclosures of the financial statements for each class of PPE recognized in the financial statements as enumerated above, in compliance with PPSAS 17. This is indispensable for the proper presentation and valuation of accounts in the Financial Statements as set forth in PPSAS No. 1.\n39.\tPPSAS No. 1 – Presentation of Financial Statements: Financial Statements (FS) shall present fairly the financial position, financial performance, and cash flows of an entity. Fair presentation requires the faithful presentation of the effects of transactions, other events, and conditions in accordance with the definition and other events, and recognition criteria for assets, liabilities, revenue and expenses set out in PPSAS.\n40.\tWe reiterated our prior year recommendations the following:\nManagement should direct the inventory committee to conduct a regular physical inventory of its Property, Plant and Equipment, pursuant to the provision of Section 4.3 of COA Circular No. 97-005 dated July 10, 1997;\nA periodic reconciliation of the PPE ledger cards maintained by the accountant with that of the Property Cards maintained by the Supply Officer should be regularly made to promptly detect any discrepancies and appropriate adjustments in both records should be out rightly recorded and reflected in the book of accounts;0000000\nManagement should comply strictly with the aforementioned provisions of PPSAS 17.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2016-OBS3",
+      "year": 2016,
+      "recommendation": "45.\tWe recommend that the management should direct all responsible persons to settle the Notice of Suspensions issued before maturing into disallowances.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2016-OBS4",
+      "year": 2016,
+      "recommendation": "53.\tWe commend the Municipality of Sultan Kudarat Management for the effort of paying all of their \tGSIS \tremittances totaling to P 5,620,058.24 during the year, in compliance with Section 14 of the revised IRR, RA 8291; Section 5 paragraph (c) of RA 8291 and Article 183, Chapter IV, Section 1 of PD 626 as amended, thus enabling its officials \tand employees in readily availing of the benefits and privileges offered by the Government Service Insurance System.  We also recommended that Management \tcontinue the practice of remitting their GSIS obligations on time, to avoid payment of penalties/surcharges either due to non-remittance or delayed remittance, pursuant to Section 3, Rule V of the amended Rules on Employees’ Compensation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2016-OBS5",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2016-OBS6",
+      "year": 2016,
+      "recommendation": "67.\tWe recommend that the Local Chief Executive should direct the Municipal Accountant to record all related transactions completely, properly classify related accounts, and fully disclose the LDRRMF in accordance with the stated accounting guidelines.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2016-OBS7",
+      "year": 2016,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2016-PY1",
+      "year": 2016,
+      "recommendation": "The Local Chief Executive (LCE) should direct all concerned officials to prioritize the conduct of physical inventory-taking of all property, plant and equipment in accordance with Section 156 of COA Circular No. 92-386 dated October 20, 1992.  The accountant should recognize the depreciation by making prior year adjustment on the equity account.",
+      "managementAction": "Inventory team has been created",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The inventory team created was not able to conduct physical inventory taking due to time constraint."
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2016-PY2",
+      "year": 2016,
+      "recommendation": "The accountant must cause the preparation of the bank reconciliation statements and submit the same with supporting documents as required under COA Circular No. 96-011 dated October 2, 1996.",
+      "managementAction": "The Local Chief Executive directed the Accountant to secure bank statements and prepare the bank reconciliation statement.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Bank reconciliation statement was prepared for the General Fund only."
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2016-PY3",
+      "year": 2016,
+      "recommendation": "The management should strictly adhere to the provisions of Section 20, Volume I of NGAS Manual for LGUs in order to ensure reliability of the balances of Real Property Tax Receivable and Special Education Tax Receivable accounts.",
+      "managementAction": "The Local Chief Executive directed the Municipal Treasurer to submit the required document.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2016-PY4",
+      "year": 2016,
+      "recommendation": "We reiterated our prior year recommendation that the Management instruct the Accountant to prepare and submit the Bank Reconciliation Statements (BRS) as at Year End and on a monthly basis as provided under Section 74 of Presidential Decree No. 1445.",
+      "managementAction": "The Local Chief Executive directed the Accountant to secure bank statements and prepare the bank reconciliation statement.",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "Bank reconciliation statement was prepared for the General Fund only."
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2016-PY5",
+      "year": 2016,
+      "recommendation": "We reiterated our prior year recommendation that the management should strictly adhere to the provisions of Section 20, Volume I of NGAS Manual in order to ensure reliability of the balances of Real Property Tax Receivable and Special Education Tax Receivable accounts.",
+      "managementAction": "The Local Chief Executive directed the Municipal Treasurer to submit the required document.",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "SultanKudarat_Maguindanao-2016-PY6",
+      "year": 2016,
+      "recommendation": "We reiterated our prior year recommendations the following:\n\nManagement should create an inventory team to conduct a regular physical inventory of its Property, Plant and Equipment, pursuant to the provision of Section 4.3 of COA Circular No. 97-005 dated July 10, 1997;\n\nA periodic reconciliation of the PPE ledger cards maintained by the accountant with that of the Property Cards maintained by the Supply Officer should be regularly made to promptly detect any discrepancies and appropriate adjustments in both records should be out rightly recorded and reflected in the book of accounts;\n\nManagement should comply strictly with the aforementioned provisions of PPSAS 17.",
+      "managementAction": "Inventory team has been created",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": "The inventory team created was not able to conduct physical inventory taking due to time constraint."
+    }
+  ]
+}

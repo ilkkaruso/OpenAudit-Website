@@ -1,0 +1,1886 @@
+{
+  "lguCode": "1903637000",
+  "lguName": "Amai Manabilang",
+  "province": "Lanao del Sur",
+  "region": "BARMM",
+  "scores": {
+    "total": 0,
+    "normalized": 0.0,
+    "maxStreak": 0,
+    "currentStreak": 0
+  },
+  "observations": [
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY4",
+      "year": 2022,
+      "recommendation": "4. The Accounting Office to disclose in the Notes to Financial Statements the necessary details for each class of PPE reported in the FS, including additions or disposals, its useful lives, and other necessary information to make the FS more comprehensible.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY9",
+      "year": 2022,
+      "recommendation": "9. Likewise, have the GSO keep an updated complete LRN Property Card for all roads and its components using the prescribed template; and",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY10",
+      "year": 2022,
+      "recommendation": "10. Finally, require the Municipal Engineer to provide the Accountant and the General Services Office with the complete description and cost segregation of road components for road projects.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY11",
+      "year": 2022,
+      "recommendation": "11. Initiate the keeping of separate updated subsidiary records for each transfer and for future transfers from NGAs, whether or not maintained in separate bank accounts;",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY12",
+      "year": 2022,
+      "recommendation": "12. Adjustments of necessary corresponding accounts such as liabilities, etc by the Accounting Office; and",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY13",
+      "year": 2022,
+      "recommendation": "13. The immediate submission to the Auditor’s Office of status report pertaining to the physical and financial accomplishment of the projects.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY14",
+      "year": 2022,
+      "recommendation": "14. We recommended that the Honorable Mayor instruct the concerned offices to faithfully and regularly submit the monthly pre-closing trial balance, together with SAAOB, necessary supporting schedules, to the Auditor’s Office not later than the 20th day after the end of the month for evaluation and monitoring purposes.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY19",
+      "year": 2022,
+      "recommendation": "19. We also recommended that the monthly Report on Sources and Utilization of LDRRM Funds, upon submission by the MDRRM Officer, be supported with documentation of the programs/projects/and activities undertaken such as but not limited to the following: photocopy of the LDRRMF Investment Plan, copies of approved resolution for the release and utilization of QRF and Special Trust Fund, during state of calamities, and photographs of projects/programs/activities undertaken during the month of report.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY22",
+      "year": 2022,
+      "recommendation": "22. The Accounting/Treasurer’s Office to submit the Bank Statements, Bank Reconciliation Statements and Deposit Slips to substantiate the claim of creation of a separate SEF account.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY24",
+      "year": 2022,
+      "recommendation": "24. Prepare a schedule of cancelled checks at the end of the month, attach the actual cancelled checks, and regularly submit the same along with the RCI to the Auditor’s Office.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY25",
+      "year": 2022,
+      "recommendation": "25. The Municipal Treasurer shall observe the stamping of “PAID”, with the prescribed size of 2’’ x 3’’, on all the disbursement vouchers and its supporting documents after payment is made.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY26",
+      "year": 2022,
+      "recommendation": "26. The number of check issued and the date of the actual payment shall be indicated on the face of each of the supporting documents to avert any attempt to use the same supporting documents in payment of future claims.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY27",
+      "year": 2022,
+      "recommendation": "27. The Accounting Office shall ensure that all paid DVs, including its supporting documents, pending submission to the Auditor’s Office are stamped “PAID”.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY30",
+      "year": 2022,
+      "recommendation": "30. Mandate the Accountant to religiously conform to the required disclosure of PPE in the financial statements pursuant to IPSAS 17.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY41",
+      "year": 2022,
+      "recommendation": "41. Prepare a schedule of cancelled/voided checks, if any, at the end of the month, and attach the same to the RCD to be submitted to the Auditor.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY46",
+      "year": 2022,
+      "recommendation": "46. Hence, we recommended that Honorable Mayor supervise the immediate submission of duly approved Municipal Solid Waste Management Plan 2019-2029; and",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY47",
+      "year": 2022,
+      "recommendation": "47. Direct the Board, if any, to review the same every two years or as the need arises for purposes of continuity and harmonizing the LGU’s projects/programs with the mandate of RA 9003.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-OBS1",
+      "year": 2022,
+      "recommendation": "1.10 Therefore, we recommended and Management agreed to mandate that:\na) The pictures of the supplies be taken upon its acceptance and\ninspection to affirm its delivery and receipt, and the same be\nattached as a supporting document for payment thereof;\nb) The recording of all purchased supplies and materials be coursed\nthrough its respective inventory accounts upon acceptance and\ninspection thereof;\nc) The issuance of all supplies and materials be supported with RIS;\nd) The (weekly) SSMI be prepared by the Municipal GSO based\nfrom the RISs;\ne) A JEV be prepared by the Municipal Accountant to record\nissued/expensed supplies based on the SSMI;\nf) The Stock Cards and Supplies Ledger Cards be completely\nmaintained by the Municipal GSO and the Municipal\nAccountant, respectively, by stock number, and the same be\nregularly reconciled; and\ng) The semestral RPCI be prepared based on the results of the\nthorough physical count of inventories and thereupon submitted\nto the Auditor’s Office not later than July 31 and January 31 of\neach year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-OBS2",
+      "year": 2022,
+      "recommendation": "2.8 Hence, we recommended and Management concurred that the Local\nChief Executive mandate:\na) The evaluation of composition of the Inventory Committee at the\nbeginning of the year, if warranted, replace and/or augment the\nmembers with active and trained personnel who can conduct the\nphysical count effectively;\nb) The Inventory Committee to prepare a PIP, to be approved by the\nLCE, which shall guide them in conducting and completing the\nannual physical count of all PPEs;\nc) The Inventory Committee to assign prescribed unique property\nnumbers on existing PPEs during the physical count and the\nMunicipal GSO to do the same on newly procured properties and\nequipment;\nd) The Inventory Committee to identify the actual condition of the\nproperties counted and include its status in the report;\ne) The Inventory committee to submit the RPCPPE within the\ndeadline set by the Commission to the Auditor’s Office not later\nthan January 31 of each year;\nf) The complete keeping, maintenance and regular reconciliation of\nthe property cards, and the PPELC with the results of the physical\ncount; and\ng) Lastly, pending the approval of the supplemental guidelines for\nCOA Circular 2022-004 dated May 31, 2022 on the increase in\ncapitalization threshold from 15,000.00 to 50,000.00 of tangible\nitems, we recommended that all existing equipment, especially\nthose below ₱50,000.00, be identified, immediately assigned with\nprescribed unique property numbers, and listed in a schedule, in\npreparation for reclassification once the supplemental guidelines\nis approved.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-OBS3",
+      "year": 2022,
+      "recommendation": "3.9 Therefore, we reiterated our prior year recommendations and\nManagement agreed to enjoin the department heads’ compliance with\nthe Circular and direct:\na) The Inventory Committee to conduct an extensive inventory of the\nroad network system under the LGU’s jurisdiction and prepare a\nreport thereon in accordance with templates provided in COA\nCircular No. 2015-008;\nb) The Municipal Engineer to provide the Municipal Accountant\nand the Municipal GSO with the complete description and cost\nsegregation of road components for road projects;\nc) The General Services Officer (GSO) to maintain a local road\ninventory, road map and keep a complete and updated Local\nRoad Network Property Card for all roads and its components;\nd) The Municipal Accountant to prepare/adjust the Journal Entry\nVoucher, as necessary, to record the beginning/adjusted balance\nof the local road network and its components in the general ledger\nand maintain the Local Road Network Ledger Cards and\nsubsidiary records for all roads and road components based on\nthe result of the physical count;\ne) The Municipal Accountant to prepare a monthly lapsing schedule\nfor computation of the depreciation at the end of each year; and\nf) The submission of the following to the Auditor’s Office at the end\nof the accounting period, preferably not later than January 31 of\neach year:\ni. Report on Local Road Network by the GSO;\nii. Report on the Physical Count of the Road Network System\nby the Inventory Committee; and\niii. Disclosure of Local Road Network System in the Notes to\nFinancial Statements by the Accounting Office.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-OBS4",
+      "year": 2022,
+      "recommendation": "4.8 Thus, we reiterated our previous recommendations that the Local\nChief Executive compel the:\na) LDRRMO to attach the required documents needed to support\nthe release of LDRRMF funds and to substantiate the monthly\nReport on Sources and Utilization of LDRRM Funds with\ndocumentation such as photos of the programs/projects/and\nactivities undertaken;\nb) The Inventory Committee to include in the physical count and in\nthe RPCPPE the composition of the DRRM equipment;\nc) The Accounting Office to prepare and maintain the subisidiary\nledgers and reconcile the same against the RPCPPE; and\nd) The on-time submission of the MONTHLY Report of Sources and\nUtilization of LDRRM to the Auditor’s Office on or before the 15th\nday of the ensuing month.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-OBS5",
+      "year": 2022,
+      "recommendation": "5.11 Thus, we reiterated our previous recommendations that the Local\nChief Executive direct:\na) The Municipal Accountant and the Municipal Treasurer to\nsubmit to the Auditor’s Office a schedule showing all the fund\ntransfers received by the Management as of date, and another\nschedule showing the breakdown of the CIP-Infrastructure\naccount;\nb) The Municipal Accountant to draw the necessary Journal Entry\nVouchers (JEVs) to establish the trust liability account based on\nthe submitted schedule to correct the ledgers;\nc) The Municipal Accountant to keep separate subsidiary records\nfor each existing fund transfer and for future fund transfers from\nsources agencies;\nd) The Municipal Accountant to submit the RCIs and RODs related\nto the fund transfers, together with its vouchers and supporting\ndocuments to the Auditor’s Office within ten (10) days from the\nend of the month;\ne) The MPDO to submit to the Auditor’s Office the list of all on-\ngoing and to be implemented PPAs, properly categorized whether\nunder the General or under the Trust Fund, at the beginning of\nthe year; and\nf) The Municipal Engineer and/or the MPDO to include in the\nmonthly monitoring report of PPAs the physical and financial\nstatus of projects funded through fund transfers.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-OBS6",
+      "year": 2022,
+      "recommendation": "6.5 Therefore, we recommended and Management concurred that the\nLocal Chief Executive direct:\na) The Municipal Treasurer to follow-up and promptly request from\nthe AGDB the release of bank statements of all accounts within\nfive (5) days at the end of the month; and\nb) Thereupon, furnish the same to the Municipal Accountant who\nshall prepare and submit the BRS, which shall be submitted to the\nAuditor’s Office on or before the 15th day of the ensuing month.\nThe Accountant should also see to it that prior to submission, the\nBRS, for each account under each fund, are all supported with\nbank statements.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-OBS7",
+      "year": 2022,
+      "recommendation": "7.4 Thus, we recommended and Management concurred that the Local\nChief Executive direct the Treasurer’s Office to submit the copies of\nthe RPT official receipts together with the RCDs and adopt the same\nfor the ensuing years.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-OBS8",
+      "year": 2022,
+      "recommendation": "8.4 Therefore, we recommended and Management concurred that the\nLocal Chief Executive mandate:\na) The HRMO to submit a complete listing of all the JOs hired by\nthe Management, by department, and with information on age\nand period of contract;\nb) All the JOs to submit their DTRs or certification of services\nrendered duly signed by the immediate supervisor,\nAccomplishment Reports duly approved and signed by the\nimmediate supervisor, and copies of contracts on which the\nStatements of Duties and Responsibilities to be attached to and as\nbasis for the preparation of payroll. Otherwise, payments thereof\nmaybe suspended or disallowed, if warranted.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-OBS9",
+      "year": 2022,
+      "recommendation": "9.6 Thus, we recommended and Management agreed that the Local Chief\nExecutive:\na) Compel the Municipal Accountant to immediately submit the\nfinancial transactions covering the period October to December\n2022 to the Auditor’s Office.\nb) Henceforth, compel the Municipal Treasurer to promptly submit\nall the financial reports to the Municipal Accountant, together\nwith the DVs and supporting documents, for recording in the\nbooks of accounts; and\nc) The Municipal Accountant, after recording the reports in the\nbooks of accounts, submit the same to the Auditor’s Office not\nlater the 10th day of the following month.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-OBS10",
+      "year": 2022,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-OBS11",
+      "year": 2022,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY1",
+      "year": 2022,
+      "recommendation": "1. The GSO and Accounting Office to trace the date of acquisition of the newly acquired/procured PPE and faithfully compute and record depreciation in the related property cards and ledgers, respectively;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY2",
+      "year": 2022,
+      "recommendation": "2. The Accounting Office to reassess the useful life of the PPE in accordance with DPWH Department Order No. 176, s. 2015 and NGAS Manual for LGUs;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY3",
+      "year": 2022,
+      "recommendation": "3. The Accounting Office to take up the necessary corresponding adjustments on affected accounts such as PPE asset, expense, and government equity account; and",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY5",
+      "year": 2022,
+      "recommendation": "5. Instruct the Inventory Committee to conduct immediately an extensive and thorough physical count of the road network system under the Municipality’s jurisdiction and prepare the reports thereon in accordance with templates provided in COA Circular 2015-008",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Not Implemented"
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY6",
+      "year": 2022,
+      "recommendation": "6. Require the Municipal Accountant to religiously update the subsidiary records for roads and road components for every road network based on the result of the physical count",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Not Implemented"
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY7",
+      "year": 2022,
+      "recommendation": "7. Further require the Municipal Accountant to prepare a lapsing schedule for computation of the depreciation at the end of each year",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Not Implemented"
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY8",
+      "year": 2022,
+      "recommendation": "8. Instruct the GSO to religiously maintain Local Road Inventory and Road Map",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Not Implemented"
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY15",
+      "year": 2022,
+      "recommendation": "15. Faithfully submit at the beginning of the year the list of all on-going PPAs and those to be implemented, with proper details as mentioned in COA Circular 2013-004; and",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY16",
+      "year": 2022,
+      "recommendation": "16. Henceforth, prepare and regularly submit the monthly monitoring report on the status of PPAs and quarterly report on the utilization of 20% Development Fund to the Auditor’s Office.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY17",
+      "year": 2022,
+      "recommendation": "17. The immediate submission of the Report on Sources and Utilization of LDRRM Funds for the months of October to December 2021",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Fully Implemented"
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY18",
+      "year": 2022,
+      "recommendation": "18. On-time preparation of the Report on Sources and Utilization of LDRRMF by the Local Accountant on a monthly basis, duly noted by the MDRRM Officer, and regular submission thereof to the Auditor’s Office on or before the 15th day after the end of each month.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY20",
+      "year": 2022,
+      "recommendation": "20. The Treasurer’s Office to faithfully deposit the SET collections in a separate depository account to prevent merging of funds with that of the General Fund",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Not Implemented"
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY21",
+      "year": 2022,
+      "recommendation": "21. The Treasurer’s Office to faithfully prepare separate reports of collections for the SET proceeds",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY23",
+      "year": 2022,
+      "recommendation": "23. Clearly stamp the word “Cancelled” on the face of the cancelled checks",
+      "managementAction": "and",
+      "status": "UNKNOWN",
+      "reason": "Not Implemented"
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY28",
+      "year": 2022,
+      "recommendation": "28. Mandate the Accountant and GSO to promptly and meticulously post the acquisition of PPE to the respective ledger cards and property cards upon receipt of the source documents and keep and maintain the same in accordance with the provisions of the Manual",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY29",
+      "year": 2022,
+      "recommendation": "29. Mandate the Inventory Committee to conduct an extensive annual detailed physical count of all PPEs as of a specific date and submit the RCPPE to the audit team not later than January 31, of each year; and",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY31",
+      "year": 2022,
+      "recommendation": "31. Direct the Accountant to record all regular procurements of supplies in their respective inventory accounts, record the same as expense when issuance thereof takes place, and maintain the appropriate ledgers;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY32",
+      "year": 2022,
+      "recommendation": "32. Direct the General Services Officer to religiously maintain the necessary inventory and supplies’ stock cards",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY33",
+      "year": 2022,
+      "recommendation": "33. Direct the two (2) offices to religiously reconcile records with ledgers in a regular basis",
+      "managementAction": "and",
+      "status": "UNKNOWN",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY34",
+      "year": 2022,
+      "recommendation": "34. Direct the Inventory Committee to validate the same by conducting a semestral physical count of inventory by items. Thereafter, prepare and submit the Report of Physical Count of Inventories (RCPI) to the audit team not later than July 31, and January 31 of each year for the first and second semesters, respectively.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY35",
+      "year": 2022,
+      "recommendation": "35. Immediately instruct the Accountant to prepare an amortization schedule of the outstanding loan and reconcile the same with the statement of accounts from the servicing bank and update the related accounting ledger to reflect the correct balance",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY36",
+      "year": 2022,
+      "recommendation": "36. Instruct the same to update and reconcile the accounting ledgers with the statement of accounts from GSIS, Pag-IBIG, PhilHealth and BIR to reflect correct balances of related liability accounts, and if there are discrepancies found, immediately make the necessary adjustments.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY37",
+      "year": 2022,
+      "recommendation": "37. Prepare the monthly C/RAAF at the end of each month, complete in accordance with the prescribed rules and regulations; and",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY38",
+      "year": 2022,
+      "recommendation": "38. Strictly submit the same to the audit team not later than the fifth (5th) day of the ensuing month.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY39",
+      "year": 2022,
+      "recommendation": "39. Completely attach all duplicate copies of all issued, and cancelled ORs to the RCD;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY40",
+      "year": 2022,
+      "recommendation": "40. Attach the validated deposit slips to the RCD as proof of deposit of collections",
+      "managementAction": "and",
+      "status": "UNKNOWN",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY42",
+      "year": 2022,
+      "recommendation": "42. Record the transactions on a daily basis and stop the practice of recording transactions based from the bank statements",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY43",
+      "year": 2022,
+      "recommendation": "43. Record the check issuances in a chronological order, including the cancelled ones;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY44",
+      "year": 2022,
+      "recommendation": "44. Completely report and include in the RCD all collections recorded in the cashbook",
+      "managementAction": "and",
+      "status": "UNKNOWN",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY45",
+      "year": 2022,
+      "recommendation": "45. The Treasurer religiously liquidate the cash advance within the prescribed period and in accordance with the rules and regulations provided by the Commission.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY48",
+      "year": 2022,
+      "recommendation": "48. Form its own Municipal Solid Waste Management Board",
+      "managementAction": "and",
+      "status": "UNKNOWN",
+      "reason": "Partially Implemented"
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY49",
+      "year": 2022,
+      "recommendation": "49. Comply with all applicable rules and regulations of Ecological Solid Waste Management Act of 2000 to ensure protection of public health and environment of its constituents.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY50",
+      "year": 2022,
+      "recommendation": "50. Instruct the keeping of an updated real property tax account register to the concerned officials",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Not Implemented"
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY51",
+      "year": 2022,
+      "recommendation": "51. Direct the municipal treasurer to prepare and submit the updated list of duly certified name of taxpayers and the amount due and collectible for the year to the accountant at the beginning of the year",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": "Not Implemented"
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY52",
+      "year": 2022,
+      "recommendation": "52. We, therefore, reiterated our previous year’s recommendation that the Honorable Mayor instruct the GAD Focal Person to furnish the Auditor a copy of the Accomplishment Report for GAD showing the programs, projects and activities undertaken during the year.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY53",
+      "year": 2022,
+      "recommendation": "53. We recommended that Management direct the BAC Secretariat and other concerned division officials to furnish the copies of the contracts and purchase orders to the Auditor within five (5) days after its perfection together with all its necessary supporting documents pursuant COA Circular No. 2009-001 dated February 12, 2009.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY54",
+      "year": 2022,
+      "recommendation": "54. We recommended that Management ensure that the Accountant prepare and submit to the Auditor monthly the BRS together with the original copies of the debit/credit memo pursuant to COA Circular No. 96-011 dated October 2, 1996 for timely verification of the cash in bank account.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY55",
+      "year": 2022,
+      "recommendation": "55. Require the Municipal Treasurer to submit the Report of Disbursements (ROD) pertaining to their cash advances together with all the supporting liquidating instruments every 5th day of the ensuing month pursuant to Section 46 and Annex 46 of the NGAS for LGUs.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LdS-2022-PY56",
+      "year": 2022,
+      "recommendation": "56.Create and Inventory Committee to conduct the physical count and required the Municipal Accountant and the General Service Officer to update their ledger cards and stock cards and make the necessary reconciliation thereof",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY2",
+      "year": 2021,
+      "recommendation": "2) Require the Municipal Accountant to religiously update the subsidiary records for roads and road components for every road network based on the result of the physical count;",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY6",
+      "year": 2021,
+      "recommendation": "6) Finally, require the Municipal Engineer to provide the Accountant and the GSO with the complete description.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY10",
+      "year": 2021,
+      "recommendation": "10)Mandate the Accountant to religiously conform to the required disclosure of PPE in the financial statements pursuant to IPSAS 17.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY33",
+      "year": 2021,
+      "recommendation": "33)Completely attach all duplicate copies of all ORs and cancelled ORs to the RCD;",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY34",
+      "year": 2021,
+      "recommendation": "34)Attach the validated deposit slips to the RCD as proof of deposit of collections; and",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY35",
+      "year": 2021,
+      "recommendation": "35)Prepare a schedule of cancelled/voided checks, if any, at the end of the month, and attach the same to the RCD to be submitted to the Auditor.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY43",
+      "year": 2021,
+      "recommendation": "43) Hence, we recommended that the Mayor supervise the immediate submission of duly approved Municipal Solid Waste Management Plan 2019-2029; and",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY44",
+      "year": 2021,
+      "recommendation": "44)Direct the Board, if any, to review the same every two years or as the need arises for the purposes continuity and harmonizing the LGU’s projects/programs with the mandate of RA 9003.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY48",
+      "year": 2021,
+      "recommendation": "48) Instruct the keeping of an updated real property tax account register to the concerned officials;",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY49",
+      "year": 2021,
+      "recommendation": "49) Direct the municipal treasurer to prepare and submit the updated list of duly certified name of taxpayers and the amount due and collectible for the year to the accountant at the beginning of the year;",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-OBS1",
+      "year": 2021,
+      "recommendation": "1.12 Hence, we strongly recommended that the Honorable Mayor direct:\na) The GSO and Accounting Office to trace the date of acquisition\nof the newly acquired/procured PPE and faithfully compute and\nrecord depreciation in the related property cards and ledgers,\nrespectively;\nb) The Accounting Office to reassess the useful life of the PPE in\naccordance with DPWH Department Order No. 176, s. 2015 and\nNGAS Manual for LGUs;\nc) The Accounting Office to take up the necessary corresponding\nadjustments on affected accounts such as PPE asset, expense, and\ngovernment equity account; and\nd) The Accounting Office to disclose in the Notes to FS the\nnecessary details for each class of PPE reported in the FS,\nincluding additions or disposals, its useful lives, and other\nnecessary information to make the FS more comprehensible.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-OBS2",
+      "year": 2021,
+      "recommendation": "2.7 Therefore, we strongly recommended that the Honorable Mayor:\na) Instruct the Inventory Committee to conduct immediately an\nextensive and thorough physical count of the road network\nsystem under the Municipality’s jurisdiction and prepare the reports\nthereon in accordance with templates provided in COA Circular\n2015-008;\nb) Require the Municipal Accountant to religiously update the\nsubsidiary records for roads and road components for every road\nnetwork based on the result of the physical count;\nc) Further require the Municipal Accountant to prepare a lapsing\nschedule for computation of the depreciation at the end of each\nyear;\nd) Instruct the GSO to religiously maintain Local Road Inventory\nand Road Map;\ne) Likewise, have the GSO keep an updated complete LRN Property\nCard for all roads and its components using the prescribed\ntemplate; and\nf) Finally, require the Municipal Engineer to provide the\nAccountant and the GSO with the complete description and cost\nsegregation of road components for road projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-OBS3",
+      "year": 2021,
+      "recommendation": "3.4 In view of the foregoing deficiencies, we strongly recommended that the\nLCE instruct the following:\na) Initiate the keeping of separate updated subsidiary records for\neach transfer and for future transfers from NGAs, whether or not\nmaintained in separate bank accounts;\nb) Adjustments of necessary corresponding accounts such as\nliabilities, etc by the Accounting Office; and\nc) The immediate submission to the Auditor’s Office of status report\npertaining to the physical and financial accomplishment of the\nprojects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-OBS4",
+      "year": 2021,
+      "recommendation": "4.4 Thus, we recommended that the Honorable Mayor compel the BAC\nSecretariat to regularly furnish the Auditor’s Office with copies of the\nPOs, together with its supporting documents, within five (5) days upon\nperfection thereof, for evaluation.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-OBS5",
+      "year": 2021,
+      "recommendation": "5.4 Hence, we recommended that the Honorable Mayor instruct the\nconcerned offices to faithfully and regularly submit the monthly pre-\nclosing trial balance, together with SAAOB, and necessary supporting\nschedules, to the Auditor’s Office not later than the 20th day after the\nend of the month for evaluation and monitoring purposes.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-OBS6",
+      "year": 2021,
+      "recommendation": "6.7 In view thereof, we recommended that the LCE instruct the MPDO to:\na) Faithfully submit at the beginning of the year the list of all on-\ngoing PPAs and those to be implemented, with proper details as\nmentioned in COA Circular 2013-004; and\nb) Henceforth, prepare and regularly submit the monthly\nmonitoring report on the status of PPAs and quarterly report on\nthe utilization of 20% Development Fund to the Auditor’s Office.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-OBS7",
+      "year": 2021,
+      "recommendation": "7.3 Hence, we recommended that the Honorable Mayor instruct:\na) The immediate submission of the Report on Sources and\nUtilization of LDRRM Funds for the months of October to\nDecember 2021;\nb) On-time preparation of the Report on Sources and Utilization of\nund LDRRMF by the Local Accountant on a monthly basis, duly\nnoted by the MDRRM Officer, and regular submission thereof to\nthe Auditor’s Office on or before the 15th day after the end of each\nmonth.\nc) We also recommended that the monthly Report on Sources and\nUtilization of LDRRM Funds, upon submission by the MDRRM\nOfficer, be supported with documentation of the\nprograms/projects/and activities undertaken such as but not\nlimited to the following: photocopy of the LDRRMF Investment\nPlan, copies of approved resolution for the release and utilization\nof QRF and Special Trust Fund, during state of calamities, and\nphotographs of projects/programs/activities undertaken during\nthe month of report.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-OBS8",
+      "year": 2021,
+      "recommendation": "8.6 In view thereof, we recommended that the LCE instruct GAD Focal\nPerson to:\na) Prepare the GAD Accomplishment Report CY 2021 based on the\nformat prescribed in PCW-NEDA-DBM Joint Circular No. 2012-\n01 and submit the same to the Auditor’s Office immediately; and\nb) Henceforth, faithfully adhere to the timely submission of the GAD\nAR, together with the GAD Plan and Budget, within five (5)\nworking days from the end of January of the preceding year.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-OBS9",
+      "year": 2021,
+      "recommendation": "9.6 Therefore, were recommend that the Honorable Mayor mandate:\na) The Treasurer’s Office to faithfully deposit the SET collections\nin a separate depository account to prevent merging of funds\nwith that of the General Fund;\nb) The Treasurer’s Office to faithfully prepare separate reports of\ncollections for the SET proceeds;\nc) The Accounting/Treasurer’s Office to submit the Bank\nStatements, Bank Reconciliation Statements and Deposit Slips\nto substantiate the claim of creation of a separate SEF account.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-OBS10",
+      "year": 2021,
+      "recommendation": "10.4 We recommended and the Honorable Mayor concurred to enjoin the\nOffice of the Treasurer to:\na) Clearly stamp the word “Cancelled” on the face of the cancelled\nchecks; and\nb) Prepare a schedule of cancelled checks at the end of the month,\nattach the actual cancelled checks, and regularly submit the same\nalong with the RCI to the Auditor’s Office.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-OBS11",
+      "year": 2021,
+      "recommendation": "11.5 We recommended and Management concurred that:\na) The Municipal Treasurer shall observe the stamping of “PAID”,\nwith the prescribed size of 2’’ x 3’’, on all the DVs and its\nsupporting documents after payment is made.\nb) The number of check issued and the date of the actual payment\nshall be indicated on the face of each of the supporting documents\nto avert any attempt to use the same supporting documents in\npayment of future claims.\nc) The Accounting Office shall ensure that all paid DVs, including\nits supporting documents, pending submission to the Auditor’s\nOffice are stamped “PAID”.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-OBS12",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-OBS13",
+      "year": 2021,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY1",
+      "year": 2021,
+      "recommendation": "1) Instruct the Inventory Committee to conduct immediately an extensive inventory of the road network system under the Municipality’s jurisdiction and prepare a report thereon;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY3",
+      "year": 2021,
+      "recommendation": "3) Further require the Municipal Accountant to prepare a lapsing schedule for computation of the depreciation at the end of each year;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY4",
+      "year": 2021,
+      "recommendation": "4) Instruct the GSO/Supply Officer to religiously maintain Local Road Inventory and Road Map;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY5",
+      "year": 2021,
+      "recommendation": "5) Likewise, have the GSO/ Supply Officer keep an updated complete Local Road Network Property Card for all roads and its components and make a reconciliation with that of the Accounting records; and",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY7",
+      "year": 2021,
+      "recommendation": "7) Mandate the Accountant and GSO to promptly and meticulously post the acquisition of PPE to the respective ledger cards and property cards upon receipt of the source documents and keep and maintain the same in accordance with the provisions of the Manual;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY8",
+      "year": 2021,
+      "recommendation": "8) Mandate the GSO to retain and keep copies of the Acceptance and Inspection Report (AIR), Property Acknowledgment Receipt (PAR) and Acknowledgment Receipt for Equipment (ARE) as prescribed in support of the PPE Cards;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY9",
+      "year": 2021,
+      "recommendation": "9) Mandate the Inventory Committee to conduct an extensive annual detailed physical count of all PPEs as of a specific date and submit the RPCPPE to the audit team not later than January 31, of each year; and",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY11",
+      "year": 2021,
+      "recommendation": "11) The LCE shall cause the immediate submission of both the approved supplemental budget and supplemental AIP to the audit team to facilitate assessment on the validity and propriety of PPAs implemented.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY12",
+      "year": 2021,
+      "recommendation": "12)To submit certified true copies of certifications of posting requirements by the BAC Secretariat relative to the BGCM PPA procurements;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY13",
+      "year": 2021,
+      "recommendation": "13)To immediately submit the required monthly reports on the BGCM fund utilization and status of implementation of PPAs pursuant to LBC 125;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY14",
+      "year": 2021,
+      "recommendation": "14)Though late, still post the accumulated reports on the LGU’s website or Facebook page for general transparency; and",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY15",
+      "year": 2021,
+      "recommendation": "15)Finally, furnish the audit team a copy of the written notice when posting has been complied.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY16",
+      "year": 2021,
+      "recommendation": "16)Direct the Accountant to record all regular procurements of supplies in their respective inventory accounts, record the same as inventory when issuance thereof takes place, and maintain the appropriate ledgers;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY17",
+      "year": 2021,
+      "recommendation": "17)Direct the GSO to religiously maintain the necessary inventory and supplies’ stock cards;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY18",
+      "year": 2021,
+      "recommendation": "18)Direct the two (2) offices to religiously reconcile records with ledgers in a regular basis; and",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY19",
+      "year": 2021,
+      "recommendation": "19)Direct the Inventory Committee to validate the same by conducting a semestral physical count of inventory by items. Thereafter, prepare and submit the Report of Physical Count of Inventories (RPCI) to the audit team not later than July 31, and January 31 of each year for the first and second semesters, respectively.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY20",
+      "year": 2021,
+      "recommendation": "20)Immediately instruct the Accountant to prepare an amortization schedule of the outstanding loan and reconcile the same with the statement of accounts from the servicing bank and update the related accounting ledger to reflect the correct balance;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY21",
+      "year": 2021,
+      "recommendation": "21)Reclassify the portion of the loan not payable within 12 months from the reporting date form current into non-current liability;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY22",
+      "year": 2021,
+      "recommendation": "22)Instruct the same to update and reconcile the accounting ledgers with the statement of accounts from GSIS, Pag-IBIG, PhilHealth and BIR to reflect correct balances of related liability accounts, and if there are discrepancies found, immediately make the necessary adjustments; and",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY23",
+      "year": 2021,
+      "recommendation": "23)Henceforth, maintain and keep the necessary accounting ledgers updated to make information available as of any specific date, pursuant to Section 111 of P.D. No. 1445.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY24",
+      "year": 2021,
+      "recommendation": "24)Cause the immediate submission of the copy of the approved Local Sanggunian Resolution on the release and utilization of the QRF to the audit team;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY25",
+      "year": 2021,
+      "recommendation": "25)Continue the religious keeping, maintaining, and updating of the three (3) RAAOs in accordance with the rules of the Commission;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY26",
+      "year": 2021,
+      "recommendation": "26)Instruct the religious and regular submission of the report on sourced and utilization not later than the 15th day after each month;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY27",
+      "year": 2021,
+      "recommendation": "27)Instruct the Inventory Committee and the LDRRMO to immediately do an extensive physical count of all the equipment under the MDRRMO to update the ledgers on new PPEs purchased or acquired thru donation; and",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY28",
+      "year": 2021,
+      "recommendation": "28)Instruct the Accountant to draw appropriate journal entries to record or adjust the ledgers for any discrepancies resulting from the physical count.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY29",
+      "year": 2021,
+      "recommendation": "29)The Treasurer keep a permanent record book to keep track of the receipt and issuances of accountable forms, and update the same as needed;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY30",
+      "year": 2021,
+      "recommendation": "30)The Treasurer conduct a regular month-end inventory of the accountable forms, both with and without money value, to verify existence, and reconcile the same with the permanent record book;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY31",
+      "year": 2021,
+      "recommendation": "31)Prepare the monthly C/RAAF at the end of each month, complete and in accordance with the prescribed rules and regulations; and",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY32",
+      "year": 2021,
+      "recommendation": "32)Faithfully submit the same to the audit team not later than the fifth (5th) day of the ensuing month.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY36",
+      "year": 2021,
+      "recommendation": "36)Record the transactions on a daily basis and stop the practice of recording transactions based from the bank statements;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY37",
+      "year": 2021,
+      "recommendation": "37)Record the check issuances in chronological order, including the cancelled ones;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY38",
+      "year": 2021,
+      "recommendation": "38)Completely report and include in the RCD all collections recorded in the cashbook; and",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY39",
+      "year": 2021,
+      "recommendation": "39)Finally, religiously follow and record all the transactions in the respective cashbooks in accordance with the Manual on NGAS for LGUs.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY40",
+      "year": 2021,
+      "recommendation": "40)The Accountant faithfully inspect and review records whether the previous cash advances have been liquidated and properly accounted for prior to the granting of the succeeding cash advance;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY41",
+      "year": 2021,
+      "recommendation": "41)The Accountant, after verification that are no cash advances pending liquidation, issue a certification thereof prior to the granting of succeeding cash advance; and",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY42",
+      "year": 2021,
+      "recommendation": "42)The Treasurer religiously liquidate the cash advance within the prescribed period and in accordance with the rules and regulations provided by the Commission.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY45",
+      "year": 2021,
+      "recommendation": "45)Form its own Municipal Solid Waste Management Board; and",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY46",
+      "year": 2021,
+      "recommendation": "46)Comply with all applicable rules and regulations of Ecological Solid Waste Management Act of 2000 to ensure protection of public health and environment of its constituents.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY47",
+      "year": 2021,
+      "recommendation": "47)We also recommended that Management direct the Municipal Accountant in coordination with the MDRRMO to prepare and submit the monthly Report on Sources and Utilization of DRRMF in compliance with the above quoted rules.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY50",
+      "year": 2021,
+      "recommendation": "50)We, therefore, reiterated our previous year’s recommendation that the Honorable Mayor instruct the GAD Focal Person to furnish the Auditor a copy of the Accomplishment Report for GAD showing the programs, projects and activities undertaken during the year.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY51",
+      "year": 2021,
+      "recommendation": "51)We recommended that Management direct the BAC Secretariat and other concerned division officials to furnish the copies of the contracts and purchase orders to the Auditor within five (5) days after its perfection together with all its necessary supporting documents pursuant COA Circular No. 2009-001 dated February 12, 2009.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY52",
+      "year": 2021,
+      "recommendation": "52)We recommended that Management ensure that the Accountant prepare and submit to the Auditor monthly the BRS together with the original copies of debit/credit memo pursuant to COA Circular No. 96-011 dated October 2, 1996 for timely verification of the cash in bank account.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY53",
+      "year": 2021,
+      "recommendation": "53) Require the Municipal Treasurer to submit the RD pertaining to their cash advances together with all the supporting liquidating instruments every 5th day of the ensuing month pursuant to Section 46 and Annex 46 of the NGAS for LGUs.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LdS_aar2021-PY54",
+      "year": 2021,
+      "recommendation": "54)Create and Inventory Committee to conduct the physical count and required the Municipal Accountant and the GSO to update their ledger cards and stock cards and make the necessary reconciliation thereof in violation of section 124 of the NGAS and item 4.3 of COA Circular 2016-004 dated September 30, 2016.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY2",
+      "year": 2020,
+      "recommendation": "2. Require the Municipal Accountant to update the local roads network accounts based on the result of the physical count; and",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY3",
+      "year": 2020,
+      "recommendation": "3. Require the Municipal Engineer to provide the Accountant and the General Services Office with the complete description and cost segregation of road components for road projects.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY6",
+      "year": 2020,
+      "recommendation": "6. Hence, we recommended that the Honorable Mayor supervise the immediate submission of the duly approved Municipal Solid Waste Management Plan 2019-2019; and",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY7",
+      "year": 2020,
+      "recommendation": "7. Direct the Board, if any, to review the same every two years or as the need arises for purposes continuity and harmonizing the LGU’s projects/programs with the mandate of RA 9003.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY17",
+      "year": 2020,
+      "recommendation": "17. Instruct the keeping of an updated real property tax account register to the concerned officials;",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY18",
+      "year": 2020,
+      "recommendation": "18. Direct the municipal treasurer to prepare and submit the updated list of duly certified name of taxpayers and the amount due and collectible for the year to the accountant at the beginning of the year; and",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-OBS1",
+      "year": 2020,
+      "recommendation": "1.6 Therefore, we highly reiterated our previous year’s recommendation\nthat the Local Chief Executive (LCE):\na) Instruct the Inventory Committee to conduct immediately an\nextensive inventory of the road network system under the\nMunicipality’s jurisdiction and prepare a report thereon;\nb) Require the Municipal Accountant to religiously update the\nsubsidiary records for roads and road components for every road\nnetwork based on the result of the physical count;\nc) Further require the Municipal Accountant to prepare a lapsing\nschedule for computation of the depreciation at the end of each\nyear;\nd) Instruct the General Services Officer (GSO) to religiously\nmaintain Local Road Inventory and Road Map;\ne) Likewise, have the GSO keep an updated complete Local Road\nNetwork Property Card for all roads and its components; and\nf) Finally, require the Municipal Engineer to provide the\nAccountant and the General Services Office with the complete\ndescription and cost segregation of road components for road\nprojects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-OBS2",
+      "year": 2020,
+      "recommendation": "2.10 In view of the foregoing, we recommended that the Local Chief\nExecutive (LCE), strictly:\na) Mandate the Accountant and GSO to promptly and meticulously\npost the acquisition of PPE to the respective ledger cards and\nproperty cards upon receipt of the source documents and keep\nand maintain the same in accordance with the provisions of the\nManual;\nb) Mandate the GSO to retain and keep copies of the AIR, PAR, and\nARE as prescribed in support of the PPE Cards;\nc) Mandate the Inventory Committee to conduct an extensive annual\ndetailed physical count of all PPEs as of a specific date and submit\nthe RPCPPE to the audit team not later than January 31, of each\nyear; and\nd) Mandate the Accountant to religiously conform to the required\ndisclosure of PPE in the financial statements pursuant to IPSAS\n17.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-OBS3",
+      "year": 2020,
+      "recommendation": "3.6 Hence, we recommended that the Local Chief Executive (LCE) cause\nthe immediate submission of both the approved supplemental budget\nand supplemental AIP to the audit team to facilitate assessment on the\nvalidity and appropriateness of PPAs implemented.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-OBS4",
+      "year": 2020,
+      "recommendation": "4.5 In view of the noted deficiencies, we highly recommended that the Local\nChief Executive direct the Local Finance Committee:\na) To submit certified true copies of certifications of posting\nrequirements by the BAC Secretariat relative to the BGCM PPA\nprocurements;\nb) To immediately submit the required monthly reports on the\nBGCM fund utilization and status of implementation of PPAs\npursuant to LBC 125;\nc) Though late, still post the accumulated reports on the LGU’s\nwebsite or Facebook page for general transparency; and\nd) Finally, furnish the audit team a copy of the written notice when\nposting has been complied.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-OBS5",
+      "year": 2020,
+      "recommendation": "5.9 Due to the foregoing lapses noted, we highly recommended that the\nLocal Chief Executive:\na) Direct the Accountant to record all regular procurements of\nsupplies in their respective inventory accounts, record the same\nas expense when issuance thereof takes place, and maintain the\nappropriate ledgers;\nb) Direct the General Services Officer to religiously maintain the\nnecessary inventory and supplies’ stock cards;\nc) Direct the two offices to religiously reconcile records with the\nledgers on a regular basis; and\nd) Direct the Inventory Committee to validate the same by\nconducting a semestral physical count of inventory by items.\nThereafter, prepare and submit the Report on Physical Count of\nInventories (RPCI) to the audit team not later than July 31, and\nJanuary 31 of each year for the first and second semesters,\nrespectively.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-OBS6",
+      "year": 2020,
+      "recommendation": "6.8 Therefore, we recommended that the Local Chief Executive (LCE):\na) Immediately instruct the Accountant to prepare an amortization\nschedule of the outstanding loan and reconcile the same with the\nstatement of accounts from the servicing bank and update the\nrelated accounting ledger to reflect the correct balance;\nb) Reclassify the portion of the loan not payable within the 12\nmonths from the reporting date from current into non-current\nliability;\nc) Instruct the same to update and reconcile the accounting ledgers\nwith the statement of accounts from GSIS, Pag-IBIG, Philhealth\nand BIR to reflect correct balances of related liability accounts,\nand if there are discrepancies found, immediately make the\nnecessary adjustments; and\nd) Henceforth, maintain and keep the necessary accounting ledgers\nupdated to make information available as of any specific date,\npursuant to Section 111 of PD 1445.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-OBS7",
+      "year": 2020,
+      "recommendation": "7.6 Hence, we strongly recommended that the Local Chief Executive:\na) Cause the immediate submission of the copy of the approved\nLocal Sanggunian Resolution on the release and utilization of the\nQRF to the audit team;\nb) Continue the religious keeping, maintaining, and updating of the\nthree (3) RAAOs in accordance with the rules of the Commission;\nc) Instruct the strict, religious and regular submission of the report\non sources and utilization not later than the 15th day after each\nmonth;\nd) Instruct the Inventory Committee and the LDRRMO to\nimmediately do an extensive physical count of all the equipment\nunder the MDRRMO to update the ledgers on new PPEs\npurchased or acquired thru donation; and\ne) Instruct the Accountant to draw appropriate journal entries to\nrecord or adjust the ledgers for any discrepancies resulting from\nthe physical count.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-OBS8",
+      "year": 2020,
+      "recommendation": "8.8 Henceforth, we recommended that:\na) The Treasurer keep a permanent record book to keep track of the\nreceipt and issuances of accountable forms, and update the same\nas needed;\nb) The Treasurer conduct a regular month-end inventory of the\naccountable forms, both with and without money value, to verify\nexistence, and reconcile the same with the permanent record\nbook;\nc) Prepare the monthly C/RAAFs at the end of each month, complete\nand in accordance with the prescribed rules and regulations; and\nd) Strictly submit the same to the audit team not later than the fifth\n(5th) day of the ensuing month.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-OBS9",
+      "year": 2020,
+      "recommendation": "9.4 Therefore, we recommended that the Treasurer, henceforth:\na) Completely attach all duplicate copies of all issued, and\ncancelled ORs to the RCD;\nb) Attach the validated deposit slips to the RCD as proof of\ndeposit of collections; and\nc) Prepare a schedule of cancelled/voided checks, if any, at the\nend of the month, and attach the same to the RCD to be\nsubmitted to the Auditor.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-OBS10",
+      "year": 2020,
+      "recommendation": "10.10 a) Record the transactions on a daily basis and stop the practice\nof recording transactions based from the bank statements;\nb) Record the check issuances in a chronological order,\nincluding the cancelled ones;\nc) Completely report and include in the RCD all collections\nrecorded in the cashbook; and\nd) Finally, religiously follow and record all the transactions in\nthe respective cashbooks in accordance with the MNGAS for\nLGUs.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-OBS11",
+      "year": 2020,
+      "recommendation": "11.7 Therefore, steadfast, we recommended that:\na) The Accountant faithfully inspect and review records whether the\nprevious cash advances have been liquidated and properly\naccounted for prior to the granting of the succeeding cash\nadvance;\nb) The Accountant, after verification that are no cash advances\npending liquidation, issue a certification thereof prior to the\ngranting of succeeding cash advance; and\nc) The Treasurer religiously liquidate the cash advance within the\nprescribed period and in accordance with the rules and\nregulations provided by the Commission.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-OBS12",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-OBS13",
+      "year": 2020,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY1",
+      "year": 2020,
+      "recommendation": "1. Create the Inventory Committee of the municipality to conduct the inventory on the physical count of its road network and prepare a report thereon;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY4",
+      "year": 2020,
+      "recommendation": "4. In view of the foregoing, we reiterated our previous year’s recommendation that management widen the utilization of 20% development fund to the three priority programs and projects giving less priority such as social development, economic development and environment management pursuant to DILG-DBM Joint Memorandum Circular (JMC) No. 2017-1 dated February 22, 2017.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY5",
+      "year": 2020,
+      "recommendation": "5. We recommended further that the Honorable Mayor direct the concerned officials to identify in their reports which local roads are rehabilitated to avoid loss from repetition of projects.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY8",
+      "year": 2020,
+      "recommendation": "8. Form its own Municipal Solid Waste Management Board;",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY9",
+      "year": 2020,
+      "recommendation": "9. Comply with all applicable rules and regulations of Ecological Solid Waste Management Act of 2000 to ensure protection of public health and environment of its constituents.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY10",
+      "year": 2020,
+      "recommendation": "10. We recommended that the Honorable Mayor instruct the accountant to regularly maintain and update the separate registries required by the circular to ensure proper monitoring and utilization of LDRRM Fund in accordance with rules and regulations.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY11",
+      "year": 2020,
+      "recommendation": "11. Further, to strengthen the need for the submission of the LDRRMFIP, we recommended that the said plan be regularly and strictly attached as supporting documents whenever disbursements are made hereafter, pursuant to the above stated provision to ensure that expenditures are in accordance with the approved LDRRMFIP.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY12",
+      "year": 2020,
+      "recommendation": "12. Order the municipal treasurer the immediate transfer of the remaining unexpected balance of the fund into the LGU’s trust fund by issuing a check equal to the aforementioned outstanding unexpended balance, complete with its necessary supporting documents;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY13",
+      "year": 2020,
+      "recommendation": "13. Likewise, order the municipal accountant to record the said transfer by recording the appropriate journal entry vouchers in its appropriate books.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY14",
+      "year": 2020,
+      "recommendation": "14. Finally, order the accountant to fully disclose, in detail, the unexpended balance of the fund in the notes to the financial statements, hereafter, pursuant to the above cited provision.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY15",
+      "year": 2020,
+      "recommendation": "15. We recommended that the Local Disaster Risk Reduction and Disaster Risk Reduction and Management (LDRRMF) Fund (LDDRMO) to prepare and submit Local Disaster Risk Reduction and Management Fund Investment Plan (LDRRMFIP) based on the LDRRM Plan and Budget approved by the LDDRM Council.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY16",
+      "year": 2020,
+      "recommendation": "16. We also recommended that Management direct the Municipal Accountant in coordination with the MDRRMO to prepare and submit the monthly Report on Sources and Utilization of DRRMF in compliance with the above quoted rules.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY19",
+      "year": 2020,
+      "recommendation": "19. Finally, direct the municipal accountant to immediately set up the RPT receivable account upon receipt of the list from the treasurer pursuant to the aforementioned provision.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY20",
+      "year": 2020,
+      "recommendation": "20. Instruct the Municipal Accountant and other concerned officials to address and comply with the deficiencies noted during the validation and submit an updated copy of the same to the Auditor for review;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY21",
+      "year": 2020,
+      "recommendation": "21. Moreover, require the same to strictly comply with the recording, updating, and maintaining of monthly accounting records, onwards;",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY22",
+      "year": 2020,
+      "recommendation": "22. Direct the same to conscientiously keep and file copies of the all the monthly reports submitted to the auditor.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY23",
+      "year": 2020,
+      "recommendation": "23. We, therefore, reiterated our previous year’s recommendation that the Honorable Mayor instruct the GAD Focal Person to furnish the Auditor a copy of the Accomplishment Report for GAD showing the programs, projects and activities undertaken during the year.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY24",
+      "year": 2020,
+      "recommendation": "24. We further recommended that for the CY 2020, the GAD Plan and Budget be prepared and submitted immediately to the Audit Team.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY25",
+      "year": 2020,
+      "recommendation": "25. We recommended that Management direct the BAC Secretariat and other concerned division officials to furnish the copies of the contracts and purchase orders to the Auditor within five (5) days after its perfection together with all its necessary supporting documents pursuant COA Circular No. 2009-001 dated February 12, 2009.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY26",
+      "year": 2020,
+      "recommendation": "26. We recommended that Management ensure that the Accountant prepare and submit to the Auditor monthly BRS together with the original copies of the debit/credit memo pursuant to COA Circular No. 96-011 dated October 2, 1996 for timely verification of the cash in bank account.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY27",
+      "year": 2020,
+      "recommendation": "27. We further recommended that the Municipal Accountant maintain a General/Subsidiary Ledger for the account Cash in Bank per fund and record on it all the transactions affecting the said account for proper monitoring of the availability of cash at a given time.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY28",
+      "year": 2020,
+      "recommendation": "28. We recommended that the Local Chief Executive require the Municipal Treasurer to prepare and submit the Report of Accountability for Accountable Forms (RAAF) on a monthly basis in its prescribed form.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY29",
+      "year": 2020,
+      "recommendation": "29. Require the Municipal Treasurer to submit the Report of Disbursements (ROD) pertaining to their cash advances together with all the supporting liquidating instruments every 5th day of the ensuing month pursuant to Section 46 and Annex 46 of the NGAS for LGUs.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY30",
+      "year": 2020,
+      "recommendation": "30. Direct the Municipal Accountant to immediately review and evaluate the submitted RODs and its attachments and then prepare the Journal Entry Vouchers for submission to the Auditor.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY31",
+      "year": 2020,
+      "recommendation": "31. We recommended that Management exhaust all available remedies provided under existing laws, rules and regulations in enforcing immediate compliance with the audit suspensions pursuant to Section 7.1.1 of COA Circular No. 2009-006 dated September 15, 2009.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "BARMM__Municipalities__Lanao-del-Sur__AmaiManabilang_LDS-2020-PY32",
+      "year": 2020,
+      "recommendation": "32. Create and Inventory Committee to conduct the physical count and required the Municipal Accountant and the General Service Officer to update their ledger cards and stock cards and make the necessary reconciliation thereof",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-PY1",
+      "year": 2019,
+      "recommendation": "1. We recommended that Management widen the allocation of utilization of 20% development fund to the three (3) priority programs and projects such as social development, economic development and environment management pursuant to DILG-DBM Joint Memorandum Circular (JMC) No. 2017-1 dated February 22, 2017.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-PY4",
+      "year": 2019,
+      "recommendation": "4. The Municipal Treasurer to issue a check with complete supporting documents for the fund transfer of unexpended LDRRM Fund in the amount of P712,000.00 from General Fund to Special Trust Fund, and.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-PY7",
+      "year": 2019,
+      "recommendation": "7. Form its own Municipal Solid Waste Management Board and",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-PY18",
+      "year": 2019,
+      "recommendation": "18. Create and Inventory Committee to conduct the physical count and required Municipal Accountant and the General Service Officer to update their ledger cards and stock cards and make the necessary reconciliation thereof.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-PY20",
+      "year": 2019,
+      "recommendation": "20. Required the Treasurer shall furnish the Chief Accountant to come up with a duly certified list showing the name of taxpayers and the amount due and collectible for the year as a basis for the one percent tax (1%) for the special education fund.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-OBS1",
+      "year": 2019,
+      "recommendation": "1.5 We recommended that the Honorable Mayor:\na. Create the Inventory Committee of the municipality to conduct\nthe inventory on the physical count of its road network and\nprepare a report thereon;\nb. Require the Municipal Accountant to update the local roads\nnetwork accounts based on the result of the physical count; and\nc. Require the Municipal Engineer to provide the Accountant and\nthe General Services Office with the complete description and\ncost segregation of road components for road projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-OBS2",
+      "year": 2019,
+      "recommendation": "2.5 In view of the foregoing, we reiterated our previous year’s\nrecommendation that management widen the allocation of\nutilization of 20% development fund to the three priority programs and\nprojects such as social development, economic development and environment\nmanagement pursuant to DILG-DBM Joint Memorandum Circular (JMC)\nNo. 2017-1 dated February 22, 2017.\n2.6 We recommended further that the Honorable Mayor direct the\nconcerned officials to identify in their reports which local roads are\nrehabilitated to avoid loss from repetition of projects.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-OBS3",
+      "year": 2019,
+      "recommendation": "3.9 Hence, we recommended that Honorable Mayor supervise the\nimmediate submission of duly approved Municipal Solid Waste\nManagement Plan 2019-2029; and\n3.10 Direct the Board, if any, to review the same every two years or as the\nneed arises for purposes continuity and harmonizing the LGU’s\nprojects/programs with the mandate of RA 9003.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-OBS4",
+      "year": 2019,
+      "recommendation": "4.5 We recommended that the Honorable Mayor instruct the accountant to\nregularly maintain and update the separate registries required by the\ncircular to ensure proper monitoring and utilization of LDRRM Fund in\naccordance with rules and regulations.\n4.6 Further, to strengthen the need for the submission of the LDRRMFIP,\nwe recommended that the said plan be regularly and strictly attached as\nsupporting documents whenever disbursements are made hereafter,\npursuant to the above stated provision to ensure that expenditures are\nin accordance with the approved LDRRMFIP.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-OBS5",
+      "year": 2019,
+      "recommendation": "5.9 Hence, we reiterated our previous year’s recommendation that the\nHonorable Mayor, again:\na. Order the municipal treasurer the immediate transfer of the\nremaining unexpected balance of the fund into the LGU’s trust\nfund by issuing a check equal to the aforementioned outstanding\nunexpended balance, complete with its necessary supporting\ndocuments;\nb. Likewise, order the municipal accountant to record the said\ntransfer by recording the appropriate journal entry vouchers in\nits appropriate books.\nc. Finally, order the accountant to fully disclose, in detail, the\nunexpended balance of the fund in the notes to the financial\nstatements, hereafter, pursuant to the above cited provision.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-OBS6",
+      "year": 2019,
+      "recommendation": "6.4 Therefore, we highly recommended that the Mayor strictly instruct the\nkeeping of an updated real property tax account register to the\nconcerned officials;\na) Direct the municipal treasurer to prepare and submit the updated\nlist of duly certified name of taxpayers and the amount due and\ncollectible for the year to the accountant at the beginning of the\nyear; and\nb) Finally, direct the municipal accountant to immediately set up the\nRPT receivable account upon receipt of the list from the\ntreasurer pursuant to the aforementioned provision.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-OBS7",
+      "year": 2019,
+      "recommendation": "7.9 Hence, we recommended that the Municipal Mayor:\na) Instruct the Municipal Accountant and other concerned officials\nto address and comply with the deficiencies noted during the\nvalidation and submit an updated copy of the same to the\nAuditor for review;\nb) Moreover, require the same to strictly comply with the recording,\nupdating, and maintaining of monthly accounting records,\nonwards;\nc) Direct the same to conscientiously keep and file copies of the all\nthe monthly reports submitted to the auditor.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-OBS8",
+      "year": 2019,
+      "recommendation": "8.3 We, therefore, reiterated our previous year’s recommendation that the\nHonorable Mayor instruct the GAD Focal Person to furnish the Auditor a\ncopy of the Accomplishment Report for GAD showing the programs,\nprojects and activities undertaken during the year.\n8.4 We further recommended that for the CY 2020, the GAD Plan and\nBudget be prepared and submitted immediately to the Audit Team.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-OBS9",
+      "year": 2019,
+      "recommendation": "9.5 Hence, we recommended that LGU exhaust all available remedies\nprovided under existing laws, rules and regulations in enforcing\nimmediate compliance with the audit suspensions pursuant to Section\n7.1.1 of COA Circular No. 2009-006 dated September 15, 2009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-OBS10",
+      "year": 2019,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-PY2",
+      "year": 2019,
+      "recommendation": "2. We recommended that Management direct the Local Disaster Risk Reduction and Management Officer (LDDRMO) to prepare and submit Local Disaster Risk Reduction and Management Fund Investment Plan (LDRRMFIP) based on the LDRRM Plan and Budget approved by the LDDRM Council.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-PY3",
+      "year": 2019,
+      "recommendation": "3. We also recommended that Management direct the Municipal Accountant in coordination with the MDRRMO to prepare and submit the monthly Report on Sources and Utilization of DRRMF in compliance with the above quoted rules.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-PY5",
+      "year": 2019,
+      "recommendation": "5. The Municipal Account to record the transfer of unexpended LDRRM Fund by drawing a Journal Entry Voucher taking the appropriate accounting entries under General and Trust Fund.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-PY6",
+      "year": 2019,
+      "recommendation": "6. We recommended that Management direct the BAC Secretariat and other concerned division officials to furnish the copies of the contracts and purchase orders to the Auditor within five (5) days after its perfection together with all its necessary supporting documents pursuant COA Circular No. 2009-001 dated February 12, 2009.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-PY8",
+      "year": 2019,
+      "recommendation": "8. Comply with all applicable rules and regulations of Ecological Solid Waste Management Act of 2000 to ensure protection of public health and environment of its constituents.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-PY9",
+      "year": 2019,
+      "recommendation": "9. We recommended that Management furnish the Auditor a copy of the Accomplishment Report for GAD showing the programs, projects and activities undertaken during the year.\nWe further recommend that for the CY 2019, the GAD Plan and Budget should be prepared and submitted immediately to the Audit Team.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-PY10",
+      "year": 2019,
+      "recommendation": "10. We recommended that Management ensure that the Accountant prepare and submit to the Auditor monthly the BRS together with the original copies of the debit/credit memo pursuant to COA Circular No. 96-011 dated October 2, 1996 for timely verification of the cash in bank account.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-PY11",
+      "year": 2019,
+      "recommendation": "11. We further recommended that the Municipal Accountant maintain a General/Subsidiary Ledger for the account Cash in Bank per fund and record on it all the transactions affecting the said account for proper monitoring of the availability of cash at a given time.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-PY12",
+      "year": 2019,
+      "recommendation": "12. We recommended that the Local Chief Executive require the Municipal Treasurer to prepare and submit the Report of Accountability for Accountable Forms (RAAF) on a monthly basis in its prescribed form.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-PY13",
+      "year": 2019,
+      "recommendation": "13. We recommended that Management direct the Municipal Treasurer to strictly comply with the provisions of the law in the preparation and submission of Reports of Collections and Deposits and its supporting documents like the Official Receipts and Validated Deposit Slips on a monthly basis.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-PY14",
+      "year": 2019,
+      "recommendation": "14. Require the Municipal Treasurer to submit the Report of Disbursements (ROD) pertaining to their cash advances together with all the supporting instruments in every 5th day of the ensuing month pursuant to Section 46 and Annex 46 of the NGAS for LGUs.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-PY15",
+      "year": 2019,
+      "recommendation": "15. Direct the Municipal Accountant to immediately review and evaluate the submitted RODs and its attachments and then prepare the Journal Entry Vouchers for submission to the Auditor.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-PY16",
+      "year": 2019,
+      "recommendation": "16. Finally, due to the unreasonable delay, require the immediate submission of all the reports to the Office of the Auditor and the prompt submission thereafter.",
+      "managementAction": "",
+      "status": "IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-PY17",
+      "year": 2019,
+      "recommendation": "17. We recommended that Management exhaust all available remedies provided under existing laws, rules and regulations in enforcing immediate compliance with the audit suspensions pursuant to Section 7.1.1 of COA Circular No. 2009-006 dated September 15, 2009.",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2019-PY19",
+      "year": 2019,
+      "recommendation": "19. Required the Municipal Accountant to religiously prepare and submit the monthly Bank Reconciliation Statement",
+      "managementAction": "",
+      "status": "PARTIALLY_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2018-PY2",
+      "year": 2018,
+      "recommendation": "Create and Committee to conduct the physical count and required the Municipal Accountant and the General Service Officer to update their ledger cards and stock cards and make the necessary reconciliation thereof",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2018-PY3",
+      "year": 2018,
+      "recommendation": "Required the Municipal Accountant to prepare and submit the monthly Bank Reconciliation Statement",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2018-OBS1",
+      "year": 2018,
+      "recommendation": "1.5 We recommended that Management widen the allocation of\nutilization of 20% development fund to the three (3) priority\nprograms and projects such as social development, economic\ndevelopment and environment management pursuant to DILG-DBM\nJoint Memorandum Circular (JMC) No. 2017-1 dated February 22,\n2017.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2018-OBS2",
+      "year": 2018,
+      "recommendation": "2.5 We recommended that Management direct the Local Disaster Risk\nReduction and Management Officer (LDDRMO) to prepare and\nsubmit Local Disaster Risk Reduction and Management Fund\nInvestment Plan (LDRRMFIP) based on the LDRRM Plan and Budget approved by the LDDRM Council.\n\n2.6 We also recommended that Management direct the Municipal\nAccountant in coordination with the MDRRMO to prepare and\nsubmit the monthly Report on Sources and Utilization of DRRMF in\ncompliance with the above quoted rules.\n\n3.1 We recommended that the Municipal Mayor\na) The Municipal Treasurer to issue a check with complete\nsupporting documents for the fund transfer of unexpended\nLDRRM Fund in the amount of P712,000.00 from General Fund\nto Special Trust Fund, and.\nb) The Municipal Account to record the transfer of unexpended\nLDRRM Fund by drawing a Journal Entry Voucher taking the\nappropriate accounting entries under General and Trust Fund.\n\ni. For General Fund books, debit the account Transfer of\nUnspent Current Year DRRM Funds to the Trust Funds\n(Account Code 5-02-15-010) and credit the account Cash in\nBank – Local Currency Current Account (Account Code 1-\n01-02-010).\nii. While for Trust Fund books, debit the account Cash in Bank\n– Local Currency Current Account (Account Code 1-01-02-\n010) and credit the account Trust Liabilities – Disaster Risk\nReduction and Management Fund (Account Code 2-04-01-\n020).",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2018-OBS3",
+      "year": 2018,
+      "recommendation": "3.5 We recommended that Management direct the BAC Secretariat and\nother concerned division officials to furnish the copies of the contracts\nand purchase orders to the Auditor within five (5) days after its\nperfection together with all its necessary supporting documents\npursuant COA Circular No. 2009-001 dated February 12, 2009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2018-OBS4",
+      "year": 2018,
+      "recommendation": "4.6 We recommended that Management\na) Form its own Municipal Solid Waste Management Board and\nb) Comply with all applicable rules and regulations of Ecological\nSolid Waste Management Act of 2000 to ensure protection of\npublic health and environment of its constituents.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2018-OBS5",
+      "year": 2018,
+      "recommendation": "5.3 We recommended that the Management furnish the Auditor a copy of\nthe Accomplishment Report for GAD showing the programs, projects\nand activities undertaken during the year. We further recommend\nthat for the CY 2019, the GAD Plan and Budget should be prepared\nand submitted immediately to the Audit Team.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2018-OBS6",
+      "year": 2018,
+      "recommendation": "6.8 We recommended that Management ensure that the Accountant\nprepare and submit to the Auditor monthly the BRS together with the\noriginal copies of the debit/credit memo pursuant to COA Circular\nNo. 96-011 dated October 2, 1996 for timely verification of the cash in\nbank account.\n\n6.9 We further recommended that the Municipal Accountant maintain a\nGeneral/Subsidiary Ledger for the account Cash in Bank per fund\nand record on it all the transactions affecting the said account for\nproper monitoring of the availability of cash at a given time.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2018-OBS7",
+      "year": 2018,
+      "recommendation": "7.4 We recommended that the Local Chief Executive require the\nMunicipal Treasurer to prepare and submit the Report of\nAccountability for Accountable Forms (RAAF) on a monthly basis in\nits prescribed form.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2018-OBS8",
+      "year": 2018,
+      "recommendation": "8.6 We recommended that Management direct the Municipal Treasurer\nto strictly comply with the provisions of the law in the preparation\nand submission of Reports of Collections and Deposits and its\nsupporting documents like the Official Receipts and Validated Deposit\nSlips on a monthly basis.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2018-OBS9",
+      "year": 2018,
+      "recommendation": "9.7 We recommended that the Municipal Mayor\na) Require the Municipal Treasurer to submit the Report of\nDisbursements (ROD) pertaining to their cash advances together\nwith all the supporting liquidating instruments every 5th day of\nthe ensuing month pursuant to Section 46 and Annex 46 of the\nNGAS for LGUs.\nb) Direct the Municipal Accountant to immediately review and\nevaluate the submitted RODs and its attachments and then\nprepare the Journal Entry Vouchers for submission to the\nAuditor.\nc) Finally, due to the unreasonable delay, require the immediate\nsubmission of all the reports to the Office of the Auditor and the\nprompt submission thereafter.\n\n9.8 Management was able to submit all the unsubmitted RCI together with its\ndisburement vouchers in March 29, 2019.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2018-OBS10",
+      "year": 2018,
+      "recommendation": "10.5 We recommended that Management exhaust all available remedies\nprovided under existing laws, rules and regulations in enforcing\nimmediate compliance with the audit suspensions pursuant to Section\n7.1.1 of COA Circular No. 2009-006 dated September 15, 2009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2018-OBS11",
+      "year": 2018,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2018-PY1",
+      "year": 2018,
+      "recommendation": "Required the Municipal Accountant to draw journal entry vouchers on the receipt, disbursement and liquidation of this cash-for-work programme.",
+      "managementAction": "Implemented",
+      "status": "IMPLEMENTED",
+      "reason": "Due to NGA"
+    },
+    {
+      "id": "AmaiManabilang_LDS-2018-PY4",
+      "year": 2018,
+      "recommendation": "Required the Treasurer shall furnish the Chief Accountant to come up with a duly certified list of taxpayers",
+      "managementAction": "AAR 2016",
+      "status": "IMPLEMENTED",
+      "reason": "Management failed to come up with the duly certified list of tax payers"
+    },
+    {
+      "id": "AmaiManabilang_LDS-2017-PY1",
+      "year": 2017,
+      "recommendation": "Required the Treasurer shall furnish the Chief Accountant to come up with a duly certified list showing the name of taxpayers and the amount due and collectible for the year as a basis for the one percent (1%) tax for the special education fund.",
+      "managementAction": "",
+      "status": "NOT_IMPLEMENTED",
+      "reason": "Management fails to come up with the duly certified list of taxpayers"
+    },
+    {
+      "id": "AmaiManabilang_LDS-2017-OBS1",
+      "year": 2017,
+      "recommendation": "Required the Municipal Accountant to draw journal entry vouchers on the receipt, disbursement and liquidation of this cash-for-work programme.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2017-OBS2",
+      "year": 2017,
+      "recommendation": "Create and Inventory Committee to conduct the physical count and required the Municipal Accountant and the General Service Officer to update their ledger cards and stock cards and make the necessary reconciliation thereof.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2017-OBS3",
+      "year": 2017,
+      "recommendation": "Required the Municipal Accountant to religiously prepare and submit the monthly Bank Reconciliation Statement.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2017-OBS4",
+      "year": 2017,
+      "recommendation": "Cause the immediate submission of the required documents within the period prescribed in COA Circular No. 2009-009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2017-OBS5",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2017-OBS6",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2017-OBS7",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2017-OBS8",
+      "year": 2017,
+      "recommendation": "",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    },
+    {
+      "id": "AmaiManabilang_LDS-2017-PY2",
+      "year": 2017,
+      "recommendation": "Cause the immediate submission of the required documents within the period prescribed in COA Circular No. 2009-009.",
+      "managementAction": "",
+      "status": "UNKNOWN",
+      "reason": ""
+    }
+  ]
+}
