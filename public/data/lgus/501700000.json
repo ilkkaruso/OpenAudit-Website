@@ -1,0 +1,304 @@
+{
+  "provinceCode": "501700000",
+  "provinceName": "Camarines Sur",
+  "regionCode": "500000000",
+  "regionName": "Region IV-A (CALABARZON)",
+  "lgus": [
+    {
+      "code": "501711000",
+      "name": "Caramoan",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 216
+    },
+    {
+      "code": "501715000",
+      "name": "Goa",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 150
+    },
+    {
+      "code": "501727000",
+      "name": "Pasacao",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 214
+    },
+    {
+      "code": "501730000",
+      "name": "Ragay",
+      "score": 1,
+      "normalizedScore": 0.93,
+      "maxStreak": 1,
+      "observationCount": 249
+    },
+    {
+      "code": "501736000",
+      "name": "Tigaon",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 154
+    },
+    {
+      "code": "501701000",
+      "name": "Baao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 214
+    },
+    {
+      "code": "501702000",
+      "name": "Balatan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 115
+    },
+    {
+      "code": "501703000",
+      "name": "Bato",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 659
+    },
+    {
+      "code": "501704000",
+      "name": "Bombon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 348
+    },
+    {
+      "code": "501705000",
+      "name": "Buhi",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 615
+    },
+    {
+      "code": "501706000",
+      "name": "Bula",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 420
+    },
+    {
+      "code": "501707000",
+      "name": "Cabusao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 262
+    },
+    {
+      "code": "501708000",
+      "name": "Calabanga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 149
+    },
+    {
+      "code": "501709000",
+      "name": "Camaligan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 276
+    },
+    {
+      "code": "501710000",
+      "name": "Canaman",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 302
+    },
+    {
+      "code": "501712000",
+      "name": "Del Gallego",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 140
+    },
+    {
+      "code": "501713000",
+      "name": "Gainza",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 278
+    },
+    {
+      "code": "501714000",
+      "name": "Garchitorena",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 156
+    },
+    {
+      "code": "501716000",
+      "name": "City of Iriga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 467
+    },
+    {
+      "code": "501717000",
+      "name": "Lagonoy",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 252
+    },
+    {
+      "code": "501718000",
+      "name": "Libmanan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 173
+    },
+    {
+      "code": "501719000",
+      "name": "Lupi",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 152
+    },
+    {
+      "code": "501720000",
+      "name": "Magarao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 229
+    },
+    {
+      "code": "501721000",
+      "name": "Milaor",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 431
+    },
+    {
+      "code": "501722000",
+      "name": "Minalabac",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 320
+    },
+    {
+      "code": "501723000",
+      "name": "Nabua",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 126
+    },
+    {
+      "code": "501724000",
+      "name": "City of Naga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "501725000",
+      "name": "Ocampo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 361
+    },
+    {
+      "code": "501726000",
+      "name": "Pamplona",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "501728000",
+      "name": "Pili",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 307
+    },
+    {
+      "code": "501729000",
+      "name": "Presentacion",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 282
+    },
+    {
+      "code": "501731000",
+      "name": "Sagñay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 60
+    },
+    {
+      "code": "501732000",
+      "name": "San Fernando",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "501733000",
+      "name": "San Jose",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "501734000",
+      "name": "Sipocot",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 210
+    },
+    {
+      "code": "501735000",
+      "name": "Siruma",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 197
+    },
+    {
+      "code": "501737000",
+      "name": "Tinambac",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 196
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "provinceCode": "200900000",
+  "provinceName": "Batanes",
+  "regionCode": "200000000",
+  "regionName": "CAR (Cordillera Administrative Region)",
+  "lgus": [
+    {
+      "code": "200901000",
+      "name": "Basco",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 211
+    },
+    {
+      "code": "200902000",
+      "name": "Itbayat",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 192
+    },
+    {
+      "code": "200903000",
+      "name": "Ivana",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 222
+    },
+    {
+      "code": "200904000",
+      "name": "Mahatao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 223
+    },
+    {
+      "code": "200905000",
+      "name": "Sabtang",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 271
+    },
+    {
+      "code": "200906000",
+      "name": "Uyugan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 234
+    }
+  ]
+}

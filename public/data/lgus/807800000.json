@@ -1,0 +1,72 @@
+{
+  "provinceCode": "807800000",
+  "provinceName": "Biliran",
+  "regionCode": "800000000",
+  "regionName": "Region VII (Central Visayas)",
+  "lgus": [
+    {
+      "code": "807801000",
+      "name": "Almeria",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 247
+    },
+    {
+      "code": "807802000",
+      "name": "Biliran",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 657
+    },
+    {
+      "code": "807803000",
+      "name": "Cabucgayan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 137
+    },
+    {
+      "code": "807804000",
+      "name": "Caibiran",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 190
+    },
+    {
+      "code": "807805000",
+      "name": "Culaba",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 129
+    },
+    {
+      "code": "807806000",
+      "name": "Kawayan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 131
+    },
+    {
+      "code": "807807000",
+      "name": "Maripipi",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 78
+    },
+    {
+      "code": "807808000",
+      "name": "Naval",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 170
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "provinceCode": "1003500000",
+  "provinceName": "Lanao del Norte",
+  "regionCode": "1000000000",
+  "regionName": "Region IX (Zamboanga Peninsula)",
+  "lgus": [
+    {
+      "code": "1003516000",
+      "name": "Pantao Ragat",
+      "score": 4,
+      "normalizedScore": 2.46,
+      "maxStreak": 2,
+      "observationCount": 431
+    },
+    {
+      "code": "1003521000",
+      "name": "Tangcal",
+      "score": 3,
+      "normalizedScore": 2.22,
+      "maxStreak": 2,
+      "observationCount": 328
+    },
+    {
+      "code": "1003501000",
+      "name": "Bacolod",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 614
+    },
+    {
+      "code": "1003502000",
+      "name": "Baloi",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 292
+    },
+    {
+      "code": "1003503000",
+      "name": "Baroy",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 210
+    },
+    {
+      "code": "1003505000",
+      "name": "Kapatagan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 341
+    },
+    {
+      "code": "1003506000",
+      "name": "Sultan Naga Dimaporo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 177
+    },
+    {
+      "code": "1003507000",
+      "name": "Kauswagan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 306
+    },
+    {
+      "code": "1003508000",
+      "name": "Kolambugan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 312
+    },
+    {
+      "code": "1003509000",
+      "name": "Lala",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 279
+    },
+    {
+      "code": "1003510000",
+      "name": "Linamon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 221
+    },
+    {
+      "code": "1003511000",
+      "name": "Magsaysay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 1223
+    },
+    {
+      "code": "1003512000",
+      "name": "Maigo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 337
+    },
+    {
+      "code": "1003513000",
+      "name": "Matungao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 313
+    },
+    {
+      "code": "1003514000",
+      "name": "Munai",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 151
+    },
+    {
+      "code": "1003515000",
+      "name": "Nunungan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 152
+    },
+    {
+      "code": "1003517000",
+      "name": "Poona Piagapo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 250
+    },
+    {
+      "code": "1003518000",
+      "name": "Salvador",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 390
+    },
+    {
+      "code": "1003519000",
+      "name": "Sapad",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 160
+    },
+    {
+      "code": "1003520000",
+      "name": "Tagoloan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 706
+    },
+    {
+      "code": "1003522000",
+      "name": "Tubod",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 350
+    },
+    {
+      "code": "1003523000",
+      "name": "Pantar",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 401
+    }
+  ]
+}

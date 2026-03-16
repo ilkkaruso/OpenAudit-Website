@@ -1,0 +1,96 @@
+{
+  "provinceCode": "502000000",
+  "provinceName": "Catanduanes",
+  "regionCode": "500000000",
+  "regionName": "Region IV-A (CALABARZON)",
+  "lgus": [
+    {
+      "code": "502001000",
+      "name": "Bagamanoc",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 170
+    },
+    {
+      "code": "502002000",
+      "name": "Baras",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "502003000",
+      "name": "Bato",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "502004000",
+      "name": "Caramoran",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 312
+    },
+    {
+      "code": "502005000",
+      "name": "Gigmoto",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 287
+    },
+    {
+      "code": "502006000",
+      "name": "Pandan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 509
+    },
+    {
+      "code": "502007000",
+      "name": "Panganiban",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 213
+    },
+    {
+      "code": "502008000",
+      "name": "San Andres",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "502009000",
+      "name": "San Miguel",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "502010000",
+      "name": "Viga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 345
+    },
+    {
+      "code": "502011000",
+      "name": "Virac",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 282
+    }
+  ]
+}

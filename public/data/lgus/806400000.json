@@ -1,0 +1,160 @@
+{
+  "provinceCode": "806400000",
+  "provinceName": "Southern Leyte",
+  "regionCode": "800000000",
+  "regionName": "Region VII (Central Visayas)",
+  "lgus": [
+    {
+      "code": "806403000",
+      "name": "Hinunangan",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 214
+    },
+    {
+      "code": "806415000",
+      "name": "San Ricardo",
+      "score": 1,
+      "normalizedScore": 0.8,
+      "maxStreak": 1,
+      "observationCount": 297
+    },
+    {
+      "code": "806401000",
+      "name": "Anahawan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 153
+    },
+    {
+      "code": "806402000",
+      "name": "Bontoc",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "806404000",
+      "name": "Hinundayan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 176
+    },
+    {
+      "code": "806405000",
+      "name": "Libagon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 275
+    },
+    {
+      "code": "806406000",
+      "name": "Liloan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "806407000",
+      "name": "City of Maasin",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "806408000",
+      "name": "Macrohon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 229
+    },
+    {
+      "code": "806409000",
+      "name": "Malitbog",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "806410000",
+      "name": "Padre Burgos",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "806411000",
+      "name": "Pintuyan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 189
+    },
+    {
+      "code": "806412000",
+      "name": "Saint Bernard",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 136
+    },
+    {
+      "code": "806413000",
+      "name": "San Francisco",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "806414000",
+      "name": "San Juan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "806416000",
+      "name": "Silago",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 193
+    },
+    {
+      "code": "806417000",
+      "name": "Sogod",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "806418000",
+      "name": "Tomas Oppus",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 261
+    },
+    {
+      "code": "806419000",
+      "name": "Limasawa",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 155
+    }
+  ]
+}

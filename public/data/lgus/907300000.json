@@ -1,0 +1,224 @@
+{
+  "provinceCode": "907300000",
+  "provinceName": "Zamboanga del Sur",
+  "regionCode": "900000000",
+  "regionName": "Region VIII (Eastern Visayas)",
+  "lgus": [
+    {
+      "code": "907306000",
+      "name": "Dinas",
+      "score": 1,
+      "normalizedScore": 0.94,
+      "maxStreak": 1,
+      "observationCount": 247
+    },
+    {
+      "code": "907318000",
+      "name": "Midsalip",
+      "score": 1,
+      "normalizedScore": 0.67,
+      "maxStreak": 1,
+      "observationCount": 378
+    },
+    {
+      "code": "907327000",
+      "name": "Tabina",
+      "score": 1,
+      "normalizedScore": 0.75,
+      "maxStreak": 1,
+      "observationCount": 323
+    },
+    {
+      "code": "907302000",
+      "name": "Aurora",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "907303000",
+      "name": "Bayog",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 245
+    },
+    {
+      "code": "907305000",
+      "name": "Dimataling",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 351
+    },
+    {
+      "code": "907307000",
+      "name": "Dumalinao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 222
+    },
+    {
+      "code": "907308000",
+      "name": "Dumingag",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 353
+    },
+    {
+      "code": "907311000",
+      "name": "Kumalarang",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 329
+    },
+    {
+      "code": "907312000",
+      "name": "Labangan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 366
+    },
+    {
+      "code": "907313000",
+      "name": "Lapuyan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 315
+    },
+    {
+      "code": "907315000",
+      "name": "Mahayag",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 325
+    },
+    {
+      "code": "907317000",
+      "name": "Margosatubig",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 528
+    },
+    {
+      "code": "907319000",
+      "name": "Molave",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 425
+    },
+    {
+      "code": "907322000",
+      "name": "City of Pagadian",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 406
+    },
+    {
+      "code": "907323000",
+      "name": "Ramon Magsaysay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 233
+    },
+    {
+      "code": "907324000",
+      "name": "San Miguel",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "907325000",
+      "name": "San Pablo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "907328000",
+      "name": "Tambulig",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 325
+    },
+    {
+      "code": "907330000",
+      "name": "Tukuran",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 386
+    },
+    {
+      "code": "907333000",
+      "name": "Lakewood",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 511
+    },
+    {
+      "code": "907337000",
+      "name": "Josefina",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 308
+    },
+    {
+      "code": "907338000",
+      "name": "Pitogo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "907340000",
+      "name": "Sominot",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 326
+    },
+    {
+      "code": "907341000",
+      "name": "Vincenzo A. Sagun",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "907343000",
+      "name": "Guipos",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 361
+    },
+    {
+      "code": "907344000",
+      "name": "Tigbao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 365
+    }
+  ]
+}

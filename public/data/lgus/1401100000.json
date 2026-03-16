@@ -1,0 +1,112 @@
+{
+  "provinceCode": "1401100000",
+  "provinceName": "Benguet",
+  "regionCode": "1400000000",
+  "regionName": "Region XII (SOCCSKSARGEN)",
+  "lgus": [
+    {
+      "code": "1401101000",
+      "name": "Atok",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 287
+    },
+    {
+      "code": "1401103000",
+      "name": "Bakun",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 303
+    },
+    {
+      "code": "1401104000",
+      "name": "Bokod",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 291
+    },
+    {
+      "code": "1401105000",
+      "name": "Buguias",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 300
+    },
+    {
+      "code": "1401106000",
+      "name": "Itogon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 347
+    },
+    {
+      "code": "1401107000",
+      "name": "Kabayan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 359
+    },
+    {
+      "code": "1401108000",
+      "name": "Kapangan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 235
+    },
+    {
+      "code": "1401109000",
+      "name": "Kibungan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 291
+    },
+    {
+      "code": "1401110000",
+      "name": "La Trinidad",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 289
+    },
+    {
+      "code": "1401111000",
+      "name": "Mankayan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 288
+    },
+    {
+      "code": "1401112000",
+      "name": "Sablan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 254
+    },
+    {
+      "code": "1401113000",
+      "name": "Tuba",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 422
+    },
+    {
+      "code": "1401114000",
+      "name": "Tublay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 180
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "provinceCode": "305400000",
+  "provinceName": "Pampanga",
+  "regionCode": "300000000",
+  "regionName": "Region II (Cagayan Valley)",
+  "lgus": [
+    {
+      "code": "305409000",
+      "name": "Mabalacat City",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 199
+    },
+    {
+      "code": "305402000",
+      "name": "Apalit",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 233
+    },
+    {
+      "code": "305403000",
+      "name": "Arayat",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 265
+    },
+    {
+      "code": "305404000",
+      "name": "Bacolor",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 296
+    },
+    {
+      "code": "305405000",
+      "name": "Candaba",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 271
+    },
+    {
+      "code": "305406000",
+      "name": "Floridablanca",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 284
+    },
+    {
+      "code": "305407000",
+      "name": "Guagua",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 213
+    },
+    {
+      "code": "305408000",
+      "name": "Lubao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 195
+    },
+    {
+      "code": "305410000",
+      "name": "Macabebe",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 227
+    },
+    {
+      "code": "305411000",
+      "name": "Magalang",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 199
+    },
+    {
+      "code": "305412000",
+      "name": "Masantol",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 187
+    },
+    {
+      "code": "305413000",
+      "name": "Mexico",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 283
+    },
+    {
+      "code": "305414000",
+      "name": "Minalin",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 217
+    },
+    {
+      "code": "305415000",
+      "name": "Porac",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 310
+    },
+    {
+      "code": "305416000",
+      "name": "City of San Fernando",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "305417000",
+      "name": "San Luis",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "305418000",
+      "name": "San Simon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 288
+    },
+    {
+      "code": "305419000",
+      "name": "Santa Ana",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "305420000",
+      "name": "Santa Rita",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 186
+    },
+    {
+      "code": "305421000",
+      "name": "Sto. Tomas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 1242
+    },
+    {
+      "code": "305422000",
+      "name": "Sasmuan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 313
+    }
+  ]
+}

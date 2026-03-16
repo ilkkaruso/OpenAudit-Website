@@ -1,0 +1,72 @@
+{
+  "provinceCode": "1403200000",
+  "provinceName": "Kalinga",
+  "regionCode": "1400000000",
+  "regionName": "Region XII (SOCCSKSARGEN)",
+  "lgus": [
+    {
+      "code": "1403209000",
+      "name": "Pinukpuk",
+      "score": 1,
+      "normalizedScore": 0.81,
+      "maxStreak": 1,
+      "observationCount": 290
+    },
+    {
+      "code": "1403201000",
+      "name": "Balbalan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 269
+    },
+    {
+      "code": "1403206000",
+      "name": "Lubuagan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 192
+    },
+    {
+      "code": "1403208000",
+      "name": "Pasil",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 173
+    },
+    {
+      "code": "1403211000",
+      "name": "Rizal",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 2288
+    },
+    {
+      "code": "1403213000",
+      "name": "City of Tabuk",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 288
+    },
+    {
+      "code": "1403214000",
+      "name": "Tanudan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 230
+    },
+    {
+      "code": "1403215000",
+      "name": "Tinglayan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 235
+    }
+  ]
+}

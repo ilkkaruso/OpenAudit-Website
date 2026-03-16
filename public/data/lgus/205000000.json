@@ -1,0 +1,128 @@
+{
+  "provinceCode": "205000000",
+  "provinceName": "Nueva Vizcaya",
+  "regionCode": "200000000",
+  "regionName": "CAR (Cordillera Administrative Region)",
+  "lgus": [
+    {
+      "code": "205001000",
+      "name": "Ambaguio",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 891
+    },
+    {
+      "code": "205002000",
+      "name": "Aritao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 279
+    },
+    {
+      "code": "205003000",
+      "name": "Bagabag",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 435
+    },
+    {
+      "code": "205004000",
+      "name": "Bambang",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 250
+    },
+    {
+      "code": "205005000",
+      "name": "Bayombong",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 410
+    },
+    {
+      "code": "205006000",
+      "name": "Diadi",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 488
+    },
+    {
+      "code": "205007000",
+      "name": "Dupax del Norte",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 298
+    },
+    {
+      "code": "205008000",
+      "name": "Dupax del Sur",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 269
+    },
+    {
+      "code": "205009000",
+      "name": "Kasibu",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 415
+    },
+    {
+      "code": "205010000",
+      "name": "Kayapa",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 250
+    },
+    {
+      "code": "205011000",
+      "name": "Quezon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "205012000",
+      "name": "Santa Fe",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "205013000",
+      "name": "Solano",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 338
+    },
+    {
+      "code": "205014000",
+      "name": "Villaverde",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 328
+    },
+    {
+      "code": "205015000",
+      "name": "Alfonso Castaneda",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 252
+    }
+  ]
+}

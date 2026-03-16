@@ -1,0 +1,48 @@
+{
+  "regionCode": "500000000",
+  "regionName": "Region IV-A (CALABARZON)",
+  "provinces": [
+    {
+      "code": "501700000",
+      "name": "Camarines Sur",
+      "score": 0.14,
+      "totalScore": 5,
+      "lguCount": 37
+    },
+    {
+      "code": "504100000",
+      "name": "Masbate",
+      "score": 0.14,
+      "totalScore": 3,
+      "lguCount": 21
+    },
+    {
+      "code": "501600000",
+      "name": "Camarines Norte",
+      "score": 0.08,
+      "totalScore": 1,
+      "lguCount": 12
+    },
+    {
+      "code": "506200000",
+      "name": "Sorsogon",
+      "score": 0.07,
+      "totalScore": 1,
+      "lguCount": 15
+    },
+    {
+      "code": "500500000",
+      "name": "Albay",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 18
+    },
+    {
+      "code": "502000000",
+      "name": "Catanduanes",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 11
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "provinceCode": "1206500000",
+  "provinceName": "Sultan Kudarat",
+  "regionCode": "1200000000",
+  "regionName": "Region XI (Davao Region)",
+  "lgus": [
+    {
+      "code": "1206501000",
+      "name": "Bagumbayan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 135
+    },
+    {
+      "code": "1206502000",
+      "name": "Columbio",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 122
+    },
+    {
+      "code": "1206503000",
+      "name": "Esperanza",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 676
+    },
+    {
+      "code": "1206504000",
+      "name": "Isulan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 142
+    },
+    {
+      "code": "1206505000",
+      "name": "Kalamansig",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 117
+    },
+    {
+      "code": "1206506000",
+      "name": "Lebak",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 126
+    },
+    {
+      "code": "1206507000",
+      "name": "Lutayan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 122
+    },
+    {
+      "code": "1206508000",
+      "name": "Lambayong",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 164
+    },
+    {
+      "code": "1206509000",
+      "name": "Palimbang",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 153
+    },
+    {
+      "code": "1206510000",
+      "name": "President Quirino",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 69
+    },
+    {
+      "code": "1206511000",
+      "name": "City of Tacurong",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 123
+    },
+    {
+      "code": "1206512000",
+      "name": "Sen. Ninoy Aquino",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 84
+    }
+  ]
+}

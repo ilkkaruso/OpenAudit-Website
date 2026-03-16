@@ -1,0 +1,136 @@
+{
+  "provinceCode": "908300000",
+  "provinceName": "Zamboanga Sibugay",
+  "regionCode": "900000000",
+  "regionName": "Region VIII (Eastern Visayas)",
+  "lgus": [
+    {
+      "code": "908313000",
+      "name": "Siay",
+      "score": 3,
+      "normalizedScore": 1.67,
+      "maxStreak": 1,
+      "observationCount": 510
+    },
+    {
+      "code": "908304000",
+      "name": "Imelda",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 229
+    },
+    {
+      "code": "908305000",
+      "name": "Ipil",
+      "score": 1,
+      "normalizedScore": 0.51,
+      "maxStreak": 1,
+      "observationCount": 594
+    },
+    {
+      "code": "908301000",
+      "name": "Alicia",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "908302000",
+      "name": "Buug",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 342
+    },
+    {
+      "code": "908303000",
+      "name": "Diplahan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 294
+    },
+    {
+      "code": "908306000",
+      "name": "Kabasalan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 356
+    },
+    {
+      "code": "908307000",
+      "name": "Mabuhay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 219
+    },
+    {
+      "code": "908308000",
+      "name": "Malangas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 438
+    },
+    {
+      "code": "908309000",
+      "name": "Naga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 1528
+    },
+    {
+      "code": "908310000",
+      "name": "Olutanga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 229
+    },
+    {
+      "code": "908311000",
+      "name": "Payao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 529
+    },
+    {
+      "code": "908312000",
+      "name": "Roseller Lim",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "908314000",
+      "name": "Talusan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 213
+    },
+    {
+      "code": "908315000",
+      "name": "Titay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 549
+    },
+    {
+      "code": "908316000",
+      "name": "Tungawan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 189
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "provinceCode": "1907000000",
+  "provinceName": "Tawi-Tawi",
+  "regionCode": "1900000000",
+  "regionName": "BARMM",
+  "lgus": [
+    {
+      "code": "1907002000",
+      "name": "Bongao",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 162
+    },
+    {
+      "code": "1907004000",
+      "name": "Simunul",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 148
+    },
+    {
+      "code": "1907006000",
+      "name": "South Ubian",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 177
+    },
+    {
+      "code": "1907008000",
+      "name": "Turtle Islands",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 147
+    },
+    {
+      "code": "1907001000",
+      "name": "Panglima Sugala",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 79
+    },
+    {
+      "code": "1907003000",
+      "name": "Mapun",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 181
+    },
+    {
+      "code": "1907005000",
+      "name": "Sitangkai",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 80
+    },
+    {
+      "code": "1907007000",
+      "name": "Tandubas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 84
+    },
+    {
+      "code": "1907009000",
+      "name": "Languyan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 111
+    },
+    {
+      "code": "1907010000",
+      "name": "Sapa-Sapa",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 103
+    },
+    {
+      "code": "1907011000",
+      "name": "Sibutu",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 97
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "provinceCode": "506200000",
+  "provinceName": "Sorsogon",
+  "regionCode": "500000000",
+  "regionName": "Region IV-A (CALABARZON)",
+  "lgus": [
+    {
+      "code": "506204000",
+      "name": "Bulusan",
+      "score": 1,
+      "normalizedScore": 0.95,
+      "maxStreak": 1,
+      "observationCount": 243
+    },
+    {
+      "code": "506202000",
+      "name": "Barcelona",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 296
+    },
+    {
+      "code": "506203000",
+      "name": "Bulan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 215
+    },
+    {
+      "code": "506205000",
+      "name": "Casiguran",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "506206000",
+      "name": "Castilla",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 351
+    },
+    {
+      "code": "506207000",
+      "name": "Donsol",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 317
+    },
+    {
+      "code": "506208000",
+      "name": "Gubat",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 316
+    },
+    {
+      "code": "506209000",
+      "name": "Irosin",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 297
+    },
+    {
+      "code": "506210000",
+      "name": "Juban",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 229
+    },
+    {
+      "code": "506211000",
+      "name": "Magallanes",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "506212000",
+      "name": "Matnog",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 373
+    },
+    {
+      "code": "506213000",
+      "name": "Pilar",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "506214000",
+      "name": "Prieto Diaz",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 348
+    },
+    {
+      "code": "506215000",
+      "name": "Santa Magdalena",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "506216000",
+      "name": "City of Sorsogon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 415
+    }
+  ]
+}

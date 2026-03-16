@@ -1,0 +1,120 @@
+{
+  "provinceCode": "1600300000",
+  "provinceName": "Agusan del Sur",
+  "regionCode": "1600000000",
+  "regionName": "Region XIII (Caraga)",
+  "lgus": [
+    {
+      "code": "1600301000",
+      "name": "City of Bayugan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 264
+    },
+    {
+      "code": "1600302000",
+      "name": "Bunawan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 275
+    },
+    {
+      "code": "1600303000",
+      "name": "Esperanza",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1600304000",
+      "name": "La Paz",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1600305000",
+      "name": "Loreto",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 606
+    },
+    {
+      "code": "1600306000",
+      "name": "Prosperidad",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 171
+    },
+    {
+      "code": "1600307000",
+      "name": "Rosario",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1600308000",
+      "name": "San Francisco",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 1432
+    },
+    {
+      "code": "1600309000",
+      "name": "San Luis",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 802
+    },
+    {
+      "code": "1600310000",
+      "name": "Santa Josefa",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1600311000",
+      "name": "Talacogon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 141
+    },
+    {
+      "code": "1600312000",
+      "name": "Trento",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 227
+    },
+    {
+      "code": "1600313000",
+      "name": "Veruela",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 216
+    },
+    {
+      "code": "1600314000",
+      "name": "Sibagat",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 199
+    }
+  ]
+}

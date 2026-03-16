@@ -1,0 +1,34 @@
+{
+  "regionCode": "700000000",
+  "regionName": "Region VI (Western Visayas)",
+  "provinces": [
+    {
+      "code": "702200000",
+      "name": "Cebu",
+      "score": 0.42,
+      "totalScore": 21,
+      "lguCount": 50
+    },
+    {
+      "code": "704600000",
+      "name": "Negros Oriental",
+      "score": 0.64,
+      "totalScore": 16,
+      "lguCount": 25
+    },
+    {
+      "code": "701200000",
+      "name": "Bohol",
+      "score": 0.06,
+      "totalScore": 3,
+      "lguCount": 48
+    },
+    {
+      "code": "706100000",
+      "name": "Siquijor",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 6
+    }
+  ]
+}

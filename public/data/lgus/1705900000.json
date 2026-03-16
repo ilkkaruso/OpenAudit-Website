@@ -1,0 +1,144 @@
+{
+  "provinceCode": "1705900000",
+  "provinceName": "Romblon",
+  "regionCode": "1700000000",
+  "regionName": "MIMAROPA",
+  "lgus": [
+    {
+      "code": "1705904000",
+      "name": "Calatrava",
+      "score": 1,
+      "normalizedScore": 0.53,
+      "maxStreak": 1,
+      "observationCount": 556
+    },
+    {
+      "code": "1705901000",
+      "name": "Alcantara",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 462
+    },
+    {
+      "code": "1705902000",
+      "name": "Banton",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 198
+    },
+    {
+      "code": "1705903000",
+      "name": "Cajidiocan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 429
+    },
+    {
+      "code": "1705905000",
+      "name": "Concepcion",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1705906000",
+      "name": "Corcuera",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 264
+    },
+    {
+      "code": "1705907000",
+      "name": "Looc",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1705908000",
+      "name": "Magdiwang",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 148
+    },
+    {
+      "code": "1705909000",
+      "name": "Odiongan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 233
+    },
+    {
+      "code": "1705910000",
+      "name": "Romblon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 252
+    },
+    {
+      "code": "1705911000",
+      "name": "San Agustin",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1705912000",
+      "name": "San Andres",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 536
+    },
+    {
+      "code": "1705913000",
+      "name": "San Fernando",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1705914000",
+      "name": "San Jose",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1705915000",
+      "name": "Santa Fe",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 760
+    },
+    {
+      "code": "1705916000",
+      "name": "Ferrol",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 250
+    },
+    {
+      "code": "1705917000",
+      "name": "Santa Maria",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    }
+  ]
+}

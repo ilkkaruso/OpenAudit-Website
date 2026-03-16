@@ -1,0 +1,34 @@
+{
+  "regionCode": "100000000",
+  "regionName": "Region I (Ilocos Region)",
+  "provinces": [
+    {
+      "code": "105500000",
+      "name": "Pangasinan",
+      "score": 0.33,
+      "totalScore": 16,
+      "lguCount": 48
+    },
+    {
+      "code": "102800000",
+      "name": "Ilocos Norte",
+      "score": 0.43,
+      "totalScore": 10,
+      "lguCount": 23
+    },
+    {
+      "code": "103300000",
+      "name": "La Union",
+      "score": 0.15,
+      "totalScore": 3,
+      "lguCount": 20
+    },
+    {
+      "code": "102900000",
+      "name": "Ilocos Sur",
+      "score": 0.06,
+      "totalScore": 2,
+      "lguCount": 34
+    }
+  ]
+}

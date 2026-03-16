@@ -1,0 +1,158 @@
+{
+  "updated": "2026-03-16",
+  "regions": [
+    {
+      "code": "600000000",
+      "name": "Region V (Bicol Region)",
+      "score": 0.31,
+      "totalScore": 40,
+      "lguCount": 131,
+      "worstScore": 4,
+      "provinceCount": 6
+    },
+    {
+      "code": "700000000",
+      "name": "Region VI (Western Visayas)",
+      "score": 0.31,
+      "totalScore": 40,
+      "lguCount": 129,
+      "worstScore": 6,
+      "provinceCount": 4
+    },
+    {
+      "code": "800000000",
+      "name": "Region VII (Central Visayas)",
+      "score": 0.27,
+      "totalScore": 38,
+      "lguCount": 142,
+      "worstScore": 6,
+      "provinceCount": 6
+    },
+    {
+      "code": "100000000",
+      "name": "Region I (Ilocos Region)",
+      "score": 0.25,
+      "totalScore": 31,
+      "lguCount": 125,
+      "worstScore": 3,
+      "provinceCount": 4
+    },
+    {
+      "code": "900000000",
+      "name": "Region VIII (Eastern Visayas)",
+      "score": 0.28,
+      "totalScore": 20,
+      "lguCount": 71,
+      "worstScore": 3,
+      "provinceCount": 4
+    },
+    {
+      "code": "1000000000",
+      "name": "Region IX (Zamboanga Peninsula)",
+      "score": 0.13,
+      "totalScore": 12,
+      "lguCount": 91,
+      "worstScore": 4,
+      "provinceCount": 5
+    },
+    {
+      "code": "1700000000",
+      "name": "MIMAROPA",
+      "score": 0.17,
+      "totalScore": 12,
+      "lguCount": 72,
+      "worstScore": 4,
+      "provinceCount": 5
+    },
+    {
+      "code": "500000000",
+      "name": "Region IV-A (CALABARZON)",
+      "score": 0.09,
+      "totalScore": 10,
+      "lguCount": 114,
+      "worstScore": 2,
+      "provinceCount": 6
+    },
+    {
+      "code": "1900000000",
+      "name": "BARMM",
+      "score": 0.08,
+      "totalScore": 9,
+      "lguCount": 119,
+      "worstScore": 1,
+      "provinceCount": 7
+    },
+    {
+      "code": "300000000",
+      "name": "Region II (Cagayan Valley)",
+      "score": 0.05,
+      "totalScore": 6,
+      "lguCount": 128,
+      "worstScore": 1,
+      "provinceCount": 7
+    },
+    {
+      "code": "1100000000",
+      "name": "Region X (Northern Mindanao)",
+      "score": 0.1,
+      "totalScore": 5,
+      "lguCount": 49,
+      "worstScore": 1,
+      "provinceCount": 5
+    },
+    {
+      "code": "400000000",
+      "name": "Region III (Central Luzon)",
+      "score": 0.04,
+      "totalScore": 5,
+      "lguCount": 141,
+      "worstScore": 3,
+      "provinceCount": 5
+    },
+    {
+      "code": "1400000000",
+      "name": "Region XII (SOCCSKSARGEN)",
+      "score": 0.05,
+      "totalScore": 4,
+      "lguCount": 76,
+      "worstScore": 1,
+      "provinceCount": 6
+    },
+    {
+      "code": "1200000000",
+      "name": "Region XI (Davao Region)",
+      "score": 0.04,
+      "totalScore": 2,
+      "lguCount": 48,
+      "worstScore": 1,
+      "provinceCount": 4
+    },
+    {
+      "code": "1300000000",
+      "name": "NCR (National Capital Region)",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 17,
+      "worstScore": 0,
+      "provinceCount": 4
+    },
+    {
+      "code": "1600000000",
+      "name": "Region XIII (Caraga)",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 72,
+      "worstScore": 0,
+      "provinceCount": 5
+    },
+    {
+      "code": "200000000",
+      "name": "CAR (Cordillera Administrative Region)",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 93,
+      "worstScore": 0,
+      "provinceCount": 5
+    }
+  ]
+}

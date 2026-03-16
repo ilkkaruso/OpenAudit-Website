@@ -1,0 +1,144 @@
+{
+  "provinceCode": "1004200000",
+  "provinceName": "Misamis Occidental",
+  "regionCode": "1000000000",
+  "regionName": "Region IX (Zamboanga Peninsula)",
+  "lgus": [
+    {
+      "code": "1004203000",
+      "name": "Bonifacio",
+      "score": 1,
+      "normalizedScore": 0.92,
+      "maxStreak": 1,
+      "observationCount": 251
+    },
+    {
+      "code": "1004205000",
+      "name": "Clarin",
+      "score": 1,
+      "normalizedScore": 0.52,
+      "maxStreak": 1,
+      "observationCount": 571
+    },
+    {
+      "code": "1004201000",
+      "name": "Aloran",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 139
+    },
+    {
+      "code": "1004202000",
+      "name": "Baliangao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 239
+    },
+    {
+      "code": "1004204000",
+      "name": "Calamba",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 344
+    },
+    {
+      "code": "1004206000",
+      "name": "Concepcion",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 1202
+    },
+    {
+      "code": "1004207000",
+      "name": "Jimenez",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 156
+    },
+    {
+      "code": "1004208000",
+      "name": "Lopez Jaena",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 215
+    },
+    {
+      "code": "1004209000",
+      "name": "City of Oroquieta",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 263
+    },
+    {
+      "code": "1004210000",
+      "name": "City of Ozamiz",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 248
+    },
+    {
+      "code": "1004211000",
+      "name": "Panaon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 160
+    },
+    {
+      "code": "1004212000",
+      "name": "Plaridel",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 532
+    },
+    {
+      "code": "1004213000",
+      "name": "Sapang Dalaga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 299
+    },
+    {
+      "code": "1004214000",
+      "name": "Sinacaban",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 206
+    },
+    {
+      "code": "1004215000",
+      "name": "City of Tangub",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 178
+    },
+    {
+      "code": "1004216000",
+      "name": "Tudela",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 517
+    },
+    {
+      "code": "1004217000",
+      "name": "Don Victoriano Chiongbian",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 163
+    }
+  ]
+}

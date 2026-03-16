@@ -1,0 +1,200 @@
+{
+  "provinceCode": "804800000",
+  "provinceName": "Northern Samar",
+  "regionCode": "800000000",
+  "regionName": "Region VII (Central Visayas)",
+  "lgus": [
+    {
+      "code": "804811000",
+      "name": "Lavezares",
+      "score": 1,
+      "normalizedScore": 0.93,
+      "maxStreak": 1,
+      "observationCount": 250
+    },
+    {
+      "code": "804812000",
+      "name": "Mapanas",
+      "score": 1,
+      "normalizedScore": 0.78,
+      "maxStreak": 1,
+      "observationCount": 305
+    },
+    {
+      "code": "804801000",
+      "name": "Allen",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 213
+    },
+    {
+      "code": "804802000",
+      "name": "Biri",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 250
+    },
+    {
+      "code": "804803000",
+      "name": "Bobon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 270
+    },
+    {
+      "code": "804804000",
+      "name": "Capul",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 226
+    },
+    {
+      "code": "804805000",
+      "name": "Catarman",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "804806000",
+      "name": "Catubig",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 328
+    },
+    {
+      "code": "804807000",
+      "name": "Gamay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 215
+    },
+    {
+      "code": "804808000",
+      "name": "Laoang",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 266
+    },
+    {
+      "code": "804809000",
+      "name": "Lapinig",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 247
+    },
+    {
+      "code": "804810000",
+      "name": "Las Navas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 302
+    },
+    {
+      "code": "804813000",
+      "name": "Mondragon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 276
+    },
+    {
+      "code": "804814000",
+      "name": "Palapag",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 223
+    },
+    {
+      "code": "804815000",
+      "name": "Pambujan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 292
+    },
+    {
+      "code": "804816000",
+      "name": "Rosario",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "804817000",
+      "name": "San Antonio",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "804818000",
+      "name": "San Isidro",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "804819000",
+      "name": "San Jose",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "804820000",
+      "name": "San Roque",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 207
+    },
+    {
+      "code": "804821000",
+      "name": "San Vicente",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "804822000",
+      "name": "Silvino Lobos",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "804823000",
+      "name": "Victoria",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "804824000",
+      "name": "Lope De Vega",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 244
+    }
+  ]
+}

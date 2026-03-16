@@ -1,0 +1,176 @@
+{
+  "provinceCode": "504100000",
+  "provinceName": "Masbate",
+  "regionCode": "500000000",
+  "regionName": "Region IV-A (CALABARZON)",
+  "lgus": [
+    {
+      "code": "504104000",
+      "name": "Batuan",
+      "score": 2,
+      "normalizedScore": 0.94,
+      "maxStreak": 1,
+      "observationCount": 712
+    },
+    {
+      "code": "504103000",
+      "name": "Balud",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 228
+    },
+    {
+      "code": "504101000",
+      "name": "Aroroy",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 264
+    },
+    {
+      "code": "504102000",
+      "name": "Baleno",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 199
+    },
+    {
+      "code": "504105000",
+      "name": "Cataingan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 281
+    },
+    {
+      "code": "504106000",
+      "name": "Cawayan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 607
+    },
+    {
+      "code": "504107000",
+      "name": "Claveria",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "504108000",
+      "name": "Dimasalang",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 298
+    },
+    {
+      "code": "504109000",
+      "name": "Esperanza",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "504110000",
+      "name": "Mandaon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 169
+    },
+    {
+      "code": "504111000",
+      "name": "City of Masbate",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 633
+    },
+    {
+      "code": "504112000",
+      "name": "Milagros",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 197
+    },
+    {
+      "code": "504113000",
+      "name": "Mobo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 196
+    },
+    {
+      "code": "504114000",
+      "name": "Monreal",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 191
+    },
+    {
+      "code": "504115000",
+      "name": "Palanas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 168
+    },
+    {
+      "code": "504116000",
+      "name": "Pio V. Corpus",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 136
+    },
+    {
+      "code": "504117000",
+      "name": "Placer",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "504118000",
+      "name": "San Fernando",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "504119000",
+      "name": "San Jacinto",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "504120000",
+      "name": "San Pascual",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "504121000",
+      "name": "Uson",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 191
+    }
+  ]
+}

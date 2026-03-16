@@ -1,0 +1,40 @@
+{
+  "provinceCode": "1307500000",
+  "provinceName": "NCR, Third District (Not a Province)",
+  "regionCode": "1300000000",
+  "regionName": "NCR (National Capital Region)",
+  "lgus": [
+    {
+      "code": "1380100000",
+      "name": "City of Caloocan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 320
+    },
+    {
+      "code": "1380400000",
+      "name": "City of Malabon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 317
+    },
+    {
+      "code": "1380900000",
+      "name": "City of Navotas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 274
+    },
+    {
+      "code": "1381600000",
+      "name": "City of Valenzuela",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 372
+    }
+  ]
+}

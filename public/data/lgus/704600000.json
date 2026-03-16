@@ -1,0 +1,208 @@
+{
+  "provinceCode": "704600000",
+  "provinceName": "Negros Oriental",
+  "regionCode": "700000000",
+  "regionName": "Region VI (Western Visayas)",
+  "lgus": [
+    {
+      "code": "704602000",
+      "name": "Ayungon",
+      "score": 3,
+      "normalizedScore": 2.54,
+      "maxStreak": 2,
+      "observationCount": 277
+    },
+    {
+      "code": "704604000",
+      "name": "City of Bais",
+      "score": 3,
+      "normalizedScore": 2.24,
+      "maxStreak": 2,
+      "observationCount": 325
+    },
+    {
+      "code": "704601000",
+      "name": "Amlan",
+      "score": 1,
+      "normalizedScore": 0.87,
+      "maxStreak": 1,
+      "observationCount": 267
+    },
+    {
+      "code": "704605000",
+      "name": "Basay",
+      "score": 1,
+      "normalizedScore": 0.79,
+      "maxStreak": 1,
+      "observationCount": 299
+    },
+    {
+      "code": "704608000",
+      "name": "City of Canlaon",
+      "score": 1,
+      "normalizedScore": 0.87,
+      "maxStreak": 1,
+      "observationCount": 267
+    },
+    {
+      "code": "704612000",
+      "name": "Jimalalud",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 229
+    },
+    {
+      "code": "704614000",
+      "name": "Mabinay",
+      "score": 1,
+      "normalizedScore": 0.96,
+      "maxStreak": 1,
+      "observationCount": 241
+    },
+    {
+      "code": "704615000",
+      "name": "Manjuyod",
+      "score": 1,
+      "normalizedScore": 0.91,
+      "maxStreak": 1,
+      "observationCount": 254
+    },
+    {
+      "code": "704621000",
+      "name": "City of Tanjay",
+      "score": 1,
+      "normalizedScore": 0.75,
+      "maxStreak": 1,
+      "observationCount": 322
+    },
+    {
+      "code": "704622000",
+      "name": "Tayasan",
+      "score": 1,
+      "normalizedScore": 0.89,
+      "maxStreak": 1,
+      "observationCount": 260
+    },
+    {
+      "code": "704624000",
+      "name": "Vallehermoso",
+      "score": 1,
+      "normalizedScore": 0.87,
+      "maxStreak": 1,
+      "observationCount": 267
+    },
+    {
+      "code": "704625000",
+      "name": "Zamboanguita",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 195
+    },
+    {
+      "code": "704603000",
+      "name": "Bacong",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 140
+    },
+    {
+      "code": "704606000",
+      "name": "City of Bayawan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 192
+    },
+    {
+      "code": "704607000",
+      "name": "Bindoy",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 218
+    },
+    {
+      "code": "704609000",
+      "name": "Dauin",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 308
+    },
+    {
+      "code": "704610000",
+      "name": "City of Dumaguete",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 346
+    },
+    {
+      "code": "704611000",
+      "name": "City of Guihulngan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 319
+    },
+    {
+      "code": "704613000",
+      "name": "La Libertad",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 397
+    },
+    {
+      "code": "704616000",
+      "name": "Pamplona",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "704617000",
+      "name": "San Jose",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "704618000",
+      "name": "Santa Catalina",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "704619000",
+      "name": "Siaton",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 266
+    },
+    {
+      "code": "704620000",
+      "name": "Sibulan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 178
+    },
+    {
+      "code": "704623000",
+      "name": "Valencia",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "provinceCode": "1108600000",
+  "provinceName": "Davao Occidental",
+  "regionCode": "1100000000",
+  "regionName": "Region X (Northern Mindanao)",
+  "lgus": [
+    {
+      "code": "1108601000",
+      "name": "Don Marcelino",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 270
+    },
+    {
+      "code": "1108602000",
+      "name": "Jose Abad Santos",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 233
+    },
+    {
+      "code": "1108603000",
+      "name": "Malita",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 152
+    },
+    {
+      "code": "1108604000",
+      "name": "Santa Maria",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1108605000",
+      "name": "Sarangani",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 665
+    }
+  ]
+}

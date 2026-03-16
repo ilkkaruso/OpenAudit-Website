@@ -1,0 +1,200 @@
+{
+  "provinceCode": "301400000",
+  "provinceName": "Bulacan",
+  "regionCode": "300000000",
+  "regionName": "Region II (Cagayan Valley)",
+  "lgus": [
+    {
+      "code": "301422000",
+      "name": "San Rafael",
+      "score": 1,
+      "normalizedScore": 0.65,
+      "maxStreak": 1,
+      "observationCount": 394
+    },
+    {
+      "code": "301401000",
+      "name": "Angat",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 207
+    },
+    {
+      "code": "301402000",
+      "name": "Balagtas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 231
+    },
+    {
+      "code": "301403000",
+      "name": "City of Baliwag",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 204
+    },
+    {
+      "code": "301404000",
+      "name": "Bocaue",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 286
+    },
+    {
+      "code": "301405000",
+      "name": "Bulacan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 833
+    },
+    {
+      "code": "301406000",
+      "name": "Bustos",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 191
+    },
+    {
+      "code": "301407000",
+      "name": "Calumpit",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 129
+    },
+    {
+      "code": "301408000",
+      "name": "Guiguinto",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 152
+    },
+    {
+      "code": "301409000",
+      "name": "Hagonoy",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "301410000",
+      "name": "City of Malolos",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 236
+    },
+    {
+      "code": "301411000",
+      "name": "Marilao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 198
+    },
+    {
+      "code": "301412000",
+      "name": "City of Meycauayan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 259
+    },
+    {
+      "code": "301413000",
+      "name": "Norzagaray",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 203
+    },
+    {
+      "code": "301414000",
+      "name": "Obando",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 173
+    },
+    {
+      "code": "301415000",
+      "name": "Pandi",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 147
+    },
+    {
+      "code": "301416000",
+      "name": "Paombong",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 139
+    },
+    {
+      "code": "301417000",
+      "name": "Plaridel",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "301418000",
+      "name": "Pulilan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 153
+    },
+    {
+      "code": "301419000",
+      "name": "San Ildefonso",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "301420000",
+      "name": "City of San Jose Del Monte",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 29
+    },
+    {
+      "code": "301421000",
+      "name": "San Miguel",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "301423000",
+      "name": "Santa Maria",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "301424000",
+      "name": "Doña Remedios Trinidad",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 12
+    }
+  ]
+}

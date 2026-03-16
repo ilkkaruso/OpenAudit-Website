@@ -1,0 +1,96 @@
+{
+  "provinceCode": "1108200000",
+  "provinceName": "Davao de Oro",
+  "regionCode": "1100000000",
+  "regionName": "Region X (Northern Mindanao)",
+  "lgus": [
+    {
+      "code": "1108201000",
+      "name": "Compostela",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 413
+    },
+    {
+      "code": "1108202000",
+      "name": "Laak",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 142
+    },
+    {
+      "code": "1108203000",
+      "name": "Mabini",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1108204000",
+      "name": "Maco",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 298
+    },
+    {
+      "code": "1108205000",
+      "name": "Maragusan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 92
+    },
+    {
+      "code": "1108206000",
+      "name": "Mawab",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 137
+    },
+    {
+      "code": "1108207000",
+      "name": "Monkayo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 187
+    },
+    {
+      "code": "1108208000",
+      "name": "Montevista",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 176
+    },
+    {
+      "code": "1108209000",
+      "name": "Nabunturan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 193
+    },
+    {
+      "code": "1108210000",
+      "name": "New Bataan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 115
+    },
+    {
+      "code": "1108211000",
+      "name": "Pantukan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 284
+    }
+  ]
+}

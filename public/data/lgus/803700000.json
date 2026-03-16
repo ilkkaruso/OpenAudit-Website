@@ -1,0 +1,344 @@
+{
+  "provinceCode": "803700000",
+  "provinceName": "Leyte",
+  "regionCode": "800000000",
+  "regionName": "Region VII (Central Visayas)",
+  "lgus": [
+    {
+      "code": "803735000",
+      "name": "Mayorga",
+      "score": 6,
+      "normalizedScore": 3.85,
+      "maxStreak": 3,
+      "observationCount": 403
+    },
+    {
+      "code": "803718000",
+      "name": "Dulag",
+      "score": 3,
+      "normalizedScore": 2.38,
+      "maxStreak": 2,
+      "observationCount": 299
+    },
+    {
+      "code": "803722000",
+      "name": "Isabel",
+      "score": 2,
+      "normalizedScore": 1.51,
+      "maxStreak": 1,
+      "observationCount": 319
+    },
+    {
+      "code": "803705000",
+      "name": "Babatngon",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 156
+    },
+    {
+      "code": "803740000",
+      "name": "Palompon",
+      "score": 1,
+      "normalizedScore": 0.88,
+      "maxStreak": 1,
+      "observationCount": 266
+    },
+    {
+      "code": "803701000",
+      "name": "Abuyog",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 147
+    },
+    {
+      "code": "803702000",
+      "name": "Alangalang",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 226
+    },
+    {
+      "code": "803703000",
+      "name": "Albuera",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 198
+    },
+    {
+      "code": "803706000",
+      "name": "Barugo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 248
+    },
+    {
+      "code": "803707000",
+      "name": "Bato",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "803708000",
+      "name": "City of Baybay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 169
+    },
+    {
+      "code": "803710000",
+      "name": "Burauen",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 165
+    },
+    {
+      "code": "803713000",
+      "name": "Calubian",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 206
+    },
+    {
+      "code": "803714000",
+      "name": "Capoocan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 140
+    },
+    {
+      "code": "803715000",
+      "name": "Carigara",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 198
+    },
+    {
+      "code": "803717000",
+      "name": "Dagami",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 232
+    },
+    {
+      "code": "803719000",
+      "name": "Hilongos",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 286
+    },
+    {
+      "code": "803720000",
+      "name": "Hindang",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 184
+    },
+    {
+      "code": "803721000",
+      "name": "Inopacan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 270
+    },
+    {
+      "code": "803723000",
+      "name": "Jaro",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 217
+    },
+    {
+      "code": "803724000",
+      "name": "Javier",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 188
+    },
+    {
+      "code": "803725000",
+      "name": "Julita",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 195
+    },
+    {
+      "code": "803726000",
+      "name": "Kananga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 275
+    },
+    {
+      "code": "803728000",
+      "name": "La Paz",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "803729000",
+      "name": "Leyte",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 1514
+    },
+    {
+      "code": "803730000",
+      "name": "Macarthur",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 511
+    },
+    {
+      "code": "803731000",
+      "name": "Mahaplag",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 192
+    },
+    {
+      "code": "803733000",
+      "name": "Matag-Ob",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 204
+    },
+    {
+      "code": "803734000",
+      "name": "Matalom",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 155
+    },
+    {
+      "code": "803736000",
+      "name": "Merida",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 185
+    },
+    {
+      "code": "803738000",
+      "name": "Ormoc City",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 189
+    },
+    {
+      "code": "803739000",
+      "name": "Palo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 200
+    },
+    {
+      "code": "803741000",
+      "name": "Pastrana",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 154
+    },
+    {
+      "code": "803742000",
+      "name": "San Isidro",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "803743000",
+      "name": "San Miguel",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "803744000",
+      "name": "Santa Fe",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "803745000",
+      "name": "Tabango",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 141
+    },
+    {
+      "code": "803746000",
+      "name": "Tabontabon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 148
+    },
+    {
+      "code": "803748000",
+      "name": "Tanauan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 432
+    },
+    {
+      "code": "803749000",
+      "name": "Tolosa",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 182
+    },
+    {
+      "code": "803750000",
+      "name": "Tunga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 224
+    },
+    {
+      "code": "803751000",
+      "name": "Villaba",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 202
+    }
+  ]
+}

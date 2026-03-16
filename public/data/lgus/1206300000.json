@@ -1,0 +1,96 @@
+{
+  "provinceCode": "1206300000",
+  "provinceName": "South Cotabato",
+  "regionCode": "1200000000",
+  "regionName": "Region XI (Davao Region)",
+  "lgus": [
+    {
+      "code": "1206314000",
+      "name": "Tampakan",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 198
+    },
+    {
+      "code": "1206302000",
+      "name": "Banga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 797
+    },
+    {
+      "code": "1206306000",
+      "name": "City of Koronadal",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 199
+    },
+    {
+      "code": "1206311000",
+      "name": "Norala",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 167
+    },
+    {
+      "code": "1206312000",
+      "name": "Polomolok",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 207
+    },
+    {
+      "code": "1206313000",
+      "name": "Surallah",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 193
+    },
+    {
+      "code": "1206315000",
+      "name": "Tantangan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 262
+    },
+    {
+      "code": "1206316000",
+      "name": "T'Boli",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 144
+    },
+    {
+      "code": "1206317000",
+      "name": "Tupi",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 184
+    },
+    {
+      "code": "1206318000",
+      "name": "Santo Niño",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1206319000",
+      "name": "Lake Sebu",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 198
+    }
+  ]
+}

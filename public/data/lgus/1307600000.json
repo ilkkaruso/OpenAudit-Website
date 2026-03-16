@@ -1,0 +1,64 @@
+{
+  "provinceCode": "1307600000",
+  "provinceName": "NCR, Fourth District (Not a Province)",
+  "regionCode": "1300000000",
+  "regionName": "NCR (National Capital Region)",
+  "lgus": [
+    {
+      "code": "1380200000",
+      "name": "City of Las Piñas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 51
+    },
+    {
+      "code": "1380300000",
+      "name": "City of Makati",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 204
+    },
+    {
+      "code": "1380800000",
+      "name": "City of Muntinlupa",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 352
+    },
+    {
+      "code": "1381000000",
+      "name": "City of Parañaque",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 49
+    },
+    {
+      "code": "1381100000",
+      "name": "Pasay City",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 608
+    },
+    {
+      "code": "1381500000",
+      "name": "City of Taguig",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 277
+    },
+    {
+      "code": "1381701000",
+      "name": "Pateros",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 179
+    }
+  ]
+}

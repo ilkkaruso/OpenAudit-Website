@@ -1,0 +1,328 @@
+{
+  "provinceCode": "1903600000",
+  "provinceName": "Lanao del Sur",
+  "regionCode": "1900000000",
+  "regionName": "BARMM",
+  "lgus": [
+    {
+      "code": "1903614000",
+      "name": "Madamba",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 205
+    },
+    {
+      "code": "1903623000",
+      "name": "Pualas",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 161
+    },
+    {
+      "code": "1903634000",
+      "name": "Maguing",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 54
+    },
+    {
+      "code": "1903601000",
+      "name": "Bacolod-Kalawi",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 183
+    },
+    {
+      "code": "1903602000",
+      "name": "Balabagan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 150
+    },
+    {
+      "code": "1903603000",
+      "name": "Balindong",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 88
+    },
+    {
+      "code": "1903604000",
+      "name": "Bayang",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 121
+    },
+    {
+      "code": "1903605000",
+      "name": "Binidayan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 116
+    },
+    {
+      "code": "1903606000",
+      "name": "Bubong",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 195
+    },
+    {
+      "code": "1903607000",
+      "name": "Butig",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 121
+    },
+    {
+      "code": "1903609000",
+      "name": "Ganassi",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 158
+    },
+    {
+      "code": "1903610000",
+      "name": "Kapai",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 119
+    },
+    {
+      "code": "1903611000",
+      "name": "Lumba-Bayabao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 58
+    },
+    {
+      "code": "1903612000",
+      "name": "Lumbatan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 120
+    },
+    {
+      "code": "1903613000",
+      "name": "Madalum",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 204
+    },
+    {
+      "code": "1903615000",
+      "name": "Malabang",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 88
+    },
+    {
+      "code": "1903616000",
+      "name": "Marantao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 133
+    },
+    {
+      "code": "1903617000",
+      "name": "City of Marawi",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 152
+    },
+    {
+      "code": "1903618000",
+      "name": "Masiu",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 79
+    },
+    {
+      "code": "1903619000",
+      "name": "Mulondo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 114
+    },
+    {
+      "code": "1903620000",
+      "name": "Pagayawan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 161
+    },
+    {
+      "code": "1903621000",
+      "name": "Piagapo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 100
+    },
+    {
+      "code": "1903622000",
+      "name": "Poona Bayabao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 73
+    },
+    {
+      "code": "1903624000",
+      "name": "Ditsaan-Ramain",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 93
+    },
+    {
+      "code": "1903625000",
+      "name": "Saguiaran",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 88
+    },
+    {
+      "code": "1903626000",
+      "name": "Tamparan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 75
+    },
+    {
+      "code": "1903627000",
+      "name": "Taraka",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 50
+    },
+    {
+      "code": "1903628000",
+      "name": "Tubaran",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 127
+    },
+    {
+      "code": "1903629000",
+      "name": "Tugaya",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 80
+    },
+    {
+      "code": "1903630000",
+      "name": "Wao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 137
+    },
+    {
+      "code": "1903631000",
+      "name": "Marogong",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 117
+    },
+    {
+      "code": "1903632000",
+      "name": "Calanogas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 170
+    },
+    {
+      "code": "1903633000",
+      "name": "Buadiposo-Buntong",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1903635000",
+      "name": "Picong",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 115
+    },
+    {
+      "code": "1903636000",
+      "name": "Lumbayanague",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 120
+    },
+    {
+      "code": "1903637000",
+      "name": "Amai Manabilang",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 234
+    },
+    {
+      "code": "1903638000",
+      "name": "Tagoloan Ii",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1903639000",
+      "name": "Kapatagan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1903640000",
+      "name": "Sultan Dumalondong",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 124
+    },
+    {
+      "code": "1903641000",
+      "name": "Lumbaca-Unayan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 111
+    }
+  ]
+}

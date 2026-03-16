@@ -1,0 +1,48 @@
+{
+  "provinceCode": "607900000",
+  "provinceName": "Guimaras",
+  "regionCode": "600000000",
+  "regionName": "Region V (Bicol Region)",
+  "lgus": [
+    {
+      "code": "607901000",
+      "name": "Buenavista",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "607902000",
+      "name": "Jordan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 137
+    },
+    {
+      "code": "607903000",
+      "name": "Nueva Valencia",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 107
+    },
+    {
+      "code": "607904000",
+      "name": "San Lorenzo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 151
+    },
+    {
+      "code": "607905000",
+      "name": "Sibunag",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 186
+    }
+  ]
+}

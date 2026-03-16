@@ -1,0 +1,88 @@
+{
+  "provinceCode": "1404400000",
+  "provinceName": "Mountain Province",
+  "regionCode": "1400000000",
+  "regionName": "Region XII (SOCCSKSARGEN)",
+  "lgus": [
+    {
+      "code": "1404401000",
+      "name": "Barlig",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 22
+    },
+    {
+      "code": "1404402000",
+      "name": "Bauko",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 36
+    },
+    {
+      "code": "1404403000",
+      "name": "Besao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 20
+    },
+    {
+      "code": "1404404000",
+      "name": "Bontoc",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 428
+    },
+    {
+      "code": "1404405000",
+      "name": "Natonin",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 37
+    },
+    {
+      "code": "1404406000",
+      "name": "Paracelis",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 17
+    },
+    {
+      "code": "1404407000",
+      "name": "Sabangan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 21
+    },
+    {
+      "code": "1404408000",
+      "name": "Sadanga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 19
+    },
+    {
+      "code": "1404409000",
+      "name": "Sagada",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 38
+    },
+    {
+      "code": "1404410000",
+      "name": "Tadian",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 34
+    }
+  ]
+}

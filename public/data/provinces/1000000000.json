@@ -1,0 +1,41 @@
+{
+  "regionCode": "1000000000",
+  "regionName": "Region IX (Zamboanga Peninsula)",
+  "provinces": [
+    {
+      "code": "1003500000",
+      "name": "Lanao del Norte",
+      "score": 0.32,
+      "totalScore": 7,
+      "lguCount": 22
+    },
+    {
+      "code": "1001800000",
+      "name": "Camiguin",
+      "score": 0.4,
+      "totalScore": 2,
+      "lguCount": 5
+    },
+    {
+      "code": "1004200000",
+      "name": "Misamis Occidental",
+      "score": 0.12,
+      "totalScore": 2,
+      "lguCount": 17
+    },
+    {
+      "code": "1004300000",
+      "name": "Misamis Oriental",
+      "score": 0.04,
+      "totalScore": 1,
+      "lguCount": 25
+    },
+    {
+      "code": "1001300000",
+      "name": "Bukidnon",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 22
+    }
+  ]
+}

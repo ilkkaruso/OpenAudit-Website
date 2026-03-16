@@ -1,0 +1,280 @@
+{
+  "provinceCode": "102900000",
+  "provinceName": "Ilocos Sur",
+  "regionCode": "100000000",
+  "regionName": "Region I (Ilocos Region)",
+  "lgus": [
+    {
+      "code": "102902000",
+      "name": "Banayoyo",
+      "score": 1,
+      "normalizedScore": 0.99,
+      "maxStreak": 1,
+      "observationCount": 234
+    },
+    {
+      "code": "102912000",
+      "name": "Magsingal",
+      "score": 1,
+      "normalizedScore": 0.95,
+      "maxStreak": 1,
+      "observationCount": 243
+    },
+    {
+      "code": "102901000",
+      "name": "Alilem",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 171
+    },
+    {
+      "code": "102903000",
+      "name": "Bantay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 453
+    },
+    {
+      "code": "102904000",
+      "name": "Burgos",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "102905000",
+      "name": "Cabugao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 205
+    },
+    {
+      "code": "102906000",
+      "name": "City of Candon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 313
+    },
+    {
+      "code": "102907000",
+      "name": "Caoayan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 194
+    },
+    {
+      "code": "102908000",
+      "name": "Cervantes",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 195
+    },
+    {
+      "code": "102909000",
+      "name": "Galimuyod",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 293
+    },
+    {
+      "code": "102910000",
+      "name": "Gregorio del Pilar",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 211
+    },
+    {
+      "code": "102911000",
+      "name": "Lidlidda",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 292
+    },
+    {
+      "code": "102913000",
+      "name": "Nagbukel",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 244
+    },
+    {
+      "code": "102914000",
+      "name": "Narvacan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 187
+    },
+    {
+      "code": "102915000",
+      "name": "Quirino",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 1027
+    },
+    {
+      "code": "102916000",
+      "name": "Salcedo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 442
+    },
+    {
+      "code": "102917000",
+      "name": "San Emilio",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 273
+    },
+    {
+      "code": "102918000",
+      "name": "San Esteban",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 157
+    },
+    {
+      "code": "102919000",
+      "name": "San Ildefonso",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 401
+    },
+    {
+      "code": "102920000",
+      "name": "San Juan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 1978
+    },
+    {
+      "code": "102921000",
+      "name": "San Vicente",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 1155
+    },
+    {
+      "code": "102922000",
+      "name": "Santa",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 1043
+    },
+    {
+      "code": "102923000",
+      "name": "Santa Catalina",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "102924000",
+      "name": "Santa Cruz",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 153
+    },
+    {
+      "code": "102925000",
+      "name": "Santa Lucia",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "102926000",
+      "name": "Santa Maria",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 441
+    },
+    {
+      "code": "102927000",
+      "name": "Santiago",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 921
+    },
+    {
+      "code": "102928000",
+      "name": "Santo Domingo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "102929000",
+      "name": "Sigay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 239
+    },
+    {
+      "code": "102930000",
+      "name": "Sinait",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 228
+    },
+    {
+      "code": "102931000",
+      "name": "Sugpon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 239
+    },
+    {
+      "code": "102932000",
+      "name": "Suyo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 148
+    },
+    {
+      "code": "102933000",
+      "name": "Tagudin",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 182
+    },
+    {
+      "code": "102934000",
+      "name": "City of Vigan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 273
+    }
+  ]
+}

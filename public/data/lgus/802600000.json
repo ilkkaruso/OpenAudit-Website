@@ -1,0 +1,192 @@
+{
+  "provinceCode": "802600000",
+  "provinceName": "Eastern Samar",
+  "regionCode": "800000000",
+  "regionName": "Region VII (Central Visayas)",
+  "lgus": [
+    {
+      "code": "802610000",
+      "name": "Hernani",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 210
+    },
+    {
+      "code": "802613000",
+      "name": "Llorente",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 182
+    },
+    {
+      "code": "802615000",
+      "name": "Maydolong",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 203
+    },
+    {
+      "code": "802621000",
+      "name": "San Policarpo",
+      "score": 1,
+      "normalizedScore": 0.93,
+      "maxStreak": 1,
+      "observationCount": 248
+    },
+    {
+      "code": "802601000",
+      "name": "Arteche",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 171
+    },
+    {
+      "code": "802602000",
+      "name": "Balangiga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 161
+    },
+    {
+      "code": "802603000",
+      "name": "Balangkayan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 227
+    },
+    {
+      "code": "802604000",
+      "name": "City of Borongan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 189
+    },
+    {
+      "code": "802605000",
+      "name": "Can-Avid",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 251
+    },
+    {
+      "code": "802606000",
+      "name": "Dolores",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "802607000",
+      "name": "General Macarthur",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "802608000",
+      "name": "Giporlos",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 208
+    },
+    {
+      "code": "802609000",
+      "name": "Guiuan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 218
+    },
+    {
+      "code": "802611000",
+      "name": "Jipapad",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 184
+    },
+    {
+      "code": "802612000",
+      "name": "Lawaan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 195
+    },
+    {
+      "code": "802614000",
+      "name": "Maslog",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 216
+    },
+    {
+      "code": "802616000",
+      "name": "Mercedes",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "802617000",
+      "name": "Oras",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 148
+    },
+    {
+      "code": "802618000",
+      "name": "Quinapondan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 193
+    },
+    {
+      "code": "802619000",
+      "name": "Salcedo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "802620000",
+      "name": "San Julian",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 132
+    },
+    {
+      "code": "802622000",
+      "name": "Sulat",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 151
+    },
+    {
+      "code": "802623000",
+      "name": "Taft",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 180
+    }
+  ]
+}

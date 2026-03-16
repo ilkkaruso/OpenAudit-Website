@@ -1,0 +1,16 @@
+{
+  "provinceCode": "1303900000",
+  "provinceName": "NCR, City of Manila, First District (Not a Province)",
+  "regionCode": "1300000000",
+  "regionName": "NCR (National Capital Region)",
+  "lgus": [
+    {
+      "code": "1380600000",
+      "name": "City of Manila",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 305
+    }
+  ]
+}

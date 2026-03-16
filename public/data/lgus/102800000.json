@@ -1,0 +1,192 @@
+{
+  "provinceCode": "102800000",
+  "provinceName": "Ilocos Norte",
+  "regionCode": "100000000",
+  "regionName": "Region I (Ilocos Region)",
+  "lgus": [
+    {
+      "code": "102818000",
+      "name": "Piddig",
+      "score": 2,
+      "normalizedScore": 1.09,
+      "maxStreak": 1,
+      "observationCount": 532
+    },
+    {
+      "code": "102804000",
+      "name": "Bangui",
+      "score": 1,
+      "normalizedScore": 0.59,
+      "maxStreak": 1,
+      "observationCount": 464
+    },
+    {
+      "code": "102808000",
+      "name": "Currimao",
+      "score": 1,
+      "normalizedScore": 0.87,
+      "maxStreak": 1,
+      "observationCount": 270
+    },
+    {
+      "code": "102810000",
+      "name": "Dumalneg",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 203
+    },
+    {
+      "code": "102812000",
+      "name": "City of Laoag",
+      "score": 1,
+      "normalizedScore": 0.66,
+      "maxStreak": 1,
+      "observationCount": 383
+    },
+    {
+      "code": "102815000",
+      "name": "Pagudpud",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 97
+    },
+    {
+      "code": "102819000",
+      "name": "Pinili",
+      "score": 1,
+      "normalizedScore": 0.67,
+      "maxStreak": 1,
+      "observationCount": 381
+    },
+    {
+      "code": "102822000",
+      "name": "Solsona",
+      "score": 1,
+      "normalizedScore": 0.7,
+      "maxStreak": 1,
+      "observationCount": 352
+    },
+    {
+      "code": "102823000",
+      "name": "Vintar",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 179
+    },
+    {
+      "code": "102801000",
+      "name": "Adams",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 247
+    },
+    {
+      "code": "102802000",
+      "name": "Bacarra",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 299
+    },
+    {
+      "code": "102803000",
+      "name": "Badoc",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 227
+    },
+    {
+      "code": "102805000",
+      "name": "City of Batac",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 271
+    },
+    {
+      "code": "102806000",
+      "name": "Burgos",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 1538
+    },
+    {
+      "code": "102807000",
+      "name": "Carasi",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 241
+    },
+    {
+      "code": "102809000",
+      "name": "Dingras",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 273
+    },
+    {
+      "code": "102811000",
+      "name": "Banna",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 373
+    },
+    {
+      "code": "102813000",
+      "name": "Marcos",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 257
+    },
+    {
+      "code": "102814000",
+      "name": "Nueva Era",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 217
+    },
+    {
+      "code": "102816000",
+      "name": "Paoay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 352
+    },
+    {
+      "code": "102817000",
+      "name": "Pasuquin",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 307
+    },
+    {
+      "code": "102820000",
+      "name": "San Nicolas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 658
+    },
+    {
+      "code": "102821000",
+      "name": "Sarrat",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 327
+    }
+  ]
+}

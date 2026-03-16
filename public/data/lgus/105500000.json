@@ -1,0 +1,392 @@
+{
+  "provinceCode": "105500000",
+  "provinceName": "Pangasinan",
+  "regionCode": "100000000",
+  "regionName": "Region I (Ilocos Region)",
+  "lgus": [
+    {
+      "code": "105509000",
+      "name": "Basista",
+      "score": 3,
+      "normalizedScore": 2.14,
+      "maxStreak": 2,
+      "observationCount": 346
+    },
+    {
+      "code": "105515000",
+      "name": "Bugallon",
+      "score": 3,
+      "normalizedScore": 2.51,
+      "maxStreak": 2,
+      "observationCount": 281
+    },
+    {
+      "code": "105517000",
+      "name": "Calasiao",
+      "score": 3,
+      "normalizedScore": 2.19,
+      "maxStreak": 2,
+      "observationCount": 335
+    },
+    {
+      "code": "105508000",
+      "name": "Bani",
+      "score": 2,
+      "normalizedScore": 1.35,
+      "maxStreak": 1,
+      "observationCount": 374
+    },
+    {
+      "code": "105501000",
+      "name": "Agno",
+      "score": 1,
+      "normalizedScore": 0.71,
+      "maxStreak": 1,
+      "observationCount": 349
+    },
+    {
+      "code": "105502000",
+      "name": "Aguilar",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 186
+    },
+    {
+      "code": "105513000",
+      "name": "Binmaley",
+      "score": 1,
+      "normalizedScore": 0.71,
+      "maxStreak": 1,
+      "observationCount": 350
+    },
+    {
+      "code": "105524000",
+      "name": "Malasiqui",
+      "score": 1,
+      "normalizedScore": 0.73,
+      "maxStreak": 1,
+      "observationCount": 336
+    },
+    {
+      "code": "105546000",
+      "name": "City of Urdaneta",
+      "score": 1,
+      "normalizedScore": 0.83,
+      "maxStreak": 1,
+      "observationCount": 283
+    },
+    {
+      "code": "105503000",
+      "name": "City of Alaminos",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "105504000",
+      "name": "Alcala",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 629
+    },
+    {
+      "code": "105505000",
+      "name": "Anda",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 1962
+    },
+    {
+      "code": "105506000",
+      "name": "Asingan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 246
+    },
+    {
+      "code": "105507000",
+      "name": "Balungao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 236
+    },
+    {
+      "code": "105510000",
+      "name": "Bautista",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 365
+    },
+    {
+      "code": "105511000",
+      "name": "Bayambang",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 248
+    },
+    {
+      "code": "105512000",
+      "name": "Binalonan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 254
+    },
+    {
+      "code": "105514000",
+      "name": "Bolinao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 405
+    },
+    {
+      "code": "105516000",
+      "name": "Burgos",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "105518000",
+      "name": "City of Dagupan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 298
+    },
+    {
+      "code": "105519000",
+      "name": "Dasol",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 261
+    },
+    {
+      "code": "105520000",
+      "name": "Infanta",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 368
+    },
+    {
+      "code": "105521000",
+      "name": "Labrador",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 299
+    },
+    {
+      "code": "105522000",
+      "name": "Lingayen",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 176
+    },
+    {
+      "code": "105523000",
+      "name": "Mabini",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 1180
+    },
+    {
+      "code": "105525000",
+      "name": "Manaoag",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 412
+    },
+    {
+      "code": "105526000",
+      "name": "Mangaldan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 405
+    },
+    {
+      "code": "105527000",
+      "name": "Mangatarem",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 293
+    },
+    {
+      "code": "105528000",
+      "name": "Mapandan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 160
+    },
+    {
+      "code": "105529000",
+      "name": "Natividad",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 516
+    },
+    {
+      "code": "105530000",
+      "name": "Pozorrubio",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 205
+    },
+    {
+      "code": "105531000",
+      "name": "Rosales",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 308
+    },
+    {
+      "code": "105532000",
+      "name": "City of San Carlos",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 594
+    },
+    {
+      "code": "105533000",
+      "name": "San Fabian",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 316
+    },
+    {
+      "code": "105534000",
+      "name": "San Jacinto",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 765
+    },
+    {
+      "code": "105535000",
+      "name": "San Manuel",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 813
+    },
+    {
+      "code": "105536000",
+      "name": "San Nicolas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "105537000",
+      "name": "San Quintin",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 460
+    },
+    {
+      "code": "105538000",
+      "name": "Santa Barbara",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 36
+    },
+    {
+      "code": "105539000",
+      "name": "Santa Maria",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "105540000",
+      "name": "Santo Tomas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "105541000",
+      "name": "Sison",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 489
+    },
+    {
+      "code": "105542000",
+      "name": "Sual",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 336
+    },
+    {
+      "code": "105543000",
+      "name": "Tayug",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 277
+    },
+    {
+      "code": "105544000",
+      "name": "Umingan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 338
+    },
+    {
+      "code": "105545000",
+      "name": "Urbiztondo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 260
+    },
+    {
+      "code": "105547000",
+      "name": "Villasis",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 364
+    },
+    {
+      "code": "105548000",
+      "name": "Laoac",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 420
+    }
+  ]
+}

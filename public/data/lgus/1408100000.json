@@ -1,0 +1,64 @@
+{
+  "provinceCode": "1408100000",
+  "provinceName": "Apayao",
+  "regionCode": "1400000000",
+  "regionName": "Region XII (SOCCSKSARGEN)",
+  "lgus": [
+    {
+      "code": "1408101000",
+      "name": "Calanasan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 170
+    },
+    {
+      "code": "1408102000",
+      "name": "Conner",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 279
+    },
+    {
+      "code": "1408103000",
+      "name": "Flora",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 256
+    },
+    {
+      "code": "1408104000",
+      "name": "Kabugao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 290
+    },
+    {
+      "code": "1408105000",
+      "name": "Luna",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1408106000",
+      "name": "Pudtol",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 248
+    },
+    {
+      "code": "1408107000",
+      "name": "Santa Marcela",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    }
+  ]
+}

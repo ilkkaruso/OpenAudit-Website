@@ -1,0 +1,48 @@
+{
+  "provinceCode": "1001800000",
+  "provinceName": "Camiguin",
+  "regionCode": "1000000000",
+  "regionName": "Region IX (Zamboanga Peninsula)",
+  "lgus": [
+    {
+      "code": "1001802000",
+      "name": "Guinsiliban",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 220
+    },
+    {
+      "code": "1001804000",
+      "name": "Mambajao",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 214
+    },
+    {
+      "code": "1001801000",
+      "name": "Catarman",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 516
+    },
+    {
+      "code": "1001803000",
+      "name": "Mahinog",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 125
+    },
+    {
+      "code": "1001805000",
+      "name": "Sagay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 384
+    }
+  ]
+}

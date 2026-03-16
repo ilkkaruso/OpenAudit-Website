@@ -1,0 +1,408 @@
+{
+  "provinceCode": "702200000",
+  "provinceName": "Cebu",
+  "regionCode": "700000000",
+  "regionName": "Region VI (Western Visayas)",
+  "lgus": [
+    {
+      "code": "702219000",
+      "name": "Consolacion",
+      "score": 6,
+      "normalizedScore": 4.22,
+      "maxStreak": 3,
+      "observationCount": 352
+    },
+    {
+      "code": "702214000",
+      "name": "City of Carcar",
+      "score": 4,
+      "normalizedScore": 1.86,
+      "maxStreak": 2,
+      "observationCount": 729
+    },
+    {
+      "code": "702205000",
+      "name": "Argao",
+      "score": 3,
+      "normalizedScore": 3.0,
+      "maxStreak": 2,
+      "observationCount": 209
+    },
+    {
+      "code": "702202000",
+      "name": "Alcoy",
+      "score": 1,
+      "normalizedScore": 0.91,
+      "maxStreak": 1,
+      "observationCount": 256
+    },
+    {
+      "code": "702204000",
+      "name": "Aloguinsan",
+      "score": 1,
+      "normalizedScore": 0.84,
+      "maxStreak": 1,
+      "observationCount": 279
+    },
+    {
+      "code": "702213000",
+      "name": "Borbon",
+      "score": 1,
+      "normalizedScore": 0.66,
+      "maxStreak": 1,
+      "observationCount": 383
+    },
+    {
+      "code": "702220000",
+      "name": "Cordova",
+      "score": 1,
+      "normalizedScore": 0.59,
+      "maxStreak": 1,
+      "observationCount": 463
+    },
+    {
+      "code": "702229000",
+      "name": "Malabuyoc",
+      "score": 1,
+      "normalizedScore": 0.79,
+      "maxStreak": 1,
+      "observationCount": 303
+    },
+    {
+      "code": "702231000",
+      "name": "Medellin",
+      "score": 1,
+      "normalizedScore": 0.66,
+      "maxStreak": 1,
+      "observationCount": 391
+    },
+    {
+      "code": "702238000",
+      "name": "Poro",
+      "score": 1,
+      "normalizedScore": 0.66,
+      "maxStreak": 1,
+      "observationCount": 389
+    },
+    {
+      "code": "702246000",
+      "name": "Sibonga",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 227
+    },
+    {
+      "code": "702201000",
+      "name": "Alcantara",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "702203000",
+      "name": "Alegria",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "702206000",
+      "name": "Asturias",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 268
+    },
+    {
+      "code": "702207000",
+      "name": "Badian",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 327
+    },
+    {
+      "code": "702208000",
+      "name": "Balamban",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 249
+    },
+    {
+      "code": "702209000",
+      "name": "Bantayan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 237
+    },
+    {
+      "code": "702210000",
+      "name": "Barili",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 340
+    },
+    {
+      "code": "702211000",
+      "name": "City of Bogo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 478
+    },
+    {
+      "code": "702212000",
+      "name": "Boljoon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 221
+    },
+    {
+      "code": "702215000",
+      "name": "Carmen",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "702216000",
+      "name": "Catmon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 259
+    },
+    {
+      "code": "702218000",
+      "name": "Compostela",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "702221000",
+      "name": "Daanbantayan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 230
+    },
+    {
+      "code": "702222000",
+      "name": "Dalaguete",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 324
+    },
+    {
+      "code": "702223000",
+      "name": "Danao City",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "702224000",
+      "name": "Dumanjug",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 317
+    },
+    {
+      "code": "702225000",
+      "name": "Ginatilan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 187
+    },
+    {
+      "code": "702227000",
+      "name": "Liloan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 527
+    },
+    {
+      "code": "702228000",
+      "name": "Madridejos",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 229
+    },
+    {
+      "code": "702232000",
+      "name": "Minglanilla",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 136
+    },
+    {
+      "code": "702233000",
+      "name": "Moalboal",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 227
+    },
+    {
+      "code": "702234000",
+      "name": "City of Naga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "702235000",
+      "name": "Oslob",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 299
+    },
+    {
+      "code": "702236000",
+      "name": "Pilar",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "702237000",
+      "name": "Pinamungajan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 213
+    },
+    {
+      "code": "702239000",
+      "name": "Ronda",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 348
+    },
+    {
+      "code": "702240000",
+      "name": "Samboan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 277
+    },
+    {
+      "code": "702241000",
+      "name": "San Fernando",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "702242000",
+      "name": "San Francisco",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "702243000",
+      "name": "San Remigio",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "702244000",
+      "name": "Santa Fe",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "702245000",
+      "name": "Santander",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 285
+    },
+    {
+      "code": "702247000",
+      "name": "Sogod",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 479
+    },
+    {
+      "code": "702248000",
+      "name": "Tabogon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 191
+    },
+    {
+      "code": "702249000",
+      "name": "Tabuelan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 281
+    },
+    {
+      "code": "702250000",
+      "name": "City of Talisay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "702251000",
+      "name": "City of Toledo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 443
+    },
+    {
+      "code": "702252000",
+      "name": "Tuburan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "702253000",
+      "name": "Tudela",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    }
+  ]
+}

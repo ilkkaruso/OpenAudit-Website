@@ -1,0 +1,34 @@
+{
+  "regionCode": "1200000000",
+  "regionName": "Region XI (Davao Region)",
+  "provinces": [
+    {
+      "code": "1206300000",
+      "name": "South Cotabato",
+      "score": 0.09,
+      "totalScore": 1,
+      "lguCount": 11
+    },
+    {
+      "code": "1208000000",
+      "name": "Sarangani",
+      "score": 0.14,
+      "totalScore": 1,
+      "lguCount": 7
+    },
+    {
+      "code": "1204700000",
+      "name": "Cotabato",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 18
+    },
+    {
+      "code": "1206500000",
+      "name": "Sultan Kudarat",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 12
+    }
+  ]
+}

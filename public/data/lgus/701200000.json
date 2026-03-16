@@ -1,0 +1,392 @@
+{
+  "provinceCode": "701200000",
+  "provinceName": "Bohol",
+  "regionCode": "700000000",
+  "regionName": "Region VI (Western Visayas)",
+  "lgus": [
+    {
+      "code": "701201000",
+      "name": "Alburquerque",
+      "score": 1,
+      "normalizedScore": 0.92,
+      "maxStreak": 1,
+      "observationCount": 252
+    },
+    {
+      "code": "701217000",
+      "name": "Dagohoy",
+      "score": 1,
+      "normalizedScore": 0.97,
+      "maxStreak": 1,
+      "observationCount": 237
+    },
+    {
+      "code": "701233000",
+      "name": "Panglao",
+      "score": 1,
+      "normalizedScore": 0.71,
+      "maxStreak": 1,
+      "observationCount": 351
+    },
+    {
+      "code": "701202000",
+      "name": "Alicia",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "701203000",
+      "name": "Anda",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "701204000",
+      "name": "Antequera",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 321
+    },
+    {
+      "code": "701205000",
+      "name": "Baclayon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 365
+    },
+    {
+      "code": "701206000",
+      "name": "Balilihan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 231
+    },
+    {
+      "code": "701207000",
+      "name": "Batuan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "701208000",
+      "name": "Bilar",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 261
+    },
+    {
+      "code": "701209000",
+      "name": "Buenavista",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "701210000",
+      "name": "Calape",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 303
+    },
+    {
+      "code": "701211000",
+      "name": "Candijay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 319
+    },
+    {
+      "code": "701212000",
+      "name": "Carmen",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "701213000",
+      "name": "Catigbian",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 259
+    },
+    {
+      "code": "701214000",
+      "name": "Clarin",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "701215000",
+      "name": "Corella",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 214
+    },
+    {
+      "code": "701216000",
+      "name": "Cortes",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "701218000",
+      "name": "Danao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 469
+    },
+    {
+      "code": "701219000",
+      "name": "Dauis",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 339
+    },
+    {
+      "code": "701220000",
+      "name": "Dimiao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 168
+    },
+    {
+      "code": "701221000",
+      "name": "Duero",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 241
+    },
+    {
+      "code": "701222000",
+      "name": "Garcia Hernandez",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 229
+    },
+    {
+      "code": "701223000",
+      "name": "Guindulman",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 256
+    },
+    {
+      "code": "701224000",
+      "name": "Inabanga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 232
+    },
+    {
+      "code": "701225000",
+      "name": "Jagna",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 203
+    },
+    {
+      "code": "701226000",
+      "name": "Getafe",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 250
+    },
+    {
+      "code": "701227000",
+      "name": "Lila",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 221
+    },
+    {
+      "code": "701228000",
+      "name": "Loay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 207
+    },
+    {
+      "code": "701229000",
+      "name": "Loboc",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 148
+    },
+    {
+      "code": "701230000",
+      "name": "Loon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 272
+    },
+    {
+      "code": "701231000",
+      "name": "Mabini",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "701232000",
+      "name": "Maribojoc",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 169
+    },
+    {
+      "code": "701234000",
+      "name": "Pilar",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "701235000",
+      "name": "President Carlos P. Garcia",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "701236000",
+      "name": "Sagbayan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 276
+    },
+    {
+      "code": "701237000",
+      "name": "San Isidro",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "701238000",
+      "name": "San Miguel",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "701239000",
+      "name": "Sevilla",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 264
+    },
+    {
+      "code": "701240000",
+      "name": "Sierra Bullones",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 264
+    },
+    {
+      "code": "701241000",
+      "name": "Sikatuna",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 225
+    },
+    {
+      "code": "701242000",
+      "name": "City of Tagbilaran",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 350
+    },
+    {
+      "code": "701243000",
+      "name": "Talibon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 130
+    },
+    {
+      "code": "701244000",
+      "name": "Trinidad",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 202
+    },
+    {
+      "code": "701245000",
+      "name": "Tubigon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 222
+    },
+    {
+      "code": "701246000",
+      "name": "Ubay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 280
+    },
+    {
+      "code": "701247000",
+      "name": "Valencia",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 898
+    },
+    {
+      "code": "701248000",
+      "name": "Bien Unido",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 226
+    }
+  ]
+}

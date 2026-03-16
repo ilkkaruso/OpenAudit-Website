@@ -1,0 +1,56 @@
+{
+  "provinceCode": "205700000",
+  "provinceName": "Quirino",
+  "regionCode": "200000000",
+  "regionName": "CAR (Cordillera Administrative Region)",
+  "lgus": [
+    {
+      "code": "205701000",
+      "name": "Aglipay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 233
+    },
+    {
+      "code": "205702000",
+      "name": "Cabarroguis",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 245
+    },
+    {
+      "code": "205703000",
+      "name": "Diffun",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 254
+    },
+    {
+      "code": "205704000",
+      "name": "Maddela",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 255
+    },
+    {
+      "code": "205705000",
+      "name": "Saguday",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 157
+    },
+    {
+      "code": "205706000",
+      "name": "Nagtipunan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 321
+    }
+  ]
+}

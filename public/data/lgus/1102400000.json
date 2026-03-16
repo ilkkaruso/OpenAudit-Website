@@ -1,0 +1,96 @@
+{
+  "provinceCode": "1102400000",
+  "provinceName": "Davao del Sur",
+  "regionCode": "1100000000",
+  "regionName": "Region X (Northern Mindanao)",
+  "lgus": [
+    {
+      "code": "1102404000",
+      "name": "Hagonoy",
+      "score": 1,
+      "normalizedScore": 0.66,
+      "maxStreak": 1,
+      "observationCount": 386
+    },
+    {
+      "code": "1102411000",
+      "name": "Padada",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 206
+    },
+    {
+      "code": "1102401000",
+      "name": "Bansalan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 197
+    },
+    {
+      "code": "1102403000",
+      "name": "City of Digos",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 387
+    },
+    {
+      "code": "1102406000",
+      "name": "Kiblawan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 182
+    },
+    {
+      "code": "1102407000",
+      "name": "Magsaysay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1102408000",
+      "name": "Malalag",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 256
+    },
+    {
+      "code": "1102410000",
+      "name": "Matanao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 167
+    },
+    {
+      "code": "1102412000",
+      "name": "Santa Cruz",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1102414000",
+      "name": "Sulop",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 249
+    },
+    {
+      "code": "1130700000",
+      "name": "City of Davao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 2231
+    }
+  ]
+}

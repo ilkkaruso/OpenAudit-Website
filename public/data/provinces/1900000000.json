@@ -1,0 +1,55 @@
+{
+  "regionCode": "1900000000",
+  "regionName": "BARMM",
+  "provinces": [
+    {
+      "code": "1907000000",
+      "name": "Tawi-Tawi",
+      "score": 0.36,
+      "totalScore": 4,
+      "lguCount": 11
+    },
+    {
+      "code": "1903600000",
+      "name": "Lanao del Sur",
+      "score": 0.07,
+      "totalScore": 3,
+      "lguCount": 40
+    },
+    {
+      "code": "1908700000",
+      "name": "Maguindanao del Norte",
+      "score": 0.15,
+      "totalScore": 2,
+      "lguCount": 13
+    },
+    {
+      "code": "1900700000",
+      "name": "Basilan",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 12
+    },
+    {
+      "code": "1906600000",
+      "name": "Sulu",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 19
+    },
+    {
+      "code": "1908800000",
+      "name": "Maguindanao del Sur",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 24
+    },
+    {
+      "code": "1909900000",
+      "name": null,
+      "score": 0,
+      "totalScore": 0,
+      "lguCount": 0
+    }
+  ]
+}

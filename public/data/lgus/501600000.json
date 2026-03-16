@@ -1,0 +1,104 @@
+{
+  "provinceCode": "501600000",
+  "provinceName": "Camarines Norte",
+  "regionCode": "500000000",
+  "regionName": "Region IV-A (CALABARZON)",
+  "lgus": [
+    {
+      "code": "501608000",
+      "name": "Paracale",
+      "score": 1,
+      "normalizedScore": 0.36,
+      "maxStreak": 1,
+      "observationCount": 1345
+    },
+    {
+      "code": "501601000",
+      "name": "Basud",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 215
+    },
+    {
+      "code": "501602000",
+      "name": "Capalonga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 299
+    },
+    {
+      "code": "501603000",
+      "name": "Daet",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 235
+    },
+    {
+      "code": "501604000",
+      "name": "San Lorenzo Ruiz",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 263
+    },
+    {
+      "code": "501605000",
+      "name": "Jose Panganiban",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 222
+    },
+    {
+      "code": "501606000",
+      "name": "Labo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 255
+    },
+    {
+      "code": "501607000",
+      "name": "Mercedes",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 442
+    },
+    {
+      "code": "501609000",
+      "name": "San Vicente",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "501610000",
+      "name": "Santa Elena",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "501611000",
+      "name": "Talisay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "501612000",
+      "name": "Vinzons",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 324
+    }
+  ]
+}

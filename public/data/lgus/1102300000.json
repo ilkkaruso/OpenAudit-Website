@@ -1,0 +1,96 @@
+{
+  "provinceCode": "1102300000",
+  "provinceName": "Davao del Norte",
+  "regionCode": "1100000000",
+  "regionName": "Region X (Northern Mindanao)",
+  "lgus": [
+    {
+      "code": "1102301000",
+      "name": "Asuncion",
+      "score": 1,
+      "normalizedScore": 0.62,
+      "maxStreak": 1,
+      "observationCount": 427
+    },
+    {
+      "code": "1102315000",
+      "name": "City of Panabo",
+      "score": 1,
+      "normalizedScore": 0.59,
+      "maxStreak": 1,
+      "observationCount": 465
+    },
+    {
+      "code": "1102303000",
+      "name": "Carmen",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 1402
+    },
+    {
+      "code": "1102305000",
+      "name": "Kapalong",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 411
+    },
+    {
+      "code": "1102314000",
+      "name": "New Corella",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 168
+    },
+    {
+      "code": "1102317000",
+      "name": "Island Garden City of Samal",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1102318000",
+      "name": "Santo Tomas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1102319000",
+      "name": "City of Tagum",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 337
+    },
+    {
+      "code": "1102322000",
+      "name": "Talaingod",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 487
+    },
+    {
+      "code": "1102323000",
+      "name": "Braulio E. Dujali",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 46
+    },
+    {
+      "code": "1102324000",
+      "name": "San Isidro",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 2981
+    }
+  ]
+}

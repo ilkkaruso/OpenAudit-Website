@@ -1,0 +1,328 @@
+{
+  "provinceCode": "405600000",
+  "provinceName": "Quezon",
+  "regionCode": "400000000",
+  "regionName": "Region III (Central Luzon)",
+  "lgus": [
+    {
+      "code": "405632000",
+      "name": "Patnanungan",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 125
+    },
+    {
+      "code": "405638000",
+      "name": "Real",
+      "score": 1,
+      "normalizedScore": 0.87,
+      "maxStreak": 1,
+      "observationCount": 269
+    },
+    {
+      "code": "405601000",
+      "name": "Agdangan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 105
+    },
+    {
+      "code": "405602000",
+      "name": "Alabat",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 102
+    },
+    {
+      "code": "405603000",
+      "name": "Atimonan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 103
+    },
+    {
+      "code": "405605000",
+      "name": "Buenavista",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "405606000",
+      "name": "Burdeos",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 124
+    },
+    {
+      "code": "405607000",
+      "name": "Calauag",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 82
+    },
+    {
+      "code": "405608000",
+      "name": "Candelaria",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "405610000",
+      "name": "Catanauan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 95
+    },
+    {
+      "code": "405615000",
+      "name": "Dolores",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "405616000",
+      "name": "General Luna",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "405617000",
+      "name": "General Nakar",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 131
+    },
+    {
+      "code": "405618000",
+      "name": "Guinayangan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 195
+    },
+    {
+      "code": "405619000",
+      "name": "Gumaca",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 94
+    },
+    {
+      "code": "405620000",
+      "name": "Infanta",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "405621000",
+      "name": "Jomalig",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 85
+    },
+    {
+      "code": "405622000",
+      "name": "Lopez",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 142
+    },
+    {
+      "code": "405623000",
+      "name": "Lucban",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 129
+    },
+    {
+      "code": "405625000",
+      "name": "Macalelon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 108
+    },
+    {
+      "code": "405627000",
+      "name": "Mauban",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 120
+    },
+    {
+      "code": "405628000",
+      "name": "Mulanay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 89
+    },
+    {
+      "code": "405629000",
+      "name": "Padre Burgos",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 268
+    },
+    {
+      "code": "405630000",
+      "name": "Pagbilao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 90
+    },
+    {
+      "code": "405631000",
+      "name": "Panukulan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 122
+    },
+    {
+      "code": "405633000",
+      "name": "Perez",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 128
+    },
+    {
+      "code": "405634000",
+      "name": "Pitogo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 510
+    },
+    {
+      "code": "405635000",
+      "name": "Plaridel",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "405636000",
+      "name": "Polillo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 72
+    },
+    {
+      "code": "405637000",
+      "name": "Quezon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "405639000",
+      "name": "Sampaloc",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 82
+    },
+    {
+      "code": "405640000",
+      "name": "San Andres",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "405641000",
+      "name": "San Antonio",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "405642000",
+      "name": "San Francisco",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "405644000",
+      "name": "San Narciso",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "405645000",
+      "name": "Sariaya",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 78
+    },
+    {
+      "code": "405646000",
+      "name": "Tagkawayan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 198
+    },
+    {
+      "code": "405647000",
+      "name": "City of Tayabas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 81
+    },
+    {
+      "code": "405648000",
+      "name": "Tiaong",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 107
+    },
+    {
+      "code": "405649000",
+      "name": "Unisan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 106
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "regionCode": "1400000000",
+  "regionName": "Region XII (SOCCSKSARGEN)",
+  "provinces": [
+    {
+      "code": "1400100000",
+      "name": "Abra",
+      "score": 0.07,
+      "totalScore": 2,
+      "lguCount": 27
+    },
+    {
+      "code": "1402700000",
+      "name": "Ifugao",
+      "score": 0.09,
+      "totalScore": 1,
+      "lguCount": 11
+    },
+    {
+      "code": "1403200000",
+      "name": "Kalinga",
+      "score": 0.12,
+      "totalScore": 1,
+      "lguCount": 8
+    },
+    {
+      "code": "1401100000",
+      "name": "Benguet",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 13
+    },
+    {
+      "code": "1404400000",
+      "name": "Mountain Province",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 10
+    },
+    {
+      "code": "1408100000",
+      "name": "Apayao",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 7
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "regionCode": "400000000",
+  "regionName": "Region III (Central Luzon)",
+  "provinces": [
+    {
+      "code": "401000000",
+      "name": "Batangas",
+      "score": 0.09,
+      "totalScore": 3,
+      "lguCount": 34
+    },
+    {
+      "code": "405600000",
+      "name": "Quezon",
+      "score": 0.05,
+      "totalScore": 2,
+      "lguCount": 40
+    },
+    {
+      "code": "402100000",
+      "name": "Cavite",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 23
+    },
+    {
+      "code": "403400000",
+      "name": "Laguna",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 30
+    },
+    {
+      "code": "405800000",
+      "name": "Rizal",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 14
+    }
+  ]
+}

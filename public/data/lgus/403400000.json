@@ -1,0 +1,248 @@
+{
+  "provinceCode": "403400000",
+  "provinceName": "Laguna",
+  "regionCode": "400000000",
+  "regionName": "Region III (Central Luzon)",
+  "lgus": [
+    {
+      "code": "403401000",
+      "name": "Alaminos",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 504
+    },
+    {
+      "code": "403402000",
+      "name": "Bay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 2032
+    },
+    {
+      "code": "403403000",
+      "name": "City of Biñan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "403404000",
+      "name": "City of Cabuyao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 285
+    },
+    {
+      "code": "403405000",
+      "name": "City of Calamba",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "403406000",
+      "name": "Calauan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 207
+    },
+    {
+      "code": "403407000",
+      "name": "Cavinti",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 221
+    },
+    {
+      "code": "403408000",
+      "name": "Famy",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 232
+    },
+    {
+      "code": "403409000",
+      "name": "Kalayaan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "403410000",
+      "name": "Liliw",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 188
+    },
+    {
+      "code": "403411000",
+      "name": "Los Baños",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "403412000",
+      "name": "Luisiana",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 140
+    },
+    {
+      "code": "403413000",
+      "name": "Lumban",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 247
+    },
+    {
+      "code": "403414000",
+      "name": "Mabitac",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 224
+    },
+    {
+      "code": "403415000",
+      "name": "Magdalena",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 438
+    },
+    {
+      "code": "403416000",
+      "name": "Majayjay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 178
+    },
+    {
+      "code": "403417000",
+      "name": "Nagcarlan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 157
+    },
+    {
+      "code": "403418000",
+      "name": "Paete",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 133
+    },
+    {
+      "code": "403419000",
+      "name": "Pagsanjan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 151
+    },
+    {
+      "code": "403420000",
+      "name": "Pakil",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 174
+    },
+    {
+      "code": "403421000",
+      "name": "Pangil",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 206
+    },
+    {
+      "code": "403422000",
+      "name": "Pila",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 124
+    },
+    {
+      "code": "403423000",
+      "name": "Rizal",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "403424000",
+      "name": "City of San Pablo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "403425000",
+      "name": "City of San Pedro",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 229
+    },
+    {
+      "code": "403426000",
+      "name": "Santa Cruz",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "403427000",
+      "name": "Santa Maria",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "403428000",
+      "name": "City of Santa Rosa",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "403429000",
+      "name": "Siniloan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 246
+    },
+    {
+      "code": "403430000",
+      "name": "Victoria",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    }
+  ]
+}

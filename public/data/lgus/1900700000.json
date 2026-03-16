@@ -1,0 +1,104 @@
+{
+  "provinceCode": "1900700000",
+  "provinceName": "Basilan",
+  "regionCode": "1900000000",
+  "regionName": "BARMM",
+  "lgus": [
+    {
+      "code": "1900702000",
+      "name": "City of Lamitan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 92
+    },
+    {
+      "code": "1900703000",
+      "name": "Lantawan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 167
+    },
+    {
+      "code": "1900704000",
+      "name": "Maluso",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 166
+    },
+    {
+      "code": "1900705000",
+      "name": "Sumisip",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 183
+    },
+    {
+      "code": "1900706000",
+      "name": "Tipo-Tipo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 156
+    },
+    {
+      "code": "1900707000",
+      "name": "Tuburan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 573
+    },
+    {
+      "code": "1900708000",
+      "name": "Akbar",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 59
+    },
+    {
+      "code": "1900709000",
+      "name": "Al-Barka",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 97
+    },
+    {
+      "code": "1900710000",
+      "name": "Hadji Mohammad Ajul",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 68
+    },
+    {
+      "code": "1900711000",
+      "name": "Ungkaya Pukan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 201
+    },
+    {
+      "code": "1900712000",
+      "name": "Hadji Muhtamad",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 51
+    },
+    {
+      "code": "1900713000",
+      "name": "Tabuan-Lasa",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 133
+    }
+  ]
+}

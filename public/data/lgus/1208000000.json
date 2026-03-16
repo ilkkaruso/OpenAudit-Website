@@ -1,0 +1,64 @@
+{
+  "provinceCode": "1208000000",
+  "provinceName": "Sarangani",
+  "regionCode": "1200000000",
+  "regionName": "Region XI (Davao Region)",
+  "lgus": [
+    {
+      "code": "1208005000",
+      "name": "Maitum",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 193
+    },
+    {
+      "code": "1208001000",
+      "name": "Alabel",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 194
+    },
+    {
+      "code": "1208002000",
+      "name": "Glan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 242
+    },
+    {
+      "code": "1208003000",
+      "name": "Kiamba",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 180
+    },
+    {
+      "code": "1208004000",
+      "name": "Maasim",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 204
+    },
+    {
+      "code": "1208006000",
+      "name": "Malapatan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 146
+    },
+    {
+      "code": "1208007000",
+      "name": "Malungon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 174
+    }
+  ]
+}

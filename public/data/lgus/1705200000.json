@@ -1,0 +1,128 @@
+{
+  "provinceCode": "1705200000",
+  "provinceName": "Oriental Mindoro",
+  "regionCode": "1700000000",
+  "regionName": "MIMAROPA",
+  "lgus": [
+    {
+      "code": "1705201000",
+      "name": "Baco",
+      "score": 1,
+      "normalizedScore": 0.54,
+      "maxStreak": 1,
+      "observationCount": 546
+    },
+    {
+      "code": "1705203000",
+      "name": "Bongabong",
+      "score": 1,
+      "normalizedScore": 0.99,
+      "maxStreak": 1,
+      "observationCount": 233
+    },
+    {
+      "code": "1705202000",
+      "name": "Bansud",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 266
+    },
+    {
+      "code": "1705204000",
+      "name": "Bulalacao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 102
+    },
+    {
+      "code": "1705205000",
+      "name": "City of Calapan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 224
+    },
+    {
+      "code": "1705206000",
+      "name": "Gloria",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 153
+    },
+    {
+      "code": "1705207000",
+      "name": "Mansalay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 152
+    },
+    {
+      "code": "1705208000",
+      "name": "Naujan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 281
+    },
+    {
+      "code": "1705209000",
+      "name": "Pinamalayan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 202
+    },
+    {
+      "code": "1705210000",
+      "name": "Pola",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 261
+    },
+    {
+      "code": "1705211000",
+      "name": "Puerto Galera",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 205
+    },
+    {
+      "code": "1705212000",
+      "name": "Roxas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 1252
+    },
+    {
+      "code": "1705213000",
+      "name": "San Teodoro",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 310
+    },
+    {
+      "code": "1705214000",
+      "name": "Socorro",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1705215000",
+      "name": "Victoria",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 1175
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "provinceCode": "1705100000",
+  "provinceName": "Occidental Mindoro",
+  "regionCode": "1700000000",
+  "regionName": "MIMAROPA",
+  "lgus": [
+    {
+      "code": "1705101000",
+      "name": "Abra De Ilog",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 187
+    },
+    {
+      "code": "1705102000",
+      "name": "Calintaan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 150
+    },
+    {
+      "code": "1705103000",
+      "name": "Looc",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 357
+    },
+    {
+      "code": "1705104000",
+      "name": "Lubang",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 163
+    },
+    {
+      "code": "1705105000",
+      "name": "Magsaysay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1705106000",
+      "name": "Mamburao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 265
+    },
+    {
+      "code": "1705107000",
+      "name": "Paluan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 271
+    },
+    {
+      "code": "1705108000",
+      "name": "Rizal",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1705109000",
+      "name": "Sablayan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 218
+    },
+    {
+      "code": "1705110000",
+      "name": "San Jose",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1705111000",
+      "name": "Santa Cruz",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    }
+  ]
+}

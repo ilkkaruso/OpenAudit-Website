@@ -1,0 +1,192 @@
+{
+  "provinceCode": "1705300000",
+  "provinceName": "Palawan",
+  "regionCode": "1700000000",
+  "regionName": "MIMAROPA",
+  "lgus": [
+    {
+      "code": "1705313000",
+      "name": "Linapacan",
+      "score": 4,
+      "normalizedScore": 4.0,
+      "maxStreak": 2,
+      "observationCount": 211
+    },
+    {
+      "code": "1705304000",
+      "name": "Balabac",
+      "score": 1,
+      "normalizedScore": 0.72,
+      "maxStreak": 1,
+      "observationCount": 343
+    },
+    {
+      "code": "1705307000",
+      "name": "Busuanga",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 183
+    },
+    {
+      "code": "1705309000",
+      "name": "Coron",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 192
+    },
+    {
+      "code": "1705311000",
+      "name": "Dumaran",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 150
+    },
+    {
+      "code": "1705301000",
+      "name": "Aborlan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 146
+    },
+    {
+      "code": "1705302000",
+      "name": "Agutaya",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 187
+    },
+    {
+      "code": "1705303000",
+      "name": "Araceli",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 177
+    },
+    {
+      "code": "1705305000",
+      "name": "Bataraza",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 117
+    },
+    {
+      "code": "1705306000",
+      "name": "Brooke'S Point",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 132
+    },
+    {
+      "code": "1705308000",
+      "name": "Cagayancillo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 113
+    },
+    {
+      "code": "1705310000",
+      "name": "Cuyo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 205
+    },
+    {
+      "code": "1705312000",
+      "name": "El Nido",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 223
+    },
+    {
+      "code": "1705314000",
+      "name": "Magsaysay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1705315000",
+      "name": "Narra",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 170
+    },
+    {
+      "code": "1705317000",
+      "name": "Quezon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1705318000",
+      "name": "Roxas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1705319000",
+      "name": "San Vicente",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1705320000",
+      "name": "Taytay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 240
+    },
+    {
+      "code": "1705321000",
+      "name": "Kalayaan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 311
+    },
+    {
+      "code": "1705322000",
+      "name": "Culion",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 116
+    },
+    {
+      "code": "1705323000",
+      "name": "Rizal",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1705324000",
+      "name": "Sofronio Española",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 39
+    }
+  ]
+}

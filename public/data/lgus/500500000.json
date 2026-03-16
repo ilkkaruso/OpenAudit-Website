@@ -1,0 +1,152 @@
+{
+  "provinceCode": "500500000",
+  "provinceName": "Albay",
+  "regionCode": "500000000",
+  "regionName": "Region IV-A (CALABARZON)",
+  "lgus": [
+    {
+      "code": "500501000",
+      "name": "Bacacay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 296
+    },
+    {
+      "code": "500502000",
+      "name": "Camalig",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 254
+    },
+    {
+      "code": "500503000",
+      "name": "Daraga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 293
+    },
+    {
+      "code": "500504000",
+      "name": "Guinobatan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 190
+    },
+    {
+      "code": "500505000",
+      "name": "Jovellar",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 248
+    },
+    {
+      "code": "500506000",
+      "name": "City of Legazpi",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 414
+    },
+    {
+      "code": "500507000",
+      "name": "Libon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 317
+    },
+    {
+      "code": "500508000",
+      "name": "City of Ligao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 348
+    },
+    {
+      "code": "500509000",
+      "name": "Malilipot",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 334
+    },
+    {
+      "code": "500510000",
+      "name": "Malinao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 634
+    },
+    {
+      "code": "500511000",
+      "name": "Manito",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 290
+    },
+    {
+      "code": "500512000",
+      "name": "Oas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 322
+    },
+    {
+      "code": "500513000",
+      "name": "Pio Duran",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 307
+    },
+    {
+      "code": "500514000",
+      "name": "Polangui",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 330
+    },
+    {
+      "code": "500515000",
+      "name": "Rapu-Rapu",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 197
+    },
+    {
+      "code": "500516000",
+      "name": "Santo Domingo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "500517000",
+      "name": "City of Tabaco",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 384
+    },
+    {
+      "code": "500518000",
+      "name": "Tiwi",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 314
+    }
+  ]
+}

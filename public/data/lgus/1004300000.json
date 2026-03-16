@@ -1,0 +1,208 @@
+{
+  "provinceCode": "1004300000",
+  "provinceName": "Misamis Oriental",
+  "regionCode": "1000000000",
+  "regionName": "Region IX (Zamboanga Peninsula)",
+  "lgus": [
+    {
+      "code": "1004325000",
+      "name": "Talisayan",
+      "score": 1,
+      "normalizedScore": 0.88,
+      "maxStreak": 1,
+      "observationCount": 266
+    },
+    {
+      "code": "1004301000",
+      "name": "Alubijid",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 215
+    },
+    {
+      "code": "1004302000",
+      "name": "Balingasag",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 230
+    },
+    {
+      "code": "1004303000",
+      "name": "Balingoan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 280
+    },
+    {
+      "code": "1004304000",
+      "name": "Binuangan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 237
+    },
+    {
+      "code": "1004306000",
+      "name": "Claveria",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 627
+    },
+    {
+      "code": "1004307000",
+      "name": "City of El Salvador",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 193
+    },
+    {
+      "code": "1004308000",
+      "name": "City of Gingoog",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 290
+    },
+    {
+      "code": "1004309000",
+      "name": "Gitagum",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 279
+    },
+    {
+      "code": "1004310000",
+      "name": "Initao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 209
+    },
+    {
+      "code": "1004311000",
+      "name": "Jasaan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 252
+    },
+    {
+      "code": "1004312000",
+      "name": "Kinoguitan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 227
+    },
+    {
+      "code": "1004313000",
+      "name": "Lagonglong",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 200
+    },
+    {
+      "code": "1004314000",
+      "name": "Laguindingan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 203
+    },
+    {
+      "code": "1004315000",
+      "name": "Libertad",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 598
+    },
+    {
+      "code": "1004316000",
+      "name": "Lugait",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 237
+    },
+    {
+      "code": "1004317000",
+      "name": "Magsaysay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1004318000",
+      "name": "Manticao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 292
+    },
+    {
+      "code": "1004319000",
+      "name": "Medina",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 226
+    },
+    {
+      "code": "1004320000",
+      "name": "Naawan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 211
+    },
+    {
+      "code": "1004321000",
+      "name": "Opol",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 179
+    },
+    {
+      "code": "1004322000",
+      "name": "Salay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 190
+    },
+    {
+      "code": "1004323000",
+      "name": "Sugbongcogon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 188
+    },
+    {
+      "code": "1004324000",
+      "name": "Tagoloan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1004326000",
+      "name": "Villanueva",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 354
+    }
+  ]
+}

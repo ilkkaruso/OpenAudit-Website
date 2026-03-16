@@ -1,0 +1,55 @@
+{
+  "regionCode": "300000000",
+  "regionName": "Region II (Cagayan Valley)",
+  "provinces": [
+    {
+      "code": "300800000",
+      "name": "Bataan",
+      "score": 0.17,
+      "totalScore": 2,
+      "lguCount": 12
+    },
+    {
+      "code": "304900000",
+      "name": "Nueva Ecija",
+      "score": 0.06,
+      "totalScore": 2,
+      "lguCount": 32
+    },
+    {
+      "code": "301400000",
+      "name": "Bulacan",
+      "score": 0.04,
+      "totalScore": 1,
+      "lguCount": 24
+    },
+    {
+      "code": "305400000",
+      "name": "Pampanga",
+      "score": 0.05,
+      "totalScore": 1,
+      "lguCount": 21
+    },
+    {
+      "code": "306900000",
+      "name": "Tarlac",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 18
+    },
+    {
+      "code": "307100000",
+      "name": "Zambales",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 13
+    },
+    {
+      "code": "307700000",
+      "name": "Aurora",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 8
+    }
+  ]
+}

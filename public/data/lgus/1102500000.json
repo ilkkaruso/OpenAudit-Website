@@ -1,0 +1,96 @@
+{
+  "provinceCode": "1102500000",
+  "provinceName": "Davao Oriental",
+  "regionCode": "1100000000",
+  "regionName": "Region X (Northern Mindanao)",
+  "lgus": [
+    {
+      "code": "1102506000",
+      "name": "Governor Generoso",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 199
+    },
+    {
+      "code": "1102501000",
+      "name": "Baganga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 170
+    },
+    {
+      "code": "1102502000",
+      "name": "Banaybanay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 384
+    },
+    {
+      "code": "1102503000",
+      "name": "Boston",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 212
+    },
+    {
+      "code": "1102504000",
+      "name": "Caraga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 122
+    },
+    {
+      "code": "1102505000",
+      "name": "Cateel",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 240
+    },
+    {
+      "code": "1102507000",
+      "name": "Lupon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 403
+    },
+    {
+      "code": "1102508000",
+      "name": "Manay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 261
+    },
+    {
+      "code": "1102509000",
+      "name": "City of Mati",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 212
+    },
+    {
+      "code": "1102510000",
+      "name": "San Isidro",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1102511000",
+      "name": "Tarragona",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 123
+    }
+  ]
+}

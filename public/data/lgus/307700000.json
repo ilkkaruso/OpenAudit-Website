@@ -1,0 +1,72 @@
+{
+  "provinceCode": "307700000",
+  "provinceName": "Aurora",
+  "regionCode": "300000000",
+  "regionName": "Region II (Cagayan Valley)",
+  "lgus": [
+    {
+      "code": "307701000",
+      "name": "Baler",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 89
+    },
+    {
+      "code": "307702000",
+      "name": "Casiguran",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 381
+    },
+    {
+      "code": "307703000",
+      "name": "Dilasag",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 147
+    },
+    {
+      "code": "307704000",
+      "name": "Dinalungan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 168
+    },
+    {
+      "code": "307705000",
+      "name": "Dingalan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 111
+    },
+    {
+      "code": "307706000",
+      "name": "Dipaculao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 146
+    },
+    {
+      "code": "307707000",
+      "name": "Maria Aurora",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 113
+    },
+    {
+      "code": "307708000",
+      "name": "San Luis",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "regionCode": "1700000000",
+  "regionName": "MIMAROPA",
+  "provinces": [
+    {
+      "code": "1705300000",
+      "name": "Palawan",
+      "score": 0.35,
+      "totalScore": 8,
+      "lguCount": 23
+    },
+    {
+      "code": "1705200000",
+      "name": "Oriental Mindoro",
+      "score": 0.13,
+      "totalScore": 2,
+      "lguCount": 15
+    },
+    {
+      "code": "1704000000",
+      "name": "Marinduque",
+      "score": 0.17,
+      "totalScore": 1,
+      "lguCount": 6
+    },
+    {
+      "code": "1705900000",
+      "name": "Romblon",
+      "score": 0.06,
+      "totalScore": 1,
+      "lguCount": 17
+    },
+    {
+      "code": "1705100000",
+      "name": "Occidental Mindoro",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 11
+    }
+  ]
+}

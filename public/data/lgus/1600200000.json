@@ -1,0 +1,96 @@
+{
+  "provinceCode": "1600200000",
+  "provinceName": "Agusan del Norte",
+  "regionCode": "1600000000",
+  "regionName": "Region XIII (Caraga)",
+  "lgus": [
+    {
+      "code": "1600201000",
+      "name": "Buenavista",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 1317
+    },
+    {
+      "code": "1600203000",
+      "name": "City of Cabadbaran",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 272
+    },
+    {
+      "code": "1600204000",
+      "name": "Carmen",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1600205000",
+      "name": "Jabonga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 264
+    },
+    {
+      "code": "1600206000",
+      "name": "Kitcharao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 236
+    },
+    {
+      "code": "1600207000",
+      "name": "Las Nieves",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 233
+    },
+    {
+      "code": "1600208000",
+      "name": "Magallanes",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 625
+    },
+    {
+      "code": "1600209000",
+      "name": "Nasipit",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 178
+    },
+    {
+      "code": "1600210000",
+      "name": "Santiago",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1600211000",
+      "name": "Tubay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 182
+    },
+    {
+      "code": "1600212000",
+      "name": "Remedios T. Romualdez",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 116
+    }
+  ]
+}

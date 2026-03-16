@@ -1,0 +1,120 @@
+{
+  "provinceCode": "405800000",
+  "provinceName": "Rizal",
+  "regionCode": "400000000",
+  "regionName": "Region III (Central Luzon)",
+  "lgus": [
+    {
+      "code": "405801000",
+      "name": "Angono",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 103
+    },
+    {
+      "code": "405802000",
+      "name": "City of Antipolo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 99
+    },
+    {
+      "code": "405803000",
+      "name": "Baras",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 459
+    },
+    {
+      "code": "405804000",
+      "name": "Binangonan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 264
+    },
+    {
+      "code": "405805000",
+      "name": "Cainta",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 180
+    },
+    {
+      "code": "405806000",
+      "name": "Cardona",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 113
+    },
+    {
+      "code": "405807000",
+      "name": "Jala-Jala",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 160
+    },
+    {
+      "code": "405808000",
+      "name": "Rodriguez",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 105
+    },
+    {
+      "code": "405809000",
+      "name": "Morong",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "405810000",
+      "name": "Pililla",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 136
+    },
+    {
+      "code": "405811000",
+      "name": "San Mateo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "405812000",
+      "name": "Tanay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 140
+    },
+    {
+      "code": "405813000",
+      "name": "Taytay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "405814000",
+      "name": "Teresa",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 96
+    }
+  ]
+}

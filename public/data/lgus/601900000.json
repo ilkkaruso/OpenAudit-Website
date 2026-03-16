@@ -1,0 +1,144 @@
+{
+  "provinceCode": "601900000",
+  "provinceName": "Capiz",
+  "regionCode": "600000000",
+  "regionName": "Region V (Bicol Region)",
+  "lgus": [
+    {
+      "code": "601905000",
+      "name": "Ivisan",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 134
+    },
+    {
+      "code": "601912000",
+      "name": "Pontevedra",
+      "score": 1,
+      "normalizedScore": 0.58,
+      "maxStreak": 1,
+      "observationCount": 475
+    },
+    {
+      "code": "601901000",
+      "name": "Cuartero",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 101
+    },
+    {
+      "code": "601902000",
+      "name": "Dao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 142
+    },
+    {
+      "code": "601903000",
+      "name": "Dumalag",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 181
+    },
+    {
+      "code": "601904000",
+      "name": "Dumarao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 144
+    },
+    {
+      "code": "601906000",
+      "name": "Jamindan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 159
+    },
+    {
+      "code": "601907000",
+      "name": "Ma-Ayon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 164
+    },
+    {
+      "code": "601908000",
+      "name": "Mambusao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 142
+    },
+    {
+      "code": "601909000",
+      "name": "Panay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 179
+    },
+    {
+      "code": "601910000",
+      "name": "Panitan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 648
+    },
+    {
+      "code": "601911000",
+      "name": "Pilar",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "601913000",
+      "name": "President Roxas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "601914000",
+      "name": "City of Roxas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "601915000",
+      "name": "Sapi-An",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 167
+    },
+    {
+      "code": "601916000",
+      "name": "Sigma",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 177
+    },
+    {
+      "code": "601917000",
+      "name": "Tapaz",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 154
+    }
+  ]
+}

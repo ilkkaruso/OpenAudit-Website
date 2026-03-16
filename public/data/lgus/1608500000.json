@@ -1,0 +1,64 @@
+{
+  "provinceCode": "1608500000",
+  "provinceName": "Dinagat Islands",
+  "regionCode": "1600000000",
+  "regionName": "Region XIII (Caraga)",
+  "lgus": [
+    {
+      "code": "1608501000",
+      "name": "Basilisa",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 292
+    },
+    {
+      "code": "1608502000",
+      "name": "Cagdianao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 251
+    },
+    {
+      "code": "1608503000",
+      "name": "Dinagat",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 328
+    },
+    {
+      "code": "1608504000",
+      "name": "Libjo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 140
+    },
+    {
+      "code": "1608505000",
+      "name": "Loreto",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1608506000",
+      "name": "San Jose",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 2186
+    },
+    {
+      "code": "1608507000",
+      "name": "Tubajon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 115
+    }
+  ]
+}

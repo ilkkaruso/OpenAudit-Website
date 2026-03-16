@@ -1,0 +1,104 @@
+{
+  "provinceCode": "300800000",
+  "provinceName": "Bataan",
+  "regionCode": "300000000",
+  "regionName": "Region II (Cagayan Valley)",
+  "lgus": [
+    {
+      "code": "300806000",
+      "name": "Limay",
+      "score": 1,
+      "normalizedScore": 0.92,
+      "maxStreak": 1,
+      "observationCount": 252
+    },
+    {
+      "code": "300807000",
+      "name": "Mariveles",
+      "score": 1,
+      "normalizedScore": 0.84,
+      "maxStreak": 1,
+      "observationCount": 278
+    },
+    {
+      "code": "300801000",
+      "name": "Abucay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 121
+    },
+    {
+      "code": "300802000",
+      "name": "Bagac",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 117
+    },
+    {
+      "code": "300803000",
+      "name": "City of Balanga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 129
+    },
+    {
+      "code": "300804000",
+      "name": "Dinalupihan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 143
+    },
+    {
+      "code": "300805000",
+      "name": "Hermosa",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 217
+    },
+    {
+      "code": "300808000",
+      "name": "Morong",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 289
+    },
+    {
+      "code": "300809000",
+      "name": "Orani",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 167
+    },
+    {
+      "code": "300810000",
+      "name": "Orion",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 189
+    },
+    {
+      "code": "300811000",
+      "name": "Pilar",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "300812000",
+      "name": "Samal",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 179
+    }
+  ]
+}

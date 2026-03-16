@@ -1,0 +1,224 @@
+{
+  "provinceCode": "1400100000",
+  "provinceName": "Abra",
+  "regionCode": "1400000000",
+  "regionName": "Region XII (SOCCSKSARGEN)",
+  "lgus": [
+    {
+      "code": "1400110000",
+      "name": "Lagangilang",
+      "score": 1,
+      "normalizedScore": 0.87,
+      "maxStreak": 1,
+      "observationCount": 269
+    },
+    {
+      "code": "1400115000",
+      "name": "Malibcong",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 91
+    },
+    {
+      "code": "1400101000",
+      "name": "Bangued",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 222
+    },
+    {
+      "code": "1400102000",
+      "name": "Boliney",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 273
+    },
+    {
+      "code": "1400103000",
+      "name": "Bucay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 362
+    },
+    {
+      "code": "1400104000",
+      "name": "Bucloc",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 153
+    },
+    {
+      "code": "1400105000",
+      "name": "Daguioman",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 307
+    },
+    {
+      "code": "1400106000",
+      "name": "Danglas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 298
+    },
+    {
+      "code": "1400107000",
+      "name": "Dolores",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 779
+    },
+    {
+      "code": "1400108000",
+      "name": "La Paz",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 1164
+    },
+    {
+      "code": "1400109000",
+      "name": "Lacub",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 236
+    },
+    {
+      "code": "1400111000",
+      "name": "Lagayan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 246
+    },
+    {
+      "code": "1400112000",
+      "name": "Langiden",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 320
+    },
+    {
+      "code": "1400113000",
+      "name": "Licuan-Baay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 135
+    },
+    {
+      "code": "1400114000",
+      "name": "Luba",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 413
+    },
+    {
+      "code": "1400116000",
+      "name": "Manabo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 359
+    },
+    {
+      "code": "1400117000",
+      "name": "Peñarrubia",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1400118000",
+      "name": "Pidigan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 162
+    },
+    {
+      "code": "1400119000",
+      "name": "Pilar",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 2041
+    },
+    {
+      "code": "1400120000",
+      "name": "Sallapadan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 350
+    },
+    {
+      "code": "1400121000",
+      "name": "San Isidro",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1400122000",
+      "name": "San Juan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1400123000",
+      "name": "San Quintin",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1400124000",
+      "name": "Tayum",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 408
+    },
+    {
+      "code": "1400125000",
+      "name": "Tineg",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 363
+    },
+    {
+      "code": "1400126000",
+      "name": "Tubo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 365
+    },
+    {
+      "code": "1400127000",
+      "name": "Villaviciosa",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 310
+    }
+  ]
+}

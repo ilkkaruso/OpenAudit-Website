@@ -1,0 +1,34 @@
+{
+  "regionCode": "900000000",
+  "regionName": "Region VIII (Eastern Visayas)",
+  "provinces": [
+    {
+      "code": "907200000",
+      "name": "Zamboanga del Norte",
+      "score": 0.44,
+      "totalScore": 12,
+      "lguCount": 27
+    },
+    {
+      "code": "908300000",
+      "name": "Zamboanga Sibugay",
+      "score": 0.31,
+      "totalScore": 5,
+      "lguCount": 16
+    },
+    {
+      "code": "907300000",
+      "name": "Zamboanga del Sur",
+      "score": 0.11,
+      "totalScore": 3,
+      "lguCount": 27
+    },
+    {
+      "code": "990100000",
+      "name": "City of Isabela (Not a Province)",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 1
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "provinceCode": "706100000",
+  "provinceName": "Siquijor",
+  "regionCode": "700000000",
+  "regionName": "Region VI (Western Visayas)",
+  "lgus": [
+    {
+      "code": "706101000",
+      "name": "Enrique Villanueva",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 241
+    },
+    {
+      "code": "706102000",
+      "name": "Larena",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 221
+    },
+    {
+      "code": "706103000",
+      "name": "Lazi",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 229
+    },
+    {
+      "code": "706104000",
+      "name": "Maria",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 1206
+    },
+    {
+      "code": "706105000",
+      "name": "San Juan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "706106000",
+      "name": "Siquijor",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 347
+    }
+  ]
+}

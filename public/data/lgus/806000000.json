@@ -1,0 +1,216 @@
+{
+  "provinceCode": "806000000",
+  "provinceName": "Samar",
+  "regionCode": "800000000",
+  "regionName": "Region VII (Central Visayas)",
+  "lgus": [
+    {
+      "code": "806015000",
+      "name": "San Sebastian",
+      "score": 3,
+      "normalizedScore": 2.69,
+      "maxStreak": 1,
+      "observationCount": 259
+    },
+    {
+      "code": "806011000",
+      "name": "Matuguinao",
+      "score": 2,
+      "normalizedScore": 1.94,
+      "maxStreak": 1,
+      "observationCount": 238
+    },
+    {
+      "code": "806024000",
+      "name": "Tagapul-An",
+      "score": 2,
+      "normalizedScore": 1.55,
+      "maxStreak": 1,
+      "observationCount": 308
+    },
+    {
+      "code": "806001000",
+      "name": "Almagro",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 93
+    },
+    {
+      "code": "806002000",
+      "name": "Basey",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 197
+    },
+    {
+      "code": "806006000",
+      "name": "Daram",
+      "score": 1,
+      "normalizedScore": 0.81,
+      "maxStreak": 1,
+      "observationCount": 290
+    },
+    {
+      "code": "806007000",
+      "name": "Gandara",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 206
+    },
+    {
+      "code": "806009000",
+      "name": "Jiabong",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 221
+    },
+    {
+      "code": "806012000",
+      "name": "Motiong",
+      "score": 1,
+      "normalizedScore": 0.81,
+      "maxStreak": 1,
+      "observationCount": 293
+    },
+    {
+      "code": "806013000",
+      "name": "Pinabacdao",
+      "score": 1,
+      "normalizedScore": 0.99,
+      "maxStreak": 1,
+      "observationCount": 233
+    },
+    {
+      "code": "806019000",
+      "name": "Talalora",
+      "score": 1,
+      "normalizedScore": 0.7,
+      "maxStreak": 1,
+      "observationCount": 356
+    },
+    {
+      "code": "806025000",
+      "name": "San Jorge",
+      "score": 1,
+      "normalizedScore": 0.9,
+      "maxStreak": 1,
+      "observationCount": 258
+    },
+    {
+      "code": "806026000",
+      "name": "Pagsanghan",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 222
+    },
+    {
+      "code": "806003000",
+      "name": "City of Calbayog",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 201
+    },
+    {
+      "code": "806004000",
+      "name": "Calbiga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 274
+    },
+    {
+      "code": "806005000",
+      "name": "City of Catbalogan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 260
+    },
+    {
+      "code": "806008000",
+      "name": "Hinabangan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 171
+    },
+    {
+      "code": "806010000",
+      "name": "Marabut",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 185
+    },
+    {
+      "code": "806014000",
+      "name": "San Jose De Buan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 166
+    },
+    {
+      "code": "806016000",
+      "name": "Santa Margarita",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "806017000",
+      "name": "Santa Rita",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "806018000",
+      "name": "Santo Niño",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "806020000",
+      "name": "Tarangnan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 210
+    },
+    {
+      "code": "806021000",
+      "name": "Villareal",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 171
+    },
+    {
+      "code": "806022000",
+      "name": "Paranas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 172
+    },
+    {
+      "code": "806023000",
+      "name": "Zumarraga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 237
+    }
+  ]
+}

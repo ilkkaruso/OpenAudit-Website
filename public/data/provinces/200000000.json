@@ -1,0 +1,41 @@
+{
+  "regionCode": "200000000",
+  "regionName": "CAR (Cordillera Administrative Region)",
+  "provinces": [
+    {
+      "code": "200900000",
+      "name": "Batanes",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 6
+    },
+    {
+      "code": "201500000",
+      "name": "Cagayan",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 29
+    },
+    {
+      "code": "203100000",
+      "name": "Isabela",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 37
+    },
+    {
+      "code": "205000000",
+      "name": "Nueva Vizcaya",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 15
+    },
+    {
+      "code": "205700000",
+      "name": "Quirino",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 6
+    }
+  ]
+}

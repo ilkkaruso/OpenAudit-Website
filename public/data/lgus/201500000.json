@@ -1,0 +1,240 @@
+{
+  "provinceCode": "201500000",
+  "provinceName": "Cagayan",
+  "regionCode": "200000000",
+  "regionName": "CAR (Cordillera Administrative Region)",
+  "lgus": [
+    {
+      "code": "201501000",
+      "name": "Abulug",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 180
+    },
+    {
+      "code": "201502000",
+      "name": "Alcala",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "201503000",
+      "name": "Allacapan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 260
+    },
+    {
+      "code": "201504000",
+      "name": "Amulung",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 269
+    },
+    {
+      "code": "201505000",
+      "name": "Aparri",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 307
+    },
+    {
+      "code": "201506000",
+      "name": "Baggao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 211
+    },
+    {
+      "code": "201507000",
+      "name": "Ballesteros",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 242
+    },
+    {
+      "code": "201508000",
+      "name": "Buguey",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 253
+    },
+    {
+      "code": "201509000",
+      "name": "Calayan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 176
+    },
+    {
+      "code": "201510000",
+      "name": "Camalaniugan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 206
+    },
+    {
+      "code": "201511000",
+      "name": "Claveria",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "201512000",
+      "name": "Enrile",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 501
+    },
+    {
+      "code": "201513000",
+      "name": "Gattaran",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 282
+    },
+    {
+      "code": "201514000",
+      "name": "Gonzaga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 231
+    },
+    {
+      "code": "201515000",
+      "name": "Iguig",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 266
+    },
+    {
+      "code": "201516000",
+      "name": "Lal-Lo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 270
+    },
+    {
+      "code": "201517000",
+      "name": "Lasam",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 274
+    },
+    {
+      "code": "201518000",
+      "name": "Pamplona",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 703
+    },
+    {
+      "code": "201519000",
+      "name": "Peñablanca",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 47
+    },
+    {
+      "code": "201520000",
+      "name": "Piat",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 231
+    },
+    {
+      "code": "201521000",
+      "name": "Rizal",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "201522000",
+      "name": "Sanchez-Mira",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 166
+    },
+    {
+      "code": "201523000",
+      "name": "Santa Ana",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 87
+    },
+    {
+      "code": "201524000",
+      "name": "Santa Praxedes",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "201525000",
+      "name": "Santa Teresita",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "201526000",
+      "name": "Santo Niño",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "201527000",
+      "name": "Solana",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 279
+    },
+    {
+      "code": "201528000",
+      "name": "Tuao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 357
+    },
+    {
+      "code": "201529000",
+      "name": "Tuguegarao City",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 469
+    }
+  ]
+}

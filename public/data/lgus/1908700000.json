@@ -1,0 +1,112 @@
+{
+  "provinceCode": "1908700000",
+  "provinceName": "Maguindanao del Norte",
+  "regionCode": "1900000000",
+  "regionName": "BARMM",
+  "lgus": [
+    {
+      "code": "1908708000",
+      "name": "Northern Kabuntalan",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 78
+    },
+    {
+      "code": "1908712000",
+      "name": "Talitay",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 139
+    },
+    {
+      "code": "1908701000",
+      "name": "Barira",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 143
+    },
+    {
+      "code": "1908702000",
+      "name": "Buldon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 145
+    },
+    {
+      "code": "1908703000",
+      "name": "City of Cotabato",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 411
+    },
+    {
+      "code": "1908704000",
+      "name": "Datu Blah T. Sinsuat",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1908705000",
+      "name": "Datu Odin Sinsuat",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 116
+    },
+    {
+      "code": "1908706000",
+      "name": "Kabuntalan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 128
+    },
+    {
+      "code": "1908707000",
+      "name": "Matanog",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 146
+    },
+    {
+      "code": "1908709000",
+      "name": "Parang",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1908710000",
+      "name": "Sultan Kudarat",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 170
+    },
+    {
+      "code": "1908711000",
+      "name": "Sultan Mastura",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 124
+    },
+    {
+      "code": "1908713000",
+      "name": "Upi",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 247
+    }
+  ]
+}

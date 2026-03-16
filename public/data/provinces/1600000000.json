@@ -1,0 +1,41 @@
+{
+  "regionCode": "1600000000",
+  "regionName": "Region XIII (Caraga)",
+  "provinces": [
+    {
+      "code": "1600200000",
+      "name": "Agusan del Norte",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 11
+    },
+    {
+      "code": "1600300000",
+      "name": "Agusan del Sur",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 14
+    },
+    {
+      "code": "1606700000",
+      "name": "Surigao del Norte",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 21
+    },
+    {
+      "code": "1606800000",
+      "name": "Surigao del Sur",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 19
+    },
+    {
+      "code": "1608500000",
+      "name": "Dinagat Islands",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "regionCode": "600000000",
+  "regionName": "Region V (Bicol Region)",
+  "provinces": [
+    {
+      "code": "603000000",
+      "name": "Iloilo",
+      "score": 0.63,
+      "totalScore": 27,
+      "lguCount": 43
+    },
+    {
+      "code": "604500000",
+      "name": "Negros Occidental",
+      "score": 0.23,
+      "totalScore": 7,
+      "lguCount": 31
+    },
+    {
+      "code": "600600000",
+      "name": "Antique",
+      "score": 0.22,
+      "totalScore": 4,
+      "lguCount": 18
+    },
+    {
+      "code": "601900000",
+      "name": "Capiz",
+      "score": 0.12,
+      "totalScore": 2,
+      "lguCount": 17
+    },
+    {
+      "code": "600400000",
+      "name": "Aklan",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 17
+    },
+    {
+      "code": "607900000",
+      "name": "Guimaras",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 5
+    }
+  ]
+}

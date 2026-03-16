@@ -1,0 +1,16 @@
+{
+  "provinceCode": "990100000",
+  "provinceName": "City of Isabela (Not a Province)",
+  "regionCode": "900000000",
+  "regionName": "Region VIII (Eastern Visayas)",
+  "lgus": [
+    {
+      "code": "990101000",
+      "name": "City of Isabela",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    }
+  ]
+}

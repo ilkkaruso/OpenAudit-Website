@@ -1,0 +1,96 @@
+{
+  "provinceCode": "1402700000",
+  "provinceName": "Ifugao",
+  "regionCode": "1400000000",
+  "regionName": "Region XII (SOCCSKSARGEN)",
+  "lgus": [
+    {
+      "code": "1402701000",
+      "name": "Banaue",
+      "score": 1,
+      "normalizedScore": 0.74,
+      "maxStreak": 1,
+      "observationCount": 330
+    },
+    {
+      "code": "1402702000",
+      "name": "Hungduan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 170
+    },
+    {
+      "code": "1402703000",
+      "name": "Kiangan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 311
+    },
+    {
+      "code": "1402704000",
+      "name": "Lagawe",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 264
+    },
+    {
+      "code": "1402705000",
+      "name": "Lamut",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 229
+    },
+    {
+      "code": "1402706000",
+      "name": "Mayoyao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 244
+    },
+    {
+      "code": "1402707000",
+      "name": "Alfonso Lista",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 168
+    },
+    {
+      "code": "1402708000",
+      "name": "Aguinaldo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 293
+    },
+    {
+      "code": "1402709000",
+      "name": "Hingyon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 224
+    },
+    {
+      "code": "1402710000",
+      "name": "Tinoc",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 147
+    },
+    {
+      "code": "1402711000",
+      "name": "Asipulo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 154
+    }
+  ]
+}

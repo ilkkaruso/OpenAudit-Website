@@ -1,0 +1,264 @@
+{
+  "provinceCode": "304900000",
+  "provinceName": "Nueva Ecija",
+  "regionCode": "300000000",
+  "regionName": "Region II (Cagayan Valley)",
+  "lgus": [
+    {
+      "code": "304908000",
+      "name": "City of Gapan",
+      "score": 1,
+      "normalizedScore": 0.66,
+      "maxStreak": 1,
+      "observationCount": 385
+    },
+    {
+      "code": "304927000",
+      "name": "San Leonardo",
+      "score": 1,
+      "normalizedScore": 0.76,
+      "maxStreak": 1,
+      "observationCount": 316
+    },
+    {
+      "code": "304901000",
+      "name": "Aliaga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 249
+    },
+    {
+      "code": "304902000",
+      "name": "Bongabon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 224
+    },
+    {
+      "code": "304903000",
+      "name": "City of Cabanatuan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 216
+    },
+    {
+      "code": "304904000",
+      "name": "Cabiao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 322
+    },
+    {
+      "code": "304905000",
+      "name": "Carranglan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 224
+    },
+    {
+      "code": "304906000",
+      "name": "Cuyapo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 315
+    },
+    {
+      "code": "304907000",
+      "name": "Gabaldon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 204
+    },
+    {
+      "code": "304909000",
+      "name": "General Mamerto Natividad",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "304910000",
+      "name": "General Tinio",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 102
+    },
+    {
+      "code": "304911000",
+      "name": "Guimba",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 282
+    },
+    {
+      "code": "304912000",
+      "name": "Jaen",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 384
+    },
+    {
+      "code": "304913000",
+      "name": "Laur",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 268
+    },
+    {
+      "code": "304914000",
+      "name": "Licab",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 179
+    },
+    {
+      "code": "304915000",
+      "name": "Llanera",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 230
+    },
+    {
+      "code": "304916000",
+      "name": "Lupao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 222
+    },
+    {
+      "code": "304917000",
+      "name": "Science City of Muñoz",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 49
+    },
+    {
+      "code": "304918000",
+      "name": "Nampicuan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 207
+    },
+    {
+      "code": "304919000",
+      "name": "City of Palayan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 297
+    },
+    {
+      "code": "304920000",
+      "name": "Pantabangan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 176
+    },
+    {
+      "code": "304921000",
+      "name": "Peñaranda",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 42
+    },
+    {
+      "code": "304922000",
+      "name": "Quezon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "304923000",
+      "name": "Rizal",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "304924000",
+      "name": "San Antonio",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 772
+    },
+    {
+      "code": "304925000",
+      "name": "San Isidro",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "304926000",
+      "name": "San Jose City",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "304928000",
+      "name": "Santa Rosa",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 287
+    },
+    {
+      "code": "304929000",
+      "name": "Santo Domingo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "304930000",
+      "name": "Talavera",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 216
+    },
+    {
+      "code": "304931000",
+      "name": "Talugtug",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 241
+    },
+    {
+      "code": "304932000",
+      "name": "Zaragoza",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 217
+    }
+  ]
+}

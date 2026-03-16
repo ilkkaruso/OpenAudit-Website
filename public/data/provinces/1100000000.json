@@ -1,0 +1,41 @@
+{
+  "regionCode": "1100000000",
+  "regionName": "Region X (Northern Mindanao)",
+  "provinces": [
+    {
+      "code": "1102300000",
+      "name": "Davao del Norte",
+      "score": 0.18,
+      "totalScore": 2,
+      "lguCount": 11
+    },
+    {
+      "code": "1102400000",
+      "name": "Davao del Sur",
+      "score": 0.18,
+      "totalScore": 2,
+      "lguCount": 11
+    },
+    {
+      "code": "1102500000",
+      "name": "Davao Oriental",
+      "score": 0.09,
+      "totalScore": 1,
+      "lguCount": 11
+    },
+    {
+      "code": "1108200000",
+      "name": "Davao de Oro",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 11
+    },
+    {
+      "code": "1108600000",
+      "name": "Davao Occidental",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 5
+    }
+  ]
+}

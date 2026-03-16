@@ -1,0 +1,48 @@
+{
+  "regionCode": "800000000",
+  "regionName": "Region VII (Central Visayas)",
+  "provinces": [
+    {
+      "code": "806000000",
+      "name": "Samar",
+      "score": 0.65,
+      "totalScore": 17,
+      "lguCount": 26
+    },
+    {
+      "code": "803700000",
+      "name": "Leyte",
+      "score": 0.31,
+      "totalScore": 13,
+      "lguCount": 42
+    },
+    {
+      "code": "802600000",
+      "name": "Eastern Samar",
+      "score": 0.17,
+      "totalScore": 4,
+      "lguCount": 23
+    },
+    {
+      "code": "804800000",
+      "name": "Northern Samar",
+      "score": 0.08,
+      "totalScore": 2,
+      "lguCount": 24
+    },
+    {
+      "code": "806400000",
+      "name": "Southern Leyte",
+      "score": 0.11,
+      "totalScore": 2,
+      "lguCount": 19
+    },
+    {
+      "code": "807800000",
+      "name": "Biliran",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 8
+    }
+  ]
+}

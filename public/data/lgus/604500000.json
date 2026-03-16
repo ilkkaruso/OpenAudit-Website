@@ -1,0 +1,256 @@
+{
+  "provinceCode": "604500000",
+  "provinceName": "Negros Occidental",
+  "regionCode": "600000000",
+  "regionName": "Region V (Bicol Region)",
+  "lgus": [
+    {
+      "code": "604504000",
+      "name": "City of Cadiz",
+      "score": 1,
+      "normalizedScore": 0.78,
+      "maxStreak": 1,
+      "observationCount": 304
+    },
+    {
+      "code": "604507000",
+      "name": "Cauayan",
+      "score": 1,
+      "normalizedScore": 0.58,
+      "maxStreak": 1,
+      "observationCount": 480
+    },
+    {
+      "code": "604509000",
+      "name": "City of Escalante",
+      "score": 1,
+      "normalizedScore": 0.74,
+      "maxStreak": 1,
+      "observationCount": 328
+    },
+    {
+      "code": "604514000",
+      "name": "Isabela",
+      "score": 1,
+      "normalizedScore": 0.54,
+      "maxStreak": 1,
+      "observationCount": 544
+    },
+    {
+      "code": "604516000",
+      "name": "City of La Carlota",
+      "score": 1,
+      "normalizedScore": 0.73,
+      "maxStreak": 1,
+      "observationCount": 337
+    },
+    {
+      "code": "604526000",
+      "name": "City of Silay",
+      "score": 1,
+      "normalizedScore": 0.78,
+      "maxStreak": 1,
+      "observationCount": 304
+    },
+    {
+      "code": "604527000",
+      "name": "City of Sipalay",
+      "score": 1,
+      "normalizedScore": 0.89,
+      "maxStreak": 1,
+      "observationCount": 261
+    },
+    {
+      "code": "604502000",
+      "name": "City of Bago",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 198
+    },
+    {
+      "code": "604503000",
+      "name": "Binalbagan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 214
+    },
+    {
+      "code": "604505000",
+      "name": "Calatrava",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "604506000",
+      "name": "Candoni",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 133
+    },
+    {
+      "code": "604508000",
+      "name": "Enrique B. Magalona",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 188
+    },
+    {
+      "code": "604510000",
+      "name": "City of Himamaylan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 257
+    },
+    {
+      "code": "604511000",
+      "name": "Hinigaran",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 235
+    },
+    {
+      "code": "604512000",
+      "name": "Hinoba-an",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 220
+    },
+    {
+      "code": "604513000",
+      "name": "Ilog",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 201
+    },
+    {
+      "code": "604515000",
+      "name": "City of Kabankalan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 185
+    },
+    {
+      "code": "604517000",
+      "name": "La Castellana",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 240
+    },
+    {
+      "code": "604518000",
+      "name": "Manapla",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 186
+    },
+    {
+      "code": "604519000",
+      "name": "Moises Padilla",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 216
+    },
+    {
+      "code": "604520000",
+      "name": "Murcia",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 283
+    },
+    {
+      "code": "604521000",
+      "name": "Pontevedra",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "604522000",
+      "name": "Pulupandan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 130
+    },
+    {
+      "code": "604523000",
+      "name": "City of Sagay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "604524000",
+      "name": "City of San Carlos",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "604525000",
+      "name": "San Enrique",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "604528000",
+      "name": "City of Talisay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "604529000",
+      "name": "Toboso",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 285
+    },
+    {
+      "code": "604530000",
+      "name": "Valladolid",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 119
+    },
+    {
+      "code": "604531000",
+      "name": "City of Victorias",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 454
+    },
+    {
+      "code": "604532000",
+      "name": "Salvador Benedicto",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    }
+  ]
+}

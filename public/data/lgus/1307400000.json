@@ -1,0 +1,48 @@
+{
+  "provinceCode": "1307400000",
+  "provinceName": "NCR, Second District (Not a Province)",
+  "regionCode": "1300000000",
+  "regionName": "NCR (National Capital Region)",
+  "lgus": [
+    {
+      "code": "1380500000",
+      "name": "City of Mandaluyong",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 286
+    },
+    {
+      "code": "1380700000",
+      "name": "City of Marikina",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 429
+    },
+    {
+      "code": "1381200000",
+      "name": "City of Pasig",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 412
+    },
+    {
+      "code": "1381300000",
+      "name": "Quezon City",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1381400000",
+      "name": "City of San Juan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    }
+  ]
+}

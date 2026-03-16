@@ -1,0 +1,152 @@
+{
+  "provinceCode": "600600000",
+  "provinceName": "Antique",
+  "regionCode": "600000000",
+  "regionName": "Region V (Bicol Region)",
+  "lgus": [
+    {
+      "code": "600604000",
+      "name": "Bugasong",
+      "score": 1,
+      "normalizedScore": 0.93,
+      "maxStreak": 1,
+      "observationCount": 250
+    },
+    {
+      "code": "600606000",
+      "name": "Culasi",
+      "score": 1,
+      "normalizedScore": 0.72,
+      "maxStreak": 1,
+      "observationCount": 340
+    },
+    {
+      "code": "600607000",
+      "name": "Tobias Fornier",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 121
+    },
+    {
+      "code": "600608000",
+      "name": "Hamtic",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 211
+    },
+    {
+      "code": "600601000",
+      "name": "Anini-Y",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 185
+    },
+    {
+      "code": "600602000",
+      "name": "Barbaza",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 214
+    },
+    {
+      "code": "600603000",
+      "name": "Belison",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 185
+    },
+    {
+      "code": "600605000",
+      "name": "Caluya",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 381
+    },
+    {
+      "code": "600609000",
+      "name": "Laua-An",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 256
+    },
+    {
+      "code": "600610000",
+      "name": "Libertad",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "600611000",
+      "name": "Pandan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "600612000",
+      "name": "Patnongon",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 237
+    },
+    {
+      "code": "600613000",
+      "name": "San Jose",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "600614000",
+      "name": "San Remigio",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 557
+    },
+    {
+      "code": "600615000",
+      "name": "Sebaste",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 282
+    },
+    {
+      "code": "600616000",
+      "name": "Sibalom",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 188
+    },
+    {
+      "code": "600617000",
+      "name": "Tibiao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 261
+    },
+    {
+      "code": "600618000",
+      "name": "Valderrama",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 195
+    }
+  ]
+}

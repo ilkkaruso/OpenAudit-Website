@@ -1,0 +1,144 @@
+{
+  "provinceCode": "600400000",
+  "provinceName": "Aklan",
+  "regionCode": "600000000",
+  "regionName": "Region V (Bicol Region)",
+  "lgus": [
+    {
+      "code": "600401000",
+      "name": "Altavas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 209
+    },
+    {
+      "code": "600402000",
+      "name": "Balete",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "600403000",
+      "name": "Banga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "600404000",
+      "name": "Batan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 266
+    },
+    {
+      "code": "600405000",
+      "name": "Buruanga",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 151
+    },
+    {
+      "code": "600406000",
+      "name": "Ibajay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 171
+    },
+    {
+      "code": "600407000",
+      "name": "Kalibo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 130
+    },
+    {
+      "code": "600408000",
+      "name": "Lezo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 274
+    },
+    {
+      "code": "600409000",
+      "name": "Libacao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 211
+    },
+    {
+      "code": "600410000",
+      "name": "Madalag",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 192
+    },
+    {
+      "code": "600411000",
+      "name": "Makato",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 156
+    },
+    {
+      "code": "600412000",
+      "name": "Malay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 229
+    },
+    {
+      "code": "600413000",
+      "name": "Malinao",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "600414000",
+      "name": "Nabas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 341
+    },
+    {
+      "code": "600415000",
+      "name": "New Washington",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 171
+    },
+    {
+      "code": "600416000",
+      "name": "Numancia",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 230
+    },
+    {
+      "code": "600417000",
+      "name": "Tangalan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 192
+    }
+  ]
+}

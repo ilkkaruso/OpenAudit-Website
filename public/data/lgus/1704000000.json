@@ -1,0 +1,56 @@
+{
+  "provinceCode": "1704000000",
+  "provinceName": "Marinduque",
+  "regionCode": "1700000000",
+  "regionName": "MIMAROPA",
+  "lgus": [
+    {
+      "code": "1704004000",
+      "name": "Mogpog",
+      "score": 1,
+      "normalizedScore": 0.67,
+      "maxStreak": 1,
+      "observationCount": 377
+    },
+    {
+      "code": "1704001000",
+      "name": "Boac",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 229
+    },
+    {
+      "code": "1704002000",
+      "name": "Buenavista",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1704003000",
+      "name": "Gasan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 226
+    },
+    {
+      "code": "1704005000",
+      "name": "Santa Cruz",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "1704006000",
+      "name": "Torrijos",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 233
+    }
+  ]
+}

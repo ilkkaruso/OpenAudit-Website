@@ -1,0 +1,168 @@
+{
+  "provinceCode": "103300000",
+  "provinceName": "La Union",
+  "regionCode": "100000000",
+  "regionName": "Region I (Ilocos Region)",
+  "lgus": [
+    {
+      "code": "103304000",
+      "name": "Bagulin",
+      "score": 2,
+      "normalizedScore": 1.77,
+      "maxStreak": 1,
+      "observationCount": 263
+    },
+    {
+      "code": "103320000",
+      "name": "Tubao",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 212
+    },
+    {
+      "code": "103301000",
+      "name": "Agoo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 200
+    },
+    {
+      "code": "103302000",
+      "name": "Aringay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 215
+    },
+    {
+      "code": "103303000",
+      "name": "Bacnotan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 265
+    },
+    {
+      "code": "103305000",
+      "name": "Balaoan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 338
+    },
+    {
+      "code": "103306000",
+      "name": "Bangar",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 254
+    },
+    {
+      "code": "103307000",
+      "name": "Bauang",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 268
+    },
+    {
+      "code": "103308000",
+      "name": "Burgos",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "103309000",
+      "name": "Caba",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 745
+    },
+    {
+      "code": "103310000",
+      "name": "Luna",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 1047
+    },
+    {
+      "code": "103311000",
+      "name": "Naguilian",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 588
+    },
+    {
+      "code": "103312000",
+      "name": "Pugo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 218
+    },
+    {
+      "code": "103313000",
+      "name": "Rosario",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 1121
+    },
+    {
+      "code": "103314000",
+      "name": "City of San Fernando",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "103315000",
+      "name": "San Gabriel",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 218
+    },
+    {
+      "code": "103316000",
+      "name": "San Juan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "103317000",
+      "name": "Santo Tomas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 38
+    },
+    {
+      "code": "103318000",
+      "name": "Santol",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 335
+    },
+    {
+      "code": "103319000",
+      "name": "Sudipen",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 260
+    }
+  ]
+}

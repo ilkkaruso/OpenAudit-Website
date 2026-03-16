@@ -1,0 +1,224 @@
+{
+  "provinceCode": "907200000",
+  "provinceName": "Zamboanga del Norte",
+  "regionCode": "900000000",
+  "regionName": "Region VIII (Eastern Visayas)",
+  "lgus": [
+    {
+      "code": "907219000",
+      "name": "Siocon",
+      "score": 3,
+      "normalizedScore": 3.0,
+      "maxStreak": 2,
+      "observationCount": 228
+    },
+    {
+      "code": "907220000",
+      "name": "Sirawai",
+      "score": 3,
+      "normalizedScore": 2.28,
+      "maxStreak": 2,
+      "observationCount": 316
+    },
+    {
+      "code": "907223000",
+      "name": "Gutalac",
+      "score": 2,
+      "normalizedScore": 2.0,
+      "maxStreak": 1,
+      "observationCount": 216
+    },
+    {
+      "code": "907224000",
+      "name": "Baliguian",
+      "score": 2,
+      "normalizedScore": 1.71,
+      "maxStreak": 1,
+      "observationCount": 274
+    },
+    {
+      "code": "907202000",
+      "name": "City of Dipolog",
+      "score": 1,
+      "normalizedScore": 0.7,
+      "maxStreak": 1,
+      "observationCount": 354
+    },
+    {
+      "code": "907225000",
+      "name": "Godod",
+      "score": 1,
+      "normalizedScore": 1.0,
+      "maxStreak": 1,
+      "observationCount": 160
+    },
+    {
+      "code": "907201000",
+      "name": "City of Dapitan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 195
+    },
+    {
+      "code": "907203000",
+      "name": "Katipunan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 291
+    },
+    {
+      "code": "907204000",
+      "name": "La Libertad",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "907205000",
+      "name": "Labason",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 200
+    },
+    {
+      "code": "907206000",
+      "name": "Liloy",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 230
+    },
+    {
+      "code": "907207000",
+      "name": "Manukan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 187
+    },
+    {
+      "code": "907208000",
+      "name": "Mutia",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 273
+    },
+    {
+      "code": "907209000",
+      "name": "Piñan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 35
+    },
+    {
+      "code": "907210000",
+      "name": "Polanco",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 215
+    },
+    {
+      "code": "907211000",
+      "name": "Pres. Manuel A. Roxas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 10
+    },
+    {
+      "code": "907212000",
+      "name": "Rizal",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "907213000",
+      "name": "Salug",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 220
+    },
+    {
+      "code": "907214000",
+      "name": "Sergio Osmeña Sr.",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 40
+    },
+    {
+      "code": "907215000",
+      "name": "Siayan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 215
+    },
+    {
+      "code": "907216000",
+      "name": "Sibuco",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 180
+    },
+    {
+      "code": "907217000",
+      "name": "Sibutad",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 218
+    },
+    {
+      "code": "907218000",
+      "name": "Sindangan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 199
+    },
+    {
+      "code": "907221000",
+      "name": "Tampilisan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 192
+    },
+    {
+      "code": "907222000",
+      "name": "Jose Dalman",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 212
+    },
+    {
+      "code": "907226000",
+      "name": "Leon T. Postigo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "907227000",
+      "name": "Kalawit",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 211
+    }
+  ]
+}

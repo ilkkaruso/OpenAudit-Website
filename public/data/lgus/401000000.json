@@ -1,0 +1,280 @@
+{
+  "provinceCode": "401000000",
+  "provinceName": "Batangas",
+  "regionCode": "400000000",
+  "regionName": "Region III (Central Luzon)",
+  "lgus": [
+    {
+      "code": "401012000",
+      "name": "Lemery",
+      "score": 3,
+      "normalizedScore": 1.43,
+      "maxStreak": 2,
+      "observationCount": 688
+    },
+    {
+      "code": "401001000",
+      "name": "Agoncillo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 164
+    },
+    {
+      "code": "401002000",
+      "name": "Alitagtag",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 243
+    },
+    {
+      "code": "401003000",
+      "name": "Balayan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 286
+    },
+    {
+      "code": "401004000",
+      "name": "Balete",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 321
+    },
+    {
+      "code": "401005000",
+      "name": "Batangas City",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 1173
+    },
+    {
+      "code": "401006000",
+      "name": "Bauan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 227
+    },
+    {
+      "code": "401007000",
+      "name": "City of Calaca",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 218
+    },
+    {
+      "code": "401008000",
+      "name": "Calatagan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 233
+    },
+    {
+      "code": "401009000",
+      "name": "Cuenca",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 159
+    },
+    {
+      "code": "401010000",
+      "name": "Ibaan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 199
+    },
+    {
+      "code": "401011000",
+      "name": "Laurel",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 82
+    },
+    {
+      "code": "401013000",
+      "name": "Lian",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 244
+    },
+    {
+      "code": "401014000",
+      "name": "City of Lipa",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 162
+    },
+    {
+      "code": "401015000",
+      "name": "Lobo",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 214
+    },
+    {
+      "code": "401016000",
+      "name": "Mabini",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "401017000",
+      "name": "Malvar",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 126
+    },
+    {
+      "code": "401018000",
+      "name": "Mataasnakahoy",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 126
+    },
+    {
+      "code": "401019000",
+      "name": "Nasugbu",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 255
+    },
+    {
+      "code": "401020000",
+      "name": "Padre Garcia",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 145
+    },
+    {
+      "code": "401021000",
+      "name": "Rosario",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "401022000",
+      "name": "San Jose",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "401023000",
+      "name": "San Juan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "401024000",
+      "name": "San Luis",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "401025000",
+      "name": "San Nicolas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "401026000",
+      "name": "San Pascual",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 367
+    },
+    {
+      "code": "401027000",
+      "name": "Santa Teresita",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "401028000",
+      "name": "City of Sto. Tomas",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "401029000",
+      "name": "Taal",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 190
+    },
+    {
+      "code": "401030000",
+      "name": "Talisay",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 1266
+    },
+    {
+      "code": "401031000",
+      "name": "City of Tanauan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 0
+    },
+    {
+      "code": "401032000",
+      "name": "Taysan",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 138
+    },
+    {
+      "code": "401033000",
+      "name": "Tingloy",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 224
+    },
+    {
+      "code": "401034000",
+      "name": "Tuy",
+      "score": 0,
+      "normalizedScore": 0.0,
+      "maxStreak": 0,
+      "observationCount": 360
+    }
+  ]
+}

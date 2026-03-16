@@ -1,0 +1,34 @@
+{
+  "regionCode": "1300000000",
+  "regionName": "NCR (National Capital Region)",
+  "provinces": [
+    {
+      "code": "1303900000",
+      "name": "NCR, City of Manila, First District (Not a Province)",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 1
+    },
+    {
+      "code": "1307400000",
+      "name": "NCR, Second District (Not a Province)",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 5
+    },
+    {
+      "code": "1307500000",
+      "name": "NCR, Third District (Not a Province)",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 4
+    },
+    {
+      "code": "1307600000",
+      "name": "NCR, Fourth District (Not a Province)",
+      "score": 0.0,
+      "totalScore": 0,
+      "lguCount": 7
+    }
+  ]
+}
