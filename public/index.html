@@ -14,6 +14,9 @@
     <nav>
       <a href="index.html" class="nav-link active">Map</a>
       <a href="about.html" class="nav-link">About</a>
+      <a href="data.html" class="nav-link">Data</a>
+      <a href="settings.html" class="nav-link">Settings</a>
+      <a href="#" class="nav-link logout-link" onclick="logout()">Logout</a>
     </nav>
     <h1>OpenAudit Philippines</h1>
     <p>Audit Recommendation Implementation Tracker (2016-2024)</p>
@@ -26,9 +29,11 @@
     <p>Hover over regions to see non-implementation rates. Darker colors indicate higher non-implementation.</p>
   </footer>
 
+  <script src="js/auth.js"></script>
   <script src="js/map.js" defer></script>
   <script>
     document.addEventListener('DOMContentLoaded', () => {
+      checkAuth();
       if (typeof renderMap === 'function') {
         renderMap();
       }

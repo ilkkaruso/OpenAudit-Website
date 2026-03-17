@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Settings - OpenAudit Philippines</title>
+  <meta name="description" content="Account settings for OpenAudit Philippines.">
+  <link rel="stylesheet" href="css/settings.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="index.html" class="nav-link">Map</a>
+      <a href="about.html" class="nav-link">About</a>
+      <a href="data.html" class="nav-link">Data</a>
+      <a href="settings.html" class="nav-link active">Settings</a>
+      <a href="#" class="nav-link logout-link" onclick="logout()">Logout</a>
+    </nav>
+    <h1>OpenAudit Philippines</h1>
+    <p>Account Settings</p>
+  </header>
+
+  <main>
+    <section class="settings-section">
+      <h2>Account Information</h2>
+      <div class="info-card">
+        <div class="info-row">
+          <span class="info-label">Username:</span>
+          <span id="display-username" class="info-value">—</span>
+        </div>
+        <div class="info-row">
+          <span class="info-label">Name:</span>
+          <span id="display-name" class="info-value">—</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="settings-section">
+      <h2>Change Password</h2>
+      <form id="password-form" class="password-form">
+        <div class="form-group">
+          <label for="current-password">Current Password</label>
+          <input type="password" id="current-password" name="current-password" required autocomplete="current-password" />
+        </div>
+
+        <div class="form-group">
+          <label for="new-password">New Password</label>
+          <input type="password" id="new-password" name="new-password" required autocomplete="new-password" minlength="8" />
+          <span class="hint">Minimum 8 characters</span>
+        </div>
+
+        <div class="form-group">
+          <label for="confirm-password">Confirm New Password</label>
+          <input type="password" id="confirm-password" name="confirm-password" required autocomplete="new-password" />
+        </div>
+
+        <div id="message" class="message"></div>
+
+        <button type="submit" class="btn btn-primary">Update Password</button>
+      </form>
+    </section>
+
+    <section class="settings-section">
+      <h2>About This System</h2>
+      <div class="info-card">
+        <p>
+          This authentication system uses browser localStorage to manage access.
+          Your session will expire after 24 hours of inactivity.
+        </p>
+        <p>
+          <strong>Note:</strong> This is a basic access control system designed for
+          limiting access to a research team. It is not suitable for protecting
+          highly sensitive data.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>OpenAudit Philippines - Research Access Portal</p>
+  </footer>
+
+  <script src="js/auth.js"></script>
+  <script>
+    // Check authentication
+    checkAuth();
+
+    // Display user info
+    const user = getCurrentUser();
+    if (user) {
+      document.getElementById('display-username').textContent = user.username;
+      document.getElementById('display-name').textContent = user.name;
+    }
+
+    // Password change form
+    document.getElementById('password-form').addEventListener('submit', function(e) {
+      e.preventDefault();
+
+      const currentPassword = document.getElementById('current-password').value;
+      const newPassword = document.getElementById('new-password').value;
+      const confirmPassword = document.getElementById('confirm-password').value;
+      const messageEl = document.getElementById('message');
+
+      // Reset message
+      messageEl.className = 'message';
+      messageEl.style.display = 'none';
+
+      // Validate passwords match
+      if (newPassword !== confirmPassword) {
+        messageEl.textContent = 'New passwords do not match';
+        messageEl.className = 'message error';
+        messageEl.style.display = 'block';
+        return;
+      }
+
+      // Change password
+      const result = changePassword(currentPassword, newPassword);
+
+      if (result.success) {
+        messageEl.textContent = 'Password updated successfully!';
+        messageEl.className = 'message success';
+        messageEl.style.display = 'block';
+
+        // Clear form
+        document.getElementById('password-form').reset();
+      } else {
+        messageEl.textContent = result.error;
+        messageEl.className = 'message error';
+        messageEl.style.display = 'block';
+      }
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login - OpenAudit Philippines</title>
+  <meta name="description" content="Login to access OpenAudit Philippines data.">
+  <link rel="stylesheet" href="css/login.css">
+</head>
+<body>
+  <div class="login-container">
+    <div class="login-box">
+      <div class="login-header">
+        <h1>OpenAudit Philippines</h1>
+        <p>Audit Recommendation Implementation Tracker</p>
+      </div>
+
+      <form id="login-form" class="login-form">
+        <div class="form-group">
+          <label for="username">Username</label>
+          <input type="text" id="username" name="username" required autocomplete="username" />
+        </div>
+
+        <div class="form-group">
+          <label for="password">Password</label>
+          <input type="password" id="password" name="password" required autocomplete="current-password" />
+        </div>
+
+        <div id="error-message" class="error-message"></div>
+
+        <button type="submit" class="btn-login">Login</button>
+      </form>
+
+      <div class="login-footer">
+        <p>Access restricted to authorized researchers.</p>
+        <p>Contact the project administrator for access.</p>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/auth.js"></script>
+  <script>
+    // Redirect if already logged in
+    if (isAuthenticated()) {
+      window.location.href = 'index.html';
+    }
+
+    document.getElementById('login-form').addEventListener('submit', function(e) {
+      e.preventDefault();
+
+      const username = document.getElementById('username').value.trim();
+      const password = document.getElementById('password').value;
+      const errorEl = document.getElementById('error-message');
+
+      errorEl.textContent = '';
+      errorEl.style.display = 'none';
+
+      const result = login(username, password);
+
+      if (result.success) {
+        window.location.href = 'index.html';
+      } else {
+        errorEl.textContent = result.error;
+        errorEl.style.display = 'block';
+      }
+    });
+  </script>
+</body>
+</html>

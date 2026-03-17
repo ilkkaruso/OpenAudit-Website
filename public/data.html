@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Data Explorer - OpenAudit Philippines</title>
+  <meta name="description" content="Explore and download LGU audit compliance data for research purposes.">
+  <link rel="stylesheet" href="css/data.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="index.html" class="nav-link">Map</a>
+      <a href="about.html" class="nav-link">About</a>
+      <a href="data.html" class="nav-link active">Data</a>
+      <a href="#" class="nav-link logout-link" onclick="logout()">Logout</a>
+    </nav>
+    <h1>OpenAudit Philippines</h1>
+    <p>Data Explorer for Researchers</p>
+  </header>
+
+  <main>
+    <section class="controls">
+      <div class="search-box">
+        <input type="text" id="search" placeholder="Search LGU name..." />
+      </div>
+
+      <div class="filters">
+        <div class="filter-group">
+          <label for="risk-filter">Risk Level</label>
+          <select id="risk-filter">
+            <option value="">All Levels</option>
+            <option value="critical">Critical</option>
+            <option value="high">High</option>
+            <option value="moderate">Moderate</option>
+            <option value="low">Low</option>
+            <option value="minimal">Minimal</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label for="trend-filter">Trend</label>
+          <select id="trend-filter">
+            <option value="">All Trends</option>
+            <option value="improving">Improving</option>
+            <option value="stable">Stable</option>
+            <option value="worsening">Worsening</option>
+            <option value="insufficient_data">Insufficient Data</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label for="score-min">Score Range</label>
+          <div class="range-inputs">
+            <input type="number" id="score-min" placeholder="Min" min="0" max="100" />
+            <span>–</span>
+            <input type="number" id="score-max" placeholder="Max" min="0" max="100" />
+          </div>
+        </div>
+      </div>
+
+      <div class="actions">
+        <button id="reset-filters" class="btn btn-secondary">Reset Filters</button>
+        <button id="export-csv" class="btn btn-primary">Export CSV</button>
+      </div>
+    </section>
+
+    <section class="table-info">
+      <span id="row-count">Loading...</span>
+      <span class="sort-hint">Click column headers to sort</span>
+    </section>
+
+    <section class="table-container">
+      <table id="data-table">
+        <thead>
+          <tr>
+            <th data-sort="name">LGU Name <span class="sort-icon"></span></th>
+            <th data-sort="score">Score <span class="sort-icon"></span></th>
+            <th data-sort="riskLevel">Risk Level <span class="sort-icon"></span></th>
+            <th data-sort="notImplementedPct">Not Implemented % <span class="sort-icon"></span></th>
+            <th data-sort="maxStreak">Max Streak <span class="sort-icon"></span></th>
+            <th data-sort="trend">Trend <span class="sort-icon"></span></th>
+            <th data-sort="observationCount">Observations <span class="sort-icon"></span></th>
+            <th data-sort="baseRate">Base Rate <span class="sort-icon"></span></th>
+          </tr>
+        </thead>
+        <tbody id="table-body">
+          <tr><td colspan="8" class="loading">Loading data...</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="pagination">
+      <button id="prev-page" class="btn btn-secondary" disabled>Previous</button>
+      <span id="page-info">Page 1</span>
+      <button id="next-page" class="btn btn-secondary">Next</button>
+      <select id="page-size">
+        <option value="25">25 per page</option>
+        <option value="50" selected>50 per page</option>
+        <option value="100">100 per page</option>
+        <option value="all">Show all</option>
+      </select>
+    </section>
+  </main>
+
+  <footer>
+    <p>Data Source: Commission on Audit (COA) Annual Audit Reports 2016-2024</p>
+  </footer>
+
+  <script src="js/auth.js"></script>
+  <script src="js/data.js"></script>
+</body>
+</html>

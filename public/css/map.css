@@ -39,6 +39,15 @@ header .nav-link.active {
   border-bottom-color: white;
 }
 
+header .nav-link.logout-link {
+  color: rgba(255,200,200,0.9);
+}
+
+header .nav-link.logout-link:hover {
+  color: #ff6b6b;
+  border-bottom-color: #ff6b6b;
+}
+
 header h1 {
   margin: 0;
   font-size: 1.5rem;

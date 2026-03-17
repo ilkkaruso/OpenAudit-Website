@@ -12,6 +12,9 @@
     <nav>
       <a href="index.html" class="nav-link">Map</a>
       <a href="about.html" class="nav-link active">About</a>
+      <a href="data.html" class="nav-link">Data</a>
+      <a href="settings.html" class="nav-link">Settings</a>
+      <a href="#" class="nav-link logout-link" onclick="logout()">Logout</a>
     </nav>
     <h1>OpenAudit Philippines</h1>
     <p>Methodology & Data Documentation</p>
@@ -572,5 +575,8 @@
     <p>Data Source: Commission on Audit (COA) Annual Audit Reports 2016-2024</p>
     <p>OpenAudit Philippines is an open-source transparency initiative.</p>
   </footer>
+
+  <script src="js/auth.js"></script>
+  <script>checkAuth();</script>
 </body>
 </html>
