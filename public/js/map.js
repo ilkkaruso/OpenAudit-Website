@@ -192,3 +192,211 @@ function moveTooltip(event) {
     .style('left', (event.pageX + 15) + 'px')
     .style('top', (event.pageY - 10) + 'px');
 }
+
+// ============================================
+// ZOOM BEHAVIOR
+// ============================================
+
+function setupZoom() {
+  state.zoom = d3.zoom()
+    .scaleExtent([1, 8])
+    .on('zoom', (event) => {
+      state.currentZoom = event.transform;
+      state.mapGroup.attr('transform', event.transform);
+    });
+
+  // Apply zoom to SVG
+  state.svg.call(state.zoom);
+
+  // Disable scroll zoom on single touch (mobile)
+  state.svg.on('touchstart', (event) => {
+    if (event.touches.length === 1) {
+      event.preventDefault();
+      showMobileHint();
+    }
+  }, { passive: false });
+}
+
+function showMobileHint() {
+  const hint = document.getElementById('mobile-hint');
+  if (hint) {
+    hint.classList.add('visible');
+    setTimeout(() => hint.classList.remove('visible'), 2000);
+  }
+}
+
+function zoomIn() {
+  state.svg.transition().duration(300).call(
+    state.zoom.scaleBy, 1.5
+  );
+}
+
+function zoomOut() {
+  state.svg.transition().duration(300).call(
+    state.zoom.scaleBy, 0.67
+  );
+}
+
+function resetZoom() {
+  state.svg.transition().duration(500).call(
+    state.zoom.transform, d3.zoomIdentity
+  );
+  state.zoomedProvince = null;
+}
+
+function zoomToProvince(feature, provinceCode) {
+  const [[x0, y0], [x1, y1]] = state.path.bounds(feature);
+  const width = state.svg.node().clientWidth;
+  const height = state.svg.node().clientHeight;
+
+  const scale = Math.min(8, 0.9 / Math.max((x1 - x0) / width, (y1 - y0) / height));
+  const tx = width / 2 - scale * (x0 + x1) / 2;
+  const ty = height / 2 - scale * (y0 + y1) / 2;
+
+  state.svg.transition().duration(750).call(
+    state.zoom.transform,
+    d3.zoomIdentity.translate(tx, ty).scale(scale)
+  );
+
+  state.zoomedProvince = provinceCode;
+}
+
+// ============================================
+// RENDER PROVINCES
+// ============================================
+
+async function renderProvinces() {
+  const scores = await loadProvinceScores(state.currentYear);
+
+  state.provinceLayer.selectAll('path.province')
+    .data(state.provinceGeojson.features)
+    .join('path')
+    .attr('class', 'province')
+    .attr('d', state.path)
+    .attr('fill', d => {
+      const code = String(d.properties.psgc || d.properties.PSGC || '').substring(0, 5);
+      const data = scores[code];
+      return data ? getRiskColor(data.score, data.riskLevel) : '#e0e0e0';
+    })
+    .attr('stroke', '#ffffff')
+    .attr('stroke-width', 0.5)
+    .on('pointerenter', function(event, d) {
+      d3.select(this).attr('stroke', '#000').attr('stroke-width', 2).raise();
+      const code = String(d.properties.psgc || d.properties.PSGC || '').substring(0, 5);
+      const data = scores[code] || { name: d.properties.name || d.properties.NAME || 'Unknown' };
+      showTooltip(event, data, 'province');
+    })
+    .on('pointermove', moveTooltip)
+    .on('pointerleave', function() {
+      d3.select(this).attr('stroke', '#fff').attr('stroke-width', 0.5);
+      hideTooltip();
+    })
+    .on('dblclick', async function(event, d) {
+      event.stopPropagation();
+      const code = String(d.properties.psgc || d.properties.PSGC || '').substring(0, 5);
+
+      if (state.zoomedProvince === code) {
+        // Zoom out
+        resetZoom();
+      } else {
+        // Zoom in and load LGUs
+        zoomToProvince(d, code);
+        await loadAndRenderProvinceLgus(code);
+      }
+    });
+
+  // Show province layer, hide LGU layer
+  state.provinceLayer.style('display', null);
+  state.lguLayer.style('display', 'none');
+}
+
+// ============================================
+// RENDER LGUS
+// ============================================
+
+async function loadAndRenderProvinceLgus(provinceCode) {
+  const topo = await loadProvinceLgus(provinceCode);
+  if (!topo) return;
+
+  const scores = await loadLguScores(state.currentYear);
+  const objectName = Object.keys(topo.objects)[0];
+  const geojson = topojson.feature(topo, topo.objects[objectName]);
+
+  state.lguLayer.selectAll('path.lgu')
+    .data(geojson.features, d => d.properties.psgc || d.properties.PSGC)
+    .join('path')
+    .attr('class', 'lgu')
+    .attr('d', state.path)
+    .attr('fill', d => {
+      const psgc = String(d.properties.psgc || d.properties.PSGC || '');
+      const data = scores[psgc];
+      return data ? getRiskColor(data.score, data.riskLevel) : '#e0e0e0';
+    })
+    .attr('stroke', '#ffffff')
+    .attr('stroke-width', 0.2)
+    .on('pointerenter', function(event, d) {
+      d3.select(this).attr('stroke', '#000').attr('stroke-width', 1.5).raise();
+      const psgc = String(d.properties.psgc || d.properties.PSGC || '');
+      const data = scores[psgc] || { name: d.properties.name || d.properties.NAME || 'Unknown' };
+      showTooltip(event, data, 'lgu');
+    })
+    .on('pointermove', moveTooltip)
+    .on('pointerleave', function() {
+      d3.select(this).attr('stroke', '#fff').attr('stroke-width', 0.2);
+      hideTooltip();
+    });
+
+  state.lguLayer.style('display', null);
+}
+
+async function renderAllLgus() {
+  // Load all provinces' LGUs
+  const scores = await loadLguScores(state.currentYear);
+
+  // Clear existing
+  state.lguLayer.selectAll('path.lgu').remove();
+
+  // Load each province
+  for (const [code, mapping] of Object.entries(state.provinceMapping)) {
+    await loadAndRenderProvinceLgus(code);
+  }
+
+  // Hide provinces, show LGUs
+  state.provinceLayer.style('display', 'none');
+  state.lguLayer.style('display', null);
+}
+
+// ============================================
+// UPDATE MAP (on control changes)
+// ============================================
+
+async function updateMap() {
+  // Clear caches when dataset changes
+  state.provinceScores = {};
+  state.lguScores = {};
+
+  if (state.currentView === 'provinces') {
+    state.lguLayer.selectAll('path.lgu').remove();
+    await renderProvinces();
+  } else {
+    await renderAllLgus();
+  }
+}
+
+async function updateYear(year) {
+  state.currentYear = year;
+  document.getElementById('year-display').textContent = year;
+
+  if (state.currentView === 'provinces') {
+    await renderProvinces();
+  } else {
+    // Re-render LGUs with new year data
+    const scores = await loadLguScores(year);
+    state.lguLayer.selectAll('path.lgu')
+      .attr('fill', d => {
+        const psgc = String(d.properties.psgc || d.properties.PSGC || '');
+        const data = scores[psgc];
+        return data ? getRiskColor(data.score, data.riskLevel) : '#e0e0e0';
+      });
+  }
+}
