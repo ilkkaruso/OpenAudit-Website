@@ -61,22 +61,49 @@ header p {
 }
 
 main {
+  position: relative;
   padding: 1rem;
-  max-width: 1200px;
+  max-width: 1400px;
   margin: 0 auto;
 }
 
-#map {
+#map-container {
+  position: relative;
   background: white;
   border-radius: 8px;
   box-shadow: 0 2px 12px rgba(0,0,0,0.1);
   overflow: hidden;
 }
 
+#map {
+  background: white;
+}
+
 #map svg {
   display: block;
   width: 100%;
-  height: auto;
+  height: 80vh;
+  min-height: 500px;
+  cursor: grab;
+}
+
+#map svg:active {
+  cursor: grabbing;
+}
+
+#map svg .outline {
+  fill: #f0f4f8;
+  stroke: #cbd5e0;
+  stroke-width: 1;
+}
+
+#map svg .province {
+  cursor: pointer;
+  transition: filter 0.1s;
+}
+
+#map svg .province:hover {
+  filter: brightness(0.9);
 }
 
 /* LGU paths */
@@ -87,6 +114,173 @@ main {
 
 #map svg path.lgu:hover {
   filter: brightness(0.85);
+}
+
+/* ============================================
+   CONTROL PANEL STYLES
+   ============================================ */
+
+.control-panel {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  z-index: 100;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.15);
+  padding: 1rem;
+  min-width: 200px;
+}
+
+.control-group {
+  margin-bottom: 1rem;
+}
+
+.control-group:last-child {
+  margin-bottom: 0;
+}
+
+.control-group label {
+  display: block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #4a5568;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 0.5rem;
+}
+
+.control-group select {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #e2e8f0;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  background: white;
+  cursor: pointer;
+}
+
+.control-group select:focus {
+  outline: none;
+  border-color: #1a365d;
+}
+
+/* Year slider */
+#year-slider {
+  width: 100%;
+  margin: 0.25rem 0;
+  cursor: pointer;
+}
+
+#year-display {
+  font-weight: 700;
+  color: #1a365d;
+}
+
+.year-labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.7rem;
+  color: #718096;
+}
+
+/* View toggle buttons */
+.toggle-buttons {
+  display: flex;
+  gap: 0;
+}
+
+.toggle-btn {
+  flex: 1;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid #e2e8f0;
+  background: white;
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.toggle-btn:first-child {
+  border-radius: 4px 0 0 4px;
+}
+
+.toggle-btn:last-child {
+  border-radius: 0 4px 4px 0;
+  border-left: none;
+}
+
+.toggle-btn:hover {
+  background: #f7fafc;
+}
+
+.toggle-btn.active {
+  background: #1a365d;
+  color: white;
+  border-color: #1a365d;
+}
+
+/* ============================================
+   ZOOM CONTROLS
+   ============================================ */
+
+.zoom-controls {
+  position: absolute;
+  bottom: 1rem;
+  right: 1rem;
+  z-index: 100;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  background: white;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  overflow: hidden;
+}
+
+.zoom-btn {
+  width: 36px;
+  height: 36px;
+  border: none;
+  background: white;
+  font-size: 1.25rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #1a365d;
+  transition: background 0.15s;
+}
+
+.zoom-btn:hover {
+  background: #f7fafc;
+}
+
+.zoom-btn:active {
+  background: #e2e8f0;
+}
+
+/* ============================================
+   MOBILE HINT
+   ============================================ */
+
+.mobile-hint {
+  display: none;
+  position: absolute;
+  bottom: 1rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(0,0,0,0.7);
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.mobile-hint.visible {
+  opacity: 1;
 }
 
 /* Loading state */
@@ -291,6 +485,43 @@ footer {
     padding: 0.5rem;
   }
 
+  .control-panel {
+    position: relative;
+    top: 0;
+    left: 0;
+    margin-bottom: 0.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    min-width: unset;
+  }
+
+  .control-group {
+    flex: 1;
+    min-width: 120px;
+    margin-bottom: 0;
+  }
+
+  .zoom-controls {
+    bottom: 0.5rem;
+    right: 0.5rem;
+  }
+
+  .zoom-btn {
+    width: 32px;
+    height: 32px;
+    font-size: 1rem;
+  }
+
+  .mobile-hint {
+    display: block;
+  }
+
+  #map svg {
+    height: 60vh;
+    min-height: 400px;
+  }
+
   #map svg path.lgu {
     stroke-width: 0.1 !important;
   }
@@ -314,6 +545,16 @@ footer {
   /* Hide legend on mobile - too small */
   #map svg .legend {
     display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .control-panel {
+    flex-direction: column;
+  }
+
+  .control-group {
+    min-width: 100%;
   }
 }
 
