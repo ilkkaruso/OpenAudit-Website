@@ -400,3 +400,161 @@ async function updateYear(year) {
       });
   }
 }
+
+// ============================================
+// INITIALIZATION
+// ============================================
+
+async function initMap() {
+  const container = d3.select('#map');
+  container.html('');
+
+  const loading = container.append('div')
+    .attr('class', 'loading')
+    .text('Loading map...');
+
+  try {
+    // Load geo data and province mapping
+    const [outlineTopo, provinceTopo, provinceMapping] = await Promise.all([
+      d3.json('geo/ph-outline.topo.json'),
+      d3.json('geo/provinces-hires.topo.json'),
+      d3.json('geo/province-mapping.json')
+    ]);
+
+    state.provinceMapping = provinceMapping;
+
+    // Convert TopoJSON to GeoJSON
+    const outlineObjName = Object.keys(outlineTopo.objects)[0];
+    const outlineGeojson = topojson.feature(outlineTopo, outlineTopo.objects[outlineObjName]);
+
+    const provinceObjName = Object.keys(provinceTopo.objects)[0];
+    state.provinceGeojson = topojson.feature(provinceTopo, provinceTopo.objects[provinceObjName]);
+
+    loading.remove();
+
+    // SVG setup
+    const width = container.node().clientWidth || 800;
+    const height = Math.max(500, window.innerHeight * 0.8);
+
+    state.svg = container.append('svg')
+      .attr('width', '100%')
+      .attr('height', height)
+      .attr('viewBox', `0 0 ${width} ${height}`)
+      .attr('preserveAspectRatio', 'xMidYMid meet');
+
+    state.mapGroup = state.svg.append('g');
+
+    // Create layers
+    state.outlineLayer = state.mapGroup.append('g').attr('class', 'outline-layer');
+    state.provinceLayer = state.mapGroup.append('g').attr('class', 'province-layer');
+    state.lguLayer = state.mapGroup.append('g').attr('class', 'lgu-layer');
+
+    // Projection
+    state.projection = d3.geoMercator()
+      .fitSize([width * 0.85, height * 0.95], state.provinceGeojson);
+
+    state.path = d3.geoPath().projection(state.projection);
+
+    // Render outline background
+    state.outlineLayer.selectAll('path')
+      .data(outlineGeojson.features)
+      .join('path')
+      .attr('class', 'outline')
+      .attr('d', state.path);
+
+    // Setup zoom
+    setupZoom();
+
+    // Initial render
+    await renderProvinces();
+
+    // Setup controls
+    setupControls();
+
+    console.log('Map initialized successfully');
+
+  } catch (error) {
+    loading.remove();
+    console.error('Map initialization error:', error);
+    container.append('div')
+      .attr('class', 'error-message')
+      .html(`
+        <h3>Failed to load map</h3>
+        <p>${error.message}</p>
+        <p>Make sure geo files are in place.</p>
+      `);
+  }
+}
+
+// ============================================
+// CONTROL HANDLERS
+// ============================================
+
+function setupControls() {
+  // Dataset dropdown
+  const datasetSelect = document.getElementById('dataset-select');
+  if (datasetSelect) {
+    datasetSelect.addEventListener('change', async (e) => {
+      state.currentDataset = e.target.value;
+      await updateMap();
+    });
+  }
+
+  // Year slider
+  const yearSlider = document.getElementById('year-slider');
+  if (yearSlider) {
+    yearSlider.addEventListener('input', (e) => {
+      document.getElementById('year-display').textContent = e.target.value;
+    });
+    yearSlider.addEventListener('change', async (e) => {
+      await updateYear(parseInt(e.target.value));
+    });
+  }
+
+  // View toggle buttons
+  const viewProvinces = document.getElementById('view-provinces');
+  const viewLgus = document.getElementById('view-lgus');
+
+  if (viewProvinces && viewLgus) {
+    viewProvinces.addEventListener('click', async () => {
+      if (state.currentView === 'provinces') return;
+      state.currentView = 'provinces';
+      viewProvinces.classList.add('active');
+      viewLgus.classList.remove('active');
+      resetZoom();
+      await renderProvinces();
+    });
+
+    viewLgus.addEventListener('click', async () => {
+      if (state.currentView === 'lgus') return;
+      state.currentView = 'lgus';
+      viewLgus.classList.add('active');
+      viewProvinces.classList.remove('active');
+      await renderAllLgus();
+    });
+  }
+
+  // Zoom buttons
+  const zoomInBtn = document.getElementById('zoom-in');
+  const zoomOutBtn = document.getElementById('zoom-out');
+  const zoomResetBtn = document.getElementById('zoom-reset');
+
+  if (zoomInBtn) zoomInBtn.addEventListener('click', zoomIn);
+  if (zoomOutBtn) zoomOutBtn.addEventListener('click', zoomOut);
+  if (zoomResetBtn) zoomResetBtn.addEventListener('click', resetZoom);
+
+  // Double-click on SVG background to reset
+  state.svg.on('dblclick.zoom', null); // Disable default d3 double-click zoom
+  state.svg.on('dblclick', (event) => {
+    if (event.target.tagName === 'svg') {
+      resetZoom();
+    }
+  });
+}
+
+// ============================================
+// EXPORTS
+// ============================================
+
+window.initMap = initMap;
+window.renderMap = initMap; // Backwards compatibility
