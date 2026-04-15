@@ -274,7 +274,7 @@ async function renderProvinces() {
     .attr('class', 'province')
     .attr('d', state.path)
     .attr('fill', d => {
-      const code = String(d.properties.psgc || d.properties.PSGC || '').substring(0, 5);
+      const code = String(d.properties.psgc || d.properties.PSGC || '').padStart(10, '0');
       const data = scores[code];
       return data ? getRiskColor(data.score, data.riskLevel) : '#e0e0e0';
     })
@@ -282,7 +282,7 @@ async function renderProvinces() {
     .attr('stroke-width', 0.5)
     .on('pointerenter', function(event, d) {
       d3.select(this).attr('stroke', '#000').attr('stroke-width', 2).raise();
-      const code = String(d.properties.psgc || d.properties.PSGC || '').substring(0, 5);
+      const code = String(d.properties.psgc || d.properties.PSGC || '').padStart(10, '0');
       const data = scores[code] || { name: d.properties.name || d.properties.NAME || 'Unknown' };
       showTooltip(event, data, 'province');
     })
@@ -293,7 +293,7 @@ async function renderProvinces() {
     })
     .on('dblclick', async function(event, d) {
       event.stopPropagation();
-      const code = String(d.properties.psgc || d.properties.PSGC || '').substring(0, 5);
+      const code = String(d.properties.psgc || d.properties.PSGC || '').padStart(10, '0');
 
       if (state.zoomedProvince === code) {
         // Zoom out
@@ -328,7 +328,7 @@ async function loadAndRenderProvinceLgus(provinceCode) {
     .attr('class', 'lgu')
     .attr('d', state.path)
     .attr('fill', d => {
-      const psgc = String(d.properties.psgc || d.properties.PSGC || '');
+      const psgc = String(d.properties.psgc || d.properties.PSGC || '').padStart(10, '0');
       const data = scores[psgc];
       return data ? getRiskColor(data.score, data.riskLevel) : '#e0e0e0';
     })
@@ -336,7 +336,7 @@ async function loadAndRenderProvinceLgus(provinceCode) {
     .attr('stroke-width', 0.2)
     .on('pointerenter', function(event, d) {
       d3.select(this).attr('stroke', '#000').attr('stroke-width', 1.5).raise();
-      const psgc = String(d.properties.psgc || d.properties.PSGC || '');
+      const psgc = String(d.properties.psgc || d.properties.PSGC || '').padStart(10, '0');
       const data = scores[psgc] || { name: d.properties.name || d.properties.NAME || 'Unknown' };
       showTooltip(event, data, 'lgu');
     })
@@ -394,7 +394,7 @@ async function updateYear(year) {
     const scores = await loadLguScores(year);
     state.lguLayer.selectAll('path.lgu')
       .attr('fill', d => {
-        const psgc = String(d.properties.psgc || d.properties.PSGC || '');
+        const psgc = String(d.properties.psgc || d.properties.PSGC || '').padStart(10, '0');
         const data = scores[psgc];
         return data ? getRiskColor(data.score, data.riskLevel) : '#e0e0e0';
       });

@@ -11,9 +11,11 @@ from collections import defaultdict
 PROJECT_ROOT = Path(__file__).parent.parent.parent
 DATA_DIR = PROJECT_ROOT / "scripts" / "data"
 OUTPUT_DIR = PROJECT_ROOT / "public" / "data"
+GEO_DIR = PROJECT_ROOT / "public" / "geo"
 
 OBSERVATIONS_PATH = DATA_DIR / "observations.json"
 LGU_MAPPING_PATH = DATA_DIR / "lgu_mapping.json"
+PROVINCES_GEO_PATH = GEO_DIR / "provinces-hires.topo.json"
 
 YEARS = range(2016, 2023)  # 2016-2022
 
@@ -67,6 +69,20 @@ def main():
     with open(LGU_MAPPING_PATH, 'r', encoding='utf-8') as f:
         lgu_mapping = json.load(f)
 
+    print("Loading province names from geo file...")
+    with open(PROVINCES_GEO_PATH, 'r', encoding='utf-8') as f:
+        prov_geo = json.load(f)
+    # Extract province names from geo data
+    province_names = {}
+    obj = list(prov_geo['objects'].values())[0]
+    for g in obj['geometries']:
+        props = g.get('properties', {})
+        psgc = str(props.get('psgc', '')).zfill(10)
+        name = props.get('name', '')
+        if psgc and name:
+            province_names[psgc] = name
+    print(f"  Loaded {len(province_names)} province names")
+
     # Filter to 2016-2022 and group by year and PSGC
     by_year_psgc = defaultdict(lambda: defaultdict(list))
 
@@ -88,11 +104,17 @@ def main():
             if score_data:
                 lgu_info = lgu_mapping.get(psgc, {})
                 prov_psgc = lgu_info.get('province_psgc', '')
-                prov_code = str(prov_psgc)[:5] if prov_psgc else ''
+                # Use full 10-digit PSGC code for matching geo data (padded with zeros)
+                prov_code = str(prov_psgc).zfill(10) if prov_psgc else ''
+                # Also pad the LGU PSGC to 10 digits
+                lgu_psgc = str(psgc).zfill(10)
 
-                lgus[psgc] = {
+                # Get province name from geo data (authoritative source)
+                prov_name = province_names.get(prov_code, '')
+
+                lgus[lgu_psgc] = {
                     'name': lgu_info.get('name', 'Unknown'),
-                    'province': lgu_info.get('province_name', ''),
+                    'province': prov_name,
                     'provinceCode': prov_code,
                     **score_data
                 }
@@ -100,19 +122,15 @@ def main():
                 # Aggregate for province
                 if prov_code:
                     provinces[prov_code]['observations'].extend(observations)
-                    provinces[prov_code]['lgus'].append(psgc)
+                    provinces[prov_code]['lgus'].append(lgu_psgc)
 
         # Calculate province-level scores
         province_scores = {}
         for prov_code, prov_data in provinces.items():
             score_data = calculate_year_score(prov_data['observations'])
             if score_data:
-                # Get province name from first LGU
-                prov_name = ''
-                for psgc in prov_data['lgus']:
-                    if psgc in lgus:
-                        prov_name = lgus[psgc]['province']
-                        break
+                # Get province name from geo data (authoritative source)
+                prov_name = province_names.get(prov_code, '')
 
                 province_scores[prov_code] = {
                     'name': prov_name,

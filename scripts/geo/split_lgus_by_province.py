@@ -23,14 +23,18 @@ def slugify(name: str) -> str:
 
 
 def get_province_code(props: dict) -> str:
-    """Extract province code from properties."""
+    """Extract province code from properties (10-digit padded PSGC)."""
     # Use province_psgc if available, otherwise derive from psgc
     prov_psgc = props.get('province_psgc')
     if prov_psgc:
-        return str(prov_psgc)[:5]
+        # Province PSGC ends in 00000, extract first 5 digits and pad to 10
+        return str(prov_psgc)[:5].zfill(5) + "00000"
 
     psgc = str(props.get('psgc', props.get('PSGC', '')))
-    return psgc[:5] if len(psgc) >= 5 else ""
+    if len(psgc) >= 5:
+        # Extract first 5 digits and pad to full 10-digit code
+        return psgc[:5].zfill(5) + "00000"
+    return ""
 
 
 def main():
