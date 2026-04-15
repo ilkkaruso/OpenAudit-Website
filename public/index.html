@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>OpenAudit Philippines - Corruption Risk Map</title>
-  <meta name="description" content="Interactive map showing audit recommendation non-implementation rates across Philippine regions. Track government accountability from COA data 2016-2024.">
+  <meta name="description" content="Interactive map showing audit recommendation non-implementation rates across Philippine LGUs. Track government accountability from COA data 2016-2022.">
   <link rel="stylesheet" href="css/map.css">
   <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
   <script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
@@ -19,14 +19,56 @@
       <a href="#" class="nav-link logout-link" onclick="logout()">Logout</a>
     </nav>
     <h1>OpenAudit Philippines</h1>
-    <p>Audit Recommendation Implementation Tracker (2016-2024)</p>
+    <p>Audit Recommendation Implementation Tracker (2016-2022)</p>
   </header>
 
-  <main id="map" role="img" aria-label="Interactive choropleth map showing corruption risk by Philippine region. Hover over regions for details."></main>
+  <main>
+    <!-- Control Panel -->
+    <div id="controls" class="control-panel">
+      <div class="control-group">
+        <label for="dataset-select">Dataset</label>
+        <select id="dataset-select">
+          <option value="audit" selected>Audit Findings</option>
+          <option value="disallowances">Disallowances</option>
+        </select>
+      </div>
+
+      <div class="control-group">
+        <label for="year-slider">Year: <span id="year-display">2022</span></label>
+        <input type="range" id="year-slider" min="2016" max="2022" value="2022" step="1">
+        <div class="year-labels">
+          <span>2016</span>
+          <span>2022</span>
+        </div>
+      </div>
+
+      <div class="control-group">
+        <label>View</label>
+        <div class="toggle-buttons">
+          <button id="view-provinces" class="toggle-btn active">Provinces</button>
+          <button id="view-lgus" class="toggle-btn">LGUs</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Map Container -->
+    <div id="map-container">
+      <div id="map" role="img" aria-label="Interactive choropleth map showing corruption risk by Philippine region."></div>
+
+      <!-- Zoom Controls -->
+      <div id="zoom-controls" class="zoom-controls">
+        <button id="zoom-in" class="zoom-btn" title="Zoom in">+</button>
+        <button id="zoom-out" class="zoom-btn" title="Zoom out">-</button>
+        <button id="zoom-reset" class="zoom-btn" title="Reset view">&#8962;</button>
+      </div>
+
+      <!-- Mobile hint -->
+      <div id="mobile-hint" class="mobile-hint">Use two fingers to zoom</div>
+    </div>
+  </main>
 
   <footer>
-    <p>Data Source: Commission on Audit (COA) Annual Audit Reports 2016-2024</p>
-    <p>Hover over regions to see non-implementation rates. Darker colors indicate higher non-implementation.</p>
+    <p>Data Source: Commission on Audit (COA) Annual Audit Reports 2016-2022</p>
   </footer>
 
   <script src="js/auth.js"></script>
@@ -34,8 +76,8 @@
   <script>
     document.addEventListener('DOMContentLoaded', () => {
       checkAuth();
-      if (typeof renderMap === 'function') {
-        renderMap();
+      if (typeof initMap === 'function') {
+        initMap();
       }
     });
   </script>
