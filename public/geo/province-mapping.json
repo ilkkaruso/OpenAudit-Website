@@ -1,0 +1,524 @@
+{
+  "10013": {
+    "name": "province-10013",
+    "slug": "province-10013",
+    "file": "lgus/province-10013.topo.json",
+    "lgu_count": 22
+  },
+  "10018": {
+    "name": "province-10018",
+    "slug": "province-10018",
+    "file": "lgus/province-10018.topo.json",
+    "lgu_count": 5
+  },
+  "10035": {
+    "name": "province-10035",
+    "slug": "province-10035",
+    "file": "lgus/province-10035.topo.json",
+    "lgu_count": 22
+  },
+  "10042": {
+    "name": "province-10042",
+    "slug": "province-10042",
+    "file": "lgus/province-10042.topo.json",
+    "lgu_count": 17
+  },
+  "10043": {
+    "name": "province-10043",
+    "slug": "province-10043",
+    "file": "lgus/province-10043.topo.json",
+    "lgu_count": 25
+  },
+  "10280": {
+    "name": "province-10280",
+    "slug": "province-10280",
+    "file": "lgus/province-10280.topo.json",
+    "lgu_count": 23
+  },
+  "10290": {
+    "name": "province-10290",
+    "slug": "province-10290",
+    "file": "lgus/province-10290.topo.json",
+    "lgu_count": 34
+  },
+  "10330": {
+    "name": "province-10330",
+    "slug": "province-10330",
+    "file": "lgus/province-10330.topo.json",
+    "lgu_count": 20
+  },
+  "10550": {
+    "name": "province-10550",
+    "slug": "province-10550",
+    "file": "lgus/province-10550.topo.json",
+    "lgu_count": 48
+  },
+  "11023": {
+    "name": "province-11023",
+    "slug": "province-11023",
+    "file": "lgus/province-11023.topo.json",
+    "lgu_count": 11
+  },
+  "11024": {
+    "name": "province-11024",
+    "slug": "province-11024",
+    "file": "lgus/province-11024.topo.json",
+    "lgu_count": 11
+  },
+  "11025": {
+    "name": "province-11025",
+    "slug": "province-11025",
+    "file": "lgus/province-11025.topo.json",
+    "lgu_count": 11
+  },
+  "11082": {
+    "name": "province-11082",
+    "slug": "province-11082",
+    "file": "lgus/province-11082.topo.json",
+    "lgu_count": 11
+  },
+  "11086": {
+    "name": "province-11086",
+    "slug": "province-11086",
+    "file": "lgus/province-11086.topo.json",
+    "lgu_count": 5
+  },
+  "12047": {
+    "name": "province-12047",
+    "slug": "province-12047",
+    "file": "lgus/province-12047.topo.json",
+    "lgu_count": 18
+  },
+  "12063": {
+    "name": "province-12063",
+    "slug": "province-12063",
+    "file": "lgus/province-12063.topo.json",
+    "lgu_count": 11
+  },
+  "12065": {
+    "name": "province-12065",
+    "slug": "province-12065",
+    "file": "lgus/province-12065.topo.json",
+    "lgu_count": 12
+  },
+  "12080": {
+    "name": "province-12080",
+    "slug": "province-12080",
+    "file": "lgus/province-12080.topo.json",
+    "lgu_count": 7
+  },
+  "13039": {
+    "name": "province-13039",
+    "slug": "province-13039",
+    "file": "lgus/province-13039.topo.json",
+    "lgu_count": 1
+  },
+  "13074": {
+    "name": "province-13074",
+    "slug": "province-13074",
+    "file": "lgus/province-13074.topo.json",
+    "lgu_count": 5
+  },
+  "13075": {
+    "name": "province-13075",
+    "slug": "province-13075",
+    "file": "lgus/province-13075.topo.json",
+    "lgu_count": 4
+  },
+  "13076": {
+    "name": "province-13076",
+    "slug": "province-13076",
+    "file": "lgus/province-13076.topo.json",
+    "lgu_count": 7
+  },
+  "14001": {
+    "name": "province-14001",
+    "slug": "province-14001",
+    "file": "lgus/province-14001.topo.json",
+    "lgu_count": 27
+  },
+  "14011": {
+    "name": "province-14011",
+    "slug": "province-14011",
+    "file": "lgus/province-14011.topo.json",
+    "lgu_count": 13
+  },
+  "14027": {
+    "name": "province-14027",
+    "slug": "province-14027",
+    "file": "lgus/province-14027.topo.json",
+    "lgu_count": 11
+  },
+  "14032": {
+    "name": "province-14032",
+    "slug": "province-14032",
+    "file": "lgus/province-14032.topo.json",
+    "lgu_count": 8
+  },
+  "14044": {
+    "name": "province-14044",
+    "slug": "province-14044",
+    "file": "lgus/province-14044.topo.json",
+    "lgu_count": 10
+  },
+  "14081": {
+    "name": "province-14081",
+    "slug": "province-14081",
+    "file": "lgus/province-14081.topo.json",
+    "lgu_count": 7
+  },
+  "16002": {
+    "name": "province-16002",
+    "slug": "province-16002",
+    "file": "lgus/province-16002.topo.json",
+    "lgu_count": 11
+  },
+  "16003": {
+    "name": "province-16003",
+    "slug": "province-16003",
+    "file": "lgus/province-16003.topo.json",
+    "lgu_count": 14
+  },
+  "16067": {
+    "name": "province-16067",
+    "slug": "province-16067",
+    "file": "lgus/province-16067.topo.json",
+    "lgu_count": 21
+  },
+  "16068": {
+    "name": "province-16068",
+    "slug": "province-16068",
+    "file": "lgus/province-16068.topo.json",
+    "lgu_count": 19
+  },
+  "16085": {
+    "name": "province-16085",
+    "slug": "province-16085",
+    "file": "lgus/province-16085.topo.json",
+    "lgu_count": 7
+  },
+  "17040": {
+    "name": "province-17040",
+    "slug": "province-17040",
+    "file": "lgus/province-17040.topo.json",
+    "lgu_count": 6
+  },
+  "17051": {
+    "name": "province-17051",
+    "slug": "province-17051",
+    "file": "lgus/province-17051.topo.json",
+    "lgu_count": 11
+  },
+  "17052": {
+    "name": "province-17052",
+    "slug": "province-17052",
+    "file": "lgus/province-17052.topo.json",
+    "lgu_count": 15
+  },
+  "17053": {
+    "name": "province-17053",
+    "slug": "province-17053",
+    "file": "lgus/province-17053.topo.json",
+    "lgu_count": 23
+  },
+  "17059": {
+    "name": "province-17059",
+    "slug": "province-17059",
+    "file": "lgus/province-17059.topo.json",
+    "lgu_count": 17
+  },
+  "19007": {
+    "name": "province-19007",
+    "slug": "province-19007",
+    "file": "lgus/province-19007.topo.json",
+    "lgu_count": 12
+  },
+  "19036": {
+    "name": "province-19036",
+    "slug": "province-19036",
+    "file": "lgus/province-19036.topo.json",
+    "lgu_count": 40
+  },
+  "19066": {
+    "name": "province-19066",
+    "slug": "province-19066",
+    "file": "lgus/province-19066.topo.json",
+    "lgu_count": 19
+  },
+  "19070": {
+    "name": "province-19070",
+    "slug": "province-19070",
+    "file": "lgus/province-19070.topo.json",
+    "lgu_count": 11
+  },
+  "19087": {
+    "name": "province-19087",
+    "slug": "province-19087",
+    "file": "lgus/province-19087.topo.json",
+    "lgu_count": 13
+  },
+  "19088": {
+    "name": "province-19088",
+    "slug": "province-19088",
+    "file": "lgus/province-19088.topo.json",
+    "lgu_count": 24
+  },
+  "20090": {
+    "name": "province-20090",
+    "slug": "province-20090",
+    "file": "lgus/province-20090.topo.json",
+    "lgu_count": 6
+  },
+  "20150": {
+    "name": "province-20150",
+    "slug": "province-20150",
+    "file": "lgus/province-20150.topo.json",
+    "lgu_count": 29
+  },
+  "20310": {
+    "name": "province-20310",
+    "slug": "province-20310",
+    "file": "lgus/province-20310.topo.json",
+    "lgu_count": 37
+  },
+  "20500": {
+    "name": "province-20500",
+    "slug": "province-20500",
+    "file": "lgus/province-20500.topo.json",
+    "lgu_count": 15
+  },
+  "20570": {
+    "name": "province-20570",
+    "slug": "province-20570",
+    "file": "lgus/province-20570.topo.json",
+    "lgu_count": 6
+  },
+  "30080": {
+    "name": "province-30080",
+    "slug": "province-30080",
+    "file": "lgus/province-30080.topo.json",
+    "lgu_count": 12
+  },
+  "30140": {
+    "name": "province-30140",
+    "slug": "province-30140",
+    "file": "lgus/province-30140.topo.json",
+    "lgu_count": 24
+  },
+  "30490": {
+    "name": "province-30490",
+    "slug": "province-30490",
+    "file": "lgus/province-30490.topo.json",
+    "lgu_count": 32
+  },
+  "30540": {
+    "name": "province-30540",
+    "slug": "province-30540",
+    "file": "lgus/province-30540.topo.json",
+    "lgu_count": 21
+  },
+  "30690": {
+    "name": "province-30690",
+    "slug": "province-30690",
+    "file": "lgus/province-30690.topo.json",
+    "lgu_count": 18
+  },
+  "30710": {
+    "name": "province-30710",
+    "slug": "province-30710",
+    "file": "lgus/province-30710.topo.json",
+    "lgu_count": 13
+  },
+  "30770": {
+    "name": "province-30770",
+    "slug": "province-30770",
+    "file": "lgus/province-30770.topo.json",
+    "lgu_count": 8
+  },
+  "40100": {
+    "name": "province-40100",
+    "slug": "province-40100",
+    "file": "lgus/province-40100.topo.json",
+    "lgu_count": 34
+  },
+  "40210": {
+    "name": "province-40210",
+    "slug": "province-40210",
+    "file": "lgus/province-40210.topo.json",
+    "lgu_count": 23
+  },
+  "40340": {
+    "name": "province-40340",
+    "slug": "province-40340",
+    "file": "lgus/province-40340.topo.json",
+    "lgu_count": 30
+  },
+  "40560": {
+    "name": "province-40560",
+    "slug": "province-40560",
+    "file": "lgus/province-40560.topo.json",
+    "lgu_count": 40
+  },
+  "40580": {
+    "name": "province-40580",
+    "slug": "province-40580",
+    "file": "lgus/province-40580.topo.json",
+    "lgu_count": 14
+  },
+  "50050": {
+    "name": "province-50050",
+    "slug": "province-50050",
+    "file": "lgus/province-50050.topo.json",
+    "lgu_count": 18
+  },
+  "50160": {
+    "name": "province-50160",
+    "slug": "province-50160",
+    "file": "lgus/province-50160.topo.json",
+    "lgu_count": 12
+  },
+  "50170": {
+    "name": "province-50170",
+    "slug": "province-50170",
+    "file": "lgus/province-50170.topo.json",
+    "lgu_count": 37
+  },
+  "50200": {
+    "name": "province-50200",
+    "slug": "province-50200",
+    "file": "lgus/province-50200.topo.json",
+    "lgu_count": 11
+  },
+  "50410": {
+    "name": "province-50410",
+    "slug": "province-50410",
+    "file": "lgus/province-50410.topo.json",
+    "lgu_count": 21
+  },
+  "50620": {
+    "name": "province-50620",
+    "slug": "province-50620",
+    "file": "lgus/province-50620.topo.json",
+    "lgu_count": 15
+  },
+  "60040": {
+    "name": "province-60040",
+    "slug": "province-60040",
+    "file": "lgus/province-60040.topo.json",
+    "lgu_count": 17
+  },
+  "60060": {
+    "name": "province-60060",
+    "slug": "province-60060",
+    "file": "lgus/province-60060.topo.json",
+    "lgu_count": 18
+  },
+  "60190": {
+    "name": "province-60190",
+    "slug": "province-60190",
+    "file": "lgus/province-60190.topo.json",
+    "lgu_count": 17
+  },
+  "60300": {
+    "name": "province-60300",
+    "slug": "province-60300",
+    "file": "lgus/province-60300.topo.json",
+    "lgu_count": 43
+  },
+  "60450": {
+    "name": "province-60450",
+    "slug": "province-60450",
+    "file": "lgus/province-60450.topo.json",
+    "lgu_count": 31
+  },
+  "60790": {
+    "name": "province-60790",
+    "slug": "province-60790",
+    "file": "lgus/province-60790.topo.json",
+    "lgu_count": 5
+  },
+  "70120": {
+    "name": "province-70120",
+    "slug": "province-70120",
+    "file": "lgus/province-70120.topo.json",
+    "lgu_count": 48
+  },
+  "70220": {
+    "name": "province-70220",
+    "slug": "province-70220",
+    "file": "lgus/province-70220.topo.json",
+    "lgu_count": 50
+  },
+  "70460": {
+    "name": "province-70460",
+    "slug": "province-70460",
+    "file": "lgus/province-70460.topo.json",
+    "lgu_count": 25
+  },
+  "70610": {
+    "name": "province-70610",
+    "slug": "province-70610",
+    "file": "lgus/province-70610.topo.json",
+    "lgu_count": 6
+  },
+  "80260": {
+    "name": "province-80260",
+    "slug": "province-80260",
+    "file": "lgus/province-80260.topo.json",
+    "lgu_count": 23
+  },
+  "80370": {
+    "name": "province-80370",
+    "slug": "province-80370",
+    "file": "lgus/province-80370.topo.json",
+    "lgu_count": 42
+  },
+  "80480": {
+    "name": "province-80480",
+    "slug": "province-80480",
+    "file": "lgus/province-80480.topo.json",
+    "lgu_count": 24
+  },
+  "80600": {
+    "name": "province-80600",
+    "slug": "province-80600",
+    "file": "lgus/province-80600.topo.json",
+    "lgu_count": 26
+  },
+  "80640": {
+    "name": "province-80640",
+    "slug": "province-80640",
+    "file": "lgus/province-80640.topo.json",
+    "lgu_count": 19
+  },
+  "80780": {
+    "name": "province-80780",
+    "slug": "province-80780",
+    "file": "lgus/province-80780.topo.json",
+    "lgu_count": 8
+  },
+  "90720": {
+    "name": "province-90720",
+    "slug": "province-90720",
+    "file": "lgus/province-90720.topo.json",
+    "lgu_count": 27
+  },
+  "90730": {
+    "name": "province-90730",
+    "slug": "province-90730",
+    "file": "lgus/province-90730.topo.json",
+    "lgu_count": 27
+  },
+  "90830": {
+    "name": "province-90830",
+    "slug": "province-90830",
+    "file": "lgus/province-90830.topo.json",
+    "lgu_count": 16
+  },
+  "99010": {
+    "name": "province-99010",
+    "slug": "province-99010",
+    "file": "lgus/province-99010.topo.json",
+    "lgu_count": 1
+  }
+}
