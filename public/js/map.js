@@ -1,6 +1,6 @@
 /**
- * OpenAudit Philippines - Interactive Zoomable Map
- * D3.js v7 with zoom, province/LGU toggle, year filtering
+ * OpenAudit Philippines - Interactive Map with Leaflet
+ * Fast, smooth pan/zoom with GeoJSON layers
  */
 
 // ============================================
@@ -10,44 +10,39 @@
 const state = {
   // Current view settings
   currentYear: 2021,
-  currentDataset: 'audit', // 'audit' or 'disallowances'
-  currentView: 'provinces', // 'provinces' or 'lgus'
+  currentDataset: 'audit',
+  currentView: 'provinces',
 
-  // Zoom state
-  currentZoom: null,
-  zoomedProvince: null,
-
-  // Data caches
-  provinceScores: {},    // year -> {provinceCode: scoreData}
-  lguScores: {},         // year -> {psgc: scoreData}
-  lguGeoCache: {},       // provinceSlug -> TopoJSON
-  provinceMapping: null, // provinceCode -> {name, slug, file}
-
-  // D3 selections
-  svg: null,
-  mapGroup: null,
-  outlineLayer: null,
+  // Leaflet objects
+  map: null,
   provinceLayer: null,
   lguLayer: null,
-  zoom: null,
-  projection: null,
-  path: null
+
+  // Data caches
+  provinceScores: {},
+  lguScores: {},
+  provinceGeoJson: null,
+  lguGeoJson: null,
+
+  // Info control
+  info: null
 };
+
+// Philippines bounds
+const PH_BOUNDS = [[4.5, 116.5], [21.5, 127]];
+const PH_CENTER = [12.5, 122];
 
 // ============================================
 // UTILITY FUNCTIONS
 // ============================================
 
-function getRiskColor(score, riskLevel) {
-  const level = riskLevel || getRiskLevel(score);
-  switch(level) {
-    case 'critical': return '#7f0000';
-    case 'high': return '#c62828';
-    case 'moderate': return '#ef6c00';
-    case 'low': return '#fdd835';
-    case 'minimal': return '#66bb6a';
-    default: return '#e0e0e0';
-  }
+function getRiskColor(score) {
+  if (score === null || score === undefined) return '#e0e0e0';
+  if (score >= 80) return '#7f0000';
+  if (score >= 60) return '#c62828';
+  if (score >= 40) return '#ef6c00';
+  if (score >= 20) return '#fdd835';
+  return '#66bb6a';
 }
 
 function getRiskLevel(score) {
@@ -59,8 +54,7 @@ function getRiskLevel(score) {
   return 'minimal';
 }
 
-function getRiskLabel(score, riskLevel) {
-  const level = riskLevel || getRiskLevel(score);
+function getRiskLabel(riskLevel) {
   const labels = {
     'critical': 'Critical',
     'high': 'High Risk',
@@ -69,7 +63,13 @@ function getRiskLabel(score, riskLevel) {
     'minimal': 'Minimal',
     'no_data': 'No Data'
   };
-  return labels[level] || 'Unknown';
+  return labels[riskLevel] || 'Unknown';
+}
+
+function getPsgc(feature) {
+  const props = feature.properties;
+  const psgc = props.psgc || props.PSGC || props.adm2_psgc || '';
+  return String(psgc).padStart(10, '0');
 }
 
 // ============================================
@@ -85,10 +85,16 @@ async function loadProvinceScores(year) {
     ? `data/province-scores-${year}.json`
     : 'data/disallowances.json';
 
-  const data = await d3.json(url);
-  const scores = state.currentDataset === 'audit' ? data.provinces : (data.provinces || {});
-  state.provinceScores[year] = scores;
-  return scores;
+  try {
+    const response = await fetch(url);
+    const data = await response.json();
+    const scores = state.currentDataset === 'audit' ? data.provinces : (data.provinces || {});
+    state.provinceScores[year] = scores;
+    return scores;
+  } catch (err) {
+    console.error('Failed to load province scores:', err);
+    return {};
+  }
 }
 
 async function loadLguScores(year) {
@@ -100,286 +106,251 @@ async function loadLguScores(year) {
     ? `data/scores-${year}.json`
     : 'data/disallowances.json';
 
-  const data = await d3.json(url);
-  const scores = state.currentDataset === 'audit' ? data.lgus : (data.lgus || {});
-  state.lguScores[year] = scores;
-  return scores;
+  try {
+    const response = await fetch(url);
+    const data = await response.json();
+    const scores = state.currentDataset === 'audit' ? data.lgus : (data.lgus || {});
+    state.lguScores[year] = scores;
+    return scores;
+  } catch (err) {
+    console.error('Failed to load LGU scores:', err);
+    return {};
+  }
 }
 
-async function loadProvinceLgus(provinceCode) {
-  const mapping = state.provinceMapping[provinceCode];
-  if (!mapping) {
-    console.warn(`No mapping for province ${provinceCode}`);
-    return null;
-  }
-
-  const slug = mapping.slug;
-  if (state.lguGeoCache[slug]) {
-    return state.lguGeoCache[slug];
-  }
+async function loadGeoJson(type) {
+  const url = type === 'provinces' ? 'geo/provinces.geojson' : 'geo/lgus.geojson';
 
   try {
-    const topo = await d3.json(`geo/lgus/${slug}.topo.json`);
-    state.lguGeoCache[slug] = topo;
-    return topo;
+    const response = await fetch(url);
+    return await response.json();
   } catch (err) {
-    console.error(`Failed to load LGUs for ${mapping.name}:`, err);
+    console.error(`Failed to load ${type} GeoJSON:`, err);
     return null;
   }
 }
 
 // ============================================
-// TOOLTIP
+// STYLING
 // ============================================
 
-const tooltip = d3.select('body').append('div')
-  .attr('class', 'tooltip')
-  .style('opacity', 0);
+function getFeatureStyle(feature, scores) {
+  const psgc = getPsgc(feature);
+  const data = scores[psgc];
+  const score = data ? data.score : null;
 
-function showTooltip(event, data, type) {
-  const name = data.name || 'Unknown';
-  const score = data.score ?? null;
-  const riskLevel = data.riskLevel || getRiskLevel(score);
-  const riskLabel = getRiskLabel(score, riskLevel);
+  return {
+    fillColor: getRiskColor(score),
+    weight: 1,
+    opacity: 1,
+    color: '#ffffff',
+    fillOpacity: 0.8
+  };
+}
 
-  let details = '';
-  if (type === 'province') {
-    details = `
-      <div class="detail-row">
-        <span class="detail-label">LGUs:</span>
-        <span class="detail-value">${data.lguCount || '—'}</span>
+function highlightFeature(e) {
+  const layer = e.target;
+
+  layer.setStyle({
+    weight: 3,
+    color: '#000',
+    fillOpacity: 0.9
+  });
+
+  layer.bringToFront();
+  state.info.update(layer.feature.properties, layer.scoreData);
+}
+
+function resetHighlight(e, scores) {
+  const layer = e.target;
+  const psgc = getPsgc(layer.feature);
+  const data = scores[psgc];
+
+  layer.setStyle({
+    weight: 1,
+    color: '#ffffff',
+    fillOpacity: 0.8
+  });
+
+  state.info.update();
+}
+
+// ============================================
+// INFO CONTROL
+// ============================================
+
+function createInfoControl() {
+  const info = L.control({ position: 'topright' });
+
+  info.onAdd = function() {
+    this._div = L.DomUtil.create('div', 'info-panel');
+    this.update();
+    return this._div;
+  };
+
+  info.update = function(props, scoreData) {
+    if (!props) {
+      this._div.innerHTML = '<h4>Hover over a region</h4>';
+      return;
+    }
+
+    const name = props.name || props.NAME || props.adm2_en || 'Unknown';
+    const score = scoreData ? scoreData.score : null;
+    const riskLevel = scoreData ? scoreData.riskLevel : getRiskLevel(score);
+    const riskLabel = getRiskLabel(riskLevel);
+
+    this._div.innerHTML = `
+      <h4>${name}</h4>
+      <div class="info-score ${riskLevel}">
+        <span class="score-value">${score !== null ? Math.round(score) : '—'}</span>
+        <span class="score-label">/ 100</span>
+      </div>
+      <div class="info-risk ${riskLevel}">${riskLabel}</div>
+      ${scoreData ? `
+        <div class="info-details">
+          <div>Not Implemented: ${scoreData.notImplementedPct?.toFixed(1) || '—'}%</div>
+          <div>Observations: ${scoreData.observationCount?.toLocaleString() || '—'}</div>
+          ${scoreData.lguCount ? `<div>LGUs: ${scoreData.lguCount}</div>` : ''}
+        </div>
+      ` : ''}
+    `;
+  };
+
+  return info;
+}
+
+// ============================================
+// LEGEND CONTROL
+// ============================================
+
+function createLegendControl() {
+  const legend = L.control({ position: 'bottomright' });
+
+  legend.onAdd = function() {
+    const div = L.DomUtil.create('div', 'legend-panel');
+    const grades = [0, 20, 40, 60, 80];
+    const labels = ['Minimal', 'Low', 'Moderate', 'High', 'Critical'];
+
+    div.innerHTML = '<h4>Risk Level</h4>';
+
+    for (let i = 0; i < grades.length; i++) {
+      div.innerHTML += `
+        <div class="legend-item">
+          <span class="legend-color" style="background:${getRiskColor(grades[i])}"></span>
+          <span class="legend-label">${labels[i]}</span>
+        </div>
+      `;
+    }
+
+    div.innerHTML += `
+      <div class="legend-item">
+        <span class="legend-color" style="background:#e0e0e0"></span>
+        <span class="legend-label">No Data</span>
       </div>
     `;
-  }
 
-  details += `
-    <div class="detail-row">
-      <span class="detail-label">Not Implemented:</span>
-      <span class="detail-value">${data.notImplementedPct?.toFixed(1) || '—'}%</span>
-    </div>
-    <div class="detail-row">
-      <span class="detail-label">Observations:</span>
-      <span class="detail-value">${data.observationCount?.toLocaleString() || '—'}</span>
-    </div>
-  `;
+    return div;
+  };
 
-  tooltip
-    .style('opacity', 1)
-    .html(`
-      <div class="tooltip-header">
-        <span class="tooltip-title">${name}</span>
-        <span class="tooltip-type">${type === 'province' ? 'Province' : 'LGU'}</span>
-      </div>
-      <div class="tooltip-body">
-        <div class="tooltip-score-big">
-          <span class="score-value">${score !== null ? Math.round(score) : '—'}</span>
-          <span class="score-label">/ 100</span>
-        </div>
-        <div class="tooltip-risk ${riskLevel}">${riskLabel}</div>
-        <div class="tooltip-details">${details}</div>
-      </div>
-    `)
-    .style('left', (event.pageX + 15) + 'px')
-    .style('top', (event.pageY - 10) + 'px');
-}
-
-function hideTooltip() {
-  tooltip.style('opacity', 0);
-}
-
-function moveTooltip(event) {
-  tooltip
-    .style('left', (event.pageX + 15) + 'px')
-    .style('top', (event.pageY - 10) + 'px');
+  return legend;
 }
 
 // ============================================
-// ZOOM BEHAVIOR
-// ============================================
-
-function setupZoom() {
-  state.zoom = d3.zoom()
-    .scaleExtent([1, 8])
-    .on('zoom', (event) => {
-      state.currentZoom = event.transform;
-      state.mapGroup.attr('transform', event.transform);
-    });
-
-  // Apply zoom to SVG
-  state.svg.call(state.zoom);
-
-  // Disable scroll zoom on single touch (mobile)
-  state.svg.on('touchstart', (event) => {
-    if (event.touches.length === 1) {
-      event.preventDefault();
-      showMobileHint();
-    }
-  }, { passive: false });
-}
-
-function showMobileHint() {
-  const hint = document.getElementById('mobile-hint');
-  if (hint) {
-    hint.classList.add('visible');
-    setTimeout(() => hint.classList.remove('visible'), 2000);
-  }
-}
-
-function zoomIn() {
-  state.svg.transition().duration(300).call(
-    state.zoom.scaleBy, 1.5
-  );
-}
-
-function zoomOut() {
-  state.svg.transition().duration(300).call(
-    state.zoom.scaleBy, 0.67
-  );
-}
-
-function resetZoom() {
-  state.svg.transition().duration(500).call(
-    state.zoom.transform, d3.zoomIdentity
-  );
-  state.zoomedProvince = null;
-}
-
-function zoomToProvince(feature, provinceCode) {
-  const [[x0, y0], [x1, y1]] = state.path.bounds(feature);
-  const width = state.svg.node().clientWidth;
-  const height = state.svg.node().clientHeight;
-
-  const scale = Math.min(8, 0.9 / Math.max((x1 - x0) / width, (y1 - y0) / height));
-  const tx = width / 2 - scale * (x0 + x1) / 2;
-  const ty = height / 2 - scale * (y0 + y1) / 2;
-
-  state.svg.transition().duration(750).call(
-    state.zoom.transform,
-    d3.zoomIdentity.translate(tx, ty).scale(scale)
-  );
-
-  state.zoomedProvince = provinceCode;
-}
-
-// ============================================
-// RENDER PROVINCES
+// RENDER LAYERS
 // ============================================
 
 async function renderProvinces() {
-  const scores = await loadProvinceScores(state.currentYear);
-
-  state.provinceLayer.selectAll('path.province')
-    .data(state.provinceGeojson.features)
-    .join('path')
-    .attr('class', 'province')
-    .attr('d', state.path)
-    .attr('fill', d => {
-      const code = String(d.properties.psgc || d.properties.PSGC || '').padStart(10, '0');
-      const data = scores[code];
-      return data ? getRiskColor(data.score, data.riskLevel) : '#e0e0e0';
-    })
-    .attr('stroke', '#ffffff')
-    .attr('stroke-width', 0.5)
-    .on('pointerenter', function(event, d) {
-      d3.select(this).attr('stroke', '#000').attr('stroke-width', 2).raise();
-      const code = String(d.properties.psgc || d.properties.PSGC || '').padStart(10, '0');
-      const data = scores[code] || { name: d.properties.name || d.properties.NAME || 'Unknown' };
-      showTooltip(event, data, 'province');
-    })
-    .on('pointermove', moveTooltip)
-    .on('pointerleave', function() {
-      d3.select(this).attr('stroke', '#fff').attr('stroke-width', 0.5);
-      hideTooltip();
-    })
-    .on('dblclick', async function(event, d) {
-      event.stopPropagation();
-      const code = String(d.properties.psgc || d.properties.PSGC || '').padStart(10, '0');
-
-      if (state.zoomedProvince === code) {
-        // Zoom out
-        resetZoom();
-      } else {
-        // Zoom in and load LGUs
-        zoomToProvince(d, code);
-        await loadAndRenderProvinceLgus(code);
-      }
-    });
-
-  // Show province layer, hide LGU layer
-  state.provinceLayer.style('display', null);
-  state.lguLayer.style('display', 'none');
-}
-
-// ============================================
-// RENDER LGUS
-// ============================================
-
-async function loadAndRenderProvinceLgus(provinceCode) {
-  const topo = await loadProvinceLgus(provinceCode);
-  if (!topo) return;
-
-  const scores = await loadLguScores(state.currentYear);
-  const objectName = Object.keys(topo.objects)[0];
-  const geojson = topojson.feature(topo, topo.objects[objectName]);
-
-  state.lguLayer.selectAll('path.lgu')
-    .data(geojson.features, d => d.properties.psgc || d.properties.PSGC)
-    .join('path')
-    .attr('class', 'lgu')
-    .attr('d', state.path)
-    .attr('fill', d => {
-      const psgc = String(d.properties.psgc || d.properties.PSGC || '').padStart(10, '0');
-      const data = scores[psgc];
-      return data ? getRiskColor(data.score, data.riskLevel) : '#e0e0e0';
-    })
-    .attr('stroke', '#ffffff')
-    .attr('stroke-width', 0.2)
-    .on('pointerenter', function(event, d) {
-      d3.select(this).attr('stroke', '#000').attr('stroke-width', 1.5).raise();
-      const psgc = String(d.properties.psgc || d.properties.PSGC || '').padStart(10, '0');
-      const data = scores[psgc] || { name: d.properties.name || d.properties.NAME || 'Unknown' };
-      showTooltip(event, data, 'lgu');
-    })
-    .on('pointermove', moveTooltip)
-    .on('pointerleave', function() {
-      d3.select(this).attr('stroke', '#fff').attr('stroke-width', 0.2);
-      hideTooltip();
-    });
-
-  state.lguLayer.style('display', null);
-}
-
-async function renderAllLgus() {
-  // Load all provinces' LGUs
-  const scores = await loadLguScores(state.currentYear);
-
-  // Clear existing
-  state.lguLayer.selectAll('path.lgu').remove();
-
-  // Load each province
-  for (const [code, mapping] of Object.entries(state.provinceMapping)) {
-    await loadAndRenderProvinceLgus(code);
+  if (!state.provinceGeoJson) {
+    state.provinceGeoJson = await loadGeoJson('provinces');
   }
 
-  // Hide provinces, show LGUs
-  state.provinceLayer.style('display', 'none');
-  state.lguLayer.style('display', null);
+  if (!state.provinceGeoJson) {
+    console.error('Failed to load province GeoJSON');
+    return;
+  }
+
+  const scores = await loadProvinceScores(state.currentYear);
+
+  // Remove existing layer
+  if (state.provinceLayer) {
+    state.map.removeLayer(state.provinceLayer);
+  }
+
+  state.provinceLayer = L.geoJSON(state.provinceGeoJson, {
+    style: (feature) => getFeatureStyle(feature, scores),
+    onEachFeature: (feature, layer) => {
+      const psgc = getPsgc(feature);
+      layer.scoreData = scores[psgc] || null;
+
+      layer.on({
+        mouseover: highlightFeature,
+        mouseout: (e) => resetHighlight(e, scores),
+        click: (e) => {
+          // Zoom to feature on click
+          state.map.fitBounds(e.target.getBounds(), { padding: [50, 50] });
+        }
+      });
+    }
+  }).addTo(state.map);
+
+  // Hide LGU layer
+  if (state.lguLayer) {
+    state.map.removeLayer(state.lguLayer);
+  }
+}
+
+async function renderLgus() {
+  if (!state.lguGeoJson) {
+    state.lguGeoJson = await loadGeoJson('lgus');
+  }
+
+  if (!state.lguGeoJson) {
+    console.error('Failed to load LGU GeoJSON');
+    return;
+  }
+
+  const scores = await loadLguScores(state.currentYear);
+
+  // Remove existing layer
+  if (state.lguLayer) {
+    state.map.removeLayer(state.lguLayer);
+  }
+
+  state.lguLayer = L.geoJSON(state.lguGeoJson, {
+    style: (feature) => getFeatureStyle(feature, scores),
+    onEachFeature: (feature, layer) => {
+      const psgc = getPsgc(feature);
+      layer.scoreData = scores[psgc] || null;
+
+      layer.on({
+        mouseover: highlightFeature,
+        mouseout: (e) => resetHighlight(e, scores),
+        click: (e) => {
+          state.map.fitBounds(e.target.getBounds(), { padding: [50, 50] });
+        }
+      });
+    }
+  }).addTo(state.map);
+
+  // Hide province layer
+  if (state.provinceLayer) {
+    state.map.removeLayer(state.provinceLayer);
+  }
 }
 
 // ============================================
-// UPDATE MAP (on control changes)
+// UPDATE HANDLERS
 // ============================================
 
 async function updateMap() {
-  // Clear caches when dataset changes
+  // Clear score caches when dataset changes
   state.provinceScores = {};
   state.lguScores = {};
 
   if (state.currentView === 'provinces') {
-    state.lguLayer.selectAll('path.lgu').remove();
     await renderProvinces();
   } else {
-    await renderAllLgus();
+    await renderLgus();
   }
 }
 
@@ -390,104 +361,12 @@ async function updateYear(year) {
   if (state.currentView === 'provinces') {
     await renderProvinces();
   } else {
-    // Re-render LGUs with new year data
-    const scores = await loadLguScores(year);
-    state.lguLayer.selectAll('path.lgu')
-      .attr('fill', d => {
-        const psgc = String(d.properties.psgc || d.properties.PSGC || '').padStart(10, '0');
-        const data = scores[psgc];
-        return data ? getRiskColor(data.score, data.riskLevel) : '#e0e0e0';
-      });
+    await renderLgus();
   }
 }
 
 // ============================================
-// INITIALIZATION
-// ============================================
-
-async function initMap() {
-  const container = d3.select('#map');
-  container.html('');
-
-  const loading = container.append('div')
-    .attr('class', 'loading')
-    .text('Loading map...');
-
-  try {
-    // Load geo data and province mapping
-    const [outlineTopo, provinceTopo, provinceMapping] = await Promise.all([
-      d3.json('geo/ph-outline.topo.json'),
-      d3.json('geo/provinces-hires.topo.json'),
-      d3.json('geo/province-mapping.json')
-    ]);
-
-    state.provinceMapping = provinceMapping;
-
-    // Convert TopoJSON to GeoJSON
-    const outlineObjName = Object.keys(outlineTopo.objects)[0];
-    const outlineGeojson = topojson.feature(outlineTopo, outlineTopo.objects[outlineObjName]);
-
-    const provinceObjName = Object.keys(provinceTopo.objects)[0];
-    state.provinceGeojson = topojson.feature(provinceTopo, provinceTopo.objects[provinceObjName]);
-
-    loading.remove();
-
-    // SVG setup
-    const width = container.node().clientWidth || 800;
-    const height = Math.max(500, window.innerHeight * 0.8);
-
-    state.svg = container.append('svg')
-      .attr('width', '100%')
-      .attr('height', height)
-      .attr('viewBox', `0 0 ${width} ${height}`)
-      .attr('preserveAspectRatio', 'xMidYMid meet');
-
-    state.mapGroup = state.svg.append('g');
-
-    // Create layers
-    state.outlineLayer = state.mapGroup.append('g').attr('class', 'outline-layer');
-    state.provinceLayer = state.mapGroup.append('g').attr('class', 'province-layer');
-    state.lguLayer = state.mapGroup.append('g').attr('class', 'lgu-layer');
-
-    // Projection
-    state.projection = d3.geoMercator()
-      .fitSize([width * 0.85, height * 0.95], state.provinceGeojson);
-
-    state.path = d3.geoPath().projection(state.projection);
-
-    // Render outline background
-    state.outlineLayer.selectAll('path')
-      .data(outlineGeojson.features)
-      .join('path')
-      .attr('class', 'outline')
-      .attr('d', state.path);
-
-    // Setup zoom
-    setupZoom();
-
-    // Initial render
-    await renderProvinces();
-
-    // Setup controls
-    setupControls();
-
-    console.log('Map initialized successfully');
-
-  } catch (error) {
-    loading.remove();
-    console.error('Map initialization error:', error);
-    container.append('div')
-      .attr('class', 'error-message')
-      .html(`
-        <h3>Failed to load map</h3>
-        <p>${error.message}</p>
-        <p>Make sure geo files are in place.</p>
-      `);
-  }
-}
-
-// ============================================
-// CONTROL HANDLERS
+// CONTROL SETUP
 // ============================================
 
 function setupControls() {
@@ -521,7 +400,7 @@ function setupControls() {
       state.currentView = 'provinces';
       viewProvinces.classList.add('active');
       viewLgus.classList.remove('active');
-      resetZoom();
+      state.map.fitBounds(PH_BOUNDS);
       await renderProvinces();
     });
 
@@ -530,26 +409,64 @@ function setupControls() {
       state.currentView = 'lgus';
       viewLgus.classList.add('active');
       viewProvinces.classList.remove('active');
-      await renderAllLgus();
+      await renderLgus();
     });
   }
+}
 
-  // Zoom buttons
-  const zoomInBtn = document.getElementById('zoom-in');
-  const zoomOutBtn = document.getElementById('zoom-out');
-  const zoomResetBtn = document.getElementById('zoom-reset');
+// ============================================
+// INITIALIZATION
+// ============================================
 
-  if (zoomInBtn) zoomInBtn.addEventListener('click', zoomIn);
-  if (zoomOutBtn) zoomOutBtn.addEventListener('click', zoomOut);
-  if (zoomResetBtn) zoomResetBtn.addEventListener('click', resetZoom);
+async function initMap() {
+  const container = document.getElementById('map');
 
-  // Double-click on SVG background to reset
-  state.svg.on('dblclick.zoom', null); // Disable default d3 double-click zoom
-  state.svg.on('dblclick', (event) => {
-    if (event.target.tagName === 'svg') {
-      resetZoom();
-    }
-  });
+  // Show loading
+  container.innerHTML = '<div class="loading">Loading map...</div>';
+
+  try {
+    // Create Leaflet map
+    state.map = L.map('map', {
+      center: PH_CENTER,
+      zoom: 6,
+      minZoom: 5,
+      maxZoom: 12,
+      maxBounds: [[0, 110], [25, 135]],
+      maxBoundsViscosity: 1.0
+    });
+
+    // Add tile layer (optional - can remove for cleaner look)
+    // L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
+    //   attribution: '&copy; OpenStreetMap, &copy; CARTO',
+    //   subdomains: 'abcd',
+    //   maxZoom: 12
+    // }).addTo(state.map);
+
+    // Add info control
+    state.info = createInfoControl();
+    state.info.addTo(state.map);
+
+    // Add legend
+    const legend = createLegendControl();
+    legend.addTo(state.map);
+
+    // Initial render
+    await renderProvinces();
+
+    // Setup controls
+    setupControls();
+
+    console.log('Map initialized successfully with Leaflet');
+
+  } catch (error) {
+    console.error('Map initialization error:', error);
+    container.innerHTML = `
+      <div class="error-message">
+        <h3>Failed to load map</h3>
+        <p>${error.message}</p>
+      </div>
+    `;
+  }
 }
 
 // ============================================
@@ -557,4 +474,4 @@ function setupControls() {
 // ============================================
 
 window.initMap = initMap;
-window.renderMap = initMap; // Backwards compatibility
+window.renderMap = initMap;
