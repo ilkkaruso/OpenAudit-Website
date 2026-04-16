@@ -9,7 +9,7 @@
 
 const state = {
   // Current view settings
-  currentYear: 2022,
+  currentYear: 2021,
   currentDataset: 'audit', // 'audit' or 'disallowances'
   currentView: 'provinces', // 'provinces' or 'lgus'
 
