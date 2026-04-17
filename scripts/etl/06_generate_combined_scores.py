@@ -69,6 +69,21 @@ def calculate_streaks(yearly_scores: dict) -> tuple:
     return max_streak, current_streak
 
 
+def get_risk_level(score):
+    """Determine risk level from score."""
+    if score is None:
+        return 'no_data'
+    if score >= 80:
+        return 'critical'
+    if score >= 60:
+        return 'high'
+    if score >= 40:
+        return 'moderate'
+    if score >= 20:
+        return 'low'
+    return 'minimal'
+
+
 def main():
     print("Loading per-year score files...")
 
@@ -117,11 +132,11 @@ def main():
             data.get('observationCount', 0) for data in yearly_data.values()
         )
 
-        # Calculate base rate (average score across all years)
+        # Calculate average score across all years
         if scores:
-            base_rate = sum(s[1] for s in scores) / len(scores) / 100
+            avg_score = sum(s[1] for s in scores) / len(scores)
         else:
-            base_rate = None
+            avg_score = None
 
         # Count implementation statuses (estimate from percentages)
         implemented = 0
@@ -138,13 +153,20 @@ def main():
             not_implemented += int(obs * not_impl_pct / 100)
             partially_implemented += int(obs * partial_pct / 100)
 
+        # Calculate average percentages across all years
+        impl_pcts = [data.get('implementedPct', 0) for data in yearly_data.values() if data.get('implementedPct') is not None]
+        not_impl_pcts = [data.get('notImplementedPct', 0) for data in yearly_data.values() if data.get('notImplementedPct') is not None]
+
+        avg_impl_pct = sum(impl_pcts) / len(impl_pcts) if impl_pcts else None
+        avg_not_impl_pct = sum(not_impl_pcts) / len(not_impl_pcts) if not_impl_pcts else None
+
         combined[psgc] = {
             'name': latest.get('name', 'Unknown'),
             'province': latest.get('province', ''),
-            'score': latest.get('score'),
-            'riskLevel': latest.get('riskLevel'),
-            'notImplementedPct': latest.get('notImplementedPct'),
-            'implementedPct': latest.get('implementedPct'),
+            'score': round(avg_score, 2) if avg_score else None,
+            'riskLevel': get_risk_level(avg_score),
+            'notImplementedPct': round(avg_not_impl_pct, 1) if avg_not_impl_pct else None,
+            'implementedPct': round(avg_impl_pct, 1) if avg_impl_pct else None,
             'observationCount': total_observations,
             'yearsWithData': len(yearly_data),
             'latestYear': latest_year,
@@ -152,7 +174,6 @@ def main():
             'trendChange': round(trend_change, 4) if trend_change else None,
             'maxStreak': max_streak,
             'currentStreak': current_streak,
-            'baseRate': round(base_rate, 4) if base_rate else None,
             'implemented': implemented,
             'not_implemented': not_implemented,
             'partially_implemented': partially_implemented
