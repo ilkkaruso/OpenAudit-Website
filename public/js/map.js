@@ -9,7 +9,7 @@
 
 const state = {
   // Current view settings
-  currentYear: 2021,
+  currentYear: 'all',
   currentDataset: 'audit',
   currentView: 'provinces',
 

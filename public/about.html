@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>About - OpenAudit Philippines</title>
-  <meta name="description" content="Methodology and data sources for OpenAudit Philippines corruption risk scoring system.">
+  <meta name="description" content="About OpenAudit Philippines - transforming public audit reports into accessible governance data.">
   <link rel="stylesheet" href="css/about.css">
 </head>
 <body>
@@ -17,41 +17,42 @@
       <a href="#" class="nav-link logout-link" onclick="logout()">Logout</a>
     </nav>
     <h1>OpenAudit Philippines</h1>
-    <p>Methodology & Data Documentation</p>
+    <p>Making Governance Data Accessible</p>
   </header>
 
   <main>
     <section class="section" id="overview">
-      <h2>Overview</h2>
+      <h2>About This Project</h2>
       <p>
-        OpenAudit Philippines is a transparency initiative that visualizes audit compliance
-        data for Local Government Units (LGUs) across the Philippines. The project analyzes
-        Commission on Audit (COA) Annual Audit Reports to track whether LGUs implement
-        recommendations made by government auditors.
+        OpenAudit Philippines is part of a broader initiative that uses natural language processing
+        and machine learning to transform public audit reports into structured, research-ready datasets.
+        The project aims to make governance data more accessible to academics, researchers, journalists,
+        and accountability advocates.
       </p>
       <p>
-        The goal is to provide citizens, researchers, journalists, and policymakers with
-        accessible information about government accountability at the local level.
+        Publicly-available audit reports from government institutions represent an underutilized resource.
+        These documents contain detailed financial and operational data about government decisions,
+        yet remain largely inaccessible to researchers and the public due to their format and volume.
+      </p>
+      <p>
+        This visualization focuses on Commission on Audit (COA) reports from the Philippines spanning
+        2016-2022, extracting insights about transparency, accountability, and compliance with audit
+        recommendations—metrics not captured by standard governance indicators like the Corruption
+        Perception Index or World Governance Indicators.
       </p>
 
       <div class="stats-grid">
         <div class="stat-card">
-          <div class="stat-number">388,197</div>
-          <div class="stat-label">Total Audit Observations</div>
+          <div class="stat-number">1,618</div>
+          <div class="stat-label">Municipalities Mapped</div>
         </div>
         <div class="stat-card">
-          <div class="stat-number">1,351</div>
-          <div class="stat-label">LGUs with Data</div>
-          <div class="stat-subtext">of 1,642 total (82.3%)</div>
+          <div class="stat-number">7</div>
+          <div class="stat-label">Years of Data (2016-2022)</div>
         </div>
         <div class="stat-card">
-          <div class="stat-number">9</div>
-          <div class="stat-label">Years Covered (2016-2024)</div>
-        </div>
-        <div class="stat-card">
-          <div class="stat-number">202,914</div>
-          <div class="stat-label">Observations with Known Status</div>
-          <div class="stat-subtext">52.3% of total</div>
+          <div class="stat-number">86</div>
+          <div class="stat-label">Provinces</div>
         </div>
       </div>
     </section>
@@ -63,327 +64,113 @@
         The Commission on Audit is the supreme audit institution of the Philippines,
         mandated by the 1987 Constitution to examine and audit all government agencies,
         including local government units. Each year, COA releases Annual Audit Reports (AARs)
-        for every LGU containing:
+        for every municipality containing:
       </p>
       <ul>
         <li><strong>Audit observations</strong> - Issues identified during the audit</li>
-        <li><strong>Recommendations</strong> - Specific actions the LGU should take to address issues</li>
-        <li><strong>Management actions</strong> - The LGU's response or actions taken</li>
+        <li><strong>Recommendations</strong> - Specific actions the municipality should take</li>
+        <li><strong>Management actions</strong> - The municipality's response or actions taken</li>
         <li><strong>Status of prior year's recommendations</strong> - Whether previous recommendations were implemented</li>
       </ul>
 
-      <h3>Data Extraction Process</h3>
+      <h3>Data Extraction</h3>
       <p>
         Audit observations were extracted from COA AARs using a combination of PDF parsing
-        and natural language processing. The status of each recommendation was classified
-        into one of the following categories:
+        and natural language processing. The implementation status of each recommendation
+        was classified as:
       </p>
 
       <table class="data-table">
         <thead>
           <tr>
             <th>Status</th>
-            <th>Count</th>
             <th>Description</th>
           </tr>
         </thead>
         <tbody>
           <tr>
             <td><span class="status-badge implemented">IMPLEMENTED</span></td>
-            <td>79,798</td>
-            <td>Recommendation was fully addressed by the LGU</td>
+            <td>Recommendation was fully addressed by the municipality</td>
           </tr>
           <tr>
             <td><span class="status-badge partial">PARTIALLY IMPLEMENTED</span></td>
-            <td>60,135</td>
             <td>Some action taken but recommendation not fully addressed</td>
           </tr>
           <tr>
             <td><span class="status-badge not-implemented">NOT IMPLEMENTED</span></td>
-            <td>61,509</td>
             <td>No meaningful action taken on the recommendation</td>
           </tr>
           <tr>
-            <td><span class="status-badge ongoing">ONGOING</span></td>
-            <td>1,472</td>
-            <td>Implementation in progress (treated as partial)</td>
-          </tr>
-          <tr>
             <td><span class="status-badge unknown">UNKNOWN</span></td>
-            <td>185,283</td>
             <td>Status could not be determined from available data</td>
           </tr>
         </tbody>
       </table>
 
       <p class="note">
-        <strong>Note:</strong> Observations with UNKNOWN status are excluded from scoring
+        <strong>Note:</strong> Observations with UNKNOWN status are excluded from compliance
         calculations. Only observations with a determinable implementation status contribute
-        to an LGU's risk score.
+        to a municipality's compliance score.
       </p>
     </section>
 
     <section class="section" id="scoring">
-      <h2>Scoring Methodology</h2>
+      <h2>Compliance Scoring</h2>
       <p>
-        Each LGU receives a <strong>Risk Score</strong> from 0 to 100, where higher scores
-        indicate greater non-compliance risk. The score combines three factors:
-      </p>
-
-      <div class="formula-box">
-        <div class="formula">
-          Risk Score = (Base Rate × 0.40) + (Streak Penalty × 0.30) + (Trend Score × 0.30)
-        </div>
-      </div>
-
-      <h3>Factor 1: Base Rate (40% weight)</h3>
-      <p>
-        The base rate measures the overall proportion of recommendations that were not
-        implemented, using weighted values:
+        Each municipality receives a <strong>Compliance Score</strong> based on the percentage
+        of audit recommendations that were implemented. The score reflects the rate of
+        non-implementation, where:
       </p>
       <ul>
-        <li><strong>NOT_IMPLEMENTED</strong> = 1.0 (full weight)</li>
-        <li><strong>PARTIALLY_IMPLEMENTED</strong> = 0.5 (half weight)</li>
-        <li><strong>IMPLEMENTED</strong> = 0.0 (no weight)</li>
+        <li><strong>Lower scores (0-20)</strong> = Very High Compliance - most recommendations implemented</li>
+        <li><strong>Higher scores (80-100)</strong> = Very Low Compliance - most recommendations not implemented</li>
       </ul>
+
       <div class="formula-box">
         <div class="formula">
-          Base Rate = (NOT_IMPLEMENTED + 0.5 × PARTIALLY_IMPLEMENTED) / Total Known
+          Score = (Not Implemented + 0.5 × Partially Implemented) / Total Known × 100
         </div>
       </div>
-      <p>
-        This rate (0.0 to 1.0) is converted to a 0-100 scale for the composite calculation.
-      </p>
 
-      <h3>Factor 2: Streak Penalty (30% weight)</h3>
       <p>
-        This factor penalizes LGUs that have shown sustained non-compliance over consecutive
-        years. A "bad year" is defined as having a weighted non-compliance rate greater than 40%.
+        Partially implemented recommendations are weighted at 50% to reflect partial progress
+        toward compliance.
       </p>
-      <table class="data-table">
-        <thead>
-          <tr>
-            <th>Consecutive Bad Years</th>
-            <th>Penalty Score</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr><td>0</td><td>0</td></tr>
-          <tr><td>1</td><td>10</td></tr>
-          <tr><td>2</td><td>25</td></tr>
-          <tr><td>3</td><td>45</td></tr>
-          <tr><td>4</td><td>70</td></tr>
-          <tr><td>5+</td><td>70 + (years - 4) × 10</td></tr>
-        </tbody>
-      </table>
-      <p>
-        The exponential penalty structure reflects the increased concern when an LGU
-        demonstrates a persistent pattern of non-compliance rather than isolated incidents.
-      </p>
-
-      <h3>Factor 3: Trend (30% weight)</h3>
-      <p>
-        The trend factor captures whether an LGU's compliance is improving or deteriorating
-        over time. It compares the average non-compliance rate in recent years (2022-2024)
-        versus earlier years (2016-2019).
-      </p>
-      <div class="formula-box">
-        <div class="formula">
-          Trend Change = Recent Rate (2022-2024) − Early Rate (2016-2019)
-        </div>
-      </div>
-      <ul>
-        <li><strong>Improving</strong>: Change &lt; -5 percentage points</li>
-        <li><strong>Stable</strong>: Change between -5 and +5 percentage points</li>
-        <li><strong>Worsening</strong>: Change &gt; +5 percentage points</li>
-      </ul>
-      <p>
-        The trend change is scaled to a score from -50 (major improvement) to +50 (major
-        deterioration), then centered at 25 for the composite calculation.
-      </p>
-
-      <div class="trend-distribution">
-        <h4>Trend Distribution Across LGUs</h4>
-        <div class="trend-bars">
-          <div class="trend-item">
-            <span class="trend-label improving">Improving</span>
-            <span class="trend-count">424 LGUs</span>
-          </div>
-          <div class="trend-item">
-            <span class="trend-label stable">Stable</span>
-            <span class="trend-count">167 LGUs</span>
-          </div>
-          <div class="trend-item">
-            <span class="trend-label worsening">Worsening</span>
-            <span class="trend-count">426 LGUs</span>
-          </div>
-          <div class="trend-item">
-            <span class="trend-label insufficient">Insufficient Data</span>
-            <span class="trend-count">334 LGUs</span>
-          </div>
-        </div>
-      </div>
     </section>
 
-    <section class="section" id="risk-levels">
-      <h2>Risk Level Classification</h2>
+    <section class="section" id="compliance-levels">
+      <h2>Compliance Level Classification</h2>
       <p>
-        Based on the composite risk score (0-100), LGUs are classified into five risk levels:
+        Based on the compliance score (0-100), municipalities are classified into five levels:
       </p>
 
       <div class="risk-scale">
-        <div class="risk-level critical">
-          <div class="risk-range">80-100</div>
-          <div class="risk-name">Critical</div>
-          <div class="risk-desc">Endemic non-compliance; systemic failures in implementing audit recommendations</div>
-          <div class="risk-count">3 LGUs</div>
-        </div>
-        <div class="risk-level high">
-          <div class="risk-range">60-80</div>
-          <div class="risk-name">High</div>
-          <div class="risk-desc">Significant and persistent compliance problems requiring immediate attention</div>
-          <div class="risk-count">125 LGUs</div>
-        </div>
-        <div class="risk-level moderate">
-          <div class="risk-range">40-60</div>
-          <div class="risk-name">Moderate</div>
-          <div class="risk-desc">Notable compliance gaps; improvement needed but not at crisis level</div>
-          <div class="risk-count">439 LGUs</div>
+        <div class="risk-level minimal">
+          <div class="risk-range">0-20</div>
+          <div class="risk-name">Very High Compliance</div>
+          <div class="risk-desc">Strong compliance record; consistently implements audit recommendations</div>
         </div>
         <div class="risk-level low">
           <div class="risk-range">20-40</div>
-          <div class="risk-name">Low</div>
-          <div class="risk-desc">Minor compliance issues; generally responsive to audit recommendations</div>
-          <div class="risk-count">535 LGUs</div>
+          <div class="risk-name">High Compliance</div>
+          <div class="risk-desc">Generally responsive to audit recommendations with minor gaps</div>
         </div>
-        <div class="risk-level minimal">
-          <div class="risk-range">0-20</div>
-          <div class="risk-name">Minimal</div>
-          <div class="risk-desc">Strong compliance record; consistently implements audit recommendations</div>
-          <div class="risk-count">249 LGUs</div>
+        <div class="risk-level moderate">
+          <div class="risk-range">40-60</div>
+          <div class="risk-name">Moderate Compliance</div>
+          <div class="risk-desc">Notable compliance gaps; improvement needed</div>
+        </div>
+        <div class="risk-level high">
+          <div class="risk-range">60-80</div>
+          <div class="risk-name">Low Compliance</div>
+          <div class="risk-desc">Significant compliance problems requiring attention</div>
+        </div>
+        <div class="risk-level critical">
+          <div class="risk-range">80-100</div>
+          <div class="risk-name">Very Low Compliance</div>
+          <div class="risk-desc">Systemic failures in implementing audit recommendations</div>
         </div>
       </div>
-    </section>
-
-    <section class="section" id="lgu-coverage">
-      <h2>LGU Coverage & Data Gaps</h2>
-      <p>
-        As of 2024, the Philippines has <strong>1,493 municipalities</strong> and
-        <strong>149 cities</strong>, for a total of <strong>1,642 city/municipal LGUs</strong>.
-        This dataset contains audit data for <strong>1,351 LGUs</strong> (82.3% coverage).
-      </p>
-
-      <div class="coverage-breakdown">
-        <h3>Why Are Some LGUs Missing?</h3>
-        <p>The 291 LGUs without data in this dataset are missing due to several factors:</p>
-
-        <div class="coverage-grid">
-          <div class="coverage-card">
-            <div class="coverage-icon">📄</div>
-            <h4>PDF Extraction Failures</h4>
-            <p>
-              Some COA Annual Audit Reports use scanned images, non-standard formatting,
-              or corrupted PDF structures that prevent automated text extraction. These
-              reports exist but could not be processed programmatically.
-            </p>
-          </div>
-
-          <div class="coverage-card">
-            <div class="coverage-icon">🔗</div>
-            <h4>PSGC Matching Issues</h4>
-            <p>
-              LGU names in audit reports sometimes differ from official PSGC registry names
-              (e.g., "Sta. Rosa" vs "Santa Rosa", local names vs official names). Some LGUs
-              could not be matched to their geographic codes.
-            </p>
-          </div>
-
-          <div class="coverage-card">
-            <div class="coverage-icon">📁</div>
-            <h4>Missing Source Documents</h4>
-            <p>
-              Not all COA Annual Audit Reports are available in the online COA portal.
-              Some years or LGUs may have reports that were not digitized or uploaded.
-            </p>
-          </div>
-
-          <div class="coverage-card">
-            <div class="coverage-icon">🆕</div>
-            <h4>Newly Created LGUs</h4>
-            <p>
-              Some municipalities or cities were created after 2016 through conversion
-              or separation from existing LGUs, resulting in incomplete historical data.
-            </p>
-          </div>
-        </div>
-
-        <h3>Coverage Statistics</h3>
-        <table class="data-table">
-          <thead>
-            <tr>
-              <th>Category</th>
-              <th>Count</th>
-              <th>Notes</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>Total Philippine Cities & Municipalities</td>
-              <td>1,642</td>
-              <td>As of April 2024 (DILG)</td>
-            </tr>
-            <tr>
-              <td>LGUs in Geographic Boundaries (Map)</td>
-              <td>1,618</td>
-              <td>TopoJSON from PSA shapefiles</td>
-            </tr>
-            <tr>
-              <td>LGUs with Audit Data (Scored)</td>
-              <td>1,351</td>
-              <td>82.3% of total</td>
-            </tr>
-            <tr>
-              <td>LGUs Missing from Dataset</td>
-              <td>291</td>
-              <td>17.7% - shown as gray on map</td>
-            </tr>
-          </tbody>
-        </table>
-
-        <p class="note">
-          <strong>Note:</strong> LGUs without audit data appear in gray on the map. This does
-          not indicate good or bad compliance—it simply means we could not extract data for
-          these LGUs. We are actively working to expand coverage.
-        </p>
-      </div>
-    </section>
-
-    <section class="section" id="data-coverage">
-      <h2>Data Coverage by Year</h2>
-      <p>
-        The dataset spans nine years of COA Annual Audit Reports. Note that 2022 has
-        significantly fewer observations due to data availability constraints.
-      </p>
-      <table class="data-table">
-        <thead>
-          <tr>
-            <th>Year</th>
-            <th>Observations</th>
-            <th>Notes</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr><td>2016</td><td>45,605</td><td>Baseline year</td></tr>
-          <tr><td>2017</td><td>48,152</td><td></td></tr>
-          <tr><td>2018</td><td>51,322</td><td></td></tr>
-          <tr><td>2019</td><td>50,062</td><td></td></tr>
-          <tr><td>2020</td><td>45,489</td><td>COVID-19 pandemic year</td></tr>
-          <tr><td>2021</td><td>53,548</td><td></td></tr>
-          <tr><td>2022</td><td>9,674</td><td>Limited data availability</td></tr>
-          <tr><td>2023</td><td>42,234</td><td></td></tr>
-          <tr><td>2024</td><td>42,111</td><td>Most recent data</td></tr>
-        </tbody>
-      </table>
     </section>
 
     <section class="section" id="limitations">
@@ -394,185 +181,46 @@
           may introduce errors. Some status classifications may be incorrect.
         </li>
         <li>
-          <strong>Unknown status observations:</strong> 47.7% of observations have unknown
-          status. These are excluded from calculations but their exclusion may bias results
-          if the unknown status is systematically related to non-compliance.
+          <strong>Unknown status observations:</strong> Observations with unknown status are
+          excluded from calculations. Their exclusion may affect results if the unknown status
+          is systematically related to non-compliance.
         </li>
         <li>
-          <strong>Not a measure of corruption:</strong> Non-implementation of audit
+          <strong>Not a direct measure of corruption:</strong> Non-implementation of audit
           recommendations does not necessarily indicate corruption. It may reflect capacity
           constraints, resource limitations, or disagreement with recommendations.
         </li>
         <li>
-          <strong>Geographic coverage:</strong> While 1,351 LGUs have data, some LGUs may
-          be missing or have incomplete coverage across all years.
+          <strong>Coverage gaps:</strong> Some municipalities may be missing or have incomplete
+          data across all years due to PDF extraction failures or PSGC matching issues.
         </li>
         <li>
-          <strong>Year 2022 gap:</strong> The 2022 data has significantly fewer observations,
-          which may affect trend calculations for some LGUs.
-        </li>
-        <li>
-          <strong>Recommendation severity:</strong> All recommendations are weighted equally.
-          A minor procedural recommendation and a major financial control recommendation
-          contribute the same to the score.
+          <strong>Equal weighting:</strong> All recommendations are weighted equally. A minor
+          procedural recommendation and a major financial control recommendation contribute
+          the same to the score.
         </li>
       </ul>
     </section>
 
-    <section class="section" id="data-dictionary">
-      <h2>Data Dictionary</h2>
-      <h3>Observation Record</h3>
-      <table class="data-table dictionary">
-        <thead>
-          <tr>
-            <th>Field</th>
-            <th>Type</th>
-            <th>Description</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><code>id</code></td>
-            <td>String</td>
-            <td>Unique identifier (format: LGU_Province-Year-OBSn)</td>
-          </tr>
-          <tr>
-            <td><code>psgc</code></td>
-            <td>String</td>
-            <td>Philippine Standard Geographic Code (10 digits)</td>
-          </tr>
-          <tr>
-            <td><code>year</code></td>
-            <td>Integer</td>
-            <td>Audit report year (2016-2024)</td>
-          </tr>
-          <tr>
-            <td><code>recommendation</code></td>
-            <td>String</td>
-            <td>Text of the COA recommendation</td>
-          </tr>
-          <tr>
-            <td><code>management_action</code></td>
-            <td>String</td>
-            <td>LGU's response or action taken</td>
-          </tr>
-          <tr>
-            <td><code>status</code></td>
-            <td>Enum</td>
-            <td>IMPLEMENTED, PARTIALLY_IMPLEMENTED, NOT_IMPLEMENTED, ONGOING, UNKNOWN</td>
-          </tr>
-          <tr>
-            <td><code>reason</code></td>
-            <td>String</td>
-            <td>Additional context for status classification</td>
-          </tr>
-        </tbody>
-      </table>
-
-      <h3>LGU Score Record</h3>
-      <table class="data-table dictionary">
-        <thead>
-          <tr>
-            <th>Field</th>
-            <th>Type</th>
-            <th>Description</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><code>name</code></td>
-            <td>String</td>
-            <td>LGU name</td>
-          </tr>
-          <tr>
-            <td><code>score</code></td>
-            <td>Float</td>
-            <td>Composite risk score (0-100)</td>
-          </tr>
-          <tr>
-            <td><code>riskLevel</code></td>
-            <td>String</td>
-            <td>Risk classification (critical, high, moderate, low, minimal)</td>
-          </tr>
-          <tr>
-            <td><code>baseRate</code></td>
-            <td>Float</td>
-            <td>Weighted non-compliance rate (0-1)</td>
-          </tr>
-          <tr>
-            <td><code>notImplementedPct</code></td>
-            <td>Float</td>
-            <td>Percentage of NOT_IMPLEMENTED observations</td>
-          </tr>
-          <tr>
-            <td><code>maxStreak</code></td>
-            <td>Integer</td>
-            <td>Longest consecutive "bad years"</td>
-          </tr>
-          <tr>
-            <td><code>currentStreak</code></td>
-            <td>Integer</td>
-            <td>Ongoing streak if most recent year is bad</td>
-          </tr>
-          <tr>
-            <td><code>trend</code></td>
-            <td>String</td>
-            <td>improving, worsening, stable, or insufficient_data</td>
-          </tr>
-          <tr>
-            <td><code>trendChange</code></td>
-            <td>Float</td>
-            <td>Percentage point change (recent - early)</td>
-          </tr>
-          <tr>
-            <td><code>observationCount</code></td>
-            <td>Integer</td>
-            <td>Total observations for this LGU</td>
-          </tr>
-        </tbody>
-      </table>
-    </section>
-
-    <section class="section" id="psgc">
-      <h2>Geographic Coding (PSGC)</h2>
+    <section class="section" id="open-source">
+      <h2>Open Source</h2>
       <p>
-        The Philippine Standard Geographic Code (PSGC) is the official coding system used
-        by the Philippine Statistics Authority for geographic identification. Each LGU has
-        a unique 10-digit code:
-      </p>
-      <div class="psgc-breakdown">
-        <div class="psgc-example">
-          <code>03 02 14 000</code>
-          <div class="psgc-parts">
-            <span>Region</span>
-            <span>Province</span>
-            <span>City/Mun</span>
-            <span>Barangay</span>
-          </div>
-        </div>
-      </div>
-      <p>
-        This coding system enables joining audit data with official geographic boundaries
-        for map visualization.
-      </p>
-    </section>
-
-    <section class="section" id="contact">
-      <h2>Contact & Feedback</h2>
-      <p>
-        OpenAudit Philippines is an open-source transparency project. For questions,
-        corrections, or contributions:
+        OpenAudit is an open-source initiative. The project code, data extraction scripts,
+        and processed datasets are available for researchers and developers:
       </p>
       <ul>
-        <li>Report data errors or suggest improvements via GitHub Issues</li>
-        <li>Contribute to the codebase via pull requests</li>
-        <li>For academic collaboration or media inquiries, contact the project maintainers</li>
+        <li><a href="https://github.com/jerikdcruz/OpenAudit" target="_blank">OpenAudit - Main Project Repository</a></li>
+        <li><a href="https://github.com/ilkkaruso/OpenAudit-Website" target="_blank">OpenAudit Website - This Visualization</a></li>
       </ul>
+      <p>
+        For questions, corrections, or contributions, please open an issue on GitHub or
+        submit a pull request.
+      </p>
     </section>
   </main>
 
   <footer>
-    <p>Data Source: Commission on Audit (COA) Annual Audit Reports 2016-2024</p>
+    <p>Data Source: Commission on Audit (COA) Annual Audit Reports 2016-2022</p>
     <p>OpenAudit Philippines is an open-source transparency initiative.</p>
   </footer>
 
