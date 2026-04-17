@@ -54,16 +54,16 @@ function getRiskLevel(score) {
   return 'minimal';
 }
 
-function getRiskLabel(riskLevel) {
+function getComplianceLabel(level) {
   const labels = {
-    'critical': 'Critical',
-    'high': 'High Risk',
+    'critical': 'Very Low',
+    'high': 'Low',
     'moderate': 'Moderate',
-    'low': 'Low Risk',
-    'minimal': 'Minimal',
+    'low': 'High',
+    'minimal': 'Very High',
     'no_data': 'No Data'
   };
-  return labels[riskLevel] || 'Unknown';
+  return labels[level] || 'Unknown';
 }
 
 function getPsgc(feature) {
@@ -230,21 +230,21 @@ function createInfoControl() {
 
     const name = props.name || props.NAME || props.adm2_en || 'Unknown';
     const score = scoreData ? scoreData.score : null;
-    const riskLevel = scoreData ? scoreData.riskLevel : getRiskLevel(score);
-    const riskLabel = getRiskLabel(riskLevel);
+    const level = scoreData ? scoreData.riskLevel : getRiskLevel(score);
+    const complianceLabel = getComplianceLabel(level);
 
     this._div.innerHTML = `
       <h4>${name}</h4>
-      <div class="info-score ${riskLevel}">
+      <div class="info-score ${level}">
         <span class="score-value">${score !== null ? Math.round(score) : '—'}</span>
         <span class="score-label">/ 100</span>
       </div>
-      <div class="info-risk ${riskLevel}">${riskLabel}</div>
+      <div class="info-risk ${level}">${complianceLabel} Compliance</div>
       ${scoreData ? `
         <div class="info-details">
           <div>Not Implemented: ${scoreData.notImplementedPct?.toFixed(1) || '—'}%</div>
           <div>Observations: ${scoreData.observationCount?.toLocaleString() || '—'}</div>
-          ${scoreData.lguCount ? `<div>LGUs: ${scoreData.lguCount}</div>` : ''}
+          ${scoreData.lguCount ? `<div>Municipalities: ${scoreData.lguCount}</div>` : ''}
         </div>
       ` : ''}
     `;
@@ -263,9 +263,9 @@ function createLegendControl() {
   legend.onAdd = function() {
     const div = L.DomUtil.create('div', 'legend-panel');
     const grades = [0, 20, 40, 60, 80];
-    const labels = ['Minimal', 'Low', 'Moderate', 'High', 'Critical'];
+    const labels = ['Very High', 'High', 'Moderate', 'Low', 'Very Low'];
 
-    div.innerHTML = '<h4>Risk Level</h4>';
+    div.innerHTML = '<h4>Compliance Level</h4>';
 
     for (let i = 0; i < grades.length; i++) {
       div.innerHTML += `
