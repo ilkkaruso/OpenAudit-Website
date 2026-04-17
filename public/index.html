@@ -34,12 +34,17 @@
       </div>
 
       <div class="control-group">
-        <label for="year-slider">Year: <span id="year-display">2021</span></label>
-        <input type="range" id="year-slider" min="2016" max="2022" value="2021" step="1">
-        <div class="year-labels">
-          <span>2016</span>
-          <span>2022</span>
-        </div>
+        <label for="year-select">Year</label>
+        <select id="year-select">
+          <option value="all">All Years</option>
+          <option value="2022">2022</option>
+          <option value="2021" selected>2021</option>
+          <option value="2020">2020</option>
+          <option value="2019">2019</option>
+          <option value="2018">2018</option>
+          <option value="2017">2017</option>
+          <option value="2016">2016</option>
+        </select>
       </div>
 
       <div class="control-group">

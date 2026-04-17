@@ -246,25 +246,6 @@ main {
   border-color: #1a365d;
 }
 
-/* Year slider */
-#year-slider {
-  width: 100%;
-  margin: 0.25rem 0;
-  cursor: pointer;
-}
-
-#year-display {
-  font-weight: 700;
-  color: #1a365d;
-}
-
-.year-labels {
-  display: flex;
-  justify-content: space-between;
-  font-size: 0.7rem;
-  color: #718096;
-}
-
 /* View toggle buttons */
 .toggle-buttons {
   display: flex;

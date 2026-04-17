@@ -77,19 +77,23 @@ function getPsgc(feature) {
 // ============================================
 
 async function loadProvinceScores(year) {
-  if (state.provinceScores[year]) {
-    return state.provinceScores[year];
+  const cacheKey = year === 'all' ? 'all' : year;
+  if (state.provinceScores[cacheKey]) {
+    return state.provinceScores[cacheKey];
   }
 
-  const url = state.currentDataset === 'audit'
-    ? `data/province-scores-${year}.json`
-    : 'data/disallowances.json';
+  let url;
+  if (state.currentDataset === 'audit') {
+    url = year === 'all' ? 'data/province-scores-all.json' : `data/province-scores-${year}.json`;
+  } else {
+    url = 'data/disallowances.json';
+  }
 
   try {
     const response = await fetch(url);
     const data = await response.json();
     const scores = state.currentDataset === 'audit' ? data.provinces : (data.provinces || {});
-    state.provinceScores[year] = scores;
+    state.provinceScores[cacheKey] = scores;
     return scores;
   } catch (err) {
     console.error('Failed to load province scores:', err);
@@ -98,19 +102,23 @@ async function loadProvinceScores(year) {
 }
 
 async function loadLguScores(year) {
-  if (state.lguScores[year]) {
-    return state.lguScores[year];
+  const cacheKey = year === 'all' ? 'all' : year;
+  if (state.lguScores[cacheKey]) {
+    return state.lguScores[cacheKey];
   }
 
-  const url = state.currentDataset === 'audit'
-    ? `data/scores-${year}.json`
-    : 'data/disallowances.json';
+  let url;
+  if (state.currentDataset === 'audit') {
+    url = year === 'all' ? 'data/lgu-scores.json' : `data/scores-${year}.json`;
+  } else {
+    url = 'data/disallowances.json';
+  }
 
   try {
     const response = await fetch(url);
     const data = await response.json();
     const scores = state.currentDataset === 'audit' ? data.lgus : (data.lgus || {});
-    state.lguScores[year] = scores;
+    state.lguScores[cacheKey] = scores;
     return scores;
   } catch (err) {
     console.error('Failed to load LGU scores:', err);
@@ -381,7 +389,10 @@ async function updateMap() {
 
 async function updateYear(year) {
   state.currentYear = year;
-  document.getElementById('year-display').textContent = year;
+
+  // Clear caches when year changes
+  state.provinceScores = {};
+  state.lguScores = {};
 
   if (state.currentView === 'provinces') {
     await renderProvinces();
@@ -404,14 +415,12 @@ function setupControls() {
     });
   }
 
-  // Year slider
-  const yearSlider = document.getElementById('year-slider');
-  if (yearSlider) {
-    yearSlider.addEventListener('input', (e) => {
-      document.getElementById('year-display').textContent = e.target.value;
-    });
-    yearSlider.addEventListener('change', async (e) => {
-      await updateYear(parseInt(e.target.value));
+  // Year dropdown
+  const yearSelect = document.getElementById('year-select');
+  if (yearSelect) {
+    yearSelect.addEventListener('change', async (e) => {
+      const value = e.target.value;
+      await updateYear(value === 'all' ? 'all' : parseInt(value));
     });
   }
 
