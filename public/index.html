@@ -62,13 +62,11 @@
   </footer>
 
   <script src="js/auth.js"></script>
-  <script src="js/map.js" defer></script>
+  <script src="js/map.js"></script>
   <script>
     document.addEventListener('DOMContentLoaded', () => {
       checkAuth();
-      if (typeof initMap === 'function') {
-        initMap();
-      }
+      initMap();
     });
   </script>
 </body>

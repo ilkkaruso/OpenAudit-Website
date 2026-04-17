@@ -122,8 +122,14 @@ async function loadGeoJson(type) {
   const url = type === 'provinces' ? 'geo/provinces.geojson' : 'geo/lgus.geojson';
 
   try {
+    console.log(`Loading ${type} from ${url}...`);
     const response = await fetch(url);
-    return await response.json();
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+    }
+    const data = await response.json();
+    console.log(`Loaded ${type}: ${data.features?.length || 0} features`);
+    return data;
   } catch (err) {
     console.error(`Failed to load ${type} GeoJSON:`, err);
     return null;
@@ -134,17 +140,31 @@ async function loadGeoJson(type) {
 // STYLING
 // ============================================
 
-function getFeatureStyle(feature, scores) {
+function getProvinceStyle(feature, scores) {
   const psgc = getPsgc(feature);
   const data = scores[psgc];
   const score = data ? data.score : null;
 
   return {
     fillColor: getRiskColor(score),
-    weight: 1,
+    weight: 1.5,
     opacity: 1,
     color: '#ffffff',
     fillOpacity: 0.8
+  };
+}
+
+function getLguStyle(feature, scores) {
+  const psgc = getPsgc(feature);
+  const data = scores[psgc];
+  const score = data ? data.score : null;
+
+  return {
+    fillColor: getRiskColor(score),
+    weight: 0.8,
+    opacity: 1,
+    color: '#333333',
+    fillOpacity: 0.75
   };
 }
 
@@ -161,16 +181,22 @@ function highlightFeature(e) {
   state.info.update(layer.feature.properties, layer.scoreData);
 }
 
-function resetHighlight(e, scores) {
+function resetHighlight(e, scores, isLgu = false) {
   const layer = e.target;
-  const psgc = getPsgc(layer.feature);
-  const data = scores[psgc];
 
-  layer.setStyle({
-    weight: 1,
-    color: '#ffffff',
-    fillOpacity: 0.8
-  });
+  if (isLgu) {
+    layer.setStyle({
+      weight: 0.8,
+      color: '#333333',
+      fillOpacity: 0.75
+    });
+  } else {
+    layer.setStyle({
+      weight: 1.5,
+      color: '#ffffff',
+      fillOpacity: 0.8
+    });
+  }
 
   state.info.update();
 }
@@ -277,16 +303,15 @@ async function renderProvinces() {
   }
 
   state.provinceLayer = L.geoJSON(state.provinceGeoJson, {
-    style: (feature) => getFeatureStyle(feature, scores),
+    style: (feature) => getProvinceStyle(feature, scores),
     onEachFeature: (feature, layer) => {
       const psgc = getPsgc(feature);
       layer.scoreData = scores[psgc] || null;
 
       layer.on({
         mouseover: highlightFeature,
-        mouseout: (e) => resetHighlight(e, scores),
+        mouseout: (e) => resetHighlight(e, scores, false),
         click: (e) => {
-          // Zoom to feature on click
           state.map.fitBounds(e.target.getBounds(), { padding: [50, 50] });
         }
       });
@@ -317,14 +342,14 @@ async function renderLgus() {
   }
 
   state.lguLayer = L.geoJSON(state.lguGeoJson, {
-    style: (feature) => getFeatureStyle(feature, scores),
+    style: (feature) => getLguStyle(feature, scores),
     onEachFeature: (feature, layer) => {
       const psgc = getPsgc(feature);
       layer.scoreData = scores[psgc] || null;
 
       layer.on({
         mouseover: highlightFeature,
-        mouseout: (e) => resetHighlight(e, scores),
+        mouseout: (e) => resetHighlight(e, scores, true),
         click: (e) => {
           state.map.fitBounds(e.target.getBounds(), { padding: [50, 50] });
         }
@@ -421,8 +446,10 @@ function setupControls() {
 async function initMap() {
   const container = document.getElementById('map');
 
-  // Show loading
-  container.innerHTML = '<div class="loading">Loading map...</div>';
+  if (!container) {
+    console.error('Map container not found');
+    return;
+  }
 
   try {
     // Create Leaflet map
@@ -435,12 +462,12 @@ async function initMap() {
       maxBoundsViscosity: 1.0
     });
 
-    // Add tile layer (optional - can remove for cleaner look)
-    // L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
-    //   attribution: '&copy; OpenStreetMap, &copy; CARTO',
-    //   subdomains: 'abcd',
-    //   maxZoom: 12
-    // }).addTo(state.map);
+    // Add light tile layer as background
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
+      attribution: '&copy; OpenStreetMap, &copy; CARTO',
+      subdomains: 'abcd',
+      maxZoom: 12
+    }).addTo(state.map);
 
     // Add info control
     state.info = createInfoControl();
@@ -449,6 +476,8 @@ async function initMap() {
     // Add legend
     const legend = createLegendControl();
     legend.addTo(state.map);
+
+    console.log('Leaflet map created, loading provinces...');
 
     // Initial render
     await renderProvinces();
