@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OpenAudit Philippines - Corruption Risk Map</title>
+  <meta name="description" content="Interactive map showing audit recommendation non-implementation rates across Philippine LGUs. Track government accountability from COA data 2016-2022.">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+  <link rel="stylesheet" href="css/map.css">
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="audit.html" class="nav-link active">Map</a>
+      <a href="about.html" class="nav-link">About</a>
+      <a href="data.html" class="nav-link">Data</a>
+      <a href="settings.html" class="nav-link">Settings</a>
+      <a href="#" class="nav-link logout-link" onclick="logout()">Logout</a>
+    </nav>
+    <h1>OpenAudit Philippines</h1>
+    <p>Audit Recommendation Implementation Tracker (2016-2022)</p>
+    <div style="text-align: center; margin-top: 0.5rem;">
+      <a href="index.html" style="color: #3498db; text-decoration: none; font-size: 0.9rem;">← View Disallowances Heat Map</a>
+    </div>
+  </header>
+
+  <main>
+    <!-- Control Panel -->
+    <div id="controls" class="control-panel">
+      <div class="control-group">
+        <label for="dataset-select">Dataset</label>
+        <select id="dataset-select">
+          <option value="audit" selected>Compliance</option>
+          <option value="disallowances">Disallowances</option>
+        </select>
+      </div>
+
+      <div class="control-group">
+        <label for="year-select">Year</label>
+        <select id="year-select">
+          <option value="all" selected>All Years</option>
+          <option value="2022">2022</option>
+          <option value="2021">2021</option>
+          <option value="2020">2020</option>
+          <option value="2019">2019</option>
+          <option value="2018">2018</option>
+          <option value="2017">2017</option>
+          <option value="2016">2016</option>
+        </select>
+      </div>
+
+      <div class="control-group">
+        <label>View</label>
+        <div class="toggle-buttons">
+          <button id="view-provinces" class="toggle-btn active">Provinces</button>
+          <button id="view-lgus" class="toggle-btn">Municipalities</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Map Container -->
+    <div id="map-container">
+      <div id="map" role="img" aria-label="Interactive choropleth map showing corruption risk by Philippine region."></div>
+    </div>
+  </main>
+
+  <footer>
+    <p>Data Source: Commission on Audit (COA) Annual Audit Reports 2016-2022</p>
+  </footer>
+
+  <script src="js/auth.js"></script>
+  <script src="js/map.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      checkAuth();
+      initMap();
+    });
+  </script>
+</body>
+</html>

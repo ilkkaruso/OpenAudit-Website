@@ -1,5 +1,8 @@
 .planning/
 
+# Disallowances source data (large Excel files)
+disallowances/
+
 # CSV data files (large source data)
 *.csv
 
