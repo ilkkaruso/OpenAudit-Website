@@ -3,52 +3,238 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>OpenAudit Philippines - Corruption Risk Map</title>
-  <meta name="description" content="Interactive map showing audit recommendation non-implementation rates across Philippine LGUs. Track government accountability from COA data 2016-2022.">
+  <title>Philippines Audit Disallowances Heat Map</title>
+  <meta name="description" content="Interactive heat map showing COA audit disallowances across Philippine provinces and LGUs (2016-2022).">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
   <link rel="stylesheet" href="css/map.css">
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      background: #1a1a1a;
+      color: #ffffff;
+    }
+
+    header {
+      background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+      padding: 2rem 2rem 1.5rem;
+      text-align: center;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+    }
+
+    header h1 {
+      margin: 0 0 0.5rem;
+      font-size: 2.5rem;
+      font-weight: 700;
+      text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+    }
+
+    header p {
+      margin: 0;
+      font-size: 1.1rem;
+      opacity: 0.9;
+    }
+
+    #map-container {
+      position: relative;
+      height: calc(100vh - 200px);
+      min-height: 500px;
+    }
+
+    #map {
+      width: 100%;
+      height: 100%;
+    }
+
+    .controls-panel {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      background: rgba(255, 255, 255, 0.95);
+      padding: 1.5rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      z-index: 1000;
+      min-width: 250px;
+    }
+
+    .controls-panel h3 {
+      margin: 0 0 1rem;
+      font-size: 1.2rem;
+      color: #2c3e50;
+    }
+
+    .control-group {
+      margin-bottom: 1rem;
+    }
+
+    .control-group label {
+      display: block;
+      margin-bottom: 0.5rem;
+      font-weight: 600;
+      color: #34495e;
+      font-size: 0.9rem;
+    }
+
+    .toggle-buttons {
+      display: flex;
+      gap: 0.5rem;
+    }
+
+    .toggle-btn {
+      flex: 1;
+      padding: 0.6rem 1rem;
+      border: 2px solid #3498db;
+      background: white;
+      color: #3498db;
+      border-radius: 8px;
+      cursor: pointer;
+      font-weight: 600;
+      transition: all 0.2s;
+      font-size: 0.9rem;
+    }
+
+    .toggle-btn:hover {
+      background: #ecf0f1;
+    }
+
+    .toggle-btn.active {
+      background: #3498db;
+      color: white;
+    }
+
+    .info-panel {
+      background: rgba(255, 255, 255, 0.95);
+      padding: 1.5rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      min-width: 250px;
+    }
+
+    .info-panel h4 {
+      margin: 0 0 1rem;
+      font-size: 1.3rem;
+      color: #2c3e50;
+    }
+
+    .disallowance-amount {
+      font-size: 2rem;
+      font-weight: 700;
+      margin: 0.5rem 0;
+      color: #e74c3c;
+    }
+
+    .risk-badge {
+      display: inline-block;
+      padding: 0.4rem 1rem;
+      border-radius: 6px;
+      font-weight: 600;
+      font-size: 0.9rem;
+      margin: 0.5rem 0;
+    }
+
+    .risk-badge.critical { background: #7f0000; color: white; }
+    .risk-badge.high { background: #c62828; color: white; }
+    .risk-badge.moderate { background: #ef6c00; color: white; }
+    .risk-badge.low { background: #fdd835; color: #333; }
+    .risk-badge.minimal { background: #66bb6a; color: white; }
+    .risk-badge.no_data { background: #e0e0e0; color: #666; }
+
+    .info-details {
+      margin-top: 1rem;
+      font-size: 0.95rem;
+      color: #34495e;
+    }
+
+    .info-details div {
+      padding: 0.4rem 0;
+      border-bottom: 1px solid #ecf0f1;
+    }
+
+    .info-details div:last-child {
+      border-bottom: none;
+    }
+
+    .legend-panel {
+      background: rgba(255, 255, 255, 0.95);
+      padding: 1.5rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    }
+
+    .legend-panel h4 {
+      margin: 0 0 1rem;
+      font-size: 1.1rem;
+      color: #2c3e50;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      margin: 0.5rem 0;
+      font-size: 0.9rem;
+    }
+
+    .legend-color {
+      width: 30px;
+      height: 20px;
+      border-radius: 4px;
+      margin-right: 0.75rem;
+      border: 1px solid rgba(0,0,0,0.1);
+    }
+
+    .legend-label {
+      color: #34495e;
+      font-weight: 500;
+    }
+
+    .audit-link {
+      position: fixed;
+      bottom: 30px;
+      right: 30px;
+      z-index: 1000;
+    }
+
+    .audit-link a {
+      display: inline-block;
+      background: linear-gradient(135deg, #3498db 0%, #2980b9 100%);
+      color: white;
+      padding: 1rem 2rem;
+      border-radius: 50px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1rem;
+      box-shadow: 0 4px 12px rgba(52, 152, 219, 0.4);
+      transition: all 0.3s;
+    }
+
+    .audit-link a:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 16px rgba(52, 152, 219, 0.6);
+    }
+
+    footer {
+      background: #2c3e50;
+      padding: 1.5rem;
+      text-align: center;
+      color: rgba(255,255,255,0.8);
+      font-size: 0.9rem;
+    }
+  </style>
 </head>
 <body>
   <header>
-    <nav>
-      <a href="index.html" class="nav-link active">Map</a>
-      <a href="about.html" class="nav-link">About</a>
-      <a href="data.html" class="nav-link">Data</a>
-      <a href="settings.html" class="nav-link">Settings</a>
-      <a href="#" class="nav-link logout-link" onclick="logout()">Logout</a>
-    </nav>
-    <h1>OpenAudit Philippines</h1>
-    <p>Audit Recommendation Implementation Tracker (2016-2022)</p>
+    <h1>Philippines Audit Disallowances</h1>
+    <p>Interactive Heat Map - COA Disallowances by Province & LGU (2016-2022)</p>
   </header>
 
-  <main>
-    <!-- Control Panel -->
-    <div id="controls" class="control-panel">
+  <div id="map-container">
+    <div class="controls-panel">
+      <h3>View Options</h3>
       <div class="control-group">
-        <label for="dataset-select">Dataset</label>
-        <select id="dataset-select">
-          <option value="audit" selected>Compliance</option>
-          <option value="disallowances">Disallowances</option>
-        </select>
-      </div>
-
-      <div class="control-group">
-        <label for="year-select">Year</label>
-        <select id="year-select">
-          <option value="all" selected>All Years</option>
-          <option value="2022">2022</option>
-          <option value="2021">2021</option>
-          <option value="2020">2020</option>
-          <option value="2019">2019</option>
-          <option value="2018">2018</option>
-          <option value="2017">2017</option>
-          <option value="2016">2016</option>
-        </select>
-      </div>
-
-      <div class="control-group">
-        <label>View</label>
+        <label>Geographic Level</label>
         <div class="toggle-buttons">
           <button id="view-provinces" class="toggle-btn active">Provinces</button>
           <button id="view-lgus" class="toggle-btn">Municipalities</button>
@@ -56,21 +242,25 @@
       </div>
     </div>
 
-    <!-- Map Container -->
-    <div id="map-container">
-      <div id="map" role="img" aria-label="Interactive choropleth map showing corruption risk by Philippine region."></div>
-    </div>
-  </main>
+    <div id="map"></div>
+  </div>
+
+  <div class="audit-link">
+    <a href="login.html">Access Audit Compliance Tracker →</a>
+  </div>
 
   <footer>
-    <p>Data Source: Commission on Audit (COA) Annual Audit Reports 2016-2022</p>
+    <p>Data Source: Commission on Audit (COA) Annual Audit Reports 2016-2022 | Disallowances Dataset v2.3</p>
   </footer>
 
-  <script src="js/auth.js"></script>
   <script src="js/map.js"></script>
   <script>
+    // Initialize the map with disallowances data
     document.addEventListener('DOMContentLoaded', () => {
-      checkAuth();
+      // Set the dataset to disallowances
+      if (typeof state !== 'undefined') {
+        state.currentDataset = 'disallowances';
+      }
       initMap();
     });
   </script>

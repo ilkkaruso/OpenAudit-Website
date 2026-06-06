@@ -231,23 +231,54 @@ function createInfoControl() {
     const name = props.name || props.NAME || props.adm2_en || 'Unknown';
     const score = scoreData ? scoreData.score : null;
     const level = scoreData ? scoreData.riskLevel : getRiskLevel(score);
-    const complianceLabel = getComplianceLabel(level);
 
-    this._div.innerHTML = `
-      <h4>${name}</h4>
-      <div class="info-score ${level}">
-        <span class="score-value">${score !== null ? Math.round(score) : '—'}</span>
-        <span class="score-label">/ 100</span>
-      </div>
-      <div class="info-risk ${level}">${complianceLabel} Compliance</div>
-      ${scoreData ? `
-        <div class="info-details">
-          <div>Not Implemented: ${scoreData.notImplementedPct?.toFixed(1) || '—'}%</div>
-          <div>Observations: ${scoreData.observationCount?.toLocaleString() || '—'}</div>
-          ${scoreData.lguCount ? `<div>Municipalities: ${scoreData.lguCount}</div>` : ''}
+    // Check if we're showing disallowances data
+    const isDisallowances = state.currentDataset === 'disallowances';
+
+    if (isDisallowances) {
+      // Disallowances display
+      const totalDisallowances = scoreData?.totalDisallowances || 0;
+      const avgPerLGU = scoreData?.avgDisallowancesPerLGU || 0;
+      const formattedTotal = totalDisallowances ? `₱${totalDisallowances.toLocaleString('en-PH', {minimumFractionDigits: 2, maximumFractionDigits: 2})}` : '—';
+      const formattedAvg = avgPerLGU ? `₱${avgPerLGU.toLocaleString('en-PH', {minimumFractionDigits: 2, maximumFractionDigits: 2})}` : '—';
+
+      this._div.innerHTML = `
+        <h4>${name}</h4>
+        <div class="info-score ${level}">
+          <span class="score-value">${score !== null ? Math.round(score) : '—'}</span>
+          <span class="score-label">/ 100</span>
         </div>
-      ` : ''}
-    `;
+        <div class="info-risk ${level}">Disallowance Level: ${level.charAt(0).toUpperCase() + level.slice(1)}</div>
+        ${scoreData ? `
+          <div class="info-details">
+            <div><strong>Total Disallowances:</strong><br/>${formattedTotal}</div>
+            ${avgPerLGU ? `<div><strong>Avg per LGU:</strong><br/>${formattedAvg}</div>` : ''}
+            <div><strong>Observations:</strong> ${scoreData.observationCount?.toLocaleString() || '—'}</div>
+            ${scoreData.lguCount ? `<div><strong>Municipalities:</strong> ${scoreData.lguCount}</div>` : ''}
+            ${scoreData.yearsWithData ? `<div><strong>Years:</strong> ${scoreData.yearsWithData} years</div>` : ''}
+          </div>
+        ` : ''}
+      `;
+    } else {
+      // Compliance/Audit display (original)
+      const complianceLabel = getComplianceLabel(level);
+
+      this._div.innerHTML = `
+        <h4>${name}</h4>
+        <div class="info-score ${level}">
+          <span class="score-value">${score !== null ? Math.round(score) : '—'}</span>
+          <span class="score-label">/ 100</span>
+        </div>
+        <div class="info-risk ${level}">${complianceLabel} Compliance</div>
+        ${scoreData ? `
+          <div class="info-details">
+            <div>Not Implemented: ${scoreData.notImplementedPct?.toFixed(1) || '—'}%</div>
+            <div>Observations: ${scoreData.observationCount?.toLocaleString() || '—'}</div>
+            ${scoreData.lguCount ? `<div>Municipalities: ${scoreData.lguCount}</div>` : ''}
+          </div>
+        ` : ''}
+      `;
+    }
   };
 
   return info;
@@ -263,9 +294,15 @@ function createLegendControl() {
   legend.onAdd = function() {
     const div = L.DomUtil.create('div', 'legend-panel');
     const grades = [0, 20, 40, 60, 80];
-    const labels = ['Very High', 'High', 'Moderate', 'Low', 'Very Low'];
 
-    div.innerHTML = '<h4>Compliance Level</h4>';
+    // Different labels based on dataset
+    const isDisallowances = state.currentDataset === 'disallowances';
+    const title = isDisallowances ? 'Disallowance Level' : 'Compliance Level';
+    const labels = isDisallowances
+      ? ['Minimal', 'Low', 'Moderate', 'High', 'Critical']
+      : ['Very High', 'High', 'Moderate', 'Low', 'Very Low'];
+
+    div.innerHTML = `<h4>${title}</h4>`;
 
     for (let i = 0; i < grades.length; i++) {
       div.innerHTML += `
@@ -284,6 +321,14 @@ function createLegendControl() {
     `;
 
     return div;
+  };
+
+  legend.update = function() {
+    // Remove and re-add to update
+    if (state.map && this._map) {
+      state.map.removeControl(this);
+      this.addTo(state.map);
+    }
   };
 
   return legend;
