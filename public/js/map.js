@@ -10,15 +10,17 @@
 const state = {
   // Current view settings
   currentYear: 'all',
-  currentDataset: 'audit',
+  currentDataset: 'disallowances',
   currentView: 'provinces',
   showRegions: false,
+  showLegend: true,
 
   // Leaflet objects
   map: null,
   provinceLayer: null,
   lguLayer: null,
   regionLayer: null,
+  legendControl: null,
 
   // Data caches
   provinceScores: {},
@@ -182,8 +184,35 @@ function getProvinceStyle(feature, scores) {
 }
 
 function getLguStyle(feature, scores) {
-  const psgc = getPsgc(feature);
-  const data = scores[psgc];
+  // For LGUs, we need to construct the key as provincePsgc_lguName
+  const props = feature.properties;
+  const lguName = props.name || props.NAME || props.adm2_en || '';
+  const provPsgc = String(props.province_psgc || props.adm1_psgc || '').padStart(10, '0');
+
+  // Try different key formats to match our data
+  // Our data often has no spaces (DonCarlos) or City suffix without space (MalaybalayCity)
+  const nameNoSpaces = lguName.replace(/\s+/g, '');
+  const nameBase = lguName.replace(/\s*(City|Municipality)$/i, '');
+  const nameBaseNoSpaces = nameBase.replace(/\s+/g, '');
+
+  const possibleKeys = [
+    `${provPsgc}_${lguName}`,
+    `${provPsgc}_${nameNoSpaces}`,
+    `${provPsgc}_${nameBase}`,
+    `${provPsgc}_${nameBaseNoSpaces}`,
+    `${provPsgc}_${nameNoSpaces}City`,
+    `${provPsgc}_${nameBaseNoSpaces}City`,
+    `${provPsgc}_${lguName}Mun`
+  ];
+
+  let data = null;
+  for (const key of possibleKeys) {
+    if (scores[key]) {
+      data = scores[key];
+      break;
+    }
+  }
+
   const score = data ? data.score : null;
 
   return {
@@ -264,8 +293,11 @@ function createInfoControl() {
       const formattedTotal = totalDisallowances ? `₱${totalDisallowances.toLocaleString('en-PH', {minimumFractionDigits: 2, maximumFractionDigits: 2})}` : '—';
       const formattedAvg = avgPerLGU ? `₱${avgPerLGU.toLocaleString('en-PH', {minimumFractionDigits: 2, maximumFractionDigits: 2})}` : '—';
 
+      // Check if this is an LGU/Municipality
+      const isLGU = scoreData?.province ? true : false;
+
       this._div.innerHTML = `
-        <h4>${name}</h4>
+        <h4>${name}${isLGU ? ` <span style="font-size: 0.8em; color: #666;">(${scoreData.province})</span>` : ''}</h4>
         <div class="info-score ${level}">
           <span class="score-value">${score !== null ? Math.round(score) : '—'}</span>
           <span class="score-label">/ 100</span>
@@ -274,10 +306,11 @@ function createInfoControl() {
         ${scoreData ? `
           <div class="info-details">
             <div><strong>Total Disallowances:</strong><br/>${formattedTotal}</div>
-            ${avgPerLGU ? `<div><strong>Avg per LGU:</strong><br/>${formattedAvg}</div>` : ''}
-            <div><strong>Observations:</strong> ${scoreData.observationCount?.toLocaleString() || '—'}</div>
-            ${scoreData.lguCount ? `<div><strong>Municipalities:</strong> ${scoreData.lguCount}</div>` : ''}
+            ${!isLGU && avgPerLGU ? `<div><strong>Avg per LGU:</strong><br/>${formattedAvg}</div>` : ''}
+            ${scoreData.observationCount ? `<div><strong>Observations:</strong> ${scoreData.observationCount.toLocaleString()}</div>` : ''}
+            ${!isLGU && scoreData.lguCount ? `<div><strong>Municipalities:</strong> ${scoreData.lguCount}</div>` : ''}
             ${scoreData.yearsWithData ? `<div><strong>Years:</strong> ${scoreData.yearsWithData} years</div>` : ''}
+            ${scoreData.years && scoreData.years.length > 0 ? `<div><strong>Years with data:</strong> ${scoreData.years.join(', ')}</div>` : ''}
           </div>
         ` : ''}
       `;
@@ -447,8 +480,28 @@ async function renderLgus() {
   state.lguLayer = L.geoJSON(state.lguGeoJson, {
     style: (feature) => getLguStyle(feature, scores),
     onEachFeature: (feature, layer) => {
-      const psgc = getPsgc(feature);
-      layer.scoreData = scores[psgc] || null;
+      // For LGUs, construct the key as provincePsgc_lguName
+      const props = feature.properties;
+      const lguName = props.name || props.NAME || props.adm2_en || '';
+      const provPsgc = String(props.province_psgc || props.adm1_psgc || '').padStart(10, '0');
+
+      // Try different key formats
+      const possibleKeys = [
+        `${provPsgc}_${lguName}`,
+        `${provPsgc}_${lguName.replace(' ', '')}`,
+        `${provPsgc}_${lguName}City`,
+        `${provPsgc}_${lguName}Mun`
+      ];
+
+      let data = null;
+      for (const key of possibleKeys) {
+        if (scores[key]) {
+          data = scores[key];
+          break;
+        }
+      }
+
+      layer.scoreData = data;
 
       layer.on({
         mouseover: highlightFeature,
@@ -655,6 +708,19 @@ function setupControls() {
     });
   }
 
+  // Legend toggle checkbox
+  const toggleLegend = document.getElementById('toggle-legend');
+  if (toggleLegend) {
+    toggleLegend.addEventListener('change', (e) => {
+      state.showLegend = e.target.checked;
+      if (state.showLegend && state.legendControl) {
+        state.legendControl.addTo(state.map);
+      } else if (!state.showLegend && state.legendControl) {
+        state.map.removeControl(state.legendControl);
+      }
+    });
+  }
+
   // Region toggle checkbox
   const toggleRegions = document.getElementById('toggle-regions');
   if (toggleRegions) {
@@ -699,9 +765,11 @@ async function initMap() {
     state.info = createInfoControl();
     state.info.addTo(state.map);
 
-    // Add legend
-    const legend = createLegendControl();
-    legend.addTo(state.map);
+    // Add legend (store in state for toggling)
+    state.legendControl = createLegendControl();
+    if (state.showLegend) {
+      state.legendControl.addTo(state.map);
+    }
 
     console.log('Leaflet map created, loading provinces...');
 
