@@ -1,6 +1,6 @@
 {
   "description": "COA Disallowances data (2016-2022) - Complete mapping with municipalities",
-  "lastUpdated": "2026-06-07T11:59:52.648317",
+  "lastUpdated": "2026-06-07T12:10:00.119647",
   "summary": {
     "totalProvinces": 87,
     "provincesWithData": 79,
@@ -18,10 +18,7 @@
       "avgDisallowancesPerLGU": 11713894.48,
       "lguCount": 24,
       "observationCount": 160,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Bukidnon"
-      ]
+      "yearsWithData": 7
     },
     "1001800000": {
       "name": "Camiguin",
@@ -31,10 +28,7 @@
       "avgDisallowancesPerLGU": 8485743.79,
       "lguCount": 6,
       "observationCount": 42,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Camiguin"
-      ]
+      "yearsWithData": 7
     },
     "1003500000": {
       "name": "Lanao del Norte",
@@ -44,13 +38,7 @@
       "avgDisallowancesPerLGU": 31515728.88,
       "lguCount": 24,
       "observationCount": 163,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Lanao del Norte",
-        "LDN",
-        "LdN",
-        "LanaodelNorte"
-      ]
+      "yearsWithData": 7
     },
     "1004200000": {
       "name": "Misamis Occidental",
@@ -60,12 +48,7 @@
       "avgDisallowancesPerLGU": 94454683.51,
       "lguCount": 19,
       "observationCount": 125,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Misamis Occidental",
-        "MisOcc",
-        "MisamisOccidental"
-      ]
+      "yearsWithData": 7
     },
     "1004300000": {
       "name": "Misamis Oriental",
@@ -75,12 +58,7 @@
       "avgDisallowancesPerLGU": 70285914.89,
       "lguCount": 28,
       "observationCount": 186,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Misamis Oriental",
-        "MisOr",
-        "MisamisOriental"
-      ]
+      "yearsWithData": 7
     },
     "102800000": {
       "name": "Ilocos Norte",
@@ -90,12 +68,7 @@
       "avgDisallowancesPerLGU": 46830954.93,
       "lguCount": 24,
       "observationCount": 167,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Ilocos Norte",
-        "IN",
-        "IlocosNorte"
-      ]
+      "yearsWithData": 7
     },
     "102900000": {
       "name": "Ilocos Sur",
@@ -105,12 +78,7 @@
       "avgDisallowancesPerLGU": 18943923.79,
       "lguCount": 38,
       "observationCount": 239,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Ilocos Sur",
-        "IS",
-        "IlocosSur"
-      ]
+      "yearsWithData": 7
     },
     "103300000": {
       "name": "La Union",
@@ -120,12 +88,7 @@
       "avgDisallowancesPerLGU": 413788.28,
       "lguCount": 23,
       "observationCount": 150,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "La Union",
-        "LaUnion",
-        "Launion"
-      ]
+      "yearsWithData": 7
     },
     "105500000": {
       "name": "Pangasinan",
@@ -135,10 +98,7 @@
       "avgDisallowancesPerLGU": 33867848.38,
       "lguCount": 50,
       "observationCount": 339,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Pangasinan"
-      ]
+      "yearsWithData": 7
     },
     "1102300000": {
       "name": "Davao del Norte",
@@ -148,13 +108,7 @@
       "avgDisallowancesPerLGU": 15786482.08,
       "lguCount": 15,
       "observationCount": 82,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Davao del Norte",
-        "DDN",
-        "DdN",
-        "DavaodelNorte"
-      ]
+      "yearsWithData": 7
     },
     "1102400000": {
       "name": "Davao del Sur",
@@ -164,13 +118,7 @@
       "avgDisallowancesPerLGU": 51706373.18,
       "lguCount": 19,
       "observationCount": 86,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Davao del Sur",
-        "DDS",
-        "DdS",
-        "DavaodelSur"
-      ]
+      "yearsWithData": 7
     },
     "1102500000": {
       "name": "Davao Oriental",
@@ -180,14 +128,7 @@
       "avgDisallowancesPerLGU": 13603086.66,
       "lguCount": 25,
       "observationCount": 118,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Davao Oriental",
-        "DO",
-        "DdO",
-        "DavaoOr",
-        "DavaoOriental"
-      ]
+      "yearsWithData": 7
     },
     "1108200000": {
       "name": "Davao de Oro",
@@ -197,13 +138,7 @@
       "avgDisallowancesPerLGU": 2825702.9,
       "lguCount": 12,
       "observationCount": 35,
-      "yearsWithData": 6,
-      "matchedCodes": [
-        "Davao de Oro",
-        "CV",
-        "ComVal",
-        "CompostelaValley"
-      ]
+      "yearsWithData": 6
     },
     "1108600000": {
       "name": "Davao Occidental",
@@ -213,11 +148,7 @@
       "avgDisallowancesPerLGU": 440014.48,
       "lguCount": 6,
       "observationCount": 27,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Davao Occidental",
-        "DavaoOcc"
-      ]
+      "yearsWithData": 7
     },
     "1204700000": {
       "name": "Cotabato",
@@ -227,10 +158,7 @@
       "avgDisallowancesPerLGU": 579133.99,
       "lguCount": 22,
       "observationCount": 137,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Cotabato"
-      ]
+      "yearsWithData": 7
     },
     "1206300000": {
       "name": "South Cotabato",
@@ -240,14 +168,7 @@
       "avgDisallowancesPerLGU": 36323888.63,
       "lguCount": 16,
       "observationCount": 90,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "South Cotabato",
-        "SC",
-        "SoCot",
-        "SCotabato",
-        "SouthCotabato"
-      ]
+      "yearsWithData": 7
     },
     "1206500000": {
       "name": "Sultan Kudarat",
@@ -257,12 +178,7 @@
       "avgDisallowancesPerLGU": 868944.81,
       "lguCount": 15,
       "observationCount": 91,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Sultan Kudarat",
-        "SK",
-        "SultanKudarat"
-      ]
+      "yearsWithData": 7
     },
     "1208000000": {
       "name": "Sarangani",
@@ -272,10 +188,7 @@
       "avgDisallowancesPerLGU": 49949370.51,
       "lguCount": 8,
       "observationCount": 54,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Sarangani"
-      ]
+      "yearsWithData": 7
     },
     "1303900000": {
       "name": "NCR, City of Manila, First District (Not a Province)",
@@ -325,10 +238,7 @@
       "avgDisallowancesPerLGU": 36678921.9,
       "lguCount": 30,
       "observationCount": 168,
-      "yearsWithData": 8,
-      "matchedCodes": [
-        "Abra"
-      ]
+      "yearsWithData": 8
     },
     "1401100000": {
       "name": "Benguet",
@@ -338,10 +248,7 @@
       "avgDisallowancesPerLGU": 43431430.34,
       "lguCount": 15,
       "observationCount": 104,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Benguet"
-      ]
+      "yearsWithData": 7
     },
     "1402700000": {
       "name": "Ifugao",
@@ -351,10 +258,7 @@
       "avgDisallowancesPerLGU": 28786984.72,
       "lguCount": 12,
       "observationCount": 84,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Ifugao"
-      ]
+      "yearsWithData": 7
     },
     "1403200000": {
       "name": "Kalinga",
@@ -364,10 +268,7 @@
       "avgDisallowancesPerLGU": 86051826.14,
       "lguCount": 10,
       "observationCount": 63,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Kalinga"
-      ]
+      "yearsWithData": 7
     },
     "1404400000": {
       "name": "Mountain Province",
@@ -377,12 +278,7 @@
       "avgDisallowancesPerLGU": 5731051.18,
       "lguCount": 10,
       "observationCount": 70,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Mountain Province",
-        "MtProv",
-        "MountainProvince"
-      ]
+      "yearsWithData": 7
     },
     "1408100000": {
       "name": "Apayao",
@@ -392,10 +288,7 @@
       "avgDisallowancesPerLGU": 64811742.59,
       "lguCount": 9,
       "observationCount": 56,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Apayao"
-      ]
+      "yearsWithData": 7
     },
     "1600200000": {
       "name": "Agusan del Norte",
@@ -405,13 +298,7 @@
       "avgDisallowancesPerLGU": 133132027.3,
       "lguCount": 16,
       "observationCount": 86,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Agusan del Norte",
-        "ADN",
-        "AdN",
-        "AgusanDN"
-      ]
+      "yearsWithData": 7
     },
     "1600300000": {
       "name": "Agusan del Sur",
@@ -421,12 +308,7 @@
       "avgDisallowancesPerLGU": 19974247.31,
       "lguCount": 15,
       "observationCount": 100,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Agusan del Sur",
-        "ADS",
-        "AdS"
-      ]
+      "yearsWithData": 7
     },
     "1606700000": {
       "name": "Surigao del Norte",
@@ -436,13 +318,7 @@
       "avgDisallowancesPerLGU": 28322497.49,
       "lguCount": 24,
       "observationCount": 149,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Surigao del Norte",
-        "SDN",
-        "SdN",
-        "SurigaodelNorte"
-      ]
+      "yearsWithData": 7
     },
     "1606800000": {
       "name": "Surigao del Sur",
@@ -452,13 +328,7 @@
       "avgDisallowancesPerLGU": 21484400.25,
       "lguCount": 20,
       "observationCount": 132,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Surigao del Sur",
-        "SDS",
-        "SdS",
-        "SurigaodelSur"
-      ]
+      "yearsWithData": 7
     },
     "1608500000": {
       "name": "Dinagat Islands",
@@ -468,13 +338,7 @@
       "avgDisallowancesPerLGU": 10223886.71,
       "lguCount": 8,
       "observationCount": 55,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Dinagat Islands",
-        "DI",
-        "DinagatIS",
-        "DinagatIslands"
-      ]
+      "yearsWithData": 7
     },
     "1704000000": {
       "name": "Marinduque",
@@ -484,10 +348,7 @@
       "avgDisallowancesPerLGU": 119550353.14,
       "lguCount": 8,
       "observationCount": 49,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Marinduque"
-      ]
+      "yearsWithData": 7
     },
     "1705100000": {
       "name": "Occidental Mindoro",
@@ -497,14 +358,7 @@
       "avgDisallowancesPerLGU": 93111517.85,
       "lguCount": 14,
       "observationCount": 78,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Occidental Mindoro",
-        "OccMdo",
-        "OccMin",
-        "OccMIn",
-        "OccidentalMindoro"
-      ]
+      "yearsWithData": 7
     },
     "1705200000": {
       "name": "Oriental Mindoro",
@@ -514,13 +368,7 @@
       "avgDisallowancesPerLGU": 8635445.89,
       "lguCount": 16,
       "observationCount": 108,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Oriental Mindoro",
-        "OrMdo",
-        "OrMin",
-        "OrientalMindoro"
-      ]
+      "yearsWithData": 7
     },
     "1705300000": {
       "name": "Palawan",
@@ -530,10 +378,7 @@
       "avgDisallowancesPerLGU": 169069334.27,
       "lguCount": 31,
       "observationCount": 169,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Palawan"
-      ]
+      "yearsWithData": 7
     },
     "1705900000": {
       "name": "Romblon",
@@ -543,10 +388,7 @@
       "avgDisallowancesPerLGU": 27169564.2,
       "lguCount": 18,
       "observationCount": 125,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Romblon"
-      ]
+      "yearsWithData": 7
     },
     "1900700000": {
       "name": "Basilan",
@@ -556,10 +398,7 @@
       "avgDisallowancesPerLGU": 736068.09,
       "lguCount": 19,
       "observationCount": 98,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Basilan"
-      ]
+      "yearsWithData": 7
     },
     "1903600000": {
       "name": "Lanao del Sur",
@@ -569,13 +408,7 @@
       "avgDisallowancesPerLGU": 3251870.24,
       "lguCount": 51,
       "observationCount": 281,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Lanao del Sur",
-        "LDS",
-        "LdS",
-        "LanaodelSur"
-      ]
+      "yearsWithData": 7
     },
     "1906600000": {
       "name": "Sulu",
@@ -585,10 +418,7 @@
       "avgDisallowancesPerLGU": 3474173.55,
       "lguCount": 24,
       "observationCount": 140,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Sulu"
-      ]
+      "yearsWithData": 7
     },
     "1907000000": {
       "name": "Tawi-Tawi",
@@ -628,10 +458,7 @@
       "avgDisallowancesPerLGU": 16356306.15,
       "lguCount": 7,
       "observationCount": 49,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Batanes"
-      ]
+      "yearsWithData": 7
     },
     "201500000": {
       "name": "Cagayan",
@@ -641,10 +468,7 @@
       "avgDisallowancesPerLGU": 26178757.6,
       "lguCount": 36,
       "observationCount": 209,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Cagayan"
-      ]
+      "yearsWithData": 7
     },
     "203100000": {
       "name": "Isabela",
@@ -654,10 +478,7 @@
       "avgDisallowancesPerLGU": 29080003.91,
       "lguCount": 42,
       "observationCount": 260,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Isabela"
-      ]
+      "yearsWithData": 7
     },
     "205000000": {
       "name": "Nueva Vizcaya",
@@ -667,12 +488,7 @@
       "avgDisallowancesPerLGU": 21152061.29,
       "lguCount": 22,
       "observationCount": 112,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Nueva Vizcaya",
-        "NV",
-        "NuevaVizcaya"
-      ]
+      "yearsWithData": 7
     },
     "205700000": {
       "name": "Quirino",
@@ -682,10 +498,7 @@
       "avgDisallowancesPerLGU": 10714300.53,
       "lguCount": 7,
       "observationCount": 49,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Quirino"
-      ]
+      "yearsWithData": 7
     },
     "300800000": {
       "name": "Bataan",
@@ -695,10 +508,7 @@
       "avgDisallowancesPerLGU": 159445660.82,
       "lguCount": 13,
       "observationCount": 91,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Bataan"
-      ]
+      "yearsWithData": 7
     },
     "301400000": {
       "name": "Bulacan",
@@ -708,10 +518,7 @@
       "avgDisallowancesPerLGU": 40503032.96,
       "lguCount": 31,
       "observationCount": 173,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Bulacan"
-      ]
+      "yearsWithData": 7
     },
     "304900000": {
       "name": "Nueva Ecija",
@@ -721,12 +528,7 @@
       "avgDisallowancesPerLGU": 20788604.24,
       "lguCount": 43,
       "observationCount": 231,
-      "yearsWithData": 8,
-      "matchedCodes": [
-        "Nueva Ecija",
-        "NE",
-        "NuevaEcija"
-      ]
+      "yearsWithData": 8
     },
     "305400000": {
       "name": "Pampanga",
@@ -736,10 +538,7 @@
       "avgDisallowancesPerLGU": 89111367.72,
       "lguCount": 24,
       "observationCount": 155,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Pampanga"
-      ]
+      "yearsWithData": 7
     },
     "306900000": {
       "name": "Tarlac",
@@ -749,10 +548,7 @@
       "avgDisallowancesPerLGU": 98152639.11,
       "lguCount": 20,
       "observationCount": 133,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Tarlac"
-      ]
+      "yearsWithData": 7
     },
     "307100000": {
       "name": "Zambales",
@@ -762,10 +558,7 @@
       "avgDisallowancesPerLGU": 68254325.56,
       "lguCount": 16,
       "observationCount": 105,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Zambales"
-      ]
+      "yearsWithData": 7
     },
     "307700000": {
       "name": "Aurora",
@@ -775,10 +568,7 @@
       "avgDisallowancesPerLGU": 31971689.2,
       "lguCount": 9,
       "observationCount": 63,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Aurora"
-      ]
+      "yearsWithData": 7
     },
     "401000000": {
       "name": "Batangas",
@@ -788,11 +578,7 @@
       "avgDisallowancesPerLGU": 91186457.77,
       "lguCount": 40,
       "observationCount": 239,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Batangas",
-        "Balatangas"
-      ]
+      "yearsWithData": 7
     },
     "402100000": {
       "name": "Cavite",
@@ -802,10 +588,7 @@
       "avgDisallowancesPerLGU": 36745868.2,
       "lguCount": 34,
       "observationCount": 167,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Cavite"
-      ]
+      "yearsWithData": 7
     },
     "403400000": {
       "name": "Laguna",
@@ -815,10 +598,7 @@
       "avgDisallowancesPerLGU": 44714007.04,
       "lguCount": 35,
       "observationCount": 217,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Laguna"
-      ]
+      "yearsWithData": 7
     },
     "405600000": {
       "name": "Quezon",
@@ -828,10 +608,7 @@
       "avgDisallowancesPerLGU": 31731692.34,
       "lguCount": 43,
       "observationCount": 284,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Quezon"
-      ]
+      "yearsWithData": 7
     },
     "405800000": {
       "name": "Rizal",
@@ -841,10 +618,7 @@
       "avgDisallowancesPerLGU": 67255696.35,
       "lguCount": 16,
       "observationCount": 104,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Rizal"
-      ]
+      "yearsWithData": 7
     },
     "500500000": {
       "name": "Albay",
@@ -854,10 +628,7 @@
       "avgDisallowancesPerLGU": 12963549.41,
       "lguCount": 22,
       "observationCount": 132,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Albay"
-      ]
+      "yearsWithData": 7
     },
     "501600000": {
       "name": "Camarines Norte",
@@ -867,12 +638,7 @@
       "avgDisallowancesPerLGU": 14246047.9,
       "lguCount": 14,
       "observationCount": 86,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Camarines Norte",
-        "CamNorte",
-        "CamarinesNorte"
-      ]
+      "yearsWithData": 7
     },
     "501700000": {
       "name": "Camarines Sur",
@@ -882,14 +648,7 @@
       "avgDisallowancesPerLGU": 21993070.99,
       "lguCount": 39,
       "observationCount": 258,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Camarines Sur",
-        "CamSur",
-        "Camsur",
-        "camSur",
-        "CamarinesSur"
-      ]
+      "yearsWithData": 7
     },
     "502000000": {
       "name": "Catanduanes",
@@ -899,10 +658,7 @@
       "avgDisallowancesPerLGU": 52870818.14,
       "lguCount": 12,
       "observationCount": 83,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Catanduanes"
-      ]
+      "yearsWithData": 7
     },
     "504100000": {
       "name": "Masbate",
@@ -912,10 +668,7 @@
       "avgDisallowancesPerLGU": 25941738.43,
       "lguCount": 23,
       "observationCount": 150,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Masbate"
-      ]
+      "yearsWithData": 7
     },
     "506200000": {
       "name": "Sorsogon",
@@ -925,10 +678,7 @@
       "avgDisallowancesPerLGU": 2734822.22,
       "lguCount": 16,
       "observationCount": 111,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Sorsogon"
-      ]
+      "yearsWithData": 7
     },
     "600400000": {
       "name": "Aklan",
@@ -938,10 +688,7 @@
       "avgDisallowancesPerLGU": 11165800.98,
       "lguCount": 18,
       "observationCount": 126,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Aklan"
-      ]
+      "yearsWithData": 7
     },
     "600600000": {
       "name": "Antique",
@@ -951,10 +698,7 @@
       "avgDisallowancesPerLGU": 13389194.41,
       "lguCount": 22,
       "observationCount": 129,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Antique"
-      ]
+      "yearsWithData": 7
     },
     "601900000": {
       "name": "Capiz",
@@ -964,10 +708,7 @@
       "avgDisallowancesPerLGU": 2415283.49,
       "lguCount": 19,
       "observationCount": 126,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Capiz"
-      ]
+      "yearsWithData": 7
     },
     "603000000": {
       "name": "Iloilo",
@@ -977,10 +718,7 @@
       "avgDisallowancesPerLGU": 97216096.89,
       "lguCount": 47,
       "observationCount": 310,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Iloilo"
-      ]
+      "yearsWithData": 7
     },
     "604500000": {
       "name": "Negros Occidental",
@@ -990,13 +728,7 @@
       "avgDisallowancesPerLGU": 62667670.82,
       "lguCount": 35,
       "observationCount": 226,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Negros Occidental",
-        "NegOcc",
-        "NeOcc",
-        "NegrosOccidental"
-      ]
+      "yearsWithData": 7
     },
     "607900000": {
       "name": "Guimaras",
@@ -1006,10 +738,7 @@
       "avgDisallowancesPerLGU": 10180641.63,
       "lguCount": 7,
       "observationCount": 42,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Guimaras"
-      ]
+      "yearsWithData": 7
     },
     "701200000": {
       "name": "Bohol",
@@ -1019,10 +748,7 @@
       "avgDisallowancesPerLGU": 18612905.48,
       "lguCount": 52,
       "observationCount": 343,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Bohol"
-      ]
+      "yearsWithData": 7
     },
     "702200000": {
       "name": "Cebu",
@@ -1032,10 +758,7 @@
       "avgDisallowancesPerLGU": 149123297.82,
       "lguCount": 56,
       "observationCount": 356,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Cebu"
-      ]
+      "yearsWithData": 7
     },
     "704600000": {
       "name": "Negros Oriental",
@@ -1045,12 +768,7 @@
       "avgDisallowancesPerLGU": 162477042.78,
       "lguCount": 29,
       "observationCount": 177,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Negros Oriental",
-        "NegOr",
-        "NegrosOriental"
-      ]
+      "yearsWithData": 7
     },
     "706100000": {
       "name": "Siquijor",
@@ -1060,10 +778,7 @@
       "avgDisallowancesPerLGU": 54124713.68,
       "lguCount": 7,
       "observationCount": 47,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Siquijor"
-      ]
+      "yearsWithData": 7
     },
     "802600000": {
       "name": "Eastern Samar",
@@ -1073,13 +788,7 @@
       "avgDisallowancesPerLGU": 11713239.15,
       "lguCount": 28,
       "observationCount": 164,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Eastern Samar",
-        "EaSamar",
-        "ESamar",
-        "EasternSamar"
-      ]
+      "yearsWithData": 7
     },
     "803700000": {
       "name": "Leyte",
@@ -1089,10 +798,7 @@
       "avgDisallowancesPerLGU": 32599729.76,
       "lguCount": 49,
       "observationCount": 309,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Leyte"
-      ]
+      "yearsWithData": 7
     },
     "804800000": {
       "name": "Northern Samar",
@@ -1102,14 +808,7 @@
       "avgDisallowancesPerLGU": 9208994.79,
       "lguCount": 26,
       "observationCount": 172,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Northern Samar",
-        "NoSamar",
-        "NorSamar",
-        "NorthernSamar",
-        "NSamar"
-      ]
+      "yearsWithData": 7
     },
     "806000000": {
       "name": "Samar",
@@ -1119,10 +818,7 @@
       "avgDisallowancesPerLGU": 33095304.58,
       "lguCount": 33,
       "observationCount": 179,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Samar"
-      ]
+      "yearsWithData": 7
     },
     "806400000": {
       "name": "Southern Leyte",
@@ -1132,13 +828,7 @@
       "avgDisallowancesPerLGU": 16591392.43,
       "lguCount": 21,
       "observationCount": 137,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Southern Leyte",
-        "SoLeyte",
-        "SouthernLeyte",
-        "SLeyte"
-      ]
+      "yearsWithData": 7
     },
     "807800000": {
       "name": "Biliran",
@@ -1148,11 +838,7 @@
       "avgDisallowancesPerLGU": 7388760.4,
       "lguCount": 9,
       "observationCount": 62,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Biliran",
-        "Bilirian"
-      ]
+      "yearsWithData": 7
     },
     "907200000": {
       "name": "Zamboanga del Norte",
@@ -1162,13 +848,7 @@
       "avgDisallowancesPerLGU": 14883621.58,
       "lguCount": 34,
       "observationCount": 193,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Zamboanga del Norte",
-        "ZDN",
-        "ZdN",
-        "ZamboangadelNorte"
-      ]
+      "yearsWithData": 7
     },
     "907300000": {
       "name": "Zamboanga del Sur",
@@ -1178,13 +858,7 @@
       "avgDisallowancesPerLGU": 52284563.33,
       "lguCount": 32,
       "observationCount": 202,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Zamboanga del Sur",
-        "ZDS",
-        "ZdS",
-        "ZamboangadelSur"
-      ]
+      "yearsWithData": 7
     },
     "908300000": {
       "name": "Zamboanga Sibugay",
@@ -1194,13 +868,7 @@
       "avgDisallowancesPerLGU": 2024089.66,
       "lguCount": 18,
       "observationCount": 116,
-      "yearsWithData": 7,
-      "matchedCodes": [
-        "Zamboanga Sibugay",
-        "ZS",
-        "ZSibugay",
-        "ZamboangaSibugay"
-      ]
+      "yearsWithData": 7
     },
     "990100000": {
       "name": "City of Isabela (Not a Province)",
