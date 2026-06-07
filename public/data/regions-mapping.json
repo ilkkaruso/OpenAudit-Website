@@ -1,0 +1,121 @@
+{
+  "description": "Special Administrative Regions mapping for ARMM/BARMM",
+  "regions": {
+    "1900000000": {
+      "code": "ARMM",
+      "name": "ARMM (Autonomous Region in Muslim Mindanao)",
+      "description": "Former autonomous region (until 2019)",
+      "yearsActive": [
+        2016,
+        2017,
+        2018
+      ],
+      "provinces": [
+        {
+          "name": "Basilan",
+          "psgc": "1507300000",
+          "totalDisallowances": 13902973.69,
+          "lguCount": 18
+        },
+        {
+          "name": "Lanao del Sur",
+          "psgc": "1536000000",
+          "totalDisallowances": 3430444.94,
+          "lguCount": 44
+        },
+        {
+          "name": "Maguindanao",
+          "psgc": "1538000000",
+          "totalDisallowances": 49551067.37,
+          "lguCount": 48
+        },
+        {
+          "name": "Sulu",
+          "psgc": "1566000000",
+          "totalDisallowances": 83380165.23,
+          "lguCount": 23
+        },
+        {
+          "name": "Tawi-Tawi",
+          "psgc": "1570000000",
+          "totalDisallowances": 0.0,
+          "lguCount": 12
+        }
+      ],
+      "provincePsgcs": [
+        "1507300000",
+        "1536000000",
+        "1538000000",
+        "1566000000",
+        "1570000000"
+      ],
+      "totalDisallowances": 150264651.23,
+      "totalLgus": 145,
+      "totalObservations": 627,
+      "score": 43.54,
+      "riskLevel": "moderate"
+    },
+    "1900000001": {
+      "code": "BARMM",
+      "name": "BARMM (Bangsamoro Autonomous Region)",
+      "description": "Current autonomous region (2019-present)",
+      "yearsActive": [
+        2019,
+        2020,
+        2021,
+        2022
+      ],
+      "provinces": [
+        {
+          "name": "Basilan",
+          "psgc": "1507300000",
+          "totalDisallowances": 13902973.69,
+          "lguCount": 18
+        },
+        {
+          "name": "Lanao del Sur",
+          "psgc": "1536000000",
+          "totalDisallowances": 3430444.94,
+          "lguCount": 44
+        },
+        {
+          "name": "Maguindanao",
+          "psgc": "1538000000",
+          "totalDisallowances": 49551067.37,
+          "lguCount": 48
+        },
+        {
+          "name": "Sulu",
+          "psgc": "1566000000",
+          "totalDisallowances": 83380165.23,
+          "lguCount": 23
+        },
+        {
+          "name": "Tawi-Tawi",
+          "psgc": "1570000000",
+          "totalDisallowances": 0.0,
+          "lguCount": 12
+        },
+        {
+          "name": "Cotabato",
+          "psgc": "1298000000",
+          "totalDisallowances": 8753079.26,
+          "lguCount": 21
+        }
+      ],
+      "provincePsgcs": [
+        "1507300000",
+        "1536000000",
+        "1538000000",
+        "1566000000",
+        "1570000000",
+        "1298000000"
+      ],
+      "totalDisallowances": 159017730.49,
+      "totalLgus": 166,
+      "totalObservations": 757,
+      "score": 44.03,
+      "riskLevel": "moderate"
+    }
+  }
+}
