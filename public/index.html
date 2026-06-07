@@ -51,13 +51,14 @@
     .controls-panel {
       position: absolute;
       top: 20px;
-      left: 20px;
+      left: 70px;
       background: rgba(255, 255, 255, 0.95);
       padding: 1.5rem;
       border-radius: 12px;
       box-shadow: 0 4px 12px rgba(0,0,0,0.3);
       z-index: 1000;
       min-width: 250px;
+      transition: transform 0.3s ease;
     }
 
     .controls-panel h3 {
@@ -190,29 +191,59 @@
       font-weight: 500;
     }
 
+    .toggle-controls-btn {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      z-index: 1001;
+      background: rgba(255, 255, 255, 0.95);
+      border: none;
+      border-radius: 8px;
+      padding: 0.75rem;
+      cursor: pointer;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+      transition: all 0.3s;
+      font-size: 1.2rem;
+      width: 45px;
+      height: 45px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .toggle-controls-btn:hover {
+      background: white;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    }
+
+    .controls-panel.collapsed {
+      transform: translateX(-320px);
+    }
+
     .audit-link {
-      position: fixed;
-      bottom: 30px;
-      right: 30px;
+      position: absolute;
+      top: 20px;
+      right: 20px;
       z-index: 1000;
     }
 
     .audit-link a {
       display: inline-block;
-      background: linear-gradient(135deg, #3498db 0%, #2980b9 100%);
+      background: rgba(52, 152, 219, 0.9);
       color: white;
-      padding: 1rem 2rem;
-      border-radius: 50px;
+      padding: 0.5rem 1rem;
+      border-radius: 25px;
       text-decoration: none;
       font-weight: 600;
-      font-size: 1rem;
-      box-shadow: 0 4px 12px rgba(52, 152, 219, 0.4);
+      font-size: 0.85rem;
+      box-shadow: 0 2px 8px rgba(52, 152, 219, 0.3);
       transition: all 0.3s;
     }
 
     .audit-link a:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 6px 16px rgba(52, 152, 219, 0.6);
+      background: rgba(41, 128, 185, 1);
+      transform: translateY(-1px);
+      box-shadow: 0 4px 12px rgba(52, 152, 219, 0.5);
     }
 
     footer {
@@ -231,7 +262,10 @@
   </header>
 
   <div id="map-container">
-    <div class="controls-panel">
+    <button id="toggle-controls" class="toggle-controls-btn" title="Toggle View Options">
+      <span class="toggle-icon">☰</span>
+    </button>
+    <div class="controls-panel" id="controls-panel">
       <h3>View Options</h3>
       <div class="control-group">
         <label>Geographic Level</label>
@@ -252,10 +286,10 @@
     </div>
 
     <div id="map"></div>
-  </div>
 
-  <div class="audit-link">
-    <a href="login.html">Access Audit Compliance Tracker →</a>
+    <div class="audit-link">
+      <a href="login.html">Audit Compliance Tracker →</a>
+    </div>
   </div>
 
   <footer>

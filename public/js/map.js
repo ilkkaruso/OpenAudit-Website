@@ -243,9 +243,12 @@ function createInfoControl() {
 
   info.update = function(props, scoreData) {
     if (!props) {
-      this._div.innerHTML = '<h4>Hover over a region</h4>';
+      this._div.innerHTML = '';
+      this._div.style.display = 'none';
       return;
     }
+
+    this._div.style.display = 'block';
 
     const name = props.name || props.NAME || props.adm2_en || 'Unknown';
     const score = scoreData ? scoreData.score : null;
@@ -598,6 +601,17 @@ async function updateYear(year) {
 // ============================================
 
 function setupControls() {
+  // Toggle controls panel
+  const toggleBtn = document.getElementById('toggle-controls');
+  const controlsPanel = document.getElementById('controls-panel');
+  if (toggleBtn && controlsPanel) {
+    toggleBtn.addEventListener('click', () => {
+      controlsPanel.classList.toggle('collapsed');
+      toggleBtn.querySelector('.toggle-icon').textContent =
+        controlsPanel.classList.contains('collapsed') ? '☰' : '✕';
+    });
+  }
+
   // Dataset dropdown
   const datasetSelect = document.getElementById('dataset-select');
   if (datasetSelect) {
