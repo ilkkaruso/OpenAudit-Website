@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About - Philippines Audit Disallowances Map</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem;
+    }
+
+    .container {
+      max-width: 900px;
+      width: 100%;
+      background: white;
+      border-radius: 20px;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+      overflow: hidden;
+    }
+
+    .header {
+      background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+      padding: 2.5rem 3rem;
+      color: white;
+    }
+
+    .header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .header p {
+      font-size: 1.1rem;
+      opacity: 0.9;
+    }
+
+    .content {
+      padding: 3rem;
+    }
+
+    .section {
+      margin-bottom: 2.5rem;
+    }
+
+    .section h2 {
+      color: #2c3e50;
+      font-size: 1.8rem;
+      margin-bottom: 1rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 3px solid #3498db;
+      display: inline-block;
+    }
+
+    .section p {
+      color: #555;
+      font-size: 1.1rem;
+      line-height: 1.8;
+      margin-bottom: 1rem;
+    }
+
+    .risk-levels {
+      background: #f8f9fa;
+      border-radius: 12px;
+      padding: 1.5rem;
+      margin: 1.5rem 0;
+    }
+
+    .risk-level {
+      display: flex;
+      align-items: center;
+      margin-bottom: 1rem;
+      padding: 0.75rem;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    .risk-level:last-child {
+      margin-bottom: 0;
+    }
+
+    .risk-color {
+      width: 40px;
+      height: 40px;
+      border-radius: 8px;
+      margin-right: 1.5rem;
+      border: 2px solid rgba(0,0,0,0.1);
+    }
+
+    .risk-info {
+      flex: 1;
+    }
+
+    .risk-name {
+      font-weight: 600;
+      color: #2c3e50;
+      font-size: 1.1rem;
+      margin-bottom: 0.25rem;
+    }
+
+    .risk-range {
+      color: #666;
+      font-size: 0.95rem;
+    }
+
+    .formula-box {
+      background: #f0f8ff;
+      border-left: 4px solid #3498db;
+      padding: 1.5rem;
+      margin: 1.5rem 0;
+      border-radius: 8px;
+    }
+
+    .formula {
+      font-family: 'Courier New', monospace;
+      background: white;
+      padding: 1rem;
+      border-radius: 4px;
+      margin-top: 0.5rem;
+      font-size: 1rem;
+      color: #2c3e50;
+    }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1.5rem;
+      margin-top: 1.5rem;
+    }
+
+    .stat-card {
+      background: #f8f9fa;
+      padding: 1.5rem;
+      border-radius: 12px;
+      text-align: center;
+      border: 2px solid #e0e0e0;
+    }
+
+    .stat-value {
+      font-size: 2rem;
+      font-weight: 700;
+      color: #3498db;
+      margin-bottom: 0.5rem;
+    }
+
+    .stat-label {
+      color: #666;
+      font-size: 0.95rem;
+    }
+
+    .back-link {
+      display: inline-block;
+      margin-top: 2rem;
+      padding: 0.75rem 2rem;
+      background: #3498db;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: 600;
+      transition: all 0.3s;
+    }
+
+    .back-link:hover {
+      background: #2980b9;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 8px rgba(52,152,219,0.3);
+    }
+
+    ul {
+      margin-left: 2rem;
+      margin-top: 1rem;
+    }
+
+    li {
+      color: #555;
+      margin-bottom: 0.5rem;
+      line-height: 1.6;
+    }
+
+    .note {
+      background: #fff9c4;
+      border-left: 4px solid #f9a825;
+      padding: 1rem;
+      margin: 1.5rem 0;
+      border-radius: 4px;
+      font-size: 0.95rem;
+      color: #666;
+    }
+
+    @media (max-width: 768px) {
+      .content {
+        padding: 2rem;
+      }
+
+      .header {
+        padding: 2rem;
+      }
+
+      .header h1 {
+        font-size: 2rem;
+      }
+
+      .stats-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>About the Disallowances Map</h1>
+      <p>Understanding COA Audit Disallowances Visualization</p>
+    </div>
+
+    <div class="content">
+      <div class="section">
+        <h2>What Are Disallowances?</h2>
+        <p>
+          Disallowances are government expenditures that the Commission on Audit (COA) has determined to be irregular,
+          unnecessary, excessive, extravagant, or unconscionable. These represent funds that were spent inappropriately
+          or without proper documentation, and officials may be required to return these amounts to the government.
+        </p>
+        <p>
+          This interactive map visualizes the total disallowances per province from 2016 to 2022, providing insights
+          into financial governance and accountability across the Philippines.
+        </p>
+      </div>
+
+      <div class="section">
+        <h2>Risk Level Calculation</h2>
+        <p>
+          The risk levels are calculated using a logarithmic scale based on the total disallowance amounts.
+          This approach helps normalize the wide range of values and provides a meaningful comparison between provinces.
+        </p>
+
+        <div class="formula-box">
+          <strong>Scoring Formula:</strong>
+          <div class="formula">
+            score = min(100, (log₁₀(totalDisallowances + 1) - 6) × 20)
+          </div>
+        </div>
+
+        <div class="risk-levels">
+          <div class="risk-level">
+            <div class="risk-color" style="background: #7f0000;"></div>
+            <div class="risk-info">
+              <div class="risk-name">Critical</div>
+              <div class="risk-range">Score: 80-100 | Disallowances typically > ₱1 billion</div>
+            </div>
+          </div>
+
+          <div class="risk-level">
+            <div class="risk-color" style="background: #c62828;"></div>
+            <div class="risk-info">
+              <div class="risk-name">High</div>
+              <div class="risk-range">Score: 60-79 | Disallowances: ₱100M - ₱1B</div>
+            </div>
+          </div>
+
+          <div class="risk-level">
+            <div class="risk-color" style="background: #ef6c00;"></div>
+            <div class="risk-info">
+              <div class="risk-name">Moderate</div>
+              <div class="risk-range">Score: 40-59 | Disallowances: ₱10M - ₱100M</div>
+            </div>
+          </div>
+
+          <div class="risk-level">
+            <div class="risk-color" style="background: #fdd835;"></div>
+            <div class="risk-info">
+              <div class="risk-name">Low</div>
+              <div class="risk-range">Score: 20-39 | Disallowances: ₱1M - ₱10M</div>
+            </div>
+          </div>
+
+          <div class="risk-level">
+            <div class="risk-color" style="background: #66bb6a;"></div>
+            <div class="risk-info">
+              <div class="risk-name">Minimal</div>
+              <div class="risk-range">Score: 1-19 | Disallowances: < ₱1M</div>
+            </div>
+          </div>
+
+          <div class="risk-level">
+            <div class="risk-color" style="background: #e0e0e0;"></div>
+            <div class="risk-info">
+              <div class="risk-name">No Data</div>
+              <div class="risk-range">No disallowances recorded or data unavailable</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="section">
+        <h2>Data Overview</h2>
+        <div class="stats-grid">
+          <div class="stat-card">
+            <div class="stat-value">79</div>
+            <div class="stat-label">Provinces with Data</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-value">₱78.3B</div>
+            <div class="stat-label">Total Disallowances</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-value">2016-2022</div>
+            <div class="stat-label">Data Coverage</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-value">1,751</div>
+            <div class="stat-label">LGUs Tracked</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="section">
+        <h2>Data Source & Methodology</h2>
+        <p>
+          All data is sourced from official Commission on Audit (COA) Annual Audit Reports covering the period 2016-2022.
+          The dataset includes:
+        </p>
+        <ul>
+          <li>Province-level aggregated disallowances</li>
+          <li>Individual LGU (Local Government Unit) disallowance records</li>
+          <li>Notice of Disallowance (ND) ending balances</li>
+          <li>Year-by-year tracking of audit findings</li>
+        </ul>
+
+        <div class="note">
+          <strong>Note:</strong> Some provinces may show no data due to either having zero disallowances
+          during the period or incomplete data availability in the source reports. The ARMM/BARMM special
+          administrative region can be highlighted separately using the toggle option.
+        </div>
+      </div>
+
+      <div class="section">
+        <h2>Special Features</h2>
+        <ul>
+          <li><strong>Interactive Visualization:</strong> Hover over provinces to see detailed information</li>
+          <li><strong>Risk-Based Coloring:</strong> Quick visual identification of high-risk areas</li>
+          <li><strong>ARMM/BARMM Overlay:</strong> Special highlighting for autonomous regions</li>
+          <li><strong>Comprehensive Coverage:</strong> Data from 87 provinces and 1,751 LGUs</li>
+        </ul>
+      </div>
+
+      <div class="section">
+        <h2>Understanding the Colors</h2>
+        <p>
+          The color intensity on the map directly correlates with the severity of disallowances:
+        </p>
+        <ul>
+          <li><strong>Dark Red:</strong> Provinces with the highest disallowances (often major urban centers)</li>
+          <li><strong>Red to Orange:</strong> Significant disallowances requiring attention</li>
+          <li><strong>Yellow to Green:</strong> Lower levels of disallowances</li>
+          <li><strong>Gray:</strong> No data available or zero disallowances recorded</li>
+        </ul>
+      </div>
+
+      <a href="index.html" class="back-link">← Back to Map</a>
+    </div>
+  </div>
+</body>
+</html>
