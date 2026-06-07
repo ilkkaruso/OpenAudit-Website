@@ -12,15 +12,18 @@ const state = {
   currentYear: 'all',
   currentDataset: 'audit',
   currentView: 'provinces',
+  showRegions: false,
 
   // Leaflet objects
   map: null,
   provinceLayer: null,
   lguLayer: null,
+  regionLayer: null,
 
   // Data caches
   provinceScores: {},
   lguScores: {},
+  regionData: null,
   provinceGeoJson: null,
   lguGeoJson: null,
 
@@ -141,6 +144,22 @@ async function loadGeoJson(type) {
   } catch (err) {
     console.error(`Failed to load ${type} GeoJSON:`, err);
     return null;
+  }
+}
+
+async function loadRegionData() {
+  if (state.regionData) {
+    return state.regionData;
+  }
+
+  try {
+    const response = await fetch('data/regions-mapping.json');
+    const data = await response.json();
+    state.regionData = data.regions;
+    return state.regionData;
+  } catch (err) {
+    console.error('Failed to load region data:', err);
+    return {};
   }
 }
 
@@ -281,6 +300,34 @@ function createInfoControl() {
     }
   };
 
+  // Add region update function
+  info.updateRegion = function(props) {
+    const regionName = props.regionName || 'Unknown Region';
+    const score = props.regionScore || null;
+    const level = props.regionRiskLevel || 'no_data';
+    const disallowances = props.regionDisallowances || 0;
+    const lgus = props.regionLgus || 0;
+
+    const formattedTotal = disallowances ? `₱${disallowances.toLocaleString('en-PH', {minimumFractionDigits: 2, maximumFractionDigits: 2})}` : '—';
+
+    this._div.innerHTML = `
+      <h4 style="color: #8b008b;">🏛️ ${regionName}</h4>
+      <div class="info-score ${level}">
+        <span class="score-value">${score !== null ? Math.round(score) : '—'}</span>
+        <span class="score-label">/ 100</span>
+      </div>
+      <div class="info-risk ${level}">Regional Risk: ${level.charAt(0).toUpperCase() + level.slice(1)}</div>
+      <div class="info-details">
+        <div><strong>Total Disallowances:</strong><br/>${formattedTotal}</div>
+        <div><strong>Total LGUs:</strong> ${lgus}</div>
+        <div><strong>Province:</strong> ${props.name || props.NAME || ''}</div>
+        <div style="margin-top: 10px; font-size: 0.9em; color: #666;">
+          <em>Special Administrative Region</em>
+        </div>
+      </div>
+    `;
+  };
+
   return info;
 }
 
@@ -416,6 +463,100 @@ async function renderLgus() {
   }
 }
 
+async function renderRegions() {
+  // Load region data
+  const regionData = await loadRegionData();
+
+  if (!state.provinceGeoJson) {
+    state.provinceGeoJson = await loadGeoJson('provinces');
+  }
+
+  if (!state.provinceGeoJson) {
+    console.error('Failed to load province GeoJSON for regions');
+    return;
+  }
+
+  // Remove existing region layer
+  if (state.regionLayer) {
+    state.map.removeLayer(state.regionLayer);
+    state.regionLayer = null;
+  }
+
+  if (!state.showRegions) {
+    return;
+  }
+
+  // Create region overlay by filtering provinces
+  const regionFeatures = [];
+
+  for (const [regionPsgc, region] of Object.entries(regionData)) {
+    // Find all provinces that belong to this region
+    const regionProvinces = state.provinceGeoJson.features.filter(feature => {
+      const psgc = getPsgc(feature);
+      return region.provincePsgcs.includes(psgc);
+    });
+
+    if (regionProvinces.length > 0) {
+      // Create a merged feature for the region
+      regionProvinces.forEach(province => {
+        const feature = {
+          ...province,
+          properties: {
+            ...province.properties,
+            regionName: region.name,
+            regionPsgc: regionPsgc,
+            regionScore: region.score,
+            regionRiskLevel: region.riskLevel,
+            regionDisallowances: region.totalDisallowances,
+            regionLgus: region.totalLgus,
+            isRegion: true
+          }
+        };
+        regionFeatures.push(feature);
+      });
+    }
+  }
+
+  if (regionFeatures.length > 0) {
+    state.regionLayer = L.geoJSON({
+      type: 'FeatureCollection',
+      features: regionFeatures
+    }, {
+      style: (feature) => ({
+        fillColor: getRiskColor(feature.properties.regionScore),
+        weight: 3,
+        opacity: 1,
+        color: '#8b008b', // Purple border for regions
+        fillOpacity: 0.6,
+        dashArray: '5, 5'
+      }),
+      onEachFeature: (feature, layer) => {
+        layer.on({
+          mouseover: (e) => {
+            const props = e.target.feature.properties;
+            e.target.setStyle({
+              weight: 4,
+              color: '#4b0082',
+              fillOpacity: 0.8
+            });
+            e.target.bringToFront();
+
+            // Update info panel with region data
+            state.info.updateRegion(props);
+          },
+          mouseout: (e) => {
+            state.regionLayer.resetStyle(e.target);
+            state.info.update();
+          }
+        });
+      }
+    }).addTo(state.map);
+
+    // Bring region layer to front
+    state.regionLayer.bringToFront();
+  }
+}
+
 // ============================================
 // UPDATE HANDLERS
 // ============================================
@@ -430,6 +571,9 @@ async function updateMap() {
   } else {
     await renderLgus();
   }
+
+  // Render regions overlay if enabled
+  await renderRegions();
 }
 
 async function updateYear(year) {
@@ -444,6 +588,9 @@ async function updateYear(year) {
   } else {
     await renderLgus();
   }
+
+  // Render regions overlay if enabled
+  await renderRegions();
 }
 
 // ============================================
@@ -481,6 +628,7 @@ function setupControls() {
       viewLgus.classList.remove('active');
       state.map.fitBounds(PH_BOUNDS);
       await renderProvinces();
+      await renderRegions(); // Re-render regions overlay
     });
 
     viewLgus.addEventListener('click', async () => {
@@ -489,6 +637,16 @@ function setupControls() {
       viewLgus.classList.add('active');
       viewProvinces.classList.remove('active');
       await renderLgus();
+      await renderRegions(); // Re-render regions overlay
+    });
+  }
+
+  // Region toggle checkbox
+  const toggleRegions = document.getElementById('toggle-regions');
+  if (toggleRegions) {
+    toggleRegions.addEventListener('change', async (e) => {
+      state.showRegions = e.target.checked;
+      await renderRegions();
     });
   }
 }
