@@ -251,12 +251,19 @@
   <div class="container">
     <div class="hero-section">
       <h1>OpenAudit Philippines</h1>
-      <div class="subtitle">Transparency Through Data: Making Public Accountability Accessible</div>
+      <div class="subtitle">Strengthening Governance Through AI-Processed Audit Data</div>
       <p class="lead">
-        OpenAudit transforms complex Commission on Audit (COA) reports into an intuitive, interactive platform
-        that reveals patterns of fiscal management across all Philippine Local Government Units. By calculating
-        disallowance ratios—the percentage of questioned expenditures relative to total operating income—we
-        provide citizens with a clear, comparable metric for understanding how public funds are managed.
+        OpenAudit is an academe-civil society initiative that transforms the Philippines' extensive collection of
+        Commission on Audit (COA) reports—over 30,000 documents since 1998—into searchable, analyzable evidence
+        for governance research and accountability advocacy. By processing these previously inaccessible audit
+        reports using advanced computational methods, we reveal patterns of fiscal management across all
+        Philippine Local Government Units through normalized disallowance ratios.
+      </p>
+      <p class="lead">
+        This platform calculates disallowance ratios—the percentage of questioned expenditures relative to
+        total operating income—providing citizens, researchers, journalists, and policymakers with a clear,
+        comparable metric for understanding how public funds are managed across LGUs of vastly different
+        sizes and budgets.
       </p>
     </div>
 
@@ -282,17 +289,36 @@
 
       <h3>Data Sources and Methodology</h3>
       <p>
-        We combine two authoritative datasets:
+        We combine two authoritative government datasets:
       </p>
       <ul>
-        <li><strong>COA Annual Audit Reports (2016-2022):</strong> Comprehensive disallowance records for all LGUs</li>
-        <li><strong>Department of Finance Statement of Receipts and Expenditures:</strong> Total Current Operating Income data for each LGU</li>
+        <li><strong>COA Annual Audit Reports (2016-2022):</strong> Comprehensive disallowance records documenting irregular, unnecessary, excessive, or extravagant expenditures across all LGUs</li>
+        <li><strong>Department of Finance Statement of Receipts and Expenditures (SRE):</strong> Official financial statements reporting Total Current Operating Income for each LGU</li>
       </ul>
 
+      <div class="metric-box">
+        <strong>Total Current Operating Income Definition:</strong>
+        <p style="margin-top: 0.5rem;">
+          As defined in the SRE reports, Total Current Operating Income represents the sum of all revenues
+          available to an LGU for its operations during a fiscal year. This includes:
+        </p>
+        <ul style="margin: 0.5rem 0 0.5rem 1.5rem; font-size: 0.95rem;">
+          <li>Tax revenues (real property tax, business taxes)</li>
+          <li>Non-tax revenues (regulatory fees, service income)</li>
+          <li>Internal Revenue Allotment (IRA) from national government</li>
+          <li>Other shares from national tax collections</li>
+          <li>Grants and donations</li>
+        </ul>
+        <p style="font-size: 0.95rem;">
+          This comprehensive income measure provides the most accurate denominator for calculating
+          disallowance ratios, as it represents the full fiscal capacity of each LGU.
+        </p>
+      </div>
+
       <p>
-        For each LGU, we calculate the average operating income across available years and compare it against
-        total disallowances for the same period. This approach accounts for year-to-year variations and provides
-        a stable baseline for comparison.
+        For each LGU, we calculate the average operating income across available years (2016-2022) and compare it against
+        total disallowances for the same period. This multi-year approach accounts for annual variations and provides
+        a stable baseline for comparison across LGUs of vastly different sizes and fiscal capacities.
       </p>
 
       <div class="highlight-box">
@@ -468,6 +494,49 @@
       <p>
         Despite these limitations, the disallowance ratio provides a valuable starting point for understanding
         fiscal management patterns and identifying areas that warrant closer examination.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>Research Initiative and Impact</h2>
+
+      <p>
+        OpenAudit builds on a foundation of academic research that recently earned the <strong>MIT Open Data Prize</strong>
+        in recognition of its contribution to making public sector information usable for research and government
+        accountability. This initiative represents a collaboration between academic institutions and civil society
+        organizations working to strengthen fiscal transparency and accountability in the Philippines.
+      </p>
+
+      <h3>Transforming Audit Reports into Evidence</h3>
+      <p>
+        The Commission on Audit has published over 30,000 annual audit reports since 1998—possibly the longest
+        and most comprehensive series of audit reports in the developing world. Despite their immense value for
+        understanding governance, corruption, and state capacity, these reports have remained largely inaccessible
+        to researchers and citizens due to their unstructured, text-heavy format.
+      </p>
+      <p>
+        OpenAudit addresses this gap by using advanced natural language processing and computational methods to
+        extract, structure, and aggregate data from these reports. The disallowance ratio metric we present here
+        represents just one dimension of this broader effort to transform audit documents into actionable evidence
+        for improving governance.
+      </p>
+
+      <h3>Beyond Individual Metrics</h3>
+      <p>
+        While this visualization focuses on disallowance ratios, the broader OpenAudit initiative aims to capture
+        multiple dimensions of fiscal governance, including:
+      </p>
+      <ul>
+        <li>Patterns of agency-level compliance with audit recommendations</li>
+        <li>Reform behaviors and institutional responses to audit findings</li>
+        <li>Indicators of fiscal capacity and management quality</li>
+        <li>Temporal trends in public financial management across different levels of government</li>
+      </ul>
+
+      <p>
+        By making this data accessible and analyzable, OpenAudit enables a new generation of research on
+        corruption, accountability, and state capacity, while supporting reformers and advocates in translating
+        this research into actionable initiatives for improving governance.
       </p>
     </div>
 
