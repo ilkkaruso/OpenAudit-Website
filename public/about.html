@@ -4,227 +4,488 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>About - OpenAudit Philippines</title>
-  <meta name="description" content="About OpenAudit Philippines - transforming public audit reports into accessible governance data.">
-  <link rel="stylesheet" href="css/about.css">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      background: #f5f5f5;
+      min-height: 100vh;
+    }
+
+    .nav-header {
+      background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+      padding: 1.5rem 2rem;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+
+    .nav-header a {
+      color: white;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1.1rem;
+      opacity: 0.9;
+      transition: opacity 0.3s;
+    }
+
+    .nav-header a:hover {
+      opacity: 1;
+    }
+
+    .container {
+      max-width: 1000px;
+      margin: 3rem auto;
+      padding: 0 2rem;
+    }
+
+    .hero-section {
+      background: white;
+      border-radius: 12px;
+      padding: 3rem;
+      box-shadow: 0 2px 20px rgba(0,0,0,0.08);
+      margin-bottom: 2rem;
+    }
+
+    .hero-section h1 {
+      color: #2c3e50;
+      font-size: 3rem;
+      margin-bottom: 1rem;
+      font-weight: 700;
+    }
+
+    .subtitle {
+      color: #dc143c;
+      font-size: 1.5rem;
+      font-weight: 600;
+      margin-bottom: 1.5rem;
+    }
+
+    .lead {
+      color: #555;
+      font-size: 1.2rem;
+      line-height: 1.8;
+      margin-bottom: 2rem;
+    }
+
+    .card {
+      background: white;
+      border-radius: 12px;
+      padding: 2.5rem;
+      box-shadow: 0 2px 20px rgba(0,0,0,0.08);
+      margin-bottom: 2rem;
+    }
+
+    .card h2 {
+      color: #2c3e50;
+      font-size: 2rem;
+      margin-bottom: 1.5rem;
+      padding-bottom: 0.75rem;
+      border-bottom: 3px solid #dc143c;
+    }
+
+    .card h3 {
+      color: #34495e;
+      font-size: 1.4rem;
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+    }
+
+    .card p {
+      color: #555;
+      font-size: 1.1rem;
+      line-height: 1.8;
+      margin-bottom: 1rem;
+    }
+
+    .card ul {
+      margin: 1rem 0 1rem 2rem;
+    }
+
+    .card li {
+      color: #555;
+      font-size: 1.1rem;
+      line-height: 1.8;
+      margin-bottom: 0.5rem;
+    }
+
+    .metric-box {
+      background: #f8f9fa;
+      border-left: 4px solid #dc143c;
+      padding: 1.5rem;
+      margin: 1.5rem 0;
+      border-radius: 8px;
+    }
+
+    .formula {
+      font-family: 'Courier New', monospace;
+      background: white;
+      padding: 1rem;
+      border-radius: 4px;
+      margin-top: 0.5rem;
+      font-size: 1.1rem;
+      color: #2c3e50;
+      text-align: center;
+      border: 1px solid #e0e0e0;
+    }
+
+    .ratio-levels {
+      background: #f8f9fa;
+      border-radius: 12px;
+      padding: 1.5rem;
+      margin: 1.5rem 0;
+    }
+
+    .ratio-level {
+      display: flex;
+      align-items: center;
+      margin-bottom: 1rem;
+      padding: 0.75rem;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    .ratio-color {
+      width: 40px;
+      height: 40px;
+      border-radius: 8px;
+      margin-right: 1.5rem;
+      border: 2px solid rgba(0,0,0,0.1);
+    }
+
+    .ratio-info {
+      flex: 1;
+    }
+
+    .ratio-name {
+      font-weight: 600;
+      color: #2c3e50;
+      font-size: 1.1rem;
+      margin-bottom: 0.25rem;
+    }
+
+    .ratio-range {
+      color: #666;
+      font-size: 0.95rem;
+    }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1.5rem;
+      margin-top: 2rem;
+    }
+
+    .stat-card {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      padding: 1.5rem;
+      border-radius: 12px;
+      text-align: center;
+      color: white;
+    }
+
+    .stat-number {
+      font-size: 2.5rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+    }
+
+    .stat-label {
+      font-size: 1rem;
+      opacity: 0.95;
+    }
+
+    .highlight-box {
+      background: #fff3cd;
+      border-left: 4px solid #ffc107;
+      padding: 1.5rem;
+      margin: 2rem 0;
+      border-radius: 8px;
+    }
+
+    .highlight-box strong {
+      color: #856404;
+    }
+
+    .footer {
+      background: white;
+      border-radius: 12px;
+      padding: 2rem;
+      box-shadow: 0 2px 20px rgba(0,0,0,0.08);
+      text-align: center;
+      margin-top: 3rem;
+    }
+
+    .footer p {
+      color: #666;
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+
+    .btn-primary {
+      display: inline-block;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 0.75rem 2rem;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 600;
+      margin-top: 1rem;
+      transition: transform 0.3s;
+    }
+
+    .btn-primary:hover {
+      transform: translateY(-2px);
+    }
+  </style>
 </head>
 <body>
-  <header>
-    <nav>
-      <a href="audit.html" class="nav-link">Map</a>
-      <a href="about.html" class="nav-link active">About</a>
-      <a href="data.html" class="nav-link">Data</a>
-      <a href="settings.html" class="nav-link">Settings</a>
-      <a href="#" class="nav-link logout-link" onclick="logout()">Logout</a>
-    </nav>
-    <h1>OpenAudit Philippines</h1>
-    <p>Making Governance Data Accessible</p>
-  </header>
+  <nav class="nav-header">
+    <a href="index.html">← Back to Map</a>
+  </nav>
 
-  <main>
-    <section class="section" id="overview">
-      <h2>About This Project</h2>
-      <p>
-        OpenAudit Philippines is part of a broader initiative that uses natural language processing
-        and machine learning to transform public audit reports into structured, research-ready datasets.
-        The project aims to make governance data more accessible to academics, researchers, journalists,
-        and accountability advocates.
+  <div class="container">
+    <div class="hero-section">
+      <h1>OpenAudit Philippines</h1>
+      <div class="subtitle">Transparency Through Data: Making Public Accountability Accessible</div>
+      <p class="lead">
+        OpenAudit transforms complex Commission on Audit (COA) reports into an intuitive, interactive platform
+        that reveals patterns of fiscal management across all Philippine Local Government Units. By calculating
+        disallowance ratios—the percentage of questioned expenditures relative to total operating income—we
+        provide citizens with a clear, comparable metric for understanding how public funds are managed.
       </p>
+    </div>
+
+    <div class="card">
+      <h2>The Disallowance Ratio: A Normalized Metric</h2>
+
       <p>
-        Publicly-available audit reports from government institutions represent an underutilized resource.
-        These documents contain detailed financial and operational data about government decisions,
-        yet remain largely inaccessible to researchers and the public due to their format and volume.
+        Raw disallowance amounts fail to capture the true scale of fiscal irregularities. A ₱10 million
+        disallowance represents vastly different levels of concern for a small municipality versus a highly
+        urbanized city. Our solution normalizes these values to enable meaningful comparisons.
       </p>
+
+      <div class="metric-box">
+        <strong>The Calculation:</strong>
+        <div class="formula">
+          Disallowance Ratio = (Total Disallowances ÷ Total Operating Income) × 100
+        </div>
+        <p style="margin-top: 1rem; font-size: 0.95rem;">
+          This ratio expresses disallowances as a percentage of an LGU's total operating income,
+          revealing the proportion of public resources subject to audit exceptions.
+        </p>
+      </div>
+
+      <h3>Data Sources and Methodology</h3>
       <p>
-        This visualization focuses on Commission on Audit (COA) reports from the Philippines spanning
-        2016-2022, extracting insights about transparency, accountability, and compliance with audit
-        recommendations—metrics not captured by standard governance indicators like the Corruption
-        Perception Index or World Governance Indicators.
+        We combine two authoritative datasets:
       </p>
+      <ul>
+        <li><strong>COA Annual Audit Reports (2016-2022):</strong> Comprehensive disallowance records for all LGUs</li>
+        <li><strong>Department of Finance Statement of Receipts and Expenditures:</strong> Total Current Operating Income data for each LGU</li>
+      </ul>
+
+      <p>
+        For each LGU, we calculate the average operating income across available years and compare it against
+        total disallowances for the same period. This approach accounts for year-to-year variations and provides
+        a stable baseline for comparison.
+      </p>
+
+      <div class="highlight-box">
+        <strong>Complete Coverage:</strong> Our enhanced dataset now includes Total Operating Income for
+        1,176 municipalities and cities, enabling true ratio calculations for 822 LGUs with recorded
+        disallowances—a significant improvement from previous estimates.
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Understanding the Heat Map</h2>
+
+      <p>
+        The color gradient from light yellow to dark red immediately reveals which areas have concerning
+        levels of disallowances relative to their fiscal capacity. This visual approach transforms thousands
+        of audit reports into actionable intelligence.
+      </p>
+
+      <div class="ratio-levels">
+        <div class="ratio-level">
+          <div class="ratio-color" style="background: #67000d;"></div>
+          <div class="ratio-info">
+            <div class="ratio-name">Critical</div>
+            <div class="ratio-range">≥ 5% of operating income</div>
+          </div>
+        </div>
+        <div class="ratio-level">
+          <div class="ratio-color" style="background: #a50f15;"></div>
+          <div class="ratio-info">
+            <div class="ratio-name">Very High</div>
+            <div class="ratio-range">2-5% of operating income</div>
+          </div>
+        </div>
+        <div class="ratio-level">
+          <div class="ratio-color" style="background: #cb181d;"></div>
+          <div class="ratio-info">
+            <div class="ratio-name">High</div>
+            <div class="ratio-range">1-2% of operating income</div>
+          </div>
+        </div>
+        <div class="ratio-level">
+          <div class="ratio-color" style="background: #ef3b2c;"></div>
+          <div class="ratio-info">
+            <div class="ratio-name">Elevated</div>
+            <div class="ratio-range">0.5-1% of operating income</div>
+          </div>
+        </div>
+        <div class="ratio-level">
+          <div class="ratio-color" style="background: #fb6a4a;"></div>
+          <div class="ratio-info">
+            <div class="ratio-name">Moderate</div>
+            <div class="ratio-range">0.1-0.5% of operating income</div>
+          </div>
+        </div>
+        <div class="ratio-level">
+          <div class="ratio-color" style="background: #fc9272;"></div>
+          <div class="ratio-info">
+            <div class="ratio-name">Low</div>
+            <div class="ratio-range">< 0.1% of operating income</div>
+          </div>
+        </div>
+        <div class="ratio-level">
+          <div class="ratio-color" style="background: #d3d3d3;"></div>
+          <div class="ratio-info">
+            <div class="ratio-name">Clean/No Data</div>
+            <div class="ratio-range">No disallowances or data unavailable</div>
+          </div>
+        </div>
+      </div>
+
+      <p>
+        Each category represents a different level of fiscal concern. LGUs with ratios above 2% warrant
+        particular attention, as this suggests systemic issues with financial management or compliance.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>Transparency and Accountability</h2>
+
+      <h3>What Disallowances Reveal</h3>
+      <p>
+        Disallowances occur when government expenditures violate laws, rules, or regulations. Patterns of
+        high disallowance ratios often indicate:
+      </p>
+      <ul>
+        <li>Weak internal controls and inadequate financial management systems</li>
+        <li>Non-compliance with procurement laws and government accounting standards</li>
+        <li>Irregular, unnecessary, excessive, or extravagant expenditures</li>
+        <li>Transactions lacking proper documentation or authorization</li>
+        <li>Potential corruption or misuse of public funds</li>
+      </ul>
+
+      <h3>Empowering Citizens Through Data</h3>
+      <p>
+        OpenAudit democratizes access to public financial data by:
+      </p>
+      <ul>
+        <li><strong>Simplifying Complexity:</strong> Converting technical audit reports into visual, intuitive metrics</li>
+        <li><strong>Enabling Comparisons:</strong> Normalizing data across LGUs of different sizes and budgets</li>
+        <li><strong>Tracking Progress:</strong> Showing changes over multiple years (2016-2022)</li>
+        <li><strong>Promoting Accountability:</strong> Making fiscal performance transparent and accessible</li>
+        <li><strong>Supporting Research:</strong> Providing data for journalists, academics, and civil society</li>
+      </ul>
+
+      <div class="highlight-box">
+        <strong>Informed Citizenship:</strong> By making this data accessible, we enable citizens to ask
+        informed questions about public spending, hold officials accountable for fiscal management, and
+        make evidence-based decisions during elections.
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Coverage and Impact</h2>
 
       <div class="stats-grid">
         <div class="stat-card">
-          <div class="stat-number">1,618</div>
-          <div class="stat-label">Municipalities Mapped</div>
+          <div class="stat-number">87</div>
+          <div class="stat-label">Provinces Mapped</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-number">1,700+</div>
+          <div class="stat-label">Cities & Municipalities</div>
         </div>
         <div class="stat-card">
           <div class="stat-number">7</div>
           <div class="stat-label">Years of Data (2016-2022)</div>
         </div>
-        <div class="stat-card">
-          <div class="stat-number">86</div>
-          <div class="stat-label">Provinces</div>
-        </div>
-      </div>
-    </section>
-
-    <section class="section" id="data-source">
-      <h2>Data Source</h2>
-      <h3>Commission on Audit (COA) Annual Audit Reports</h3>
-      <p>
-        The Commission on Audit is the supreme audit institution of the Philippines,
-        mandated by the 1987 Constitution to examine and audit all government agencies,
-        including local government units. Each year, COA releases Annual Audit Reports (AARs)
-        for every municipality containing:
-      </p>
-      <ul>
-        <li><strong>Audit observations</strong> - Issues identified during the audit</li>
-        <li><strong>Recommendations</strong> - Specific actions the municipality should take</li>
-        <li><strong>Management actions</strong> - The municipality's response or actions taken</li>
-        <li><strong>Status of prior year's recommendations</strong> - Whether previous recommendations were implemented</li>
-      </ul>
-
-      <h3>Data Extraction</h3>
-      <p>
-        Audit observations were extracted from COA AARs using a combination of PDF parsing
-        and natural language processing. The implementation status of each recommendation
-        was classified as:
-      </p>
-
-      <table class="data-table">
-        <thead>
-          <tr>
-            <th>Status</th>
-            <th>Description</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><span class="status-badge implemented">IMPLEMENTED</span></td>
-            <td>Recommendation was fully addressed by the municipality</td>
-          </tr>
-          <tr>
-            <td><span class="status-badge partial">PARTIALLY IMPLEMENTED</span></td>
-            <td>Some action taken but recommendation not fully addressed</td>
-          </tr>
-          <tr>
-            <td><span class="status-badge not-implemented">NOT IMPLEMENTED</span></td>
-            <td>No meaningful action taken on the recommendation</td>
-          </tr>
-          <tr>
-            <td><span class="status-badge unknown">UNKNOWN</span></td>
-            <td>Status could not be determined from available data</td>
-          </tr>
-        </tbody>
-      </table>
-
-      <p class="note">
-        <strong>Note:</strong> Observations with UNKNOWN status are excluded from compliance
-        calculations. Only observations with a determinable implementation status contribute
-        to a municipality's compliance score.
-      </p>
-    </section>
-
-    <section class="section" id="scoring">
-      <h2>Compliance Scoring</h2>
-      <p>
-        Each municipality receives a <strong>Compliance Score</strong> based on the percentage
-        of audit recommendations that were implemented. The score reflects the rate of
-        non-implementation, where:
-      </p>
-      <ul>
-        <li><strong>Lower scores (0-20)</strong> = Very High Compliance - most recommendations implemented</li>
-        <li><strong>Higher scores (80-100)</strong> = Very Low Compliance - most recommendations not implemented</li>
-      </ul>
-
-      <div class="formula-box">
-        <div class="formula">
-          Score = (Not Implemented + 0.5 × Partially Implemented) / Total Known × 100
-        </div>
       </div>
 
-      <p>
-        Partially implemented recommendations are weighted at 50% to reflect partial progress
-        toward compliance.
-      </p>
-    </section>
-
-    <section class="section" id="compliance-levels">
-      <h2>Compliance Level Classification</h2>
-      <p>
-        Based on the compliance score (0-100), municipalities are classified into five levels:
+      <p style="margin-top: 2rem;">
+        Our comprehensive dataset represents the most complete public accountability platform for the
+        Philippines, covering virtually all LGUs with available audit data. The platform updates as new
+        COA reports are released, ensuring citizens have access to the latest information.
       </p>
 
-      <div class="risk-scale">
-        <div class="risk-level minimal">
-          <div class="risk-range">0-20</div>
-          <div class="risk-name">Very High Compliance</div>
-          <div class="risk-desc">Strong compliance record; consistently implements audit recommendations</div>
-        </div>
-        <div class="risk-level low">
-          <div class="risk-range">20-40</div>
-          <div class="risk-name">High Compliance</div>
-          <div class="risk-desc">Generally responsive to audit recommendations with minor gaps</div>
-        </div>
-        <div class="risk-level moderate">
-          <div class="risk-range">40-60</div>
-          <div class="risk-name">Moderate Compliance</div>
-          <div class="risk-desc">Notable compliance gaps; improvement needed</div>
-        </div>
-        <div class="risk-level high">
-          <div class="risk-range">60-80</div>
-          <div class="risk-name">Low Compliance</div>
-          <div class="risk-desc">Significant compliance problems requiring attention</div>
-        </div>
-        <div class="risk-level critical">
-          <div class="risk-range">80-100</div>
-          <div class="risk-name">Very Low Compliance</div>
-          <div class="risk-desc">Systemic failures in implementing audit recommendations</div>
-        </div>
-      </div>
-    </section>
-
-    <section class="section" id="limitations">
-      <h2>Limitations & Caveats</h2>
-      <ul class="limitations-list">
-        <li>
-          <strong>Data extraction accuracy:</strong> Automated extraction from PDF documents
-          may introduce errors. Some status classifications may be incorrect.
-        </li>
-        <li>
-          <strong>Unknown status observations:</strong> Observations with unknown status are
-          excluded from calculations. Their exclusion may affect results if the unknown status
-          is systematically related to non-compliance.
-        </li>
-        <li>
-          <strong>Not a direct measure of corruption:</strong> Non-implementation of audit
-          recommendations does not necessarily indicate corruption. It may reflect capacity
-          constraints, resource limitations, or disagreement with recommendations.
-        </li>
-        <li>
-          <strong>Coverage gaps:</strong> Some municipalities may be missing or have incomplete
-          data across all years due to PDF extraction failures or PSGC matching issues.
-        </li>
-        <li>
-          <strong>Equal weighting:</strong> All recommendations are weighted equally. A minor
-          procedural recommendation and a major financial control recommendation contribute
-          the same to the score.
-        </li>
-      </ul>
-    </section>
-
-    <section class="section" id="open-source">
-      <h2>Open Source</h2>
+      <h3>Beyond Individual LGUs</h3>
       <p>
-        OpenAudit is an open-source initiative. The project code, data extraction scripts,
-        and processed datasets are available for researchers and developers:
+        The aggregated data reveals broader patterns that merit investigation:
       </p>
       <ul>
-        <li><a href="https://github.com/jerikdcruz/OpenAudit" target="_blank">OpenAudit - Main Project Repository</a></li>
-        <li><a href="https://github.com/ilkkaruso/OpenAudit-Website" target="_blank">OpenAudit Website - This Visualization</a></li>
+        <li>Regional variations in fiscal management practices</li>
+        <li>Correlation between disallowance ratios and development indicators</li>
+        <li>Temporal trends showing improvement or deterioration</li>
+        <li>Clustering of high-ratio areas that may indicate systemic issues</li>
       </ul>
+    </div>
+
+    <div class="card">
+      <h2>Technical Implementation</h2>
+
+      <h3>Open Source and Transparent</h3>
       <p>
-        For questions, corrections, or contributions, please open an issue on GitHub or
-        submit a pull request.
+        OpenAudit is built on principles of transparency and reproducibility:
       </p>
-    </section>
-  </main>
+      <ul>
+        <li><strong>Data Processing:</strong> Python scripts normalize and match COA disallowances with DOF income data</li>
+        <li><strong>Visualization:</strong> Interactive Leaflet.js maps with GeoJSON boundaries for all LGUs</li>
+        <li><strong>Real-time Calculation:</strong> Ratios computed dynamically, showing both numerator and denominator</li>
+        <li><strong>Open Access:</strong> All code and processed datasets available for verification and reuse</li>
+      </ul>
 
-  <footer>
-    <p>Data Source: Commission on Audit (COA) Annual Audit Reports 2016-2022</p>
-    <p>OpenAudit Philippines is an open-source transparency initiative.</p>
-  </footer>
+      <h3>Data Quality and Limitations</h3>
+      <p>
+        We acknowledge several limitations in the current dataset:
+      </p>
+      <ul>
+        <li>Some LGUs lack complete data across all years</li>
+        <li>Matching between different government databases can be imperfect due to naming inconsistencies</li>
+        <li>Disallowances may be subsequently cleared or appealed, which is not reflected in annual totals</li>
+        <li>The ratio alone doesn't distinguish between technical violations and serious irregularities</li>
+      </ul>
 
-  <script src="js/auth.js"></script>
-  <script>checkAuth();</script>
+      <p>
+        Despite these limitations, the disallowance ratio provides a valuable starting point for understanding
+        fiscal management patterns and identifying areas that warrant closer examination.
+      </p>
+    </div>
+
+    <div class="footer">
+      <p>
+        <strong>OpenAudit Philippines</strong> is an independent civic technology initiative dedicated to
+        making government financial data accessible and actionable for all Filipinos.
+      </p>
+      <p style="margin-top: 1rem;">
+        Data Sources: Commission on Audit Annual Audit Reports (2016-2022) |
+        Department of Finance Statement of Receipts and Expenditures (2016-2022)
+      </p>
+      <p style="margin-top: 1rem; font-size: 0.9rem; color: #888;">
+        This platform presents publicly available government data for transparency and accountability purposes.
+        Users should verify information independently for critical decisions.
+      </p>
+      <a href="index.html" class="btn-primary">Explore the Map</a>
+    </div>
+  </div>
 </body>
 </html>
