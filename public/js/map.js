@@ -30,7 +30,10 @@ const state = {
   lguGeoJson: null,
 
   // Info control
-  info: null
+  info: null,
+
+  // Selected feature
+  selectedLayer: null
 };
 
 // Philippines bounds
@@ -42,12 +45,30 @@ const PH_CENTER = [12.5, 122];
 // ============================================
 
 function getRiskColor(score) {
+  // For disallowances dataset, use ratio-based coloring
+  if (state.currentDataset === 'disallowances') {
+    return getDisallowanceColor(score);
+  }
+
+  // Original scoring for audit dataset
   if (score === null || score === undefined) return '#e0e0e0';
   if (score >= 80) return '#7f0000';
   if (score >= 60) return '#c62828';
   if (score >= 40) return '#ef6c00';
   if (score >= 20) return '#fdd835';
   return '#66bb6a';
+}
+
+function getDisallowanceColor(ratio) {
+  // More visible colors for light background
+  if (ratio === null || ratio === undefined) return '#d3d3d3';  // No data - light gray
+  if (ratio >= 5.0) return '#67000d';   // Very dark red - very high ratio
+  if (ratio >= 2.0) return '#a50f15';   // Dark red - high ratio
+  if (ratio >= 1.0) return '#cb181d';   // Red - moderate-high ratio
+  if (ratio >= 0.5) return '#ef3b2c';   // Medium red - moderate ratio
+  if (ratio >= 0.1) return '#fb6a4a';   // Light red - low ratio
+  if (ratio >= 0.01) return '#fc9272';  // Very light red - very low ratio
+  return '#fee0d2';                     // Pale red - minimal ratio
 }
 
 function getRiskLevel(score) {
@@ -91,7 +112,7 @@ async function loadProvinceScores(year) {
   if (state.currentDataset === 'audit') {
     url = year === 'all' ? 'data/province-scores-all.json' : `data/province-scores-${year}.json`;
   } else {
-    url = 'data/disallowances.json';
+    url = 'data/disallowances_with_income.json';
   }
 
   try {
@@ -116,15 +137,40 @@ async function loadLguScores(year) {
   if (state.currentDataset === 'audit') {
     url = year === 'all' ? 'data/lgu-scores.json' : `data/scores-${year}.json`;
   } else {
-    url = 'data/disallowances.json';
+    url = 'data/disallowances_with_income.json';
   }
 
   try {
     const response = await fetch(url);
     const data = await response.json();
     const scores = state.currentDataset === 'audit' ? data.lgus : (data.lgus || {});
-    state.lguScores[cacheKey] = scores;
-    return scores;
+
+    // Create additional lookup by province name + LGU name
+    const enhancedScores = { ...scores };
+    let enhancedCount = 0;
+    for (const [key, value] of Object.entries(scores)) {
+      if (value.province && value.name) {
+        // Add lookup by "Province_LGUName" format with variations
+        const province = value.province;
+        const name = value.name;
+
+        // Add multiple variations for better matching
+        enhancedScores[`${province}_${name}`] = value;
+        enhancedScores[`${province}_${name.replace(/\s+/g, '')}`] = value;
+        enhancedScores[`${province}_${name.replace(/\s+/g, '').replace(/-/g, '')}`] = value;
+
+        // Also add without spaces in province name
+        const provinceNoSpace = province.replace(/\s+/g, '');
+        enhancedScores[`${provinceNoSpace}_${name}`] = value;
+        enhancedScores[`${provinceNoSpace}_${name.replace(/\s+/g, '')}`] = value;
+
+        enhancedCount++;
+      }
+    }
+
+    console.log(`Enhanced LGU scores with ${enhancedCount} province-name lookups`);
+    state.lguScores[cacheKey] = enhancedScores;
+    return enhancedScores;
   } catch (err) {
     console.error('Failed to load LGU scores:', err);
     return {};
@@ -172,10 +218,22 @@ async function loadRegionData() {
 function getProvinceStyle(feature, scores) {
   const psgc = getPsgc(feature);
   const data = scores[psgc];
-  const score = data ? data.score : null;
+
+  // Use disallowance ratio for disallowances dataset, otherwise use score
+  let value = null;
+  if (state.currentDataset === 'disallowances') {
+    value = data ? (data.disallowance_ratio_percent || data.avg_ratio_percent || null) : null;
+
+    // Debug to see what's happening
+    if (data && value !== null) {
+      console.log(`Province ${data.name}: ratio=${value}, color=${getDisallowanceColor(value)}`);
+    }
+  } else {
+    value = data ? data.score : null;
+  }
 
   return {
-    fillColor: getRiskColor(score),
+    fillColor: getRiskColor(value),
     weight: 1.5,
     opacity: 1,
     color: '#ffffff',
@@ -183,27 +241,44 @@ function getProvinceStyle(feature, scores) {
   };
 }
 
-function getLguStyle(feature, scores) {
+function getLguStyle(feature, scores, provinceMap = {}) {
   // For LGUs, we need to construct the key as provincePsgc_lguName
   const props = feature.properties;
   const lguName = props.name || props.NAME || props.adm2_en || '';
-  const provPsgc = String(props.province_psgc || props.adm1_psgc || '').padStart(10, '0');
+  // Handle both numeric and string PSGCs
+  const provPsgc = String(props.province_psgc || props.adm1_psgc || 0).padStart(10, '0');
+
+  // Get province name from mapping
+  const provinceName = provinceMap[String(props.province_psgc || '')] || '';
 
   // Try different key formats to match our data
-  // Our data often has no spaces (DonCarlos) or City suffix without space (MalaybalayCity)
-  const nameNoSpaces = lguName.replace(/\s+/g, '');
-  const nameBase = lguName.replace(/\s*(City|Municipality)$/i, '');
-  const nameBaseNoSpaces = nameBase.replace(/\s+/g, '');
+  // Handle various naming conventions
+  let cleanName = lguName;
+
+  // Remove "City of " prefix if present
+  if (cleanName.startsWith('City of ')) {
+    cleanName = cleanName.substring(8);  // Remove "City of "
+  }
+
+  // Create variations
+  const nameNoSpaces = cleanName.replace(/\s+/g, '').replace(/-/g, '');  // Remove spaces AND hyphens
+  const originalNoSpaces = lguName.replace(/\s+/g, '').replace(/-/g, '');
 
   const possibleKeys = [
-    `${provPsgc}_${lguName}`,
+    // Try with PSGC first
+    `${provPsgc}_${cleanName}`,
     `${provPsgc}_${nameNoSpaces}`,
-    `${provPsgc}_${nameBase}`,
-    `${provPsgc}_${nameBaseNoSpaces}`,
+    `${provPsgc}_${originalNoSpaces}`,
     `${provPsgc}_${nameNoSpaces}City`,
-    `${provPsgc}_${nameBaseNoSpaces}City`,
-    `${provPsgc}_${lguName}Mun`
-  ];
+    `${provPsgc}_${cleanName}City`,
+    // Try with province name
+    provinceName ? `${provinceName}_${cleanName}` : null,
+    provinceName ? `${provinceName}_${nameNoSpaces}` : null,
+    // Original patterns
+    `${provPsgc}_${lguName}`,
+    `${provPsgc}_${cleanName.replace(/\s+/g, '')}`,
+    `${provPsgc}_${lguName.replace('City of ', '').replace(/\s+/g, '')}City`
+  ].filter(k => k !== null);
 
   let data = null;
   for (const key of possibleKeys) {
@@ -213,10 +288,38 @@ function getLguStyle(feature, scores) {
     }
   }
 
-  const score = data ? data.score : null;
+  // Use disallowance ratio only - no score fallback
+  let value = null;
+  if (data) {
+    // Use calculated ratio first, then pre-existing ratio
+    value = data.calculated_ratio_percent || data.disallowance_ratio_percent || data.avg_ratio_percent || null;
+  }
+
+  // Debug logging for first few for troubleshooting
+  if (!data && possibleKeys.length > 0 && Math.random() < 0.01) {  // Log 1% of unmatched
+    console.log(`No match for: ${lguName} (${provinceName || provPsgc})`);
+    console.log('  Tried keys:', possibleKeys.slice(0, 3));
+  }
+
+  // Log successful matches for debugging
+  if (data && value !== null && Math.random() < 0.02) {
+    console.log(`✓ Matched ${lguName} (${provinceName}) with ratio: ${value}`);
+  }
+
+  // Special debug for specific problematic LGUs
+  if (lguName === 'Roxas' || lguName === 'City of Malaybalay') {
+    console.log(`DEBUG ${lguName}:`);
+    console.log('  Province:', provinceName);
+    console.log('  PSGC:', provPsgc);
+    console.log('  Data found:', data ? 'YES' : 'NO');
+    console.log('  Value:', value);
+    console.log('  Keys tried:', possibleKeys.slice(0, 5));
+  }
+
+  const fillColor = getRiskColor(value);
 
   return {
-    fillColor: getRiskColor(score),
+    fillColor: fillColor,
     weight: 0.8,
     opacity: 1,
     color: '#333333',
@@ -227,18 +330,28 @@ function getLguStyle(feature, scores) {
 function highlightFeature(e) {
   const layer = e.target;
 
+  // Only apply hover effect if not selected
+  if (state.selectedLayer === layer) return;
+
   layer.setStyle({
-    weight: 3,
-    color: '#000',
-    fillOpacity: 0.9
+    weight: 2,
+    color: '#666',
+    fillOpacity: 0.85
   });
 
   layer.bringToFront();
-  state.info.update(layer.feature.properties, layer.scoreData);
+
+  // Update info on hover ONLY if nothing is selected
+  if (!state.selectedLayer) {
+    state.info.update(layer.feature.properties, layer.scoreData);
+  }
 }
 
 function resetHighlight(e, scores, isLgu = false) {
   const layer = e.target;
+
+  // Don't reset if this is the selected layer
+  if (state.selectedLayer === layer) return;
 
   if (isLgu) {
     layer.setStyle({
@@ -254,7 +367,10 @@ function resetHighlight(e, scores, isLgu = false) {
     });
   }
 
-  state.info.update();
+  // Only clear info if nothing is selected
+  if (!state.selectedLayer) {
+    state.info.update();
+  }
 }
 
 // ============================================
@@ -271,7 +387,17 @@ function createInfoControl() {
   };
 
   info.update = function(props, scoreData) {
-    if (!props) {
+    // Store for sticky display
+    if (props && scoreData) {
+      this._stickyProps = props;
+      this._stickyScoreData = scoreData;
+    }
+
+    // Use sticky data if no new props provided
+    const displayProps = props || this._stickyProps;
+    const displayScoreData = scoreData || this._stickyScoreData;
+
+    if (!displayProps) {
       this._div.innerHTML = '';
       this._div.style.display = 'none';
       return;
@@ -279,43 +405,48 @@ function createInfoControl() {
 
     this._div.style.display = 'block';
 
-    const name = props.name || props.NAME || props.adm2_en || 'Unknown';
-    const score = scoreData ? scoreData.score : null;
-    const level = scoreData ? scoreData.riskLevel : getRiskLevel(score);
+    const name = displayProps.name || displayProps.NAME || displayProps.adm2_en || 'Unknown';
 
     // Check if we're showing disallowances data
     const isDisallowances = state.currentDataset === 'disallowances';
 
-    if (isDisallowances) {
+    if (isDisallowances && displayScoreData) {
+      // Get ratio value
+      const ratio = displayScoreData.disallowance_ratio_percent || displayScoreData.avg_ratio_percent || displayScoreData.score || 0;
+      const level = getRiskLevel(ratio);
+
       // Disallowances display
-      const totalDisallowances = scoreData?.totalDisallowances || 0;
-      const avgPerLGU = scoreData?.avgDisallowancesPerLGU || 0;
-      const formattedTotal = totalDisallowances ? `₱${totalDisallowances.toLocaleString('en-PH', {minimumFractionDigits: 2, maximumFractionDigits: 2})}` : '—';
+      const totalDisallowances = displayScoreData.totalDisallowances || displayScoreData.total_disallowances || 0;
+      const totalOperatingIncome = displayScoreData.total_operating_income || displayScoreData.totalOperatingIncome || 0;
+      const avgPerLGU = displayScoreData.avgDisallowancesPerLGU || 0;
+      const formattedTotal = totalDisallowances ? `₱${totalDisallowances.toLocaleString('en-PH', {minimumFractionDigits: 2, maximumFractionDigits: 2})}` : '₱0.00';
+      const formattedIncome = totalOperatingIncome ? `₱${totalOperatingIncome.toLocaleString('en-PH', {minimumFractionDigits: 2, maximumFractionDigits: 2})}` : '—';
       const formattedAvg = avgPerLGU ? `₱${avgPerLGU.toLocaleString('en-PH', {minimumFractionDigits: 2, maximumFractionDigits: 2})}` : '—';
 
       // Check if this is an LGU/Municipality
-      const isLGU = scoreData?.province ? true : false;
+      const isLGU = displayScoreData?.province ? true : false;
 
       this._div.innerHTML = `
-        <h4>${name}${isLGU ? ` <span style="font-size: 0.8em; color: #666;">(${scoreData.province})</span>` : ''}</h4>
+        <h4>${name}${isLGU ? ` <span style="font-size: 0.8em; color: #666;">(${displayScoreData.province})</span>` : ''}</h4>
         <div class="info-score ${level}">
-          <span class="score-value">${score !== null ? Math.round(score) : '—'}</span>
-          <span class="score-label">/ 100</span>
+          <span class="score-value">${ratio.toFixed(2)}</span>
+          <span class="score-label">%</span>
         </div>
-        <div class="info-risk ${level}">Disallowance Level: ${level.charAt(0).toUpperCase() + level.slice(1)}</div>
-        ${scoreData ? `
-          <div class="info-details">
-            <div><strong>Total Disallowances:</strong><br/>${formattedTotal}</div>
-            ${!isLGU && avgPerLGU ? `<div><strong>Avg per LGU:</strong><br/>${formattedAvg}</div>` : ''}
-            ${scoreData.observationCount ? `<div><strong>Observations:</strong> ${scoreData.observationCount.toLocaleString()}</div>` : ''}
-            ${!isLGU && scoreData.lguCount ? `<div><strong>Municipalities:</strong> ${scoreData.lguCount}</div>` : ''}
-            ${scoreData.yearsWithData ? `<div><strong>Years:</strong> ${scoreData.yearsWithData} years</div>` : ''}
-            ${scoreData.years && scoreData.years.length > 0 ? `<div><strong>Years with data:</strong> ${scoreData.years.join(', ')}</div>` : ''}
-          </div>
-        ` : ''}
+        <div class="info-risk ${level}">Disallowance Ratio</div>
+        <div class="info-details">
+          <div><strong>Total Disallowances:</strong><br/>${formattedTotal}</div>
+          <div><strong>Total Operating Income:</strong><br/>${formattedIncome}</div>
+          ${totalOperatingIncome ? `<div style="font-size: 0.9em; color: #666; margin-top: 5px;">Ratio: ${totalDisallowances.toLocaleString()} ÷ ${totalOperatingIncome.toLocaleString()} = ${ratio.toFixed(2)}%</div>` : ''}
+          ${!isLGU && avgPerLGU ? `<div><strong>Avg per LGU:</strong><br/>${formattedAvg}</div>` : ''}
+          ${displayScoreData.observationCount ? `<div><strong>Observations:</strong> ${displayScoreData.observationCount.toLocaleString()}</div>` : ''}
+          ${!isLGU && displayScoreData.lguCount ? `<div><strong>Municipalities:</strong> ${displayScoreData.lguCount}</div>` : ''}
+          ${displayScoreData.yearsWithData ? `<div><strong>Years:</strong> ${displayScoreData.yearsWithData} years</div>` : ''}
+        </div>
       `;
-    } else {
+    } else if (displayScoreData) {
       // Compliance/Audit display (original)
+      const score = displayScoreData.score || null;
+      const level = displayScoreData.riskLevel || getRiskLevel(score);
       const complianceLabel = getComplianceLabel(level);
 
       this._div.innerHTML = `
@@ -325,11 +456,11 @@ function createInfoControl() {
           <span class="score-label">/ 100</span>
         </div>
         <div class="info-risk ${level}">${complianceLabel} Compliance</div>
-        ${scoreData ? `
+        ${displayScoreData ? `
           <div class="info-details">
-            <div>Not Implemented: ${scoreData.notImplementedPct?.toFixed(1) || '—'}%</div>
-            <div>Observations: ${scoreData.observationCount?.toLocaleString() || '—'}</div>
-            ${scoreData.lguCount ? `<div>Municipalities: ${scoreData.lguCount}</div>` : ''}
+            <div>Not Implemented: ${displayScoreData.notImplementedPct?.toFixed(1) || '—'}%</div>
+            <div>Observations: ${displayScoreData.observationCount?.toLocaleString() || '—'}</div>
+            ${displayScoreData.lguCount ? `<div>Municipalities: ${displayScoreData.lguCount}</div>` : ''}
           </div>
         ` : ''}
       `;
@@ -376,14 +507,22 @@ function createLegendControl() {
 
   legend.onAdd = function() {
     const div = L.DomUtil.create('div', 'legend-panel');
-    const grades = [0, 20, 40, 60, 80];
 
-    // Different labels based on dataset
+    // Different scales based on dataset
     const isDisallowances = state.currentDataset === 'disallowances';
-    const title = isDisallowances ? 'Disallowance Level' : 'Compliance Level';
-    const labels = isDisallowances
-      ? ['Minimal', 'Low', 'Moderate', 'High', 'Critical']
-      : ['Very High', 'High', 'Moderate', 'Low', 'Very Low'];
+    let grades, labels, title;
+
+    if (isDisallowances) {
+      // For disallowance ratios (in percentages)
+      title = 'Disallowance Ratio<br><small>(% of Operating Income)</small>';
+      grades = [0, 0.1, 0.5, 1.0, 2.0, 5.0];
+      labels = ['< 0.1%', '0.1-0.5%', '0.5-1%', '1-2%', '2-5%', '≥ 5%'];
+    } else {
+      // For audit scores
+      title = 'Compliance Level';
+      grades = [0, 20, 40, 60, 80];
+      labels = ['Very High', 'High', 'Moderate', 'Low', 'Very Low'];
+    }
 
     div.innerHTML = `<h4>${title}</h4>`;
 
@@ -448,7 +587,42 @@ async function renderProvinces() {
         mouseover: highlightFeature,
         mouseout: (e) => resetHighlight(e, scores, false),
         click: (e) => {
-          state.map.fitBounds(e.target.getBounds(), { padding: [50, 50] });
+          const clickedLayer = e.target;
+
+          // If clicking the same layer, deselect it
+          if (state.selectedLayer === clickedLayer) {
+            // Reset the style to original
+            const psgc = getPsgc(clickedLayer.feature);
+            const originalStyle = getProvinceStyle(clickedLayer.feature, scores);
+            clickedLayer.setStyle(originalStyle);
+            state.selectedLayer = null;
+            state.info.update(); // Clear info panel
+            return;
+          }
+
+          // Reset previous selection if any
+          if (state.selectedLayer) {
+            // Reset to original style based on data
+            const prevPsgc = getPsgc(state.selectedLayer.feature);
+            const prevStyle = getProvinceStyle(state.selectedLayer.feature, scores);
+            state.selectedLayer.setStyle(prevStyle);
+          }
+
+          // Select new layer
+          state.selectedLayer = clickedLayer;
+          clickedLayer.setStyle({
+            weight: 4,
+            color: '#ffff00',  // Bright yellow border
+            dashArray: '',
+            fillOpacity: 0.95
+          });
+
+          if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+            clickedLayer.bringToFront();
+          }
+
+          // Update info panel (sticky)
+          state.info.update(clickedLayer.feature.properties, clickedLayer.scoreData);
         }
       });
     }
@@ -461,44 +635,153 @@ async function renderProvinces() {
 }
 
 async function renderLgus() {
+  // Show debug panel
+  const debugPanel = document.getElementById('debug-panel');
+  const debugContent = document.getElementById('debug-content');
+  if (debugPanel) debugPanel.style.display = 'block';
+
+  let debugInfo = [];
+
+  debugInfo.push('=== MUNICIPALITY VIEW DEBUG ===');
+  debugInfo.push(`Dataset: ${state.currentDataset}`);
+  debugInfo.push(`Year: ${state.currentYear}`);
+
   if (!state.lguGeoJson) {
     state.lguGeoJson = await loadGeoJson('lgus');
   }
 
   if (!state.lguGeoJson) {
     console.error('Failed to load LGU GeoJSON');
+    debugInfo.push('ERROR: Failed to load LGU GeoJSON');
+    if (debugContent) debugContent.innerHTML = debugInfo.join('<br>');
     return;
   }
 
+  debugInfo.push(`✓ Loaded ${state.lguGeoJson.features.length} LGU features`);
+
+  // Load province GeoJSON to get province names
+  if (!state.provinceGeoJson) {
+    state.provinceGeoJson = await loadGeoJson('provinces');
+  }
+
+  // Create province PSGC to name mapping
+  const provinceMap = {};
+  if (state.provinceGeoJson) {
+    for (const feature of state.provinceGeoJson.features) {
+      const psgc = String(feature.properties.psgc || '');
+      const name = feature.properties.name || '';
+      if (psgc && name) {
+        provinceMap[psgc] = name;
+      }
+    }
+  }
+
+  debugInfo.push(`✓ Province mapping: ${Object.keys(provinceMap).length} provinces`);
+
   const scores = await loadLguScores(state.currentYear);
+  console.log('Loaded LGU scores:', Object.keys(scores).length, 'entries');
+  console.log('Province mapping created:', Object.keys(provinceMap).length, 'provinces');
+
+  debugInfo.push(`✓ Loaded ${Object.keys(scores).length} score entries`);
+
+  // Debug: Check what types of keys we have
+  const sampleKeys = Object.keys(scores).slice(0, 10);
+  console.log('Sample score keys:', sampleKeys);
+
+  debugInfo.push('');
+  debugInfo.push('Sample score keys:');
+  sampleKeys.slice(0, 5).forEach(k => {
+    debugInfo.push(`  • ${k}`);
+  });
+
+  // Check data availability
+  const withCalculatedRatio = Object.values(scores).filter(s => s.calculated_ratio_percent !== null && s.calculated_ratio_percent !== undefined).length;
+  const withOriginalRatio = Object.values(scores).filter(s => s.disallowance_ratio_percent !== null && s.disallowance_ratio_percent !== undefined).length;
+  const withOperatingIncome = Object.values(scores).filter(s => s.total_operating_income > 0).length;
+  const withDisallowances = Object.values(scores).filter(s => s.totalDisallowances > 0).length;
+
+  console.log('LGUs with calculated_ratio_percent:', withCalculatedRatio);
+  console.log('LGUs with original ratio:', withOriginalRatio);
+  console.log('LGUs with operating income:', withOperatingIncome);
+
+  debugInfo.push('');
+  debugInfo.push('Data availability:');
+  debugInfo.push(`  • Calculated ratios: ${withCalculatedRatio}`);
+  debugInfo.push(`  • Original ratios: ${withOriginalRatio}`);
+  debugInfo.push(`  • Has operating income: ${withOperatingIncome}`);
+  debugInfo.push(`  • Has disallowances: ${withDisallowances}`);
+  debugInfo.push('');
+  debugInfo.push(`Will show colors for: ${withCalculatedRatio + withOriginalRatio} LGUs with ratio data`);
 
   // Remove existing layer
   if (state.lguLayer) {
     state.map.removeLayer(state.lguLayer);
   }
 
+  let matchedCount = 0;
+  let coloredCount = 0;
+  let unmatchedSamples = [];
+
   state.lguLayer = L.geoJSON(state.lguGeoJson, {
-    style: (feature) => getLguStyle(feature, scores),
+    style: (feature) => {
+      const style = getLguStyle(feature, scores, provinceMap);
+      // Count if it got a non-grey color
+      if (style.fillColor !== '#d3d3d3' && style.fillColor !== '#e0e0e0') {
+        coloredCount++;
+      }
+      return style;
+    },
     onEachFeature: (feature, layer) => {
       // For LGUs, construct the key as provincePsgc_lguName
       const props = feature.properties;
       const lguName = props.name || props.NAME || props.adm2_en || '';
-      const provPsgc = String(props.province_psgc || props.adm1_psgc || '').padStart(10, '0');
+      // Handle both numeric and string PSGCs
+      const provPsgc = String(props.province_psgc || props.adm1_psgc || 0).padStart(10, '0');
 
-      // Try different key formats
+      // Try different key formats - handle various naming conventions
+      let cleanName = lguName;
+
+      // Remove "City of " prefix if present
+      if (cleanName.startsWith('City of ')) {
+        cleanName = cleanName.substring(8);  // Remove "City of "
+      }
+
+      // Get province name from mapping
+      const provinceName = provinceMap[String(props.province_psgc || '')] || '';
+
+      // Create variations
+      const nameNoSpaces = cleanName.replace(/\s+/g, '').replace(/-/g, '');  // Remove spaces AND hyphens
+      const originalNoSpaces = lguName.replace(/\s+/g, '').replace(/-/g, '');
+
       const possibleKeys = [
+        // Try with PSGC first
+        `${provPsgc}_${cleanName}`,
+        `${provPsgc}_${nameNoSpaces}`,
+        `${provPsgc}_${originalNoSpaces}`,
+        `${provPsgc}_${nameNoSpaces}City`,
+        `${provPsgc}_${cleanName}City`,
+        // Try with province name
+        provinceName ? `${provinceName}_${cleanName}` : null,
+        provinceName ? `${provinceName}_${nameNoSpaces}` : null,
+        provinceName ? `${provinceName}_${originalNoSpaces}` : null,
+        provinceName ? `${provinceName}_${nameNoSpaces}City` : null,
+        // Original patterns
         `${provPsgc}_${lguName}`,
-        `${provPsgc}_${lguName.replace(' ', '')}`,
-        `${provPsgc}_${lguName}City`,
-        `${provPsgc}_${lguName}Mun`
-      ];
+        `${provPsgc}_${cleanName.replace(/\s+/g, '')}`,
+        `${provPsgc}_${lguName.replace('City of ', '').replace(/\s+/g, '')}City`
+      ].filter(k => k !== null);
 
       let data = null;
       for (const key of possibleKeys) {
         if (scores[key]) {
           data = scores[key];
+          matchedCount++;
           break;
         }
+      }
+
+      if (!data && unmatchedSamples.length < 5) {
+        unmatchedSamples.push({ name: lguName, psgc: provPsgc, tried: possibleKeys[0] });
       }
 
       layer.scoreData = data;
@@ -506,12 +789,87 @@ async function renderLgus() {
       layer.on({
         mouseover: highlightFeature,
         mouseout: (e) => resetHighlight(e, scores, true),
-        click: (e) => {
-          state.map.fitBounds(e.target.getBounds(), { padding: [50, 50] });
+        click: async (e) => {
+          const clickedLayer = e.target;
+
+          // If clicking the same layer, deselect it
+          if (state.selectedLayer === clickedLayer) {
+            // Reset the style to original
+            const originalStyle = getLguStyle(clickedLayer.feature, scores);
+            clickedLayer.setStyle(originalStyle);
+            state.selectedLayer = null;
+            state.info.update(); // Clear info panel
+            return;
+          }
+
+          // Reset previous selection if any
+          if (state.selectedLayer) {
+            // Check if previous was LGU or Province and reset appropriately
+            if (state.lguLayer && state.lguLayer.hasLayer(state.selectedLayer)) {
+              const prevStyle = getLguStyle(state.selectedLayer.feature, scores);
+              state.selectedLayer.setStyle(prevStyle);
+            } else if (state.provinceLayer && state.provinceLayer.hasLayer(state.selectedLayer)) {
+              const provinceScores = await loadProvinceScores(state.currentYear);
+              const prevStyle = getProvinceStyle(state.selectedLayer.feature, provinceScores);
+              state.selectedLayer.setStyle(prevStyle);
+            }
+          }
+
+          // Select new layer
+          state.selectedLayer = clickedLayer;
+          clickedLayer.setStyle({
+            weight: 3,
+            color: '#ffff00',  // Bright yellow border
+            dashArray: '',
+            fillOpacity: 0.95
+          });
+
+          if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+            clickedLayer.bringToFront();
+          }
+
+          // Update info panel (sticky)
+          state.info.update(clickedLayer.feature.properties, clickedLayer.scoreData);
         }
       });
     }
   }).addTo(state.map);
+
+  console.log(`LGU matching: ${matchedCount} matched out of ${state.lguGeoJson.features.length} features`);
+  console.log(`Match rate: ${(matchedCount / state.lguGeoJson.features.length * 100).toFixed(1)}%`);
+
+  const matchRate = (matchedCount / state.lguGeoJson.features.length * 100).toFixed(1);
+
+  debugInfo.push('');
+  debugInfo.push('=== MATCHING RESULTS ===');
+  debugInfo.push(`Matched: ${matchedCount}/${state.lguGeoJson.features.length} (${matchRate}%)`);
+  debugInfo.push(`Colored: ${coloredCount}/${state.lguGeoJson.features.length} (${(coloredCount / state.lguGeoJson.features.length * 100).toFixed(1)}%)`);
+
+  // More detailed debugging
+  if (matchedCount < state.lguGeoJson.features.length / 2) {
+    console.warn('Low match rate! Debugging info:');
+    console.log('Unmatched samples:', unmatchedSamples.slice(0, 5));
+    console.log('Score keys sample:', Object.keys(scores).slice(0, 10));
+
+    debugInfo.push('');
+    debugInfo.push('⚠️ LOW MATCH RATE!');
+    debugInfo.push('Unmatched samples:');
+    unmatchedSamples.slice(0, 5).forEach(s => {
+      debugInfo.push(`  • ${s.name} (${s.psgc})`);
+    });
+
+    // Check if we have the enhanced scores with province names
+    const hasProvinceKeys = Object.keys(scores).some(k => k.includes('_') && !k.match(/^\d+_/));
+    console.log('Has province name keys:', hasProvinceKeys);
+
+    debugInfo.push('');
+    debugInfo.push(`Has province-name keys: ${hasProvinceKeys ? 'YES' : 'NO'}`);
+  }
+
+  // Update debug panel
+  if (debugContent) {
+    debugContent.innerHTML = debugInfo.join('<br>');
+  }
 
   // Hide province layer
   if (state.provinceLayer) {
@@ -660,8 +1018,8 @@ function setupControls() {
   if (toggleBtn && controlsPanel) {
     toggleBtn.addEventListener('click', () => {
       controlsPanel.classList.toggle('collapsed');
-      toggleBtn.querySelector('.toggle-icon').textContent =
-        controlsPanel.classList.contains('collapsed') ? '☰' : '✕';
+      // Keep the gear icon always
+      toggleBtn.querySelector('.toggle-icon').textContent = '⚙';
     });
   }
 
@@ -708,18 +1066,7 @@ function setupControls() {
     });
   }
 
-  // Legend toggle checkbox
-  const toggleLegend = document.getElementById('toggle-legend');
-  if (toggleLegend) {
-    toggleLegend.addEventListener('change', (e) => {
-      state.showLegend = e.target.checked;
-      if (state.showLegend && state.legendControl) {
-        state.legendControl.addTo(state.map);
-      } else if (!state.showLegend && state.legendControl) {
-        state.map.removeControl(state.legendControl);
-      }
-    });
-  }
+  // Legend is now integrated into control panel, no separate toggle needed
 
   // Region toggle checkbox
   const toggleRegions = document.getElementById('toggle-regions');
@@ -743,6 +1090,19 @@ async function initMap() {
     return;
   }
 
+  // Add keyboard shortcut for debug panel (press 'D')
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'd' || e.key === 'D') {
+      const debugPanel = document.getElementById('debug-panel');
+      if (debugPanel) {
+        debugPanel.style.display = debugPanel.style.display === 'none' ? 'block' : 'none';
+      }
+    }
+  });
+
+  // Ensure we're using disallowances dataset
+  console.log('Initializing map with dataset:', state.currentDataset);
+
   try {
     // Create Leaflet map
     state.map = L.map('map', {
@@ -765,11 +1125,11 @@ async function initMap() {
     state.info = createInfoControl();
     state.info.addTo(state.map);
 
-    // Add legend (store in state for toggling)
-    state.legendControl = createLegendControl();
-    if (state.showLegend) {
-      state.legendControl.addTo(state.map);
-    }
+    // Don't add separate legend since it's integrated into control panel
+    // state.legendControl = createLegendControl();
+    // if (state.showLegend) {
+    //   state.legendControl.addTo(state.map);
+    // }
 
     console.log('Leaflet map created, loading provinces...');
 
