@@ -73,6 +73,16 @@ function getDisallowanceColor(ratio) {
 
 function getRiskLevel(score) {
   if (score === null || score === undefined) return 'no_data';
+  // For disallowance ratios (percentages)
+  if (state.currentDataset === 'disallowances') {
+    if (score >= 5) return 'critical';    // ≥ 5%
+    if (score >= 2) return 'high';        // 2-5%
+    if (score >= 1) return 'moderate';    // 1-2%
+    if (score >= 0.5) return 'low';       // 0.5-1%
+    if (score >= 0.1) return 'minimal';   // 0.1-0.5%
+    return 'minimal';                      // < 0.1%
+  }
+  // For audit scores (0-100)
   if (score >= 80) return 'critical';
   if (score >= 60) return 'high';
   if (score >= 40) return 'moderate';
@@ -411,8 +421,8 @@ function createInfoControl() {
     const isDisallowances = state.currentDataset === 'disallowances';
 
     if (isDisallowances && displayScoreData) {
-      // Get ratio value
-      const ratio = displayScoreData.disallowance_ratio_percent || displayScoreData.avg_ratio_percent || displayScoreData.score || 0;
+      // Get ratio value - use calculated_ratio_percent first (from our script), then fallbacks
+      const ratio = displayScoreData.calculated_ratio_percent || displayScoreData.disallowance_ratio_percent || displayScoreData.avg_ratio_percent || 0;
       const level = getRiskLevel(ratio);
 
       // Disallowances display
