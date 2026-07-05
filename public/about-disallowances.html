@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>About - Philippines Audit Disallowances Map</title>
+  <title>About - OpenAudit Philippines</title>
   <style>
     * {
       margin: 0;
@@ -13,111 +13,108 @@
 
     body {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      background: #f5f5f5;
       min-height: 100vh;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding: 2rem;
+    }
+
+    .nav-header {
+      background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+      padding: 1.5rem 2rem;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+
+    .nav-header a {
+      color: white;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1.1rem;
+      opacity: 0.9;
+      transition: opacity 0.3s;
+    }
+
+    .nav-header a:hover {
+      opacity: 1;
     }
 
     .container {
-      max-width: 900px;
-      width: 100%;
+      max-width: 1000px;
+      margin: 3rem auto;
+      padding: 0 2rem;
+    }
+
+    .hero-section {
       background: white;
-      border-radius: 20px;
-      box-shadow: 0 20px 60px rgba(0,0,0,0.3);
-      overflow: hidden;
-    }
-
-    .header {
-      background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
-      padding: 2.5rem 3rem;
-      color: white;
-    }
-
-    .header h1 {
-      font-size: 2.5rem;
-      margin-bottom: 0.5rem;
-    }
-
-    .header p {
-      font-size: 1.1rem;
-      opacity: 0.9;
-    }
-
-    .content {
+      border-radius: 12px;
       padding: 3rem;
+      box-shadow: 0 2px 20px rgba(0,0,0,0.08);
+      margin-bottom: 2rem;
     }
 
-    .section {
-      margin-bottom: 2.5rem;
-    }
-
-    .section h2 {
+    .hero-section h1 {
       color: #2c3e50;
-      font-size: 1.8rem;
+      font-size: 3rem;
       margin-bottom: 1rem;
-      padding-bottom: 0.5rem;
-      border-bottom: 3px solid #3498db;
-      display: inline-block;
+      font-weight: 700;
     }
 
-    .section p {
+    .subtitle {
+      color: #dc143c;
+      font-size: 1.5rem;
+      font-weight: 600;
+      margin-bottom: 1.5rem;
+    }
+
+    .lead {
+      color: #555;
+      font-size: 1.2rem;
+      line-height: 1.8;
+      margin-bottom: 2rem;
+    }
+
+    .card {
+      background: white;
+      border-radius: 12px;
+      padding: 2.5rem;
+      box-shadow: 0 2px 20px rgba(0,0,0,0.08);
+      margin-bottom: 2rem;
+    }
+
+    .card h2 {
+      color: #2c3e50;
+      font-size: 2rem;
+      margin-bottom: 1.5rem;
+      padding-bottom: 0.75rem;
+      border-bottom: 3px solid #dc143c;
+    }
+
+    .card h3 {
+      color: #34495e;
+      font-size: 1.4rem;
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+    }
+
+    .card p {
       color: #555;
       font-size: 1.1rem;
       line-height: 1.8;
       margin-bottom: 1rem;
     }
 
-    .risk-levels {
-      background: #f8f9fa;
-      border-radius: 12px;
-      padding: 1.5rem;
-      margin: 1.5rem 0;
+    .card ul {
+      margin: 1rem 0 1rem 2rem;
     }
 
-    .risk-level {
-      display: flex;
-      align-items: center;
-      margin-bottom: 1rem;
-      padding: 0.75rem;
-      background: white;
-      border-radius: 8px;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    }
-
-    .risk-level:last-child {
-      margin-bottom: 0;
-    }
-
-    .risk-color {
-      width: 40px;
-      height: 40px;
-      border-radius: 8px;
-      margin-right: 1.5rem;
-      border: 2px solid rgba(0,0,0,0.1);
-    }
-
-    .risk-info {
-      flex: 1;
-    }
-
-    .risk-name {
-      font-weight: 600;
-      color: #2c3e50;
+    .card li {
+      color: #555;
       font-size: 1.1rem;
-      margin-bottom: 0.25rem;
+      line-height: 1.8;
+      margin-bottom: 0.5rem;
     }
 
-    .risk-range {
-      color: #666;
-      font-size: 0.95rem;
-    }
-
-    .formula-box {
-      background: #f0f8ff;
-      border-left: 4px solid #3498db;
+    .metric-box {
+      background: #f8f9fa;
+      border-left: 4px solid #dc143c;
       padding: 1.5rem;
       margin: 1.5rem 0;
       border-radius: 8px;
@@ -129,247 +126,319 @@
       padding: 1rem;
       border-radius: 4px;
       margin-top: 0.5rem;
-      font-size: 1rem;
+      font-size: 1.1rem;
       color: #2c3e50;
+      text-align: center;
+      border: 1px solid #e0e0e0;
+    }
+
+    .ratio-levels {
+      background: #f8f9fa;
+      border-radius: 12px;
+      padding: 1.5rem;
+      margin: 1.5rem 0;
+    }
+
+    .ratio-level {
+      display: flex;
+      align-items: center;
+      margin-bottom: 1rem;
+      padding: 0.75rem;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    .ratio-color {
+      width: 40px;
+      height: 40px;
+      border-radius: 8px;
+      margin-right: 1.5rem;
+      border: 2px solid rgba(0,0,0,0.1);
+    }
+
+    .ratio-info {
+      flex: 1;
+    }
+
+    .ratio-name {
+      font-weight: 600;
+      color: #2c3e50;
+      font-size: 1.1rem;
+      margin-bottom: 0.25rem;
+    }
+
+    .ratio-range {
+      color: #666;
+      font-size: 0.95rem;
     }
 
     .stats-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
       gap: 1.5rem;
-      margin-top: 1.5rem;
+      margin-top: 2rem;
     }
 
     .stat-card {
-      background: #f8f9fa;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
       padding: 1.5rem;
       border-radius: 12px;
       text-align: center;
-      border: 2px solid #e0e0e0;
+      color: white;
     }
 
-    .stat-value {
-      font-size: 2rem;
+    .stat-number {
+      font-size: 2.5rem;
       font-weight: 700;
-      color: #3498db;
       margin-bottom: 0.5rem;
     }
 
     .stat-label {
-      color: #666;
-      font-size: 0.95rem;
+      font-size: 1rem;
+      opacity: 0.95;
     }
 
-    .back-link {
-      display: inline-block;
-      margin-top: 2rem;
-      padding: 0.75rem 2rem;
-      background: #3498db;
-      color: white;
-      text-decoration: none;
+    .highlight-box {
+      background: #fff3cd;
+      border-left: 4px solid #ffc107;
+      padding: 1.5rem;
+      margin: 2rem 0;
       border-radius: 8px;
-      font-weight: 600;
-      transition: all 0.3s;
     }
 
-    .back-link:hover {
-      background: #2980b9;
-      transform: translateY(-2px);
-      box-shadow: 0 4px 8px rgba(52,152,219,0.3);
+    .highlight-box strong {
+      color: #856404;
     }
 
-    ul {
-      margin-left: 2rem;
-      margin-top: 1rem;
+    .footer {
+      background: white;
+      border-radius: 12px;
+      padding: 2rem;
+      box-shadow: 0 2px 20px rgba(0,0,0,0.08);
+      text-align: center;
+      margin-top: 3rem;
     }
 
-    li {
-      color: #555;
-      margin-bottom: 0.5rem;
+    .footer p {
+      color: #666;
+      font-size: 1rem;
       line-height: 1.6;
     }
 
-    .note {
-      background: #fff9c4;
-      border-left: 4px solid #f9a825;
-      padding: 1rem;
-      margin: 1.5rem 0;
-      border-radius: 4px;
-      font-size: 0.95rem;
-      color: #666;
+    .btn-primary {
+      display: inline-block;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 0.75rem 2rem;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 600;
+      margin-top: 1rem;
+      transition: transform 0.3s;
     }
 
-    @media (max-width: 768px) {
-      .content {
-        padding: 2rem;
-      }
-
-      .header {
-        padding: 2rem;
-      }
-
-      .header h1 {
-        font-size: 2rem;
-      }
-
-      .stats-grid {
-        grid-template-columns: 1fr;
-      }
+    .btn-primary:hover {
+      transform: translateY(-2px);
     }
   </style>
 </head>
 <body>
+  <nav class="nav-header">
+    <a href="index.html">← Back to Map</a>
+  </nav>
+
   <div class="container">
-    <div class="header">
-      <h1>About the Disallowances Map</h1>
-      <p>Understanding COA Audit Disallowances Visualization</p>
+    <div class="hero-section">
+      <h1>OpenAudit Philippines</h1>
+      <div class="subtitle">Promoting Transparency Through Data-Driven Accountability</div>
+      <p class="lead">
+        OpenAudit is an innovative platform that visualizes Commission on Audit (COA) disallowances across
+        Philippine Local Government Units (LGUs), providing citizens with unprecedented access to public
+        financial accountability data. By normalizing disallowances against total operating income, we reveal
+        the true scale of fiscal irregularities across provinces and municipalities.
+      </p>
     </div>
 
-    <div class="content">
-      <div class="section">
-        <h2>What Are Disallowances?</h2>
-        <p>
-          Disallowances are government expenditures that the Commission on Audit (COA) has determined to be irregular,
-          unnecessary, excessive, extravagant, or unconscionable. These represent funds that were spent inappropriately
-          or without proper documentation, and officials may be required to return these amounts to the government.
-        </p>
-        <p>
-          This interactive map visualizes the total disallowances per province from 2016 to 2022, providing insights
-          into financial governance and accountability across the Philippines.
+    <div class="card">
+      <h2>Understanding the Disallowance Ratio</h2>
+
+      <p>
+        Traditional reporting of disallowances in absolute peso amounts fails to account for the vast
+        differences in economic scale between LGUs. A ₱10 million disallowance means something very different
+        for a small municipality versus a highly urbanized city.
+      </p>
+
+      <div class="metric-box">
+        <strong>Our Solution: The Disallowance Ratio</strong>
+        <div class="formula">
+          Disallowance Ratio = (Total Disallowances ÷ Total Operating Income) × 100
+        </div>
+        <p style="margin-top: 1rem; font-size: 0.95rem;">
+          This metric normalizes disallowances as a percentage of an LGU's total operating income,
+          providing a fair comparison across all economic scales.
         </p>
       </div>
 
-      <div class="section">
-        <h2>Risk Level Calculation</h2>
-        <p>
-          The risk levels are calculated using a logarithmic scale based on the total disallowance amounts.
-          This approach helps normalize the wide range of values and provides a meaningful comparison between provinces.
-        </p>
+      <p>
+        By using Statement of Receipts and Expenditures (SRE) data from the Department of Finance,
+        we calculate what percentage of an LGU's operating budget is tied up in questioned expenditures.
+        This approach reveals patterns that absolute numbers obscure.
+      </p>
+    </div>
 
-        <div class="formula-box">
-          <strong>Scoring Formula:</strong>
-          <div class="formula">
-            score = min(100, (log₁₀(totalDisallowances + 1) - 6) × 20)
+    <div class="card">
+      <h2>Interpreting the Heat Map</h2>
+
+      <p>
+        Our color-coded visualization uses a gradient from yellow (low ratios) to dark red (high ratios),
+        making it immediately apparent which areas have concerning levels of disallowances relative to
+        their economic capacity.
+      </p>
+
+      <div class="ratio-levels">
+        <div class="ratio-level">
+          <div class="ratio-color" style="background: #4a0000;"></div>
+          <div class="ratio-info">
+            <div class="ratio-name">Critical</div>
+            <div class="ratio-range">≥ 5% of operating income</div>
           </div>
         </div>
-
-        <div class="risk-levels">
-          <div class="risk-level">
-            <div class="risk-color" style="background: #7f0000;"></div>
-            <div class="risk-info">
-              <div class="risk-name">Critical</div>
-              <div class="risk-range">Score: 80-100 | Disallowances typically > ₱1 billion</div>
-            </div>
-          </div>
-
-          <div class="risk-level">
-            <div class="risk-color" style="background: #c62828;"></div>
-            <div class="risk-info">
-              <div class="risk-name">High</div>
-              <div class="risk-range">Score: 60-79 | Disallowances: ₱100M - ₱1B</div>
-            </div>
-          </div>
-
-          <div class="risk-level">
-            <div class="risk-color" style="background: #ef6c00;"></div>
-            <div class="risk-info">
-              <div class="risk-name">Moderate</div>
-              <div class="risk-range">Score: 40-59 | Disallowances: ₱10M - ₱100M</div>
-            </div>
-          </div>
-
-          <div class="risk-level">
-            <div class="risk-color" style="background: #fdd835;"></div>
-            <div class="risk-info">
-              <div class="risk-name">Low</div>
-              <div class="risk-range">Score: 20-39 | Disallowances: ₱1M - ₱10M</div>
-            </div>
-          </div>
-
-          <div class="risk-level">
-            <div class="risk-color" style="background: #66bb6a;"></div>
-            <div class="risk-info">
-              <div class="risk-name">Minimal</div>
-              <div class="risk-range">Score: 1-19 | Disallowances: < ₱1M</div>
-            </div>
-          </div>
-
-          <div class="risk-level">
-            <div class="risk-color" style="background: #e0e0e0;"></div>
-            <div class="risk-info">
-              <div class="risk-name">No Data</div>
-              <div class="risk-range">No disallowances recorded or data unavailable</div>
-            </div>
+        <div class="ratio-level">
+          <div class="ratio-color" style="background: #8b0000;"></div>
+          <div class="ratio-info">
+            <div class="ratio-name">Very High</div>
+            <div class="ratio-range">3-5% of operating income</div>
           </div>
         </div>
-      </div>
-
-      <div class="section">
-        <h2>Data Overview</h2>
-        <div class="stats-grid">
-          <div class="stat-card">
-            <div class="stat-value">79</div>
-            <div class="stat-label">Provinces with Data</div>
+        <div class="ratio-level">
+          <div class="ratio-color" style="background: #dc143c;"></div>
+          <div class="ratio-info">
+            <div class="ratio-name">High</div>
+            <div class="ratio-range">2-3% of operating income</div>
           </div>
-          <div class="stat-card">
-            <div class="stat-value">₱78.3B</div>
-            <div class="stat-label">Total Disallowances</div>
+        </div>
+        <div class="ratio-level">
+          <div class="ratio-color" style="background: #ff4500;"></div>
+          <div class="ratio-info">
+            <div class="ratio-name">Elevated</div>
+            <div class="ratio-range">1-2% of operating income</div>
           </div>
-          <div class="stat-card">
-            <div class="stat-value">2016-2022</div>
-            <div class="stat-label">Data Coverage</div>
+        </div>
+        <div class="ratio-level">
+          <div class="ratio-color" style="background: #ff8c00;"></div>
+          <div class="ratio-info">
+            <div class="ratio-name">Moderate</div>
+            <div class="ratio-range">0.5-1% of operating income</div>
           </div>
-          <div class="stat-card">
-            <div class="stat-value">1,751</div>
-            <div class="stat-label">LGUs Tracked</div>
+        </div>
+        <div class="ratio-level">
+          <div class="ratio-color" style="background: #ffd700;"></div>
+          <div class="ratio-info">
+            <div class="ratio-name">Low</div>
+            <div class="ratio-range">0.1-0.5% of operating income</div>
+          </div>
+        </div>
+        <div class="ratio-level">
+          <div class="ratio-color" style="background: #fffacd;"></div>
+          <div class="ratio-info">
+            <div class="ratio-name">Minimal</div>
+            <div class="ratio-range">< 0.1% of operating income</div>
           </div>
         </div>
       </div>
+    </div>
 
-      <div class="section">
-        <h2>Data Source & Methodology</h2>
-        <p>
-          All data is sourced from official Commission on Audit (COA) Annual Audit Reports covering the period 2016-2022.
-          The dataset includes:
-        </p>
-        <ul>
-          <li>Province-level aggregated disallowances</li>
-          <li>Individual LGU (Local Government Unit) disallowance records</li>
-          <li>Notice of Disallowance (ND) ending balances</li>
-          <li>Year-by-year tracking of audit findings</li>
-        </ul>
+    <div class="card">
+      <h2>Why This Matters</h2>
 
-        <div class="note">
-          <strong>Note:</strong> Some provinces may show no data due to either having zero disallowances
-          during the period or incomplete data availability in the source reports. The ARMM/BARMM special
-          administrative region can be highlighted separately using the toggle option.
+      <h3>Exposing Systemic Issues</h3>
+      <p>
+        Disallowances represent government expenditures that violate laws, rules, or regulations.
+        While some may be technical violations, patterns of high disallowance ratios often indicate:
+      </p>
+      <ul>
+        <li>Weak internal controls and financial management systems</li>
+        <li>Potential corruption or misuse of public funds</li>
+        <li>Lack of compliance with procurement laws and regulations</li>
+        <li>Governance challenges that may correlate with political dynasties</li>
+      </ul>
+
+      <h3>Empowering Citizens</h3>
+      <p>
+        OpenAudit democratizes access to complex audit data, transforming thousands of pages of COA reports
+        into an intuitive visual interface. Citizens can now:
+      </p>
+      <ul>
+        <li>Compare their LGU's performance against regional and national benchmarks</li>
+        <li>Track improvements or deterioration over multiple years</li>
+        <li>Hold local officials accountable with concrete, normalized metrics</li>
+        <li>Make informed decisions during elections based on fiscal responsibility</li>
+      </ul>
+
+      <div class="highlight-box">
+        <strong>Research Connection:</strong> Studies have shown correlations between areas with
+        entrenched political dynasties and higher rates of fiscal irregularities. By making this
+        data accessible and comparable, OpenAudit enables researchers and journalists to investigate
+        these patterns systematically.
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Data Coverage</h2>
+
+      <div class="stats-grid">
+        <div class="stat-card">
+          <div class="stat-number">87</div>
+          <div class="stat-label">Provinces Mapped</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-number">1,700+</div>
+          <div class="stat-label">LGUs Tracked</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-number">2016-2022</div>
+          <div class="stat-label">Years Covered</div>
         </div>
       </div>
 
-      <div class="section">
-        <h2>Special Features</h2>
-        <ul>
-          <li><strong>Interactive Visualization:</strong> Hover over provinces to see detailed information</li>
-          <li><strong>Risk-Based Coloring:</strong> Quick visual identification of high-risk areas</li>
-          <li><strong>ARMM/BARMM Overlay:</strong> Special highlighting for autonomous regions</li>
-          <li><strong>Comprehensive Coverage:</strong> Data from 87 provinces and 1,751 LGUs</li>
-        </ul>
-      </div>
+      <p style="margin-top: 2rem;">
+        Our database integrates COA Annual Audit Reports with Department of Finance SRE data,
+        creating the most comprehensive public accountability dataset available for the Philippines.
+        The platform updates as new audit reports are released, ensuring citizens have access to
+        the latest accountability information.
+      </p>
+    </div>
 
-      <div class="section">
-        <h2>Understanding the Colors</h2>
-        <p>
-          The color intensity on the map directly correlates with the severity of disallowances:
-        </p>
-        <ul>
-          <li><strong>Dark Red:</strong> Provinces with the highest disallowances (often major urban centers)</li>
-          <li><strong>Red to Orange:</strong> Significant disallowances requiring attention</li>
-          <li><strong>Yellow to Green:</strong> Lower levels of disallowances</li>
-          <li><strong>Gray:</strong> No data available or zero disallowances recorded</li>
-        </ul>
-      </div>
+    <div class="card">
+      <h2>Technical Implementation</h2>
 
-      <a href="index.html" class="back-link">← Back to Map</a>
+      <p>
+        OpenAudit leverages modern web technologies to deliver a responsive, interactive experience:
+      </p>
+      <ul>
+        <li><strong>Data Processing:</strong> Python scripts normalize and match COA disallowances with DOF financial data</li>
+        <li><strong>Visualization:</strong> Leaflet.js renders interactive maps with GeoJSON boundaries</li>
+        <li><strong>User Interface:</strong> Click-based interaction reveals detailed breakdowns for each area</li>
+        <li><strong>Open Source:</strong> All code and processed data available for researchers and developers</li>
+      </ul>
+
+      <p>
+        The platform calculates ratios dynamically, showing both the total disallowances (numerator)
+        and total operating income (denominator) for full transparency in our methodology.
+      </p>
+    </div>
+
+    <div class="footer">
+      <p>
+        <strong>OpenAudit Philippines</strong> is a civic technology initiative promoting transparency
+        and accountability in local governance.
+      </p>
+      <p style="margin-top: 1rem;">
+        Data sources: Commission on Audit (COA) Annual Audit Reports |
+        Department of Finance Statement of Receipts and Expenditures
+      </p>
+      <a href="index.html" class="btn-primary">Explore the Map</a>
     </div>
   </div>
 </body>
