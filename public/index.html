@@ -261,6 +261,61 @@
       color: rgba(255,255,255,0.8);
       font-size: 0.9rem;
     }
+
+    /* Fullscreen mode */
+    body.fullscreen-mode header {
+      display: none;
+    }
+
+    body.fullscreen-mode footer {
+      display: none;
+    }
+
+    body.fullscreen-mode #map-container {
+      height: 100vh;
+    }
+
+    .fullscreen-btn {
+      color: white;
+      text-decoration: none;
+      padding: 0.5rem 1rem;
+      background: rgba(255,255,255,0.2);
+      border-radius: 8px;
+      font-size: 0.9rem;
+      border: 1px solid rgba(255,255,255,0.3);
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .fullscreen-btn:hover {
+      background: rgba(255,255,255,0.35);
+    }
+
+    /* Restore button shown only in fullscreen mode */
+    .restore-btn {
+      display: none;
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      z-index: 1001;
+      background: rgba(44, 62, 80, 0.85);
+      color: white;
+      border: 1px solid rgba(255,255,255,0.3);
+      border-radius: 6px;
+      padding: 0.4rem 0.8rem;
+      cursor: pointer;
+      font-size: 0.8rem;
+      font-family: inherit;
+      transition: all 0.2s;
+    }
+
+    .restore-btn:hover {
+      background: rgba(44, 62, 80, 1);
+    }
+
+    body.fullscreen-mode .restore-btn {
+      display: block;
+    }
   </style>
 </head>
 <body>
@@ -273,11 +328,13 @@
       <div style="display: flex; gap: 1rem; align-items: center;">
         <a href="about.html" style="color: white; text-decoration: none; padding: 0.5rem 1rem; background: rgba(255,255,255,0.2); border-radius: 8px; font-size: 0.9rem; border: 1px solid rgba(255,255,255,0.3);">About</a>
         <a href="login.html" style="color: white; text-decoration: none; padding: 0.5rem 1rem; background: rgba(52, 152, 219, 0.4); border-radius: 8px; font-size: 0.9rem; border: 1px solid rgba(52, 152, 219, 0.5);">Compliance Tracker</a>
+        <button id="fullscreen-toggle" class="fullscreen-btn" title="Focus on map">Full Map</button>
       </div>
     </div>
   </header>
 
   <div id="map-container">
+    <button id="restore-view" class="restore-btn" title="Show header and footer">Exit Full Map</button>
     <button id="toggle-controls" class="toggle-controls-btn" title="Toggle View Options">
       <span class="toggle-icon">⚙</span>
     </button>
@@ -363,6 +420,18 @@
     // Initialize the map when DOM is ready
     document.addEventListener('DOMContentLoaded', () => {
       initMap();
+
+      // Fullscreen toggle
+      function toggleFullscreen() {
+        document.body.classList.toggle('fullscreen-mode');
+        // Invalidate map size so Leaflet redraws correctly
+        if (window.state && state.map) {
+          setTimeout(() => state.map.invalidateSize(), 100);
+        }
+      }
+
+      document.getElementById('fullscreen-toggle').addEventListener('click', toggleFullscreen);
+      document.getElementById('restore-view').addEventListener('click', toggleFullscreen);
     });
   </script>
 </body>
