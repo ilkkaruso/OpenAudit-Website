@@ -109,22 +109,22 @@
 
     .info-panel {
       background: rgba(255, 255, 255, 0.95);
-      padding: 1.5rem;
+      padding: 1rem;
       border-radius: 12px;
       box-shadow: 0 4px 12px rgba(0,0,0,0.3);
       min-width: 250px;
     }
 
     .info-panel h4 {
-      margin: 0 0 1rem;
-      font-size: 1.3rem;
+      margin: 0 0 0.6rem;
+      font-size: 1.15rem;
       color: #2c3e50;
     }
 
     .disallowance-amount {
-      font-size: 2rem;
+      font-size: 1.5rem;
       font-weight: 700;
-      margin: 0.5rem 0;
+      margin: 0.3rem 0;
       color: #e74c3c;
     }
 
@@ -145,13 +145,13 @@
     .risk-badge.no_data { background: #e0e0e0; color: #666; }
 
     .info-details {
-      margin-top: 1rem;
-      font-size: 0.95rem;
+      margin-top: 0.6rem;
+      font-size: 0.9rem;
       color: #34495e;
     }
 
     .info-details div {
-      padding: 0.4rem 0;
+      padding: 0.3rem 0;
       border-bottom: 1px solid #ecf0f1;
     }
 
@@ -287,54 +287,55 @@
       <!-- Legend integrated at top -->
       <div id="integrated-legend" style="margin-bottom: 1rem; padding-bottom: 0.75rem; border-bottom: 1px solid #e0e0e0;">
         <h4 style="font-size: 0.8rem; margin: 0 0 0.5rem 0; color: #666;">Disallowance Ratio</h4>
-        <div class="legend-items" style="font-size: 11px; color: #333;">
-          <div style="display: flex; align-items: center; margin: 2px 0;">
-            <span style="width: 14px; height: 14px; background: #67000d; margin-right: 6px; border-radius: 2px; border: 1px solid rgba(0,0,0,0.1);"></span>
-            <span style="color: #333;">≥ 5%</span>
-          </div>
-          <div style="display: flex; align-items: center; margin: 2px 0;">
-            <span style="width: 14px; height: 14px; background: #a50f15; margin-right: 6px; border-radius: 2px;"></span>
-            <span>2-5%</span>
-          </div>
-          <div style="display: flex; align-items: center; margin: 2px 0;">
-            <span style="width: 14px; height: 14px; background: #cb181d; margin-right: 6px; border-radius: 2px;"></span>
-            <span>1-2%</span>
-          </div>
-          <div style="display: flex; align-items: center; margin: 2px 0;">
-            <span style="width: 14px; height: 14px; background: #ef3b2c; margin-right: 6px; border-radius: 2px;"></span>
-            <span>0.5-1%</span>
-          </div>
-          <div style="display: flex; align-items: center; margin: 2px 0;">
-            <span style="width: 14px; height: 14px; background: #fb6a4a; margin-right: 6px; border-radius: 2px;"></span>
-            <span>0.1-0.5%</span>
-          </div>
-          <div style="display: flex; align-items: center; margin: 2px 0;">
-            <span style="width: 14px; height: 14px; background: #fc9272; margin-right: 6px; border-radius: 2px;"></span>
-            <span>< 0.1%</span>
-          </div>
-          <div style="display: flex; align-items: center; margin: 2px 0;">
-            <span style="width: 14px; height: 14px; background: #d3d3d3; margin-right: 6px; border-radius: 2px;"></span>
-            <span>No Data</span>
-          </div>
+        <div style="position: relative; height: 18px; border-radius: 3px; border: 1px solid rgba(0,0,0,0.15); background: linear-gradient(to right, hsl(0,50%,92%), hsl(0,60%,78%) 20%, hsl(0,70%,62%) 40%, hsl(0,80%,47%) 60%, hsl(0,88%,33%) 80%, hsl(0,95%,15%)); margin-bottom: 4px;"></div>
+        <div style="display: flex; justify-content: space-between; font-size: 10px; color: #555; padding: 0 1px;">
+          <span>0.01%</span>
+          <span>0.1%</span>
+          <span>1%</span>
+          <span>5%</span>
+          <span>10%</span>
+          <span>25%+</span>
+        </div>
+        <div style="display: flex; align-items: center; margin-top: 5px; font-size: 11px;">
+          <span style="width: 14px; height: 14px; background: #d3d3d3; margin-right: 6px; border-radius: 2px; border: 1px solid rgba(0,0,0,0.1);"></span>
+          <span style="color: #555;">No Data</span>
         </div>
       </div>
 
-      <!-- View toggle buttons at bottom -->
+      <!-- Year selection dropdown -->
+      <div class="control-group" style="margin-bottom: 0.5rem;">
+        <label style="font-size: 0.75rem; font-weight: 600; color: #666; margin-bottom: 0.3rem; display: block;">Year</label>
+        <select id="year-select" style="width: 100%; padding: 0.3rem; font-size: 0.7rem; border: 1px solid #ccc; border-radius: 4px; background: white; color: #333;">
+          <option value="sum">Sum (2016-2022)</option>
+          <option value="average" selected>Average (2016-2022)</option>
+          <option value="2022">2022</option>
+          <option value="2021">2021</option>
+          <option value="2020">2020</option>
+          <option value="2019">2019</option>
+          <option value="2018">2018</option>
+          <option value="2017">2017</option>
+          <option value="2016">2016</option>
+        </select>
+      </div>
+
+      <!-- Ratio calculation type dropdown -->
+      <div class="control-group" style="margin-bottom: 0.5rem;">
+        <label style="font-size: 0.75rem; font-weight: 600; color: #666; margin-bottom: 0.3rem; display: block;">Ratio Type</label>
+        <select id="ratio-type" style="width: 100%; padding: 0.3rem; font-size: 0.7rem; border: 1px solid #ccc; border-radius: 4px; background: white; color: #333;">
+          <option value="expenditures" selected>Disallowances / Total Current Operating Expenditures</option>
+          <option value="local_sources">Disallowances / Total Local Sources</option>
+        </select>
+      </div>
+
+      <!-- View toggle buttons -->
       <div class="control-group" style="margin-bottom: 0.5rem;">
         <label style="font-size: 0.75rem; font-weight: 600; color: #666; margin-bottom: 0.3rem; display: block;">View Level</label>
         <div class="toggle-buttons" style="display: flex; gap: 0.3rem;">
           <button id="view-provinces" class="toggle-btn active" style="flex: 1; padding: 0.3rem; font-size: 0.7rem;">Provinces</button>
-          <button id="view-lgus" class="toggle-btn" style="flex: 1; padding: 0.3rem; font-size: 0.7rem;">Municipalities</button>
+          <button id="view-lgus" class="toggle-btn" style="flex: 1; padding: 0.3rem; font-size: 0.7rem;">Municipalities & Cities</button>
         </div>
       </div>
 
-      <!-- Small toggles at bottom -->
-      <div style="margin-top: 0.5rem; padding-top: 0.5rem; border-top: 1px solid #e0e0e0;">
-        <label style="display: flex; align-items: center; cursor: pointer; font-size: 0.7rem; color: #333;">
-          <input type="checkbox" id="toggle-regions" style="margin-right: 0.3rem; width: 12px; height: 12px;">
-          <span style="color: #333;">Highlight ARMM BARMM</span>
-        </label>
-      </div>
     </div>
 
     <div id="map"></div>
@@ -354,7 +355,7 @@
   </div>
 
   <footer>
-    <p>Data Source: Commission on Audit (COA) Annual Audit Reports 2016-2022 | Disallowances Dataset v2.3</p>
+    <p id="footer-text">Data Source: Commission on Audit (COA) Annual Audit Reports 2016-2022 | Department of Finance Statement of Receipts and Expenditures | Provincial & LGU Disallowances Dataset v2.3</p>
   </footer>
 
   <script src="js/map.js"></script>
