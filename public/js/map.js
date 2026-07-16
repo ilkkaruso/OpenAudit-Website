@@ -12,7 +12,7 @@ const state = {
   currentYear: 'average',
   currentDataset: 'disallowances',
   currentView: 'provinces',
-  currentRatioType: 'expenditures',  // 'local_sources' or 'expenditures'
+  currentRatioType: 'nd_expenditures',  // metric type: nd_expenditures, nd_local_sources, nc_local_sources, nd_per_capita, nc_per_capita
   showRegions: false,
   showLegend: true,
 
@@ -29,6 +29,7 @@ const state = {
   regionData: null,
   provinceGeoJson: null,
   lguGeoJson: null,
+  coaLinks: null,       // COA Annual Audit Report links by province
 
   // Info control
   info: null,
@@ -45,59 +46,83 @@ const PH_CENTER = [12.5, 122];
 // UTILITY FUNCTIONS
 // ============================================
 
-// Helper function to get the correct ratio field based on current ratio type
+// Helper: is current metric a per-capita type?
+function isPerCapitaMetric() {
+  return state.currentRatioType === 'nd_per_capita' || state.currentRatioType === 'nc_per_capita';
+}
+
+// Helper: is current metric an NC (Notice of Charges) type?
+function isNCMetric() {
+  return state.currentRatioType === 'nc_local_sources' || state.currentRatioType === 'nc_per_capita';
+}
+
+// Helper function to get the correct ratio/value based on current metric type
 function getRatioField(data, year = 'sum') {
   if (!data) return null;
 
-  // For sum view, use the total sums to calculate ratio
-  if (year === 'sum') {
-    const totalDisallowances = data.totalDisallowances || 0;
-    let totalDenominator = 0;
+  const rt = state.currentRatioType;
 
-    if (state.currentRatioType === 'local_sources') {
-      totalDenominator = data.total_local_sources || 0;
-    } else {
-      // Use total operating expenditures as denominator
-      totalDenominator = data.total_operating_expenditures || 0;
+  // === PER CAPITA METRICS ===
+  if (rt === 'nd_per_capita' || rt === 'nc_per_capita') {
+    const isND = rt === 'nd_per_capita';
+    if (year === 'average') {
+      return isND ? (data.true_avg_nd_per_capita || 0) : (data.true_avg_nc_per_capita || 0);
     }
+    if (year === 'sum') {
+      return isND ? (data.nd_per_capita || 0) : (data.nc_per_capita || 0);
+    }
+    // Specific year
+    const perCapByYear = isND ? data.nd_per_capita_by_year : data.nc_per_capita_by_year;
+    return (perCapByYear && perCapByYear[year]) || 0;
+  }
 
-    if (totalDenominator > 0) {
-      return (totalDisallowances / totalDenominator) * 100;
+  // === RATIO METRICS (percentage) ===
+  // Determine numerator source and denominator source
+  const isNC = rt === 'nc_local_sources';
+  const numeratorYears = isNC ? (data.years_nc || {}) : (data.years || {});
+  const totalNumerator = isNC ? (data.totalCharges || 0) : (data.totalDisallowances || 0);
+
+  // Denominator: for NC always use local_sources; for ND use expenditures or local_sources
+  let denomKey, denomYearKey, trueAvgKey;
+  if (isNC || rt === 'nd_local_sources') {
+    denomKey = 'total_local_sources';
+    denomYearKey = 'local_sources_by_year';
+    trueAvgKey = isNC ? 'true_avg_nc_ratio_local' : 'true_avg_ratio_local';
+  } else {
+    // nd_expenditures (default)
+    denomKey = 'total_operating_expenditures';
+    denomYearKey = 'operating_exp_by_year';
+    trueAvgKey = 'true_avg_ratio_exp';
+  }
+
+  if (year === 'sum') {
+    const totalDenom = data[denomKey] || 0;
+    if (totalDenom > 0) {
+      return (totalNumerator / totalDenom) * 100;
     }
     return 0;
   }
 
-  // For average view, use true average of per-year ratios
   if (year === 'average') {
-    if (state.currentRatioType === 'local_sources') {
-      return data.true_avg_ratio_local || 0;
-    }
-    return data.true_avg_ratio_exp || 0;
+    return data[trueAvgKey] || 0;
   }
 
-  // For specific years, calculate the ratio
-  if (data.years && data.years[year]) {
-    const disallowances = data.years[year];
-    let denominator = 0;
-
-    if (state.currentRatioType === 'local_sources' && data.local_sources_by_year) {
-      denominator = data.local_sources_by_year[year] || 0;
-    } else if (data.operating_exp_by_year) {
-      denominator = data.operating_exp_by_year[year] || 0;
-    }
-
-    if (denominator > 0) {
-      return (disallowances / denominator) * 100;
-    }
+  // Specific year
+  const numVal = numeratorYears[year] || 0;
+  const denomByYear = data[denomYearKey] || {};
+  const denomVal = denomByYear[year] || 0;
+  if (denomVal > 0) {
+    return (numVal / denomVal) * 100;
   }
-
-  // If we reach here, no data available
   return 0;
 }
 
 function getRiskColor(score) {
   // For disallowances dataset, use ratio-based coloring
   if (state.currentDataset === 'disallowances') {
+    if (isPerCapitaMetric()) {
+      return getPerCapitaColor(score);
+    }
     return getDisallowanceColor(score);
   }
 
@@ -111,22 +136,58 @@ function getRiskColor(score) {
 }
 
 function getDisallowanceColor(ratio) {
-  // Continuous log-scale gradient: pale pink -> red -> very dark red
-  if (ratio === null || ratio === undefined) return '#d3d3d3';  // No data - light gray
-  if (ratio <= 0) return '#fee0d2';  // Zero/negative - palest
+  // Discrete decile-based color grading (percentage-based metrics)
+  if (ratio === null || ratio === undefined) return '#d3d3d3';  // No data - grey
+  if (ratio <= 0) return '#d3d3d3';  // Zero/negative - grey (no meaningful data)
 
-  // Log scale mapping: 0.01% -> 0.0, 50% -> 1.0
-  const logMin = Math.log10(0.01);  // -2
-  const logMax = Math.log10(50);    // ~1.7
-  const t = Math.max(0, Math.min(1, (Math.log10(ratio) - logMin) / (logMax - logMin)));
+  if (ratio >= 20) return '#2b0000';  // 20%+ darkest
+  if (ratio >= 18) return '#3b0000';
+  if (ratio >= 16) return '#4a0000';
+  if (ratio >= 14) return '#5a0000';
+  if (ratio >= 12) return '#6b0000';
+  if (ratio >= 10) return '#7f0000';
+  if (ratio >= 8)  return '#960b0b';
+  if (ratio >= 6)  return '#a81515';
+  if (ratio >= 5)  return '#b71c1c';
+  if (ratio >= 4)  return '#c62828';
+  if (ratio >= 3)  return '#d32f2f';
+  if (ratio >= 2)  return '#e53935';
+  if (ratio >= 1.5) return '#ef5350';
+  if (ratio >= 1)  return '#f57a7a';
+  if (ratio >= 0.8) return '#f9a0a0';
+  if (ratio >= 0.6) return '#fbb4b4';
+  if (ratio >= 0.4) return '#fcc8c8';
+  if (ratio >= 0.2) return '#fddcdc';
+  if (ratio >= 0.1) return '#feecec';
+  return '#fff5f5';  // < 0.1% - palest
+}
 
-  // Interpolate through a red gradient using HSL
-  // Hue stays at 0 (red), saturation stays high
-  // Lightness goes from 92% (very pale) to 15% (very dark)
-  const lightness = 92 - t * 77;  // 92% -> 15%
-  const saturation = 50 + t * 45; // 50% -> 95%
+function getPerCapitaColor(value) {
+  // Per capita color scale (in pesos per person)
+  // Range: 0 to 10,000+ PHP per capita
+  if (value === null || value === undefined) return '#d3d3d3';
+  if (value <= 0) return '#d3d3d3';
 
-  return `hsl(0, ${saturation.toFixed(1)}%, ${lightness.toFixed(1)}%)`;
+  if (value >= 10000) return '#2b0000';
+  if (value >= 5000)  return '#3b0000';
+  if (value >= 2000)  return '#4a0000';
+  if (value >= 1000)  return '#5a0000';
+  if (value >= 500)   return '#6b0000';
+  if (value >= 200)   return '#7f0000';
+  if (value >= 100)   return '#960b0b';
+  if (value >= 50)    return '#a81515';
+  if (value >= 20)    return '#b71c1c';
+  if (value >= 10)    return '#c62828';
+  if (value >= 5)     return '#d32f2f';
+  if (value >= 2)     return '#e53935';
+  if (value >= 1)     return '#ef5350';
+  if (value >= 0.5)   return '#f57a7a';
+  if (value >= 0.2)   return '#f9a0a0';
+  if (value >= 0.1)   return '#fbb4b4';
+  if (value >= 0.05)  return '#fcc8c8';
+  if (value >= 0.01)  return '#fddcdc';
+  if (value >= 0.001) return '#feecec';
+  return '#fff5f5';
 }
 
 function getRiskLevel(score) {
@@ -298,6 +359,92 @@ async function loadRegionData() {
     console.error('Failed to load region data:', err);
     return {};
   }
+}
+
+async function loadCoaLinks() {
+  if (state.coaLinks) {
+    return state.coaLinks;
+  }
+
+  try {
+    const response = await fetch('data/coa_links.json');
+    const raw = await response.json();
+
+    // Build a normalized lookup: lowercase province name -> links data
+    // This handles capitalization differences (e.g. "Del" vs "del")
+    const lookup = {};
+
+    // Q-code entries have municipality_report data that proper entries lack.
+    // Map Q-codes to their province names (derived from URL slugs).
+    const qcodeMap = {
+      'Q13714': 'agusan del norte',
+      'Q13721': 'agusan del sur',
+      'Q13726': 'albay',
+      'Q13740': 'batanes',
+      'Q13744': 'batangas',
+      'Q13763': 'camarines norte',
+      'Q13769': 'camiguin',
+      'Q13844': 'leyte',
+      'Q13860': 'misamis oriental',
+    };
+
+    // First pass: add all proper (non-Q-code) entries
+    for (const [name, data] of Object.entries(raw)) {
+      if (name.startsWith('Q')) continue;
+      const key = name.toLowerCase().trim();
+      lookup[key] = JSON.parse(JSON.stringify(data));  // deep copy
+    }
+
+    // Second pass: merge Q-code municipality_report data into proper entries
+    for (const [qcode, provName] of Object.entries(qcodeMap)) {
+      const qData = raw[qcode];
+      if (!qData) continue;
+      const qMuni = qData.municipality_report || {};
+      if (Object.keys(qMuni).length === 0) continue;
+
+      if (!lookup[provName]) {
+        // No proper entry exists, create one from Q-code data
+        lookup[provName] = { province_report: {}, municipality_report: qMuni };
+      } else if (Object.keys(lookup[provName].municipality_report || {}).length === 0) {
+        // Proper entry exists but has empty municipality_report - fill it
+        lookup[provName].municipality_report = qMuni;
+      }
+    }
+
+    // Name aliases: map disallowances data names to COA link names
+    const nameAliases = {
+      'cotabato': ['north cotabato'],
+      'maguindanao del norte': ['maguindanao'],
+      'maguindanao del sur': ['maguindanao'],
+    };
+
+    for (const [coaName, aliases] of Object.entries(nameAliases)) {
+      if (lookup[coaName]) {
+        for (const alias of aliases) {
+          if (!lookup[alias]) {
+            lookup[alias] = lookup[coaName];
+          }
+        }
+      }
+    }
+
+    console.log(`Loaded COA links for ${Object.keys(lookup).length} provinces`);
+    state.coaLinks = lookup;
+    return lookup;
+  } catch (err) {
+    console.error('Failed to load COA links:', err);
+    return {};
+  }
+}
+
+/**
+ * Find COA report links for a given province name.
+ * Returns { province_report: {year: url}, municipality_report: {year: url} } or null.
+ */
+function getCoaLinksForProvince(provinceName) {
+  if (!state.coaLinks || !provinceName) return null;
+  const key = provinceName.toLowerCase().trim();
+  return state.coaLinks[key] || null;
 }
 
 // ============================================
@@ -504,200 +651,263 @@ function createInfoControl() {
     // Check if we're showing disallowances data
     const isDisallowances = state.currentDataset === 'disallowances';
 
-    if (isDisallowances && displayScoreData) {
-      // Get data based on selected year
-      let ratio = 0;
-      let totalDisallowances = 0;
-      let denominator = 0;
-      let denominatorLabel = '';
+    // Build COA report links HTML for the current feature
+    function buildCoaLinksHTML(provinceName, isLGUView) {
+      const links = getCoaLinksForProvince(provinceName);
+      if (!links) return '';
 
-      if (state.currentYear === 'sum') {
-        // For sum, use the total sums
-        totalDisallowances = displayScoreData.totalDisallowances || 0;
+      const relevantYears = ['2016', '2017', '2018', '2019', '2020', '2021', '2022'];
 
-        if (state.currentRatioType === 'local_sources') {
-          denominatorLabel = 'Total Local Sources';
-          denominator = displayScoreData.total_local_sources || 0;
-          if (denominator > 0) {
-            ratio = (totalDisallowances / denominator) * 100;
-          }
+      function makeYearLinks(reports, label) {
+        const available = relevantYears.filter(y => reports[y]);
+        if (available.length === 0) return '';
+        const yearLinks = available.map(y =>
+          `<a href="${reports[y]}" target="_blank" rel="noopener" style="color: #2980b9; text-decoration: none; padding: 1px 3px; border: 1px solid #bdc3c7; border-radius: 3px; font-size: 0.75em; transition: all 0.2s;"
+              onmouseover="this.style.background='#2980b9';this.style.color='white'"
+              onmouseout="this.style.background='';this.style.color='#2980b9'">${y}</a>`
+        ).join(' ');
+        return `
+          <div style="font-size: 0.72em; color: #666; margin-bottom: 2px;"><strong>${label}:</strong></div>
+          <div style="display: flex; flex-wrap: wrap; gap: 3px; margin-bottom: 4px;">${yearLinks}</div>
+        `;
+      }
+
+      const provReports = links.province_report || {};
+      const muniReports = links.municipality_report || {};
+
+      let sections = '';
+      if (isLGUView) {
+        // For LGU view: show municipality report links (links to all munis in the province)
+        sections = makeYearLinks(muniReports, 'Municipality Audit Reports');
+        // Also show province report as secondary
+        if (sections) {
+          sections += makeYearLinks(provReports, 'Province Audit Report');
         } else {
-          denominatorLabel = 'Total Operating Expenditures';
-          denominator = displayScoreData.total_operating_expenditures || 0;
-          if (denominator > 0) {
-            ratio = (totalDisallowances / denominator) * 100;
-          }
+          sections = makeYearLinks(provReports, 'Province Audit Report');
         }
-      } else if (state.currentYear === 'average') {
-        // For average view, use true average of per-year ratios
-        totalDisallowances = displayScoreData.totalDisallowances || 0;
-
-        if (state.currentRatioType === 'local_sources') {
-          denominatorLabel = 'Total Local Sources';
-          denominator = displayScoreData.total_local_sources || 0;
-          ratio = displayScoreData.true_avg_ratio_local || 0;
-        } else {
-          denominatorLabel = 'Total Operating Expenditures';
-          denominator = displayScoreData.total_operating_expenditures || 0;
-          ratio = displayScoreData.true_avg_ratio_exp || 0;
-        }
-
-        // Store averages for display
-        displayScoreData._avgDisallowances = displayScoreData.avgDisallowances || 0;
-        displayScoreData._avgDenominator = (state.currentRatioType === 'local_sources')
-          ? (displayScoreData.avgLocalSources || 0)
-          : (displayScoreData.avgOperatingExpenditures || 0);
       } else {
-        // For specific year, use year data
-        totalDisallowances = displayScoreData.years && displayScoreData.years[state.currentYear] || 0;
+        // For province view: show province report first, then municipality
+        sections = makeYearLinks(provReports, 'Province Audit Report');
+        sections += makeYearLinks(muniReports, 'Municipality Audit Reports');
+      }
 
-        if (state.currentRatioType === 'local_sources') {
-          denominatorLabel = 'Total Local Sources';
-          denominator = displayScoreData.local_sources_by_year &&
-                       displayScoreData.local_sources_by_year[state.currentYear] || 0;
-        } else {
-          denominatorLabel = 'Total Operating Expenditures';
-          denominator = displayScoreData.operating_exp_by_year &&
-                       displayScoreData.operating_exp_by_year[state.currentYear] || 0;
-        }
+      if (!sections) return '';
 
-        // Calculate ratio for specific year
-        if (denominator > 0) {
-          ratio = (totalDisallowances / denominator) * 100;
-        }
+      return `
+        <div style="margin-top: 6px; padding-top: 6px; border-top: 1px solid #e0e0e0;">
+          <div style="font-size: 0.75em; color: #555; margin-bottom: 3px; font-weight: bold;">
+            COA Annual Reports (${provinceName}):
+          </div>
+          ${sections}
+        </div>
+      `;
+    }
+
+    if (isDisallowances && displayScoreData) {
+      // Determine current metric context
+      const rt = state.currentRatioType;
+      const perCapita = isPerCapitaMetric();
+      const ncMetric = isNCMetric();
+
+      // Labels for current metric
+      const numeratorLabel = ncMetric ? 'Charges (NC)' : 'Disallowances (ND)';
+      const numeratorLabelShort = ncMetric ? 'NC' : 'ND';
+      let denominatorLabel = '';
+      let metricLabel = '';
+
+      if (perCapita) {
+        denominatorLabel = 'Population';
+        metricLabel = `${numeratorLabelShort} PER CAPITA`;
+      } else if (rt === 'nc_local_sources') {
+        denominatorLabel = 'Total Local Sources';
+        metricLabel = 'NC / LOCAL SOURCES';
+      } else if (rt === 'nd_local_sources') {
+        denominatorLabel = 'Total Local Sources';
+        metricLabel = 'ND / LOCAL SOURCES';
+      } else {
+        denominatorLabel = 'Total Operating Expenditures';
+        metricLabel = 'ND / OPERATING EXPENDITURES';
+      }
+
+      // Get the metric value using getRatioField
+      const metricValue = getRatioField(displayScoreData, state.currentYear);
+
+      // Get numerator/denominator amounts for display
+      const numeratorYears = ncMetric ? (displayScoreData.years_nc || {}) : (displayScoreData.years || {});
+      const totalNumerator = ncMetric ? (displayScoreData.totalCharges || 0) : (displayScoreData.totalDisallowances || 0);
+
+      let totalDenominator = 0;
+      let denomByYear = {};
+      if (perCapita) {
+        totalDenominator = displayScoreData.population || 0;
+        denomByYear = displayScoreData.population_by_year || {};
+      } else if (rt === 'nc_local_sources' || rt === 'nd_local_sources') {
+        totalDenominator = displayScoreData.total_local_sources || 0;
+        denomByYear = displayScoreData.local_sources_by_year || {};
+      } else {
+        totalDenominator = displayScoreData.total_operating_expenditures || 0;
+        denomByYear = displayScoreData.operating_exp_by_year || {};
+      }
+
+      // For specific year, get year amounts
+      let yearNumerator = 0, yearDenominator = 0;
+      if (state.currentYear !== 'sum' && state.currentYear !== 'average') {
+        yearNumerator = numeratorYears[state.currentYear] || 0;
+        yearDenominator = denomByYear[state.currentYear] || 0;
       }
 
       // Check if we have valid data
-      const hasValidData = totalDisallowances > 0 || denominator > 0;
-
-      const avgPerLGU = displayScoreData.avgDisallowancesPerLGU || 0;
-      const formattedAvg = avgPerLGU ? `₱${avgPerLGU.toLocaleString('en-PH', {minimumFractionDigits: 2, maximumFractionDigits: 2})}` : '—';
+      const hasValidData = totalNumerator > 0 || totalDenominator > 0;
 
       // Check if this is an LGU/Municipality
-      // A province won't have a 'province' field, but an LGU will
-      // Also check that we're not displaying a province itself
       const isLGU = displayScoreData?.province &&
                     displayScoreData.province !== 'None' &&
                     displayScoreData.name !== displayScoreData.province;
 
-      // Build the info panel HTML - matching original style
-      const level = displayScoreData?.riskLevel || getRiskLevel(ratio);
+      const level = displayScoreData?.riskLevel || getRiskLevel(perCapita ? 0 : metricValue);
 
-      if (!hasValidData || totalDisallowances === 0) {
+      // Determine province name for COA links
+      const coaProvinceName = isLGU ? (displayScoreData.province || '') : (displayScoreData.name || name);
+      const coaLinksHTML = buildCoaLinksHTML(coaProvinceName, isLGU);
+
+      if (!hasValidData || totalNumerator === 0) {
         // No data available
         this._div.innerHTML = `
           <h4>${name}${isLGU ? ` <span style="font-size: 0.8em; color: #666;">(${displayScoreData.province})</span>` : ''}</h4>
           <div style="padding: 20px 0; text-align: center; color: #999;">
             <div style="font-size: 1.2em; margin-bottom: 10px;">No Data Available</div>
-            <div style="font-size: 0.9em;">No financial data for ${(state.currentYear !== 'average' && state.currentYear !== 'sum') ? state.currentYear : 'this period'}</div>
+            <div style="font-size: 0.9em;">No ${numeratorLabel.toLowerCase()} data for ${(state.currentYear !== 'average' && state.currentYear !== 'sum') ? state.currentYear : 'this period'}</div>
           </div>
+          ${coaLinksHTML}
         `;
       } else {
-        // Format amounts properly
-        const formattedTotal = `₱${totalDisallowances.toLocaleString('en-PH', {minimumFractionDigits: 2, maximumFractionDigits: 2})}`;
-        const formattedDenominator = denominator > 0 ?
-          `₱${denominator.toLocaleString('en-PH', {minimumFractionDigits: 2, maximumFractionDigits: 2})}` : '—';
+        // Format the main metric value
+        let formattedMetric;
+        let metricUnit;
+        if (perCapita) {
+          formattedMetric = metricValue >= 1 ? metricValue.toFixed(2) : metricValue.toFixed(4);
+          metricUnit = 'PHP/person';
+        } else {
+          formattedMetric = metricValue.toFixed(2);
+          metricUnit = '%';
+        }
+
+        // Format currency amounts
+        const fmtPeso = (v) => `₱${v.toLocaleString('en-PH', {minimumFractionDigits: 2, maximumFractionDigits: 2})}`;
+        const fmtNum = (v) => v.toLocaleString('en-PH');
+
+        // Population display
+        const popDisplay = displayScoreData.population ? fmtNum(Math.round(displayScoreData.population)) : '—';
 
         // Build info details based on view type
         let detailsHTML = '';
 
-        if (state.currentYear === 'average' && displayScoreData._avgDisallowances !== undefined) {
-          // For average view, show averages first, then totals
-          const formattedAvgDisallow = `₱${displayScoreData._avgDisallowances.toLocaleString('en-PH', {minimumFractionDigits: 2, maximumFractionDigits: 2})}`;
-          const formattedAvgDenom = displayScoreData._avgDenominator > 0 ?
-            `₱${displayScoreData._avgDenominator.toLocaleString('en-PH', {minimumFractionDigits: 2, maximumFractionDigits: 2})}` : '—';
+        if (state.currentYear === 'average') {
+          // Build per-year breakdown table
+          const perCapByYear = (rt === 'nd_per_capita') ? (displayScoreData.nd_per_capita_by_year || {}) :
+                               (rt === 'nc_per_capita') ? (displayScoreData.nc_per_capita_by_year || {}) : null;
 
-          // Build per-year ratio breakdown
-          const years = displayScoreData.years || {};
-          const expByYear = displayScoreData.operating_exp_by_year || {};
-          const localByYear = displayScoreData.local_sources_by_year || {};
-          const denomByYear = state.currentRatioType === 'local_sources' ? localByYear : expByYear;
-          const allYears = [...new Set([...Object.keys(years), ...Object.keys(denomByYear)])].sort();
+          const allYears = [...new Set([...Object.keys(numeratorYears), ...Object.keys(denomByYear)])].sort();
 
           let yearRows = '';
-          let ratioCount = 0;
+          let valueCount = 0;
           for (const yr of allYears) {
-            const d = years[yr] || 0;
-            const den = denomByYear[yr] || 0;
-            const yrRatio = den > 0 ? (d / den * 100) : null;
-            if (yrRatio !== null) ratioCount++;
-            yearRows += `<tr>
-              <td style="padding: 1px 4px;">${yr}</td>
-              <td style="padding: 1px 4px; text-align: right;">${yrRatio !== null ? yrRatio.toFixed(2) + '%' : '—'}</td>
-            </tr>`;
+            const n = numeratorYears[yr] || 0;
+            const d = denomByYear[yr] || 0;
+            let yrValue;
+            if (perCapita && perCapByYear) {
+              yrValue = perCapByYear[yr] || null;
+              if (yrValue !== null) valueCount++;
+              yearRows += `<tr>
+                <td style="padding: 1px 4px;">${yr}</td>
+                <td style="padding: 1px 4px; text-align: right;">${yrValue !== null ? (yrValue >= 1 ? yrValue.toFixed(2) : yrValue.toFixed(4)) : '—'}</td>
+              </tr>`;
+            } else {
+              yrValue = d > 0 ? (n / d * 100) : null;
+              if (yrValue !== null) valueCount++;
+              yearRows += `<tr>
+                <td style="padding: 1px 4px;">${yr}</td>
+                <td style="padding: 1px 4px; text-align: right;">${yrValue !== null ? yrValue.toFixed(2) + '%' : '—'}</td>
+              </tr>`;
+            }
           }
 
           detailsHTML = `
             <div style="background: #e8f4f8; padding: 6px 8px; margin-bottom: 6px; border-radius: 4px;">
-              <div style="font-weight: bold; margin-bottom: 4px; color: #1e5c75; font-size: 0.85em;">Mean of Per-Year Ratios:</div>
+              <div style="font-weight: bold; margin-bottom: 4px; color: #1e5c75; font-size: 0.85em;">Mean of Per-Year Values:</div>
               <table style="width: 100%; font-size: 0.82em; border-collapse: collapse;">
                 <thead><tr style="border-bottom: 1px solid #ccc;">
                   <th style="text-align: left; padding: 1px 4px;">Year</th>
-                  <th style="text-align: right; padding: 1px 4px;">Ratio</th>
+                  <th style="text-align: right; padding: 1px 4px;">${perCapita ? 'Per Capita' : 'Ratio'}</th>
                 </tr></thead>
                 <tbody>${yearRows}</tbody>
               </table>
               <div style="color: #1e5c75; margin-top: 4px; font-size: 0.9em; font-weight: bold;">
-                Average of ${ratioCount} yearly ratios = ${ratio.toFixed(2)}%
+                Average of ${valueCount} years = ${formattedMetric}${metricUnit === '%' ? '%' : ' ' + metricUnit}
               </div>
             </div>
             <div style="border-top: 1px solid #e0e0e0; padding-top: 6px;">
-              <div style="font-weight: bold; margin-bottom: 4px; color: #666; font-size: 0.85em;">Averages per Year:</div>
+              <div style="font-weight: bold; margin-bottom: 4px; color: #666; font-size: 0.85em;">Totals (2016-2022):</div>
               <div style="font-size: 0.85em;">
-                <strong>Disallowances:</strong> ${formattedAvgDisallow}<br/>
-                <strong>${denominatorLabel}:</strong> ${formattedAvgDenom}
-              </div>
-            </div>
-            <div style="border-top: 1px solid #e0e0e0; padding-top: 6px;">
-              <div style="font-weight: bold; margin-bottom: 4px; color: #666; font-size: 0.85em;">Total Sum (2016-2022):</div>
-              <div style="font-size: 0.85em;">
-                <strong>Disallowances:</strong> ${formattedTotal}<br/>
-                <strong>${denominatorLabel}:</strong> ${formattedDenominator}
+                <strong>${numeratorLabel}:</strong> ${fmtPeso(totalNumerator)}<br/>
+                ${perCapita
+                  ? `<strong>Population:</strong> ${popDisplay}`
+                  : `<strong>${denominatorLabel}:</strong> ${totalDenominator > 0 ? fmtPeso(totalDenominator) : '—'}`
+                }
               </div>
             </div>
           `;
         } else if (state.currentYear === 'sum') {
-          // For sum view, just show totals with calculation
           detailsHTML = `
-            <div><strong>Total Disallowances (2016-2022):</strong><br/>${formattedTotal}</div>
-            <div><strong>${denominatorLabel} (2016-2022):</strong><br/>${formattedDenominator}</div>
-            ${denominator > 0 ?
-              `<div style="font-size: 0.9em; color: #666; margin-top: 5px;">
-                Ratio: ${totalDisallowances.toLocaleString()} ÷ ${denominator.toLocaleString()} = ${ratio.toFixed(2)}%
-              </div>` : ''}
+            <div><strong>Total ${numeratorLabel} (2016-2022):</strong><br/>${fmtPeso(totalNumerator)}</div>
+            ${perCapita
+              ? `<div><strong>Population:</strong> ${popDisplay}</div>`
+              : `<div><strong>${denominatorLabel} (2016-2022):</strong><br/>${totalDenominator > 0 ? fmtPeso(totalDenominator) : '—'}</div>`
+            }
+            ${perCapita
+              ? `<div style="font-size: 0.9em; color: #666; margin-top: 5px;">
+                  ${fmtPeso(totalNumerator)} ÷ ${popDisplay} = ${formattedMetric} ${metricUnit}
+                </div>`
+              : (totalDenominator > 0 ? `<div style="font-size: 0.9em; color: #666; margin-top: 5px;">
+                  ${fmtNum(totalNumerator)} ÷ ${fmtNum(totalDenominator)} = ${formattedMetric}%
+                </div>` : '')
+            }
           `;
         } else {
-          // For specific years
+          // Specific year
+          const dispNumerator = yearNumerator;
+          const dispDenominator = yearDenominator;
           detailsHTML = `
-            <div><strong>Disallowances (${state.currentYear}):</strong><br/>${formattedTotal}</div>
-            <div><strong>${denominatorLabel} (${state.currentYear}):</strong><br/>${formattedDenominator}</div>
-            ${denominator > 0 ?
-              `<div style="font-size: 0.9em; color: #666; margin-top: 5px;">
-                Ratio: ${totalDisallowances.toLocaleString()} ÷ ${denominator.toLocaleString()} = ${ratio.toFixed(2)}%
-              </div>` : ''}
+            <div><strong>${numeratorLabel} (${state.currentYear}):</strong><br/>${fmtPeso(dispNumerator)}</div>
+            ${perCapita
+              ? `<div><strong>Population (${state.currentYear}):</strong> ${dispDenominator > 0 ? fmtNum(Math.round(dispDenominator)) : '—'}</div>`
+              : `<div><strong>${denominatorLabel} (${state.currentYear}):</strong><br/>${dispDenominator > 0 ? fmtPeso(dispDenominator) : '—'}</div>`
+            }
+            ${dispDenominator > 0 ? `<div style="font-size: 0.9em; color: #666; margin-top: 5px;">
+              ${perCapita
+                ? `${fmtPeso(dispNumerator)} ÷ ${fmtNum(Math.round(dispDenominator))} = ${formattedMetric} ${metricUnit}`
+                : `${fmtNum(dispNumerator)} ÷ ${fmtNum(dispDenominator)} = ${formattedMetric}%`
+              }
+            </div>` : ''}
           `;
         }
 
         this._div.innerHTML = `
           <h4>${name}${isLGU ? ` <span style="font-size: 0.8em; color: #666;">(${displayScoreData.province})</span>` : ''}</h4>
           <div class="info-score ${level}">
-            <span class="score-value">${ratio.toFixed(2)}</span>
-            <span class="score-label">%</span>
+            <span class="score-value">${formattedMetric}</span>
+            <span class="score-label">${metricUnit === '%' ? '%' : ''}</span>
           </div>
-          <div class="info-risk ${level}">DISALLOWANCE RATIO</div>
+          <div class="info-risk ${level}">${metricLabel}${perCapita ? ` <span style="font-size: 0.75em;">(PHP/person)</span>` : ''}</div>
           <div class="info-details">
             ${detailsHTML}
-            ${(state.currentYear === 'average' || state.currentYear === 'sum') ?
-              `<div style="margin-top: 6px; padding-top: 6px; border-top: 1px solid #e0e0e0; font-size: 0.8em; color: #666;">
-                ${!isLGU && displayScoreData.lguCount ? `<span><strong>LGUs:</strong> ${displayScoreData.lguCount}</span>` : ''}
-                ${displayScoreData.observationCount ? ` | <span><strong>Obs:</strong> ${displayScoreData.observationCount.toLocaleString()}</span>` : ''}
-                ${displayScoreData.yearsWithData ? ` | <span><strong>Years:</strong> ${displayScoreData.yearsWithData}</span>` : ''}
-              </div>` :
-              `${!isLGU && avgPerLGU ? `<div><strong>Avg per LGU:</strong><br/>${formattedAvg}</div>` : ''}
-               ${displayScoreData.observationCount ? `<div><strong>Observations:</strong> ${displayScoreData.observationCount.toLocaleString()}</div>` : ''}
-               ${!isLGU && displayScoreData.lguCount ? `<div><strong>Municipalities:</strong> ${displayScoreData.lguCount}</div>` : ''}
-               ${displayScoreData.yearsWithData ? `<div><strong>Years:</strong> ${displayScoreData.yearsWithData} years</div>` : ''}`
-            }
+            <div style="margin-top: 6px; padding-top: 6px; border-top: 1px solid #e0e0e0; font-size: 0.8em; color: #666;">
+              ${!isLGU && displayScoreData.lguCount ? `<span><strong>LGUs:</strong> ${displayScoreData.lguCount}</span>` : ''}
+              ${displayScoreData.observationCount ? ` | <span><strong>Obs:</strong> ${displayScoreData.observationCount.toLocaleString()}</span>` : ''}
+              ${displayScoreData.yearsWithData ? ` | <span><strong>Years:</strong> ${displayScoreData.yearsWithData}</span>` : ''}
+              ${displayScoreData.population ? ` | <span><strong>Pop:</strong> ${fmtNum(Math.round(displayScoreData.population))}</span>` : ''}
+            </div>
+            ${coaLinksHTML}
           </div>
         `;
       }
@@ -1308,6 +1518,59 @@ async function updateYear(year) {
 }
 
 // ============================================
+// LEGEND UPDATE
+// ============================================
+
+function updateLegend() {
+  const legendEl = document.getElementById('integrated-legend');
+  if (!legendEl) return;
+
+  const perCapita = isPerCapitaMetric();
+  const ncMetric = isNCMetric();
+  const shortLabel = ncMetric ? 'NC' : 'ND';
+
+  if (perCapita) {
+    legendEl.innerHTML = `
+      <h4 style="font-size: 0.8rem; margin: 0 0 0.5rem 0; color: #666;">${shortLabel} Per Capita (PHP/person)</h4>
+      <div style="font-size: 10px; color: #333; line-height: 1.1;">
+        <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #2b0000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>10,000+</div>
+        <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #5a0000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>1,000-10,000</div>
+        <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #7f0000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>200-1,000</div>
+        <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #960b0b; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>100-200</div>
+        <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #b71c1c; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>20-100</div>
+        <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #d32f2f; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>5-20</div>
+        <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #ef5350; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>1-5</div>
+        <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #f9a0a0; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>0.1-1</div>
+        <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #feecec; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>&lt;0.1</div>
+        <div style="display: flex; align-items: center; margin: 3px 0 0;"><span style="width: 16px; height: 10px; background: #d3d3d3; margin-right: 5px; border-radius: 1px; border: 1px solid rgba(0,0,0,0.1); flex-shrink: 0;"></span>No Data</div>
+      </div>
+    `;
+  } else {
+    const denomLabel = (state.currentRatioType === 'nd_local_sources' || state.currentRatioType === 'nc_local_sources')
+      ? 'Local Sources' : 'Op. Expenditures';
+    legendEl.innerHTML = `
+      <h4 style="font-size: 0.8rem; margin: 0 0 0.5rem 0; color: #666;">${shortLabel} / ${denomLabel}</h4>
+      <div style="font-size: 10px; color: #333; line-height: 1.1;">
+        <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #2b0000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>20%+</div>
+        <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #5a0000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>14-20%</div>
+        <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #7f0000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>10-14%</div>
+        <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #960b0b; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>8-10%</div>
+        <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #a81515; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>6-8%</div>
+        <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #b71c1c; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>5-6%</div>
+        <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #c62828; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>4-5%</div>
+        <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #d32f2f; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>3-4%</div>
+        <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #e53935; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>2-3%</div>
+        <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #ef5350; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>1.5-2%</div>
+        <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #f57a7a; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>1-1.5%</div>
+        <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #fbb4b4; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>0.4-1%</div>
+        <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #feecec; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>&lt;0.4%</div>
+        <div style="display: flex; align-items: center; margin: 3px 0 0;"><span style="width: 16px; height: 10px; background: #d3d3d3; margin-right: 5px; border-radius: 1px; border: 1px solid rgba(0,0,0,0.1); flex-shrink: 0;"></span>No Data</div>
+      </div>
+    `;
+  }
+}
+
+// ============================================
 // CONTROL SETUP
 // ============================================
 
@@ -1349,6 +1612,13 @@ function setupControls() {
       const value = e.target.value;
       state.currentRatioType = value;
 
+      // Update legend to match current metric type
+      updateLegend();
+
+      // Clear caches to force re-render with new metric
+      state.provinceScores = {};
+      state.lguScores = {};
+
       // Re-render the current view to update colors and values
       if (state.currentView === 'provinces') {
         await renderProvinces();
@@ -1357,13 +1627,8 @@ function setupControls() {
       }
 
       // Update info panel if something is selected
-      if (state.selectedLayer) {
-        const props = state.selectedLayer.feature.properties;
-        const name = props.name || props.NAME || props.adm1_en || props.adm2_en || 'Unknown';
-        const psgc = getPsgc(state.selectedLayer.feature);
-        const scores = state.currentView === 'provinces' ? state.provinceScores : state.lguScores;
-        const score = scores[psgc] || null;
-        state.info.update(name, score);
+      if (state.selectedLayer && state.selectedLayer.scoreData) {
+        state.info.update(state.selectedLayer.feature.properties, state.selectedLayer.scoreData);
       }
     });
   }
@@ -1466,7 +1731,10 @@ async function initMap() {
     //   state.legendControl.addTo(state.map);
     // }
 
-    console.log('Leaflet map created, loading provinces...');
+    console.log('Leaflet map created, loading data...');
+
+    // Load COA links in parallel with initial render
+    loadCoaLinks();
 
     // Initial render
     await renderProvinces();

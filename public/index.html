@@ -194,7 +194,7 @@
 
     .toggle-controls-btn {
       position: absolute;
-      top: 80px;
+      top: 60px;
       left: 10px;
       z-index: 1001;
       background: rgba(255, 255, 255, 1);
@@ -262,7 +262,7 @@
       font-size: 0.9rem;
     }
 
-    /* Fullscreen mode */
+    /* Fullscreen mode (default) */
     body.fullscreen-mode header {
       display: none;
     }
@@ -291,7 +291,7 @@
       background: rgba(255,255,255,0.35);
     }
 
-    /* Restore button shown only in fullscreen mode */
+    /* "More Options" button shown only in fullscreen mode */
     .restore-btn {
       display: none;
       position: absolute;
@@ -316,9 +316,42 @@
     body.fullscreen-mode .restore-btn {
       display: block;
     }
+
+    /* Compact title overlay in fullscreen mode */
+    .map-title-overlay {
+      display: none;
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      z-index: 1001;
+      background: rgba(44, 62, 80, 0.9);
+      color: white;
+      padding: 8px 14px;
+      border-radius: 6px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+      pointer-events: none;
+    }
+
+    .map-title-overlay h1 {
+      margin: 0;
+      font-size: 0.95rem;
+      font-weight: 700;
+      line-height: 1.2;
+    }
+
+    .map-title-overlay p {
+      margin: 2px 0 0;
+      font-size: 0.65rem;
+      opacity: 0.8;
+      line-height: 1.2;
+    }
+
+    body.fullscreen-mode .map-title-overlay {
+      display: block;
+    }
   </style>
 </head>
-<body>
+<body class="fullscreen-mode">
   <header>
     <div style="display: flex; justify-content: space-between; align-items: center;">
       <div style="flex: 1;">
@@ -334,28 +367,35 @@
   </header>
 
   <div id="map-container">
-    <button id="restore-view" class="restore-btn" title="Show header and footer">Exit Full Map</button>
+    <div class="map-title-overlay">
+      <h1>Philippines Audit Disallowances</h1>
+      <p>COA Disallowances by Province (2016-2022)</p>
+    </div>
+    <button id="restore-view" class="restore-btn" title="Show header, footer, and navigation">More Options</button>
     <button id="toggle-controls" class="toggle-controls-btn" title="Toggle View Options">
       <span class="toggle-icon">⚙</span>
     </button>
-    <div class="controls-panel" id="controls-panel" style="min-width: 200px; padding: 1rem; top: 80px; left: 50px;">
+    <div class="controls-panel" id="controls-panel" style="min-width: 200px; padding: 1rem; top: 60px; left: 50px;">
       <h3 style="font-size: 0.9rem; margin-bottom: 0.5rem; color: #2c3e50;">View Options</h3>
 
       <!-- Legend integrated at top -->
       <div id="integrated-legend" style="margin-bottom: 1rem; padding-bottom: 0.75rem; border-bottom: 1px solid #e0e0e0;">
         <h4 style="font-size: 0.8rem; margin: 0 0 0.5rem 0; color: #666;">Disallowance Ratio</h4>
-        <div style="position: relative; height: 18px; border-radius: 3px; border: 1px solid rgba(0,0,0,0.15); background: linear-gradient(to right, hsl(0,50%,92%), hsl(0,60%,78%) 20%, hsl(0,70%,62%) 40%, hsl(0,80%,47%) 60%, hsl(0,88%,33%) 80%, hsl(0,95%,15%)); margin-bottom: 4px;"></div>
-        <div style="display: flex; justify-content: space-between; font-size: 10px; color: #555; padding: 0 1px;">
-          <span>0.01%</span>
-          <span>0.1%</span>
-          <span>1%</span>
-          <span>5%</span>
-          <span>10%</span>
-          <span>25%+</span>
-        </div>
-        <div style="display: flex; align-items: center; margin-top: 5px; font-size: 11px;">
-          <span style="width: 14px; height: 14px; background: #d3d3d3; margin-right: 6px; border-radius: 2px; border: 1px solid rgba(0,0,0,0.1);"></span>
-          <span style="color: #555;">No Data</span>
+        <div style="font-size: 10px; color: #333; line-height: 1.1;">
+          <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #2b0000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>20%+</div>
+          <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #5a0000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>14-20%</div>
+          <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #7f0000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>10-14%</div>
+          <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #960b0b; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>8-10%</div>
+          <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #a81515; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>6-8%</div>
+          <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #b71c1c; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>5-6%</div>
+          <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #c62828; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>4-5%</div>
+          <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #d32f2f; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>3-4%</div>
+          <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #e53935; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>2-3%</div>
+          <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #ef5350; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>1.5-2%</div>
+          <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #f57a7a; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>1-1.5%</div>
+          <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #fbb4b4; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>0.4-1%</div>
+          <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #feecec; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>&lt;0.4%</div>
+          <div style="display: flex; align-items: center; margin: 3px 0 0;"><span style="width: 16px; height: 10px; background: #d3d3d3; margin-right: 5px; border-radius: 1px; border: 1px solid rgba(0,0,0,0.1); flex-shrink: 0;"></span>No Data</div>
         </div>
       </div>
 
@@ -377,10 +417,17 @@
 
       <!-- Ratio calculation type dropdown -->
       <div class="control-group" style="margin-bottom: 0.5rem;">
-        <label style="font-size: 0.75rem; font-weight: 600; color: #666; margin-bottom: 0.3rem; display: block;">Ratio Type</label>
+        <label style="font-size: 0.75rem; font-weight: 600; color: #666; margin-bottom: 0.3rem; display: block;">Metric</label>
         <select id="ratio-type" style="width: 100%; padding: 0.3rem; font-size: 0.7rem; border: 1px solid #ccc; border-radius: 4px; background: white; color: #333;">
-          <option value="expenditures" selected>Disallowances / Total Current Operating Expenditures</option>
-          <option value="local_sources">Disallowances / Total Local Sources</option>
+          <optgroup label="Notices of Disallowance (ND)">
+            <option value="nd_expenditures" selected>ND / Total Operating Expenditures</option>
+            <option value="nd_local_sources">ND / Total Local Sources</option>
+            <option value="nd_per_capita">ND Per Capita (ND / Population)</option>
+          </optgroup>
+          <optgroup label="Notices of Charge (NC)">
+            <option value="nc_local_sources">NC / Total Local Sources</option>
+            <option value="nc_per_capita">NC Per Capita (NC / Population)</option>
+          </optgroup>
         </select>
       </div>
 
@@ -421,16 +468,17 @@
     document.addEventListener('DOMContentLoaded', () => {
       initMap();
 
-      // Fullscreen toggle
+      // Toggle between fullscreen (default) and expanded view with header/footer
       function toggleFullscreen() {
         document.body.classList.toggle('fullscreen-mode');
-        // Invalidate map size so Leaflet redraws correctly
         if (window.state && state.map) {
           setTimeout(() => state.map.invalidateSize(), 100);
         }
       }
 
+      // "Full Map" button in header -> go back to fullscreen
       document.getElementById('fullscreen-toggle').addEventListener('click', toggleFullscreen);
+      // "More Options" button on map -> show header/footer
       document.getElementById('restore-view').addEventListener('click', toggleFullscreen);
     });
   </script>

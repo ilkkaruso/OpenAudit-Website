@@ -1,7 +1,19 @@
 #!/usr/bin/env python3
 """
-Process BLGF SRE Long Dataset 2016-2022 into JSON for the map.
+Process BLGF SRE Merged Dataset 2016-2022 into JSON for the map.
 Uses name-matching to map Excel data to GeoJSON PSGC codes.
+
+Data includes:
+  - ND (Notice of Disallowance) ending balances
+  - NC (Notice of Charges) ending balances
+  - Population data for per capita calculations
+  - SRE financial data (expenditures, local sources, income)
+
+Metrics:
+  - ND ratio = ND / Total Current Operating Expenditures
+  - NC ratio = NC / Total Local Sources
+  - ND per capita = ND / Population
+  - NC per capita = NC / Population
 
 Two views:
   1. Province view - provinces keyed by GeoJSON PSGC
@@ -13,13 +25,22 @@ import json
 import numpy as np
 import re
 
-print("Processing BLGF SRE Long Dataset 2016-2022...")
+print("Processing BLGF SRE Merged Dataset 2016-2022...")
 print("=" * 60)
 
-# Load data
-xlsx_path = 'DATANEW/BLGF SRE - Long Dataset 2016-2022.xlsx'
+# Load data - use merged file with population and disallowance columns
+xlsx_path = 'DATANEW/BLGF SRE - Merged with Population and Disallowances 2016-2022.xlsx'
 df = pd.read_excel(xlsx_path, sheet_name=0)
 print(f"Loaded {len(df)} rows")
+
+# Verify key columns exist
+required_cols = ['POP_Population', 'DIS_ND_Ending_Balance', 'DIS_NC_Ending_Balance',
+                 'SRE_TOTAL_CURRENT_OPERATING_EXPENDITURES', 'SRE_TOTAL_LOCAL_SOURCES']
+for col in required_cols:
+    assert col in df.columns, f"Missing required column: {col}"
+print(f"Population data: {df['POP_Population'].notna().sum()}/{len(df)} rows")
+print(f"ND data: {(df['DIS_ND_Ending_Balance'] > 0).sum()}/{len(df)} rows with ND > 0")
+print(f"NC data: {(df['DIS_NC_Ending_Balance'] > 0).sum()}/{len(df)} rows with NC > 0")
 
 # Load GeoJSON files
 with open('public/geo/provinces.geojson') as f:
@@ -175,7 +196,9 @@ def find_lgu_psgc(lgu_name, province_name):
 
 def aggregate_group(group, gps_cols, hnpc_cols, es_cols):
     """Aggregate a group of rows (same LGU, multiple years) into a single record."""
-    years_disallow = {}
+    years_nd = {}           # ND (Notice of Disallowance) by year
+    years_nc = {}           # NC (Notice of Charges) by year
+    years_population = {}   # Population by year
     years_op_exp = {}
     years_local_sources = {}
     years_op_income = {}
@@ -187,9 +210,20 @@ def aggregate_group(group, gps_cols, hnpc_cols, es_cols):
     for _, row in group.iterrows():
         year = str(int(row['YEAR']))
 
-        dis = row['DIS_ND_Ending_Balance']
-        if pd.notna(dis) and dis > 0:
-            years_disallow[year] = years_disallow.get(year, 0) + float(dis)
+        # ND (Notice of Disallowance)
+        nd = row.get('DIS_ND_Ending_Balance', None)
+        if pd.notna(nd) and nd > 0:
+            years_nd[year] = years_nd.get(year, 0) + float(nd)
+
+        # NC (Notice of Charges)
+        nc = row.get('DIS_NC_Ending_Balance', None)
+        if pd.notna(nc) and nc > 0:
+            years_nc[year] = years_nc.get(year, 0) + float(nc)
+
+        # Population
+        pop = row.get('POP_Population', None)
+        if pd.notna(pop) and pop > 0:
+            years_population[year] = float(pop)
 
         op_exp = row['SRE_TOTAL_CURRENT_OPERATING_EXPENDITURES']
         if pd.notna(op_exp) and op_exp > 0:
@@ -199,7 +233,7 @@ def aggregate_group(group, gps_cols, hnpc_cols, es_cols):
         if pd.notna(local_src) and local_src > 0:
             years_local_sources[year] = float(local_src)
 
-        op_income = row['SRE_TOTAL_CURRENT_OPERATING_INCOME']
+        op_income = row.get('SRE_TOTAL_CURRENT_OPERATING_INCOME', None)
         if pd.notna(op_income) and op_income > 0:
             years_op_income[year] = float(op_income)
 
@@ -214,53 +248,120 @@ def aggregate_group(group, gps_cols, hnpc_cols, es_cols):
         if es_total > 0:
             years_es[year] = es_total
 
-        rec_count = row['DIS_Record_Count']
+        rec_count = row.get('DIS_Record_Count', None)
         if pd.notna(rec_count):
             total_records += int(rec_count)
 
-    total_disallowances = sum(years_disallow.values())
+    total_nd = sum(years_nd.values())
+    total_nc = sum(years_nc.values())
     total_op_exp = sum(years_op_exp.values())
     total_local_sources = sum(years_local_sources.values())
     total_op_income = sum(years_op_income.values())
 
-    ratio_exp = (total_disallowances / total_op_exp * 100) if total_op_exp > 0 else 0
-    ratio_local = (total_disallowances / total_local_sources * 100) if total_local_sources > 0 else 0
+    # ND ratio: ND / Total Current Operating Expenditures
+    nd_ratio_exp = (total_nd / total_op_exp * 100) if total_op_exp > 0 else 0
+
+    # NC ratio: NC / Total Local Sources
+    nc_ratio_local = (total_nc / total_local_sources * 100) if total_local_sources > 0 else 0
+
+    # Backward compat: ND ratio vs local sources (was used before)
+    nd_ratio_local = (total_nd / total_local_sources * 100) if total_local_sources > 0 else 0
+
+    # Per capita: use most recent population figure as denominator
+    latest_pop = 0
+    for yr in sorted(years_population.keys(), reverse=True):
+        latest_pop = years_population[yr]
+        break
+
+    nd_per_capita = (total_nd / latest_pop) if latest_pop > 0 else 0
+    nc_per_capita = (total_nc / latest_pop) if latest_pop > 0 else 0
+
+    # Per-year per capita
+    years_nd_per_capita = {}
+    years_nc_per_capita = {}
+    for yr in sorted(set(list(years_nd.keys()) + list(years_nc.keys()) + list(years_population.keys()))):
+        pop = years_population.get(yr, 0)
+        if pop > 0:
+            if yr in years_nd:
+                years_nd_per_capita[yr] = years_nd[yr] / pop
+            if yr in years_nc:
+                years_nc_per_capita[yr] = years_nc[yr] / pop
 
     # True average of per-year ratios (weights each year equally)
-    all_years = sorted(set(list(years_disallow.keys()) + list(years_op_exp.keys()) + list(years_local_sources.keys())))
-    yearly_ratios_exp = []
-    yearly_ratios_local = []
+    # ND / Operating Expenditures
+    all_years = sorted(set(list(years_nd.keys()) + list(years_op_exp.keys()) + list(years_local_sources.keys())))
+    yearly_ratios_nd_exp = []
+    yearly_ratios_nd_local = []
+    yearly_ratios_nc_local = []
+    yearly_nd_per_capita = []
+    yearly_nc_per_capita = []
+
     for yr in all_years:
-        dis = years_disallow.get(yr, 0)
+        nd = years_nd.get(yr, 0)
+        nc = years_nc.get(yr, 0)
         exp = years_op_exp.get(yr, 0)
         local = years_local_sources.get(yr, 0)
-        if exp > 0:
-            yearly_ratios_exp.append(dis / exp * 100)
-        if local > 0:
-            yearly_ratios_local.append(dis / local * 100)
+        pop = years_population.get(yr, 0)
 
-    true_avg_ratio_exp = float(np.mean(yearly_ratios_exp)) if yearly_ratios_exp else 0
-    true_avg_ratio_local = float(np.mean(yearly_ratios_local)) if yearly_ratios_local else 0
+        if exp > 0:
+            yearly_ratios_nd_exp.append(nd / exp * 100)
+        if local > 0:
+            yearly_ratios_nd_local.append(nd / local * 100)
+            if nc > 0:
+                yearly_ratios_nc_local.append(nc / local * 100)
+        if pop > 0:
+            yearly_nd_per_capita.append(nd / pop)
+            if nc > 0:
+                yearly_nc_per_capita.append(nc / pop)
+
+    true_avg_ratio_exp = float(np.mean(yearly_ratios_nd_exp)) if yearly_ratios_nd_exp else 0
+    true_avg_ratio_local = float(np.mean(yearly_ratios_nd_local)) if yearly_ratios_nd_local else 0
+    true_avg_nc_ratio_local = float(np.mean(yearly_ratios_nc_local)) if yearly_ratios_nc_local else 0
+    true_avg_nd_per_capita = float(np.mean(yearly_nd_per_capita)) if yearly_nd_per_capita else 0
+    true_avg_nc_per_capita = float(np.mean(yearly_nc_per_capita)) if yearly_nc_per_capita else 0
 
     return {
-        'totalDisallowances': total_disallowances,
+        # ND (Notice of Disallowance) - primary metric
+        'totalDisallowances': total_nd,
+        'years': years_nd,
+        'disallowance_ratio_percent': nd_ratio_exp,
+        'ratio_vs_local_sources': nd_ratio_local,
+        'true_avg_ratio_exp': true_avg_ratio_exp,
+        'true_avg_ratio_local': true_avg_ratio_local,
+
+        # NC (Notice of Charges)
+        'totalCharges': total_nc,
+        'years_nc': years_nc,
+        'nc_ratio_local_sources': nc_ratio_local,
+        'true_avg_nc_ratio_local': true_avg_nc_ratio_local,
+
+        # Population & per capita
+        'population': latest_pop,
+        'population_by_year': years_population,
+        'nd_per_capita': nd_per_capita,
+        'nc_per_capita': nc_per_capita,
+        'true_avg_nd_per_capita': true_avg_nd_per_capita,
+        'true_avg_nc_per_capita': true_avg_nc_per_capita,
+        'nd_per_capita_by_year': years_nd_per_capita,
+        'nc_per_capita_by_year': years_nc_per_capita,
+
+        # Financial denominators
         'total_operating_income': total_op_income,
         'total_operating_expenditures': total_op_exp,
         'total_local_sources': total_local_sources,
-        'disallowance_ratio_percent': ratio_exp,
-        'ratio_vs_local_sources': ratio_local,
-        'true_avg_ratio_exp': true_avg_ratio_exp,
-        'true_avg_ratio_local': true_avg_ratio_local,
-        'yearsWithData': len(years_disallow),
-        'observationCount': total_records,
-        'years': years_disallow,
         'operating_exp_by_year': years_op_exp,
         'local_sources_by_year': years_local_sources,
         'operating_income_by_year': years_op_income,
+
+        # Expenditure breakdown
         'gps_by_year': years_gps,
         'hnpc_by_year': years_hnpc,
         'es_by_year': years_es,
-        'avgDisallowances': float(np.mean(list(years_disallow.values()))) if years_disallow else 0,
+
+        # Summary stats
+        'yearsWithData': len(years_nd),
+        'observationCount': total_records,
+        'avgDisallowances': float(np.mean(list(years_nd.values()))) if years_nd else 0,
         'avgOperatingExpenditures': float(np.mean(list(years_op_exp.values()))) if years_op_exp else 0,
         'avgLocalSources': float(np.mean(list(years_local_sources.values()))) if years_local_sources else 0,
     }
@@ -341,9 +442,9 @@ print(f"LGUs with disallowance data: {lgus_with_data}")
 # ============================================================
 
 output = {
-    'description': 'COA Disallowances and SRE Financial Data by LGU (2016-2022)',
-    'lastUpdated': '2025-07-05',
-    'dataSource': 'BLGF SRE - Long Dataset 2016-2022',
+    'description': 'COA Disallowances, Charges, Population & SRE Financial Data by LGU (2016-2022)',
+    'lastUpdated': '2026-07-16',
+    'dataSource': 'BLGF SRE - Merged with Population and Disallowances 2016-2022',
     'summary': {
         'totalProvinces': len(provinces_data),
         'totalLGUs': len(lgus_data),
