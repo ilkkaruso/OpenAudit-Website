@@ -12,7 +12,7 @@ const state = {
   currentYear: 'average',
   currentDataset: 'disallowances',
   currentView: 'provinces',
-  currentRatioType: 'nd_expenditures',  // metric type: nd_expenditures, nd_local_sources, nc_local_sources, nd_per_capita, nc_per_capita
+  currentRatioType: 'nd_expenditures',  // metric type: nd_expenditures, nd_per_capita, nc_local_sources, nc_per_capita, ns_expenditures, ns_per_capita
   showRegions: false,
   showLegend: true,
 
@@ -48,12 +48,18 @@ const PH_CENTER = [12.5, 122];
 
 // Helper: is current metric a per-capita type?
 function isPerCapitaMetric() {
-  return state.currentRatioType === 'nd_per_capita' || state.currentRatioType === 'nc_per_capita';
+  return state.currentRatioType === 'nd_per_capita' || state.currentRatioType === 'nc_per_capita' ||
+         state.currentRatioType === 'ns_per_capita';
 }
 
-// Helper: is current metric an NC (Notice of Charges) type?
+// Helper: is current metric an NC (Notice of Charge) type?
 function isNCMetric() {
   return state.currentRatioType === 'nc_local_sources' || state.currentRatioType === 'nc_per_capita';
+}
+
+// Helper: is current metric an NS (Notice of Suspension) type?
+function isNSMetric() {
+  return state.currentRatioType === 'ns_expenditures' || state.currentRatioType === 'ns_per_capita';
 }
 
 // Helper function to get the correct ratio/value based on current metric type
@@ -63,31 +69,38 @@ function getRatioField(data, year = 'sum') {
   const rt = state.currentRatioType;
 
   // === PER CAPITA METRICS ===
-  if (rt === 'nd_per_capita' || rt === 'nc_per_capita') {
-    const isND = rt === 'nd_per_capita';
+  if (rt === 'nd_per_capita' || rt === 'nc_per_capita' || rt === 'ns_per_capita') {
+    const sumKey = rt === 'nd_per_capita' ? 'nd_per_capita' : rt === 'nc_per_capita' ? 'nc_per_capita' : 'ns_per_capita';
+    const avgKey = rt === 'nd_per_capita' ? 'true_avg_nd_per_capita' : rt === 'nc_per_capita' ? 'true_avg_nc_per_capita' : 'true_avg_ns_per_capita';
+    const byYearKey = rt === 'nd_per_capita' ? 'nd_per_capita_by_year' : rt === 'nc_per_capita' ? 'nc_per_capita_by_year' : 'ns_per_capita_by_year';
     if (year === 'average') {
-      return isND ? (data.true_avg_nd_per_capita || 0) : (data.true_avg_nc_per_capita || 0);
+      return data[avgKey] || 0;
     }
     if (year === 'sum') {
-      return isND ? (data.nd_per_capita || 0) : (data.nc_per_capita || 0);
+      return data[sumKey] || 0;
     }
     // Specific year
-    const perCapByYear = isND ? data.nd_per_capita_by_year : data.nc_per_capita_by_year;
+    const perCapByYear = data[byYearKey];
     return (perCapByYear && perCapByYear[year]) || 0;
   }
 
   // === RATIO METRICS (percentage) ===
   // Determine numerator source and denominator source
   const isNC = rt === 'nc_local_sources';
-  const numeratorYears = isNC ? (data.years_nc || {}) : (data.years || {});
-  const totalNumerator = isNC ? (data.totalCharges || 0) : (data.totalDisallowances || 0);
+  const isNS = rt === 'ns_expenditures';
+  const numeratorYears = isNC ? (data.years_nc || {}) : isNS ? (data.years_ns || {}) : (data.years || {});
+  const totalNumerator = isNC ? (data.totalCharges || 0) : isNS ? (data.totalSuspensions || 0) : (data.totalDisallowances || 0);
 
-  // Denominator: for NC always use local_sources; for ND use expenditures or local_sources
+  // Denominator: NC always uses local sources; ND and NS use operating expenditures
   let denomKey, denomYearKey, trueAvgKey;
-  if (isNC || rt === 'nd_local_sources') {
+  if (isNC) {
     denomKey = 'total_local_sources';
     denomYearKey = 'local_sources_by_year';
-    trueAvgKey = isNC ? 'true_avg_nc_ratio_local' : 'true_avg_ratio_local';
+    trueAvgKey = 'true_avg_nc_ratio_local';
+  } else if (isNS) {
+    denomKey = 'total_operating_expenditures';
+    denomYearKey = 'operating_exp_by_year';
+    trueAvgKey = 'true_avg_ns_ratio_exp';
   } else {
     // nd_expenditures (default)
     denomKey = 'total_operating_expenditures';
@@ -708,10 +721,11 @@ function createInfoControl() {
       const rt = state.currentRatioType;
       const perCapita = isPerCapitaMetric();
       const ncMetric = isNCMetric();
+      const nsMetric = isNSMetric();
 
       // Labels for current metric
-      const numeratorLabel = ncMetric ? 'Charges (NC)' : 'Disallowances (ND)';
-      const numeratorLabelShort = ncMetric ? 'NC' : 'ND';
+      const numeratorLabel = ncMetric ? 'Charges (NC)' : nsMetric ? 'Suspensions (NS)' : 'Disallowances (ND)';
+      const numeratorLabelShort = ncMetric ? 'NC' : nsMetric ? 'NS' : 'ND';
       let denominatorLabel = '';
       let metricLabel = '';
 
@@ -721,27 +735,25 @@ function createInfoControl() {
       } else if (rt === 'nc_local_sources') {
         denominatorLabel = 'Total Local Sources';
         metricLabel = 'NC / LOCAL SOURCES';
-      } else if (rt === 'nd_local_sources') {
-        denominatorLabel = 'Total Local Sources';
-        metricLabel = 'ND / LOCAL SOURCES';
       } else {
+        // nd_expenditures or ns_expenditures
         denominatorLabel = 'Total Operating Expenditures';
-        metricLabel = 'ND / OPERATING EXPENDITURES';
+        metricLabel = `${numeratorLabelShort} / OPERATING EXPENDITURES`;
       }
 
       // Get the metric value using getRatioField
       const metricValue = getRatioField(displayScoreData, state.currentYear);
 
       // Get numerator/denominator amounts for display
-      const numeratorYears = ncMetric ? (displayScoreData.years_nc || {}) : (displayScoreData.years || {});
-      const totalNumerator = ncMetric ? (displayScoreData.totalCharges || 0) : (displayScoreData.totalDisallowances || 0);
+      const numeratorYears = ncMetric ? (displayScoreData.years_nc || {}) : nsMetric ? (displayScoreData.years_ns || {}) : (displayScoreData.years || {});
+      const totalNumerator = ncMetric ? (displayScoreData.totalCharges || 0) : nsMetric ? (displayScoreData.totalSuspensions || 0) : (displayScoreData.totalDisallowances || 0);
 
       let totalDenominator = 0;
       let denomByYear = {};
       if (perCapita) {
         totalDenominator = displayScoreData.population || 0;
         denomByYear = displayScoreData.population_by_year || {};
-      } else if (rt === 'nc_local_sources' || rt === 'nd_local_sources') {
+      } else if (rt === 'nc_local_sources') {
         totalDenominator = displayScoreData.total_local_sources || 0;
         denomByYear = displayScoreData.local_sources_by_year || {};
       } else {
@@ -805,7 +817,8 @@ function createInfoControl() {
         if (state.currentYear === 'average') {
           // Build per-year breakdown table
           const perCapByYear = (rt === 'nd_per_capita') ? (displayScoreData.nd_per_capita_by_year || {}) :
-                               (rt === 'nc_per_capita') ? (displayScoreData.nc_per_capita_by_year || {}) : null;
+                               (rt === 'nc_per_capita') ? (displayScoreData.nc_per_capita_by_year || {}) :
+                               (rt === 'ns_per_capita') ? (displayScoreData.ns_per_capita_by_year || {}) : null;
 
           const allYears = [...new Set([...Object.keys(numeratorYears), ...Object.keys(denomByYear)])].sort();
 
@@ -1527,7 +1540,8 @@ function updateLegend() {
 
   const perCapita = isPerCapitaMetric();
   const ncMetric = isNCMetric();
-  const shortLabel = ncMetric ? 'NC' : 'ND';
+  const nsMetric = isNSMetric();
+  const shortLabel = ncMetric ? 'NC' : nsMetric ? 'NS' : 'ND';
 
   if (perCapita) {
     legendEl.innerHTML = `
@@ -1546,8 +1560,7 @@ function updateLegend() {
       </div>
     `;
   } else {
-    const denomLabel = (state.currentRatioType === 'nd_local_sources' || state.currentRatioType === 'nc_local_sources')
-      ? 'Local Sources' : 'Op. Expenditures';
+    const denomLabel = (state.currentRatioType === 'nc_local_sources') ? 'Local Sources' : 'Op. Expenditures';
     legendEl.innerHTML = `
       <h4 style="font-size: 0.8rem; margin: 0 0 0.5rem 0; color: #666;">${shortLabel} / ${denomLabel}</h4>
       <div style="font-size: 10px; color: #333; line-height: 1.1;">
