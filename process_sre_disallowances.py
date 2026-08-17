@@ -31,6 +31,17 @@ The source workbook has been observed to contain exact-key duplicate rows
 expenditure-breakdown columns) for a handful of provinces. These are
 deduplicated below (keep first) before aggregation so ND/NC/NS totals are
 not double-counted.
+
+"No AAR" vs. a confirmed 0 (2026-08): a year is only added to years_nd /
+years_nc / years_ns when DIS_*_Ending_Balance is non-null for that year —
+including when it's exactly 0 (a report was found and it reported no
+disallowance/charge/suspension). A year is left OUT of these dicts only
+when no figure could be determined at all (no matching Annual Audit Report,
+or a matched report with no readable SASDC figure). map.js uses the
+presence/absence of a year in these dicts — not whether the value is > 0 —
+to color a "No AAR" year black and a confirmed-0 year the palest shade,
+per the auditors' guidance that a missing report is a worse signal than a
+clean report.
 """
 
 import pandas as pd
@@ -69,9 +80,12 @@ required_cols = ['POP_Population', 'DIS_ND_Ending_Balance', 'DIS_NC_Ending_Balan
 for col in required_cols:
     assert col in df.columns, f"Missing required column: {col}"
 print(f"Population data: {df['POP_Population'].notna().sum()}/{len(df)} rows")
-print(f"ND data: {(df['DIS_ND_Ending_Balance'] > 0).sum()}/{len(df)} rows with ND > 0")
-print(f"NC data: {(df['DIS_NC_Ending_Balance'] > 0).sum()}/{len(df)} rows with NC > 0")
-print(f"NS data: {(df['DIS_NS_Ending_Balance'] > 0).sum()}/{len(df)} rows with NS > 0")
+print(f"ND data: {(df['DIS_ND_Ending_Balance'] > 0).sum()}/{len(df)} rows with ND > 0 "
+      f"({df['DIS_ND_Ending_Balance'].notna().sum()}/{len(df)} rows with an AAR-determined ND figure, incl. zero)")
+print(f"NC data: {(df['DIS_NC_Ending_Balance'] > 0).sum()}/{len(df)} rows with NC > 0 "
+      f"({df['DIS_NC_Ending_Balance'].notna().sum()}/{len(df)} rows with an AAR-determined NC figure, incl. zero)")
+print(f"NS data: {(df['DIS_NS_Ending_Balance'] > 0).sum()}/{len(df)} rows with NS > 0 "
+      f"({df['DIS_NS_Ending_Balance'].notna().sum()}/{len(df)} rows with an AAR-determined NS figure, incl. zero)")
 
 # Load GeoJSON files
 with open('public/geo/provinces.geojson') as f:
@@ -243,18 +257,24 @@ def aggregate_group(group, gps_cols, hnpc_cols, es_cols):
         year = str(int(row['YEAR']))
 
         # ND (Notice of Disallowance)
+        # NOTE: include the year as soon as a figure was ACTUALLY DETERMINED for it —
+        # even if that figure is 0 or negative (e.g. an over-settlement). A year that
+        # never makes it into years_nd means "no audit report / no SASDC figure found",
+        # which map.js renders as "No AAR" (black) — distinct from a confirmed 0 (pale).
+        # Do NOT add an `and nd > 0` gate here: that would silently relabel every
+        # confirmed-zero year as "missing," which is exactly the ambiguity this fixes.
         nd = row.get('DIS_ND_Ending_Balance', None)
-        if pd.notna(nd) and nd > 0:
+        if pd.notna(nd):
             years_nd[year] = years_nd.get(year, 0) + float(nd)
 
-        # NC (Notice of Charge)
+        # NC (Notice of Charge) — same "presence, not positivity" rule as ND above.
         nc = row.get('DIS_NC_Ending_Balance', None)
-        if pd.notna(nc) and nc > 0:
+        if pd.notna(nc):
             years_nc[year] = years_nc.get(year, 0) + float(nc)
 
-        # NS (Notice of Suspension)
+        # NS (Notice of Suspension) — same "presence, not positivity" rule as ND above.
         ns = row.get('DIS_NS_Ending_Balance', None)
-        if pd.notna(ns) and ns > 0:
+        if pd.notna(ns):
             years_ns[year] = years_ns.get(year, 0) + float(ns)
 
         # Population
@@ -338,24 +358,29 @@ def aggregate_group(group, gps_cols, hnpc_cols, es_cols):
     yearly_nc_per_capita = []
     yearly_ns_per_capita = []
 
+    # IMPORTANT: gate each year's contribution to the average on *membership* in
+    # years_nd / years_nc / years_ns (i.e. "was a figure ever determined for this
+    # year"), not on the value being > 0. A year with no AAR must be EXCLUDED from
+    # the average entirely, not counted as a 0 — averaging in a 0 for a year we
+    # simply have no report for would understate the true average and erase the
+    # "No AAR" signal the moment you switch to the Average view.
     for yr in all_years:
-        nd = years_nd.get(yr, 0)
-        nc = years_nc.get(yr, 0)
-        ns = years_ns.get(yr, 0)
         exp = years_op_exp.get(yr, 0)
         local = years_local_sources.get(yr, 0)
         pop = years_population.get(yr, 0)
 
-        if exp > 0:
-            yearly_ratios_nd_exp.append(nd / exp * 100)
-            yearly_ratios_ns_exp.append(ns / exp * 100)
-        if local > 0 and nc > 0:
-            yearly_ratios_nc_local.append(nc / local * 100)
-        if pop > 0:
-            yearly_nd_per_capita.append(nd / pop)
-            yearly_ns_per_capita.append(ns / pop)
-            if nc > 0:
-                yearly_nc_per_capita.append(nc / pop)
+        if yr in years_nd and exp > 0:
+            yearly_ratios_nd_exp.append(years_nd[yr] / exp * 100)
+        if yr in years_ns and exp > 0:
+            yearly_ratios_ns_exp.append(years_ns[yr] / exp * 100)
+        if yr in years_nc and local > 0:
+            yearly_ratios_nc_local.append(years_nc[yr] / local * 100)
+        if yr in years_nd and pop > 0:
+            yearly_nd_per_capita.append(years_nd[yr] / pop)
+        if yr in years_ns and pop > 0:
+            yearly_ns_per_capita.append(years_ns[yr] / pop)
+        if yr in years_nc and pop > 0:
+            yearly_nc_per_capita.append(years_nc[yr] / pop)
 
     true_avg_ratio_exp = float(np.mean(yearly_ratios_nd_exp)) if yearly_ratios_nd_exp else 0
     true_avg_nc_ratio_local = float(np.mean(yearly_ratios_nc_local)) if yearly_ratios_nc_local else 0
@@ -412,7 +437,14 @@ def aggregate_group(group, gps_cols, hnpc_cols, es_cols):
         'es_by_year': years_es,
 
         # Summary stats
+        # yearsWithData / ncYearsWithData / nsYearsWithData = number of years (out of 7)
+        # that actually had an AAR-derived figure for that notice type (0 counts as
+        # "had a figure"; a year is only absent here when no AAR/SASDC figure was found).
+        # map.js uses these (equivalently, the emptiness of years/years_nc/years_ns) to
+        # tell "No AAR" apart from a confirmed 0.
         'yearsWithData': len(years_nd),
+        'ncYearsWithData': len(years_nc),
+        'nsYearsWithData': len(years_ns),
         'observationCount': total_records,
         'avgDisallowances': float(np.mean(list(years_nd.values()))) if years_nd else 0,
         'avgSuspensions': float(np.mean(list(years_ns.values()))) if years_ns else 0,

@@ -138,6 +138,9 @@ main {
 .info-risk.high { background: #fed7d7; color: #9b2c2c; }
 .info-risk.critical { background: #c53030; color: white; }
 .info-risk.no_data { background: #e2e8f0; color: #4a5568; }
+/* No AAR: no audit report found for this metric/period — worse than "critical",
+   kept visually distinct (black) from both the ratio scale and generic no_data. */
+.info-risk.no_aar { background: #000000; color: #ffffff; }
 
 .info-details {
   font-size: 12px;
