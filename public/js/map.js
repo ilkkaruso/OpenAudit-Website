@@ -522,16 +522,21 @@ function getProvinceStyle(feature, scores) {
     value = data ? data.score : null;
   }
 
+  const isNoAARProvince = value === null;
   return {
     fillColor: getRiskColor(value),
     weight: 1.5,
     opacity: 1,
-    color: '#ffffff',
+    // "No AAR" also gets a black (not white) border — a white outline around a
+    // tiny black province at low zoom eats into its already-small visible area
+    // and dilutes the "solid black" impression. Matching the border to the fill
+    // keeps the whole shape reading as one solid black region at any zoom level.
+    color: isNoAARProvince ? '#000000' : '#ffffff',
     // "No AAR" (value === null) renders fully opaque so it reads as true black —
     // at the normal 0.8 fill opacity, black blends toward gray against the
     // basemap and gets confused with the darkest red band. Every other color
     // (including the rare generic-no-data gray) keeps the normal opacity.
-    fillOpacity: value === null ? 1 : 0.8
+    fillOpacity: isNoAARProvince ? 1 : 0.8
   };
 }
 
@@ -612,15 +617,21 @@ function getLguStyle(feature, scores, provinceMap = {}) {
   }
 
   const fillColor = getRiskColor(value);
+  const isNoAARLguStyle = value === null;
 
   return {
     fillColor: fillColor,
-    weight: 0.8,
+    // Most LGU polygons are small, and at whole-country zoom a "No AAR" one can
+    // be only a few screen pixels — a thin #333333 border eats into that tiny
+    // area and, combined with anti-aliasing, can make it read as gray rather
+    // than solid black. A slightly heavier, pure-black border keeps the whole
+    // shape looking like one solid black region even when it's tiny on screen.
+    weight: isNoAARLguStyle ? 1.2 : 0.8,
     opacity: 1,
-    color: '#333333',
+    color: isNoAARLguStyle ? '#000000' : '#333333',
     // See the matching comment in getProvinceStyle(): force full opacity for
     // "No AAR" so it reads as true black instead of blending toward gray.
-    fillOpacity: value === null ? 1 : 0.75
+    fillOpacity: isNoAARLguStyle ? 1 : 0.75
   };
 }
 
@@ -636,8 +647,8 @@ function highlightFeature(e) {
                   getRatioField(layer.scoreData, state.currentYear) === null;
 
   layer.setStyle({
-    weight: 2,
-    color: '#666',
+    weight: isNoAAR ? 2.2 : 2,
+    color: isNoAAR ? '#000000' : '#666',
     fillOpacity: isNoAAR ? 1 : 0.85
   });
 
@@ -662,14 +673,14 @@ function resetHighlight(e, scores, isLgu = false) {
 
   if (isLgu) {
     layer.setStyle({
-      weight: 0.8,
-      color: '#333333',
+      weight: isNoAAR ? 1.2 : 0.8,
+      color: isNoAAR ? '#000000' : '#333333',
       fillOpacity: isNoAAR ? 1 : 0.75
     });
   } else {
     layer.setStyle({
       weight: 1.5,
-      color: '#ffffff',
+      color: isNoAAR ? '#000000' : '#ffffff',
       fillOpacity: isNoAAR ? 1 : 0.8
     });
   }
