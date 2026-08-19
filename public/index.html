@@ -6,7 +6,10 @@
   <title>Philippines Audit Disallowances Heat Map</title>
   <meta name="description" content="Interactive heat map showing COA audit disallowances across Philippine provinces and LGUs (2016-2022).">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
-  <link rel="stylesheet" href="css/map.css">
+  <!-- Bump ?v= on map.css/map.js whenever either file changes during local dev — browsers
+       cache-busting-free <script src>/<link> aggressively, and a stale cached map.js is a
+       recurring source of "my code change isn't showing up" confusion. -->
+  <link rel="stylesheet" href="css/map.css?v=4">
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
   <style>
     body {
@@ -289,7 +292,7 @@
       <div id="integrated-legend" style="margin-bottom: 1rem; padding-bottom: 0.75rem; border-bottom: 1px solid #e0e0e0;">
         <h4 style="font-size: 0.8rem; margin: 0 0 0.5rem 0; color: #666;">Disallowance Ratio</h4>
         <div style="font-size: 10px; color: #333; line-height: 1.1;">
-          <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #000000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>No AAR (&gt;3x)</div>
+          <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #000000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>No AAR (&ge;3x)</div>
           <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #2b0000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>20%+</div>
           <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #5a0000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>14-20%</div>
           <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #7f0000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>10-14%</div>
@@ -372,7 +375,7 @@
     <p id="footer-text">Data Source: Commission on Audit (COA) Annual Audit Reports 2016-2022 | Department of Finance Statement of Receipts and Expenditures | Provincial & LGU Disallowances Dataset v2.3</p>
   </footer>
 
-  <script src="js/map.js"></script>
+  <script src="js/map.js?v=4"></script>
   <script>
     // Initialize the map when DOM is ready
     document.addEventListener('DOMContentLoaded', () => {

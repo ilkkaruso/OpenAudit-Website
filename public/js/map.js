@@ -44,12 +44,13 @@ const PH_CENTER = [12.5, 122];
 
 // In the Sum/Average (aggregate) views, an LGU/province needs at least this many
 // years (out of 7) with an AAR-derived figure before we'll show a computed ratio
-// or per-capita value for it. Below this, more than 3 of the 7 years have no
-// audit report at all — per auditor guidance, that coverage gap is itself the
-// signal worth surfacing, so it's flagged "No AAR (>3x)" (black) rather than
-// shown as a thin, potentially misleading average of 1-3 years. Does not apply
-// to a single specific year, which is inherently a yes/no "was there an AAR".
-const MIN_YEARS_WITH_AAR_FOR_AGGREGATE = 4;
+// or per-capita value for it. "3 strikes" rule: 3 or more missing years (i.e.
+// fewer than 5 of 7 present) is enough to flag it — per auditor guidance, that
+// coverage gap is itself the signal worth surfacing, so it's flagged
+// "No AAR (>=3x)" (black) rather than shown as a thin, potentially misleading
+// average of 1-4 years. Does not apply to a single specific year, which is
+// inherently a yes/no "was there an AAR".
+const MIN_YEARS_WITH_AAR_FOR_AGGREGATE = 5;
 
 // ============================================
 // UTILITY FUNCTIONS
@@ -100,8 +101,8 @@ function getRatioField(data, year = 'sum') {
     const years = data[yearsKey] || {};
 
     if (year === 'average' || year === 'sum') {
-      // "No AAR (>3x)": fewer than MIN_YEARS_WITH_AAR_FOR_AGGREGATE confirmed
-      // years out of 7 — flag black even if 1-3 years do have a real figure.
+      // "No AAR (>=3x)": fewer than MIN_YEARS_WITH_AAR_FOR_AGGREGATE confirmed
+      // years out of 7 — flag black even if 1-4 years do have a real figure.
       if (Object.keys(years).length < MIN_YEARS_WITH_AAR_FOR_AGGREGATE) return null;
       return data[year === 'average' ? avgKey : sumKey] || 0;
     }
@@ -136,8 +137,8 @@ function getRatioField(data, year = 'sum') {
   }
 
   if (year === 'sum' || year === 'average') {
-    // "No AAR (>3x)": fewer than MIN_YEARS_WITH_AAR_FOR_AGGREGATE confirmed
-    // years out of 7 — flag black even if 1-3 years do have a real figure.
+    // "No AAR (>=3x)": fewer than MIN_YEARS_WITH_AAR_FOR_AGGREGATE confirmed
+    // years out of 7 — flag black even if 1-4 years do have a real figure.
     if (Object.keys(numeratorYears).length < MIN_YEARS_WITH_AAR_FOR_AGGREGATE) return null;
     if (year === 'average') {
       return data[trueAvgKey] || 0;
@@ -826,11 +827,11 @@ function createInfoControl() {
       if (isNoAAR) {
         // No Annual Audit Report — the worst signal, deliberately distinct from a
         // confirmed ₱0 (renders below, palest shade). In Sum/Average view this also
-        // covers "insufficient coverage" (1-3 of 7 years have a figure, but more
-        // than 3 don't) — see MIN_YEARS_WITH_AAR_FOR_AGGREGATE in getRatioField().
+        // covers "insufficient coverage" ("3 strikes": 1-4 of 7 years have a figure,
+        // but 3 or more don't) — see MIN_YEARS_WITH_AAR_FOR_AGGREGATE in getRatioField().
         const isAggregateView = (state.currentYear === 'sum' || state.currentYear === 'average');
         const yearsWithAAR = Object.keys(numeratorYears).length;
-        const badgeLabel = isAggregateView ? 'No AAR (&gt;3x)' : 'No AAR';
+        const badgeLabel = isAggregateView ? 'No AAR (&ge;3x)' : 'No AAR';
         const nameHeader = `<h4>${name}${isLGU ? ` <span style="font-size: 0.8em; color: #666;">(${displayScoreData.province})</span>` : ''}</h4>`;
 
         if (yearsWithAAR > 0) {
@@ -850,7 +851,7 @@ function createInfoControl() {
             <div style="padding: 12px 10px; text-align: center; color: #fff; background: #000; border-radius: 6px; margin-bottom: 8px;">
               <div style="font-size: 1.05em; margin-bottom: 6px;">Insufficient Audit Coverage</div>
               <div style="font-size: 0.82em; opacity: 0.85;">Only ${yearsWithAAR} of 7 years (2016-2022) have a confirmed ${numeratorLabel} figure —
-                more than 3 years are missing a report, so this is flagged rather than averaged.</div>
+                3 or more years are missing a report, so this is flagged rather than averaged.</div>
             </div>
             <div class="info-details">
               <table style="width: 100%; font-size: 0.82em; border-collapse: collapse;">
@@ -1631,8 +1632,8 @@ async function updateYear(year) {
   state.currentYear = year;
 
   // The "No AAR" legend label depends on whether we're in Sum/Average (where the
-  // >3-missing-years threshold applies) or a specific year (plain yes/no) — see
-  // updateLegend(). Must re-run on every year change, not just metric change.
+  // "3 strikes" missing-years threshold applies) or a specific year (plain yes/no)
+  // — see updateLegend(). Must re-run on every year change, not just metric change.
   updateLegend();
 
   // Clear caches when year changes
@@ -1664,13 +1665,14 @@ function updateLegend() {
 
   // No AAR is a worse signal than any ratio/per-capita figure on the scale below
   // it, so its swatch sits above the darkest red. In Sum/Average view it also
-  // covers "insufficient coverage" (see MIN_YEARS_WITH_AAR_FOR_AGGREGATE), so the
-  // label there is qualified "(>3x)"; a specific single year is a plain yes/no.
+  // covers "insufficient coverage" — the "3 strikes" rule in
+  // MIN_YEARS_WITH_AAR_FOR_AGGREGATE — so the label there is qualified "(>=3x)";
+  // a specific single year is a plain yes/no.
   // The generic gray "No Data" swatch (dataset/geo mismatch) is intentionally not
   // listed here — it's rare enough that surfacing it in the legend added more
   // confusion than clarity once "No AAR" existed to explain the common case.
   const isAggregateView = (state.currentYear === 'sum' || state.currentYear === 'average');
-  const noAarLabel = isAggregateView ? 'No AAR (&gt;3x)' : 'No AAR';
+  const noAarLabel = isAggregateView ? 'No AAR (&ge;3x)' : 'No AAR';
   const noAarRow = `<div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #000000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>${noAarLabel}</div>`;
 
   if (perCapita) {
