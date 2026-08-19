@@ -527,7 +527,11 @@ function getProvinceStyle(feature, scores) {
     weight: 1.5,
     opacity: 1,
     color: '#ffffff',
-    fillOpacity: 0.8
+    // "No AAR" (value === null) renders fully opaque so it reads as true black —
+    // at the normal 0.8 fill opacity, black blends toward gray against the
+    // basemap and gets confused with the darkest red band. Every other color
+    // (including the rare generic-no-data gray) keeps the normal opacity.
+    fillOpacity: value === null ? 1 : 0.8
   };
 }
 
@@ -614,7 +618,9 @@ function getLguStyle(feature, scores, provinceMap = {}) {
     weight: 0.8,
     opacity: 1,
     color: '#333333',
-    fillOpacity: 0.75
+    // See the matching comment in getProvinceStyle(): force full opacity for
+    // "No AAR" so it reads as true black instead of blending toward gray.
+    fillOpacity: value === null ? 1 : 0.75
   };
 }
 
@@ -624,10 +630,15 @@ function highlightFeature(e) {
   // Only apply hover effect if not selected
   if (state.selectedLayer === layer) return;
 
+  // Keep "No AAR" polygons fully opaque (true black) on hover too — see the
+  // matching comment in getProvinceStyle()/getLguStyle().
+  const isNoAAR = state.currentDataset === 'disallowances' &&
+                  getRatioField(layer.scoreData, state.currentYear) === null;
+
   layer.setStyle({
     weight: 2,
     color: '#666',
-    fillOpacity: 0.85
+    fillOpacity: isNoAAR ? 1 : 0.85
   });
 
   layer.bringToFront();
@@ -644,17 +655,22 @@ function resetHighlight(e, scores, isLgu = false) {
   // Don't reset if this is the selected layer
   if (state.selectedLayer === layer) return;
 
+  // Keep "No AAR" polygons fully opaque (true black) — see the matching
+  // comment in getProvinceStyle()/getLguStyle().
+  const isNoAAR = state.currentDataset === 'disallowances' &&
+                  getRatioField(layer.scoreData, state.currentYear) === null;
+
   if (isLgu) {
     layer.setStyle({
       weight: 0.8,
       color: '#333333',
-      fillOpacity: 0.75
+      fillOpacity: isNoAAR ? 1 : 0.75
     });
   } else {
     layer.setStyle({
       weight: 1.5,
       color: '#ffffff',
-      fillOpacity: 0.8
+      fillOpacity: isNoAAR ? 1 : 0.8
     });
   }
 
@@ -1223,11 +1239,14 @@ async function renderProvinces() {
 
           // Select new layer
           state.selectedLayer = clickedLayer;
+          // Keep "No AAR" polygons fully opaque (true black) even when selected.
+          const isNoAARProv = state.currentDataset === 'disallowances' &&
+                              getRatioField(clickedLayer.scoreData, state.currentYear) === null;
           clickedLayer.setStyle({
             weight: 4,
             color: '#ffff00',  // Bright yellow border
             dashArray: '',
-            fillOpacity: 0.95
+            fillOpacity: isNoAARProv ? 1 : 0.95
           });
 
           if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
@@ -1450,11 +1469,14 @@ async function renderLgus() {
 
           // Select new layer
           state.selectedLayer = clickedLayer;
+          // Keep "No AAR" polygons fully opaque (true black) even when selected.
+          const isNoAARLgu = state.currentDataset === 'disallowances' &&
+                             getRatioField(clickedLayer.scoreData, state.currentYear) === null;
           clickedLayer.setStyle({
             weight: 3,
             color: '#ffff00',  // Bright yellow border
             dashArray: '',
-            fillOpacity: 0.95
+            fillOpacity: isNoAARLgu ? 1 : 0.95
           });
 
           if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
