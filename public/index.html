@@ -262,96 +262,9 @@
       font-size: 0.9rem;
     }
 
-    /* Fullscreen mode (default) */
-    body.fullscreen-mode header {
-      display: none;
-    }
-
-    body.fullscreen-mode footer {
-      display: none;
-    }
-
-    body.fullscreen-mode #map-container {
-      height: 100vh;
-    }
-
-    .fullscreen-btn {
-      color: white;
-      text-decoration: none;
-      padding: 0.5rem 1rem;
-      background: rgba(255,255,255,0.2);
-      border-radius: 8px;
-      font-size: 0.9rem;
-      border: 1px solid rgba(255,255,255,0.3);
-      cursor: pointer;
-      transition: all 0.2s;
-    }
-
-    .fullscreen-btn:hover {
-      background: rgba(255,255,255,0.35);
-    }
-
-    /* "More Options" button shown only in fullscreen mode */
-    .restore-btn {
-      display: none;
-      position: absolute;
-      top: 10px;
-      right: 10px;
-      z-index: 1001;
-      background: rgba(44, 62, 80, 0.85);
-      color: white;
-      border: 1px solid rgba(255,255,255,0.3);
-      border-radius: 6px;
-      padding: 0.4rem 0.8rem;
-      cursor: pointer;
-      font-size: 0.8rem;
-      font-family: inherit;
-      transition: all 0.2s;
-    }
-
-    .restore-btn:hover {
-      background: rgba(44, 62, 80, 1);
-    }
-
-    body.fullscreen-mode .restore-btn {
-      display: block;
-    }
-
-    /* Compact title overlay in fullscreen mode */
-    .map-title-overlay {
-      display: none;
-      position: absolute;
-      top: 10px;
-      left: 10px;
-      z-index: 1001;
-      background: rgba(44, 62, 80, 0.9);
-      color: white;
-      padding: 8px 14px;
-      border-radius: 6px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
-      pointer-events: none;
-    }
-
-    .map-title-overlay h1 {
-      margin: 0;
-      font-size: 0.95rem;
-      font-weight: 700;
-      line-height: 1.2;
-    }
-
-    .map-title-overlay p {
-      margin: 2px 0 0;
-      font-size: 0.65rem;
-      opacity: 0.8;
-      line-height: 1.2;
-    }
-
-    body.fullscreen-mode .map-title-overlay {
-      display: block;
-    }
   </style>
 </head>
-<body class="fullscreen-mode">
+<body>
   <header>
     <div style="display: flex; justify-content: space-between; align-items: center;">
       <div style="flex: 1;">
@@ -361,17 +274,11 @@
       <div style="display: flex; gap: 1rem; align-items: center;">
         <a href="about.html" style="color: white; text-decoration: none; padding: 0.5rem 1rem; background: rgba(255,255,255,0.2); border-radius: 8px; font-size: 0.9rem; border: 1px solid rgba(255,255,255,0.3);">About</a>
         <a href="login.html" style="color: white; text-decoration: none; padding: 0.5rem 1rem; background: rgba(52, 152, 219, 0.4); border-radius: 8px; font-size: 0.9rem; border: 1px solid rgba(52, 152, 219, 0.5);">Compliance Tracker</a>
-        <button id="fullscreen-toggle" class="fullscreen-btn" title="Focus on map">Full Map</button>
       </div>
     </div>
   </header>
 
   <div id="map-container">
-    <div class="map-title-overlay">
-      <h1>Philippines Audit Disallowances</h1>
-      <p>COA Disallowances by Province (2016-2022)</p>
-    </div>
-    <button id="restore-view" class="restore-btn" title="Show header, footer, and navigation">More Options</button>
     <button id="toggle-controls" class="toggle-controls-btn" title="Toggle View Options">
       <span class="toggle-icon">⚙</span>
     </button>
@@ -382,7 +289,7 @@
       <div id="integrated-legend" style="margin-bottom: 1rem; padding-bottom: 0.75rem; border-bottom: 1px solid #e0e0e0;">
         <h4 style="font-size: 0.8rem; margin: 0 0 0.5rem 0; color: #666;">Disallowance Ratio</h4>
         <div style="font-size: 10px; color: #333; line-height: 1.1;">
-          <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #000000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>No AAR</div>
+          <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #000000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>No AAR (&gt;3x)</div>
           <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #2b0000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>20%+</div>
           <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #5a0000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>14-20%</div>
           <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #7f0000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>10-14%</div>
@@ -396,7 +303,6 @@
           <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #f57a7a; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>1-1.5%</div>
           <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #fbb4b4; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>0.4-1%</div>
           <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #feecec; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>&lt;0.4%</div>
-          <div style="display: flex; align-items: center; margin: 3px 0 0;"><span style="width: 16px; height: 10px; background: #d3d3d3; margin-right: 5px; border-radius: 1px; border: 1px solid rgba(0,0,0,0.1); flex-shrink: 0;"></span>No Data</div>
         </div>
       </div>
 
@@ -471,19 +377,6 @@
     // Initialize the map when DOM is ready
     document.addEventListener('DOMContentLoaded', () => {
       initMap();
-
-      // Toggle between fullscreen (default) and expanded view with header/footer
-      function toggleFullscreen() {
-        document.body.classList.toggle('fullscreen-mode');
-        if (window.state && state.map) {
-          setTimeout(() => state.map.invalidateSize(), 100);
-        }
-      }
-
-      // "Full Map" button in header -> go back to fullscreen
-      document.getElementById('fullscreen-toggle').addEventListener('click', toggleFullscreen);
-      // "More Options" button on map -> show header/footer
-      document.getElementById('restore-view').addEventListener('click', toggleFullscreen);
     });
   </script>
 </body>

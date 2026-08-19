@@ -42,6 +42,15 @@ const state = {
 const PH_BOUNDS = [[4.5, 116.5], [21.5, 127]];
 const PH_CENTER = [12.5, 122];
 
+// In the Sum/Average (aggregate) views, an LGU/province needs at least this many
+// years (out of 7) with an AAR-derived figure before we'll show a computed ratio
+// or per-capita value for it. Below this, more than 3 of the 7 years have no
+// audit report at all — per auditor guidance, that coverage gap is itself the
+// signal worth surfacing, so it's flagged "No AAR (>3x)" (black) rather than
+// shown as a thin, potentially misleading average of 1-3 years. Does not apply
+// to a single specific year, which is inherently a yes/no "was there an AAR".
+const MIN_YEARS_WITH_AAR_FOR_AGGREGATE = 4;
+
 // ============================================
 // UTILITY FUNCTIONS
 // ============================================
@@ -91,7 +100,9 @@ function getRatioField(data, year = 'sum') {
     const years = data[yearsKey] || {};
 
     if (year === 'average' || year === 'sum') {
-      if (Object.keys(years).length === 0) return null;  // No AAR for this metric, ever
+      // "No AAR (>3x)": fewer than MIN_YEARS_WITH_AAR_FOR_AGGREGATE confirmed
+      // years out of 7 — flag black even if 1-3 years do have a real figure.
+      if (Object.keys(years).length < MIN_YEARS_WITH_AAR_FOR_AGGREGATE) return null;
       return data[year === 'average' ? avgKey : sumKey] || 0;
     }
     // Specific year
@@ -125,7 +136,9 @@ function getRatioField(data, year = 'sum') {
   }
 
   if (year === 'sum' || year === 'average') {
-    if (Object.keys(numeratorYears).length === 0) return null;  // No AAR for this metric, ever
+    // "No AAR (>3x)": fewer than MIN_YEARS_WITH_AAR_FOR_AGGREGATE confirmed
+    // years out of 7 — flag black even if 1-3 years do have a real figure.
+    if (Object.keys(numeratorYears).length < MIN_YEARS_WITH_AAR_FOR_AGGREGATE) return null;
     if (year === 'average') {
       return data[trueAvgKey] || 0;
     }
@@ -811,18 +824,61 @@ function createInfoControl() {
       const coaLinksHTML = buildCoaLinksHTML(coaProvinceName, isLGU);
 
       if (isNoAAR) {
-        // No Annual Audit Report found for this metric/period — the worst signal,
-        // deliberately distinct from a confirmed ₱0 (which renders below, palest shade).
-        this._div.innerHTML = `
-          <h4>${name}${isLGU ? ` <span style="font-size: 0.8em; color: #666;">(${displayScoreData.province})</span>` : ''}</h4>
-          <div class="info-risk no_aar">No AAR</div>
-          <div style="padding: 16px 10px; text-align: center; color: #fff; background: #000; border-radius: 6px;">
-            <div style="font-size: 1.1em; margin-bottom: 6px;">No Audit Report Found</div>
-            <div style="font-size: 0.85em; opacity: 0.85;">No ${numeratorLabel} figure could be determined for ${periodLabel}.
-              This is different from a confirmed ₱0 — treat a missing report as the worse signal.</div>
-          </div>
-          ${coaLinksHTML}
-        `;
+        // No Annual Audit Report — the worst signal, deliberately distinct from a
+        // confirmed ₱0 (renders below, palest shade). In Sum/Average view this also
+        // covers "insufficient coverage" (1-3 of 7 years have a figure, but more
+        // than 3 don't) — see MIN_YEARS_WITH_AAR_FOR_AGGREGATE in getRatioField().
+        const isAggregateView = (state.currentYear === 'sum' || state.currentYear === 'average');
+        const yearsWithAAR = Object.keys(numeratorYears).length;
+        const badgeLabel = isAggregateView ? 'No AAR (&gt;3x)' : 'No AAR';
+        const nameHeader = `<h4>${name}${isLGU ? ` <span style="font-size: 0.8em; color: #666;">(${displayScoreData.province})</span>` : ''}</h4>`;
+
+        if (yearsWithAAR > 0) {
+          // Insufficient coverage: some years DO have a figure, but not enough of
+          // them to trust an average — show which years, rather than hiding them.
+          const allYears = [...new Set([...Object.keys(numeratorYears), ...Object.keys(denomByYear)])].sort();
+          const fmtPesoShort = (v) => `₱${Math.round(v).toLocaleString('en-PH')}`;
+          let coverageRows = '';
+          for (const yr of allYears) {
+            coverageRows += (yr in numeratorYears)
+              ? `<tr><td style="padding: 1px 4px;">${yr}</td><td style="padding: 1px 4px; text-align: right;">${fmtPesoShort(numeratorYears[yr])}</td></tr>`
+              : `<tr><td style="padding: 1px 4px;">${yr}</td><td style="padding: 1px 4px; text-align: right; font-weight: bold;">No AAR</td></tr>`;
+          }
+          this._div.innerHTML = `
+            ${nameHeader}
+            <div class="info-risk no_aar">${badgeLabel}</div>
+            <div style="padding: 12px 10px; text-align: center; color: #fff; background: #000; border-radius: 6px; margin-bottom: 8px;">
+              <div style="font-size: 1.05em; margin-bottom: 6px;">Insufficient Audit Coverage</div>
+              <div style="font-size: 0.82em; opacity: 0.85;">Only ${yearsWithAAR} of 7 years (2016-2022) have a confirmed ${numeratorLabel} figure —
+                more than 3 years are missing a report, so this is flagged rather than averaged.</div>
+            </div>
+            <div class="info-details">
+              <table style="width: 100%; font-size: 0.82em; border-collapse: collapse;">
+                <thead><tr style="border-bottom: 1px solid #e0e0e0;">
+                  <th style="text-align: left; padding: 1px 4px;">Year</th>
+                  <th style="text-align: right; padding: 1px 4px;">${numeratorLabelShort}</th>
+                </tr></thead>
+                <tbody>${coverageRows}</tbody>
+              </table>
+              ${coaLinksHTML}
+            </div>
+          `;
+        } else {
+          // True "never" — no figure determined for this metric in any relevant year.
+          const messageDetail = isAggregateView
+            ? `No ${numeratorLabel} figure was ever determined for any of the 7 years (2016-2022).`
+            : `No ${numeratorLabel} figure could be determined for ${periodLabel}.`;
+          this._div.innerHTML = `
+            ${nameHeader}
+            <div class="info-risk no_aar">${badgeLabel}</div>
+            <div style="padding: 16px 10px; text-align: center; color: #fff; background: #000; border-radius: 6px;">
+              <div style="font-size: 1.1em; margin-bottom: 6px;">No Audit Report Found</div>
+              <div style="font-size: 0.85em; opacity: 0.85;">${messageDetail}
+                This is different from a confirmed ₱0 — treat a missing report as the worse signal.</div>
+            </div>
+            ${coaLinksHTML}
+          `;
+        }
       } else if (isNoData) {
         // Generic no-data: a real record exists but we can't compute this specific
         // view (e.g. missing expenditure/local-sources figure to normalize by).
@@ -1574,6 +1630,11 @@ async function updateMap() {
 async function updateYear(year) {
   state.currentYear = year;
 
+  // The "No AAR" legend label depends on whether we're in Sum/Average (where the
+  // >3-missing-years threshold applies) or a specific year (plain yes/no) — see
+  // updateLegend(). Must re-run on every year change, not just metric change.
+  updateLegend();
+
   // Clear caches when year changes
   state.provinceScores = {};
   state.lguScores = {};
@@ -1602,10 +1663,15 @@ function updateLegend() {
   const shortLabel = ncMetric ? 'NC' : nsMetric ? 'NS' : 'ND';
 
   // No AAR is a worse signal than any ratio/per-capita figure on the scale below
-  // it — a black swatch sits above the darkest red, and is kept visually and
-  // semantically separate from the "No Data" grey swatch at the bottom (which
-  // means "this LGU/province isn't in our dataset," not "no report was found").
-  const noAarRow = `<div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #000000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>No AAR</div>`;
+  // it, so its swatch sits above the darkest red. In Sum/Average view it also
+  // covers "insufficient coverage" (see MIN_YEARS_WITH_AAR_FOR_AGGREGATE), so the
+  // label there is qualified "(>3x)"; a specific single year is a plain yes/no.
+  // The generic gray "No Data" swatch (dataset/geo mismatch) is intentionally not
+  // listed here — it's rare enough that surfacing it in the legend added more
+  // confusion than clarity once "No AAR" existed to explain the common case.
+  const isAggregateView = (state.currentYear === 'sum' || state.currentYear === 'average');
+  const noAarLabel = isAggregateView ? 'No AAR (&gt;3x)' : 'No AAR';
+  const noAarRow = `<div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #000000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>${noAarLabel}</div>`;
 
   if (perCapita) {
     legendEl.innerHTML = `
@@ -1621,7 +1687,6 @@ function updateLegend() {
         <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #ef5350; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>1-5</div>
         <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #f9a0a0; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>0.1-1</div>
         <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #feecec; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>&lt;0.1</div>
-        <div style="display: flex; align-items: center; margin: 3px 0 0;"><span style="width: 16px; height: 10px; background: #d3d3d3; margin-right: 5px; border-radius: 1px; border: 1px solid rgba(0,0,0,0.1); flex-shrink: 0;"></span>No Data</div>
       </div>
     `;
   } else {
@@ -1643,7 +1708,6 @@ function updateLegend() {
         <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #f57a7a; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>1-1.5%</div>
         <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #fbb4b4; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>0.4-1%</div>
         <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #feecec; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>&lt;0.4%</div>
-        <div style="display: flex; align-items: center; margin: 3px 0 0;"><span style="width: 16px; height: 10px; background: #d3d3d3; margin-right: 5px; border-radius: 1px; border: 1px solid rgba(0,0,0,0.1); flex-shrink: 0;"></span>No Data</div>
       </div>
     `;
   }
