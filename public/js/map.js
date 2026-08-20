@@ -12,7 +12,7 @@ const state = {
   currentYear: 'average',
   currentDataset: 'disallowances',
   currentView: 'provinces',
-  currentRatioType: 'nd_expenditures',  // metric type: nd_expenditures, nd_local_sources, nc_local_sources, nd_per_capita, nc_per_capita
+  currentRatioType: 'nd_expenditures',  // metric type: nd_expenditures, nd_per_capita, nc_local_sources, nc_per_capita, ns_expenditures, ns_per_capita
   showRegions: false,
   showLegend: true,
 
@@ -42,52 +42,93 @@ const state = {
 const PH_BOUNDS = [[4.5, 116.5], [21.5, 127]];
 const PH_CENTER = [12.5, 122];
 
+// In the Sum/Average (aggregate) views, an LGU/province needs at least this many
+// years (out of 7) with an AAR-derived figure before we'll show a computed ratio
+// or per-capita value for it. "3 strikes" rule: 3 or more missing years (i.e.
+// fewer than 5 of 7 present) is enough to flag it — per auditor guidance, that
+// coverage gap is itself the signal worth surfacing, so it's flagged
+// "No AAR (>=3x)" (black) rather than shown as a thin, potentially misleading
+// average of 1-4 years. Does not apply to a single specific year, which is
+// inherently a yes/no "was there an AAR".
+const MIN_YEARS_WITH_AAR_FOR_AGGREGATE = 5;
+
 // ============================================
 // UTILITY FUNCTIONS
 // ============================================
 
 // Helper: is current metric a per-capita type?
 function isPerCapitaMetric() {
-  return state.currentRatioType === 'nd_per_capita' || state.currentRatioType === 'nc_per_capita';
+  return state.currentRatioType === 'nd_per_capita' || state.currentRatioType === 'nc_per_capita' ||
+         state.currentRatioType === 'ns_per_capita';
 }
 
-// Helper: is current metric an NC (Notice of Charges) type?
+// Helper: is current metric an NC (Notice of Charge) type?
 function isNCMetric() {
   return state.currentRatioType === 'nc_local_sources' || state.currentRatioType === 'nc_per_capita';
 }
 
-// Helper function to get the correct ratio/value based on current metric type
+// Helper: is current metric an NS (Notice of Suspension) type?
+function isNSMetric() {
+  return state.currentRatioType === 'ns_expenditures' || state.currentRatioType === 'ns_per_capita';
+}
+
+// Helper function to get the correct ratio/value based on current metric type.
+//
+// Return value has THREE possible shapes, deliberately distinct:
+//   - a number (including 0)  -> a real, AAR-derived figure. 0 means "a report
+//     was found and it reported no ND/NC/NS" — a genuinely good signal.
+//   - null                    -> "No AAR": no audit report (or no readable
+//     SASDC figure) exists for this metric in this period. The worst signal —
+//     rendered black, never confused with a confirmed 0.
+//   - undefined                -> generic "no data" (the feature has no JSON
+//     record at all, or we have the notice-type figure but not the financial
+//     denominator needed to normalize it). Rendered the existing neutral gray.
+//
+// "No AAR" is determined by *membership* in data.years / years_nc / years_ns
+// (populated by process_sre_disallowances.py — see that file's module
+// docstring), never by whether the value is > 0.
 function getRatioField(data, year = 'sum') {
-  if (!data) return null;
+  if (!data) return undefined;
 
   const rt = state.currentRatioType;
 
   // === PER CAPITA METRICS ===
-  if (rt === 'nd_per_capita' || rt === 'nc_per_capita') {
-    const isND = rt === 'nd_per_capita';
-    if (year === 'average') {
-      return isND ? (data.true_avg_nd_per_capita || 0) : (data.true_avg_nc_per_capita || 0);
-    }
-    if (year === 'sum') {
-      return isND ? (data.nd_per_capita || 0) : (data.nc_per_capita || 0);
+  if (rt === 'nd_per_capita' || rt === 'nc_per_capita' || rt === 'ns_per_capita') {
+    const yearsKey = rt === 'nd_per_capita' ? 'years' : rt === 'nc_per_capita' ? 'years_nc' : 'years_ns';
+    const sumKey = rt === 'nd_per_capita' ? 'nd_per_capita' : rt === 'nc_per_capita' ? 'nc_per_capita' : 'ns_per_capita';
+    const avgKey = rt === 'nd_per_capita' ? 'true_avg_nd_per_capita' : rt === 'nc_per_capita' ? 'true_avg_nc_per_capita' : 'true_avg_ns_per_capita';
+    const byYearKey = rt === 'nd_per_capita' ? 'nd_per_capita_by_year' : rt === 'nc_per_capita' ? 'nc_per_capita_by_year' : 'ns_per_capita_by_year';
+    const years = data[yearsKey] || {};
+
+    if (year === 'average' || year === 'sum') {
+      // "No AAR (>=3x)": fewer than MIN_YEARS_WITH_AAR_FOR_AGGREGATE confirmed
+      // years out of 7 — flag black even if 1-4 years do have a real figure.
+      if (Object.keys(years).length < MIN_YEARS_WITH_AAR_FOR_AGGREGATE) return null;
+      return data[year === 'average' ? avgKey : sumKey] || 0;
     }
     // Specific year
-    const perCapByYear = isND ? data.nd_per_capita_by_year : data.nc_per_capita_by_year;
-    return (perCapByYear && perCapByYear[year]) || 0;
+    if (!(year in years)) return null;  // No AAR this year
+    const perCapByYear = data[byYearKey] || {};
+    return year in perCapByYear ? perCapByYear[year] : undefined;  // AAR exists but no population that year (rare)
   }
 
   // === RATIO METRICS (percentage) ===
   // Determine numerator source and denominator source
   const isNC = rt === 'nc_local_sources';
-  const numeratorYears = isNC ? (data.years_nc || {}) : (data.years || {});
-  const totalNumerator = isNC ? (data.totalCharges || 0) : (data.totalDisallowances || 0);
+  const isNS = rt === 'ns_expenditures';
+  const numeratorYears = isNC ? (data.years_nc || {}) : isNS ? (data.years_ns || {}) : (data.years || {});
+  const totalNumerator = isNC ? (data.totalCharges || 0) : isNS ? (data.totalSuspensions || 0) : (data.totalDisallowances || 0);
 
-  // Denominator: for NC always use local_sources; for ND use expenditures or local_sources
+  // Denominator: NC always uses local sources; ND and NS use operating expenditures
   let denomKey, denomYearKey, trueAvgKey;
-  if (isNC || rt === 'nd_local_sources') {
+  if (isNC) {
     denomKey = 'total_local_sources';
     denomYearKey = 'local_sources_by_year';
-    trueAvgKey = isNC ? 'true_avg_nc_ratio_local' : 'true_avg_ratio_local';
+    trueAvgKey = 'true_avg_nc_ratio_local';
+  } else if (isNS) {
+    denomKey = 'total_operating_expenditures';
+    denomYearKey = 'operating_exp_by_year';
+    trueAvgKey = 'true_avg_ns_ratio_exp';
   } else {
     // nd_expenditures (default)
     denomKey = 'total_operating_expenditures';
@@ -95,31 +136,39 @@ function getRatioField(data, year = 'sum') {
     trueAvgKey = 'true_avg_ratio_exp';
   }
 
-  if (year === 'sum') {
+  if (year === 'sum' || year === 'average') {
+    // "No AAR (>=3x)": fewer than MIN_YEARS_WITH_AAR_FOR_AGGREGATE confirmed
+    // years out of 7 — flag black even if 1-4 years do have a real figure.
+    if (Object.keys(numeratorYears).length < MIN_YEARS_WITH_AAR_FOR_AGGREGATE) return null;
+    if (year === 'average') {
+      return data[trueAvgKey] || 0;
+    }
     const totalDenom = data[denomKey] || 0;
     if (totalDenom > 0) {
       return (totalNumerator / totalDenom) * 100;
     }
-    return 0;
-  }
-
-  if (year === 'average') {
-    return data[trueAvgKey] || 0;
+    return undefined;  // has AAR data but no expenditure/local-sources figure to normalize by
   }
 
   // Specific year
-  const numVal = numeratorYears[year] || 0;
+  if (!(year in numeratorYears)) return null;  // No AAR this year
   const denomByYear = data[denomYearKey] || {};
   const denomVal = denomByYear[year] || 0;
   if (denomVal > 0) {
-    return (numVal / denomVal) * 100;
+    return (numeratorYears[year] / denomVal) * 100;
   }
-  return 0;
+  return undefined;  // AAR figure exists but no denominator that year
 }
 
 function getRiskColor(score) {
   // For disallowances dataset, use ratio-based coloring
   if (state.currentDataset === 'disallowances') {
+    // "No AAR" (score === null) is a stronger, worse signal than any ratio on
+    // the scale below it — render it black, and keep it distinct from a
+    // confirmed 0 (which flows into getDisallowanceColor/getPerCapitaColor
+    // and comes out the palest shade) and from generic "no data" (gray).
+    if (score === null) return '#000000';       // No AAR — no report found for this period
+    if (score === undefined) return '#d3d3d3';   // No data (no record, or no denominator to normalize by)
     if (isPerCapitaMetric()) {
       return getPerCapitaColor(score);
     }
@@ -136,10 +185,12 @@ function getRiskColor(score) {
 }
 
 function getDisallowanceColor(ratio) {
-  // Discrete decile-based color grading (percentage-based metrics)
-  if (ratio === null || ratio === undefined) return '#d3d3d3';  // No data - grey
-  if (ratio <= 0) return '#d3d3d3';  // Zero/negative - grey (no meaningful data)
-
+  // Discrete decile-based color grading (percentage-based metrics).
+  // ratio is always a real number here — getRiskColor() intercepts null
+  // ("No AAR") and undefined ("no data") before this function is called.
+  // A confirmed 0 (or a negative over-settlement figure) falls through every
+  // >= check below and lands on the final `return` — the palest shade, not
+  // grey, because it's a real, good-news report rather than an absence.
   if (ratio >= 20) return '#2b0000';  // 20%+ darkest
   if (ratio >= 18) return '#3b0000';
   if (ratio >= 16) return '#4a0000';
@@ -163,11 +214,9 @@ function getDisallowanceColor(ratio) {
 }
 
 function getPerCapitaColor(value) {
-  // Per capita color scale (in pesos per person)
-  // Range: 0 to 10,000+ PHP per capita
-  if (value === null || value === undefined) return '#d3d3d3';
-  if (value <= 0) return '#d3d3d3';
-
+  // Per capita color scale (in pesos per person). Range: 0 to 10,000+.
+  // value is always a real number here — see getDisallowanceColor()'s note above;
+  // the same null/undefined interception happens upstream in getRiskColor().
   if (value >= 10000) return '#2b0000';
   if (value >= 5000)  return '#3b0000';
   if (value >= 2000)  return '#4a0000';
@@ -191,9 +240,10 @@ function getPerCapitaColor(value) {
 }
 
 function getRiskLevel(score) {
-  if (score === null || score === undefined) return 'no_data';
   // For disallowance ratios (percentages)
   if (state.currentDataset === 'disallowances') {
+    if (score === null) return 'no_aar';  // No audit report found for this period — worse than any ratio
+    if (score === undefined) return 'no_data';
     if (score >= 5) return 'critical';    // ≥ 5%
     if (score >= 2) return 'high';        // 2-5%
     if (score >= 1) return 'moderate';    // 1-2%
@@ -202,6 +252,7 @@ function getRiskLevel(score) {
     return 'minimal';                      // < 0.1%
   }
   // For audit scores (0-100)
+  if (score === null || score === undefined) return 'no_data';
   if (score >= 80) return 'critical';
   if (score >= 60) return 'high';
   if (score >= 40) return 'moderate';
@@ -471,12 +522,21 @@ function getProvinceStyle(feature, scores) {
     value = data ? data.score : null;
   }
 
+  const isNoAARProvince = value === null;
   return {
     fillColor: getRiskColor(value),
     weight: 1.5,
     opacity: 1,
-    color: '#ffffff',
-    fillOpacity: 0.8
+    // "No AAR" also gets a black (not white) border — a white outline around a
+    // tiny black province at low zoom eats into its already-small visible area
+    // and dilutes the "solid black" impression. Matching the border to the fill
+    // keeps the whole shape reading as one solid black region at any zoom level.
+    color: isNoAARProvince ? '#000000' : '#ffffff',
+    // "No AAR" (value === null) renders fully opaque so it reads as true black —
+    // at the normal 0.8 fill opacity, black blends toward gray against the
+    // basemap and gets confused with the darkest red band. Every other color
+    // (including the rare generic-no-data gray) keeps the normal opacity.
+    fillOpacity: isNoAARProvince ? 1 : 0.8
   };
 }
 
@@ -557,13 +617,21 @@ function getLguStyle(feature, scores, provinceMap = {}) {
   }
 
   const fillColor = getRiskColor(value);
+  const isNoAARLguStyle = value === null;
 
   return {
     fillColor: fillColor,
-    weight: 0.8,
+    // Most LGU polygons are small, and at whole-country zoom a "No AAR" one can
+    // be only a few screen pixels — a thin #333333 border eats into that tiny
+    // area and, combined with anti-aliasing, can make it read as gray rather
+    // than solid black. A slightly heavier, pure-black border keeps the whole
+    // shape looking like one solid black region even when it's tiny on screen.
+    weight: isNoAARLguStyle ? 1.2 : 0.8,
     opacity: 1,
-    color: '#333333',
-    fillOpacity: 0.75
+    color: isNoAARLguStyle ? '#000000' : '#333333',
+    // See the matching comment in getProvinceStyle(): force full opacity for
+    // "No AAR" so it reads as true black instead of blending toward gray.
+    fillOpacity: isNoAARLguStyle ? 1 : 0.75
   };
 }
 
@@ -573,10 +641,15 @@ function highlightFeature(e) {
   // Only apply hover effect if not selected
   if (state.selectedLayer === layer) return;
 
+  // Keep "No AAR" polygons fully opaque (true black) on hover too — see the
+  // matching comment in getProvinceStyle()/getLguStyle().
+  const isNoAAR = state.currentDataset === 'disallowances' &&
+                  getRatioField(layer.scoreData, state.currentYear) === null;
+
   layer.setStyle({
-    weight: 2,
-    color: '#666',
-    fillOpacity: 0.85
+    weight: isNoAAR ? 2.2 : 2,
+    color: isNoAAR ? '#000000' : '#666',
+    fillOpacity: isNoAAR ? 1 : 0.85
   });
 
   layer.bringToFront();
@@ -593,17 +666,22 @@ function resetHighlight(e, scores, isLgu = false) {
   // Don't reset if this is the selected layer
   if (state.selectedLayer === layer) return;
 
+  // Keep "No AAR" polygons fully opaque (true black) — see the matching
+  // comment in getProvinceStyle()/getLguStyle().
+  const isNoAAR = state.currentDataset === 'disallowances' &&
+                  getRatioField(layer.scoreData, state.currentYear) === null;
+
   if (isLgu) {
     layer.setStyle({
-      weight: 0.8,
-      color: '#333333',
-      fillOpacity: 0.75
+      weight: isNoAAR ? 1.2 : 0.8,
+      color: isNoAAR ? '#000000' : '#333333',
+      fillOpacity: isNoAAR ? 1 : 0.75
     });
   } else {
     layer.setStyle({
       weight: 1.5,
-      color: '#ffffff',
-      fillOpacity: 0.8
+      color: isNoAAR ? '#000000' : '#ffffff',
+      fillOpacity: isNoAAR ? 1 : 0.8
     });
   }
 
@@ -708,10 +786,11 @@ function createInfoControl() {
       const rt = state.currentRatioType;
       const perCapita = isPerCapitaMetric();
       const ncMetric = isNCMetric();
+      const nsMetric = isNSMetric();
 
       // Labels for current metric
-      const numeratorLabel = ncMetric ? 'Charges (NC)' : 'Disallowances (ND)';
-      const numeratorLabelShort = ncMetric ? 'NC' : 'ND';
+      const numeratorLabel = ncMetric ? 'Charges (NC)' : nsMetric ? 'Suspensions (NS)' : 'Disallowances (ND)';
+      const numeratorLabelShort = ncMetric ? 'NC' : nsMetric ? 'NS' : 'ND';
       let denominatorLabel = '';
       let metricLabel = '';
 
@@ -721,27 +800,25 @@ function createInfoControl() {
       } else if (rt === 'nc_local_sources') {
         denominatorLabel = 'Total Local Sources';
         metricLabel = 'NC / LOCAL SOURCES';
-      } else if (rt === 'nd_local_sources') {
-        denominatorLabel = 'Total Local Sources';
-        metricLabel = 'ND / LOCAL SOURCES';
       } else {
+        // nd_expenditures or ns_expenditures
         denominatorLabel = 'Total Operating Expenditures';
-        metricLabel = 'ND / OPERATING EXPENDITURES';
+        metricLabel = `${numeratorLabelShort} / OPERATING EXPENDITURES`;
       }
 
       // Get the metric value using getRatioField
       const metricValue = getRatioField(displayScoreData, state.currentYear);
 
       // Get numerator/denominator amounts for display
-      const numeratorYears = ncMetric ? (displayScoreData.years_nc || {}) : (displayScoreData.years || {});
-      const totalNumerator = ncMetric ? (displayScoreData.totalCharges || 0) : (displayScoreData.totalDisallowances || 0);
+      const numeratorYears = ncMetric ? (displayScoreData.years_nc || {}) : nsMetric ? (displayScoreData.years_ns || {}) : (displayScoreData.years || {});
+      const totalNumerator = ncMetric ? (displayScoreData.totalCharges || 0) : nsMetric ? (displayScoreData.totalSuspensions || 0) : (displayScoreData.totalDisallowances || 0);
 
       let totalDenominator = 0;
       let denomByYear = {};
       if (perCapita) {
         totalDenominator = displayScoreData.population || 0;
         denomByYear = displayScoreData.population_by_year || {};
-      } else if (rt === 'nc_local_sources' || rt === 'nd_local_sources') {
+      } else if (rt === 'nc_local_sources') {
         totalDenominator = displayScoreData.total_local_sources || 0;
         denomByYear = displayScoreData.local_sources_by_year || {};
       } else {
@@ -756,27 +833,88 @@ function createInfoControl() {
         yearDenominator = denomByYear[state.currentYear] || 0;
       }
 
-      // Check if we have valid data
-      const hasValidData = totalNumerator > 0 || totalDenominator > 0;
+      // metricValue is the single source of truth for which of the three states
+      // we're in — see getRatioField()'s doc comment: null = No AAR, undefined =
+      // generic no-data, a number (incl. 0) = a real AAR-derived figure.
+      const isNoAAR = metricValue === null;
+      const isNoData = metricValue === undefined;
 
       // Check if this is an LGU/Municipality
       const isLGU = displayScoreData?.province &&
                     displayScoreData.province !== 'None' &&
                     displayScoreData.name !== displayScoreData.province;
 
-      const level = displayScoreData?.riskLevel || getRiskLevel(perCapita ? 0 : metricValue);
+      const level = isNoAAR ? 'no_aar' : (displayScoreData?.riskLevel || getRiskLevel(metricValue));
+      const periodLabel = (state.currentYear !== 'average' && state.currentYear !== 'sum') ? state.currentYear : 'this period';
 
       // Determine province name for COA links
       const coaProvinceName = isLGU ? (displayScoreData.province || '') : (displayScoreData.name || name);
       const coaLinksHTML = buildCoaLinksHTML(coaProvinceName, isLGU);
 
-      if (!hasValidData || totalNumerator === 0) {
-        // No data available
+      if (isNoAAR) {
+        // No Annual Audit Report — the worst signal, deliberately distinct from a
+        // confirmed ₱0 (renders below, palest shade). In Sum/Average view this also
+        // covers "insufficient coverage" ("3 strikes": 1-4 of 7 years have a figure,
+        // but 3 or more don't) — see MIN_YEARS_WITH_AAR_FOR_AGGREGATE in getRatioField().
+        const isAggregateView = (state.currentYear === 'sum' || state.currentYear === 'average');
+        const yearsWithAAR = Object.keys(numeratorYears).length;
+        const badgeLabel = isAggregateView ? 'No AAR (&ge;3x)' : 'No AAR';
+        const nameHeader = `<h4>${name}${isLGU ? ` <span style="font-size: 0.8em; color: #666;">(${displayScoreData.province})</span>` : ''}</h4>`;
+
+        if (yearsWithAAR > 0) {
+          // Insufficient coverage: some years DO have a figure, but not enough of
+          // them to trust an average — show which years, rather than hiding them.
+          const allYears = [...new Set([...Object.keys(numeratorYears), ...Object.keys(denomByYear)])].sort();
+          const fmtPesoShort = (v) => `₱${Math.round(v).toLocaleString('en-PH')}`;
+          let coverageRows = '';
+          for (const yr of allYears) {
+            coverageRows += (yr in numeratorYears)
+              ? `<tr><td style="padding: 1px 4px;">${yr}</td><td style="padding: 1px 4px; text-align: right;">${fmtPesoShort(numeratorYears[yr])}</td></tr>`
+              : `<tr><td style="padding: 1px 4px;">${yr}</td><td style="padding: 1px 4px; text-align: right; font-weight: bold;">No AAR</td></tr>`;
+          }
+          this._div.innerHTML = `
+            ${nameHeader}
+            <div class="info-risk no_aar">${badgeLabel}</div>
+            <div style="padding: 12px 10px; text-align: center; color: #fff; background: #000; border-radius: 6px; margin-bottom: 8px;">
+              <div style="font-size: 1.05em; margin-bottom: 6px;">Insufficient Audit Coverage</div>
+              <div style="font-size: 0.82em; opacity: 0.85;">Only ${yearsWithAAR} of 7 years (2016-2022) have a confirmed ${numeratorLabel} figure —
+                3 or more years are missing a report, so this is flagged rather than averaged.</div>
+            </div>
+            <div class="info-details">
+              <table style="width: 100%; font-size: 0.82em; border-collapse: collapse;">
+                <thead><tr style="border-bottom: 1px solid #e0e0e0;">
+                  <th style="text-align: left; padding: 1px 4px;">Year</th>
+                  <th style="text-align: right; padding: 1px 4px;">${numeratorLabelShort}</th>
+                </tr></thead>
+                <tbody>${coverageRows}</tbody>
+              </table>
+              ${coaLinksHTML}
+            </div>
+          `;
+        } else {
+          // True "never" — no figure determined for this metric in any relevant year.
+          const messageDetail = isAggregateView
+            ? `No ${numeratorLabel} figure was ever determined for any of the 7 years (2016-2022).`
+            : `No ${numeratorLabel} figure could be determined for ${periodLabel}.`;
+          this._div.innerHTML = `
+            ${nameHeader}
+            <div class="info-risk no_aar">${badgeLabel}</div>
+            <div style="padding: 16px 10px; text-align: center; color: #fff; background: #000; border-radius: 6px;">
+              <div style="font-size: 1.1em; margin-bottom: 6px;">No Audit Report Found</div>
+              <div style="font-size: 0.85em; opacity: 0.85;">${messageDetail}
+                This is different from a confirmed ₱0 — treat a missing report as the worse signal.</div>
+            </div>
+            ${coaLinksHTML}
+          `;
+        }
+      } else if (isNoData) {
+        // Generic no-data: a real record exists but we can't compute this specific
+        // view (e.g. missing expenditure/local-sources figure to normalize by).
         this._div.innerHTML = `
           <h4>${name}${isLGU ? ` <span style="font-size: 0.8em; color: #666;">(${displayScoreData.province})</span>` : ''}</h4>
           <div style="padding: 20px 0; text-align: center; color: #999;">
             <div style="font-size: 1.2em; margin-bottom: 10px;">No Data Available</div>
-            <div style="font-size: 0.9em;">No ${numeratorLabel.toLowerCase()} data for ${(state.currentYear !== 'average' && state.currentYear !== 'sum') ? state.currentYear : 'this period'}</div>
+            <div style="font-size: 0.9em;">No ${numeratorLabel.toLowerCase()} data for ${periodLabel}</div>
           </div>
           ${coaLinksHTML}
         `;
@@ -805,18 +943,30 @@ function createInfoControl() {
         if (state.currentYear === 'average') {
           // Build per-year breakdown table
           const perCapByYear = (rt === 'nd_per_capita') ? (displayScoreData.nd_per_capita_by_year || {}) :
-                               (rt === 'nc_per_capita') ? (displayScoreData.nc_per_capita_by_year || {}) : null;
+                               (rt === 'nc_per_capita') ? (displayScoreData.nc_per_capita_by_year || {}) :
+                               (rt === 'ns_per_capita') ? (displayScoreData.ns_per_capita_by_year || {}) : null;
 
           const allYears = [...new Set([...Object.keys(numeratorYears), ...Object.keys(denomByYear)])].sort();
 
           let yearRows = '';
           let valueCount = 0;
           for (const yr of allYears) {
+            // A year absent from numeratorYears means no AAR/SASDC figure was ever
+            // determined for it — show "No AAR" instead of fabricating a 0/dash,
+            // and don't count it toward the average (matches the Python true-average,
+            // which excludes these years from its mean rather than treating them as 0).
+            if (!(yr in numeratorYears)) {
+              yearRows += `<tr>
+                <td style="padding: 1px 4px;">${yr}</td>
+                <td style="padding: 1px 4px; text-align: right; font-weight: bold; color: #fff; background: #000;">No AAR</td>
+              </tr>`;
+              continue;
+            }
             const n = numeratorYears[yr] || 0;
             const d = denomByYear[yr] || 0;
             let yrValue;
             if (perCapita && perCapByYear) {
-              yrValue = perCapByYear[yr] || null;
+              yrValue = (yr in perCapByYear) ? perCapByYear[yr] : null;
               if (yrValue !== null) valueCount++;
               yearRows += `<tr>
                 <td style="padding: 1px 4px;">${yr}</td>
@@ -904,7 +1054,12 @@ function createInfoControl() {
             <div style="margin-top: 6px; padding-top: 6px; border-top: 1px solid #e0e0e0; font-size: 0.8em; color: #666;">
               ${!isLGU && displayScoreData.lguCount ? `<span><strong>LGUs:</strong> ${displayScoreData.lguCount}</span>` : ''}
               ${displayScoreData.observationCount ? ` | <span><strong>Obs:</strong> ${displayScoreData.observationCount.toLocaleString()}</span>` : ''}
-              ${displayScoreData.yearsWithData ? ` | <span><strong>Years:</strong> ${displayScoreData.yearsWithData}</span>` : ''}
+              ${(() => {
+                // "Years" should reflect years-with-an-AAR-figure for the metric
+                // actually being viewed (ND/NC/NS), not always ND's count.
+                const yearsForMetric = ncMetric ? displayScoreData.ncYearsWithData : nsMetric ? displayScoreData.nsYearsWithData : displayScoreData.yearsWithData;
+                return yearsForMetric ? ` | <span><strong>Years:</strong> ${yearsForMetric}/7</span>` : '';
+              })()}
               ${displayScoreData.population ? ` | <span><strong>Pop:</strong> ${fmtNum(Math.round(displayScoreData.population))}</span>` : ''}
             </div>
             ${coaLinksHTML}
@@ -1095,11 +1250,14 @@ async function renderProvinces() {
 
           // Select new layer
           state.selectedLayer = clickedLayer;
+          // Keep "No AAR" polygons fully opaque (true black) even when selected.
+          const isNoAARProv = state.currentDataset === 'disallowances' &&
+                              getRatioField(clickedLayer.scoreData, state.currentYear) === null;
           clickedLayer.setStyle({
             weight: 4,
             color: '#ffff00',  // Bright yellow border
             dashArray: '',
-            fillOpacity: 0.95
+            fillOpacity: isNoAARProv ? 1 : 0.95
           });
 
           if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
@@ -1322,11 +1480,14 @@ async function renderLgus() {
 
           // Select new layer
           state.selectedLayer = clickedLayer;
+          // Keep "No AAR" polygons fully opaque (true black) even when selected.
+          const isNoAARLgu = state.currentDataset === 'disallowances' &&
+                             getRatioField(clickedLayer.scoreData, state.currentYear) === null;
           clickedLayer.setStyle({
             weight: 3,
             color: '#ffff00',  // Bright yellow border
             dashArray: '',
-            fillOpacity: 0.95
+            fillOpacity: isNoAARLgu ? 1 : 0.95
           });
 
           if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
@@ -1503,6 +1664,11 @@ async function updateMap() {
 async function updateYear(year) {
   state.currentYear = year;
 
+  // The "No AAR" legend label depends on whether we're in Sum/Average (where the
+  // "3 strikes" missing-years threshold applies) or a specific year (plain yes/no)
+  // — see updateLegend(). Must re-run on every year change, not just metric change.
+  updateLegend();
+
   // Clear caches when year changes
   state.provinceScores = {};
   state.lguScores = {};
@@ -1527,12 +1693,26 @@ function updateLegend() {
 
   const perCapita = isPerCapitaMetric();
   const ncMetric = isNCMetric();
-  const shortLabel = ncMetric ? 'NC' : 'ND';
+  const nsMetric = isNSMetric();
+  const shortLabel = ncMetric ? 'NC' : nsMetric ? 'NS' : 'ND';
+
+  // No AAR is a worse signal than any ratio/per-capita figure on the scale below
+  // it, so its swatch sits above the darkest red. In Sum/Average view it also
+  // covers "insufficient coverage" — the "3 strikes" rule in
+  // MIN_YEARS_WITH_AAR_FOR_AGGREGATE — so the label there is qualified "(>=3x)";
+  // a specific single year is a plain yes/no.
+  // The generic gray "No Data" swatch (dataset/geo mismatch) is intentionally not
+  // listed here — it's rare enough that surfacing it in the legend added more
+  // confusion than clarity once "No AAR" existed to explain the common case.
+  const isAggregateView = (state.currentYear === 'sum' || state.currentYear === 'average');
+  const noAarLabel = isAggregateView ? 'No AAR (&ge;3x)' : 'No AAR';
+  const noAarRow = `<div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #000000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>${noAarLabel}</div>`;
 
   if (perCapita) {
     legendEl.innerHTML = `
       <h4 style="font-size: 0.8rem; margin: 0 0 0.5rem 0; color: #666;">${shortLabel} Per Capita (PHP/person)</h4>
       <div style="font-size: 10px; color: #333; line-height: 1.1;">
+        ${noAarRow}
         <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #2b0000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>10,000+</div>
         <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #5a0000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>1,000-10,000</div>
         <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #7f0000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>200-1,000</div>
@@ -1542,15 +1722,14 @@ function updateLegend() {
         <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #ef5350; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>1-5</div>
         <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #f9a0a0; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>0.1-1</div>
         <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #feecec; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>&lt;0.1</div>
-        <div style="display: flex; align-items: center; margin: 3px 0 0;"><span style="width: 16px; height: 10px; background: #d3d3d3; margin-right: 5px; border-radius: 1px; border: 1px solid rgba(0,0,0,0.1); flex-shrink: 0;"></span>No Data</div>
       </div>
     `;
   } else {
-    const denomLabel = (state.currentRatioType === 'nd_local_sources' || state.currentRatioType === 'nc_local_sources')
-      ? 'Local Sources' : 'Op. Expenditures';
+    const denomLabel = (state.currentRatioType === 'nc_local_sources') ? 'Local Sources' : 'Op. Expenditures';
     legendEl.innerHTML = `
       <h4 style="font-size: 0.8rem; margin: 0 0 0.5rem 0; color: #666;">${shortLabel} / ${denomLabel}</h4>
       <div style="font-size: 10px; color: #333; line-height: 1.1;">
+        ${noAarRow}
         <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #2b0000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>20%+</div>
         <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #5a0000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>14-20%</div>
         <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #7f0000; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>10-14%</div>
@@ -1564,7 +1743,6 @@ function updateLegend() {
         <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #f57a7a; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>1-1.5%</div>
         <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #fbb4b4; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>0.4-1%</div>
         <div style="display: flex; align-items: center; margin: 1px 0;"><span style="width: 16px; height: 10px; background: #feecec; margin-right: 5px; border-radius: 1px; flex-shrink: 0;"></span>&lt;0.4%</div>
-        <div style="display: flex; align-items: center; margin: 3px 0 0;"><span style="width: 16px; height: 10px; background: #d3d3d3; margin-right: 5px; border-radius: 1px; border: 1px solid rgba(0,0,0,0.1); flex-shrink: 0;"></span>No Data</div>
       </div>
     `;
   }
