@@ -1893,7 +1893,7 @@ async function initMap() {
     });
 
     // Add light tile layer as background
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png?key=cb1_48cj_1_c19bb1004a74a29d0e535ecf', {
       attribution: '&copy; OpenStreetMap, &copy; CARTO',
       subdomains: 'abcd',
       maxZoom: 12
