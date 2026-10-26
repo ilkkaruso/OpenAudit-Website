@@ -251,183 +251,41 @@
   <div class="container">
     <div class="hero-section">
       <h1>OpenAudit Philippines</h1>
-      <div class="subtitle">Strengthening Governance Through AI-Processed Audit Data</div>
+      <div class="subtitle">Strengthening Governance Research and Fiscal Accountability with AI-processed Audit Reports</div>
       <p class="lead">
-        OpenAudit is an academe-civil society initiative that transforms the Philippines' extensive collection of
-        Commission on Audit (COA) reports—over 30,000 documents since 1998—into searchable, analyzable evidence
-        for governance research and accountability advocacy. By processing these previously inaccessible audit
-        reports using advanced computational methods, we reveal patterns of fiscal management across all
+        OpenAudit is an academe-civil society initiative that brings new AI and deep learning tools to advance leading-edge governance research along with reform advocacy to strengthen accountability, effectiveness, and civic engagement in the use of public funds. 
+        Beginning with the Philippines, where the national Commission on Audit (COA) has published more than 30,000 annual audit reports since 1998—possibly the longest and most comprehensive series of annual audit reports in the developing world— OpenAudit aims to transform these documents into a searchable and analyzable public resource. By processing these previously inaccessible audit
+        reports using agentic AI and advanced computational methods, we reveal patterns of fiscal management across all
         Philippine Local Government Units through normalized disallowance ratios.
       </p>
       <p class="lead">
-        This platform calculates disallowance ratios—the percentage of questioned expenditures relative to
-        total operating income—providing citizens, researchers, journalists, and policymakers with a clear,
-        comparable metric for understanding how public funds are managed across LGUs of vastly different
-        sizes and budgets.
+        This platform provides an beta version of what will be a living public-good infrastructure for evidence-based research and policy reform advocacy that can be expanded to other
+developing democracies with publicly-available and digitized audit reports. We present novel "red flag" indicators of fiscal anomalies based on judgements by auditors made in these reports concerning the (a) disallowances (disapproval in audit of a transaction, either in whole or in part); (b) suspensions (a temporary disallowance, entailing transactions or accounts which appear illegal/improper/irregular unless satisfactorily explained or justified); and (c) charges (irregularities concerning non-collection, undercollection, non-remittance, or underremittance of collections). We provide data for these over the period 2016-2022 in ratio format as well as in terms of per-capita levels.
       </p>
     </div>
 
     <div class="card">
-      <h2>The Disallowance Ratio: A Normalized Metric</h2>
-
+      <h2>Data Sources and Methodology </h2>
       <p>
-        Raw disallowance amounts fail to capture the true scale of fiscal irregularities. A ₱10 million
-        disallowance represents vastly different levels of concern for a small municipality versus a highly
-        urbanized city. Our solution normalizes these values to enable meaningful comparisons.
-      </p>
-
-      <div class="metric-box">
-        <strong>The Calculation:</strong>
-        <div class="formula">
-          Disallowance Ratio = (Total Disallowances ÷ Total Operating Income) × 100
-        </div>
-        <p style="margin-top: 1rem; font-size: 0.95rem;">
-          This ratio expresses disallowances as a percentage of an LGU's total operating income,
-          revealing the proportion of public resources subject to audit exceptions.
-        </p>
-      </div>
-
-      <h3>Data Sources and Methodology</h3>
-      <p>
-        We combine two authoritative government datasets:
+        We combine three authoritative government datasets:
       </p>
       <ul>
         <li><strong>COA Annual Audit Reports (2016-2022):</strong> Comprehensive disallowance records documenting irregular, unnecessary, excessive, or extravagant expenditures across all LGUs</li>
         <li><strong>Department of Finance Statement of Receipts and Expenditures (SRE):</strong> Official financial statements reporting Total Current Operating Income for each LGU</li>
+        <li><strong>Philippine Statistics Authority: Census of Population and Housing:</strong> City/Municipal/Provincial population counts for 2015/2020 and interpolations thereof </li>
       </ul>
 
       <div class="metric-box">
-        <strong>Total Current Operating Income Definition:</strong>
+        <strong>Indicators:</strong>
         <p style="margin-top: 0.5rem;">
-          As defined in the SRE reports, Total Current Operating Income represents the sum of all revenues
-          available to an LGU for its operations during a fiscal year. This includes:
+          For each LGU, we calculate several metrics both annually and in aggregate over the period 2016-2022:
         </p>
         <ul style="margin: 0.5rem 0 0.5rem 1.5rem; font-size: 0.95rem;">
-          <li>Tax revenues (real property tax, business taxes)</li>
-          <li>Non-tax revenues (regulatory fees, service income)</li>
-          <li>Internal Revenue Allotment (IRA) from national government</li>
-          <li>Other shares from national tax collections</li>
-          <li>Grants and donations</li>
+          <li>Notices of Disallowances/Suspension/Charges per capita </li>
+          <li>Notices of Disallowances/Suspensions as a ratio of Total Operating Expenditures </li>
+          <li>Notices of Charges as a ratio of Total Locally-Generated Revenue </li>
         </ul>
-        <p style="font-size: 0.95rem;">
-          This comprehensive income measure provides the most accurate denominator for calculating
-          disallowance ratios, as it represents the full fiscal capacity of each LGU.
-        </p>
-      </div>
-
-      <p>
-        For each LGU, we calculate the average operating income across available years (2016-2022) and compare it against
-        total disallowances for the same period. This multi-year approach accounts for annual variations and provides
-        a stable baseline for comparison across LGUs of vastly different sizes and fiscal capacities.
-      </p>
-
-      <div class="highlight-box">
-        <strong>Complete Coverage:</strong> Our enhanced dataset now includes Total Operating Income for
-        1,176 municipalities and cities, enabling true ratio calculations for 822 LGUs with recorded
-        disallowances—a significant improvement from previous estimates.
-      </div>
-    </div>
-
-    <div class="card">
-      <h2>Understanding the Heat Map</h2>
-
-      <p>
-        The color gradient from light yellow to dark red immediately reveals which areas have concerning
-        levels of disallowances relative to their fiscal capacity. This visual approach transforms thousands
-        of audit reports into actionable intelligence.
-      </p>
-
-      <div class="ratio-levels">
-        <div class="ratio-level">
-          <div class="ratio-color" style="background: #67000d;"></div>
-          <div class="ratio-info">
-            <div class="ratio-name">Critical</div>
-            <div class="ratio-range">≥ 5% of operating income</div>
-          </div>
-        </div>
-        <div class="ratio-level">
-          <div class="ratio-color" style="background: #a50f15;"></div>
-          <div class="ratio-info">
-            <div class="ratio-name">Very High</div>
-            <div class="ratio-range">2-5% of operating income</div>
-          </div>
-        </div>
-        <div class="ratio-level">
-          <div class="ratio-color" style="background: #cb181d;"></div>
-          <div class="ratio-info">
-            <div class="ratio-name">High</div>
-            <div class="ratio-range">1-2% of operating income</div>
-          </div>
-        </div>
-        <div class="ratio-level">
-          <div class="ratio-color" style="background: #ef3b2c;"></div>
-          <div class="ratio-info">
-            <div class="ratio-name">Elevated</div>
-            <div class="ratio-range">0.5-1% of operating income</div>
-          </div>
-        </div>
-        <div class="ratio-level">
-          <div class="ratio-color" style="background: #fb6a4a;"></div>
-          <div class="ratio-info">
-            <div class="ratio-name">Moderate</div>
-            <div class="ratio-range">0.1-0.5% of operating income</div>
-          </div>
-        </div>
-        <div class="ratio-level">
-          <div class="ratio-color" style="background: #fc9272;"></div>
-          <div class="ratio-info">
-            <div class="ratio-name">Low</div>
-            <div class="ratio-range">< 0.1% of operating income</div>
-          </div>
-        </div>
-        <div class="ratio-level">
-          <div class="ratio-color" style="background: #d3d3d3;"></div>
-          <div class="ratio-info">
-            <div class="ratio-name">Clean/No Data</div>
-            <div class="ratio-range">No disallowances or data unavailable</div>
-          </div>
-        </div>
-      </div>
-
-      <p>
-        Each category represents a different level of fiscal concern. LGUs with ratios above 2% warrant
-        particular attention, as this suggests systemic issues with financial management or compliance.
-      </p>
-    </div>
-
-    <div class="card">
-      <h2>Transparency and Accountability</h2>
-
-      <h3>What Disallowances Reveal</h3>
-      <p>
-        Disallowances occur when government expenditures violate laws, rules, or regulations. Patterns of
-        high disallowance ratios often indicate:
-      </p>
-      <ul>
-        <li>Weak internal controls and inadequate financial management systems</li>
-        <li>Non-compliance with procurement laws and government accounting standards</li>
-        <li>Irregular, unnecessary, excessive, or extravagant expenditures</li>
-        <li>Transactions lacking proper documentation or authorization</li>
-        <li>Potential corruption or misuse of public funds</li>
-      </ul>
-
-      <h3>Empowering Citizens Through Data</h3>
-      <p>
-        OpenAudit democratizes access to public financial data by:
-      </p>
-      <ul>
-        <li><strong>Simplifying Complexity:</strong> Converting technical audit reports into visual, intuitive metrics</li>
-        <li><strong>Enabling Comparisons:</strong> Normalizing data across LGUs of different sizes and budgets</li>
-        <li><strong>Tracking Progress:</strong> Showing changes over multiple years (2016-2022)</li>
-        <li><strong>Promoting Accountability:</strong> Making fiscal performance transparent and accessible</li>
-        <li><strong>Supporting Research:</strong> Providing data for journalists, academics, and civil society</li>
-      </ul>
-
-      <div class="highlight-box">
-        <strong>Informed Citizenship:</strong> By making this data accessible, we enable citizens to ask
-        informed questions about public spending, hold officials accountable for fiscal management, and
-        make evidence-based decisions during elections.
-      </div>
+          
     </div>
 
     <div class="card">
@@ -435,12 +293,16 @@
 
       <div class="stats-grid">
         <div class="stat-card">
-          <div class="stat-number">87</div>
+          <div class="stat-number">81</div>
           <div class="stat-label">Provinces Mapped</div>
         </div>
         <div class="stat-card">
-          <div class="stat-number">1,700+</div>
-          <div class="stat-label">Cities & Municipalities</div>
+          <div class="stat-number">146+</div>
+          <div class="stat-label">Cities</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-number">1,484+</div>
+          <div class="stat-label">Municipalities</div>
         </div>
         <div class="stat-card">
           <div class="stat-number">7</div>
@@ -474,9 +336,8 @@
         OpenAudit is built on principles of transparency and reproducibility:
       </p>
       <ul>
-        <li><strong>Data Processing:</strong> Python scripts normalize and match COA disallowances with DOF income data</li>
+        <li><strong>Data Processing:</strong> Python scripts normalize and match COA disallowances/suspensions/charges with BLGF expenditure and PSA population data</li>
         <li><strong>Visualization:</strong> Interactive Leaflet.js maps with GeoJSON boundaries for all LGUs</li>
-        <li><strong>Real-time Calculation:</strong> Ratios computed dynamically, showing both numerator and denominator</li>
         <li><strong>Open Access:</strong> All code and processed datasets available for verification and reuse</li>
       </ul>
 
@@ -498,47 +359,14 @@
     </div>
 
     <div class="card">
-      <h2>Research Initiative and Impact</h2>
+      <h2>Research Impact</h2>
 
       <p>
-        OpenAudit builds on a foundation of academic research that recently earned the <strong>MIT Open Data Prize</strong>
+        OpenAudit has been honored <a href="https://libraries.mit.edu/opendata/open-data-mit-home/mit-prize/2023-mit-prize-for-open-data/">MIT Open Data Prize</a>
         in recognition of its contribution to making public sector information usable for research and government
         accountability. This initiative represents a collaboration between academic institutions and civil society
         organizations working to strengthen fiscal transparency and accountability in the Philippines.
       </p>
-
-      <h3>Transforming Audit Reports into Evidence</h3>
-      <p>
-        The Commission on Audit has published over 30,000 annual audit reports since 1998—possibly the longest
-        and most comprehensive series of audit reports in the developing world. Despite their immense value for
-        understanding governance, corruption, and state capacity, these reports have remained largely inaccessible
-        to researchers and citizens due to their unstructured, text-heavy format.
-      </p>
-      <p>
-        OpenAudit addresses this gap by using advanced natural language processing and computational methods to
-        extract, structure, and aggregate data from these reports. The disallowance ratio metric we present here
-        represents just one dimension of this broader effort to transform audit documents into actionable evidence
-        for improving governance.
-      </p>
-
-      <h3>Beyond Individual Metrics</h3>
-      <p>
-        While this visualization focuses on disallowance ratios, the broader OpenAudit initiative aims to capture
-        multiple dimensions of fiscal governance, including:
-      </p>
-      <ul>
-        <li>Patterns of agency-level compliance with audit recommendations</li>
-        <li>Reform behaviors and institutional responses to audit findings</li>
-        <li>Indicators of fiscal capacity and management quality</li>
-        <li>Temporal trends in public financial management across different levels of government</li>
-      </ul>
-
-      <p>
-        By making this data accessible and analyzable, OpenAudit enables a new generation of research on
-        corruption, accountability, and state capacity, while supporting reformers and advocates in translating
-        this research into actionable initiatives for improving governance.
-      </p>
-    </div>
 
     <div class="footer">
       <p>
